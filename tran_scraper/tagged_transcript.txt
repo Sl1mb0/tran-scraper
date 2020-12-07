@@ -1,0 +1,93 @@
+ OK, was, they picked up in a vehicle? //yes/no
+ OK, were they picked up in a vehicle? //yes/no
+ Can you hear me now? //yes/no
+ OK, were you, were they picked up in a vehicle? //yes/no
+ OK, was it, and they don't know where the other friend is at? //declarative
+ 
+ OK, so we're missing two people? //declarative
+ One? //declarative
+ 
+ OK, did they see the individual at all? //yes/no
+ 
+ He had a mask on? //declarative
+ The other dispatcher right now is dispatching the squad to where you're at right now, OK? //imperative
+
+ Um, what is your name again sir? //wh-
+ OK, what is your home, home phone number Merlyn? //wh-
+
+ OK, and that's Dr. Jerry Wetterling? //declarative
+ 
+ (Talks to another dispatcher.) How old is the individual that has not returned? //wh-
+ 
+ OK, Jacob it's Jacob right? //imperative
+ 
+ Wetterling. OK, what was Jacob last seen wearing? //wh-
+
+&quot;Police Department&quot; written on back? //declarative
+ 
+ Where was the last time they seen Jacob? //wh-
+ Where were they at about? //wh-
+ 
+ OK, give me an idea where that is, you know where Dr. Cotton's office is? //declarative
+ (Talks to officers on police radio.)  Was Jacob riding a bike? //yes/no
+ (Directs officers via radio.) Can you, Merlyn? //yes/no
+ 
+ Give me some information on this guy with the mask, I want color, anything those kids can remember? //imperative
+
+ Yeah, I, Wetterlings, do they have their house number on their? //yes/no
+ 
+ Trevor? //declarative
+ This, you're talking to the Sheriff's Office OK? //imperative (they are making sure Trevor understands who is on the other end of the line)
+
+ I want you to give me anything you, you can recall about this male party that approached you guys, OK? //imperative
+ 
+ What, he was large? //yes/no
+ 
+ Do you know what color it was? //yes/no
+ A black mask, do you know what color jacket he had on? //yes/no
+ It was, OK, did you notice any jeans or anything? //yes/no (use of did implies yes/no, but 'or anything' indicates officer is curious if there was anything the witness noticed about the suspect)
+ 
+ Trevor, do you know what happened to your friend's bicycle? //yes/no
+ Nobody knows what happened to that? //declarative
+ OK, you guys ran off into the woods, but nobody knows what happened to Jacob right? //yes/no
+ 
+ OK, can you think of anything else that I have? //yes/no 
+ Did the guy have a deep voice? //yes/no
+ 
+ Anything like that that you can remember? //yes/no
+ OK, can you tell me how big, compared to your dad or somebody, how big would you say this guy was? //yes/no
+ 
+ OK, same height? //declarative
+ Same weight? //declarative
+ 
+ That type of thing. OK, and you remember, and he had on a black mask and a black jacket, do you know if the jacket was leather or nylon? //yes/no
+ 
+ Did it have anything written on it? //yes/no
+ 
+ OK, can I talk to Merlyn again real quick? //yes/no
+ 
+ Merlyn, how big are you? //imperative
+ 
+ I'm keeping you guys on hold, I'm trying to talk to the officers at the same time, OK? //tag (changes from confirming info to reassuring witness)
+ So hang on just a second. (Talks to officers via police radio.) Sir, your number is Adam John right? //yes/no
+ AJ? Your fire number is AJ 80 right? //imperative
+ 
+ Where is the woods at? //wh-
+ 
+ That the kids ran into? //declarative
+ 
+ OK, I'm hoping if, if Jacob would have ran into the woods or something, if he would have gotten lost or something. Did they know if he actually had contact with Jacob or anything like that? //yes/no
+ Did they see any weapons at all or anything like that? //yes/no
+ 
+ Guns? Knives? //alt
+ 
+ (Talks to officers via police radio.)  Can I talk to Trevor again? //yes/no
+ Trevor, did you see the gun the individual had? //yes/no
+ OK, did he threaten you? OK, do you guys see a squad cars outside the residence? //yes/no
+ There should be a squad, can I talk to Merlyn again? //yes/no
+ OK the far, can you guys open up the door and yell at them? //yes/no
+ OK, I'll tell them to go, are you north or which direction are you from where the squad is? //yes/no
+ 
+ OK, I want to, Merlyn? //declarative (function of the remaining questions changes from collecting information to reassuring the witness the police are on their way.
+ OK, he's going to finish up the call from that end then, OK? //imperative
+ What we're more than likely will be coming out with some dogs and stuff OK? //imperative
