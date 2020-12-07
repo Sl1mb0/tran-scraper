@@ -5,7 +5,8 @@
 # It then removes all lines that do not contain a question from dispatch.
 
 # get the webpage, store the output in transcript.txt
-curl $1 > ~/Desktop/LNG_334/data_analysis/transcript.txt
+touch transcript.txt
+curl $1 > ~/transcript.txt
 
 # remove all the gunk
 sed -i '' '1,141d' ./transcript.txt
