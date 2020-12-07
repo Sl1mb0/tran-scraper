@@ -4,7 +4,7 @@ Linguistics project to analyze question type & frequency using a combination of 
 
 Additional functionality could include:
 
-- Passing arguments to the script, so that any other transcripts located on web pages may be scraped and analyzed.
+- Passing URLs as arguments to the script, so that any other transcripts located on web pages may be scraped and analyzed.
 
 - Implement lexical analysis to more efficiently compute what question-type a specific question is.
 
