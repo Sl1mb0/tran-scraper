@@ -5,7 +5,7 @@ Linguistics project to analyze question type & frequency in transcripts located 
 More specifically, the script accepts two arguments. 
 
 $1 = 'URL'
-\n
+
 $2 = 'match string'
   
 It scrapes the web page located at the addres of the URL, and removes gunky html text.
