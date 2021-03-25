@@ -1,4 +1,4 @@
-# tran_scraper
+# tran-scraper
 
 Linguistics project to analyze question type & frequency in transcripts located on web pages using a combination of BASH and VIM scripts.
 
