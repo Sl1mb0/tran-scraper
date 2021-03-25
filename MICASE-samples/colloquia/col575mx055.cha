@@ -1,0 +1,3506 @@
+@UTF8
+@PID:	11312/a-00010119-1
+@Begin
+@Languages:	eng
+@Participants:	S1 First_Introducer Speaker, S2 Second_Introducer Speaker,
+	S3 Award_Recipient Speaker, SS Audience_Member Audience, SUF
+	Audience_Member Audience, SUM Audience_Member Audience
+@ID:	eng|MICASE|S1|20;|female|NS||Speaker|JU||
+@ID:	eng|MICASE|S2|60;|male|NS||Speaker|SF||
+@ID:	eng|MICASE|S3|36;|female|NS||Speaker|JF||
+@ID:	eng|MICASE|SS|||NS||Audience|UN||
+@ID:	eng|MICASE|SUF||female|NS||Audience|UN||
+@ID:	eng|MICASE|SUM||male|NS||Audience|UN||
+@Media:	col575mx055, audio, unlinked
+@Date:	24-MAR-1999
+@Situation:	Rackham Auditorium
+*S1:	good evening and thank you for joining us .
+%mor:	adj|good n|evening coord|and v|thank pro:per|you prep|for
+	n:gerund|join-PRESP pro:obj|us .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|4|OBJ 6|4|JCT 7|6|POBJ 8|7|OBJ
+	9|2|PUNCT
+*S1:	my name is Stephanie Lovinger (.) and I am the chair of SHOUT .
+%mor:	det:poss|my n|name cop|be&3S n:prop|Stephanie n:prop|Lovinger
+	coord|and pro:sub|I cop|be&1S det:art|the n|chair prep|of
+	n:prop|SHOUT .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|NAME 5|3|PRED 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|10|DET 10|8|PRED 11|10|NJCT 12|11|POBJ 13|3|PUNCT
+*S1:	on behalf of the Students Honoring Outstanding University Teaching
+	(.) it is &g with great pleasure that I welcome you here tonight (.)
+	to present the nineteen ninety nine Golden Apple Award .
+%mor:	prep|on n|behalf prep|of det:art|the n:prop|Students
+	n:prop|Honoring n:prop|Outstanding n:prop|University n:prop|Teaching
+	pro:per|it cop|be&3S prep|with adj|great n|pleasure pro:rel|that
+	pro:sub|I v|welcome pro:per|you adv|here adv:tem|tonight prep|to
+	adv|present det:art|the det:num|nineteen det:num|ninety det:num|nine
+	n:prop|Golden n:prop|Apple n:prop|Award .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|8|NAME 7|8|NAME
+	8|9|NAME 9|1|POBJ 10|11|SUBJ 11|9|COMP 12|11|JCT 13|14|MOD 14|12|POBJ
+	15|17|LINK 16|17|SUBJ 17|14|CMOD 18|17|OBJ 19|20|JCT 20|17|JCT 21|17|JCT
+	22|26|JCT 23|24|DET 24|26|QUANT 25|26|QUANT 26|27|QUANT 27|29|NAME 28|29|NAME
+	29|21|POBJ 30|1|PUNCT
+*S1:	the concept of the Golden Apple Award began nine years ago (.) and
+	was inspired by &ni [?] Rabbi Eliezer Ben Hurkanos (.) who taught
+	(.) shebiyom@s:fra echad@s:fra lifnei@s:fra mitatkhah@s:fra .
+%mor:	det:art|the n|concept prep|of det:art|the n:prop|Golden
+	n:prop|Apple n:prop|Award v|begin&PAST det:num|nine n|year-PL
+	post|ago coord|and aux|be&PAST&13S part|inspire-PASTP prep|by
+	n:prop|Rabbi n:prop|Eliezer n:prop|Ben n:prop|Hurkanos pro:rel|who
+	v|teach&PAST L2|shebiyom L2|echad L2|lifnei L2|mitatkhah .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|5|DET 5|6|NAME 6|3|POBJ 7|8|SUBJ
+	8|2|ENUM 9|10|QUANT 10|8|OBJ 11|10|POSTMOD 12|14|LINK 13|14|AUX 14|2|CJCT
+	15|14|JCT 16|17|NAME 17|18|NAME 18|19|NAME 19|15|POBJ 20|21|LINK 21|19|CMOD
+	22|21|OBJ 23|22|CONJ 24|25|MOD 25|23|COORD 26|2|PUNCT
+*S1:	get your life in order one day before you die .
+%mor:	v|get det:poss|your n|life prep|in n|order pro:indef|one n|day
+	conj|before pro:per|you v|die .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|POBJ 6|7|MOD 7|1|JCT 8|10|LINK
+	9|10|SUBJ 10|1|CJCT 11|1|PUNCT
+*S1:	the Golden Apple Award honors those teachers who consistently treat
+	every lecture as if it were their last (.) and strive not only to
+	disseminate knowledge but to inspire and engage students in its
+	pursuit .
+%mor:	det:art|the n:prop|Golden n:prop|Apple n:prop|Award v|honor-3S
+	det:dem|those n|teach&dv-AGT-PL pro:rel|who adv|consistent&dadj-LY
+	v|treat qn|every n|lecture conj|as conj|if pro:per|it cop|be&PAST
+	det:poss|their adj|last coord|and v|strive neg|not adv|only inf|to
+	v|disseminate n|knowledge conj|but prep|to v|inspire coord|and
+	v|engage n|student-PL prep|in det:poss|its n|pursuit .
+%gra:	1|2|DET 2|5|SUBJ 3|4|NAME 4|2|APP 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|LINK
+	9|10|JCT 10|7|CMOD 11|12|QUANT 12|10|OBJ 13|5|JCT 14|16|LINK 15|16|SUBJ
+	16|13|CPOBJ 17|18|DET 18|16|PRED 19|16|CONJ 20|19|COORD 21|20|NEG
+	22|20|JCT 23|24|INF 24|20|COMP 25|24|OBJ 26|16|CONJ 27|28|JCT 28|26|COORD
+	29|28|CONJ 30|29|COORD 31|30|OBJ 32|30|JCT 33|34|DET 34|32|POBJ 35|5|PUNCT
+*S1:	this year's winner is no exception .
+%mor:	det:dem|this adj|year&dn-POSS n|win&dv-AGT cop|be&3S qn|no
+	n|exception .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|4|PUNCT
+*S1:	I have had the pleasure of being a student of hers last year .
+%mor:	pro:sub|I aux|have part|have&PASTP det:art|the n|pleasure prep|of
+	n:gerund|be-PRESP det:art|a n|student prep|of pro:poss|hers adj|last
+	n|year .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|13|MOD 12|13|MOD 13|10|POBJ 14|3|PUNCT
+*S1:	Doctor_Brenda Gunderson was not only dedicated to this university
+	(.) but to her students as well .
+%mor:	n:prop|Doctor_Brenda n:prop|Gunderson aux|be&PAST&13S neg|not
+	adv|only part|dedicate-PASTP prep|to det:dem|this n|university
+	conj|but prep|to det:poss|her n|student-PL adv|as adv|well .
+%gra:	1|2|NAME 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|JCT 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|15|JCT 12|13|DET 13|11|POBJ 14|15|JCT 15|10|COORD
+	16|6|PUNCT
+*S1:	lecturing up until two [/] &da two days before she gave birth to
+	her youngest child (.) she definitely showed how teaching <is of>
+	[/] is of great importance to her .
+%mor:	part|lecture-PRESP adv|up prep|until det:num|two n|day-PL
+	conj|before pro:sub|she v|give&PAST n|birth prep|to det:poss|her
+	adj|young-SP n|child pro:sub|she adv|definite&dadj-LY v|show-PAST
+	pro:int|how n:gerund|teach-PRESP cop|be&3S prep|of adj|great
+	n|importance prep|to pro:obj|her .
+%gra:	1|16|XJCT 2|1|JCT 3|1|JCT 4|5|QUANT 5|3|POBJ 6|8|LINK 7|8|SUBJ 8|1|CJCT
+	9|8|OBJ 10|8|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|16|SUBJ 15|16|JCT
+	16|0|ROOT 17|16|OBJ 18|17|OBJ 19|18|OBJ 20|19|JCT 21|22|MOD 22|20|POBJ
+	23|22|NJCT 24|23|POBJ 25|16|PUNCT
+*S1:	I have been approached by many individuals telling me spectacular
+	stories (.) of how Doctor_Gunderson has inspired them .
+%mor:	pro:sub|I aux|have aux|be&PASTP part|approach-PASTP prep|by qn|many
+	n|individual-PL part|tell-PRESP pro:obj|me adj|spectacular
+	n|story-PL prep|of pro:int|how n:prop|Doctor_Gunderson aux|have&3S
+	part|inspire-PASTP pro:obj|them .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|4|XJCT
+	9|8|OBJ 10|11|MOD 11|8|OBJ 12|11|JCT 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|12|CPOBJ 17|16|OBJ 18|4|PUNCT
+*S1:	one such student stated in her nomination of Doctor_Gunderson (.)
+	&{l=READING Brenda Gunderson is the best classroom teacher (.) that
+	I have had at Michigan .
+%mor:	pro:indef|one qn|such n|student v|state-PAST prep|in det:poss|her
+	n|nominate&dv-TION prep|of n:prop|Doctor_Gunderson n:prop|Brenda
+	n:prop|Gunderson cop|be&3S det:art|the adj|good&SP n|+n|class+n|room
+	n|teach&dv-AGT comp|that pro:sub|I v|have v|have&PAST prep|at
+	n:prop|Michigan .
+%gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|NAME 10|8|POBJ 11|12|SUBJ 12|4|CJCT 13|16|DET 14|15|MOD 15|16|MOD
+	16|12|PRED 17|19|LINK 18|19|SUBJ 19|16|CMOD 20|19|COMP 21|20|JCT
+	22|21|POBJ 23|4|PUNCT
+*S1:	her explanations are so lucid that throughout the term (.) various
+	unlikely people (.) told me that they really liked statistics .
+%mor:	det:poss|her n|explanation-PL cop|be&PRES adv|so adj|lucid adv|that
+	prep|throughout det:art|the n|term adj|various un#adj|likely
+	n|person&PL v|tell&PAST pro:obj|me comp|that pro:sub|they
+	adv|real&dadj-LY v|like-PAST n|statistic-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|JCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|7|POBJ 11|13|LINK 12|13|SUBJ 13|10|CMOD 14|13|OBJ 15|18|LINK
+	16|18|SUBJ 17|18|JCT 18|13|COMP 19|18|OBJ 20|3|PUNCT
+*S1:	&}l=READING &=laughs:multiple before we hear Doctor_Gunderson (.) I
+	would now like to welcome the nineteen ninety three recipient of the
+	Golden Apple Award (.) Professor Sidney Fine to share with us a
+	little about the award .
+%mor:	conj|before pro:sub|we v|hear n:prop|Doctor_Gunderson pro:sub|I
+	mod|will&COND adv|now co|like inf|to v|welcome det:art|the
+	det:num|nineteen det:num|ninety det:num|three adj|recipient prep|of
+	det:art|the n:prop|Golden n:prop|Apple n:prop|Award n:prop|Professor
+	n:prop|Sidney n:prop|Fine inf|to v|share prep|with pro:obj|us
+	det:art|a adj|little prep|about det:art|the n|award .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|SUBJ 6|7|AUX 7|3|JCT 8|3|COM
+	9|10|INF 10|3|XJCT 11|12|DET 12|10|OBJ 13|14|DATE 14|15|QUANT 15|12|POSTMOD
+	16|15|JCT 17|18|DET 18|16|POBJ 19|20|NAME 20|21|NAME 21|22|NAME
+	22|23|NAME 23|25|SUBJ 24|25|INF 25|18|CMOD 26|25|JCT 27|26|POBJ 28|29|DET
+	29|25|JCT 30|25|JCT 31|32|DET 32|30|POBJ 33|3|PUNCT
+*S1:	&=applause (0.10) .
+*S2:	when I received the award in nineteen ninety three I was permitted
+	to talk as long as I wanted to &-uh but I was advised to be brief
+	&-uh this evening and I will be brief difficult as that is for a
+	professor or at least for this professor .
+%mor:	conj|when pro:sub|I v|receive-PAST det:art|the n|award prep|in
+	det:num|nineteen det:num|ninety det:num|three pro:sub|I
+	aux|be&PAST&13S part|permit-PASTP prep|to n|talk prep|as adj|long
+	conj|as pro:sub|I v|want-PAST prep|to conj|but pro:sub|I
+	aux|be&PAST&13S part|advise-PASTP inf|to cop|be adj|brief
+	det:dem|this n|evening coord|and pro:sub|I mod|will cop|be adj|brief
+	adj|difficult prep|as pro:dem|that cop|be&3S prep|for det:art|a
+	n|professor coord|or prep|at n|least prep|for det:dem|this
+	n|professor .
+%gra:	1|3|LINK 2|3|SUBJ 3|12|CJCT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DATE 8|9|DATE
+	9|6|POBJ 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|JCT 14|13|POBJ 15|16|COORD
+	16|14|POSTMOD 17|19|LINK 18|19|SUBJ 19|16|CJCT 20|19|JCT 21|24|LINK
+	22|24|SUBJ 23|24|AUX 24|20|POBJ 25|26|INF 26|24|COMP 27|26|PRED 28|29|DET
+	29|26|PRED 30|33|LINK 31|33|SUBJ 32|33|AUX 33|29|CMOD 34|38|MOD 35|38|MOD
+	36|37|COORD 37|35|ENUM 38|33|PRED 39|38|JCT 40|41|DET 41|39|POBJ
+	42|38|CONJ 43|42|COORD 44|43|POBJ 45|43|JCT 46|47|DET 47|45|POBJ 48|12|PUNCT
+*S2:	&=laughs:multiple &-uh the Golden Apple Award that we're
+	celebrating tonight is really a very special award (.) and the
+	Golden Apple Ceremony (.) is a very special event in the life of the
+	University of Michigan .
+%mor:	det:art|the n:prop|Golden n:prop|Apple n:prop|Award comp|that
+	pro:sub|we~aux|be&PRES part|celebrate-PRESP adv:tem|tonight
+	cop|be&3S adv|real&dadj-LY det:art|a adv|very adj|special n|award
+	coord|and det:art|the n:prop|Golden n:prop|Apple n:prop|Ceremony
+	cop|be&3S det:art|a adv|very adj|special n|event prep|in det:art|the
+	n|life prep|of det:art|the n:prop|University prep|of n:prop|Michigan
+	.
+%gra:	1|2|DET 2|10|SUBJ 3|2|APP 4|10|SUBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD
+	9|8|JCT 10|0|ROOT 11|15|JCT 12|15|DET 13|14|JCT 14|15|MOD 15|10|PRED
+	16|21|LINK 17|18|DET 18|21|SUBJ 19|20|NAME 20|18|APP 21|10|CJCT 22|25|DET
+	23|24|JCT 24|25|MOD 25|21|PRED 26|25|NJCT 27|28|DET 28|26|POBJ 29|28|NJCT
+	30|31|DET 31|29|POBJ 32|31|NJCT 33|32|POBJ 34|10|PUNCT
+*S2:	what is impressive about the award is not only that it celebrates
+	teaching in so xxx a manner (.) but that it is the consumers of the
+	university's teaching the students (.) who decide who the winner
+	will be .
+%mor:	pro:int|what cop|be&3S adj|impressive prep|about det:art|the
+	n|award cop|be&3S neg|not adv|only pro:rel|that pro:per|it
+	v|celebrate-3S part|teach-PRESP prep|in conj|so det:art|a n|manner
+	conj|but pro:dem|that pro:per|it cop|be&3S det:art|the
+	n|consume&dv-AGT-PL prep|of det:art|the n|university~aux|be&3S
+	part|teach-PRESP det:art|the n|student-PL pro:rel|who v|decide
+	pro:int|who det:art|the n|win&dv-AGT mod|will cop|be .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|7|JCT 5|6|DET 6|7|SUBJ 7|2|CJCT 8|7|NEG
+	9|7|PRED 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|COMP 14|13|JCT 15|14|POBJ
+	16|17|DET 17|15|POBJ 18|17|CONJ 19|21|LINK 20|21|SUBJ 21|18|COORD
+	22|23|DET 23|28|SUBJ 24|23|NJCT 25|26|DET 26|24|POBJ 27|28|AUX 28|21|CPRED
+	29|30|DET 30|28|OBJ 31|32|LINK 32|30|CMOD 33|37|LINK 34|35|DET 35|37|SUBJ
+	36|37|AUX 37|32|COMP 38|2|PUNCT
+*S2:	the award is entirely in the hands of the students (.) and they
+	have acquitted their responsibilities over the years (.) in a
+	thoroughly (.) &conce conscientious manner (.) what else can I say
+	having been a winner .
+%mor:	det:art|the n|award cop|be&3S adv|entire&dadj-LY prep|in
+	det:art|the n|hand-PL prep|of det:art|the n|student-PL coord|and
+	pro:sub|they aux|have part|acquit-PASTP det:poss|their
+	n|responsible&dadj-ITY-PL prep|over det:art|the n|year-PL prep|in
+	det:art|a adv|thorough&dadj-LY adj|conscientious n|manner
+	pro:int|what post|else mod|can pro:sub|I v|say part|have-PRESP
+	cop|be&PASTP det:art|a n|win&dv-AGT .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|3|PUNCT 15|16|DET
+	16|14|OBJ 17|14|JCT 18|19|DET 19|17|POBJ 20|19|NJCT 21|24|DET 22|23|JCT
+	23|24|MOD 24|20|POBJ 25|14|INCROOT 26|25|PQ 27|29|AUX 28|29|SUBJ 29|26|COMP
+	30|29|XJCT 31|30|COMP 32|33|DET 33|31|PRED 34|25|PUNCT
+*S2:	&=laughs:multiple I treasure all of the awards that I have been
+	fortunate enough to receive in a long career as a professor at the
+	University of Michigan .
+%mor:	pro:sub|I n|treasure adv|all prep|of det:art|the n|award-PL
+	pro:rel|that pro:sub|I v|have cop|be&PASTP adj|fortunate adv|enough
+	inf|to v|receive prep|in det:art|a adj|long n|career prep|as
+	det:art|a n|professor prep|at det:art|the n:prop|University prep|of
+	n:prop|Michigan .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|NJCT 5|6|DET 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|COMP 11|10|PRED 12|10|JCT 13|14|INF 14|12|COMP 15|14|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|21|COORD 20|21|DET 21|14|OBJ 22|21|NJCT
+	23|24|DET 24|22|POBJ 25|24|NJCT 26|25|POBJ 27|2|PUNCT
+*S2:	but there is a special place &-uh in my heart for the Golden Apple
+	Award (.) because it came from the students in my own classes (.)
+	who were expressing their more than generous reaction (.) to the
+	teaching to which I have devoted (.) so much +//.
+%mor:	conj|but pro:exist|there cop|be&3S det:art|a adj|special n|place
+	prep|in det:poss|my n|heart prep|for det:art|the n:prop|Golden
+	n:prop|Apple n:prop|Award conj|because pro:per|it v|come&PAST
+	prep|from det:art|the n|student-PL prep|in det:poss|my adj|own
+	n|class-PL pro:rel|who aux|be&PAST part|express-PRESP det:poss|their
+	adv|more prep|than adj|generous n|reaction prep|to det:art|the
+	n:gerund|teach-PRESP inf|to pro:int|which pro:sub|I aux|have
+	part|devote-PASTP adv|so adv|much +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|6|NJCT 11|12|DET 12|14|NAME 13|14|NAME 14|10|POBJ 15|17|LINK
+	16|17|SUBJ 17|3|CJCT 18|17|JCT 19|20|DET 20|18|POBJ 21|20|NJCT 22|24|DET
+	23|24|MOD 24|21|POBJ 25|27|LINK 26|27|AUX 27|24|CMOD 28|29|DET 29|27|JCT
+	30|29|JCT 31|32|MOD 32|30|POBJ 33|27|JCT 34|35|DET 35|33|POBJ 36|37|INF
+	37|40|LINK 38|40|SUBJ 39|40|AUX 40|35|COMP 41|42|JCT 42|40|JCT
+	43|3|PUNCT
+*S2:	part of my life as a professional historian .
+%mor:	n|part prep|of det:poss|my n|life prep|as det:art|a n|professional
+	n|historian .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|1|PUNCT
+*S2:	the Golden Apple Award I am sure (.) has a very special place (.)
+	in the hearts of all the instructors who have received that award
+	(.) to date .
+%mor:	det:art|the n:prop|Golden n:prop|Apple n:prop|Award pro:sub|I
+	cop|be&1S adj|sure v|have&3S det:art|a adv|very adj|special n|place
+	prep|in det:art|the n|heart-PL prep|of qn|all det:art|the
+	n|instructor-PL pro:rel|who aux|have part|receive-PASTP det:dem|that
+	n|award inf|to v|date .
+%gra:	1|2|DET 2|4|NAME 3|4|NAME 4|8|SUBJ 5|6|SUBJ 6|4|CMOD 7|6|PRED 8|0|ROOT
+	9|12|DET 10|11|JCT 11|12|MOD 12|8|OBJ 13|8|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|19|QUANT 18|19|DET 19|16|POBJ 20|22|LINK 21|22|AUX 22|19|CMOD
+	23|24|DET 24|22|OBJ 25|26|INF 26|24|XMOD 27|8|PUNCT
+*S2:	quite apart from the student role (.) in determining the winner of
+	the Golden Apple Award (.) the award ceremony itself is a very
+	special (.) event (.) because it enables citizens of Ann Arbor (.)
+	university administrators (.) university students (.) university
+	faculty members (.) to listen to a major lecture (.) by a star
+	teacher (.) whom so many of us (.) have never had the opportunity to
+	hear before .
+%mor:	adv|quite adv|apart prep|from det:art|the n|student n|role prep|in
+	part|determine-PRESP det:art|the n|win&dv-AGT prep|of det:art|the
+	n:prop|Golden n:prop|Apple n:prop|Award det:art|the n|award
+	n|ceremony pro:refl|itself cop|be&3S det:art|a adv|very adj|special
+	n|event conj|because pro:per|it v|enable-3S n|citizen-PL prep|of
+	n:prop|Ann n:prop|Arbor n|university n|administrator-PL n|university
+	n|student-PL n|university n|faculty n|member-PL inf|to v|listen
+	prep|to det:art|a adj|major n|lecture prep|by det:art|a n|star
+	n|teach&dv-AGT pro:int|whom adv|so qn|many prep|of pro:obj|us v|have
+	adv|never v|have&PAST det:art|the n|opportunity inf|to v|hear
+	adv|before .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|JCT 8|7|POBJ
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|15|NAME 15|20|SUBJ
+	16|18|DET 17|18|MOD 18|19|MOD 19|15|APP 20|10|CMOD 21|24|DET 22|23|JCT
+	23|24|MOD 24|20|PRED 25|27|LINK 26|27|SUBJ 27|2|CJCT 28|27|OBJ 29|28|NJCT
+	30|38|MOD 31|38|MOD 32|38|MOD 33|38|MOD 34|38|MOD 35|38|MOD 36|38|MOD
+	37|38|MOD 38|29|POBJ 39|40|INF 40|27|XJCT 41|40|JCT 42|44|DET 43|44|MOD
+	44|41|POBJ 45|40|JCT 46|48|DET 47|48|MOD 48|45|POBJ 49|54|LINK 50|51|JCT
+	51|54|QUANT 52|51|JCT 53|52|POBJ 54|48|CMOD 55|54|JCT 56|54|COMP
+	57|58|DET 58|56|OBJ 59|60|INF 60|58|XMOD 61|60|JCT 62|2|PUNCT
+*S2:	I am a historian as you know (.) and I have often said that it is
+	really easy <to be a> [/] &go to be a good history teacher .
+%mor:	pro:sub|I cop|be&1S det:art|a n|historian prep|as pro:per|you
+	v|know coord|and pro:sub|I v|have adv|often v|say&PAST comp|that
+	pro:per|it cop|be&3S adv|real&dadj-LY adj|ease&dn-Y inf|to cop|be
+	det:art|a adj|good n|history n|teach&dv-AGT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|7|COORD 6|7|SUBJ 7|4|ENUM
+	8|10|LINK 9|10|SUBJ 10|2|CJCT 11|12|JCT 12|10|COMP 13|15|LINK 14|15|SUBJ
+	15|12|COMP 16|17|JCT 17|15|PRED 18|19|INF 19|17|XMOD 20|23|DET 21|22|MOD
+	22|23|MOD 23|19|PRED 24|2|PUNCT
+*S2:	because students bring a natural curiosity to the subject (.) on
+	which an instructor (.) can capitalize .
+%mor:	conj|because n|student-PL v|bring det:art|a adj|natural n|curiosity
+	prep|to det:art|the n|subject prep|on pro:int|which det:art|a
+	n|instructor mod|can v|capital&dadj-IZE .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|JCT 11|15|LINK 12|13|DET 13|15|SUBJ 14|15|AUX 15|10|CPOBJ
+	16|3|PUNCT
+*S2:	I am perhaps betraying my own ignorance (.) but I do not think (.)
+	that most students come to a course in statistics &-uh I would think
+	quite the same kind of curiosity (.) as they come to the study of
+	history .
+%mor:	pro:sub|I aux|be&1S co|perhaps part|betray-PRESP det:poss|my
+	adj|own n|ignorance conj|but pro:sub|I mod|do neg|not v|think
+	adv|that qn|most n|student-PL v|come prep|to det:art|a n|course
+	prep|in n|statistic-PL pro:sub|I mod|will&COND v|think adv|quite
+	det:art|the adj|same n|kind prep|of n|curiosity conj|as pro:sub|they
+	v|come prep|to det:art|the n|study prep|of n|history .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|COM 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|16|CJCT 13|12|JCT 14|15|QUANT 15|16|SUBJ
+	16|24|CJCT 17|16|JCT 18|19|DET 19|17|POBJ 20|19|NJCT 21|20|POBJ
+	22|24|SUBJ 23|24|AUX 24|4|CJCT 25|24|JCT 26|28|DET 27|28|MOD 28|25|POBJ
+	29|28|NJCT 30|29|POBJ 31|33|LINK 32|33|SUBJ 33|24|CJCT 34|33|JCT 35|36|DET
+	36|34|POBJ 37|36|NJCT 38|37|POBJ 39|4|PUNCT
+*S2:	this is what makes the selection of Doctor_Brenda Gunderson (.) as
+	this year's Golden Apple Award so very special .
+%mor:	pro:dem|this cop|be&3S pro:int|what v|make-3S det:art|the
+	n|selection prep|of n:prop|Doctor_Brenda n:prop|Gunderson conj|as
+	det:dem|this n|year~cop|be&3S n:prop|Golden n:prop|Apple
+	n:prop|Award adv|so adv|very n|special .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|LINK 4|2|CPRED 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|13|LINK 10|12|COORD 11|12|DET 12|13|SUBJ 13|6|CMOD 14|15|NAME
+	15|16|NAME 16|13|PRED 17|19|JCT 18|19|JCT 19|16|APP 20|2|PUNCT
+*S2:	she is a splendid teacher (.) whose receipt of the Golden Apple
+	Award (.) has been preceded by a string (.) of L_S_And_A teaching
+	awards in the last several years .
+%mor:	pro:sub|she cop|be&3S det:art|a adj|splendid n|teach&dv-AGT
+	pro:rel|whose n|receipt prep|of det:art|the n:prop|Golden
+	n:prop|Apple n:prop|Award aux|have&3S aux|be&PASTP
+	part|precede-PASTP prep|by det:art|a n|string prep|of
+	n:prop|L_S_And_A part|teach-PRESP n|award-PL prep|in det:art|the
+	n|last qn|several n|year-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|15|LINK 7|15|JCT 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|7|APP 12|15|SUBJ 13|15|AUX 14|15|AUX 15|5|CMOD
+	16|15|JCT 17|18|DET 18|16|POBJ 19|18|NJCT 20|19|POBJ 21|15|XJCT 22|21|OBJ
+	23|21|JCT 24|25|DET 25|23|POBJ 26|27|QUANT 27|25|OBJ 28|2|PUNCT
+*S2:	she has impressed her students not only with her knowledge (.) and
+	the importance of her subject (.) but she has also led them to enjoy
+	(.) the study of statistics .
+%mor:	pro:sub|she aux|have&3S part|impress-PASTP det:poss|her
+	n|student-PL neg|not adv|only prep|with det:poss|her n|knowledge
+	coord|and det:art|the n|importance prep|of det:poss|her n|subject
+	conj|but pro:sub|she aux|have&3S adv|also part|lead&PASTP
+	pro:obj|them inf|to v|enjoy det:art|the n|study prep|of
+	n|statistic-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|NEG 7|3|JCT 8|3|JCT
+	9|10|DET 10|8|POBJ 11|10|CONJ 12|13|DET 13|11|COORD 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|21|LINK 18|21|SUBJ 19|21|AUX 20|21|JCT 21|3|XJCT 22|21|OBJ
+	23|24|INF 24|21|XJCT 25|26|DET 26|24|OBJ 27|26|NJCT 28|27|POBJ 29|3|PUNCT
+*S2:	she has made her own enthusiasm for the subject infectious .
+%mor:	pro:sub|she aux|have&3S part|make&PASTP det:poss|her adj|own
+	n|enthusiasm prep|for det:art|the adj|subject adj|infectious .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*S2:	I am delighted to be able to join with you (.) in listening to one
+	of the university's great teachers (.) deliver her ideal last
+	lecture .
+%mor:	pro:sub|I aux|be&1S part|delight-PASTP inf|to cop|be adj|able
+	inf|to v|join prep|with pro:per|you prep|in n:gerund|listen-PRESP
+	prep|to pro:indef|one prep|of det:art|the adj|university&dn-POSS
+	adj|great n|teach&dv-AGT-PL v|deliver det:poss|her adj|ideal
+	adj|last n|lecture .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|PRED 7|8|INF 8|6|XMOD
+	9|8|JCT 10|9|POBJ 11|10|NJCT 12|11|POBJ 13|12|JCT 14|13|POBJ 15|20|LINK
+	16|19|DET 17|19|MOD 18|19|MOD 19|20|SUBJ 20|14|CMOD 21|24|DET 22|24|MOD
+	23|24|MOD 24|20|OBJ 25|3|PUNCT
+*S2:	&=applause (0.20) .
+*S1:	thank you Professor Fine .
+%mor:	v|thank pro:per|you n:prop|Professor n:prop|Fine .
+%gra:	1|0|ROOT 2|4|NAME 3|4|NAME 4|1|OBJ 5|1|PUNCT
+*S1:	thank you Professor Fine .
+%mor:	v|thank pro:per|you n:prop|Professor n:prop|Fine .
+%gra:	1|0|ROOT 2|4|NAME 3|4|NAME 4|1|OBJ 5|1|PUNCT
+*S1:	we (.) the Students Honoring Outstanding University Teaching (.)
+	would now like to invite Doctor_Brenda Gunderson to the stage to
+	receive her award (.) and present her ideal last lecture A Paradox a
+	Penny and a Performance .
+%mor:	pro:sub|we det:art|the n:prop|Students n:prop|Honoring
+	n:prop|Outstanding n:prop|University n:prop|Teaching mod|will&COND
+	adv|now co|like prep|to n|invite n:prop|Doctor_Brenda
+	n:prop|Gunderson prep|to det:art|the n|stage inf|to v|receive
+	det:poss|her n|award coord|and adv|present det:poss|her adj|ideal
+	adj|last n|lecture n:prop|A n:prop|Paradox det:art|a n:prop|Penny
+	coord|and det:art|a n:prop|Performance .
+%gra:	1|6|SUBJ 2|3|DET 3|6|NAME 4|5|NAME 5|6|NAME 6|0|ROOT 7|6|CONJ 8|7|COORD
+	9|8|JCT 10|8|COM 11|8|JCT 12|14|MOD 13|14|NAME 14|11|POBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|19|INF 19|14|XJCT 20|21|DET 21|19|OBJ 22|14|CONJ
+	23|22|COORD 24|27|DET 25|27|MOD 26|27|MOD 27|23|POBJ 28|27|APP 29|27|APP
+	30|31|DET 31|29|APP 32|27|CONJ 33|34|DET 34|32|COORD 35|6|PUNCT
+*S1:	&=applause .
+*S3:	thank you &=laughs:multiple &=applause (0.9) I'd give you guys all
+	a hug again but it might take too long &=laughs:multiple no more xxx
+	(0.16) I thank you everyone .
+%mor:	v|thank pro:per|you pro:sub|I~mod|genmod v|give pro:per|you
+	n|guy-PL adv|all det:art|a n|hug adv|again conj|but pro:per|it
+	mod|might v|take adv|too adj|long co|no adv|more pro:sub|I v|thank
+	pro:per|you pro:indef|everyone .
+%gra:	1|5|CJCT 2|1|OBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|SUBJ 7|5|OBJ 8|10|JCT
+	9|10|DET 10|7|ENUM 11|10|JCT 12|15|LINK 13|15|SUBJ 14|15|AUX 15|10|CJCT
+	16|17|JCT 17|15|PRED 18|21|COM 19|21|JCT 20|21|SUBJ 21|17|CMOD 22|23|SUBJ
+	23|21|OBJ 24|5|PUNCT
+*S3:	first I want to thank my students .
+%mor:	adv|first pro:sub|I v|want inf|to v|thank det:poss|my n|student-PL
+	.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*S3:	you're the main reason I'm up here tonight .
+%mor:	pro:per|you~cop|be&PRES det:art|the adj|main n|reason
+	pro:sub|I~cop|be&1S prep|up n|here adv:tem|tonight .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|7|SUBJ 7|5|CMOD 8|7|JCT
+	9|8|POBJ 10|7|JCT 11|2|PUNCT
+*S3:	one of my favorite lines in the letter that I received back in
+	January (.) stating that I was the recipient of this award (.) was
+	as follows (.) &{l=READING represented in this award are the
+	students you have touched in the past (.) are currently inspiring
+	(.) and will benefit in the future .
+%mor:	det:num|one prep|of det:poss|my n|favorite n|line-PL prep|in
+	det:art|the n|letter pro:rel|that pro:sub|I v|receive-PAST adv|back
+	prep|in n:prop|January part|state-PRESP comp|that pro:sub|I
+	cop|be&PAST&13S det:art|the n|recipient prep|of det:dem|this n|award
+	cop|be&PAST&13S adv|as v|follow-3S v|represent-PAST prep|in
+	det:dem|this n|award cop|be&PRES det:art|the n|student-PL
+	pro:per|you v|have v|touch-PAST prep|in det:art|the adj|past
+	aux|be&PRES adv|current&dadj-LY part|inspire-PRESP coord|and
+	mod|will v|benefit prep|in det:art|the n|future .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|5|MOD 5|2|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|JCT 13|11|JCT 14|13|POBJ 15|1|XJCT
+	16|18|LINK 17|18|SUBJ 18|15|COMP 19|20|DET 20|18|PRED 21|20|NJCT
+	22|23|DET 23|21|POBJ 24|20|CMOD 25|26|COORD 26|24|CPRED 27|26|OBJ 28|27|JCT
+	29|30|DET 30|28|POBJ 31|27|CJCT 32|33|DET 33|31|PRED 34|35|SUBJ 35|33|CMOD
+	36|35|OBJ 37|42|JCT 38|39|DET 39|42|SUBJ 40|42|AUX 41|42|JCT 42|35|CJCT
+	43|42|CONJ 44|45|AUX 45|43|COORD 46|45|JCT 47|48|DET 48|46|POBJ
+	49|1|PUNCT
+*S3:	&}l=READING thank you students .
+%mor:	v|thank pro:per|you n|student-PL .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|OBJ 4|1|PUNCT
+*S3:	to my fellow faculty members and colleagues (.) I thank you for
+	your support over these many years .
+%mor:	prep|to det:poss|my adj|fellow n|faculty n|member-PL coord|and
+	n|colleague-PL pro:sub|I v|thank pro:per|you prep|for det:poss|your
+	n|support adv|over det:dem|these qn|many n|year-PL .
+%gra:	1|9|JCT 2|5|DET 3|5|MOD 4|5|MOD 5|1|POBJ 6|5|CONJ 7|6|COORD 8|9|SUBJ
+	9|0|ROOT 10|9|OBJ 11|9|JCT 12|13|DET 13|11|POBJ 14|9|JCT 15|17|DET
+	16|17|QUANT 17|14|POBJ 18|9|PUNCT
+*S3:	to my family and my friends (.) I thank you for your love (.)
+	understanding (.) and your words of encouragement .
+%mor:	prep|to det:poss|my n|family coord|and det:poss|my n|friend-PL
+	pro:sub|I v|thank pro:per|you prep|for det:poss|your n|love
+	part|understand-PRESP coord|and det:poss|your n|word-PL prep|of
+	n|encourage&dv-MENT .
+%gra:	1|8|JCT 2|3|DET 3|1|POBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|12|DET 12|10|POBJ 13|8|XJCT 14|13|CONJ 15|16|DET
+	16|14|COORD 17|16|NJCT 18|17|POBJ 19|8|PUNCT
+*S3:	and to my faith (.) my constant source of strength each and every
+	day (.) thank you everyone +...
+%mor:	coord|and prep|to det:poss|my n|faith det:poss|my adj|constant
+	n|source prep|of n|strength qn|each coord|and qn|every n|day v|thank
+	pro:per|you pro:indef|everyone +...
+%gra:	1|14|LINK 2|14|JCT 3|4|DET 4|2|POBJ 5|7|DET 6|7|MOD 7|14|SUBJ 8|7|NJCT
+	9|8|POBJ 10|11|QUANT 11|7|CONJ 12|13|QUANT 13|11|COORD 14|0|ROOT
+	15|14|OBJ2 16|14|OBJ 17|14|PUNCT
+*S3:	I might be at an elementary school function (.) where I'll be (.)
+	meeting another mom or dad (.) some adult .
+%mor:	pro:sub|I mod|might cop|be prep|at det:art|a adj|elementary
+	n|school n|function pro:rel|where pro:sub|I~mod|will aux|be
+	part|meet-PRESP qn|another n|mom coord|or n|dad qn|some n|adult .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|8|DET 6|7|MOD 7|8|MOD 8|4|POBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|13|AUX 13|8|CMOD 14|15|QUANT 15|13|OBJ
+	16|15|CONJ 17|19|MOD 18|19|QUANT 19|16|COORD 20|3|PUNCT
+*S3:	and we'll introduce ourselves to each_other .
+%mor:	coord|and pro:sub|we~mod|will v|introduce pro:refl|ourselves
+	prep|to pro:refl|each_other .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*S3:	hi I'm Brenda Gunderson .
+%mor:	co|hi pro:sub|I~cop|be&1S n:prop|Brenda n:prop|Gunderson .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|NAME 5|3|PRED 6|3|PUNCT
+*S3:	Kyle's mom .
+%mor:	adj|Kyle&dn-POSS n|mom .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S3:	usually when you're at those functions you're known as Kyle's mom
+	or dad or something instead of your own name .
+%mor:	adv|usual&dadj-LY conj|when pro:per|you~cop|be&PRES prep|at
+	det:dem|those n|function-PL pro:per|you~aux|be&PRES part|know&PASTP
+	prep|as adj|Kyle&dn-POSS n|mom coord|or n|dad coord|or
+	pro:indef|something adv|instead prep|of det:poss|your adj|own n|name
+	.
+%gra:	1|10|JCT 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|4|JCT 6|7|DET 7|5|POBJ 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|10|JCT 12|13|MOD 13|11|POBJ 14|13|CONJ
+	15|14|COORD 16|13|CONJ 17|16|COORD 18|17|NJCT 19|18|JCT 20|22|DET 21|22|MOD
+	22|19|POBJ 23|10|PUNCT
+*S3:	&=laughs:multiple and (.) this is Kyle .
+%mor:	coord|and pro:dem|this cop|be&3S n:prop|Kyle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S3:	&=displays_photo_on_overhead_projector:S3 &=laughs:multiple you are
+	of_course gonna see all of my children throughout the talk at some
+	point in time (.) (be)cause they are very cute xxx we might chitchat
+	a little bit (.) about what's going on that evening (.) and then (.)
+	we'll come to the question (.) so what do you do ?
+%mor:	pro:per|you cop|be&PRES co|of_course part|go-PRESP~inf|to v|see
+	pro:indef|all prep|of det:poss|my n|child&PL prep|throughout
+	det:art|the n|talk prep|at qn|some n|point prep|in n|time
+	conj|because pro:sub|they cop|be&PRES adv|very adj|cute pro:sub|we
+	mod|might v|chitchat det:art|a adj|little n|bit prep|about
+	pro:int|what~aux|be&3S part|go-PRESP prep|on pro:dem|that n|evening
+	coord|and adv:tem|then pro:sub|we~mod|will v|come prep|to
+	det:art|the n|question adv|so pro:int|what mod|do pro:per|you v|do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|COM 4|2|PRED 5|6|INF 6|4|COMP 7|6|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|6|JCT 12|13|DET 13|11|POBJ 14|6|JCT 15|16|QUANT
+	16|14|POBJ 17|16|NJCT 18|17|POBJ 19|21|LINK 20|21|SUBJ 21|26|CJCT 22|23|JCT
+	23|21|PRED 24|26|SUBJ 25|26|AUX 26|2|CJCT 27|29|DET 28|29|MOD 29|26|OBJ
+	30|33|JCT 31|33|SUBJ 32|33|AUX 33|29|CMOD 34|33|JCT 35|36|DET 36|34|POBJ
+	37|41|LINK 38|41|JCT 39|41|SUBJ 40|41|AUX 41|33|CJCT 42|41|JCT
+	43|44|DET 44|42|POBJ 45|49|JCT 46|49|OBJ 47|49|AUX 48|49|SUBJ 49|41|JCT
+	50|2|PUNCT
+*S3:	I teach at the University of Michigan .
+%mor:	pro:sub|I v|teach prep|at det:art|the n:prop|University prep|of
+	n:prop|Michigan .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*S3:	oh really (.) what do you teach ?
+%mor:	co|oh adv|real&dadj-LY pro:int|what mod|do pro:per|you v|teach ?
+%gra:	1|6|COM 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*S3:	&=pause_while_displaying_overhead_on_projector statistics .
+%mor:	n|statistic-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	&=laughs:multiple that one word can send chills up and down the
+	spine of many .
+%mor:	comp|that det:num|one n|word mod|can v|send n|chill-PL adv|up
+	coord|and prep|down det:art|the n|spine prep|of qn|many .
+%gra:	1|5|LINK 2|3|QUANT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|CONJ
+	9|8|COORD 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|5|PUNCT
+*S3:	&=laughs:multiple most people don't have fond memories of their
+	experiences of taking a statistics course .
+%mor:	qn|most n|person&PL mod|do~neg|not v|have adj|fond n|memory-PL
+	prep|of det:poss|their n|experience-PL prep|of n:gerund|take-PRESP
+	det:art|a n|statistic-PL n|course .
+%gra:	1|2|QUANT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|MOD 7|5|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|15|DET 14|15|MOD 15|12|OBJ
+	16|5|PUNCT
+*S3:	in fact some even respond by saying it was a course they were able
+	to avoid (.) as if it were some type of plague .
+%mor:	prep|in n|fact qn|some adv|even v|respond adv|by part|say-PRESP
+	pro:per|it cop|be&PAST&13S det:art|a n|course pro:sub|they
+	cop|be&PAST adj|able inf|to v|avoid conj|as conj|if pro:per|it
+	cop|be&PAST qn|some n|type prep|of n|plague .
+%gra:	1|3|JCT 2|1|POBJ 3|5|QUANT 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|XJCT 8|9|SUBJ
+	9|7|COMP 10|11|DET 11|9|PRED 12|13|SUBJ 13|11|CMOD 14|13|PRED 15|16|INF
+	16|14|XMOD 17|16|JCT 18|20|LINK 19|20|SUBJ 20|17|CPOBJ 21|22|QUANT
+	22|20|PRED 23|22|NJCT 24|23|POBJ 25|5|PUNCT
+*S3:	&=laughs:multiple if you've been in my office (.) you may have seen
+	this next picture .
+%mor:	conj|if pro:per|you~aux|have cop|be&PASTP prep|in det:poss|my
+	n|office pro:per|you mod|may aux|have part|see&PASTP det:dem|this
+	adj|next n|picture .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|11|CJCT 5|4|JCT 6|7|DET 7|5|POBJ 8|11|SUBJ
+	9|11|AUX 10|11|AUX 11|0|ROOT 12|14|DET 13|14|MOD 14|11|OBJ 15|11|PUNCT
+*S3:	I have it up on my wall .
+%mor:	pro:sub|I v|have pro:per|it adv|up prep|on det:poss|my n|wall .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*S3:	&=pause_while_displaying_overhead_on_projector his cousin (.)
+	Matthew on the left representing Stat one hundred .
+%mor:	det:poss|his n|cousin n:prop|Matthew prep|on det:art|the adj|left
+	part|represent-PRESP n:prop|Stat det:num|one det:num|hundred .
+%gra:	1|2|DET 2|0|INCROOT 3|2|APP 4|2|NJCT 5|7|DET 6|7|MOD 7|4|POBJ 8|10|DATE
+	9|10|QUANT 10|7|OBJ 11|2|PUNCT
+*S3:	it was a picture without the Stat quotations (.) on a calendar that
+	I had on my wall (.) in my office .
+%mor:	pro:per|it cop|be&PAST&13S det:art|a n|picture prep|without
+	det:art|the n:prop|Stat n|quote&dv-TION-PL prep|on det:art|a
+	n|calendar pro:rel|that pro:sub|I v|have&PAST prep|on det:poss|my
+	n|wall prep|in det:poss|my n|office .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|NJCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|14|JCT
+	16|17|DET 17|15|POBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|2|PUNCT
+*S3:	and a student came into my office once and said (.) that's what I
+	looked like (.) when (.) I knew I hadta take a statistics course .
+%mor:	coord|and det:art|a n|student v|come&PAST prep|into det:poss|my
+	n|office conj|once coord|and v|say&PAST pro:dem|that~cop|be&3S
+	pro:int|what pro:sub|I v|look-PAST prep|like pro:int|when pro:sub|I
+	v|know&PAST pro:sub|I mod|have&PAST~inf|to v|take det:art|a
+	n|statistic-PL n|course .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|12|LINK
+	9|8|CONJ 10|9|COORD 11|12|SUBJ 12|4|CJCT 13|15|LINK 14|15|SUBJ
+	15|12|CPRED 16|15|JCT 17|19|LINK 18|19|SUBJ 19|16|CPOBJ 20|23|SUBJ 21|23|AUX
+	22|23|INF 23|19|COMP 24|26|DET 25|26|MOD 26|23|OBJ 27|4|PUNCT
+*S3:	&=laughs:multiple the students get to evaluate the courses (.)
+	after (.) the semester's passed and fill out an evaluation that goes
+	from one to five (.) with one representing strongly &agre disagree
+	(.) and five representing strongly agree .
+%mor:	det:art|the n|student-PL v|get inf|to v|evaluate det:art|the
+	n|course-PL prep|after det:art|the n|semester~aux|be&3S
+	part|pass-PASTP coord|and v|fill prep|out det:art|a
+	n|evaluate&dv-TION adv|that v|go-3S prep|from det:num|one prep|to
+	det:num|five prep|with det:num|one part|represent-PRESP
+	adv|strong&dadj-LY dis#v|agree coord|and det:num|five
+	part|represent-PRESP adv|strong&dadj-LY v|agree .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|12|JCT
+	9|10|DET 10|12|SUBJ 11|12|AUX 12|5|CJCT 13|12|CONJ 14|13|COORD 15|14|JCT
+	16|17|DET 17|15|POBJ 18|19|JCT 19|12|CJCT 20|19|JCT 21|20|POBJ 22|21|NJCT
+	23|22|POBJ 24|23|NJCT 25|26|QUANT 26|24|POBJ 27|28|JCT 28|26|COMP
+	29|28|CONJ 30|29|COORD 31|28|XJCT 32|33|JCT 33|31|COMP 34|3|PUNCT
+*S3:	so the lower scores are for disagreement .
+%mor:	co|so det:art|the v|lower n|score-PL cop|be&PRES prep|for
+	dis#n|agree&dv-MENT .
+%gra:	1|3|COM 2|3|DET 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*S3:	and generally (.) the low score that I receive in those evaluations
+	(.) are for the following item [/] item number four (.) I had a
+	strong (.) desire (.) &=laughs:multiple to take this course .
+%mor:	coord|and adv|general&dadj-LY det:art|the n|low n|score
+	pro:rel|that pro:sub|I v|receive prep|in det:dem|those
+	n|evaluate&dv-TION-PL aux|be&PRES prep|for det:art|the
+	part|follow-PRESP n|item n|number det:num|four pro:sub|I v|have&PAST
+	det:art|a adj|strong n|desire inf|to v|take det:dem|this n|course .
+%gra:	1|0|INCROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|5|XMOD 13|12|JCT 14|17|DET 15|16|XMOD
+	16|17|MOD 17|13|POBJ 18|19|QUANT 19|20|SUBJ 20|17|CMOD 21|23|DET 22|23|MOD
+	23|20|OBJ 24|25|INF 25|23|XMOD 26|27|DET 27|25|OBJ 28|1|PUNCT
+*S3:	&=laughs:multiple in fact three years ago (.) a student of mine
+	sent me an email regarding a nightmare (.) she had .
+%mor:	prep|in n|fact det:num|three n|year-PL post|ago det:art|a n|student
+	prep|of pro:poss|mine v|send&PAST pro:obj|me det:art|a n|email
+	part|regard-PRESP det:art|a n|nightmare pro:sub|she v|have&PAST .
+%gra:	1|10|JCT 2|4|MOD 3|4|QUANT 4|1|POBJ 5|4|POSTMOD 6|7|DET 7|10|SUBJ
+	8|7|NJCT 9|8|POBJ 10|18|CJCT 11|10|OBJ2 12|13|DET 13|10|OBJ 14|13|XMOD
+	15|16|DET 16|14|OBJ 17|18|SUBJ 18|0|ROOT 19|18|PUNCT
+*S3:	&=laughs:multiple and it goes like this .
+%mor:	coord|and pro:per|it v|go-3S prep|like pro:dem|this .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*S3:	&{l=READING on Monday the nineteenth of February (.) nineteen
+	ninety six (.) Carrie wrote (.) Professor Gunderson (.) so last
+	night I had this nightmare (.) in which I was being chased by a man
+	(.) because I held the secret formula (.) for late night talk show
+	success .
+%mor:	prep|on n:prop|Monday det:art|the adj|nineteenth prep|of
+	n:prop|February det:num|nineteen det:num|ninety det:num|six
+	n:prop|Carrie v|write&PAST n:prop|Professor n:prop|Gunderson conj|so
+	adj|last n|night pro:sub|I v|have&PAST det:dem|this n|nightmare
+	prep|in pro:int|which pro:sub|I aux|be&PAST&13S aux|be-PRESP
+	part|chase-PASTP prep|by det:art|a n|man conj|because pro:sub|I
+	v|hold&PAST det:art|the adj|secret n|formula prep|for adj|late
+	n|night n|talk n|show n|success .
+%gra:	1|11|LINK 2|11|SUBJ 3|4|DET 4|11|JCT 5|4|JCT 6|5|POBJ 7|8|DATE
+	8|9|QUANT 9|10|QUANT 10|11|SUBJ 11|0|ROOT 12|13|NAME 13|11|OBJ 14|13|NJCT
+	15|16|MOD 16|14|POBJ 17|18|SUBJ 18|16|CMOD 19|20|DET 20|18|OBJ 21|16|JCT
+	22|26|LINK 23|26|SUBJ 24|26|AUX 25|26|AUX 26|21|CPOBJ 27|26|JCT 28|29|DET
+	29|27|POBJ 30|32|LINK 31|32|SUBJ 32|11|CJCT 33|35|DET 34|35|MOD 35|32|OBJ
+	36|35|NJCT 37|41|MOD 38|41|MOD 39|41|MOD 40|41|MOD 41|36|POBJ 42|11|PUNCT
+*S3:	I ran to my parents' house and hid under the table and asked them
+	what should I do ?
+%mor:	pro:sub|I v|run&PAST prep|to det:poss|my adj|parent&dn-PL-POSS
+	n|house coord|and v|hide&PAST prep|under det:art|the n|table
+	coord|and v|ask-PAST pro:obj|them pro:int|what mod|should pro:sub|I
+	v|do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|CONJ 8|7|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|2|CONJ 13|12|COORD 14|13|OBJ 15|18|OBJ
+	16|18|AUX 17|18|SUBJ 18|13|COMP 19|2|PUNCT
+*S3:	they both had different opinions (.) and I became confused (.)
+	because their opinions came from different normal distributions
+	&}l=READING &=laughs:multiple &{l=READING with mean being opinion
+	and (.) variance being exceptions to the opinion .
+%mor:	pro:sub|they post|both v|have&PAST adj|different n|opinion-PL
+	coord|and pro:sub|I cop|become&PAST part|confuse-PASTP conj|because
+	det:poss|their n|opinion-PL v|come&PAST prep|from adj|different
+	adj|normal n|distribute&dv-TION-PL prep|with adj|mean n|being
+	n|opinion coord|and n|variance aux|be-PRESP n|exception-PL prep|to
+	det:art|the n|opinion .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|PRED 10|13|LINK 11|12|DET 12|13|SUBJ 13|3|CJCT 14|13|JCT 15|17|MOD
+	16|17|MOD 17|14|POBJ 18|13|JCT 19|21|MOD 20|21|MOD 21|18|POBJ 22|21|CONJ
+	23|22|COORD 24|21|ENUM 25|24|PRED 26|24|JCT 27|28|DET 28|26|POBJ 29|3|PUNCT
+*S3:	I didn't know which answer I should use (.) to solve my problem .
+%mor:	pro:sub|I mod|do&PAST~neg|not v|know det:int|which n|answer
+	pro:sub|I mod|should v|use inf|to v|solve det:poss|my n|problem .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|9|CJCT 5|6|MOD 6|4|OBJ 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|11|INF 11|9|COMP 12|13|DET 13|11|OBJ 14|9|PUNCT
+*S3:	and I was becoming very flustered .
+%mor:	coord|and pro:sub|I aux|be&PAST&13S part|become-PRESP adv|very
+	part|fluster-PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|COMP 7|4|PUNCT
+*S3:	when (.) my parents began chanting (.) standardize [/] standardize
+	(.) standardize .
+%mor:	conj|when det:poss|my n|parent-PL v|begin&PAST part|chant-PRESP
+	v|standard&dadj-IZE v|standard&dadj-IZE .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|COMP 7|6|OBJ 8|4|PUNCT
+*S3:	&}l=READING &=laughs:multiple &{l=READING true story (.)
+	&}l=READING she writes (.) &{l=READING I never actually found out
+	what happened because I woke up (.) but I thought you might find
+	this interesting .
+%mor:	n|true n|story pro:sub|she v|write-3S pro:sub|I adv|never
+	adv|actual&dadj-LY v|find&PAST adv|out pro:int|what v|happen-PAST
+	conj|because pro:sub|I v|wake&PAST adv|up conj|but pro:sub|I
+	v|think&PAST pro:per|you mod|might v|find det:dem|this
+	adj|interesting .
+%gra:	1|2|MOD 2|8|SUBJ 3|4|SUBJ 4|2|CMOD 5|8|SUBJ 6|8|JCT 7|8|JCT 8|0|ROOT
+	9|8|JCT 10|11|SUBJ 11|8|COMP 12|14|LINK 13|14|SUBJ 14|21|CJCT 15|14|JCT
+	16|18|LINK 17|18|SUBJ 18|21|CJCT 19|21|SUBJ 20|21|AUX 21|11|COMP 22|23|DET
+	23|21|JCT 24|8|PUNCT
+*S3:	&}l=READING &=laughs:multiple &{l=READING statistics (.) has
+	pervaded my psyche .
+%mor:	n|statistic-PL aux|have&3S part|pervade-PASTP det:poss|my n|psyche
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*S3:	&}l=READING &=laughs:multiple that's from Carrie who graduated in
+	ninety seven .
+%mor:	pro:dem|that~cop|be&3S prep|from n:prop|Carrie pro:rel|who
+	v|graduate-PAST prep|in det:num|ninety det:num|seven .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|6|LINK 6|4|CMOD 7|6|JCT 8|9|QUANT
+	9|7|POBJ 10|2|PUNCT
+*S3:	we still kept in touch (.) and recently she wrote me and said (.)
+	that when she was in high school (.) her algebra teacher told her
+	she would never become a psychologist .
+%mor:	pro:sub|we adv|still part|keep&PASTP prep|in n|touch coord|and
+	adv|recent&dadj-LY pro:sub|she v|write&PAST pro:obj|me coord|and
+	v|say&PAST comp|that conj|when pro:sub|she cop|be&PAST&13S prep|in
+	adj|high n|school det:poss|her n|algebra n|teach&dv-AGT v|tell&PAST
+	pro:obj|her pro:sub|she mod|will&COND adv|never cop|become det:art|a
+	n|psychology-IST .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|9|LINK 7|9|JCT 8|9|SUBJ
+	9|3|CJCT 10|3|OBJ 11|3|CONJ 12|11|COORD 13|23|LINK 14|16|LINK 15|16|SUBJ
+	16|23|CJCT 17|16|JCT 18|19|MOD 19|17|POBJ 20|22|DET 21|22|MOD 22|23|SUBJ
+	23|12|COMP 24|23|OBJ 25|28|SUBJ 26|28|AUX 27|28|JCT 28|23|COMP 29|30|DET
+	30|28|PRED 31|3|PUNCT
+*S3:	because psychologists need to do statistics .
+%mor:	conj|because n|psychology-IST-PL v|need inf|to v|do n|statistic-PL
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*S3:	and she was not very good in math .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S neg|not adv|very adj|good
+	prep|in n|math .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|JCT 6|3|PRED 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*S3:	her a@l plus in Stat four oh [: zero] two (.) was a complete
+	vindication (.) of that awful comment .
+%mor:	det:poss|her n:let|a adv|plus prep|in n:prop|Stat det:num|four
+	det:num|zero det:num|two aux|be&PAST&13S det:art|a adj|complete
+	n|vindicate&dv-TION prep|of det:dem|that adj|awful n|comment .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|JCT 5|4|POBJ 6|7|QUANT 7|8|QUANT 8|9|QUANT
+	9|4|POBJ 10|12|DET 11|12|MOD 12|9|PRED 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|2|PUNCT
+*S3:	and she's now applying to (.) graduate programs in clinical
+	psychology (.) she lives in (.) Los Angeles works in a [?] substance
+	abutch [//] abuse research lab (.) and she says takes great pleasure
+	in performing paired sample t@l tests +...
+%mor:	coord|and pro:sub|she~aux|be&3S adv|now part|apply-PRESP inf|to
+	v|graduate n|program-PL prep|in adj|clinic&dn-AL n|psychology
+	pro:sub|she v|live-3S prep|in n:prop|Los n:prop|Angeles n|work-PL
+	prep|in det:art|a n|substance n|abuse n|research n|lab coord|and
+	pro:sub|she v|say-3S v|take-3S adj|great n|pleasure prep|in
+	n:gerund|perform-PRESP part|pair-PASTP n|sample n:let|t n|test-PL
+	+...
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|13|XJCT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|7|JCT 10|11|MOD 11|9|POBJ 12|13|SUBJ 13|0|ROOT 14|13|JCT 15|16|NAME
+	16|17|MOD 17|14|POBJ 18|17|NJCT 19|23|DET 20|23|MOD 21|23|MOD 22|23|MOD
+	23|18|POBJ 24|13|CONJ 25|26|SUBJ 26|24|COORD 27|26|OBJ 28|29|MOD 29|27|OBJ
+	30|26|JCT 31|30|POBJ 32|31|XMOD 33|35|MOD 34|35|MOD 35|32|OBJ 36|13|PUNCT
+*S3:	&=laughs:multiple while we're on the subject of students I'd like
+	to share a few other (.) little stories with you +...
+%mor:	conj|while pro:sub|we~cop|be&PRES prep|on det:art|the n|subject
+	prep|of n|student-PL pro:sub|I~mod|genmod v|like inf|to v|share
+	det:art|a n|few qn|other adj|little n|story-PL prep|with pro:per|you
+	+...
+%gra:	1|3|LINK 2|3|SUBJ 3|11|CJCT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|13|INF 13|11|COMP 14|15|DET 15|13|OBJ
+	16|18|QUANT 17|18|MOD 18|13|OBJ 19|18|NJCT 20|19|POBJ 21|11|PUNCT
+*S3:	first from Alice .
+%mor:	adv|first prep|from n:prop|Alice .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*S3:	Alice took my class in &four oh [: zero] two of [?] four oh
+	[: zero] two in the summer (.) and she says (.) &{l=READING you made
+	stats interesting (.) and accessible (.) and fun .
+%mor:	n:prop|Alice v|take&PAST det:poss|my n|class prep|in det:num|zero
+	det:num|two prep|of det:num|four det:num|zero det:num|two prep|in
+	det:art|the n|summer coord|and pro:sub|she v|say-3S pro:per|you
+	v|make&PAST n|stat-PL adj|interesting coord|and adj|accessible
+	coord|and adj|fun .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|QUANT 7|5|POBJ 8|7|NJCT
+	9|10|QUANT 10|8|POBJ 11|2|OBJ 12|11|JCT 13|14|DET 14|12|POBJ 15|17|LINK
+	16|17|SUBJ 17|11|CJCT 18|19|SUBJ 19|17|COMP 20|19|OBJ 21|20|POSTMOD
+	22|21|CONJ 23|22|COORD 24|19|CONJ 25|24|COORD 26|2|PUNCT
+*S3:	&}l=READING yes that's the word fun in the same sentence as
+	statistics .
+%mor:	co|yes pro:dem|that~cop|be&3S det:art|the n|word n|fun prep|in
+	det:art|the adj|same n|sentence prep|as n|statistic-PL .
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|10|NJCT 12|11|POBJ 13|3|PUNCT
+*S3:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	&{l=READING I know I'll need to use the skills I learned to analyze
+	scientific research articles later .
+%mor:	pro:sub|I v|know pro:sub|I~mod|will v|need inf|to v|use det:art|the
+	n|skill-PL pro:sub|I v|learn-PAST inf|to v|analyze adj|scientific
+	n|research n|article-PL adv|later .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|11|SUBJ 11|2|CJCT 12|13|INF 13|11|COMP 14|16|MOD 15|16|MOD
+	16|13|OBJ 17|13|JCT 18|2|PUNCT
+*S3:	thank you for not making me dread that .
+%mor:	v|thank pro:per|you prep|for neg|not part|make-PRESP pro:obj|me
+	adj|dread comp|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|NEG 5|1|XJCT 6|5|OBJ 7|8|MOD 8|5|OBJ
+	9|1|PUNCT
+*S3:	you have the ability to make complicated ideas very simple .
+%mor:	pro:per|you v|have det:art|the n|able&dadj-ITY inf|to v|make
+	part|complicate-PASTP n|idea-PL adv|very adj|simple .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|INF 6|4|XMOD 7|6|COMP 8|7|OBJ
+	9|10|JCT 10|8|POSTMOD 11|2|PUNCT
+*S3:	&}l=READING try and make the complicated ideas (.) simple .
+%mor:	v|try coord|and v|make det:art|the part|complicate-PASTP n|idea-PL
+	adj|simple .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|6|DET 5|6|MOD 6|3|OBJ 7|6|POSTMOD
+	8|1|PUNCT
+*S3:	Steven wrote (.) &{l=READING thank you for the letter regarding (.)
+	my performance in your class .
+%mor:	n:prop|Steven v|write&PAST v|thank pro:per|you prep|for det:art|the
+	n|letter part|regard-PRESP det:poss|my n|performance prep|in
+	det:poss|your n|class .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|XJCT
+	9|10|DET 10|8|OBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|2|PUNCT
+*S3:	&}l=READING if you get an a@l plus in my class you get a letter
+	sent that says you did a commendable job (.) please come in talk to
+	me and pick up your final .
+%mor:	conj|if pro:per|you v|get det:art|a n:let|a adv|plus prep|in
+	det:poss|my n|class pro:per|you v|get det:art|a n|letter v|send&PAST
+	adv|that v|say-3S pro:per|you v|do&PAST det:art|a
+	adj|commend&dv-ABLE n|job co|please v|come adv|in n|talk prep|to
+	pro:obj|me coord|and v|pick adv|up det:poss|your n|final .
+%gra:	1|3|LINK 2|3|SUBJ 3|11|CJCT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|JCT 8|9|DET
+	9|7|POBJ 10|11|SUBJ 11|0|ROOT 12|13|DET 13|14|SUBJ 14|11|COMP 15|16|JCT
+	16|14|COMP 17|18|SUBJ 18|16|COMP 19|21|DET 20|21|MOD 21|18|OBJ 22|23|COM
+	23|18|CJCT 24|23|JCT 25|24|POBJ 26|25|NJCT 27|26|POBJ 28|23|CONJ
+	29|28|COORD 30|29|JCT 31|32|DET 32|30|POBJ 33|11|PUNCT
+*S3:	&{l=READING I gave you my mom's address (.) so that's where the
+	letter was sent .
+%mor:	pro:sub|I v|give&PAST pro:per|you det:poss|my adj|mom&dn-POSS
+	n|address conj|so pro:dem|that~cop|be&3S pro:int|where det:art|the
+	n|letter aux|be&PAST&13S part|send&PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|6|DET 5|6|MOD 6|2|OBJ 7|9|LINK 8|9|SUBJ
+	9|2|CJCT 10|14|LINK 11|12|DET 12|14|SUBJ 13|14|AUX 14|9|CPRED 15|2|PUNCT
+*S3:	I had no idea what grade I had in the course before the letter
+	arrived .
+%mor:	pro:sub|I v|have&PAST qn|no n|idea pro:int|what n|grade pro:sub|I
+	v|have&PAST prep|in det:art|the n|course prep|before det:art|the
+	n|letter v|arrive-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|15|SUBJ 5|6|DET 6|8|PRED 7|8|SUBJ
+	8|4|CMOD 9|8|JCT 10|11|DET 11|9|POBJ 12|8|JCT 13|14|DET 14|12|POBJ 15|2|COMP
+	16|2|PUNCT
+*S3:	I called my mom's house one night (.) and she told me what mail I
+	had and said I got a letter from the Department of Statistics .
+%mor:	pro:sub|I v|call-PAST det:poss|my adj|mom&dn-POSS n|house
+	det:num|one n|night coord|and pro:sub|she v|tell&PAST pro:obj|me
+	pro:int|what n|mail pro:sub|I v|have&PAST coord|and v|say&PAST
+	pro:sub|I v|get&PAST det:art|a n|letter prep|from det:art|the
+	n:prop|Department prep|of n:prop|Statistics .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|7|QUANT 7|5|APP 8|10|LINK
+	9|10|SUBJ 10|2|CJCT 11|10|OBJ 12|13|DET 13|15|PRED 14|15|SUBJ 15|10|COMP
+	16|15|CONJ 17|16|COORD 18|19|SUBJ 19|17|COMP 20|21|DET 21|19|OBJ
+	22|19|JCT 23|24|DET 24|22|POBJ 25|24|NJCT 26|25|POBJ 27|2|PUNCT
+*S3:	I got all worried (.) because (.) that was the last class I needed
+	to graduate (.) and I was afraid something happened .
+%mor:	pro:sub|I v|get&PAST adv|all part|worry-PASTP conj|because
+	pro:dem|that cop|be&PAST&13S det:art|the adj|last n|class pro:sub|I
+	v|need-PAST inf|to v|graduate coord|and pro:sub|I cop|be&PAST&13S
+	adj|afraid pro:indef|something v|happen-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|COMP 5|7|LINK 6|7|SUBJ 7|12|CJCT 8|10|DET
+	9|10|MOD 10|7|PRED 11|12|SUBJ 12|2|CJCT 13|14|INF 14|12|COMP 15|17|LINK
+	16|17|SUBJ 17|14|CJCT 18|20|JCT 19|20|SUBJ 20|17|PRED 21|2|PUNCT
+*S3:	&}l=READING &=laughs:multiple &{l=READING so I told her to open it
+	for me and she read it .
+%mor:	co|so pro:sub|I v|tell&PAST pro:obj|her inf|to v|open pro:per|it
+	prep|for pro:obj|me coord|and pro:sub|she v|read&ZERO pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|6|JCT
+	9|8|POBJ 10|12|LINK 11|12|SUBJ 12|3|CJCT 13|12|OBJ 14|3|PUNCT
+*S3:	and got all giddy (.) and ran to Kinko's and made about ten
+	thousand copies .
+%mor:	coord|and v|get&PAST adv|all adj|giddy coord|and v|run&PAST prep|to
+	adj|Kinko&dn-POSS coord|and v|make&PAST prep|about det:num|ten
+	det:num|thousand n|copy-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|4|JCT 4|2|JCT 5|4|CONJ 6|5|COORD 7|6|JCT 8|7|POBJ
+	9|4|CONJ 10|9|COORD 11|10|JCT 12|14|QUANT 13|14|QUANT 14|11|POBJ
+	15|2|PUNCT
+*S3:	&}l=READING &=laughs:multiple &{l=READING thanks again for the
+	letter (.) a person can only get an a@l plus grade (.) in an a@l
+	plus class .
+%mor:	v|thank-3S adv|again prep|for det:art|the n|letter det:art|a
+	n|person mod|can adv|only v|get det:art|a n:let|a n|plus n|grade
+	prep|in det:art|a n:let|a n|plus n|class .
+%gra:	1|10|XJCT 2|1|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|7|DET 7|10|SUBJ 8|10|AUX
+	9|10|JCT 10|0|ROOT 11|14|DET 12|14|MOD 13|14|MOD 14|10|OBJ 15|14|NJCT
+	16|19|DET 17|19|MOD 18|19|MOD 19|15|POBJ 20|10|PUNCT
+*S3:	&}l=READING and Carrie (.) wrote to me and said (.) &{l=READING I
+	just wanted to tell you that I know you care about us .
+%mor:	coord|and n:prop|Carrie v|write&PAST prep|to pro:obj|me coord|and
+	v|say&PAST pro:sub|I adv|just part|want-PASTP inf|to v|tell
+	pro:per|you comp|that pro:sub|I v|know pro:per|you v|care prep|about
+	pro:obj|us .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|CONJ 7|6|COORD
+	8|10|SUBJ 9|10|JCT 10|7|COMP 11|12|INF 12|10|COMP 13|12|OBJ 14|16|LINK
+	15|16|SUBJ 16|12|COMP 17|18|SUBJ 18|16|COMP 19|18|JCT 20|19|POBJ 21|3|PUNCT
+*S3:	you should be proud of the job you do here .
+%mor:	pro:per|you mod|should cop|be adj|proud prep|of det:art|the n|job
+	pro:per|you v|do adv|here .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|3|CJCT 10|9|JCT 11|3|PUNCT
+*S3:	aside from your organization and preparation for the class (.) you
+	add life (.) to your teaching .
+%mor:	adv|aside prep|from det:poss|your n|organize&dv-TION coord|and
+	n|prepare&dv-TION prep|for det:art|the n|class pro:per|you v|add
+	n|life prep|to det:poss|your part|teach-PRESP .
+%gra:	1|11|JCT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|CONJ 6|5|COORD 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|11|SUBJ 11|0|ROOT 12|11|OBJ 13|11|JCT 14|15|DET 15|13|POBJ
+	16|11|PUNCT
+*S3:	we can tell you like stats (.) we still don't know why (.) and that
+	makes all the difference .
+%mor:	pro:sub|we mod|can v|tell pro:per|you prep|like n|stat-PL
+	pro:sub|we adv|still mod|do~neg|not v|know pro:int|why coord|and
+	pro:rel|that v|make-3S adv|all det:art|the n|difference .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|11|SUBJ 8|11|JCT
+	9|11|AUX 10|9|NEG 11|3|CJCT 12|11|OBJ 13|12|CONJ 14|15|LINK 15|13|COORD
+	16|18|JCT 17|18|DET 18|15|OBJ 19|3|PUNCT
+*S3:	&}l=READING I do care about my students (.) very much .
+%mor:	pro:sub|I mod|do v|care prep|about det:poss|my n|student-PL
+	adv|very adv|much .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|JCT 8|3|JCT
+	9|3|PUNCT
+*S3:	and over (.) the ten years of teaching here (.) I have had (.) the
+	opportunity (.) to teach (.) over eight thousand students (.) in my
+	classes .
+%mor:	coord|and prep|over det:art|the det:num|ten n|year-PL prep|of
+	part|teach-PRESP adv|here pro:sub|I aux|have part|have&PASTP
+	det:art|the n|opportunity inf|to v|teach adv|over det:num|eight
+	det:num|thousand n|student-PL prep|in det:poss|my n|class-PL .
+%gra:	1|11|LINK 2|11|JCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|5|NJCT 7|6|POBJ
+	8|11|JCT 9|11|SUBJ 10|11|AUX 11|0|ROOT 12|13|DET 13|11|OBJ 14|15|INF 15|11|XJCT
+	16|15|JCT 17|19|QUANT 18|19|QUANT 19|15|OBJ 20|19|NJCT 21|22|DET
+	22|20|POBJ 23|11|PUNCT
+*S3:	and I still try as a goal in my classes to (.) make the learning of
+	statistics (.) make it interesting (.) make it applicable to your
+	daily lives (.) to the fields that you're studying (.) and to
+	sometimes if possible on the way have a little fun .
+%mor:	coord|and pro:sub|I adv|still v|try prep|as det:art|a n|goal
+	prep|in det:poss|my n|class-PL inf|to v|make det:art|the
+	n:gerund|learn-PRESP prep|of n|statistic-PL v|make pro:per|it
+	adj|interesting v|make pro:per|it adj|applicable prep|to
+	det:poss|your adj|daily n|life-PL prep|to det:art|the n|field-PL
+	pro:rel|that pro:per|you~aux|be&PRES part|study-PRESP coord|and
+	inf|to adv|sometimes conj|if adj|possible prep|on det:art|the n|way
+	v|have det:art|a adj|little adj|fun .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|12|INF 12|4|PUNCT 13|14|DET 14|12|OBJ 15|14|JCT
+	16|15|POBJ 17|14|ROOT 18|17|OBJ 19|20|JCT 20|17|COMP 21|20|OBJ 22|20|JCT
+	23|22|JCT 24|26|DET 25|26|MOD 26|23|POBJ 27|26|NJCT 28|29|DET 29|27|POBJ
+	30|33|LINK 31|33|SUBJ 32|33|AUX 33|29|CMOD 34|33|CONJ 35|36|INF
+	36|34|COORD 37|36|INCROOT 38|37|PRED 39|42|LINK 40|41|DET 41|42|SUBJ 42|38|CMOD
+	43|45|DET 44|45|MOD 45|42|OBJ 46|37|PUNCT
+*S3:	and what I wanna do tonight is let you experience a little bit of
+	that .
+%mor:	coord|and pro:int|what pro:sub|I v|want~inf|to v|do adv:tem|tonight
+	cop|be&3S v|let&ZERO pro:per|you v|experience det:art|a adj|little
+	n|bit prep|of pro:dem|that .
+%gra:	1|9|LINK 2|4|LINK 3|4|SUBJ 4|9|SUBJ 5|6|INF 6|4|COMP 7|6|JCT 8|9|AUX
+	9|0|ROOT 10|11|SUBJ 11|9|COMP 12|14|DET 13|14|MOD 14|11|OBJ 15|14|NJCT
+	16|15|POBJ 17|9|PUNCT
+*S3:	I'm going to share with you a little bit about what I teach (.) a
+	little bit about how I teach it (.) and through all that (.) we will
+	see (.) a paradox (.) a penny (.) and we'll end in a performance
+	+...
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|share prep|with
+	pro:per|you det:art|a adj|little n|bit prep|about pro:int|what
+	pro:sub|I v|teach det:art|a adj|little n|bit prep|about pro:int|how
+	pro:sub|I v|teach pro:per|it coord|and adj|through adv|all adv|that
+	pro:sub|we mod|will v|see det:art|a n|paradox det:art|a n|penny
+	coord|and pro:sub|we~mod|will v|end prep|in det:art|a n|performance
+	+...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|10|DET
+	9|10|MOD 10|7|OM 11|10|NJCT 12|14|LINK 13|14|SUBJ 14|11|CPOBJ 15|17|DET
+	16|17|MOD 17|14|OBJ 18|11|JCT 19|21|LINK 20|21|SUBJ 21|18|CPOBJ 22|21|OBJ
+	23|29|LINK 24|29|SUBJ 25|26|JCT 26|29|JCT 27|29|SUBJ 28|29|AUX
+	29|18|CPOBJ 30|31|DET 31|29|OBJ 32|33|DET 33|31|APP 34|37|LINK 35|37|SUBJ
+	36|37|AUX 37|33|CMOD 38|37|JCT 39|40|DET 40|38|POBJ 41|3|PUNCT
+*S3:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	an important aspect of learning (.) involves comparisons .
+%mor:	det:art|a adj|important n|aspect prep|of part|learn-PRESP
+	v|involve-3S n|comparison-PL .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|5|COMP 7|6|OBJ
+	8|3|PUNCT
+*S3:	we make comparisons in_order_to try to predict (.) something that's
+	gonna happen in the future .
+%mor:	pro:sub|we v|make n|comparison-PL inf|in_order_to v|try inf|to
+	v|predict pro:indef|something pro:rel|that~aux|be&3S
+	part|go-PRESP~inf|to v|happen prep|in det:art|the n|future .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XJCT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|11|LINK 10|11|AUX 11|8|CMOD 12|13|INF 13|11|COMP 14|13|JCT 15|16|DET
+	16|14|POBJ 17|2|PUNCT
+*S3:	we make comparisons by (.) judging which of several options might
+	be the better choice .
+%mor:	pro:sub|we v|make n|comparison-PL prep|by n:gerund|judge-PRESP
+	pro:rel|which prep|of qn|several n|option-PL mod|might cop|be
+	det:art|the adj|good&CP n|choice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|11|LINK 7|11|JCT 8|9|QUANT
+	9|7|POBJ 10|11|AUX 11|5|CMOD 12|14|DET 13|14|MOD 14|11|PRED 15|2|PUNCT
+*S3:	maybe we need to decide which of two drugs are going to be more
+	likely to cure some disease .
+%mor:	adv|maybe pro:sub|we v|need inf|to v|decide pro:int|which prep|of
+	det:num|two n|drug-PL aux|be&PRES part|go-PRESP inf|to cop|be
+	adv|more adj|likely inf|to v|cure qn|some n|disease .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|11|LINK 7|6|NJCT 8|9|QUANT
+	9|7|POBJ 10|11|AUX 11|5|COMP 12|13|INF 13|11|COMP 14|15|JCT 15|13|PRED
+	16|17|INF 17|15|XMOD 18|19|QUANT 19|17|OBJ 20|3|PUNCT
+*S3:	or maybe (.) choose between several alternative methods for
+	teaching reading to (.) elementary school children .
+%mor:	coord|or adv|maybe v|choose prep|between qn|several n|alternative
+	v|method-3S prep|for n:gerund|teach-PRESP part|read-PRESP prep|to
+	adj|elementary n|school n|child&PL .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|CJCT 8|7|JCT
+	9|8|POBJ 10|9|XMOD 11|10|JCT 12|14|MOD 13|14|MOD 14|11|POBJ 15|3|PUNCT
+*S3:	what we're gonna do is turn to some data tonight for (.) making a
+	decision between one of two drugs (.) in the treatment of some
+	disease +...
+%mor:	pro:int|what pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|do
+	cop|be&3S v|turn prep|to qn|some n|data adv:tem|tonight prep|for
+	n:gerund|make-PRESP det:art|a n|decision prep|between det:num|one
+	prep|of det:num|two n|drug-PL prep|in det:art|the n|treatment
+	prep|of qn|some n|disease +...
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|8|SUBJ 5|6|INF 6|4|COMP 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|11|QUANT 11|9|POBJ 12|11|NJCT 13|12|JCT 14|13|POBJ 15|16|DET
+	16|14|OBJ 17|16|NJCT 18|17|POBJ 19|18|NJCT 20|21|QUANT 21|19|POBJ
+	22|18|JCT 23|24|DET 24|22|POBJ 25|24|NJCT 26|27|QUANT 27|25|POBJ 28|8|PUNCT
+*S3:	there were (.) two thousand two hundred subjects altogether .
+%mor:	pro:exist|there cop|be&PAST det:num|two det:num|thousand
+	det:num|two det:num|hundred n|subject-PL adv|altogether .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|7|QUANT 5|6|DATE 6|7|QUANT 7|2|PRED
+	8|7|NJCT 9|2|PUNCT
+*S3:	they received one of the two drugs drug A or drug B (.) and (.) we
+	recorded the responses whether or not they improved or not (.) after
+	some period of treatment .
+%mor:	pro:sub|they v|receive-PAST pro:indef|one prep|of det:art|the
+	det:num|two n|drug-PL v|drug n:prop|A coord|or n|drug n:prop|B
+	coord|and pro:sub|we v|record-PAST det:art|the n|response-PL
+	comp|whether coord|or neg|not pro:sub|they v|improve-PAST coord|or
+	neg|not prep|after qn|some n|period prep|of n|treatment .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|8|LINK 5|7|DET 6|7|QUANT 7|8|SUBJ 8|3|CMOD
+	9|8|OBJ 10|8|CONJ 11|12|MOD 12|10|COORD 13|15|LINK 14|15|SUBJ
+	15|10|COORD 16|17|DET 17|15|OBJ 18|22|LINK 19|18|CONJ 20|19|COORD 21|22|SUBJ
+	22|17|CMOD 23|22|CONJ 24|23|COORD 25|24|JCT 26|27|QUANT 27|25|POBJ 28|27|NJCT
+	29|28|POBJ 30|2|PUNCT
+*S3:	there were eleven hundred (.) patients (.) assigned to drug A (.)
+	and of those (.) six hundred improved .
+%mor:	pro:exist|there cop|be&PAST det:num|eleven det:num|hundred
+	n|patient-PL v|assign-PAST prep|to n|drug n:prop|A coord|and prep|of
+	det:dem|those det:num|six det:num|hundred part|improve-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|QUANT 5|2|PRED 6|5|NJCT 7|6|JCT
+	8|7|POBJ 9|6|JCT 10|9|CONJ 11|10|COORD 12|13|DET 13|14|QUANT 14|15|QUANT
+	15|11|POBJ 16|2|PUNCT
+*S3:	that will leave how many that didn't improve ?
+%mor:	adv|that mod|will v|leave pro:int|how qn|many adv|that
+	mod|do&PAST~neg|not v|improve ?
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|9|LINK 5|9|QUANT 6|9|JCT 7|9|AUX 8|7|NEG
+	9|3|COMP 10|3|PUNCT
+*SS:	five hundred .
+%mor:	det:num|five det:num|hundred .
+%gra:	1|2|DATE 2|0|INCROOT 3|2|PUNCT
+*S3:	five hundred .
+%mor:	det:num|five det:num|hundred .
+%gra:	1|2|DATE 2|0|INCROOT 3|2|PUNCT
+*S3:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	&=laughs:multiple six hundred out_of eleven hundred .
+%mor:	det:num|six det:num|hundred prep|out_of det:num|eleven
+	det:num|hundred .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|2|PUNCT
+*S3:	or an improvement rate of (.) fifty five percent .
+%mor:	coord|or det:art|a n|improve&dv-MENT n|rate prep|of det:num|fifty
+	det:num|five n|percent .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|8|QUANT 7|8|QUANT
+	8|5|POBJ 9|4|PUNCT
+*S3:	eleven hundred subjects also (.) taking drug B .
+%mor:	det:num|eleven det:num|hundred n|subject-PL adv|also
+	part|take-PRESP n|drug n:prop|B .
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|5|JCT 5|3|XMOD 6|7|MOD 7|5|OBJ
+	8|3|PUNCT
+*S3:	and of those (.) nine hundred (.) improved .
+%mor:	coord|and prep|of det:dem|those det:num|nine det:num|hundred
+	part|improve-PASTP .
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|0|ROOT 7|6|PUNCT
+*S3:	two hundred did not (.) and an improvement rate here (.) the
+	portion of patients improving here (.) would be (.) the eighty two
+	percent .
+%mor:	det:num|two det:num|hundred mod|do&PAST neg|not coord|and det:art|a
+	n|improve&dv-MENT n|rate adv|here det:art|the n|portion prep|of
+	n|patient-PL part|improve-PRESP adv|here mod|will&COND cop|be
+	det:art|the det:num|eighty det:num|two n|percent .
+%gra:	1|2|QUANT 2|3|QUANT 3|0|INCROOT 4|3|NEG 5|3|CONJ 6|8|DET 7|8|MOD
+	8|5|COORD 9|8|NJCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|8|XMOD
+	15|17|JCT 16|17|AUX 17|14|COMP 18|21|DET 19|21|QUANT 20|21|QUANT 21|17|PRED
+	22|3|PUNCT
+*S3:	well there's the question .
+%mor:	co|well pro:exist|there~cop|be&3S det:art|the n|question .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*S3:	based on (.) those results (.) which drug appears to be better ?
+%mor:	v|base-PAST prep|on det:dem|those n|result-PL pro:rel|which n|drug
+	v|appear-3S inf|to cop|be adj|good&CP ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|9|INF
+	9|7|COMP 10|9|PRED 11|1|PUNCT
+*S3:	tell me .
+%mor:	v|tell pro:obj|me .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*SS:	drug B .
+%mor:	n|drug n:prop|B .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*S3:	drug B .
+%mor:	n|drug n:prop|B .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*S3:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	drug B appears to be the better drug but (.) you know that's not
+	the end of the story we need to look a little closer .
+%mor:	n|drug n:prop|B v|appear-3S inf|to cop|be det:art|the adj|good&CP
+	n|drug conj|but pro:per|you v|know pro:dem|that~cop|be&3S neg|not
+	det:art|the n|end prep|of det:art|the n|story pro:sub|we v|need
+	inf|to v|look det:art|a adj|little adj|close-CP .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|8|DET 7|8|MOD 8|5|PRED
+	9|11|LINK 10|11|SUBJ 11|13|CJCT 12|13|SUBJ 13|3|CJCT 14|13|NEG 15|16|DET
+	16|13|PRED 17|16|NJCT 18|19|DET 19|17|POBJ 20|21|SUBJ 21|16|CMOD 22|23|INF
+	23|21|XJCT 24|26|DET 25|26|MOD 26|23|OBJ 27|3|PUNCT
+*S3:	and it turns out there was actually two hospitals (.) behind the
+	study .
+%mor:	coord|and pro:per|it v|turn-3S prep|out n|there cop|be&PAST&13S
+	adv|actual&dadj-LY det:num|two n|hospital-PL prep|behind det:art|the
+	n|study .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|CJCT 7|8|JCT 8|9|QUANT
+	9|6|PRED 10|9|NJCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*S3:	two hospitals (.) were used .
+%mor:	det:num|two n|hospital-PL aux|be&PAST part|use-PASTP .
+%gra:	1|2|QUANT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*S3:	and we're gonna look at the same results (.) for those two
+	hospitals .
+%mor:	coord|and pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|look
+	prep|at det:art|the adj|same n|result-PL prep|for det:dem|those
+	det:num|two n|hospital-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|6|JCT 12|14|DET 13|14|QUANT 14|11|POBJ 15|4|PUNCT
+*S3:	now first verify for me that (.) if you take these two sets of data
+	here these two tables and put (th)em back together (.) you're gonna
+	get the overall total .
+%mor:	adv|now adv|first v|verify prep|for pro:obj|me comp|that conj|if
+	pro:per|you v|take det:dem|these det:num|two n|set-PL prep|of n|data
+	adv|here det:dem|these det:num|two n|table-PL coord|and v|put&ZERO
+	pro:obj|them adv|back adv|together pro:per|you~aux|be&PRES
+	part|go-PRESP~inf|to v|get det:art|the adj|overall n|total .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|12|DET 11|12|QUANT 12|9|OBJ 13|12|NJCT 14|13|POBJ 15|9|JCT
+	16|18|DET 17|18|QUANT 18|15|POBJ 19|9|CONJ 20|19|COORD 21|20|OBJ 22|20|JCT
+	23|20|JCT 24|26|SUBJ 25|26|AUX 26|20|XJCT 27|28|INF 28|26|COMP
+	29|31|DET 30|31|MOD 31|28|OBJ 32|6|PUNCT
+*S3:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	the nine hundred that improved under drug A here and five ten gives
+	us our (.) six hundred over there .
+%mor:	det:art|the det:num|nine det:num|hundred adv|that
+	part|improve-PASTP adv|under n|drug n:prop|A adv|here coord|and
+	det:num|five det:num|ten v|give-3S pro:obj|us det:poss|our
+	det:num|six det:num|hundred prep|over n|there .
+%gra:	1|3|DET 2|3|QUANT 3|5|QUANT 4|5|JCT 5|0|ROOT 6|8|JCT 7|8|MOD 8|13|SUBJ
+	9|13|JCT 10|9|CONJ 11|10|COORD 12|13|QUANT 13|5|COMP 14|13|OBJ 15|16|DET
+	16|17|QUANT 17|13|OBJ 18|17|NJCT 19|18|POBJ 20|5|PUNCT
+*S3:	so these two tables combined do give us the results (.) in our
+	aggregate .
+%mor:	adv|so det:dem|these det:num|two n|table-PL v|combine-PAST mod|do
+	v|give pro:obj|us det:art|the n|result-PL prep|in det:poss|our
+	adj|aggregate .
+%gra:	1|5|JCT 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|7|AUX 7|5|COMP 8|7|OBJ2
+	9|10|DET 10|7|OBJ 11|7|JCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+*S3:	what about drug A ?
+%mor:	pro:int|what adv|about n|drug n:prop|A ?
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|APP 5|3|PUNCT
+*S3:	how do we do here (.) what (.) proportion of patients improved (.)
+	under drug A at hospital one ?
+%mor:	pro:int|how mod|do pro:sub|we v|do adv|here pro:int|what
+	n|proportion prep|of n|patient-PL part|improve-PASTP adv|under
+	n|drug n:prop|A prep|at n|hospital det:num|one ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|10|JCT 6|7|DET 7|10|CSUBJ 8|7|NJCT
+	9|8|POBJ 10|4|COMP 11|13|JCT 12|13|MOD 13|10|OBJ 14|16|JCT 15|14|POBJ
+	16|13|APP 17|4|PUNCT
+*S3:	what is it (.) ninety out_of a hundred or ?
+%mor:	pro:int|what cop|be&3S pro:per|it det:num|ninety prep|out_of
+	det:art|a det:num|hundred coord|or ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|4|JCT 6|7|DET 7|8|QUANT 8|5|POBJ
+	9|2|PUNCT
+*SS:	ninety percent .
+%mor:	det:num|ninety n|percent .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S3:	ninety percent .
+%mor:	det:num|ninety n|percent .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S3:	what is that proportion for drug B (.) at hospital one ?
+%mor:	pro:int|what cop|be&3S det:dem|that n|proportion prep|for n|drug
+	n:prop|B prep|at n|hospital det:num|one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|MOD 7|5|POBJ 8|4|NJCT
+	9|8|POBJ 10|4|ENUM 11|2|PUNCT
+*SS:	eighty six .
+%mor:	det:num|eighty det:num|six .
+%gra:	1|2|DATE 2|0|INCROOT 3|2|PUNCT
+*S3:	eighty six percent .
+%mor:	det:num|eighty det:num|six n|percent .
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*S3:	which one seems to be the winner here ?
+%mor:	pro:int|which det:num|one cop|seem-3S inf|to cop|be det:art|the
+	n|win&dv-AGT adv|here ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|PRED 8|7|NJCT
+	9|3|PUNCT
+*S3:	drug A .
+%mor:	n|drug n:prop|A .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*S3:	how (a)bout over at hospital two (.) five hundred and ten out_of a
+	thousand so (.) an improvement rate here of ?
+%mor:	pro:int|how adv|about adv|over prep|at n|hospital det:num|two
+	det:num|five det:num|hundred coord|and det:num|ten prep|out_of
+	det:art|a det:num|thousand co|so det:art|a n|improve&dv-MENT n|rate
+	adv|here prep|of ?
+%gra:	1|3|LINK 2|3|JCT 3|8|JCT 4|8|JCT 5|4|POBJ 6|7|QUANT 7|8|QUANT
+	8|17|QUANT 9|8|CONJ 10|9|COORD 11|8|JCT 12|13|DET 13|11|POBJ 14|8|COM 15|17|DET
+	16|17|MOD 17|0|INCROOT 18|19|JCT 19|17|NJCT 20|17|PUNCT
+*SS:	fifty one .
+%mor:	det:num|fifty det:num|one .
+%gra:	1|2|ENUM 2|0|INCROOT 3|2|PUNCT
+*S3:	fifty one percent (.) B has only ?
+%mor:	det:num|fifty det:num|one n|percent n:prop|B v|have&3S adv|only ?
+%gra:	1|2|ENUM 2|3|QUANT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*SS:	forty percent .
+%mor:	det:num|forty n|percent .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S3:	forty percent .
+%mor:	det:num|forty n|percent .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S3:	the winner again (.) drug A .
+%mor:	det:art|the n|win&dv-AGT adv|again v|drug n:prop|A .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*S3:	how can drug A be the winner (.) at each hospital ?
+%mor:	pro:int|how mod|can v|drug n:prop|A cop|be det:art|the n|win&dv-AGT
+	prep|at qn|each n|hospital ?
+%gra:	1|3|JCT 2|3|AUX 3|5|PRED 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|7|NJCT
+	9|10|QUANT 10|8|POBJ 11|5|PUNCT
+*S3:	you take that data and put it together and overall you get that
+	drug B (.) is the winner .
+%mor:	pro:per|you v|take comp|that n|data coord|and v|put&ZERO pro:per|it
+	adv|together coord|and adj|overall pro:per|you v|get det:dem|that
+	n|drug n:prop|B cop|be&3S det:art|the n|win&dv-AGT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|12|LINK 4|12|XJCT 5|4|CONJ 6|5|COORD 7|6|OBJ
+	8|6|JCT 9|4|CONJ 10|9|COORD 11|12|SUBJ 12|2|COMP 13|14|DET 14|12|OBJ
+	15|16|SUBJ 16|14|CMOD 17|18|DET 18|16|PRED 19|2|PUNCT
+*S3:	seems to be a paradox .
+%mor:	cop|seem-3S inf|to cop|be det:art|a n|paradox .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|PRED 6|1|PUNCT
+*S3:	closer look .
+%mor:	adj|close-CP co|look .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S3:	look at the rates for hospital one versus hospital two .
+%mor:	v|look prep|at det:art|the n|rate-PL prep|for n|hospital
+	det:num|one prep|versus n|hospital det:num|two .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|JCT 6|5|POBJ 7|10|QUANT 8|10|JCT
+	9|8|POBJ 10|1|CJCT 11|1|PUNCT
+*S3:	which hospital would you want to be treated at if you hadta be
+	treated for this disease ?
+%mor:	pro:rel|which n|hospital mod|will&COND pro:per|you v|want inf|to
+	aux|be part|treat-PASTP prep|at conj|if pro:per|you
+	mod|have&PAST~inf|to aux|be part|treat-PASTP prep|for det:dem|this
+	n|disease ?
+%gra:	1|2|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|8|INF 7|8|AUX 8|5|COMP
+	9|8|JCT 10|15|LINK 11|15|SUBJ 12|15|AUX 13|15|INF 14|15|AUX 15|9|CPOBJ
+	16|15|JCT 17|18|DET 18|16|POBJ 19|5|PUNCT
+*SS:	hospital one .
+%mor:	n|hospital det:num|one .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*S3:	would you want to go to hospital one or hospital two ?
+%mor:	mod|will&COND pro:per|you v|want inf|to v|go prep|to n|hospital
+	det:num|one coord|or n|hospital det:num|two ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|11|QUANT
+	9|8|CONJ 10|9|COORD 11|5|JCT 12|3|PUNCT
+*SS:	one .
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	one .
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	it has the higher rates of improvement overall .
+%mor:	pro:per|it aux|have&3S det:art|the adj|high-CP n|rate-PL prep|of
+	n|improve&dv-MENT adj|overall .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|POBJ
+	8|7|POSTMOD 9|2|PUNCT
+*S3:	&altho now that might be because (.) maybe the patients that were
+	initially better (.) initial health status was better (.) were sent
+	to hospital one .
+%mor:	adv|now comp|that mod|might cop|be conj|because adv|maybe
+	det:art|the n|patient-PL pro:rel|that cop|be&PAST
+	adv|initial&dadj-LY adj|good&CP adj|initial n|health n|status
+	cop|be&PAST&13S adv|good&CP aux|be&PAST part|send&PASTP prep|to
+	n|hospital det:num|one .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|LINK 6|8|JCT 7|8|DET 8|4|PRED
+	9|10|LINK 10|8|CMOD 11|12|JCT 12|15|MOD 13|15|MOD 14|15|MOD 15|16|SUBJ
+	16|10|PRED 17|19|JCT 18|19|AUX 19|16|PRED 20|19|JCT 21|22|MOD 22|20|POBJ
+	23|4|PUNCT
+*S3:	maybe those that were a little poorer (.) status were sent to
+	hospital two (.) (be)cause maybe hospital two had the facilities to
+	(.) handle those kind of patients if something should go wrong .
+%mor:	adv|maybe pro:dem|those pro:rel|that cop|be&PAST det:art|a
+	adj|little adj|poor-CP n|status aux|be&PAST part|send&PASTP prep|to
+	n|hospital det:num|two conj|because adv|maybe n|hospital det:num|two
+	v|have&PAST det:art|the n|facility-PL inf|to v|handle det:dem|those
+	adj|kind prep|of n|patient-PL comp|if pro:indef|something mod|should
+	v|go n|wrong .
+%gra:	1|2|JCT 2|10|SUBJ 3|4|LINK 4|10|AUX 5|8|DET 6|8|MOD 7|8|MOD 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|10|JCT 12|11|POBJ 13|16|QUANT 14|16|LINK 15|16|JCT
+	16|10|APP 17|18|QUANT 18|16|CMOD 19|20|DET 20|18|OBJ 21|22|INF
+	22|20|XMOD 23|24|DET 24|22|JCT 25|24|JCT 26|25|POBJ 27|30|LINK 28|30|SUBJ
+	29|30|AUX 30|26|CMOD 31|30|OBJ 32|10|PUNCT
+*S3:	drug A was a little bit better than B overall (.) at each hospital
+	.
+%mor:	n|drug n:prop|A cop|be&PAST&13S det:art|a adj|little n|bit
+	adv|good&CP prep|than n:prop|B adj|overall prep|at qn|each
+	n|hospital .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|7|JCT
+	9|8|POBJ 10|8|POBJ 11|10|JCT 12|13|QUANT 13|11|POBJ 14|3|PUNCT
+*S3:	but what happened ?
+%mor:	conj|but pro:int|what v|happen-PAST ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S3:	hospital one had initially the better patients .
+%mor:	n|hospital det:num|one v|have&PAST adv|initial&dadj-LY det:art|the
+	adj|good&CP n|patient-PL .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*S3:	which drug was primarily used at hospital one ?
+%mor:	pro:int|which n|drug aux|be&PAST&13S adv|primary&dadj-LY
+	part|use-PASTP prep|at n|hospital det:num|one ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|5|PUNCT
+*S3:	drug +/.
+%mor:	n|drug +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SS:	⌈ B ⌉ +/.
+%mor:	n:prop|B +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	+, ⌊ B ⌋ .
+%mor:	n:prop|B .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	hospital one had the better patients (.) most of (th)em used drug B
+	hospital two had the generally worse patients (.) most of them used
+	(.) drug A .
+%mor:	n|hospital det:num|one v|have&PAST det:art|the adj|good&CP
+	n|patient-PL pro:indef|most prep|of pro:obj|them v|use-PAST n|drug
+	n:prop|B n|hospital det:num|two v|have&PAST det:art|the
+	adv|general&dadj-LY adj|bad&CP n|patient-PL pro:indef|most prep|of
+	pro:obj|them v|use-PAST n|drug n:prop|A .
+%gra:	1|3|SUBJ 2|3|QUANT 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|XMOD 8|7|NJCT
+	9|8|POBJ 10|7|ENUM 11|13|MOD 12|13|MOD 13|10|OBJ 14|15|QUANT 15|10|COMP
+	16|19|DET 17|18|JCT 18|19|MOD 19|15|OBJ 20|19|XMOD 21|20|NJCT 22|21|POBJ
+	23|20|ENUM 24|23|OBJ 25|24|APP 26|3|PUNCT
+*S3:	can you see how combined the two will give you drug B (.) being
+	better overall ?
+%mor:	mod|can pro:per|you v|see pro:int|how v|combine-PAST det:art|the
+	det:num|two mod|will v|give pro:per|you v|drug n:prop|B n|being
+	adj|good&CP adj|overall ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|9|PRED 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|3|COMP 10|11|SUBJ 11|9|COMP 12|13|MOD 13|11|OBJ 14|15|MOD 15|13|JCT
+	16|3|PUNCT
+*S3:	the initial health status here (.) is a variable that's related to
+	your response .
+%mor:	det:art|the adj|initial n|health n|status adv|here cop|be&3S
+	det:art|a n|variable pro:rel|that~aux|be&3S part|relate-PASTP
+	prep|to det:poss|your n|response .
+%gra:	1|4|DET 2|3|MOD 3|4|MOD 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|8|DET 8|6|PRED
+	9|11|LINK 10|11|AUX 11|8|CMOD 12|11|JCT 13|14|DET 14|12|POBJ 15|6|PUNCT
+*S3:	how you are initially is gonna determine how you would respond (.)
+	whether you improve or not .
+%mor:	pro:int|how pro:per|you aux|be&PRES adv|initial&dadj-LY aux|be&3S
+	part|go-PRESP~inf|to v|determine pro:int|how pro:per|you
+	mod|will&COND v|respond comp|whether pro:per|you v|improve coord|or
+	neg|not .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|6|JCT 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|COMP 13|15|LINK 14|15|SUBJ 15|12|COMP
+	16|15|CONJ 17|16|COORD 18|6|PUNCT
+*S3:	and it's an important variable .
+%mor:	coord|and pro:per|it~cop|be&3S det:art|a adj|important n|variable .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*S3:	the two hospitals were not the same (.) they were not alike with
+	respect to that variable .
+%mor:	det:art|the det:num|two n|hospital-PL cop|be&PAST neg|not
+	det:art|the adj|same pro:sub|they cop|be&PAST neg|not adv|alike
+	prep|with n|respect prep|to det:dem|that n|variable .
+%gra:	1|3|DET 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|DET 7|4|PRED 8|9|SUBJ
+	9|7|CMOD 10|9|NEG 11|9|JCT 12|11|JCT 13|12|POBJ 14|9|JCT 15|16|DET
+	16|14|POBJ 17|4|PUNCT
+*S3:	and the complication [?] gave a reversal .
+%mor:	coord|and det:art|the n|complicate&dv-TION v|give&PAST det:art|a
+	n|reversal .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*S3:	an example of Simpson's Paradox .
+%mor:	det:art|a n|example prep|of adj|Simpson&dn-POSS n:prop|Paradox .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*S3:	perils of aggregation .
+%mor:	n|peril-PL prep|of n|aggregate&dv-TION .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*S3:	the reversal (.) of results when several groups are combined
+	together to form a single group .
+%mor:	det:art|the n|reversal prep|of n|result-PL conj|when qn|several
+	n|group-PL aux|be&PRES part|combine-PASTP adv|together inf|to v|form
+	det:art|a adj|single n|group .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|9|LINK 6|7|QUANT 7|9|SUBJ
+	8|9|AUX 9|2|XMOD 10|9|JCT 11|12|INF 12|9|XJCT 13|15|DET 14|15|MOD 15|12|OBJ
+	16|2|PUNCT
+*S3:	now (.) some analyses fail to take in account these important
+	variables (.) sometimes these variables are not even known .
+%mor:	adv|now pro:indef|some v|analyse-3S v|fail inf|to v|take prep|in
+	n|account det:dem|these adj|important n|variable-PL adv|sometimes
+	pro:dem|these n|variable-PL aux|be&PRES neg|not adv|even
+	part|know&PASTP .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|11|DET 10|11|MOD 11|6|JCT 12|13|JCT 13|11|CMOD 14|18|SUBJ 15|18|AUX
+	16|15|NEG 17|18|JCT 18|13|COMP 19|3|PUNCT
+*S3:	or (.) maybe not even measured .
+%mor:	coord|or adv|maybe neg|not adv|even part|measure-PASTP .
+%gra:	1|5|LINK 2|5|JCT 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*S3:	the example we went through now were some easy numbers it was a
+	contrived example (.) but there are some examples in real life too
+	(.) from which this occurs .
+%mor:	det:art|the n|example pro:sub|we v|go&PAST prep|through adv|now
+	aux|be&PAST qn|some adj|ease&dn-Y n|number-PL pro:per|it
+	aux|be&PAST&13S det:art|a part|contrive-PASTP ex#adj|ample conj|but
+	pro:exist|there cop|be&PRES qn|some n|example-PL prep|in adj|real
+	n|life post|too prep|from pro:rel|which det:dem|this v|occur-3S .
+%gra:	1|2|DET 2|10|SUBJ 3|4|SUBJ 4|2|CMOD 5|4|JCT 6|5|POBJ 7|10|AUX
+	8|10|QUANT 9|10|MOD 10|15|OBJ 11|15|SUBJ 12|15|AUX 13|15|DET 14|15|XMOD 15|0|ROOT
+	16|18|LINK 17|18|SUBJ 18|15|ROOT 19|20|QUANT 20|18|PRED 21|20|NJCT
+	22|23|MOD 23|21|POBJ 24|20|ENUM 25|24|INCROOT 26|28|LINK 27|28|DET
+	28|25|ROOT 29|28|PUNCT
+*S3:	the first one is (.) an NSF (.) study that was (.) conducted on
+	people who received a Bachelor's Degree (.) in the science and
+	engineering fields .
+%mor:	det:art|the adj|first pro:indef|one cop|be&3S det:art|a n:prop|NSF
+	n|study pro:rel|that aux|be&PAST&13S part|conduct-PASTP prep|on
+	n|person&PL pro:rel|who v|receive-PAST det:art|a
+	adj|Bachelor&dn-POSS n:prop|Degree prep|in det:art|the n|science
+	coord|and n|engineering n|field-PL .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|10|LINK
+	9|10|AUX 10|7|CMOD 11|10|JCT 12|11|POBJ 13|14|LINK 14|12|CMOD 15|17|DET
+	16|17|MOD 17|14|OBJ 18|14|JCT 19|20|DET 20|18|POBJ 21|14|CONJ 22|23|MOD
+	23|21|COORD 24|4|PUNCT
+*S3:	overall women (.) who had a full+time job (.) earned an average
+	salary (.) that was seventy seven percent (.) of the average male
+	salary .
+%mor:	adj|overall n|woman&PL pro:rel|who v|have&PAST det:art|a
+	adv|+adj|full+n|time n|job v|earn-PAST det:art|a n|average n|salary
+	pro:rel|that cop|be&PAST&13S det:num|seventy det:num|seven n|percent
+	prep|of det:art|the n|average adj|male n|salary .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|7|DET 6|7|MOD 7|8|SUBJ 8|4|COMP
+	9|11|DET 10|11|MOD 11|8|OBJ 12|13|LINK 13|11|CMOD 14|16|QUANT
+	15|16|QUANT 16|13|PRED 17|16|NJCT 18|19|DET 19|21|MOD 20|21|MOD 21|17|POBJ
+	22|2|PUNCT
+*S3:	but if you made a comparison of the salaries within each field (.)
+	in the sciences (.) in each case (.) the average salary for women
+	was at least ninety two percent (.) the average salary of males .
+%mor:	conj|but conj|if pro:per|you v|make&PAST det:art|a n|comparison
+	prep|of det:art|the n|salary-PL prep|within qn|each n|field prep|in
+	det:art|the n|science-PL prep|in qn|each n|case det:art|the
+	n|average n|salary prep|for n|woman&PL cop|be&PAST&13S prep|at
+	n|least det:num|ninety det:num|two n|percent det:art|the n|average
+	n|salary prep|of n|male-PL .
+%gra:	1|24|LINK 2|4|LINK 3|4|SUBJ 4|24|CJCT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|4|JCT 11|12|QUANT 12|10|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|4|JCT 17|18|QUANT 18|16|POBJ 19|21|DET 20|21|MOD 21|24|SUBJ
+	22|21|NJCT 23|22|POBJ 24|0|ROOT 25|24|JCT 26|29|MOD 27|29|QUANT 28|29|QUANT
+	29|25|POBJ 30|32|DET 31|32|MOD 32|29|OBJ 33|32|NJCT 34|33|POBJ 35|24|PUNCT
+*S3:	what's the explanation in this example ?
+%mor:	pro:int|what~cop|be&3S det:art|the n|explanation prep|in
+	det:dem|this ex#adj|ample ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*S3:	women are more concentrated in what areas of &bu [?] of sciences ?
+%mor:	n|woman&PL aux|be&PRES adv|more part|concentrate-PASTP prep|in
+	pro:int|what n|area-PL prep|of prep|of n|science-PL ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|JCT 10|9|POBJ 11|4|PUNCT
+*S3:	social sciences (.) life sciences .
+%mor:	adj|social n|science-PL n|life n|science-PL .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*S3:	those sciences in general would have what kind of salaries compared
+	to the others (.) in science and engineering fields ?
+%mor:	det:dem|those n|science-PL prep|in adj|general mod|will&COND v|have
+	pro:int|what n|kind prep|of n|salary-PL v|compare-PAST prep|to
+	det:art|the n:pt|others prep|in n|science coord|and n|engineering
+	n|field-PL ?
+%gra:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|3|POBJ 5|6|AUX 6|0|ROOT 7|11|LINK 8|11|SUBJ
+	9|8|NJCT 10|9|POBJ 11|6|COMP 12|11|JCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|14|CONJ 18|19|MOD 19|17|COORD 20|6|PUNCT
+*SS:	⌈ lower ⌉ .
+%mor:	v|lower .
+%gra:	1|0|ROOT 2|1|PUNCT
+*S3:	⌊ the lower ⌋ ones .
+%mor:	det:art|the adj|low-CP pro:indef|one-PL .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S3:	women were more concentrated in the fields that have the lower
+	salaries (.) to begin with .
+%mor:	n|woman&PL aux|be&PAST adv|more part|concentrate-PASTP prep|in
+	det:art|the n|field-PL pro:rel|that v|have det:art|the adj|low-CP
+	n|salary-PL inf|to v|begin prep|with .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|LINK
+	9|7|CMOD 10|12|DET 11|12|MOD 12|9|OBJ 13|14|INF 14|12|XMOD 15|14|JCT
+	16|4|PUNCT
+*S3:	another study was a survey (.) that was conducted back in nineteen
+	seventy two (.) and then a follow+up survey was taken place twenty
+	years later (.) to look at the survival rates for smokers versus
+	nonsmokers .
+%mor:	qn|another n|study cop|be&PAST&13S det:art|a n|survey pro:rel|that
+	aux|be&PAST&13S part|conduct-PASTP adv|back prep|in det:num|nineteen
+	det:num|seventy det:num|two coord|and adv:tem|then det:art|a
+	n|+v|follow+prep|up n|survey aux|be&PAST&13S part|take&PASTP n|place
+	det:num|twenty n|year-PL adv|later inf|to v|look prep|at det:art|the
+	n|survival v|rate-3S prep|for n|smoke&dv-AGT-PL prep|versus
+	non#n|smoke&dv-AGT-PL .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|8|LINK 7|8|AUX 8|5|CMOD
+	9|8|JCT 10|8|JCT 11|12|DATE 12|13|QUANT 13|10|POBJ 14|20|LINK 15|20|JCT
+	16|18|DET 17|18|MOD 18|20|SUBJ 19|20|AUX 20|13|CJCT 21|23|MOD
+	22|23|QUANT 23|20|OBJ 24|23|NJCT 25|26|INF 26|24|XMOD 27|26|JCT 28|29|DET
+	29|27|POBJ 30|26|XJCT 31|30|JCT 32|31|POBJ 33|30|JCT 34|33|POBJ 35|3|PUNCT
+*S3:	overall (.) seventy six percent of the smokers had survived .
+%mor:	adj|overall det:num|seventy det:num|six n|percent prep|of
+	det:art|the n|smoke&dv-AGT-PL aux|have&PAST part|survive-PASTP .
+%gra:	1|4|MOD 2|4|QUANT 3|4|QUANT 4|9|SUBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|9|AUX
+	9|0|ROOT 10|9|PUNCT
+*S3:	only sixty nine percent of the nonsmokers .
+%mor:	adv|only det:num|sixty det:num|nine n|percent prep|of det:art|the
+	non#n|smoke&dv-AGT-PL .
+%gra:	1|0|INCROOT 2|4|QUANT 3|4|QUANT 4|1|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|1|PUNCT
+*S3:	seems to say that there's a beneficial effect of cigarette smoke .
+%mor:	cop|seem-3S inf|to v|say comp|that pro:exist|there~cop|be&3S
+	det:art|a adj|beneficial n|effect prep|of n|cigarette n|smoke .
+%gra:	1|0|ROOT 2|3|INF 3|1|CPRED 4|6|LINK 5|6|SUBJ 6|3|COMP 7|9|DET 8|9|MOD
+	9|6|PRED 10|9|NJCT 11|12|MOD 12|10|POBJ 13|1|PUNCT
+*S3:	&=laughs:multiple what variable's gonna be strongly related to (.)
+	your survival +..?
+%mor:	pro:int|what n|variable~aux|be&3S part|go-PRESP~inf|to cop|be
+	adv|strong&dadj-LY v|relate-PAST prep|to det:poss|your n|survival
+	+..?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|JCT 8|6|PRED
+	9|8|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*S3:	is a young person gonna be more likely to survive twenty years or
+	an older person ?
+%mor:	cop|be&3S det:art|a adj|young n|person part|go-PRESP~inf|to cop|be
+	adv|more adj|likely inf|to v|survive det:num|twenty n|year-PL
+	coord|or det:art|a adj|old-CP n|person ?
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|PRED 5|4|XMOD 6|7|INF 7|5|COMP 8|9|JCT
+	9|7|PRED 10|11|INF 11|9|XMOD 12|13|QUANT 13|11|OBJ 14|13|CONJ 15|17|DET
+	16|17|MOD 17|14|COORD 18|1|PUNCT
+*SS:	⌈ younger ⌉ .
+%mor:	adj|young-CP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	⌊ a ⌋ young person so age is an important variable here .
+%mor:	det:art|a adj|young n|person adv|so n|age cop|be&3S det:art|a
+	adj|important n|variable adv|here .
+%gra:	1|3|DET 2|3|MOD 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|PRED 10|9|NJCT 11|6|PUNCT
+*S3:	and it turned out in the original survey (.) very few of the older
+	women were smokers .
+%mor:	coord|and pro:per|it v|turn-PAST adv|out prep|in det:art|the
+	adj|origin&dn-AL n|survey adv|very qn|few prep|of det:art|the
+	adj|old-CP n|woman&PL cop|be&PAST n|smoke&dv-AGT-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|10|JCT 10|11|QUANT 11|8|NJCT 12|14|DET 13|14|MOD 14|15|SUBJ 15|11|POBJ
+	16|15|PRED 17|3|PUNCT
+*S3:	but most of them had died (.) by the time the follow+up came along
+	.
+%mor:	conj|but qn|most prep|of pro:obj|them v|have&PAST v|die-PAST
+	prep|by det:art|the n|time det:art|the n|+v|follow+prep|up
+	v|come&PAST adv|along .
+%gra:	1|5|LINK 2|5|QUANT 3|2|NJCT 4|3|POBJ 5|12|CJCT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|11|DET 11|12|SUBJ 12|0|ROOT 13|12|JCT 14|12|PUNCT
+*S3:	if you looked at the results (.) on age groups (.) it turned out
+	that (.) smokers <can only> [?] have the lower survival rate as
+	compared to the nonsmokers .
+%mor:	conj|if pro:per|you part|look-PASTP prep|at det:art|the n|result-PL
+	prep|on n|age v|group-3S pro:per|it v|turn-PAST adv|out comp|that
+	n|smoke&dv-AGT-PL n|can adv|only v|have det:art|the v|lower
+	n|survival n|rate prep|as part|compare-PASTP prep|to det:art|the
+	non#n|smoke&dv-AGT-PL .
+%gra:	1|9|LINK 2|9|SUBJ 3|9|XJCT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|7|POBJ
+	9|11|CJCT 10|11|SUBJ 11|0|ROOT 12|17|JCT 13|15|LINK 14|15|MOD 15|17|SUBJ
+	16|17|JCT 17|11|COMP 18|19|DET 19|17|COMP 20|21|MOD 21|19|OBJ 22|23|COORD
+	23|19|XJCT 24|23|JCT 25|26|DET 26|24|POBJ 27|11|PUNCT
+*S3:	so some examples that actually occur +...
+%mor:	adv|so qn|some n|example-PL pro:rel|that adv|actual&dadj-LY v|occur
+	+...
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|6|LINK 5|6|JCT 6|3|CMOD 7|3|PUNCT
+*S3:	another example (.) that presents some interesting results (.)
+	diagnostic tests .
+%mor:	qn|another n|example pro:rel|that v|present-3S qn|some
+	adj|interesting n|result-PL adj|diagnostic n|test-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|7|QUANT 6|7|MOD 7|9|MOD
+	8|9|MOD 9|4|OBJ 10|2|PUNCT
+*S3:	for a disease .
+%mor:	prep|for det:art|a n|disease .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*S3:	the test is supposed to tell you whether or not you have the
+	disease (.) by indicating a plus or a minus response .
+%mor:	det:art|the n|test aux|be&3S part|suppose-PASTP inf|to v|tell
+	pro:per|you comp|whether coord|or neg|not pro:per|you v|have
+	det:art|the n|disease adv|by part|indicate-PRESP det:art|a n|plus
+	coord|or det:art|a n|minus n|response .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|12|LINK
+	9|8|CONJ 10|9|COORD 11|12|SUBJ 12|6|COMP 13|14|DET 14|12|OBJ 15|12|JCT
+	16|12|XJCT 17|18|DET 18|16|OBJ 19|18|CONJ 20|22|DET 21|22|MOD 22|19|COORD
+	23|4|PUNCT
+*S3:	we have some results about a test .
+%mor:	pro:sub|we v|have qn|some n|result-PL prep|about det:art|a n|test .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*S3:	it says that if you were to take this test and give it to a group
+	of people that do have the disease (.) that ninety nine percent of
+	them should test positively .
+%mor:	pro:per|it v|say-3S comp|that conj|if pro:per|you cop|be&PAST
+	inf|to v|take det:dem|this n|test coord|and v|give pro:per|it
+	prep|to det:art|a n|group prep|of n|person&PL pro:rel|that mod|do
+	v|have det:art|the n|disease pro:rel|that det:num|ninety
+	det:num|nine n|percent prep|of pro:obj|them mod|should v|test
+	adv|positive&dadj-LY .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|8|INF 8|6|CPRED
+	9|10|DET 10|8|OBJ 11|8|CONJ 12|11|COORD 13|12|OBJ 14|12|JCT 15|16|DET
+	16|14|POBJ 17|16|NJCT 18|17|POBJ 19|21|LINK 20|21|AUX 21|18|CMOD 22|23|DET
+	23|21|OBJ 24|27|LINK 25|27|QUANT 26|27|QUANT 27|31|SUBJ 28|27|NJCT
+	29|28|POBJ 30|31|AUX 31|23|CMOD 32|31|JCT 33|2|PUNCT
+*S3:	if <we would> [?] take that test and go to a group of people that
+	don't have the disease (.) ninety percent of them should test
+	negative .
+%mor:	conj|if pro:sub|we mod|will&COND v|take pro:dem|that v|test
+	coord|and v|go prep|to det:art|a n|group prep|of n|person&PL
+	pro:rel|that mod|do~neg|not v|have det:art|the n|disease
+	det:num|ninety n|percent prep|of pro:obj|them mod|should v|test
+	adj|negative .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|6|CONJ 8|7|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|17|LINK 15|17|AUX
+	16|15|NEG 17|13|CMOD 18|19|DET 19|17|OBJ 20|21|QUANT 21|25|SUBJ
+	22|21|NJCT 23|22|POBJ 24|25|AUX 25|19|CMOD 26|25|JCT 27|6|PUNCT
+*S3:	and about one percent of the population (.) don't +//.
+%mor:	coord|and prep|about det:num|one n|percent prep|of det:art|the
+	n|populate&dv-TION mod|do~neg|not +//.
+%gra:	1|8|LINK 2|8|JCT 3|4|QUANT 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|0|ROOT
+	9|8|NEG 10|8|PUNCT
+*S3:	found to have the disease (.) that's our initial estimate .
+%mor:	v|found inf|to v|have det:art|the n|disease pro:rel|that~cop|be&3S
+	det:poss|our adj|initial n|estimate .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|7|LINK 7|5|CMOD 8|10|DET
+	9|10|MOD 10|7|PRED 11|1|PUNCT
+*S3:	let's suppose (.) that you have the test done (.) and the test
+	comes back positive .
+%mor:	v|let~pro:obj|us v|suppose comp|that pro:per|you v|have det:art|the
+	n|test part|do&PASTP coord|and det:art|the n|test v|come-3S adv|back
+	adj|positive .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|6|LINK 5|6|SUBJ 6|3|COMP 7|8|DET 8|6|OBJ
+	9|8|XMOD 10|13|LINK 11|12|DET 12|13|SUBJ 13|9|CJCT 14|13|JCT 15|13|JCT
+	16|1|PUNCT
+*S3:	should you worry +..?
+%mor:	mod|should pro:per|you v|worry +..?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S3:	what would be your chance (.) that you actually have the disease ?
+%mor:	pro:int|what mod|will&COND cop|be det:poss|your n|chance
+	pro:rel|that pro:per|you adv|actual&dadj-LY v|have det:art|the
+	n|disease ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|PRED 6|9|LINK 7|9|SUBJ 8|9|JCT
+	9|5|CMOD 10|11|DET 11|9|OBJ 12|3|PUNCT
+*S3:	now I know some of you know the answer .
+%mor:	adv|now pro:sub|I v|know pro:indef|some prep|of pro:per|you v|know
+	det:art|the n|answer .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|3|COMP 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*S3:	I know some of you have seen the answer before but may have
+	forgotten (.) a couple years ago (.) what do you think ?
+%mor:	pro:sub|I v|know qn|some prep|of pro:per|you v|have part|see&PASTP
+	det:art|the n|answer adv|before conj|but mod|may aux|have
+	part|forget&PASTP det:art|a qn|couple n|year-PL post|ago
+	pro:int|what mod|do pro:per|you v|think ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|JCT 5|6|SUBJ 6|2|COMP 7|6|COMP 8|9|DET
+	9|7|OBJ 10|7|JCT 11|6|CONJ 12|14|AUX 13|14|AUX 14|22|XJCT 15|16|DET
+	16|17|QUANT 17|14|OBJ 18|17|POSTMOD 19|22|SUBJ 20|22|AUX 21|22|SUBJ
+	22|11|COORD 23|2|PUNCT
+*S3:	do you think that your chance of having the disease if the test
+	comes back positive should be at least (.) twenty five percent ?
+%mor:	mod|do pro:per|you v|think comp|that det:poss|your n|chance prep|of
+	part|have-PRESP det:art|the n|disease comp|if det:art|the n|test
+	v|come-3S adv|back adj|positive mod|should cop|be prep|at n|least
+	det:num|twenty det:num|five n|percent ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|10|DET 10|8|OBJ 11|14|LINK 12|13|DET 13|14|SUBJ 14|10|CMOD 15|14|JCT
+	16|18|SUBJ 17|18|AUX 18|14|COMP 19|18|JCT 20|23|MOD 21|23|QUANT 22|23|QUANT
+	23|19|POBJ 24|3|PUNCT
+*S3:	if you think it should be at least twenty five percent chance that
+	you have the disease (.) if you test positive what do you think
+	raise your hand .
+%mor:	conj|if pro:per|you v|think pro:per|it mod|should cop|be prep|at
+	n|least det:num|twenty det:num|five n|percent n|chance pro:rel|that
+	pro:per|you v|have det:art|the n|disease conj|if pro:per|you v|test
+	adj|positive pro:int|what mod|do pro:per|you v|think v|raise
+	det:poss|your n|hand .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|CJCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|12|MOD
+	9|11|QUANT 10|11|QUANT 11|12|MOD 12|7|POBJ 13|15|LINK 14|15|SUBJ
+	15|12|CMOD 16|17|DET 17|15|OBJ 18|20|LINK 19|20|SUBJ 20|15|CJCT 21|20|PRED
+	22|25|OBJ 23|25|AUX 24|25|SUBJ 25|21|CMOD 26|25|COMP 27|28|DET 28|26|OBJ
+	29|6|PUNCT
+*S3:	how many think it should be at least twenty five percent +..?
+%mor:	pro:int|how qn|many v|think pro:per|it mod|should cop|be prep|at
+	n|least det:num|twenty det:num|five n|percent +..?
+%gra:	1|3|LINK 2|3|QUANT 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|JCT 8|11|MOD
+	9|11|QUANT 10|11|QUANT 11|7|POBJ 12|3|PUNCT
+*S3:	mhm +...
+%mor:	co|mhm=yes +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	when I give this to my class initially (.) majority do .
+%mor:	conj|when pro:sub|I v|give det:dem|this prep|to det:poss|my n|class
+	adv|initial&dadj-LY n|majority v|do .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|10|DET 5|4|JCT 6|7|DET 7|5|POBJ 8|10|JCT
+	9|10|SUBJ 10|3|COMP 11|3|PUNCT
+*S3:	raise their hand when I give it to parents of prospective students
+	when I talk to them (.) most of those parents (.) raise their hand .
+%mor:	v|raise det:poss|their n|hand conj|when pro:sub|I v|give pro:per|it
+	prep|to n|parent-PL prep|of adj|prospective n|student-PL conj|when
+	pro:sub|I v|talk prep|to pro:obj|them pro:indef|most prep|of
+	det:dem|those n|parent-PL v|raise det:poss|their n|hand .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|LINK 5|6|SUBJ 6|1|CJCT 7|6|OBJ 8|6|JCT
+	9|8|POBJ 10|9|NJCT 11|12|MOD 12|10|POBJ 13|15|LINK 14|15|SUBJ 15|6|CJCT
+	16|15|JCT 17|22|SUBJ 18|22|SUBJ 19|18|NJCT 20|21|DET 21|19|POBJ 22|16|CPOBJ
+	23|24|DET 24|22|OBJ 25|1|PUNCT
+*S3:	at least twenty five percent .
+%mor:	prep|at n|least det:num|twenty det:num|five n|percent .
+%gra:	1|0|INCROOT 2|5|MOD 3|5|QUANT 4|5|QUANT 5|1|POBJ 6|1|PUNCT
+*S3:	the actual answer is +...
+%mor:	det:art|the adj|actual n|answer cop|be&3S +...
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S3:	about nine percent .
+%mor:	prep|about det:num|nine n|percent .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|1|PUNCT
+*S3:	that means among those people that have a positive result ninety
+	one percent of them don't have the disease .
+%mor:	pro:dem|that v|mean-3S prep|among det:dem|those n|person&PL
+	pro:rel|that v|have det:art|a n|positive n|result det:num|ninety
+	det:num|one n|percent prep|of pro:obj|them mod|do~neg|not v|have
+	det:art|the n|disease .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|LINK 7|5|CMOD 8|10|DET
+	9|10|MOD 10|7|OBJ 11|13|QUANT 12|13|QUANT 13|18|SUBJ 14|13|NJCT
+	15|14|POBJ 16|18|AUX 17|16|NEG 18|10|CMOD 19|20|DET 20|18|OBJ 21|2|PUNCT
+*S3:	seems kinda surprising .
+%mor:	cop|seem-3S adv|kinda part|surprise-PRESP .
+%gra:	1|0|ROOT 2|3|JCT 3|1|PRED 4|1|PUNCT
+*S3:	well we're gonna verify this answer (.) and then we're gonna
+	discuss a little bit about why it is so surprising .
+%mor:	n|well pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|verify
+	det:dem|this n|answer coord|and adv:tem|then pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to v|discuss det:art|a adj|little n|bit prep|about
+	pro:int|why pro:per|it aux|be&3S adv|so part|surprise-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|13|LINK 10|13|JCT 11|13|SUBJ 12|13|AUX 13|8|CMOD 14|15|INF 15|13|COMP
+	16|18|DET 17|18|MOD 18|15|OBJ 19|15|JCT 20|24|LINK 21|24|SUBJ 22|24|AUX
+	23|24|JCT 24|19|CPOBJ 25|4|PUNCT
+*S3:	to verify the answer though (.) I need some help .
+%mor:	inf|to v|verify det:art|the n|answer conj|though pro:sub|I v|need
+	qn|some n|help .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|9|QUANT
+	9|7|OBJ 10|2|PUNCT
+*S3:	I came in (.) this room (.) about four weeks ago (.) and I actually
+	counted the chairs in the section right here .
+%mor:	pro:sub|I v|come&PAST prep|in det:dem|this n|room prep|about
+	det:num|four n|week-PL post|ago coord|and pro:sub|I
+	adv|actual&dadj-LY v|count-PAST det:art|the n|chair-PL prep|in
+	det:art|the n|section adv|right adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|8|QUANT 8|6|POBJ
+	9|8|POSTMOD 10|13|LINK 11|13|SUBJ 12|13|JCT 13|2|CJCT 14|15|DET 15|13|OBJ
+	16|13|JCT 17|18|DET 18|16|POBJ 19|20|JCT 20|13|JCT 21|2|PUNCT
+*S3:	and there're about a hundred chairs (.) in this middle section .
+%mor:	coord|and pro:exist|there~cop|be&PRES prep|about det:art|a
+	det:num|hundred n|chair-PL prep|in det:dem|this adj|middle n|section
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|QUANT 7|4|POBJ 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|3|PUNCT
+*S3:	this is gonna represent our population .
+%mor:	pro:dem|this aux|be&3S part|go-PRESP~inf|to v|represent
+	det:poss|our n|populate&dv-TION .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*S3:	of a hundred people .
+%mor:	prep|of det:art|a det:num|hundred n|person&PL .
+%gra:	1|0|INCROOT 2|4|DET 3|4|QUANT 4|1|POBJ 5|1|PUNCT
+*S3:	now according to our statement up here about one percent of the
+	population actually have the disease .
+%mor:	adv|now part|accord-PRESP prep|to det:poss|our n|state&dv-MENT
+	prep|up n|here prep|about det:num|one n|percent prep|of det:art|the
+	n|populate&dv-TION adv|actual&dadj-LY v|have det:art|the n|disease .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|6|POBJ 8|2|JCT
+	9|10|QUANT 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|15|JCT 15|2|CJCT
+	16|17|DET 17|15|OBJ 18|2|PUNCT
+*S3:	so how many out_of our [?] one hundred people or one hundred chairs
+	would be a person with the disease ?
+%mor:	co|so pro:rel|how qn|many prep|out_of det:poss|our det:num|one
+	det:num|hundred n|person&PL coord|or det:num|one det:num|hundred
+	n|chair-PL mod|will&COND cop|be det:art|a n|person prep|with
+	det:art|the n|disease ?
+%gra:	1|3|COM 2|3|LINK 3|0|ROOT 4|3|JCT 5|6|DET 6|8|QUANT 7|8|QUANT 8|4|POBJ
+	9|14|LINK 10|12|QUANT 11|12|QUANT 12|14|SUBJ 13|14|AUX 14|8|CMOD
+	15|16|DET 16|14|PRED 17|16|NJCT 18|19|DET 19|17|POBJ 20|3|PUNCT
+*SS:	one .
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	one .
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	I need one person please .
+%mor:	pro:sub|I v|need det:num|one n|person v|please .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*S3:	&=girl_from_audience_stands_near_s3:SUf
+	&=gives_girl_a_sign_to_hold:S3 &=laughs:multiple I know this person
+	this is Laura (.) &=laughs:multiple Laura has the disease (.) okay ?
+%mor:	pro:sub|I v|know det:dem|this n|person pro:dem|this cop|be&3S
+	n:prop|Laura n:prop|Laura v|have&3S det:art|the n|disease adj|okay ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|SUBJ 6|2|COMP 7|8|NAME 8|9|SUBJ
+	9|6|CPRED 10|11|DET 11|9|OBJ 12|11|POSTMOD 13|2|PUNCT
+*S3:	&=laughs:multiple it also says that (.) if you take a group of
+	people that have the disease (.) ninety nine percent should test
+	positively .
+%mor:	pro:per|it adv|also v|say-3S comp|that conj|if pro:per|you v|take
+	det:art|a n|group prep|of n|person&PL pro:rel|that v|have
+	det:art|the n|disease det:num|ninety det:num|nine n|percent
+	mod|should v|test adv|positive&dadj-LY .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|10|POBJ 12|13|LINK 13|11|CMOD 14|15|DET 15|13|OBJ
+	16|18|QUANT 17|18|QUANT 18|20|SUBJ 19|20|AUX 20|15|CMOD 21|20|JCT
+	22|3|PUNCT
+*S3:	so there should be a ninety nine percent chance (.) that she tests
+	positively .
+%mor:	adv|so adv|there mod|should cop|be det:art|a det:num|ninety
+	det:num|nine n|percent n|chance comp|that pro:sub|she v|test-3S
+	adv|positive&dadj-LY .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|9|DET 6|8|QUANT 7|8|QUANT 8|9|MOD
+	9|4|PRED 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|JCT 14|4|PUNCT
+*S3:	so let's suppose the test does well and it does give her a positive
+	result .
+%mor:	adv|so v|let~pro:obj|us v|suppose det:art|the n|test mod|do&3S
+	n|well coord|and pro:per|it mod|do&3S v|give pro:obj|her det:art|a
+	n|positive n|result .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|DET 6|8|SUBJ 7|8|AUX 8|4|OBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|4|CJCT 13|12|OBJ2 14|16|DET 15|16|MOD
+	16|12|OBJ 17|2|PUNCT
+*S3:	so you have a positive test result (.) I want you to move over here
+	just a little bit further .
+%mor:	co|so pro:per|you v|have det:art|a n|positive n|test n|result
+	pro:sub|I v|want pro:per|you prep|to n|move prep|over n|here
+	adv|just det:art|a adj|little n|bit adv|further .
+%gra:	1|3|COM 2|3|SUBJ 3|9|JCT 4|7|DET 5|6|MOD 6|7|MOD 7|3|OBJ 8|9|SUBJ
+	9|0|ROOT 10|9|OBJ 11|10|JCT 12|11|POBJ 13|9|JCT 14|13|POBJ 15|18|JCT
+	16|18|DET 17|18|MOD 18|9|JCT 19|18|NJCT 20|9|PUNCT
+*S3:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	&=laughs:multiple now (.) there's ninety nine people left here (.)
+	that don't have the disease .
+%mor:	adv|now pro:exist|there~cop|be&3S det:num|ninety det:num|nine
+	n|person&PL v|leave&PAST adv|here pro:rel|that mod|do~neg|not v|have
+	det:art|the n|disease .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|QUANT 6|7|SUBJ 7|3|CPRED
+	8|7|JCT 9|12|LINK 10|12|AUX 11|10|NEG 12|8|CMOD 13|14|DET 14|12|OBJ 15|3|PUNCT
+*S3:	about ninety percent of them should test negatively .
+%mor:	prep|about det:num|ninety n|percent prep|of pro:obj|them mod|should
+	v|test adv|negative&dadj-LY .
+%gra:	1|7|JCT 2|3|QUANT 3|1|POBJ 4|3|NJCT 5|4|POBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+*S3:	that leaves what percent as positive ?
+%mor:	adv|that v|leave-3S pro:int|what n|percent conj|as n|positive ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|COORD 6|4|ENUM 7|2|PUNCT
+*SS:	ten .
+%mor:	det:num|ten .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	ten percent .
+%mor:	det:num|ten n|percent .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S3:	ten percent of ninety nine is about ?
+%mor:	det:num|ten n|percent prep|of det:num|ninety det:num|nine cop|be&3S
+	adv|about ?
+%gra:	1|2|QUANT 2|6|SUBJ 3|2|NJCT 4|3|POBJ 5|6|QUANT 6|0|ROOT 7|6|JCT
+	8|6|PUNCT
+*SS:	ten .
+%mor:	det:num|ten .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	ten .
+%mor:	det:num|ten .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	I need ten more people .
+%mor:	pro:sub|I v|need det:num|ten adv|more n|person&PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|JCT 5|2|OBJ 6|2|PUNCT
+*S3:	you wanna come [/] come on .
+%mor:	pro:per|you v|want~inf|to v|come adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|2|PUNCT
+*S3:	&=people_go_stand_near_s3:SS &=gives_people_signs_to_hold:S3
+	&=laughs:multiple alright doesn't hurt (.) just come on up .
+%mor:	co|alright mod|do&3S~neg|not part|hurt&PASTP adv|just v|come
+	prep|on adv|up .
+%gra:	1|4|COM 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|JCT 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+*S3:	take your not diseased sign (.) and go stand a little closer to
+	Laura over here she's not contagious anymore (.) &=laughs:multiple I
+	need ten people .
+%mor:	v|take det:poss|your neg|not adj|diseased n|sign coord|and v|go
+	v|stand det:art|a adj|little adj|close-CP prep|to n:prop|Laura
+	prep|over n|here pro:sub|she~cop|be&3S neg|not adj|contagious
+	adv|anymore pro:sub|I v|need det:num|ten n|person&PL .
+%gra:	1|0|ROOT 2|5|DET 3|2|NEG 4|5|MOD 5|1|OBJ 6|8|LINK 7|8|SRL 8|1|CJCT
+	9|11|DET 10|11|MOD 11|8|OBJ 12|11|JCT 13|12|POBJ 14|17|JCT 15|14|POBJ
+	16|17|SUBJ 17|12|CPOBJ 18|17|NEG 19|22|JCT 20|19|JCT 21|22|SUBJ 22|17|CPRED
+	23|24|QUANT 24|22|OBJ 25|1|PUNCT
+*S3:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*S3:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*S3:	&=laughs:multiple we have lots_of volunteers for those that don't
+	have the disease &=laughs:multiple xxx for those that do .
+%mor:	pro:sub|we v|have qn|lots_of n|volunteer-PL prep|for det:dem|those
+	pro:rel|that mod|do~neg|not v|have det:art|the n|disease prep|for
+	pro:dem|those adv|that v|do .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|10|LINK
+	8|10|AUX 9|8|NEG 10|6|CMOD 11|12|DET 12|10|OBJ 13|10|JCT 14|13|POBJ 15|16|JCT
+	16|10|CJCT 17|2|PUNCT
+*S3:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	<I'm an ND> [?] .
+%mor:	pro:sub|I~cop|be&1S det:art|a n:prop|ND .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*S3:	you're an ND .
+%mor:	pro:per|you~cop|be&PRES det:art|a n:prop|ND .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*S3:	&=laughs:multiple .
+*SUM:	xxx &=laughs:multiple .
+*S3:	I need one more .
+%mor:	pro:sub|I v|need pro:indef|one adv|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*SUF:	there's someone back here .
+%mor:	pro:exist|there~cop|be&3S pro:indef|someone adv|back adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|3|JCT 6|2|PUNCT
+*S3:	there's someone back here ?
+%mor:	pro:exist|there~cop|be&3S pro:indef|someone adv|back adv|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|2|JCT 6|2|PUNCT
+*S3:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	look at all these people that tested positive .
+%mor:	v|look prep|at qn|all det:dem|these n|person&PL pro:rel|that
+	v|test-PAST n|positive .
+%gra:	1|0|ROOT 2|1|JCT 3|5|QUANT 4|5|DET 5|2|POBJ 6|7|LINK 7|5|CMOD 8|7|OBJ
+	9|1|PUNCT
+*S3:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	eleven of them altogether .
+%mor:	det:num|eleven prep|of pro:obj|them adv|altogether .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|JCT 5|1|PUNCT
+*S3:	how many of them actually have the disease ?
+%mor:	pro:rel|how qn|many prep|of pro:obj|them adv|actual&dadj-LY v|have
+	det:art|the n|disease ?
+%gra:	1|2|LINK 2|6|SUBJ 3|2|JCT 4|3|POBJ 5|6|JCT 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*SS:	one .
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	one .
+%mor:	det:num|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	what's one out_of eleven ?
+%mor:	pro:int|what~cop|be&3S pro:indef|one prep|out_of det:num|eleven ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|4|POBJ 6|2|PUNCT
+*SS:	⌈ nine percent ⌉ .
+%mor:	det:num|nine n|percent .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S3:	⌊ about nine percent ⌋ .
+%mor:	prep|about det:num|nine n|percent .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|1|PUNCT
+*S3:	about nine percent .
+%mor:	prep|about det:num|nine n|percent .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|1|PUNCT
+*S3:	see that didn't hurt did it .
+%mor:	v|see comp|that mod|do&PAST~neg|not v|hurt&ZERO mod|do&PAST
+	pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|AUX 4|3|NEG 5|2|COMP 6|7|AUX 7|5|OBJ 8|1|PUNCT
+*S3:	&=laughs:multiple thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*S3:	you can keep those as a souvenir .
+%mor:	pro:per|you mod|can v|keep det:dem|those prep|as det:art|a
+	n|souvenir .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*S3:	&=laughs:multiple alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	it is about nine percent .
+%mor:	pro:per|it cop|be&3S prep|about det:num|nine n|percent .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|2|PUNCT
+*S3:	why is it so small +..?
+%mor:	pro:int|why cop|be&3S pro:per|it adv|so adj|small +..?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|5|JCT 5|3|OM 6|2|PUNCT
+*S3:	a fraction's gonna be small if the numerator is small (.) or if
+	&dom and or if the denominator is big .
+%mor:	det:art|a n|fraction~aux|be&3S part|go-PRESP~inf|to cop|be
+	adj|small comp|if det:art|the n|numerator cop|be&3S adj|small
+	coord|or comp|if coord|and coord|or comp|if det:art|the
+	n|denominator cop|be&3S adj|big .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|PRED 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|7|CMOD 12|11|PRED 13|11|CONJ 14|13|COORD
+	15|14|CONJ 16|15|COORD 17|20|LINK 18|19|DET 19|20|SUBJ 20|16|COORD 21|20|PRED
+	22|4|PUNCT
+*S3:	and we have both of those things going on here .
+%mor:	coord|and pro:sub|we v|have qn|both prep|of det:dem|those
+	n|thing-PL part|go-PRESP prep|on n|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|4|XJCT
+	9|8|JCT 10|9|POBJ 11|3|PUNCT
+*S3:	the numerator's small .
+%mor:	det:art|the adj|numerator&dn-POSS adj|small .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S3:	it's the number of people that actually have the disease that test
+	positive .
+%mor:	pro:per|it~cop|be&3S det:art|the n|number prep|of n|person&PL
+	pro:rel|that adv|actual&dadj-LY v|have det:art|the n|disease
+	det:dem|that n|test adj|positive .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|9|LINK 8|9|JCT
+	9|6|CMOD 10|11|DET 11|9|OBJ 12|13|DET 13|9|JCT 14|13|POSTMOD 15|2|PUNCT
+*S3:	in the population a very small proportion have the disease .
+%mor:	prep|in det:art|the n|populate&dv-TION det:art|a adv|very adj|small
+	n|proportion v|have det:art|the n|disease .
+%gra:	1|8|JCT 2|3|DET 3|1|POBJ 4|7|DET 5|6|JCT 6|7|MOD 7|8|SUBJ 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|8|PUNCT
+*S3:	most of them test positive (.) but a large percent of that small
+	number (.) is still small .
+%mor:	pro:indef|most prep|of pro:obj|them v|test adj|positive conj|but
+	det:art|a adj|large n|percent prep|of det:dem|that adj|small
+	n|number cop|be&3S adv|still adj|small .
+%gra:	1|4|SUBJ 2|1|NJCT 3|2|POBJ 4|0|ROOT 5|4|JCT 6|14|LINK 7|9|DET 8|9|MOD
+	9|14|SUBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|4|CJCT 15|16|JCT
+	16|14|PRED 17|4|PUNCT
+*S3:	in the denominator you're counting up all the positive results .
+%mor:	prep|in det:art|the n|denominator pro:per|you~aux|be&PRES
+	part|count-PRESP adv|up qn|all det:art|the n|positive n|result-PL .
+%gra:	1|6|JCT 2|3|DET 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|11|QUANT
+	9|11|DET 10|11|MOD 11|6|OBJ 12|6|PUNCT
+*S3:	some (.) with the disease but most of them (.) from those that
+	don't have the disease .
+%mor:	pro:indef|some prep|with det:art|the n|disease conj|but
+	pro:indef|most prep|of pro:obj|them prep|from det:dem|those
+	pro:rel|that mod|do~neg|not v|have det:art|the n|disease .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|CONJ 6|5|COORD 7|6|NJCT
+	8|7|POBJ 9|6|NJCT 10|9|POBJ 11|14|LINK 12|14|AUX 13|12|NEG 14|10|CMOD
+	15|16|DET 16|14|OBJ 17|1|PUNCT
+*S3:	if in your population you have a large proportion of people that
+	don't have the disease (.) even a small percent like ten percent (.)
+	of that number's gonna be a big number (.) and that's in the
+	denominator .
+%mor:	conj|if prep|in det:poss|your n|populate&dv-TION pro:per|you v|have
+	det:art|a adj|large n|proportion prep|of n|person&PL pro:rel|that
+	mod|do~neg|not v|have det:art|the n|disease adv|even det:art|a
+	adj|small n|percent co|like det:num|ten n|percent prep|of
+	det:dem|that n|number~aux|be&3S part|go-PRESP~inf|to cop|be
+	det:art|a adj|big n|number coord|and pro:dem|that~cop|be&3S prep|in
+	det:art|the n|denominator .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|NJCT 11|10|POBJ 12|15|LINK 13|15|AUX 14|13|NEG 15|11|CMOD
+	16|17|DET 17|15|OBJ 18|29|JCT 19|21|DET 20|21|MOD 21|29|JCT 22|21|COM
+	23|24|QUANT 24|29|SUBJ 25|24|NJCT 26|27|DET 27|25|POBJ 28|29|AUX 29|15|XJCT
+	30|31|INF 31|29|COMP 32|34|DET 33|34|MOD 34|37|SUBJ 35|34|CONJ 36|35|COORD
+	37|31|PRED 38|31|JCT 39|40|DET 40|38|POBJ 41|6|PUNCT
+*S3:	so that's why we're getting this result out [?] .
+%mor:	co|so pro:dem|that~cop|be&3S pro:rel|why pro:sub|we~cop|be&PRES
+	n:gerund|get-PRESP det:dem|this n|result adv|out .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|PRED 8|9|DET
+	9|6|PRED 10|9|NJCT 11|3|PUNCT
+*S3:	not because the test is not good (.) but because (.) it's a very
+	rare disease to begin with .
+%mor:	neg|not conj|because det:art|the n|test cop|be&3S neg|not adj|good
+	conj|but conj|because pro:per|it~cop|be&3S det:art|a adv|very
+	adj|rare n|disease inf|to v|begin prep|with .
+%gra:	1|2|NEG 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|NEG 7|5|PRED 8|5|CONJ
+	9|11|LINK 10|11|SUBJ 11|8|COORD 12|15|DET 13|14|JCT 14|15|MOD 15|11|PRED
+	16|17|INF 17|15|XMOD 18|17|JCT 19|5|PUNCT
+*S3:	if the rates here were improved a little bit (.) maybe the ninety
+	increased to ninety five percent .
+%mor:	comp|if det:art|the n|rate-PL adv|here aux|be&PAST v|improve-PAST
+	det:art|a adj|little n|bit adv|maybe det:art|the det:num|ninety
+	v|increase-PAST prep|to det:num|ninety det:num|five n|percent .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|NJCT 5|6|AUX 6|0|ROOT 7|9|DET 8|9|MOD
+	9|13|SUBJ 10|13|JCT 11|12|DET 12|13|SUBJ 13|6|COMP 14|13|JCT 15|17|QUANT
+	16|17|QUANT 17|14|POBJ 18|6|PUNCT
+*S3:	the chance that you would have the disease (.) given you tested
+	positive only goes up to about seventeen percent .
+%mor:	det:art|the n|chance pro:rel|that pro:per|you mod|will&COND v|have
+	det:art|the n|disease part|give&PASTP pro:per|you v|test-PAST
+	n|positive adv|only v|go-3S adv|up inf|to prep|about
+	det:num|seventeen n|percent .
+%gra:	1|2|DET 2|0|INCROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|ROOT 7|8|DET 8|6|OBJ
+	9|6|XJCT 10|11|SUBJ 11|9|COMP 12|11|OBJ 13|14|JCT 14|11|ROOT 15|14|JCT
+	16|17|INF 17|14|INCROOT 18|19|QUANT 19|17|POBJ 20|17|PUNCT
+*S3:	if you increase this one percent rate of how (.) prevalent the
+	disease is in the population to ten percent (.) then your chance of
+	having the disease goes up (.) to over fifty percent .
+%mor:	conj|if pro:per|you v|increase det:dem|this det:num|one n|percent
+	n|rate prep|of pro:int|how adj|prevalent det:art|the n|disease
+	cop|be&3S prep|in det:art|the n|populate&dv-TION prep|to det:num|ten
+	n|percent adv:tem|then det:poss|your n|chance prep|of
+	part|have-PRESP det:art|the n|disease v|go-3S adv|up inf|to adv|over
+	det:num|fifty n|percent .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|QUANT 6|7|MOD 7|3|OBJ 8|7|NJCT
+	9|13|LINK 10|13|JCT 11|12|DET 12|13|SUBJ 13|8|CPOBJ 14|13|JCT 15|16|DET
+	16|14|POBJ 17|27|JCT 18|19|QUANT 19|27|SUBJ 20|27|JCT 21|22|DET 22|27|JCT
+	23|22|NJCT 24|23|POBJ 25|26|DET 26|27|SUBJ 27|13|CJCT 28|27|JCT
+	29|30|INF 30|27|JCT 31|32|QUANT 32|30|POBJ 33|3|PUNCT
+*S3:	much more .
+%mor:	adv|much adv|more .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*S3:	so that's the right factor here .
+%mor:	co|so pro:dem|that~cop|be&3S det:art|the adj|right n|factor
+	adv|here .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|3|PUNCT
+*S3:	what are the implications of this ?
+%mor:	pro:int|what cop|be&PRES det:art|the n|implicate&dv-TION-PL prep|of
+	pro:dem|this ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*S3:	the impact of getting a plus result back (.) if you don't know the
+	statistics .
+%mor:	det:art|the n|impact prep|of n:gerund|get-PRESP det:art|a n|plus
+	n|result adv|back conj|if pro:per|you mod|do~neg|not v|know
+	det:art|the n|statistic-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|7|DET 6|7|MOD 7|4|OBJ 8|2|NJCT
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|2|CJCT 14|15|DET 15|13|OBJ
+	16|2|PUNCT
+*S3:	the impact of having mandatory drug testing in a company .
+%mor:	det:art|the n|impact prep|of n:gerund|have-PRESP adj|mandatory
+	n|drug part|test-PRESP prep|in det:art|a n|company .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|6|MOD 6|4|OBJ 7|6|XMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*S3:	if the number of people suspected of being drug users is very small
+	.
+%mor:	conj|if det:art|the n|number prep|of n|person&PL v|suspect-PAST
+	prep|of n:gerund|be-PRESP n|drug n|use&dv-AGT-PL cop|be&3S adv|very
+	adj|small .
+%gra:	1|11|LINK 2|3|DET 3|11|SUBJ 4|3|NJCT 5|4|POBJ 6|5|CMOD 7|6|JCT 8|10|MOD
+	9|10|MOD 10|7|POBJ 11|0|ROOT 12|13|JCT 13|11|PRED 14|11|PUNCT
+*S3:	the need for additional tests before you declare someone as having
+	the disease (.) or someone as being a drug user .
+%mor:	det:art|the n|need prep|for adj|addition&dn-AL n|test-PL
+	conj|before pro:per|you v|declare pro:indef|someone adv|as
+	part|have-PRESP det:art|the n|disease coord|or pro:indef|someone
+	adv|as n|being det:art|a n|drug n|use&dv-AGT .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|5|MOD 5|3|POBJ 6|8|LINK 7|8|SUBJ
+	8|2|CJCT 9|8|OBJ 10|8|JCT 11|8|XJCT 12|13|DET 13|11|OBJ 14|13|CONJ 15|14|COORD
+	16|17|JCT 17|15|CMOD 18|20|DET 19|20|MOD 20|17|OBJ 21|2|PUNCT
+*S3:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	now you all have an envelope (.) I hope .
+%mor:	adv|now pro:per|you adv|all v|have det:art|a n|envelope pro:sub|I
+	v|hope .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|SUBJ 8|4|CJCT
+	9|4|PUNCT
+*S3:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	&=audience_nods_and_murmurs:SS now how many of you have already
+	opened it to check and see what's inside ?
+%mor:	adv|now pro:rel|how qn|many prep|of pro:per|you v|have adv|already
+	v|open-PAST pro:per|it inf|to v|check coord|and v|see
+	pro:int|what~cop|be&3S adj|inside ?
+%gra:	1|6|JCT 2|3|LINK 3|6|QUANT 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|8|JCT 8|6|COMP
+	9|8|OBJ 10|11|INF 11|8|COMP 12|11|CONJ 13|12|COORD 14|15|SUBJ 15|13|COMP
+	16|15|PRED 17|6|PUNCT
+*S3:	&=laughs:multiple &=raises:hand:multiple some (.) you can go ahead
+	and open it now .
+%mor:	pro:indef|some pro:per|you mod|can v|go adv|ahead coord|and v|open
+	pro:per|it adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|7|OBJ
+	9|7|JCT 10|4|PUNCT
+*S3:	&=open_envelopes:SS and I want you to take out the piece of paper
+	(.) and the pencil +...
+%mor:	coord|and pro:sub|I v|want pro:per|you inf|to v|take prep|out
+	det:art|the n|piece prep|of n|paper coord|and det:art|the n|pencil
+	+...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|6|CONJ 13|14|DET 14|12|COORD 15|3|PUNCT
+*S3:	just paper and pencil (0.4) I'm gonna have you do an activity here
+	in just a moment (.) a very simple one +...
+%mor:	adj|just n|paper coord|and n|pencil pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|have pro:per|you v|do det:art|a
+	n|active&dadj-ITY adv|here adv|in adv|just det:art|a n|moment
+	det:art|a adv|very adj|simple pro:indef|one +...
+%gra:	1|2|MOD 2|7|JCT 3|2|CONJ 4|3|COORD 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|INF
+	9|7|COMP 10|11|SUBJ 11|9|COMP 12|13|DET 13|11|OBJ 14|11|JCT 15|11|JCT
+	16|18|JCT 17|18|DET 18|11|OBJ 19|22|DET 20|21|JCT 21|22|MOD 22|18|APP
+	23|7|PUNCT
+*S3:	is there anybody that still needs one ?
+%mor:	cop|be&3S adv|there pro:indef|anybody pro:rel|that adj|still
+	n|need-PL det:num|one ?
+%gra:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|6|LINK 5|6|MOD 6|7|MOD 7|3|OM 8|1|PUNCT
+*S3:	&=raises:hand:multiple .
+*SUM:	yeah xxx .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	okay (.) we've got a couple more ?
+%mor:	co|okay pro:sub|we~aux|have part|get&PASTP det:art|a n|couple
+	adv|more ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*S3:	there was a big box of them outside .
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a adj|big n|box prep|of
+	pro:obj|them adv|outside .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|POBJ 8|5|NJCT
+	9|2|PUNCT
+*SUF:	anyone else need one ?
+%mor:	pro:indef|anyone post|else v|need pro:indef|one ?
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*SUF:	&=passing_out_envelopes .
+*S3:	they'll bring a few more in +...
+%mor:	pro:sub|they~mod|will v|bring det:art|a qn|few qn|more adv|in +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|6|QUANT 6|7|QUANT 7|3|JCT 8|3|PUNCT
+*S3:	lemme explain the activity while they're doing that .
+%mor:	v|let~pro:obj|me v|explain det:art|the n|active&dadj-ITY n|while
+	pro:sub|they~aux|be&PRES part|do-PRESP comp|that .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|6|DET 5|6|MOD 6|3|OBJ 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|9|OBJ 11|1|PUNCT
+*S3:	what I'm gonna have you do in a moment is just write your name .
+%mor:	pro:int|what pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|have
+	pro:per|you v|do prep|in det:art|a n|moment cop|be&3S adv|just
+	v|write det:poss|your n|name .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|6|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|ENUM 13|14|JCT 14|12|CPRED 15|16|DET
+	16|14|OBJ 17|4|PUNCT
+*S3:	I'm gonna have you print (.) your name but don't do it yet (.)
+	(be)cause we're all gonna do it together .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|have pro:per|you v|print
+	det:poss|your n|name conj|but mod|do~neg|not v|do pro:per|it adv|yet
+	conj|because pro:sub|we~cop|be&PRES post|all part|go-PRESP~inf|to
+	v|do pro:per|it adv|together .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|SUBJ 7|5|COMP 8|9|DET
+	9|7|OBJ 10|3|CONJ 11|13|AUX 12|11|NEG 13|10|COORD 14|13|OBJ 15|13|JCT
+	16|13|JCT 17|18|SUBJ 18|16|CPOBJ 19|18|PRED 20|19|XMOD 21|22|INF 22|20|COMP
+	23|22|OBJ 24|22|JCT 25|3|PUNCT
+*S3:	&=laughs:multiple we're gonna see how long it takes you to print
+	your full name first (.) and last name .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|see pro:int|how
+	adj|long pro:per|it v|take-3S pro:per|you inf|to v|print
+	det:poss|your adj|full n|name adv|first coord|and adj|last n|name .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|JCT 7|9|PRED 8|9|SUBJ
+	9|5|COMP 10|12|SUBJ 11|12|INF 12|9|COMP 13|15|DET 14|15|MOD 15|12|OBJ
+	16|12|JCT 17|16|CONJ 18|19|MOD 19|17|COORD 20|3|PUNCT
+*S3:	and you'll do that next to the number one (.) on there .
+%mor:	coord|and pro:per|you~mod|will v|do pro:dem|that adv|next prep|to
+	det:art|the n|number pro:indef|one prep|on n|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|9|DET
+	9|7|POBJ 10|7|POBJ 11|10|NJCT 12|11|POBJ 13|4|PUNCT
+*S3:	I'm gonna check and see how long that takes you .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|check coord|and v|see
+	pro:int|how adj|long pro:rel|that v|take-3S pro:per|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|CONJ 7|6|COORD 8|9|JCT
+	9|7|COMP 10|11|LINK 11|9|CMOD 12|11|OBJ 13|3|PUNCT
+*S3:	a very simple task anyone have any questions about what they're
+	expected to do ?
+%mor:	det:art|a adv|very adj|simple n|task pro:indef|anyone v|have qn|any
+	n|question-PL prep|about pro:int|what pro:sub|they~aux|be&PRES
+	part|expect-PASTP inf|to v|do ?
+%gra:	1|4|DET 2|3|JCT 3|4|MOD 4|6|SUBJ 5|6|SUBJ 6|0|ROOT 7|8|QUANT 8|6|OBJ
+	9|6|JCT 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CPOBJ 14|15|INF 15|13|COMP
+	16|6|PUNCT
+*S3:	&=laughs:multiple alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	here come a few more envelopes .
+%mor:	adv|here v|come det:art|a qn|few qn|more n|envelope-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|6|DET 4|5|QUANT 5|6|QUANT 6|2|OBJ 7|2|PUNCT
+*S3:	if you need one please raise your hand .
+%mor:	conj|if pro:per|you v|need pro:indef|one co|please v|raise
+	det:poss|your n|hand .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|CJCT 4|3|OBJ 5|6|COM 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*S3:	&=raises:hand:multiple there's one in front there too .
+%mor:	pro:exist|there~cop|be&3S pro:indef|one prep|in n|front adv|there
+	adv|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|4|POBJ 6|7|JCT 7|3|NJCT 8|2|PUNCT
+*S3:	and one over there +...
+%mor:	coord|and det:num|one prep|over n|there +...
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+*S3:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	to figure out how long it takes you (.) I will (.) record the time
+	as it goes by in [?] front here .
+%mor:	inf|to v|figure adv|out pro:int|how adj|long pro:per|it v|take-3S
+	pro:per|you pro:sub|I mod|will v|record det:art|the n|time prep|as
+	pro:per|it v|go-3S adv|by prep|in n|front adv|here .
+%gra:	1|2|INF 2|11|XJCT 3|2|JCT 4|5|JCT 5|7|PRED 6|7|SUBJ 7|2|COMP 8|7|OBJ
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|13|DET 13|11|OBJ 14|16|COORD 15|16|SUBJ
+	16|11|ENUM 17|11|JCT 18|11|JCT 19|18|POBJ 20|11|JCT 21|11|PUNCT
+*S3:	so in other words once I give you the go (.) you print your full
+	your name (.) first and last name (.) and as soon as you're done
+	you're gonna look up and see how many seconds have passed I'll be
+	writing that up on the overhead up here .
+%mor:	co|so prep|in qn|other n|word-PL adv|once pro:sub|I v|give
+	pro:per|you det:art|the v|go pro:per|you v|print det:poss|your
+	adj|full det:poss|your n|name adv|first coord|and adj|last n|name
+	coord|and prep|as adv|soon conj|as pro:per|you~aux|be&PRES
+	part|do&PASTP pro:per|you~aux|be&PRES part|go-PRESP~inf|to co|look
+	adv|up coord|and v|see pro:int|how qn|many n|second-PL aux|have
+	part|pass-PASTP pro:sub|I~mod|will aux|be part|write-PRESP comp|that
+	adv|up prep|on det:art|the adv|overhead prep|up n|here .
+%gra:	1|7|COM 2|7|JCT 3|4|QUANT 4|2|POBJ 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|OBJ2
+	9|10|DET 10|7|COMP 11|12|SUBJ 12|10|COMP 13|16|DET 14|16|MOD 15|16|DET
+	16|12|OBJ 17|16|NJCT 18|17|CONJ 19|20|MOD 20|18|COORD 21|16|CONJ
+	22|23|COORD 23|21|COORD 24|27|LINK 25|27|SUBJ 26|27|AUX 27|23|CJCT 28|30|SUBJ
+	29|30|AUX 30|27|COMP 31|32|INF 32|44|COM 33|44|JCT 34|33|CONJ 35|34|COORD
+	36|40|LINK 37|38|QUANT 38|40|SUBJ 39|40|AUX 40|35|COMP 41|44|SUBJ
+	42|44|AUX 43|44|AUX 44|30|COMP 45|44|OBJ 46|45|JCT 47|46|JCT 48|49|DET
+	49|47|POBJ 50|49|JCT 51|50|POBJ 52|7|PUNCT
+*S3:	and write down the time next to the line that says (.) time .
+%mor:	coord|and v|write prep|down det:art|the n|time adv|next prep|to
+	det:art|the n|line pro:rel|that v|say-3S n|time .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|2|JCT 8|9|DET
+	9|7|POBJ 10|11|LINK 11|9|CMOD 12|11|OBJ 13|2|PUNCT
+*S3:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	everybody ready ?
+%mor:	pro:indef|everybody adj|ready ?
+%gra:	1|0|INCROOT 2|1|PRED 3|1|PUNCT
+*SS:	<no nope> [?] .
+%mor:	co|no co|nope .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S3:	nope (.) we'll hold on for a little bit +...
+%mor:	co|nope pro:sub|we~mod|will v|hold adv|on prep|for det:art|a
+	adj|little n|bit +...
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|4|PUNCT
+*S3:	alright three (.) two (.) one (.) go &=pause_while_audience_writes
+	.
+%mor:	co|alright det:num|three det:num|two det:num|one v|go .
+%gra:	1|3|COM 2|3|QUANT 3|5|QUANT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*S3:	is everybody done ?
+%mor:	aux|be&3S pro:indef|everybody part|do&PASTP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*SUM:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	did you print your name ?
+%mor:	mod|do&PAST pro:per|you v|print det:poss|your n|name ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*S3:	&=laughs:multiple did you follow the instructions ?
+%mor:	mod|do&PAST pro:per|you v|follow det:art|the n|instruction-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*S3:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	&=laughs:multiple my six year+old .
+%mor:	det:poss|my det:num|six n|+n|year+adj|old .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*S3:	&=laughs:multiple alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	okay &=laughs:multiple .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	you got your time written down ?
+%mor:	pro:per|you v|get&PAST det:poss|your n|time part|write&PASTP
+	adv|down ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|XMOD 6|5|JCT 7|2|PUNCT
+*S3:	we're gonna repeat (.) that (.) task again but switch hands .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|repeat det:dem|that
+	n|task adv|again conj|but n|switch n|hand-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|7|JCT
+	9|7|CONJ 10|11|MOD 11|9|COORD 12|3|PUNCT
+*S3:	opposite hand .
+%mor:	prep|opposite n|hand .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*S3:	&=groan:SS .
+*S3:	opposite hand .
+%mor:	prep|opposite n|hand .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*S3:	(0.5) and we'll give you the start .
+%mor:	coord|and pro:sub|we~mod|will v|give pro:per|you det:art|the
+	v|start .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ2 6|7|DET 7|4|OBJ 8|4|PUNCT
+*S3:	ready (.) set (.) go .
+%mor:	adj|ready n|set v|go .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S3:	&=pause_while_audience_writes are we done yet ?
+%mor:	cop|be&PRES pro:sub|we part|do&PASTP adv|yet ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|3|JCT 5|1|PUNCT
+*SS:	no &=pause_while_audience_writes .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	it's taking longer .
+%mor:	pro:per|it~aux|be&3S part|take-PRESP adv|long-CP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*S3:	&=pause_while_audience_writes .
+*S3:	yes now ?
+%mor:	co|yes adv|now ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S3:	alright +...
+%mor:	co|alright +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	you have your two times .
+%mor:	pro:per|you v|have det:poss|your det:num|two n|time-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*S3:	what I want you to do now (.) is determine how much longer it took
+	you to print your name with your opposite hand .
+%mor:	pro:int|what pro:sub|I v|want pro:per|you inf|to v|do adv|now
+	cop|be&3S v|determine pro:int|how adv|much adj|long-CP pro:per|it
+	v|take&PAST pro:per|you inf|to v|print det:poss|your n|name
+	prep|with det:poss|your n|opposite n|hand .
+%gra:	1|3|LINK 2|3|SUBJ 3|9|SUBJ 4|3|OBJ 5|6|INF 6|3|COMP 7|6|JCT 8|9|AUX
+	9|0|ROOT 10|12|JCT 11|12|JCT 12|14|PRED 13|14|SUBJ 14|9|COMP 15|14|OBJ
+	16|17|INF 17|14|COMP 18|19|DET 19|17|OBJ 20|17|JCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|9|PUNCT
+*S3:	work out that difference .
+%mor:	v|work adv|out comp|that n|difference .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*S3:	how much longer .
+%mor:	pro:int|how adv|much adv|long-CP .
+%gra:	1|2|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*S3:	write that number down and circle it +...
+%mor:	v|write adv|that v|number adv|down coord|and v|circle pro:per|it
+	+...
+%gra:	1|0|ROOT 2|3|JCT 3|1|COMP 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|OBJ 8|1|PUNCT
+*S3:	and then (.) you may or may not know the person (.) next to you or
+	behind you I want you to introduce yourself to them (.) I want you
+	to share your numbers get a couple (.) items of data here gather
+	some data from those around you (.) and see what kind of results
+	you're getting .
+%mor:	coord|and adv:tem|then pro:per|you mod|may coord|or mod|may neg|not
+	v|know det:art|the n|person adv|next prep|to pro:per|you coord|or
+	adv|behind pro:per|you pro:sub|I v|want pro:per|you inf|to
+	v|introduce pro:refl|yourself prep|to pro:obj|them pro:sub|I v|want
+	pro:per|you inf|to v|share det:poss|your n|number-PL v|get det:art|a
+	qn|couple n|item-PL prep|of n|data adv|here v|gather qn|some n|data
+	prep|from pro:dem|those prep|around pro:per|you coord|and co|see
+	pro:int|what n|kind prep|of n|result-PL pro:per|you~aux|be&PRES
+	part|get-PRESP .
+%gra:	1|8|LINK 2|8|JCT 3|8|SUBJ 4|8|AUX 5|8|LINK 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|8|JCT 12|8|JCT 13|12|POBJ 14|18|LINK 15|14|NJCT
+	16|15|POBJ 17|18|SUBJ 18|8|CJCT 19|21|SUBJ 20|21|INF 21|18|COMP 22|21|OBJ
+	23|21|JCT 24|23|POBJ 25|26|SUBJ 26|8|CJCT 27|29|SUBJ 28|29|INF 29|26|COMP
+	30|31|DET 31|32|SUBJ 32|29|COMP 33|35|DET 34|35|QUANT 35|32|OBJ 36|35|NJCT
+	37|36|POBJ 38|39|JCT 39|32|CJCT 40|41|QUANT 41|39|OBJ 42|39|JCT
+	43|42|POBJ 44|39|JCT 45|44|POBJ 46|39|CONJ 47|49|COM 48|49|DET 49|46|COORD
+	50|49|NJCT 51|50|POBJ 52|54|SUBJ 53|54|AUX 54|49|XJCT 55|8|PUNCT
+*S3:	do that right now xxx &=pause_while_audience_shares_data .
+%mor:	v|do adv|that adv|right adv|now .
+%gra:	1|0|ROOT 2|4|JCT 3|4|JCT 4|1|JCT 5|1|PUNCT
+*S3:	okay you've gathered some data .
+%mor:	co|okay pro:per|you~aux|have part|gather-PASTP qn|some n|data .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*S3:	I have a theory (.) and I would like to help [/] help &y have your
+	help assessing whether we should stay with this theory (.) or
+	whether we should reject it .
+%mor:	pro:sub|I v|have det:art|a n|theory coord|and pro:sub|I
+	mod|will&COND v|like inf|to v|help v|have det:poss|your n|help
+	part|assess-PRESP conj|whether pro:sub|we mod|should v|stay
+	prep|with det:dem|this n|theory coord|or conj|whether pro:sub|we
+	mod|should v|reject pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|2|CJCT
+	9|10|INF 10|8|COMP 11|10|COMP 12|13|DET 13|11|OBJ 14|13|XMOD 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|14|CJCT 19|18|JCT 20|21|DET 21|19|POBJ 22|18|CONJ
+	23|26|LINK 24|26|SUBJ 25|26|AUX 26|22|COORD 27|26|OBJ 28|2|PUNCT
+*S3:	and the theory is (.) on average (.) it takes a person three
+	seconds longer (.) to print their name with their opposite hand .
+%mor:	coord|and det:art|the n|theory cop|be&3S prep|on n|average
+	pro:per|it v|take-3S det:art|a n|person det:num|three n|second-PL
+	adj|long-CP inf|to v|print det:poss|their n|name prep|with
+	det:poss|their n|opposite n|hand .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|SUBJ 8|4|CJCT
+	9|10|DET 10|8|OBJ 11|12|QUANT 12|10|CMOD 13|12|PRED 14|15|INF 15|13|XMOD
+	16|17|DET 17|15|OBJ 18|15|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|4|PUNCT
+*S3:	&=laughs:multiple how many of you would reject that theory ?
+%mor:	pro:rel|how qn|many prep|of pro:per|you mod|will&COND v|reject
+	det:dem|that n|theory ?
+%gra:	1|2|LINK 2|6|SUBJ 3|2|JCT 4|3|POBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*S3:	&=raises:hand:multiple reject +...
+%mor:	v|reject +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*S3:	mkay (.) is there anybody out there that actually did take three
+	seconds or less ?
+%mor:	co|mkay cop|be&3S adv|there pro:indef|anybody prep|out n|there
+	pro:rel|that adv|actual&dadj-LY mod|do&PAST v|take det:num|three
+	n|second-PL coord|or adj|less ?
+%gra:	1|2|COM 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|JCT 6|5|POBJ 7|10|LINK 8|10|JCT
+	9|10|AUX 10|6|CMOD 11|12|QUANT 12|10|OBJ 13|12|CONJ 14|13|COORD
+	15|2|PUNCT
+*SUF:	right here +/.
+%mor:	adv|right adv|here +/.
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*S3:	+, there are (.) okay .
+%mor:	pro:exist|there cop|be&PRES adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S3:	they took three seconds or less .
+%mor:	pro:sub|they v|take&PAST det:num|three n|second-PL coord|or
+	adj|less .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*S3:	did everyone get the same result though ?
+%mor:	v|do&PAST pro:indef|everyone v|get det:art|the adj|same n|result
+	adv|though ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|3|PUNCT
+*S3:	there was variation (.) in the data .
+%mor:	pro:exist|there cop|be&PAST&13S n|vary&dv-TION prep|in det:art|the
+	n|data .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*S3:	lots_of variation .
+%mor:	qn|lots_of n|vary&dv-TION .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S3:	even with a few people having values around three (.) even with the
+	variation that we saw we still (.) almost all of us said we'd reject
+	this theory .
+%mor:	adv|even prep|with det:art|a qn|few n|person&PL n:gerund|have-PRESP
+	n|value-PL prep|around det:num|three adv|even prep|with det:art|the
+	n|vary&dv-TION comp|that pro:sub|we v|see&PAST pro:sub|we adv|still
+	adv|almost adv|all prep|of pro:obj|us v|say&PAST
+	pro:sub|we~mod|genmod v|reject det:dem|this n|theory .
+%gra:	1|2|JCT 2|0|INCROOT 3|7|DET 4|5|QUANT 5|7|MOD 6|7|MOD 7|2|POBJ 8|7|NJCT
+	9|8|POBJ 10|11|JCT 11|9|NJCT 12|13|DET 13|11|POBJ 14|16|LINK 15|16|SUBJ
+	16|7|CMOD 17|16|OBJ 18|17|JCT 19|18|JCT 20|21|JCT 21|19|JCT 22|21|POBJ
+	23|21|POBJ 24|26|SUBJ 25|26|AUX 26|23|COMP 27|28|DET 28|26|OBJ
+	29|2|PUNCT
+*S3:	an example of the process we go through for making decisions .
+%mor:	det:art|a n|example prep|of det:art|the n|process pro:sub|we v|go
+	adv|through prep|for n:gerund|make-PRESP n|decision-PL .
+%gra:	1|2|DET 2|7|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|11|MOD 11|9|POBJ 12|7|PUNCT
+*S3:	we have a theory in mind .
+%mor:	pro:sub|we v|have det:art|a n|theory prep|in n|mind .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*S3:	we gather some observations and data (.) and we take a look at that
+	data in relationship to that theory (.) to see whether that data
+	seems consistent with that theory (.) or is it unlikely (.) unusual
+	under that theory .
+%mor:	pro:sub|we v|gather qn|some n|observe&dv-TION-PL coord|and n|data
+	coord|and pro:sub|we v|take det:art|a v|look prep|at det:dem|that
+	n|data prep|in n|relate&dv-TION-SHIP prep|to det:dem|that n|theory
+	inf|to v|see conj|whether det:dem|that n|data cop|seem-3S
+	adj|consistent prep|with det:dem|that n|theory coord|or cop|be&3S
+	pro:per|it un#adj|likely un#adj|usual prep|under det:dem|that
+	n|theory .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|CONJ 6|5|COORD 7|9|LINK
+	8|9|SUBJ 9|2|CJCT 10|11|DET 11|9|OBJ 12|11|JCT 13|14|DET 14|12|POBJ 15|11|JCT
+	16|15|POBJ 17|11|JCT 18|19|DET 19|17|POBJ 20|21|INF 21|11|XJCT 22|25|LINK
+	23|24|DET 24|25|SUBJ 25|21|COMP 26|25|PRED 27|25|JCT 28|29|DET
+	29|27|POBJ 30|25|CONJ 31|30|COORD 32|31|PRED 33|32|CONJ 34|33|COORD 35|34|JCT
+	36|37|DET 37|35|POBJ 38|2|PUNCT
+*S3:	when it is surprising and unusual enough (.) we then reject that
+	theory .
+%mor:	conj|when pro:per|it aux|be&3S part|surprise-PRESP coord|and
+	un#adj|usual adv|enough pro:sub|we adv:tem|then v|reject comp|that
+	n|theory .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|5|COORD 7|10|JCT
+	8|10|SUBJ 9|10|JCT 10|6|CMOD 11|12|MOD 12|10|OBJ 13|4|PUNCT
+*S3:	the decision making process I do this activity on day one (.) in
+	one of my lectures .
+%mor:	det:art|the n|decision part|make-PRESP n|process pro:sub|I v|do
+	det:dem|this n|active&dadj-ITY prep|on n|day det:num|one prep|in
+	pro:indef|one prep|of det:poss|my n|lecture-PL .
+%gra:	1|2|DET 2|6|SUBJ 3|6|XJCT 4|3|OBJ 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|9|POBJ 11|6|OBJ 12|11|JCT 13|12|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|6|PUNCT
+*S3:	we talk about then the scientific method (.) and the idea of how we
+	make decisions and go through that cyclic process (.) we then go
+	through the rest of the semester going through (.) those areas of
+	the scientific method in more detail (.) throughout the course .
+%mor:	pro:sub|we n|talk prep|about adv:tem|then det:art|the
+	adj|scientific n|method coord|and det:art|the n|idea prep|of
+	pro:int|how pro:sub|we v|make n|decision-PL coord|and v|go
+	adv|through det:dem|that adj|cyclic n|process pro:sub|we
+	adv:tem|then v|go adj|through det:art|the n|rest prep|of det:art|the
+	n|semester part|go-PRESP prep|through det:dem|those n|area-PL
+	prep|of det:art|the adj|scientific n|method prep|in adv|more
+	n|detail prep|throughout det:art|the n|course .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NJCT 4|3|POBJ 5|7|DET 6|7|MOD 7|4|OBJ 8|7|CONJ
+	9|10|DET 10|8|COORD 11|10|NJCT 12|14|LINK 13|14|SUBJ 14|11|CPOBJ 15|14|OBJ
+	16|7|CONJ 17|16|COORD 18|17|JCT 19|21|DET 20|21|MOD 21|17|JCT
+	22|24|SUBJ 23|24|JCT 24|7|CMOD 25|27|MOD 26|27|DET 27|24|OBJ 28|27|NJCT 29|30|DET
+	30|28|POBJ 31|27|XMOD 32|31|JCT 33|34|DET 34|32|POBJ 35|34|NJCT
+	36|38|DET 37|38|MOD 38|35|POBJ 39|38|NJCT 40|41|JCT 41|39|POBJ 42|31|JCT
+	43|44|DET 44|42|POBJ 45|2|PUNCT
+*S3:	you also have a penny (.) in your envelope .
+%mor:	pro:per|you adv|also v|have det:art|a n|penny prep|in det:poss|your
+	n|envelope .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*S3:	go ahead and take that out .
+%mor:	v|go adv|ahead coord|and v|take adv|that adv|out .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|4|JCT 6|4|JCT 7|1|PUNCT
+*S3:	&=pause_while_retrieving_penny_from_envelope sometimes I have
+	students learning about statistics with pennies (.) I have a big one
+	(.) here .
+%mor:	adv|sometimes pro:sub|I v|have n|student-PL part|learn-PRESP
+	prep|about n|statistic-PL prep|with n|penny-PL pro:sub|I v|have
+	det:art|a adj|big pro:indef|one adv|here .
+%gra:	1|3|JCT 2|3|SUBJ 3|11|JCT 4|3|OBJ 5|4|XMOD 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|8|POBJ 10|11|SUBJ 11|0|ROOT 12|14|DET 13|14|MOD 14|11|OBJ 15|14|NJCT
+	16|11|PUNCT
+*S3:	&=laughs:multiple if I said that I have a fair coin (.) and then I
+	would flip that coin (.) what's the chance of getting a heads (.)
+	what would you say ?
+%mor:	conj|if pro:sub|I v|say&PAST comp|that pro:sub|I v|have det:art|a
+	adj|fair n|coin coord|and adv:tem|then pro:sub|I mod|will&COND
+	v|flip pro:dem|that v|coin pro:int|what~cop|be&3S det:art|the
+	n|chance prep|of n:gerund|get-PRESP det:art|a n|head-PL pro:int|what
+	mod|will&COND pro:per|you v|say ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|14|LINK 11|14|JCT 12|14|SUBJ 13|14|AUX 14|6|CJCT 15|16|SUBJ
+	16|14|COMP 17|18|SUBJ 18|16|COMP 19|20|DET 20|18|PRED 21|20|NJCT
+	22|21|POBJ 23|24|DET 24|22|OBJ 25|28|OBJ 26|28|AUX 27|28|SUBJ 28|20|CMOD
+	29|3|PUNCT
+*SS:	fifty percent .
+%mor:	det:num|fifty n|percent .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S3:	fifty percent one half .
+%mor:	det:num|fifty n|percent det:num|one n|half .
+%gra:	1|2|QUANT 2|4|MOD 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*S3:	alright we might talk a little bit then about probability (.) about
+	how it's defined and so forth .
+%mor:	adj|alright pro:sub|we mod|might v|talk det:art|a adj|little n|bit
+	adv:tem|then adv|about n|probable&dadj-ITY prep|about pro:int|how
+	pro:per|it~aux|be&3S part|define-PASTP coord|and co|so adv|forth .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|10|SUBJ 8|10|JCT
+	9|10|JCT 10|4|OBJ 11|10|NJCT 12|15|LINK 13|15|SUBJ 14|15|AUX 15|11|CPOBJ
+	16|15|CONJ 17|18|COM 18|16|COORD 19|4|PUNCT
+*S3:	what if we took the penny and stood it on a table on edge (.) and
+	you can actually do this .
+%mor:	pro:int|what conj|if pro:sub|we v|take&PAST det:art|the n|penny
+	coord|and v|stand&PAST pro:per|it prep|on det:art|a n|table prep|on
+	n|edge coord|and pro:per|you mod|can adv|actual&dadj-LY v|do
+	pro:dem|this .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|7|COORD
+	9|8|OBJ 10|8|JCT 11|12|DET 12|10|POBJ 13|8|JCT 14|13|POBJ 15|19|LINK
+	16|19|SUBJ 17|19|AUX 18|19|JCT 19|8|CJCT 20|19|OBJ 21|4|PUNCT
+*S3:	it works better (.) when Lincoln's head is down (.) see (.) and
+	then you (.) hit the table (.) hard enough to cause it to go one way
+	or the other .
+%mor:	pro:per|it v|work-3S adj|good&CP conj|when adj|Lincoln&dn-POSS
+	n|head cop|be&3S adv|down v|see coord|and adv:tem|then pro:per|you
+	v|hit&ZERO det:art|the n|table adv|hard adv|enough prep|to n|cause
+	pro:per|it inf|to v|go det:num|one n|way coord|or det:art|the
+	qn|other .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|7|LINK 5|6|MOD 6|7|SUBJ 7|3|CMOD 8|7|JCT
+	9|7|CPRED 10|13|LINK 11|13|JCT 12|13|SUBJ 13|9|COMP 14|15|DET 15|13|OBJ
+	16|17|JCT 17|13|JCT 18|13|JCT 19|18|POBJ 20|13|OBJ 21|22|INF 22|20|COMP
+	23|24|QUANT 24|22|OBJ 25|24|CONJ 26|27|DET 27|25|COORD 28|2|PUNCT
+*S3:	now what's the chance of getting a heads ?
+%mor:	adv|now pro:int|what~cop|be&3S det:art|the n|chance prep|of
+	n:gerund|get-PRESP det:art|a n|head-PL ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*S3:	is it gonna be one half ?
+%mor:	aux|be&3S pro:per|it part|go-PRESP~inf|to cop|be det:num|one n|half
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|QUANT 7|5|PRED 8|3|PUNCT
+*S3:	we don't know for sure do we ?
+%mor:	pro:sub|we mod|do~neg|not v|know prep|for adv|sure mod|do
+	pro:sub|we ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|8|JCT 7|8|AUX 8|5|POBJ
+	9|4|PUNCT
+*S3:	what do we do ?
+%mor:	pro:int|what mod|do pro:sub|we v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S3:	talk about the fact that [/] that would be (.) a random experiment
+	with two outcomes head or tail but we don't know yet what's gonna
+	happen (.) until you do it .
+%mor:	n|talk prep|about det:art|the n|fact pro:rel|that mod|will&COND
+	cop|be det:art|a adj|random n|experiment prep|with det:num|two
+	n|outcome-PL n|head coord|or n|tail conj|but pro:sub|we
+	mod|do~neg|not v|know adv|yet pro:int|what~aux|be&3S
+	part|go-PRESP~inf|to v|happen prep|until pro:per|you v|do pro:per|it
+	.
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|AUX 7|4|CMOD
+	8|10|DET 9|10|MOD 10|7|PRED 11|10|NJCT 12|14|QUANT 13|14|MOD 14|11|POBJ
+	15|14|CONJ 16|15|COORD 17|21|LINK 18|21|SUBJ 19|21|AUX 20|19|NEG 21|25|CJCT
+	22|21|JCT 23|25|SUBJ 24|25|AUX 25|1|XMOD 26|27|INF 27|25|COMP 28|30|LINK
+	29|30|SUBJ 30|27|COMP 31|30|OBJ 32|1|PUNCT
+*S3:	we would repeat that experiment many times (.) and look at the
+	proportion of heads in the long run (.) that turned out (.) of that
+	experiment .
+%mor:	pro:sub|we mod|will&COND v|repeat pro:dem|that v|experiment qn|many
+	n|time-PL coord|and v|look prep|at det:art|the n|proportion prep|of
+	v|head-3S prep|in det:art|the adj|long v|run adv|that
+	part|turn-PASTP adv|out prep|of det:dem|that n|experiment .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|QUANT 7|5|OBJ 8|5|CONJ
+	9|8|COORD 10|9|JCT 11|12|DET 12|10|POBJ 13|14|JCT 14|9|CJCT 15|14|JCT
+	16|17|DET 17|15|POBJ 18|17|CMOD 19|20|JCT 20|18|COMP 21|20|JCT 22|21|JCT
+	23|24|DET 24|22|POBJ 25|3|PUNCT
+*S3:	and use that as our estimate of that chance (.) or probability .
+%mor:	coord|and n|use pro:rel|that prep|as det:poss|our n|estimate
+	prep|of det:dem|that n|chance coord|or n|probable&dadj-ITY .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|LINK 4|2|CMOD 5|6|DET 6|4|POBJ 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|4|CONJ 11|10|COORD 12|1|PUNCT
+*S3:	I <am gonna share> [?] one more student story with you (.) she may
+	actually be here tonight (.) she was in my class five years ago .
+%mor:	pro:sub|I aux|be&1S part|go-PRESP~prep|to n|share det:num|one
+	adv|more n|student n|story prep|with pro:per|you pro:sub|she mod|may
+	adv|actual&dadj-LY cop|be adv|here adv:tem|tonight pro:sub|she
+	cop|be&PAST&13S prep|in det:poss|my n|class det:num|five n|year-PL
+	post|ago .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|9|MOD 6|8|QUANT 7|8|JCT 8|9|MOD
+	9|4|POBJ 10|3|JCT 11|15|SUBJ 12|15|SUBJ 13|15|AUX 14|15|JCT 15|10|POBJ
+	16|19|JCT 17|19|JCT 18|19|SUBJ 19|15|PRED 20|23|JCT 21|22|DET 22|23|SUBJ
+	23|24|QUANT 24|19|PRED 25|24|POSTMOD 26|3|PUNCT
+*S3:	took my Stat four oh [: zero] two class .
+%mor:	v|take&PAST det:poss|my n:prop|Stat det:num|four det:num|zero
+	det:num|two n|class .
+%gra:	1|0|ROOT 2|3|DET 3|4|SUBJ 4|7|QUANT 5|6|DATE 6|7|QUANT 7|1|OBJ
+	8|1|PUNCT
+*S3:	and she said &{l=READING I remember what a wonderful instructor you
+	were (.) and how patient and giving you were of your time .
+%mor:	coord|and pro:sub|she v|say&PAST pro:sub|I v|remember pro:int|what
+	det:art|a adj|wonder-FULL n|instructor pro:per|you cop|be&PAST
+	coord|and pro:int|how adj|patient coord|and part|give-PRESP
+	pro:per|you cop|be&PAST prep|of det:poss|your n|time .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|11|LINK 7|9|DET 8|9|MOD
+	9|11|SUBJ 10|11|SUBJ 11|5|COMP 12|11|CONJ 13|14|JCT 14|12|COORD
+	15|14|CONJ 16|15|COORD 17|18|SUBJ 18|16|COMP 19|18|JCT 20|21|DET 21|19|POBJ
+	22|3|PUNCT
+*S3:	not only are you a talented professor but a mentor (.) for young
+	women interested in pursuing math and science degrees .
+%mor:	neg|not adv|only cop|be&PRES pro:per|you det:art|a adj|talented
+	n|professor conj|but det:art|a n|mentor prep|for adj|young
+	n|woman&PL v|interest-PAST prep|in n:gerund|pursue-PRESP n|math
+	coord|and n|science n|degree-PL .
+%gra:	1|2|NEG 2|3|JCT 3|0|ROOT 4|3|SUBJ 5|7|DET 6|7|MOD 7|3|PRED 8|14|LINK
+	9|10|DET 10|14|SUBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|3|CJCT 15|14|JCT
+	16|15|POBJ 17|16|OBJ 18|17|CONJ 19|20|MOD 20|18|COORD 21|3|PUNCT
+*S3:	your instruction motivated <me to> [/] me to become a statistics
+	major (.) the only female in my graduating class .
+%mor:	det:poss|your n|instruction v|motivate-PAST pro:obj|me inf|to
+	cop|become det:art|a n|statistic-PL v|major det:art|the qn|only
+	n|female prep|in det:poss|my part|graduate-PRESP n|class .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|9|OBJ 7|8|DET 8|9|SUBJ
+	9|3|COMP 10|12|DET 11|12|QUANT 12|9|OBJ 13|9|JCT 14|16|DET 15|16|XMOD
+	16|13|POBJ 17|3|PUNCT
+*S3:	despite the numerous weird looks I get when I say I have a degree
+	in statistics from U_Of_M (.) I can confidently say (.) that was the
+	perfect choice for me .
+%mor:	prep|despite det:art|the adj|numerous adj|weird v|look-3S pro:sub|I
+	v|get conj|when pro:sub|I v|say pro:sub|I v|have det:art|a n|degree
+	prep|in n|statistic-PL prep|from n:prop|U_Of_M pro:sub|I mod|can
+	adv|confident&dadj-LY co|say adv|that cop|be&PAST&13S det:art|the
+	adj|perfect n|choice prep|for pro:obj|me .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|4|CMOD 6|7|SUBJ 7|5|COMP
+	8|10|LINK 9|10|SUBJ 10|12|CJCT 11|12|SUBJ 12|5|COMP 13|14|DET 14|12|OBJ
+	15|14|NJCT 16|15|POBJ 17|14|NJCT 18|17|POBJ 19|22|SUBJ 20|22|AUX 21|22|JCT
+	22|24|COM 23|24|JCT 24|5|COMP 25|27|DET 26|27|MOD 27|24|PRED 28|27|NJCT
+	29|28|POBJ 30|1|PUNCT
+*S3:	&}l=READING you can put your penny to good use tonight .
+%mor:	pro:per|you mod|can v|put&ZERO det:poss|your n|penny prep|to
+	adj|good n|use adv:tem|tonight .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|9|MOD 8|9|MOD
+	9|6|POBJ 10|3|PUNCT
+*S3:	when you leave the auditorium there are some containers back there
+	for collecting pennies .
+%mor:	conj|when pro:per|you v|leave det:art|the n|auditorium
+	pro:exist|there cop|be&PRES qn|some n|contain&dv-AGT-PL adv|back
+	adv|there prep|for n:gerund|collect-PRESP n|penny-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|5|DET 5|3|OBJ 6|7|SUBJ 7|0|ROOT 8|9|QUANT
+	9|7|PRED 10|7|JCT 11|7|JCT 12|7|JCT 13|14|MOD 14|12|POBJ 15|7|PUNCT
+*S3:	you can put your penny in that container .
+%mor:	pro:per|you mod|can v|put&ZERO det:poss|your n|penny prep|in
+	det:dem|that n|contain&dv-AGT .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*S3:	and it's gonna represent a donation that's gonna be made (.) to
+	establish an award (.) for recognizing outstanding performance (.)
+	of undergraduate women (.) majoring in statistics here at U_Of_M .
+%mor:	coord|and pro:per|it~aux|be&3S part|go-PRESP~inf|to v|represent
+	det:art|a n|donate&dv-TION pro:rel|that~aux|be&3S
+	part|go-PRESP~inf|to aux|be part|make&PASTP inf|to v|establish
+	det:art|a n|award prep|for n:gerund|recognize-PRESP adj|outstanding
+	n|performance prep|of under#n|graduate n|woman&PL part|major-PRESP
+	prep|in n|statistic-PL adv|here prep|at n:prop|U_Of_M .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|11|LINK 10|11|AUX 11|8|CMOD 12|14|INF 13|14|AUX 14|11|COMP 15|16|INF
+	16|14|COMP 17|18|DET 18|16|OBJ 19|16|JCT 20|19|POBJ 21|22|MOD 22|20|OBJ
+	23|22|NJCT 24|23|POBJ 25|24|OBJ 26|25|XMOD 27|26|JCT 28|27|POBJ 29|25|NJCT
+	30|29|JCT 31|30|POBJ 32|4|PUNCT
+*S3:	so put your penny in those containers .
+%mor:	adv|so v|put&ZERO det:poss|your n|penny prep|in det:dem|those
+	n|contain&dv-AGT-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*S3:	&=applause you also have one last item in your envelope .
+%mor:	pro:per|you adv|also v|have pro:indef|one adj|last n|item prep|in
+	det:poss|your n|envelope .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|6|MOD 6|4|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*S3:	a piece of fabric +...
+%mor:	det:art|a n|piece prep|of n|fabric +...
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*S3:	and that piece of fabric is gonna help us answer the following (.)
+	question +...
+%mor:	coord|and pro:dem|that v|piece prep|of n|fabric aux|be&3S
+	part|go-PRESP~inf|to v|help pro:obj|us v|answer det:art|the
+	part|follow-PRESP n|question +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|AUX 7|3|XJCT 8|9|INF
+	9|7|COMP 10|9|OBJ 11|9|COMP 12|14|DET 13|14|MOD 14|11|OBJ 15|3|PUNCT
+*S3:	we want to estimate a proportion (.) &por [?] proportion of adults
+	that in the population that daily surf the net .
+%mor:	pro:sub|we v|want inf|to v|estimate det:art|a n|proportion
+	n|proportion prep|of n|adult-PL adv|that prep|in det:art|the
+	n|populate&dv-TION comp|that adj|daily v|surf det:art|the n|net .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|4|JCT 11|4|JCT 12|13|DET 13|11|POBJ 14|16|LINK 15|16|JCT
+	16|4|COMP 17|18|DET 18|16|OBJ 19|2|PUNCT
+*S3:	two scenarios .
+%mor:	det:num|two n|scenario-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S3:	the first scenario is when we have (.) five hundred thousand adults
+	in the population and we randomly select (.) a thousand of them .
+%mor:	det:art|the adj|first n|scenario cop|be&3S conj|when pro:sub|we
+	v|have det:num|five det:num|hundred det:num|thousand n|adult-PL
+	prep|in det:art|the n|populate&dv-TION coord|and pro:sub|we
+	adv|random&dadj-LY v|select det:art|a det:num|thousand prep|of
+	pro:obj|them .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|11|QUANT
+	9|10|DATE 10|11|QUANT 11|7|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ
+	15|18|LINK 16|18|SUBJ 17|18|JCT 18|11|CJCT 19|20|DET 20|18|OBJ 21|20|JCT
+	22|21|POBJ 23|4|PUNCT
+*S3:	we use that (.) information in that one thousand to get our
+	estimate of that proportion (.) who daily surf the net .
+%mor:	pro:sub|we v|use comp|that n|inform&dv-TION prep|in comp|that
+	det:num|one det:num|thousand inf|to v|get det:poss|our n|estimate
+	prep|of det:dem|that n|proportion pro:rel|who adj|daily n|surf
+	det:art|the n|net .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|4|NJCT 6|8|LINK 7|8|QUANT 8|5|POBJ
+	9|10|INF 10|8|COMP 11|12|DET 12|10|OBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|18|LINK 17|18|MOD 18|15|CMOD 19|20|DET 20|18|OBJ 21|2|PUNCT
+*S3:	scenario two (.) five million adults .
+%mor:	n|scenario det:num|two det:num|five det:num|million n|adult-PL .
+%gra:	1|5|MOD 2|3|QUANT 3|5|QUANT 4|5|QUANT 5|0|INCROOT 6|5|PUNCT
+*S3:	randomly select a thousand .
+%mor:	adv|random&dadj-LY v|select det:art|a det:num|thousand .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*S3:	from which of these two scenarios are we expected to get a better
+	answer (.) a more precise answer ?
+%mor:	prep|from pro:int|which prep|of det:dem|these det:num|two
+	n|scenario-PL cop|be&PRES pro:sub|we v|expect-PAST inf|to v|get
+	det:art|a adj|good&CP v|answer det:art|a adv|more adj|precise
+	n|answer ?
+%gra:	1|9|JCT 2|7|LINK 3|2|NJCT 4|6|DET 5|6|QUANT 6|3|POBJ 7|1|CPOBJ 8|9|SUBJ
+	9|0|ROOT 10|11|INF 11|9|COMP 12|13|DET 13|11|PRED 14|13|CMOD 15|18|DET
+	16|17|JCT 17|18|MOD 18|14|OBJ 19|9|PUNCT
+*S3:	what do you think (.) how many say scenario one ?
+%mor:	pro:int|what mod|do pro:per|you v|think pro:int|how qn|many co|say
+	n|scenario det:num|one ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|9|JCT 6|9|QUANT 7|9|COM 8|9|MOD
+	9|4|COBJ 10|4|PUNCT
+*S3:	&=raises:hand:multiple that's our tendency .
+%mor:	pro:dem|that~cop|be&3S det:poss|our n|tendency .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*S3:	because (.) the population is smaller there (.) than the other one
+	.
+%mor:	conj|because det:art|the n|populate&dv-TION cop|be&3S adj|small-CP
+	adv|there prep|than det:art|the qn|other pro:indef|one .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|JCT 7|4|JCT 8|10|DET
+	9|10|QUANT 10|7|POBJ 11|4|PUNCT
+*S3:	it actually turns out that they're gonna be the same .
+%mor:	pro:per|it adv|actual&dadj-LY v|turn-3S adv|out comp|that
+	pro:sub|they~aux|be&PRES part|go-PRESP~inf|to cop|be det:art|the
+	adj|same .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|3|XJCT
+	9|10|INF 10|8|COMP 11|12|DET 12|10|PRED 13|3|PUNCT
+*S3:	it's not gonna depend on the size of the population but the size of
+	the (.) sample .
+%mor:	pro:per|it~aux|be&3S neg|not part|go-PRESP~inf|to v|depend prep|on
+	det:art|the n|size prep|of det:art|the n|populate&dv-TION conj|but
+	det:art|the n|size prep|of det:art|the n|sample .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|4|CONJ 14|15|DET 15|13|COORD
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|4|PUNCT
+*S3:	provided the population's much larger than the sample .
+%mor:	v|provide-PAST det:art|the adj|populate&dn-TION-POSS adv|much
+	adj|large-CP prep|than det:art|the n|sample .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|JCT 5|3|XMOD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*S3:	and to help my students see that (.) I use fabric +...
+%mor:	coord|and inf|to co|help det:poss|my n|student-PL v|see comp|that
+	pro:sub|I n|use n|fabric +...
+%gra:	1|6|LINK 2|3|INF 3|6|COM 4|5|DET 5|6|SUBJ 6|0|ROOT 7|9|LINK 8|9|SUBJ
+	9|10|MOD 10|6|OBJ 11|6|PUNCT
+*S3:	suppose I found some fabric in a print that has a repeating pattern
+	.
+%mor:	v|suppose pro:sub|I v|find&PAST qn|some n|fabric prep|in det:art|a
+	n|print pro:rel|that v|have&3S det:art|a part|repeat-PRESP n|pattern
+	.
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|10|LINK 10|8|CMOD 11|13|DET 12|13|MOD 13|10|OBJ 14|1|PUNCT
+*S3:	and I wanna take a piece of it home to show my husband so he can
+	see what I picked out .
+%mor:	coord|and pro:sub|I v|want~inf|to v|take det:art|a n|piece prep|of
+	pro:per|it adv|home inf|to v|show det:poss|my n|husband conj|so
+	pro:sub|he mod|can v|see pro:int|what pro:sub|I v|pick-PAST adv|out
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|5|JCT 11|12|INF 12|5|COMP 13|14|DET 14|12|OBJ 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|3|CJCT 19|21|LINK 20|21|SUBJ 21|18|COMP 22|21|JCT
+	23|3|PUNCT
+*S3:	well if I take a piece (.) that's too small (.) he's not gonna be
+	able to see (.) that pattern .
+%mor:	n|well conj|if pro:sub|I v|take det:art|a n|piece
+	pro:rel|that~cop|be&3S adv|too adj|small pro:sub|he~aux|be&3S
+	neg|not part|go-PRESP~inf|to cop|be adj|able inf|to co|see adv|that
+	n|pattern .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|6|DET 6|4|OBJ 7|8|LINK
+	8|6|CMOD 9|10|JCT 10|8|PRED 11|14|SUBJ 12|14|AUX 13|12|NEG 14|8|XJCT 15|16|INF
+	16|14|COMP 17|21|MOD 18|19|INF 19|21|COM 20|21|JCT 21|16|PRED 22|1|PUNCT
+*S3:	once I decide (.) what size is big enough (.) to show the pattern
+	(.) it doesn't matter whether I take that (.) from a small bolt of
+	fabric (.) or whether I take that size (.) from a larger (.) bolt of
+	fabric (.) it's the size of the sample (.) that matters .
+%mor:	adv|once pro:sub|I v|decide det:int|what n|size cop|be&3S adj|big
+	adv|enough prep|to n|show det:art|the n|pattern pro:per|it
+	mod|do&3S~neg|not v|matter conj|whether pro:sub|I v|take
+	pro:dem|that prep|from det:art|a adj|small n|bolt prep|of n|fabric
+	coord|or conj|whether pro:sub|I v|take pro:dem|that v|size prep|from
+	det:art|a adj|large-CP n|bolt prep|of n|fabric pro:per|it~cop|be&3S
+	det:art|the n|size prep|of det:art|the n|sample pro:rel|that
+	v|matter-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|6|PRED 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|12|DET 12|6|PRED 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|12|CMOD 17|19|LINK 18|19|SUBJ 19|12|CJCT 20|19|OBJ 21|19|JCT 22|24|DET
+	23|24|MOD 24|21|POBJ 25|24|NJCT 26|25|POBJ 27|32|LINK 28|30|LINK
+	29|30|SUBJ 30|32|CJCT 31|32|SUBJ 32|19|CJCT 33|32|JCT 34|36|DET 35|36|MOD
+	36|33|POBJ 37|36|NJCT 38|37|POBJ 39|40|SUBJ 40|32|CJCT 41|42|DET 42|40|PRED
+	43|42|NJCT 44|45|DET 45|43|POBJ 46|47|LINK 47|45|CMOD 48|3|PUNCT
+*S3:	(0.6) you've now seen some examples (.) of (.) what I teach (.) and
+	how I teach statistics .
+%mor:	pro:per|you~aux|have adv|now part|see&PASTP qn|some n|example-PL
+	prep|of pro:int|what pro:sub|I v|teach coord|and pro:int|how
+	pro:sub|I v|teach n|statistic-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|NJCT 8|10|LINK
+	9|10|SUBJ 10|7|CPOBJ 11|10|CONJ 12|14|LINK 13|14|SUBJ 14|11|COORD
+	15|14|OBJ 16|4|PUNCT
+*S3:	and so one of the things that I try to do in my teaching +//.
+%mor:	coord|and adv|so pro:indef|one prep|of det:art|the n|thing-PL
+	pro:rel|that pro:sub|I v|try inf|to v|do prep|in det:poss|my
+	part|teach-PRESP +//.
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|9|LINK
+	8|9|SUBJ 9|6|CMOD 10|11|INF 11|9|COMP 12|11|JCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*S3:	it's one of my mottos [?] .
+%mor:	pro:per|it~cop|be&3S pro:indef|one prep|of det:poss|my n|motto-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*S3:	are that I think the students don't really learn just by reading it
+	.
+%mor:	cop|be&PRES comp|that pro:sub|I v|think det:art|the n|student-PL
+	mod|do~neg|not adv|real&dadj-LY v|learn adv|just prep|by
+	part|read-PRESP pro:per|it .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|CPRED 5|6|DET 6|10|SUBJ 7|10|AUX 8|7|NEG
+	9|10|JCT 10|4|COMP 11|10|JCT 12|10|JCT 13|12|POBJ 14|13|OBJ 15|1|PUNCT
+*S3:	they don't necessarily learn just by having someone talk to them
+	and teach it to them in lecture format .
+%mor:	pro:sub|they mod|do~neg|not adv|necessary&dadj-LY v|learn adv|just
+	adv|by n:gerund|have-PRESP pro:indef|someone n|talk prep|to
+	pro:obj|them coord|and v|teach pro:per|it prep|to pro:obj|them
+	prep|in n|lecture n|format .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|JCT 8|5|JCT
+	9|10|MOD 10|8|OBJ 11|8|JCT 12|11|POBJ 13|8|CONJ 14|13|COORD 15|14|OBJ
+	16|14|JCT 17|16|POBJ 18|14|JCT 19|20|MOD 20|18|POBJ 21|5|PUNCT
+*S3:	but they learn the most by thinking about it and doing it (.) and
+	having that take place within the classroom (.) as much as possible
+	.
+%mor:	conj|but pro:sub|they v|learn det:art|the qn|most adv|by
+	part|think-PRESP prep|about pro:per|it coord|and part|do-PRESP
+	pro:per|it coord|and part|have-PRESP pro:rel|that v|take n|place
+	prep|within det:art|the n|+n|class+n|room prep|as adv|much prep|as
+	adj|possible .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|JCT 7|3|XJCT 8|7|JCT
+	9|8|POBJ 10|7|CONJ 11|10|COORD 12|11|OBJ 13|7|CONJ 14|13|COORD 15|16|LINK
+	16|14|COMP 17|16|OBJ 18|16|JCT 19|20|DET 20|18|POBJ 21|22|COORD 22|16|JCT
+	23|24|COORD 24|22|ENUM 25|3|PUNCT
+*S3:	that of_course is going to involve interactions between the
+	instructor and the students (.) and between students themselves .
+%mor:	comp|that co|of_course aux|be&3S part|go-PRESP inf|to v|involve
+	inter#n|action-PL prep|between det:art|the n|instructor coord|and
+	det:art|the n|student-PL coord|and prep|between n|student-PL
+	pro:refl|themselves .
+%gra:	1|4|LINK 2|4|COM 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|4|CONJ 12|13|DET 13|11|COORD 14|13|CONJ 15|17|JCT
+	16|15|POBJ 17|14|COORD 18|4|PUNCT
+*S3:	when a student can explain an idea (.) like what the confidence [?]
+	level means (.) or what a standard error really means to another
+	student (.) then they really have that idea down .
+%mor:	conj|when det:art|a n|student mod|can v|explain det:art|a n|idea
+	prep|like pro:int|what det:art|the n|confidence n|level v|mean-3S
+	coord|or pro:int|what det:art|a adj|standard n|error
+	adv|real&dadj-LY v|mean-3S inf|to qn|another n|student adv:tem|then
+	pro:sub|they adv|real&dadj-LY v|have det:dem|that n|idea adv|down .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|13|LINK 10|12|DET 11|12|MOD 12|13|SUBJ 13|8|CPOBJ 14|13|CONJ 15|20|LINK
+	16|18|DET 17|18|MOD 18|20|SUBJ 19|20|JCT 20|14|COORD 21|22|INF 22|23|QUANT
+	23|27|SUBJ 24|27|JCT 25|27|SUBJ 26|27|JCT 27|20|COMP 28|29|DET
+	29|27|OBJ 30|27|JCT 31|5|PUNCT
+*S3:	and especially in statistics when possible try to (.) not focus on
+	the symbols [/] symbols less (.) but words more .
+%mor:	coord|and adv|especial&dadj-LY prep|in n|statistic-PL pro:rel|when
+	adj|possible v|try prep|to neg|not v|focus prep|on det:art|the
+	n|symbol-PL adj|less conj|but n|word-PL adv|more .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|3|POBJ 5|7|LINK 6|7|JCT 7|4|CMOD
+	8|7|JCT 9|10|NEG 10|7|CJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|10|JCT 15|14|CONJ
+	16|15|COORD 17|16|NJCT 18|1|PUNCT
+*S3:	to be able to explain what that formula is in English (.) and to
+	see a common pattern in that formula to apply to other scenarios and
+	techniques (.) is how the learning will take place .
+%mor:	inf|to cop|be adj|able inf|to v|explain pro:int|what det:dem|that
+	n|formula cop|be&3S prep|in n:prop|English coord|and inf|to v|see
+	det:art|a adj|common n|pattern prep|in det:dem|that n|formula inf|to
+	v|apply prep|to qn|other n|scenario-PL coord|and n|technique-PL
+	cop|be&3S pro:int|how det:art|the n:gerund|learn-PRESP mod|will
+	v|take n|place .
+%gra:	1|2|INF 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|5|COMP 10|9|JCT 11|10|POBJ 12|9|CONJ 13|14|INF 14|12|COORD 15|17|DET
+	16|17|MOD 17|28|SUBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|22|INF 22|17|XMOD
+	23|22|JCT 24|25|QUANT 25|23|POBJ 26|25|CONJ 27|26|COORD 28|14|COMP
+	29|33|LINK 30|31|DET 31|33|SUBJ 32|33|AUX 33|28|CPRED 34|33|OBJ 35|2|PUNCT
+*S3:	that of_course requires organization (.) it requires some
+	preparation (.) and I think a [/] a love for teaching .
+%mor:	comp|that co|of_course v|require-3S n|organize&dv-TION pro:per|it
+	v|require-3S pro:indef|some n|prepare&dv-TION coord|and pro:sub|I
+	v|think det:art|a n|love prep|for n:gerund|teach-PRESP .
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|3|CJCT 7|8|MOD 8|6|OBJ
+	9|11|LINK 10|11|SUBJ 11|6|CJCT 12|13|DET 13|11|OBJ 14|11|JCT 15|14|POBJ
+	16|3|PUNCT
+*S3:	when I received the letter (.) back in January about being a
+	recipient of this award (.) well that's back in January they give
+	you a_lot_o(f) time to think about and prepare for this lecture (.)
+	sometimes a little bit too much I think (.) &=laughs:multiple
+	nonetheless it's been a challenging task (.) and I've been very
+	happy to see all of your faces here tonight .
+%mor:	conj|when pro:sub|I v|receive-PAST det:art|the n|letter adv|back
+	prep|in n:prop|January prep|about n:gerund|be-PRESP det:art|a
+	n|recipient prep|of det:dem|this n|award adv|well
+	pro:rel|that~cop|be&3S adv|back prep|in n:prop|January pro:sub|they
+	v|give pro:per|you qn|a_lot_of n|time inf|to v|think adv|about
+	coord|and v|prepare prep|for det:dem|this n|lecture adv|sometimes
+	det:art|a adj|little n|bit adv|too adv|much pro:sub|I v|think
+	adv|nonetheless pro:per|it~cop|be&3S aux|be&PASTP det:art|a
+	part|challenge-PRESP n|task coord|and pro:sub|I~aux|have
+	cop|be&PASTP adv|very adj|happy inf|to v|see pro:indef|all prep|of
+	det:poss|your n|face-PL adv|here adv:tem|tonight .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|JCT 8|7|POBJ
+	9|3|JCT 10|9|POBJ 11|12|DET 12|10|OBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|10|JCT 17|18|LINK 18|10|CMOD 19|18|JCT 20|18|JCT 21|20|POBJ 22|23|SUBJ
+	23|18|CJCT 24|23|OBJ2 25|26|QUANT 26|23|OBJ 27|28|INF 28|26|XMOD 29|28|JCT
+	30|28|CONJ 31|30|COORD 32|31|JCT 33|34|DET 34|32|POBJ 35|42|JCT
+	36|38|DET 37|38|MOD 38|42|JCT 39|40|JCT 40|38|NJCT 41|42|SUBJ 42|31|CJCT
+	43|42|JCT 44|45|SUBJ 45|42|COMP 46|49|AUX 47|49|DET 48|49|MOD 49|45|PRED
+	50|53|LINK 51|53|SUBJ 52|53|AUX 53|45|CJCT 54|55|JCT 55|53|PRED 56|57|INF
+	57|55|XMOD 58|63|SUBJ 59|58|NJCT 60|61|DET 61|59|POBJ 62|63|JCT 63|57|JCT
+	64|3|PUNCT
+*S3:	at home I have one of those flip calendars that give you a
+	statement to read each day (.) and about a week after I received the
+	letter (.) about this award (.) there was a statement that sort of
+	stuck with me .
+%mor:	prep|at n|home pro:sub|I v|have pro:indef|one prep|of pro:dem|those
+	v|flip n|calendar-PL pro:rel|that v|give pro:per|you det:art|a
+	n|state&dv-MENT inf|to v|read&ZERO qn|each n|day coord|and
+	prep|about det:art|a n|week prep|after pro:sub|I v|receive-PAST
+	det:art|the n|letter prep|about det:dem|this n|award adv|there
+	cop|be&PAST&13S det:art|a n|state&dv-MENT det:dem|that n|sort
+	prep|of v|stick&PAST prep|with pro:obj|me .
+%gra:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|5|NJCT 7|6|POBJ 8|4|COMP
+	9|8|OBJ 10|11|LINK 11|9|CMOD 12|11|OBJ2 13|14|DET 14|11|OBJ 15|16|INF
+	16|14|XMOD 17|18|QUANT 18|16|JCT 19|11|CONJ 20|23|JCT 21|22|DET 22|20|POBJ
+	23|19|COORD 24|25|SUBJ 25|23|POBJ 26|27|DET 27|25|OBJ 28|27|NJCT
+	29|30|DET 30|28|POBJ 31|32|SUBJ 32|23|CPOBJ 33|34|DET 34|32|PRED 35|36|DET
+	36|34|XMOD 37|36|NJCT 38|37|POBJ 39|36|JCT 40|39|POBJ 41|4|PUNCT
+*S3:	and I wanna share that with you .
+%mor:	coord|and pro:sub|I v|want~inf|to v|share comp|that prep|with
+	pro:per|you .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*S3:	(0.6) it says (.) &{l=READING whether you know it or not (.) you
+	are being watched .
+%mor:	pro:per|it v|say-3S conj|whether pro:per|you v|know pro:per|it
+	coord|or neg|not pro:per|you cop|be&PRES aux|be-PRESP
+	part|watch-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|5|OBJ 7|10|LINK 8|7|NEG
+	9|10|SUBJ 10|5|CJCT 11|12|AUX 12|10|PRED 13|2|PUNCT
+*S3:	and the things you model (.) by design or by accident (.)
+	powerfully communicate your convictions of right and wrong .
+%mor:	coord|and det:art|the n|thing-PL pro:per|you v|model prep|by
+	n|design coord|or prep|by n|accident adj|power&dn-FUL-LY
+	v|communicate det:poss|your n|conviction-PL prep|of n|right
+	coord|and n|wrong .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|12|LINK
+	9|12|JCT 10|9|POBJ 11|12|JCT 12|5|CJCT 13|14|DET 14|12|OBJ 15|14|NJCT
+	16|15|POBJ 17|16|CONJ 18|17|COORD 19|5|PUNCT
+*S3:	if you want to pass on values (.) to others (.) you must model
+	those values in your own life .
+%mor:	conj|if pro:per|you v|want prep|to n|pass prep|on n|value-PL inf|to
+	n:pt|others pro:per|you mod|must v|model det:dem|those n|value-PL
+	prep|in det:poss|your adj|own n|life .
+%gra:	1|3|LINK 2|3|SUBJ 3|12|CJCT 4|3|JCT 5|4|POBJ 6|3|JCT 7|6|POBJ 8|9|INF
+	9|12|XJCT 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|14|DET 14|12|OBJ 15|12|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|12|PUNCT
+*S3:	you must believe them yourself .
+%mor:	pro:per|you mod|must v|believe pro:obj|them pro:refl|yourself .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|3|PUNCT
+*S3:	&}l=READING I think that's quite a statement .
+%mor:	pro:sub|I v|think comp|that~aux|be&3S adv|quite det:art|a
+	n|state&dv-MENT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|SUBJ 4|7|AUX 5|7|JCT 6|7|DET 7|2|OBJ 8|2|PUNCT
+*S3:	that we are all models .
+%mor:	comp|that pro:sub|we cop|be&PRES qn|all n|model-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*S3:	as a teacher we are models for our students +...
+%mor:	prep|as det:art|a n|teach&dv-AGT pro:sub|we cop|be&PRES n|model-PL
+	prep|for det:poss|our n|student-PL +...
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*S3:	as a parent (.) you're models for your children +...
+%mor:	prep|as det:art|a n|parent pro:per|you~cop|be&PRES n|model-PL
+	prep|for det:poss|your n|child&PL +...
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*S3:	help me to be honest (.) so my children will learn honesty .
+%mor:	v|help pro:obj|me inf|to cop|be adj|honest conj|so det:poss|my
+	n|child&PL mod|will v|learn n|honesty .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|COMP 5|4|PRED 6|10|LINK 7|8|DET 8|10|SUBJ
+	9|10|AUX 10|1|CJCT 11|10|OBJ 12|1|PUNCT
+*S3:	help me to be kind (.) so my children will learn kindness .
+%mor:	v|help pro:obj|me inf|to cop|be n|kind conj|so det:poss|my
+	n|child&PL mod|will v|learn n|kind&dadj-NESS .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|COMP 5|4|PRED 6|10|LINK 7|8|DET 8|10|SUBJ
+	9|10|AUX 10|1|CJCT 11|10|OBJ 12|1|PUNCT
+*S3:	help me to be faithful (.) so my children will learn faith .
+%mor:	v|help pro:obj|me inf|to cop|be adj|faith&dn-FULL conj|so
+	det:poss|my n|child&PL mod|will v|learn n|faith .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|COMP 5|4|PRED 6|10|LINK 7|8|DET 8|10|SUBJ
+	9|10|AUX 10|1|CJCT 11|10|OBJ 12|1|PUNCT
+*S3:	help me to love (.) so my children will be loving .
+%mor:	v|help pro:obj|me prep|to n|love co|so det:poss|my n|child&PL
+	mod|will aux|be part|love-PRESP .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|10|COM 6|7|DET 7|10|SUBJ 8|10|AUX
+	9|10|AUX 10|1|CJCT 11|1|PUNCT
+*S3:	you are missing one child here tonight (.) that you haven't seen
+	yet .
+%mor:	pro:per|you aux|be&PRES part|miss-PRESP det:num|one n|child
+	adv|here adv:tem|tonight comp|that pro:per|you aux|have~neg|not
+	part|see&PASTP adv|yet .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|7|JCT 7|3|JCT 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|7|COMP 13|12|JCT 14|3|PUNCT
+*S3:	how many of you were in my class last winter term when I was out to
+	here .
+%mor:	pro:rel|how qn|many prep|of pro:per|you cop|be&PAST prep|in
+	det:poss|my n|class adj|last n|winter n|term conj|when pro:sub|I
+	cop|be&PAST&13S adv|out inf|to adv|here .
+%gra:	1|2|LINK 2|5|QUANT 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|11|MOD
+	9|11|MOD 10|11|MOD 11|6|POBJ 12|14|LINK 13|14|SUBJ 14|5|ROOT 15|14|JCT
+	16|17|INF 17|15|INCROOT 18|17|PUNCT
+*S3:	&=makes_gesture:S3 &=laughs:multiple mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	well meet the outcome of that process .
+%mor:	co|well v|meet det:art|the n|outcome prep|of det:dem|that n|process
+	.
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*S3:	&=shows_overhead_on_projector:S3 &=laughs:multiple this is Emily .
+%mor:	pro:dem|this cop|be&3S n:prop|Emily .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*SS:	aw +/.
+%mor:	co|aw +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	+, eleven months old and hopefully she'll be brought up here
+	towards the end so she can (.) be with all of us too .
+%mor:	det:num|eleven n|month-PL adj|old coord|and adv|hope&dadj-FULL-LY
+	pro:sub|she~mod|will cop|be v|bring&PAST prep|up n|here prep|towards
+	det:art|the n|end conj|so pro:sub|she mod|can cop|be prep|with
+	pro:indef|all prep|of pro:obj|us adv|too .
+%gra:	1|2|QUANT 2|9|SUBJ 3|2|POSTMOD 4|2|CONJ 5|8|JCT 6|8|SUBJ 7|8|AUX
+	8|4|COORD 9|0|ROOT 10|9|JCT 11|10|POBJ 12|9|JCT 13|14|DET 14|12|POBJ
+	15|18|LINK 16|18|SUBJ 17|18|AUX 18|9|CJCT 19|18|JCT 20|19|POBJ 21|20|NJCT
+	22|21|POBJ 23|20|JCT 24|9|PUNCT
+*S3:	my two sons go to Eberwhite Elementary School (.) and at that
+	school over the &p last couple of years they've been focusing on
+	learning about life skills (.) and following lifelong guidelines .
+%mor:	det:poss|my det:num|two n|son-PL v|go prep|to n:prop|Eberwhite
+	n:prop|Elementary n:prop|School coord|and prep|at det:dem|that
+	n|school prep|over det:art|the n|last n|couple prep|of n|year-PL
+	pro:sub|they~aux|have aux|be&PASTP part|focus-PRESP adv|on
+	part|learn-PRESP prep|about n|life n|skill-PL coord|and
+	part|follow-PRESP adj|lifelong n|+n|guide+n|line-PL .
+%gra:	1|3|DET 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|NAME 8|4|CJCT
+	9|8|CONJ 10|9|COORD 11|12|DET 12|10|POBJ 13|10|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|16|NJCT 18|17|POBJ 19|22|SUBJ 20|22|AUX 21|22|AUX
+	22|16|CMOD 23|22|JCT 24|22|XJCT 25|24|JCT 26|27|MOD 27|25|POBJ 28|27|CONJ
+	29|28|COORD 30|31|MOD 31|29|OBJ 32|4|PUNCT
+*S3:	the life skills that they've been (.) talking about over the past
+	couple months have been cooperation (.) caring (.) and effort .
+%mor:	det:art|the n|life n|skill-PL adv|that pro:sub|they~aux|have
+	aux|be&PASTP part|talk-PRESP adv|about prep|over det:art|the
+	adj|past qn|couple n|month-PL v|have aux|be&PASTP
+	co#n|operate&dv-TION part|care-PRESP coord|and n|effort .
+%gra:	1|3|DET 2|3|MOD 3|8|SUBJ 4|8|JCT 5|8|SUBJ 6|8|AUX 7|8|AUX 8|0|ROOT
+	9|10|JCT 10|8|JCT 11|14|DET 12|14|MOD 13|14|QUANT 14|15|SUBJ 15|10|POBJ
+	16|15|OBJ 17|16|PRED 18|17|XMOD 19|18|CONJ 20|19|COORD 21|8|PUNCT
+*S3:	and they have activities and school assemblies that focus on these
+	skills .
+%mor:	coord|and pro:sub|they v|have n|active&dadj-ITY-PL coord|and
+	n|school n|assembly-PL det:dem|that n|focus prep|on det:dem|these
+	n|skill-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|7|MOD 7|5|COORD 8|9|DET
+	9|3|JCT 10|3|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*S3:	they learn and they follow lifelong guidelines (.) that they call
+	Eberwhite Pride .
+%mor:	pro:sub|they v|learn coord|and pro:sub|they v|follow adj|lifelong
+	n|+n|guide+n|line-PL pro:rel|that pro:sub|they v|call
+	n:prop|Eberwhite n:prop|Pride .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|MOD 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|12|NAME 12|10|OBJ 13|2|PUNCT
+*S3:	no putdowns .
+%mor:	qn|no n|+v|put+prep|down-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S3:	respect and trust one another .
+%mor:	n|respect coord|and n|trust pro:indef|one qn|another .
+%gra:	1|5|SUBJ 2|1|CONJ 3|4|MOD 4|2|COORD 5|0|ROOT 6|5|PUNCT
+*S3:	insist on your personal best .
+%mor:	v|insist prep|on det:poss|your adj|personal adj|good&SP .
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*S3:	discuss and listen (.) actively .
+%mor:	v|discuss coord|and v|listen adv|active&dadj-LY .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|JCT 5|1|PUNCT
+*S3:	give truth and honesty (.) and expect that back in return .
+%mor:	v|give n|truth coord|and n|honesty coord|and v|expect adv|that
+	adv|back prep|in n|return .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|CONJ 6|5|COORD 7|6|JCT 8|6|JCT
+	9|6|JCT 10|9|POBJ 11|1|PUNCT
+*S3:	I think these guidelines and skills can and should be reinforced
+	(.) and followed at all stages of our lives +...
+%mor:	pro:sub|I v|think det:dem|these n|+n|guide+n|line-PL coord|and
+	n|skill-PL n|can coord|and mod|should aux|be part|reinforce-PASTP
+	coord|and v|follow-PAST prep|at qn|all n|stage-PL prep|of
+	det:poss|our n|life-PL +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|7|MOD 7|5|COORD 8|2|CONJ
+	9|11|AUX 10|11|AUX 11|8|COORD 12|2|CONJ 13|12|COORD 14|13|JCT 15|16|QUANT
+	16|14|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|2|PUNCT
+*S3:	you are probably asking one more question +...
+%mor:	pro:per|you aux|be&PRES adv|probable&dadj-LY part|ask-PRESP
+	det:num|one adv|more n|question +...
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|7|QUANT 6|7|JCT 7|4|OBJ 8|4|PUNCT
+*S3:	&=laughs:multiple what about those jars +...
+%mor:	pro:int|what prep|about det:dem|those n|jar-PL +...
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*S3:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	well I want you to think of these jars (.) as students .
+%mor:	co|well pro:sub|I v|want pro:per|you inf|to v|think prep|of
+	det:dem|these n|jar-PL conj|as n|student-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|COORD 11|6|ENUM 12|3|PUNCT
+*S3:	or maybe as your children +...
+%mor:	coord|or adv|maybe prep|as det:poss|your n|child&PL +...
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*S3:	maybe your fellow employees (.) those that you work with +...
+%mor:	adv|maybe det:poss|your n|fellow n|employee-PL det:dem|those
+	comp|that pro:per|you v|work prep|with +...
+%gra:	1|8|JCT 2|4|DET 3|4|MOD 4|8|SUBJ 5|8|DET 6|8|LINK 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|8|PUNCT
+*S3:	and this jar here (.) &=refers_to_jar_in_hand is the teacher +...
+%mor:	coord|and det:dem|this n|jar adv|here cop|be&3S det:art|the
+	n|teach&dv-AGT +...
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|DET 7|5|PRED 8|5|PUNCT
+*S3:	the parent .
+%mor:	det:art|the n|parent .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*S3:	it's you .
+%mor:	pro:per|it~cop|be&3S pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S3:	we all have opportunities to enrich (.) and influence the lives of
+	those around us .
+%mor:	pro:sub|we post|all v|have n|opportunity-PL inf|to v|enrich
+	coord|and v|influence det:art|the n|life-PL prep|of pro:dem|those
+	prep|around pro:obj|us .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|OBJ 5|6|INF 6|4|XMOD 7|3|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|8|JCT 14|13|POBJ 15|3|PUNCT
+*S3:	you are given opportunities to do that (.) and if you use your
+	gifts and talents (.) &=pours:S3 &=water_in_jar_one_turns_blue if
+	you do your personal best (.) &=pours:S3
+	&=water_in_jar_two_turns_purple if you demonstrate honesty (.)
+	truthfulness (.) &=pours:S3 &=water_in_jar_three_turns_red then you
+	will in turn help your children your students (.) discover and
+	develop their own (.) gifts (.) unique to each individual (.) yet
+	together (.) gives us our very colorful and wonderful world that we
+	live in .
+%mor:	pro:per|you aux|be&PRES part|give&PASTP n|opportunity-PL inf|to
+	v|do pro:dem|that coord|and conj|if pro:per|you v|use det:poss|your
+	n|gift-PL coord|and n|talent-PL conj|if pro:per|you v|do
+	det:poss|your adj|personal v|best conj|if pro:per|you v|demonstrate
+	n|honesty n|truth-FULL-NESS adv:tem|then pro:per|you mod|will
+	prep|in n|turn co|help det:poss|your n|child&PL det:poss|your
+	n|student-PL v|discover coord|and v|develop det:poss|their adj|own
+	n|gift-PL adj|unique prep|to qn|each n|individual adv|yet
+	adv|together v|give-3S pro:obj|us det:poss|our adv|very
+	adj|color&dn-FULL coord|and adj|wonder-FULL n|world pro:rel|that
+	pro:sub|we adj|live adv|in .
+%gra:	1|3|SUBJ 2|3|AUX 3|21|XJCT 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|6|CONJ
+	9|11|LINK 10|11|SUBJ 11|8|COORD 12|13|DET 13|11|OBJ 14|11|CONJ
+	15|14|COORD 16|18|LINK 17|18|SUBJ 18|21|CJCT 19|20|DET 20|21|SUBJ 21|0|ROOT
+	22|24|LINK 23|24|SUBJ 24|37|CJCT 25|26|MOD 26|37|SUBJ 27|37|JCT 28|37|SUBJ
+	29|37|AUX 30|29|JCT 31|30|POBJ 32|37|COM 33|34|DET 34|37|SUBJ 35|36|DET
+	36|37|SUBJ 37|21|COMP 38|37|CONJ 39|38|COORD 40|42|DET 41|42|MOD 42|39|OBJ
+	43|42|POSTMOD 44|42|NJCT 45|46|QUANT 46|44|POBJ 47|39|JCT 48|39|JCT
+	49|39|COMP 50|49|OBJ 51|53|DET 52|53|JCT 53|49|JCT 54|53|CONJ 55|56|MOD
+	56|54|COORD 57|59|LINK 58|59|SUBJ 59|53|CMOD 60|59|JCT 61|21|PUNCT
+*S3:	being a teacher I am able to enrich the lives of my students .
+%mor:	n:gerund|be-PRESP det:art|a n|teach&dv-AGT pro:sub|I cop|be&1S
+	adj|able inf|to v|enrich det:art|the n|life-PL prep|of det:poss|my
+	n|student-PL .
+%gra:	1|5|JCT 2|3|DET 3|1|OBJ 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|8|INF 8|6|XMOD
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+*S3:	so that they can in turn discover their own gifts (.) and put them
+	to good use .
+%mor:	adv|so pro:rel|that pro:sub|they mod|can prep|in n|turn v|discover
+	det:poss|their adj|own n|gift-PL coord|and v|put&ZERO pro:obj|them
+	prep|to adj|good n|use .
+%gra:	1|0|INCROOT 2|7|LINK 3|7|SUBJ 4|7|AUX 5|7|JCT 6|5|POBJ 7|1|CMOD
+	8|10|DET 9|10|MOD 10|7|OBJ 11|7|CONJ 12|11|COORD 13|12|OBJ 14|12|JCT 15|16|MOD
+	16|14|POBJ 17|1|PUNCT
+*S3:	we have all been given gifts .
+%mor:	pro:sub|we v|have qn|all aux|be&PASTP part|give&PASTP n|gift-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*S3:	I have been blessed with the gift of teaching .
+%mor:	pro:sub|I aux|have aux|be&PASTP part|bless-PASTP prep|with
+	det:art|the n|gift prep|of part|teach-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*S3:	as a mom (.) and as a Sunday school teacher (.) I work with younger
+	children .
+%mor:	prep|as det:art|a n|mom coord|and prep|as det:art|a n:prop|Sunday
+	n|school n|teach&dv-AGT pro:sub|I v|work prep|with adj|young-CP
+	n|child&PL .
+%gra:	1|11|JCT 2|3|DET 3|1|POBJ 4|3|CONJ 5|4|COORD 6|9|DET 7|8|MOD 8|9|MOD
+	9|5|POBJ 10|11|SUBJ 11|0|ROOT 12|11|JCT 13|14|MOD 14|12|POBJ 15|11|PUNCT
+*S3:	and sometimes to &communi communicate ideas (.) to those children
+	we have to use other media .
+%mor:	coord|and adv|sometimes inf|to v|communicate n|idea-PL prep|to
+	det:dem|those n|child&PL pro:sub|we v|have inf|to v|use qn|other
+	n|media .
+%gra:	1|10|LINK 2|10|JCT 3|4|INF 4|2|COMP 5|4|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|10|SUBJ 10|0|ROOT 11|12|INF 12|10|COMP 13|14|QUANT 14|12|OBJ
+	15|10|PUNCT
+*S3:	songs (.) skits (.) and so forth .
+%mor:	n|song-PL n|skit-PL coord|and co|so adv|forth .
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|5|COM 5|3|COORD 6|2|PUNCT
+*S3:	I have decided to end (.) my last lecture (.) with a song .
+%mor:	pro:sub|I aux|have part|decide-PASTP inf|to v|end det:poss|my
+	adj|last n|lecture prep|with det:art|a n|song .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*S3:	(0.7) &=laughs:multiple and to show you the extent of my (.)
+	musical background (.) &=displays_overhead_on_projector:S3
+	&=laughs:multiple yes that's me in (.) grade school taking piano
+	lessons (.) playing the guitar I actually took (.) ukulele lessons
+	back in third grade (.) from my third grade teacher .
+%mor:	coord|and prep|to n|show pro:per|you det:art|the n|extent prep|of
+	det:poss|my n|musical n|background co|yes pro:dem|that~cop|be&3S
+	pro:obj|me prep|in n|grade n|school part|take-PRESP n|piano
+	n|lesson-PL part|play-PRESP det:art|the n|guitar pro:sub|I
+	adv|actual&dadj-LY v|take&PAST n|ukulele n|lesson-PL adv|back
+	prep|in n|third n|grade prep|from det:poss|my n|third n|grade
+	n|teach&dv-AGT .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|POBJ 4|2|POBJ 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|10|MOD 10|7|POBJ 11|13|COM 12|13|SUBJ 13|10|CMOD 14|13|PRED 15|14|JCT
+	16|17|MOD 17|15|POBJ 18|14|XJCT 19|20|MOD 20|18|OBJ 21|20|XMOD
+	22|23|DET 23|21|OBJ 24|26|SUBJ 25|26|JCT 26|6|CMOD 27|28|MOD 28|26|OBJ 29|26|JCT
+	30|26|JCT 31|32|MOD 32|30|POBJ 33|26|JCT 34|37|DET 35|37|MOD 36|37|MOD
+	37|33|POBJ 38|2|PUNCT
+*S3:	and my mom was actually taking guitar lessons and I kinda just
+	picked it up after that so (.) no formal lessons there (.) as far as
+	the singing goes (.) I was never in the Saint Elmo's choir (.)
+	&=laughs:multiple okay (.) but I still want to share something with
+	you tonight .
+%mor:	coord|and det:poss|my n|mom aux|be&PAST&13S adv|actual&dadj-LY
+	part|take-PRESP n|guitar n|lesson-PL coord|and pro:sub|I adv|kinda
+	adv|just v|pick-PAST pro:per|it adv|up prep|after pro:dem|that
+	adv|so co|no adj|form&dn-AL n|lesson-PL adv|there adv|as adv|far
+	conj|as det:art|the n:gerund|sing-PRESP v|go-3S pro:sub|I
+	cop|be&PAST&13S adv|never prep|in det:art|the n:prop|Saint
+	adj|Elmo&dn-POSS n|choir adj|okay conj|but pro:sub|I adv|still
+	v|want inf|to v|share pro:indef|something prep|with pro:per|you
+	adv:tem|tonight .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|13|LINK 10|13|SUBJ 11|13|JCT 12|13|JCT 13|6|CJCT 14|13|OBJ 15|13|JCT
+	16|13|JCT 17|16|POBJ 18|19|JCT 19|21|COM 20|21|MOD 21|13|OBJ 22|28|SUBJ
+	23|24|COORD 24|28|JCT 25|27|COORD 26|27|DET 27|28|SUBJ 28|21|CMOD 29|30|SUBJ
+	30|28|COMP 31|30|JCT 32|30|JCT 33|36|DET 34|36|MOD 35|36|MOD 36|32|POBJ
+	37|36|POSTMOD 38|41|LINK 39|41|SUBJ 40|41|JCT 41|21|CJCT 42|43|INF
+	43|41|COMP 44|43|OBJ 45|43|JCT 46|47|SUBJ 47|45|POBJ 48|6|PUNCT
+*S3:	(0.4) &=play_guitar:S3 &{l=SINGING this Golden Apple Award you
+	bestowed on me tonight (.) it brings me much happiness joy and
+	delight (.) this night has filled +//.
+%mor:	pro:dem|this n:prop|Golden n:prop|Apple n:prop|Award pro:per|you
+	v|bestow-PAST prep|on pro:obj|me adv:tem|tonight pro:per|it
+	v|bring-3S pro:obj|me adv|much n|happy&dadj-NESS n|joy coord|and
+	v|delight det:dem|this n|night aux|have&3S part|fill-PASTP +//.
+%gra:	1|3|NAME 2|3|NAME 3|4|NAME 4|11|SUBJ 5|6|SUBJ 6|11|CJCT 7|6|JCT
+	8|7|POBJ 9|6|JCT 10|11|SUBJ 11|0|ROOT 12|11|OBJ 13|15|JCT 14|15|MOD 15|11|OBJ
+	16|15|CONJ 17|16|COORD 18|19|DET 19|21|SUBJ 20|21|AUX 21|17|COMP
+	22|11|PUNCT
+*S3:	been filled with wonderful things (.) some learning (.) some
+	laughter (.) and now a chance to sing &}l=SINGING
+	&=musical_interlude &=laughs:multiple &{l=SINGING use what gifts (.)
+	and talents you possess (.) it's too quiet if the only songs are
+	from those who sing the best .
+%mor:	aux|be&PASTP part|fill-PASTP prep|with adj|wonder-FULL n|thing-PL
+	qn|some n:gerund|learn-PRESP qn|some n|laughter coord|and adv|now
+	det:art|a n|chance inf|to v|sing v|use pro:int|what n|gift-PL
+	coord|and n|talent-PL pro:per|you v|possess pro:per|it~cop|be&3S
+	adv|too adj|quiet comp|if det:art|the qn|only n|song-PL cop|be&PRES
+	prep|from det:dem|those pro:rel|who v|sing det:art|the adj|good&SP .
+%gra:	1|2|AUX 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|7|QUANT 7|22|JCT 8|9|QUANT
+	9|7|OBJ 10|9|CONJ 11|13|JCT 12|13|DET 13|10|COORD 14|15|INF 15|22|XJCT
+	16|15|OBJ 17|18|DET 18|16|OBJ 19|18|CONJ 20|19|COORD 21|22|SUBJ 22|2|CJCT
+	23|22|OBJ 24|22|OBJ 25|26|JCT 26|24|PRED 27|31|LINK 28|30|DET
+	29|30|QUANT 30|31|SUBJ 31|26|CMOD 32|31|JCT 33|32|POBJ 34|35|LINK 35|33|CMOD
+	36|37|DET 37|35|OBJ 38|2|PUNCT
+*S3:	in all you do keep in mind the Golden Rule (.) to do unto others
+	(.) as you want done to you .
+%mor:	prep|in adv|all pro:per|you v|do v|keep prep|in n|mind det:art|the
+	n:prop|Golden n:prop|Rule inf|to v|do prep|unto n:pt|others conj|as
+	pro:per|you v|want part|do&PASTP prep|to pro:per|you .
+%gra:	1|12|JCT 2|4|JCT 3|4|SUBJ 4|1|POBJ 5|4|OBJ 6|4|JCT 7|6|POBJ 8|9|DET
+	9|10|NAME 10|12|SUBJ 11|12|INF 12|0|ROOT 13|12|JCT 14|13|POBJ 15|17|LINK
+	16|17|SUBJ 17|12|CJCT 18|17|COMP 19|18|JCT 20|19|POBJ 21|12|PUNCT
+*S3:	&}l=SINGING &=musical_interlude &{l=SINGING I thank you my students
+	family (.) and friends (.) as now my last lecture comes to an end .
+%mor:	pro:sub|I v|thank pro:per|you det:poss|my n|student-PL n|family
+	coord|and n|friend-PL adv|as adv|now det:poss|my adj|last n|lecture
+	v|come-3S prep|to det:art|a n|end .
+%gra:	1|2|SUBJ 2|0|ROOT 3|14|SUBJ 4|6|DET 5|6|MOD 6|10|SUBJ 7|6|CONJ
+	8|7|COORD 9|10|JCT 10|14|JCT 11|13|DET 12|13|MOD 13|14|SUBJ 14|2|COMP 15|14|JCT
+	16|17|DET 17|15|POBJ 18|2|PUNCT
+*S3:	<doo [/] doo> [/] doo [x 3] (.) <doo [/] doo> [/] doo [x 3]
+	&}l=SINGING &=taps_guitar_twice:S3 &{l=SINGING doo [x 4] [/] doo (.)
+	good night and best wishes &}l=SINGING &=applause (0.7) .
+%mor:	n|doo n|doo n|doo adj|good n|night coord|and v|best n|wish-PL .
+%gra:	1|3|MOD 2|3|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|CONJ 7|6|COORD 8|7|OBJ
+	9|5|PUNCT
+*S1:	thank you so much Doctor_Gunderson .
+%mor:	v|thank pro:per|you adv|so qn|much n:prop|Doctor_Gunderson .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|5|QUANT 5|1|OBJ 6|1|PUNCT
+*S1:	&-um I would like to take this time to thank our sponsors listed on
+	the back of the program &-um thank my committee for helping me so
+	much and everyone at Hillel that did everything for us &-um we
+	really appreciate it .
+%mor:	pro:sub|I mod|will&COND v|like inf|to v|take det:dem|this n|time
+	inf|to v|thank det:poss|our n|sponsor-PL v|list-PAST prep|on
+	det:art|the n|back prep|of det:art|the n|program v|thank det:poss|my
+	n|committee prep|for n:gerund|help-PRESP pro:obj|me adv|so qn|much
+	coord|and pro:indef|everyone prep|at n:prop|Hillel pro:rel|that
+	v|do&PAST pro:indef|everything prep|for pro:obj|us pro:sub|we
+	adv|real&dadj-LY v|appreciate pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|9|INF
+	9|7|XMOD 10|11|DET 11|12|SUBJ 12|9|COMP 13|12|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|12|CJCT 20|21|DET 21|19|OBJ 22|19|JCT
+	23|22|POBJ 24|23|OBJ 25|26|JCT 26|19|CJCT 27|26|CONJ 28|27|COORD 29|28|NJCT
+	30|29|POBJ 31|32|LINK 32|26|CMOD 33|32|OBJ 34|32|JCT 35|34|POBJ
+	36|38|SUBJ 37|38|JCT 38|32|COMP 39|38|OBJ 40|3|PUNCT
+*S1:	&-um thank you all for joining us this evening is +//.
+%mor:	v|thank pro:per|you adv|all prep|for n:gerund|join-PRESP pro:obj|us
+	det:dem|this n|evening cop|be&3S +//.
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|9|JCT 6|5|OBJ 7|8|DET 8|9|SUBJ
+	9|4|CPOBJ 10|1|PUNCT
+*S1:	if anyone's interested in purchasing a video (.) on the back of
+	your program there's a form that you can mail in .
+%mor:	conj|if pro:indef|anyone~aux|be&3S part|interest-PASTP adv|in
+	part|purchase-PRESP det:art|a n|video prep|on det:art|the n|back
+	prep|of det:poss|your n|program pro:exist|there~cop|be&3S det:art|a
+	n|form pro:rel|that pro:per|you mod|can v|mail adv|in .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|16|CJCT 5|4|JCT 6|4|XJCT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|16|SUBJ
+	16|0|ROOT 17|18|DET 18|16|PRED 19|22|LINK 20|22|SUBJ 21|22|AUX 22|18|CMOD
+	23|22|JCT 24|16|PUNCT
+*S1:	&-um thank you and have a wonderful evening .
+%mor:	v|thank pro:per|you coord|and v|have det:art|a adj|wonder-FULL
+	n|evening .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|CONJ 4|3|COORD 5|7|DET 6|7|MOD 7|4|OBJ 8|1|PUNCT
+*S1:	&=applause .
+@End

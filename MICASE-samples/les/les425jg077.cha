@@ -1,0 +1,2547 @@
+@UTF8
+@PID:	11312/a-00010202-1
+@Begin
+@Languages:	eng
+@Participants:	S1 Instructor Teacher, S2 Student Student, S3 Student
+	Student, S4 Instructor Teacher
+@ID:	eng|MICASE|S1|60;|male|NS||Teacher|JF||
+@ID:	eng|MICASE|S2|27;|male|NS||Student|JG||
+@ID:	eng|MICASE|S3|27;|female|NS||Student|SG||
+@ID:	eng|MICASE|S4|27;|male|NS||Teacher|UN||
+@Media:	les425jg077, audio, unlinked
+@Date:	28-JAN-1999
+@Situation:	Classroom, Dana Building
+*S1:	today we're gonna be talking about (.) stage structured and size
+	structured models .
+%mor:	adv:tem|today pro:sub|we~aux|be&PRES part|go-PRESP~inf|to aux|be
+	part|talk-PRESP prep|about n|stage v|structure-PAST coord|and n|size
+	v|structure-PAST n|model-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|INF 6|7|AUX 7|4|COMP 8|10|JCT
+	9|10|SUBJ 10|7|COMP 11|13|LINK 12|13|SUBJ 13|10|COMP 14|13|OBJ 15|4|PUNCT
+*S1:	again &-uh matrix models , following up on the [/] the (.) topics
+	we've &-uh discussed earlier .
+%mor:	adv|again n|matrix n|model-PL cm|cm part|follow-PRESP adv|up
+	prep|on det:art|the n|topic-PL pro:sub|we~aux|have
+	part|discuss-PASTP adv|early-CP .
+%gra:	1|2|JCT 2|3|MOD 3|0|INCROOT 4|3|LP 5|3|XJCT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|12|SUBJ 11|12|AUX 12|9|CMOD 13|12|JCT 14|3|PUNCT
+*S1:	mostly we've been talking about (.) age structured models or it's
+	Leslie matrix models .
+%mor:	adv|mostly pro:sub|we~aux|have aux|be&PASTP part|talk-PRESP
+	prep|about n|age v|structure-PAST n|model-PL coord|or
+	pro:per|it~cop|be&3S n:prop|Leslie n|matrix n|model-PL .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|8|JCT 7|8|SUBJ 8|5|CJCT
+	9|8|OBJ 10|12|LINK 11|12|SUBJ 12|8|CJCT 13|15|MOD 14|15|MOD 15|12|PRED
+	16|5|PUNCT
+*S1:	now we're going to &-um talk about some variations on that theme .
+%mor:	adv|now pro:sub|we~aux|be&PRES part|go-PRESP prep|to n|talk
+	prep|about qn|some n|vary&dv-TION-PL prep|on det:dem|that n|theme .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|QUANT
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*S1:	(0.6) first we're gonna talk about (.) a relatively simple (.)
+	modification of an age based or Leslie matrix model .
+%mor:	adv|first pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|talk
+	prep|about det:art|a adv|relative&dadj-LY adj|simple
+	n|modify&dv-TION prep|of det:art|a n|age v|base-PAST coord|or
+	n:prop|Leslie n|matrix n|model .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|15|JCT 8|11|DET
+	9|10|JCT 10|11|MOD 11|15|SUBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|6|COMP
+	16|15|CONJ 17|19|MOD 18|19|MOD 19|16|COORD 20|4|PUNCT
+*S1:	for long+lived species (.) an aged based Leslie matrix model can be
+	very large .
+%mor:	prep|for adj|+adj|long+part|lived n|species det:art|a
+	part|age-PASTP v|base-PAST n:prop|Leslie n|matrix n|model n|can
+	cop|be adv|very adj|large .
+%gra:	1|6|JCT 2|3|MOD 3|1|POBJ 4|5|DET 5|6|SUBJ 6|11|CJCT 7|10|MOD 8|10|MOD
+	9|10|MOD 10|11|SUBJ 11|0|ROOT 12|13|JCT 13|11|PRED 14|11|PUNCT
+*S1:	for example &-uh some of the sea turtles (.) can live to over fifty
+	years .
+%mor:	prep|for ex#adj|ample pro:indef|some prep|of det:art|the n|sea
+	n|turtle-PL n|can adj|live prep|to adv|over det:num|fifty n|year-PL
+	.
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|OBJ 4|3|NJCT 5|8|DET 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|3|POSTMOD 10|9|JCT 11|12|JCT 12|13|QUANT 13|10|POBJ 14|1|PUNCT
+*S1:	so if you have &-uh an &-um Leslie matrix that has one entry for
+	each (.) year class , that can be a fifty by fifty matrix which is
+	not only (.) &w &-uh a big matrix (.) and &-uh &m moderately
+	cumbersome to [/] to work with , it can be hard to &-uh supply the
+	data for that .
+%mor:	adv|so conj|if pro:per|you v|have det:art|a n:prop|Leslie n|matrix
+	pro:rel|that v|have&3S det:num|one n|entry prep|for qn|each n|year
+	n|class cm|cm pro:rel|that mod|can cop|be det:art|a det:num|fifty
+	prep|by det:num|fifty n|matrix pro:rel|which cop|be&3S neg|not
+	adv|only det:art|a adj|big n|matrix coord|and adv|moderate&dadj-LY
+	adj|cumbersome prep|to n|work prep|with cm|cm pro:per|it mod|can
+	cop|be adv|hard prep|to n|supply det:art|the n|data prep|for
+	pro:dem|that .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|9|LINK
+	9|7|CMOD 10|11|QUANT 11|9|OBJ 12|11|NJCT 13|14|QUANT 14|15|MOD 15|12|POBJ
+	16|15|LP 17|19|LINK 18|19|AUX 19|15|CMOD 20|21|DET 21|19|PRED 22|21|NJCT
+	23|24|QUANT 24|22|POBJ 25|26|LINK 26|21|CMOD 27|26|NEG 28|31|JCT
+	29|31|DET 30|31|MOD 31|26|PRED 32|26|CONJ 33|34|JCT 34|32|COORD 35|34|JCT
+	36|35|POBJ 37|41|JCT 38|37|LP 39|41|SUBJ 40|41|AUX 41|34|CMOD 42|41|JCT
+	43|41|JCT 44|43|POBJ 45|46|DET 46|43|POBJ 47|46|NJCT 48|47|POBJ 49|4|PUNCT
+*S1:	&-um if you wanna estimate the transitions for (.) specific age
+	classes (.) you'll need some replication .
+%mor:	conj|if pro:per|you v|want~inf|to v|estimate det:art|the
+	n|transition-PL prep|for adj|specific n|age v|class-3S
+	pro:per|you~mod|will v|need qn|some n|replicate&dv-TION .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|5|ENUM 12|14|SUBJ 13|14|AUX 14|11|COMP 15|16|QUANT
+	16|14|OBJ 17|3|PUNCT
+*S1:	so you need to be able to age the animals well and get sufficient
+	&-uh data on each age class to accurately estimate (.) the
+	transition .
+%mor:	co|so pro:per|you v|need inf|to cop|be adj|able inf|to v|age
+	det:art|the n|animal-PL co|well coord|and v|get adj|sufficient
+	n|data prep|on qn|each n|age n|class inf|to adv|accurate&dadj-LY
+	v|estimate det:art|the n|transition .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|PRED 7|8|INF 8|6|XMOD
+	9|10|DET 10|8|OBJ 11|10|XMOD 12|11|CONJ 13|12|COORD 14|15|MOD 15|13|OBJ
+	16|13|JCT 17|19|QUANT 18|19|MOD 19|16|POBJ 20|22|INF 21|22|JCT 22|19|XMOD
+	23|24|DET 24|22|OBJ 25|3|PUNCT
+*S1:	often that's quite hard and so simplifications are made to [/] to
+	average [//] use average survival rates for the older age classes
+	and sometimes for younger age classes as_well .
+%mor:	adv|often pro:rel|that~cop|be&3S adv|quite adv|hard coord|and co|so
+	n|simplify&dv-TION-PL aux|be&PRES part|make&PASTP prep|to n|use
+	n|average n|survival v|rate-3S prep|for det:art|the adj|old-CP n|age
+	n|class-PL coord|and adv|sometimes prep|for adj|young-CP n|age
+	n|class-PL adv|as_well .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|5|JCT 5|3|PRED 6|10|LINK 7|10|COM
+	8|10|SUBJ 9|10|AUX 10|5|CJCT 11|15|JCT 12|14|MOD 13|14|MOD 14|15|SUBJ
+	15|10|CJCT 16|15|JCT 17|20|DET 18|20|MOD 19|20|MOD 20|16|POBJ 21|20|CONJ
+	22|27|JCT 23|27|JCT 24|26|MOD 25|26|MOD 26|23|POBJ 27|21|COORD 28|1|PUNCT
+*S1:	(0.5) &-um also for long+lived species (.) the oldest age can be
+	hard to measure accurately .
+%mor:	adv|also prep|for adj|+adj|long+part|lived n|species det:art|the
+	adj|old-SP n|age n|can cop|be adv|hard inf|to v|measure
+	adv|accurate&dadj-LY .
+%gra:	1|9|JCT 2|9|JCT 3|4|MOD 4|2|POBJ 5|8|DET 6|7|MOD 7|8|MOD 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|12|INF 12|9|XJCT 13|12|JCT 14|9|PUNCT
+*S1:	if the population of is of relatively modest size (.) and
+	especially <if it's> [/] if it's difficult to measure ages (.) <it
+	can be> [/] &h it can be hard to tell (.) what the actual oldest age
+	is [/] &-uh is likely to be .
+%mor:	comp|if det:art|the n|populate&dv-TION prep|of cop|be&3S prep|of
+	adv|relative&dadj-LY adj|modest n|size coord|and
+	adv|especial&dadj-LY conj|if pro:per|it~cop|be&3S adj|difficult
+	inf|to v|measure v|age-3S pro:per|it mod|can cop|be adv|hard inf|to
+	v|tell pro:int|what det:art|the adj|actual adj|old-SP n|age
+	cop|be&3S adv|likely inf|to cop|be .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|5|JCT 7|8|JCT 8|9|MOD
+	9|6|POBJ 10|3|CONJ 11|10|COORD 12|14|LINK 13|14|SUBJ 14|3|CMOD 15|14|PRED
+	16|17|INF 17|15|XMOD 18|17|COMP 19|21|SUBJ 20|21|AUX 21|18|COMP
+	22|21|JCT 23|24|INF 24|21|XJCT 25|30|LINK 26|29|DET 27|29|MOD 28|29|MOD
+	29|30|SUBJ 30|24|COMP 31|30|JCT 32|33|INF 33|31|COMP 34|1|PUNCT
+*S1:	just because there is [//] can be a_lot_o(f) chance variations in
+	the survival especially of the older groups and there's gonna be
+	small numbers .
+%mor:	adv|just conj|because pro:exist|there mod|can cop|be qn|a_lot_of
+	n|chance n|vary&dv-TION-PL prep|in det:art|the n|survival
+	adv|especial&dadj-LY prep|of det:art|the adj|old-CP n|group-PL
+	coord|and pro:exist|there~cop|be&3S part|go-PRESP~inf|to cop|be
+	adj|small n|number-PL .
+%gra:	1|2|JCT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|QUANT 7|8|MOD 8|5|PRED
+	9|5|JCT 10|11|DET 11|9|POBJ 12|5|JCT 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|19|LINK 18|19|SUBJ 19|5|CJCT 20|19|PRED 21|22|INF 22|20|COMP
+	23|24|MOD 24|22|PRED 25|5|PUNCT
+*S1:	so it can take a while before you [/] &g you &-um very accurately
+	identify (.) what the oldest age is and therefore what the [/] the
+	size of your life table and your [/] your matrix model should be .
+%mor:	co|so pro:per|it mod|can v|take det:art|a n|while prep|before
+	pro:per|you adv|very adv|accurate&dadj-LY v|identify pro:int|what
+	det:art|the adj|old-SP n|age cop|be&3S coord|and adv|therefore
+	pro:int|what det:art|the n|size prep|of det:poss|your n|life n|table
+	coord|and det:poss|your n|matrix n|model mod|should cop|be .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|11|JCT 10|11|JCT 11|4|CJCT 12|16|LINK 13|15|DET 14|15|MOD 15|16|SUBJ
+	16|11|COMP 17|16|CONJ 18|19|JCT 19|17|COORD 20|21|DET 21|19|OBJ 22|21|NJCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|31|LINK 27|29|DET 28|29|MOD 29|31|SUBJ
+	30|31|AUX 31|21|CJCT 32|4|PUNCT
+*S1:	well if annual adult survival is similar (.) across (.) for example
+	adult ages (.) you can create a single (.) adult (.) stage .
+%mor:	n|well comp|if adj|annual n|adult n|survival cop|be&3S adj|similar
+	adv|across prep|for ex#adj|ample n|adult v|age-3S pro:per|you
+	mod|can v|create det:art|a n|single n|adult n|stage .
+%gra:	1|6|LINK 2|5|MOD 3|5|MOD 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|7|JCT
+	9|15|LINK 10|12|LINK 11|12|SUBJ 12|15|SUBJ 13|12|OBJ 14|15|AUX 15|6|CJCT
+	16|19|DET 17|19|MOD 18|19|MOD 19|15|OBJ 20|6|PUNCT
+*S1:	so we're [//] &l we lump them all (.) into [/] &-uh into one group .
+%mor:	co|so pro:sub|we v|lump pro:obj|them post|all prep|into det:num|one
+	n|group .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|JCT 7|8|QUANT 8|6|POBJ
+	9|3|PUNCT
+*S1:	I'll show you an example in a second here .
+%mor:	pro:sub|I~mod|will v|show pro:per|you det:art|a n|example prep|in
+	det:art|a n|second adv|here .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|JCT 11|3|PUNCT
+*S1:	&wh this will simplify the analysis (.) and you need less [/] less
+	data .
+%mor:	pro:dem|this mod|will v|simplify det:art|the n|analysis coord|and
+	pro:per|you v|need adj|less n|data .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|10|MOD 10|8|OBJ 11|3|PUNCT
+*S1:	&-uh you can use averages for adult survivals .
+%mor:	pro:per|you mod|can v|use n|average-PL prep|for n|adult
+	n|survival-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|MOD 7|5|POBJ 8|3|PUNCT
+*S1:	for example <here's some> [//] here [/] here's a [/] a (.) matrix
+	model for painted turtles (.) based on some data collected &-uh here
+	in Michigan (.) in southeast Michigan .
+%mor:	prep|for ex#adj|ample pro:exist|here~cop|be&3S det:art|a n|matrix
+	n|model prep|for v|paint-PAST n|turtle-PL v|base-PAST prep|on
+	qn|some n|data v|collect-PAST adv|here prep|in n:prop|Michigan
+	prep|in n|southeast n:prop|Michigan .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CPOBJ 5|7|DET 6|7|MOD 7|4|PRED
+	8|7|NJCT 9|8|POBJ 10|11|SUBJ 11|9|COMP 12|11|JCT 13|14|QUANT 14|12|POBJ
+	15|11|XJCT 16|15|JCT 17|15|JCT 18|17|POBJ 19|18|NJCT 20|21|MOD 21|19|POBJ
+	22|1|PUNCT
+*S1:	and in this [/] this &-uh based on a Leslie matrix model , all the
+	adults have been lumped into a single age class (.) in the last
+	column .
+%mor:	coord|and prep|in det:dem|this v|base-PAST prep|on det:art|a
+	n:prop|Leslie n|matrix n|model cm|cm qn|all det:art|the n|adult-PL
+	v|have aux|be&PASTP part|lump-PASTP prep|into det:art|a adj|single
+	n|age n|class prep|in det:art|the adj|last n|column .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|ROOT 5|4|JCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|4|LP 11|13|QUANT 12|13|DET 13|4|OBJ 14|13|CMOD 15|16|AUX
+	16|14|COMP 17|16|JCT 18|21|DET 19|21|MOD 20|21|MOD 21|17|POBJ 22|21|NJCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|4|PUNCT
+*S1:	(0.4) there are (.) seven columns in the matrix .
+%mor:	pro:exist|there cop|be&PRES det:num|seven n|column-PL prep|in
+	det:art|the n|matrix .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+*S1:	the first six , you notice there are zeros in the top row .
+%mor:	det:art|the adj|first det:num|six cm|cm pro:per|you n|notice
+	adv|there cop|be&PRES n|zero-PL prep|in det:art|the adj|top n|row .
+%gra:	1|2|DET 2|0|INCROOT 3|2|ENUM 4|3|LP 5|6|SUBJ 6|2|CMOD 7|8|SUBJ 8|6|CMOD
+	9|8|PRED 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|2|PUNCT
+*S1:	so these [//] this population of painted turtles did not begin to
+	reproduce until &-um age class seven .
+%mor:	adv|so pro:dem|this n|populate&dv-TION prep|of v|paint-PAST
+	n|turtle-PL mod|do&PAST neg|not v|begin prep|to re#n|produce
+	prep|until n|age n|class det:num|seven .
+%gra:	1|2|JCT 2|3|DET 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|5|COMP 10|9|JCT 11|10|POBJ 12|11|NJCT 13|14|MOD 14|15|MOD 15|12|POBJ
+	16|3|PUNCT
+*S1:	in this typical Leslie matrix model (.) we have our &d survival
+	probabilities on the subdiagonal .
+%mor:	prep|in det:dem|this adj|typical n:prop|Leslie n|matrix n|model
+	pro:sub|we v|have det:poss|our n|survival n|probable&dadj-ITY-PL
+	prep|on det:art|the sub#n|diagonal .
+%gra:	1|8|JCT 2|6|DET 3|6|MOD 4|6|MOD 5|6|MOD 6|1|POBJ 7|8|SUBJ 8|0|ROOT
+	9|11|DET 10|11|MOD 11|8|OBJ 12|8|JCT 13|14|DET 14|12|POBJ 15|8|PUNCT
+*S1:	so <this is> [//] this entry point eight two here represents the
+	probability (.) that &-uh the first individuals in the first year
+	class will survive to the start of the second year class .
+%mor:	adv|so det:dem|this n|entry n|point det:num|eight det:num|two
+	adv|here v|represent-3S det:art|the n|probable&dadj-ITY comp|that
+	det:art|the adj|first n|individual-PL prep|in det:art|the adj|first
+	n|year n|class mod|will v|survive prep|to det:art|the v|start
+	prep|of det:art|the adj|second n|year n|class .
+%gra:	1|8|JCT 2|4|DET 3|4|MOD 4|8|SUBJ 5|6|QUANT 6|7|QUANT 7|8|JCT 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|21|LINK 12|14|DET 13|14|MOD 14|21|SUBJ 15|14|NJCT
+	16|19|DET 17|18|MOD 18|19|MOD 19|15|POBJ 20|21|AUX 21|10|CMOD 22|21|JCT
+	23|24|DET 24|22|POBJ 25|24|JCT 26|29|DET 27|29|MOD 28|29|MOD 29|25|POBJ
+	30|8|PUNCT
+*S1:	and likewise here from the second to the start of the third and so
+	on .
+%mor:	coord|and adv|likewise adv|here prep|from det:art|the adj|second
+	prep|to det:art|the v|start prep|of det:art|the n|third coord|and
+	co|so adv|on .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|3|CONJ 14|15|COM 15|13|COORD
+	16|1|PUNCT
+*S1:	notice this last entry at the bottom here (.) is on the &d main
+	diagonal .
+%mor:	v|notice det:dem|this adj|last n|entry prep|at det:art|the n|bottom
+	pro:exist|here cop|be&3S prep|on det:art|the adj|main adj|diagonal .
+%gra:	1|9|JCT 2|4|DET 3|4|MOD 4|1|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|9|PUNCT
+*S1:	so what this represents is the probability (.) that [/] that adults
+	(.) who are now <in the> [/] in the age class seven +//.
+%mor:	adv|so pro:int|what det:dem|this v|represent-3S cop|be&3S
+	det:art|the n|probable&dadj-ITY det:dem|that n|adult-PL pro:rel|who
+	cop|be&PRES adv|now prep|in det:art|the n|age n|class det:num|seven
+	+//.
+%gra:	1|0|INCROOT 2|4|LINK 3|4|DET 4|1|CPOBJ 5|4|COMP 6|7|DET 7|5|PRED
+	8|9|DET 9|7|APP 10|11|LINK 11|9|CMOD 12|11|JCT 13|11|JCT 14|16|DET 15|16|MOD
+	16|17|MOD 17|13|POBJ 18|1|PUNCT
+*S1:	the probability that [/] that adults will survive one year (.) and
+	remain in that adult age class .
+%mor:	det:art|the n|probable&dadj-ITY det:dem|that n|adult-PL mod|will
+	v|survive det:num|one n|year coord|and v|remain prep|in det:dem|that
+	n|adult n|age n|class .
+%gra:	1|2|DET 2|6|SUBJ 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|QUANT 8|6|OBJ
+	9|6|CONJ 10|9|COORD 11|10|JCT 12|15|DET 13|15|MOD 14|15|MOD 15|11|POBJ
+	16|6|PUNCT
+*S1:	so here we have the [/] the annual survivals leading up to (.)
+	adulthood .
+%mor:	adv|so adv|here pro:sub|we v|have det:art|the n|annual
+	n|survival-PL part|lead-PRESP adv|up prep|to n|adult-HOOD .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|XMOD
+	9|8|JCT 10|8|JCT 11|10|POBJ 12|4|PUNCT
+*S1:	here's age class six .
+%mor:	pro:exist|here~cop|be&3S n|age n|class det:num|six .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+*S1:	and the estimate is about eighty two percent &surv of the six
+	year+olds survive to become adults .
+%mor:	coord|and det:art|the n|estimate cop|be&3S prep|about
+	det:num|eighty det:num|two n|percent prep|of det:art|the det:num|six
+	n|+n|year+adj|old-PL v|survive inf|to cop|become n|adult-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|13|JCT 6|8|QUANT 7|8|QUANT
+	8|13|SUBJ 9|8|NJCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|4|CJCT 14|15|INF
+	15|13|COMP 16|15|PRED 17|4|PUNCT
+*S1:	and then the (.) survival of adults is approximately eighty two
+	percent as_well .
+%mor:	coord|and adv:tem|then det:art|the n|survival prep|of n|adult-PL
+	cop|be&3S adv|approximate&dadj-LY det:num|eighty det:num|two
+	n|percent adv|as_well .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|0|ROOT 8|9|JCT
+	9|11|QUANT 10|11|QUANT 11|7|PRED 12|11|NJCT 13|7|PUNCT
+*S1:	(0.4) it'd be pretty unusual if it was (.) exactly eighty two all
+	the way along there so you can tell that &-uh there was some
+	averaging done to estimate these &per percentages .
+%mor:	pro:per|it~mod|genmod cop|be adv|pretty un#adj|usual conj|if
+	pro:per|it cop|be&PAST&13S adv|exact&dadj-LY det:num|eighty
+	det:num|two qn|all det:art|the n|way prep|along n|there conj|so
+	pro:per|you mod|can v|tell comp|that adv|there cop|be&PAST&13S
+	qn|some n:gerund|average-PRESP part|do&PASTP inf|to v|estimate
+	det:dem|these n|percentage-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|PRED 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|10|JCT 10|14|QUANT 11|12|QUANT 12|14|QUANT 13|14|DET 14|8|PRED
+	15|14|NJCT 16|15|POBJ 17|20|LINK 18|20|SUBJ 19|20|AUX 20|3|CJCT 21|23|LINK
+	22|23|SUBJ 23|20|COMP 24|25|QUANT 25|23|PRED 26|25|XMOD 27|28|INF 28|26|COMP
+	29|30|DET 30|28|OBJ 31|3|PUNCT
+*S1:	notice also that the [/] the number of &-uh female (.) hatchlings
+	produced per female (.) is [/] &-uh &pr is pretty low .
+%mor:	n|notice adv|also comp|that det:art|the n|number prep|of n|female
+	n|hatchling-PL v|produce-PAST prep|per n|female cop|be&3S adv|pretty
+	adj|low .
+%gra:	1|9|SUBJ 2|9|JCT 3|9|LINK 4|5|DET 5|9|SUBJ 6|5|NJCT 7|6|POBJ 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|10|POBJ 12|9|CJCT 13|14|JCT 14|12|PRED 15|9|PUNCT
+*S1:	so for [/] for the females to replace themselves it's gonna take
+	several years of reproduction (.) to on average be able to reproduce
+	themselves .
+%mor:	adv|so prep|for det:art|the n|female-PL prep|to re#n|place
+	pro:refl|themselves pro:per|it~aux|be&3S part|go-PRESP~inf|to v|take
+	qn|several n|year-PL prep|of re#n|production inf|to prep|on
+	n|average cop|be adj|able inf|to re#v|produce pro:refl|themselves .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|2|JCT 6|5|POBJ 7|5|POBJ
+	8|10|SUBJ 9|10|AUX 10|7|CMOD 11|12|INF 12|10|COMP 13|14|QUANT 14|12|OBJ
+	15|14|NJCT 16|15|POBJ 17|20|INF 18|20|JCT 19|20|SUBJ 20|16|COMP 21|20|PRED
+	22|23|INF 23|21|XMOD 24|23|PRED 25|2|PUNCT
+*S1:	(0.5) okay so the [/] the thing to notice then is that <this is>
+	[/] this is no longer a straight (.) age class model (.) because now
+	we're lumping individuals of several ages together in this final
+	category , &-uh &cup an adult stage .
+%mor:	co|okay conj|so det:art|the n|thing prep|to n|notice adv:tem|then
+	cop|be&3S comp|that pro:dem|this cop|be&3S qn|no adj|long-CP
+	det:art|a adj|straight n|age n|class n|model conj|because adv|now
+	pro:sub|we~aux|be&PRES part|lump-PRESP n|individual-PL prep|of
+	qn|several n|age-PL adv|together prep|in det:dem|this adj|final
+	n|category cm|cm det:art|a n|adult n|stage .
+%gra:	1|8|COM 2|8|LINK 3|4|DET 4|8|SUBJ 5|4|NJCT 6|5|POBJ 7|8|JCT 8|0|ROOT
+	9|11|LINK 10|11|SUBJ 11|8|PRED 12|13|QUANT 13|18|MOD 14|18|DET 15|16|MOD
+	16|18|MOD 17|18|MOD 18|11|PRED 19|23|LINK 20|23|JCT 21|23|SUBJ 22|23|AUX
+	23|8|CJCT 24|23|OBJ 25|24|NJCT 26|27|QUANT 27|25|POBJ 28|23|JCT
+	29|23|JCT 30|32|DET 31|32|MOD 32|29|POBJ 33|23|LP 34|36|DET 35|36|MOD 36|23|OBJ
+	37|8|PUNCT
+*S1:	(0.5) we can still use our [/] &-uh our &m matrix analysis
+	techniques and calculate the stable age distribution (.) of painted
+	turtles .
+%mor:	pro:sub|we mod|can adv|still v|use det:poss|our n|matrix n|analysis
+	n|technique-PL coord|and v|calculate det:art|the adj|stable n|age
+	n|distribute&dv-TION prep|of part|paint-PASTP n|turtle-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|4|CONJ 10|9|COORD 11|14|DET 12|13|MOD 13|14|MOD 14|10|OBJ 15|14|NJCT
+	16|15|POBJ 17|16|OBJ 18|4|PUNCT
+*S1:	and in this case we get (.) the stable stage distribution for that
+	[/] that final stage .
+%mor:	coord|and prep|in det:dem|this n|case pro:sub|we v|get det:art|the
+	adj|stable n|stage n|distribute&dv-TION prep|for det:dem|that
+	adj|final n|stage .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|10|DET 8|10|MOD
+	9|10|MOD 10|6|OBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ 15|6|PUNCT
+*S1:	because their survival was eighty two percent all the way across ,
+	these bars now (.) steadily (.) decline .
+%mor:	conj|because det:poss|their n|survival cop|be&PAST&13S
+	det:num|eighty det:num|two n|percent adv|all det:art|the n|way
+	adv|across cm|cm det:dem|these n|bar-PL adv|now adv|steady&dadj-LY
+	v|decline .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|17|CJCT 5|7|QUANT 6|7|QUANT 7|4|PRED
+	8|10|JCT 9|10|DET 10|17|JCT 11|10|NJCT 12|10|LP 13|14|DET 14|17|SUBJ
+	15|14|NJCT 16|17|JCT 17|0|ROOT 18|17|PUNCT
+*S1:	from the [//] whatever numbers there were in the first age class ,
+	the second one is eighty two percent of that and so on and so
+	on and so on .
+%mor:	prep|from pro:int|whatever n|number-PL adv|there cop|be&PAST
+	prep|in det:art|the adj|first n|age n|class cm|cm det:art|the
+	adj|second det:num|one aux|be&3S det:num|eighty det:num|two
+	n|percent prep|of pro:dem|that coord|and co|so adv|on coord|and
+	co|so adv|on coord|and co|so adv|on .
+%gra:	1|5|LINK 2|3|MOD 3|5|SUBJ 4|3|NJCT 5|16|CJCT 6|5|JCT 7|10|DET 8|9|MOD
+	9|10|MOD 10|6|POBJ 11|10|LP 12|14|DET 13|14|MOD 14|16|SUBJ 15|16|AUX
+	16|18|QUANT 17|18|QUANT 18|0|INCROOT 19|18|NJCT 20|19|POBJ 21|18|CONJ
+	22|21|COORD 23|22|JCT 24|23|CONJ 25|24|COORD 26|25|JCT 27|26|CONJ 28|29|COM
+	29|27|COORD 30|18|PUNCT
+*S1:	(0.4) and there's continuing eighty two percent survival (.) in the
+	adult class .
+%mor:	coord|and pro:exist|there~aux|be&3S part|continue-PRESP
+	det:num|eighty det:num|two n|percent n|survival prep|in det:art|the
+	n|adult n|class .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|QUANT 6|7|QUANT 7|8|MOD 8|4|OBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|4|PUNCT
+*S1:	but that goes down every year (.) because of survival .
+%mor:	conj|but pro:dem|that v|go-3S prep|down qn|every n|year
+	conj|because prep|of n|survival .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|JCT 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*S1:	it's [//] but it's added to because these [//] eighty two percent of
+	these &-um age six &-uh turtles move into the adult class .
+%mor:	conj|but pro:per|it~aux|be&3S part|add-PASTP prep|to conj|because
+	det:num|eighty det:num|two n|percent prep|of det:dem|these n|age
+	det:num|six n|turtle-PL n|move prep|into det:art|the n|adult n|class
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|9|QUANT 8|9|QUANT
+	9|6|POBJ 10|9|NJCT 11|15|DET 12|15|MOD 13|14|QUANT 14|15|MOD 15|10|POBJ
+	16|9|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|4|PUNCT
+*S1:	<is that> [//] does that make sense ?
+%mor:	mod|do&3S adv|that v|make n|sense ?
+%gra:	1|3|AUX 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	(0.5) nobody's spoken up yet here .
+%mor:	adj|nobody&dn-POSS part|speak&PASTP adv|up adv|yet adv|here .
+%gra:	1|0|INCROOT 2|1|XMOD 3|2|JCT 4|2|JCT 5|2|JCT 6|1|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	(0.6) I don't know how many of you have &-uh canoed down the Huron
+	River (.) or walked by some [/] some local ponds .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|how qn|many prep|of
+	pro:per|you v|have v|canoe-PAST adv|down det:art|the n:prop|Huron
+	n:prop|River coord|or v|walk-PAST prep|by qn|some n|local n|pond-PL
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|9|LINK 6|9|QUANT 7|6|JCT 8|7|POBJ
+	9|4|COMP 10|9|OBJ 11|9|JCT 12|13|DET 13|9|OBJ 14|13|APP 15|9|CONJ
+	16|15|COORD 17|16|JCT 18|19|QUANT 19|20|MOD 20|17|POBJ 21|4|PUNCT
+*S1:	you often see turtles (.) sunning themselves on logs or on the bank .
+%mor:	pro:per|you adv|often v|see n|turtle-PL part|sun-PRESP
+	pro:refl|themselves prep|on n|log-PL coord|or prep|on det:art|the
+	n|bank .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|4|XMOD 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|3|CONJ 10|9|COORD 11|12|DET 12|10|POBJ 13|3|PUNCT
+*S1:	&y casual impression is that &-uh large turtles seem to be more
+	common than smaller ones .
+%mor:	adj|casual n|impression cop|be&3S det:dem|that adj|large
+	n|turtle-PL cop|seem inf|to cop|be adv|more adj|common prep|than
+	adj|small-CP pro:indef|one-PL .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|7|SUBJ 7|3|PRED 8|9|INF
+	9|7|COMP 10|11|JCT 11|9|PRED 12|11|JCT 13|14|MOD 14|12|POBJ 15|3|PUNCT
+*S1:	why is that ?
+%mor:	pro:int|why cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S1:	what [//] &-uh why [/] why might you not see more small turtles ?
+%mor:	pro:int|why mod|might pro:per|you neg|not v|see adv|more adj|small
+	n|turtle-PL ?
+%gra:	1|5|JCT 2|5|AUX 3|5|SUBJ 4|3|NEG 5|0|ROOT 6|7|JCT 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*S1:	first let me introduce another term here , cohort@q .
+%mor:	adv|first v|let&ZERO pro:obj|me v|introduce qn|another n|term
+	adv|here cm|cm meta|cohort .
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|QUANT 6|4|OBJ 7|4|JCT 8|2|LP
+	9|2|ENUM 10|2|PUNCT
+*S1:	a [/] a cohort of individuals are those individuals born in the
+	same year .
+%mor:	det:art|a n|cohort prep|of n|individual-PL cop|be&PRES
+	det:dem|those n|individual-PL adj|born prep|in det:art|the adj|same
+	n|year .
+%gra:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|7|DET 7|5|PRED
+	8|7|POSTMOD 9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|5|PUNCT
+*S1:	as you could (.) see from the previous graph each cohort of turtles
+	has a steady decline in numbers with age .
+%mor:	conj|as pro:per|you mod|could v|see prep|from det:art|the
+	adj|previous n|graph qn|each n|cohort prep|of n|turtle-PL v|have&3S
+	det:art|a adj|steady n|decline prep|in n|number-PL prep|with n|age .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|13|CJCT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|10|QUANT 10|13|SUBJ 11|10|NJCT 12|11|POBJ 13|0|ROOT 14|16|DET 15|16|MOD
+	16|13|OBJ 17|13|JCT 18|17|POBJ 19|13|JCT 20|19|POBJ 21|13|PUNCT
+*S1:	but in casual observation we tend to group turtles by size not age
+	when we look at (th)em sunning themselves <on a> [/] on a log &-uh
+	out in the river .
+%mor:	conj|but prep|in adj|casual n|observe&dv-TION pro:sub|we v|tend
+	inf|to v|group n|turtle-PL prep|by n|size neg|not n|age conj|when
+	pro:sub|we v|look prep|at pro:obj|them part|sun-PRESP
+	pro:refl|themselves prep|on det:art|a n|log adv|out prep|in
+	det:art|the n|river .
+%gra:	1|6|LINK 2|6|JCT 3|4|MOD 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|8|JCT 11|13|MOD 12|11|NEG 13|10|POBJ 14|16|LINK 15|16|SUBJ
+	16|6|CJCT 17|16|JCT 18|17|POBJ 19|16|XJCT 20|19|OBJ 21|19|JCT 22|23|DET
+	23|21|POBJ 24|19|JCT 25|19|JCT 26|27|DET 27|25|POBJ 28|6|PUNCT
+*S1:	smallel [//] smaller turtles are growing with age so <they're
+	getting> [/] they're getting older but they're increasing in size
+	fairly rapidly (.) so the &-uh older juveniles also appear to be
+	relatively larger so_that the numbers pile up in the larger size
+	categories .
+%mor:	adj|small-CP n|turtle-PL aux|be&PRES part|grow-PRESP prep|with
+	n|age co|so pro:sub|they~aux|be&PRES part|get-PRESP adj|old-CP
+	conj|but pro:sub|they~aux|be&PRES part|increase-PRESP prep|in n|size
+	adv|fair&dadj-LY adv|rapid&dadj-LY co|so det:art|the adj|old-CP
+	n|juvenile-PL adv|also v|appear inf|to cop|be adv|relative&dadj-LY
+	adj|large-CP conj|so_that det:art|the n|number-PL v|pile adv|up
+	prep|in det:art|the adj|large-CP n|size n|category-PL .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|10|COM 8|10|SUBJ
+	9|10|AUX 10|4|XJCT 11|10|PRED 12|15|LINK 13|15|SUBJ 14|15|AUX 15|4|CJCT
+	16|15|JCT 17|16|POBJ 18|19|JCT 19|15|JCT 20|25|COM 21|23|DET 22|23|MOD
+	23|25|SUBJ 24|25|JCT 25|15|CJCT 26|27|INF 27|25|COMP 28|29|JCT 29|27|PRED
+	30|33|LINK 31|32|DET 32|33|SUBJ 33|25|CJCT 34|33|JCT 35|33|JCT 36|39|DET
+	37|39|MOD 38|39|MOD 39|35|POBJ 40|4|PUNCT
+*S1:	so in reality there is a steady decline with age .
+%mor:	adv|so prep|in n|real&dadj-ITY pro:exist|there cop|be&3S det:art|a
+	adj|steady n|decline prep|with n|age .
+%gra:	1|2|JCT 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|8|NJCT 10|9|POBJ 11|5|PUNCT
+*S1:	&-um lemme go back to the [/] the previous graph here .
+%mor:	v|let~pro:obj|me v|go adv|back prep|to det:art|the adj|previous
+	n|graph adv|here .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|JCT 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|JCT 10|1|PUNCT
+*S1:	if we had a [/] a &co complete (.) age structured model (.) this
+	graph would continue (.) and we'd have seven year+olds eight
+	year+olds nine year+olds ten year+olds and so on up to +...
+%mor:	conj|if pro:sub|we v|have&PAST det:art|a adj|complete n|age
+	part|structure-PASTP n|model det:dem|this n|graph mod|will&COND
+	v|continue coord|and pro:sub|we~mod|genmod v|have det:num|seven
+	n|+n|year+adj|old-PL det:num|eight n|+n|year+adj|old-PL det:num|nine
+	n|+n|year+adj|old-PL det:num|ten n|+n|year+adj|old-PL coord|and
+	co|so adv|on adv|up prep|to +...
+%gra:	1|3|LINK 2|3|SUBJ 3|12|CJCT 4|6|DET 5|6|MOD 6|12|SUBJ 7|12|XJCT 8|7|OBJ
+	9|10|DET 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|12|CJCT 17|18|QUANT 18|16|OBJ 19|20|QUANT 20|24|MOD 21|22|QUANT
+	22|24|MOD 23|24|QUANT 24|18|APP 25|24|CONJ 26|28|COM 27|28|JCT 28|29|JCT
+	29|25|COORD 30|12|PUNCT
+*S1:	twenty or so years is probably getting close to the maximum age for
+	painted turtles .
+%mor:	det:num|twenty coord|or adv|so n|year-PL aux|be&3S
+	adv|probable&dadj-LY part|get-PRESP adj|close prep|to det:art|the
+	n|maximum n|age prep|for v|paint-PAST n|turtle-PL .
+%gra:	1|4|QUANT 2|1|CONJ 3|2|COORD 4|7|SUBJ 5|7|AUX 6|7|JCT 7|0|ROOT 8|7|PRED
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|7|JCT 14|13|POBJ 15|14|OBJ
+	16|7|PUNCT
+*S1:	and we'd see a steady decline <in these> [/] in these histograms
+	out to about age twenty .
+%mor:	coord|and pro:sub|we~mod|genmod v|see det:art|a adj|steady
+	n|decline prep|in det:dem|these n|histogram-PL adv|out inf|to
+	prep|about n|age det:num|twenty .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|7|NJCT 12|13|INF 13|11|INCROOT 14|15|MOD 15|13|POBJ
+	16|13|PUNCT
+*S1:	but now we're lumping those all together (.) and it [/] it stacks
+	up to be a <pretty tall> [/] pretty tall bar here .
+%mor:	conj|but adv|now pro:sub|we~aux|be&PRES part|lump-PRESP
+	det:dem|those post|all adv|together coord|and pro:per|it v|stack-3S
+	adv|up inf|to cop|be det:art|a adj|pretty adj|tall n|bar adv|here .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|6|PQ 8|5|JCT
+	9|11|LINK 10|11|SUBJ 11|5|CJCT 12|11|JCT 13|14|INF 14|11|COMP 15|18|DET
+	16|17|JCT 17|18|MOD 18|14|PRED 19|18|NJCT 20|5|PUNCT
+*S1:	so there's maybe (.) seventeen percent of the population (.)
+	represented in the [/] the smallest turtles .
+%mor:	adv|so pro:exist|there~cop|be&3S adv|maybe det:num|seventeen
+	n|percent prep|of det:art|the n|populate&dv-TION v|represent-PAST
+	prep|in det:art|the adj|small-SP n|turtle-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|6|QUANT 6|3|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|6|ENUM 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|3|PUNCT
+*S1:	&-um over thirty percent of the population (.) are classified as
+	adults .
+%mor:	adv|over det:num|thirty n|percent prep|of det:art|the
+	n|populate&dv-TION aux|be&PRES part|classify-PASTP prep|as
+	n|adult-PL .
+%gra:	1|2|JCT 2|3|QUANT 3|8|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|8|PUNCT
+*S1:	so <when you> [/] when you walk around or paddle down the river (.)
+	looking at turtles (.) large ones (.) seem to be more common .
+%mor:	co|so conj|when pro:per|you v|walk adv|around coord|or n|paddle
+	prep|down det:art|the n|river part|look-PRESP prep|at n|turtle-PL
+	adj|large pro:indef|one-PL cop|seem inf|to cop|be adv|more
+	adj|common .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|7|XJCT 12|11|JCT 13|12|POBJ 14|16|JCT 15|16|SUBJ
+	16|11|CJCT 17|18|INF 18|16|COMP 19|20|JCT 20|18|PRED 21|4|PUNCT
+*S1:	and that's the explanation .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|the n|explanation .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*S1:	it really is the case that there are more young ones than each age
+	class of old ones (.) but they pile up in the size categories .
+%mor:	pro:per|it adv|real&dadj-LY cop|be&3S det:art|the n|case comp|that
+	adv|there cop|be&PRES adv|more adj|young pro:indef|one-PL prep|than
+	qn|each n|age n|class prep|of adj|old pro:indef|one-PL conj|but
+	pro:sub|they v|pile adv|up prep|in det:art|the n|size n|category-PL
+	.
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|PRED 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|8|JCT 10|8|PRED 11|10|XMOD 12|11|NJCT 13|14|QUANT 14|15|MOD 15|12|POBJ
+	16|15|NJCT 17|18|MOD 18|16|POBJ 19|21|LINK 20|21|SUBJ 21|11|CJCT
+	22|21|JCT 23|21|JCT 24|26|DET 25|26|MOD 26|23|POBJ 27|3|PUNCT
+*S1:	(0.10) let's talk about elasticity (.) of the population growth
+	rate .
+%mor:	v|let~pro:obj|us v|talk prep|about n|elastic&dadj-ITY prep|of
+	det:art|the n|populate&dv-TION n|growth n|rate .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|4|POBJ 6|5|NJCT 7|10|DET 8|10|MOD
+	9|10|MOD 10|6|POBJ 11|1|PUNCT
+*S1:	we've mentioned this before .
+%mor:	pro:sub|we~aux|have part|mention-PASTP det:dem|this adv|before .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|JCT 6|3|PUNCT
+*S1:	lemme &-uh say a couple more things about it and &-uh show an
+	example .
+%mor:	v|let~pro:obj|me v|say det:art|a n|couple qn|more n|thing-PL
+	prep|about pro:per|it coord|and v|show det:art|a n|example .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|7|QUANT 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|7|CONJ 11|10|COORD 12|13|DET 13|11|OBJ 14|1|PUNCT
+*S1:	for the same proportional change in each matrix element (.)
+	elasticity (.) measures the proportional change in the growth rate
+	lambda .
+%mor:	prep|for det:art|the adj|same adj|proportion&dn-AL n|change prep|in
+	qn|each n|matrix n|element n|elastic&dadj-ITY v|measure-3S
+	det:art|the adj|proportion&dn-AL n|change prep|in det:art|the
+	n|growth n|rate n|lambda .
+%gra:	1|11|LINK 2|5|DET 3|5|MOD 4|5|MOD 5|11|SUBJ 6|11|JCT 7|8|QUANT 8|10|MOD
+	9|10|MOD 10|11|SUBJ 11|0|ROOT 12|14|DET 13|14|MOD 14|11|OBJ 15|11|JCT
+	16|19|DET 17|19|MOD 18|19|MOD 19|15|POBJ 20|11|PUNCT
+*S1:	because we're talking about proportional changes in the growth rate
+	(.) of each factor (.) the elasticities sum to one .
+%mor:	conj|because pro:sub|we~aux|be&PRES part|talk-PRESP prep|about
+	adj|proportion&dn-AL n|change-PL prep|in det:art|the n|growth n|rate
+	prep|of qn|each n|factor det:art|the n|elastic-ITY-PL n|sum inf|to
+	pro:indef|one .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|NJCT 13|14|QUANT 14|12|POBJ 15|17|DET
+	16|17|MOD 17|4|OBJ 18|19|INF 19|17|XMOD 20|4|PUNCT
+*S1:	the interpretation is that [/] that &-uh the elasticity reflects
+	the proportional contribution of each matrix element (.) to the
+	population growth rate lambda .
+%mor:	det:art|the n|interpret&dv-TION cop|be&3S comp|that det:art|the
+	n|elastic&dadj-ITY v|reflect-3S det:art|the adj|proportion&dn-AL
+	n|contribute&dv-TION prep|of qn|each n|matrix n|element prep|to
+	det:art|the n|populate&dv-TION n|growth n|rate n|lambda .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|CPRED 8|10|DET
+	9|10|MOD 10|7|OBJ 11|10|NJCT 12|13|QUANT 13|14|MOD 14|11|POBJ 15|14|NJCT
+	16|20|DET 17|20|MOD 18|20|MOD 19|20|MOD 20|15|POBJ 21|3|PUNCT
+*S1:	so high elasticity (.) means a big effect (.) of that (.) parameter
+	on the population growth rate .
+%mor:	adv|so adj|high n|elastic&dadj-ITY v|mean-3S det:art|a adj|big
+	n|effect prep|of det:dem|that n|parameter prep|on det:art|the
+	n|populate&dv-TION n|growth n|rate .
+%gra:	1|2|JCT 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|4|JCT 12|15|DET 13|15|MOD 14|15|MOD 15|11|POBJ
+	16|4|PUNCT
+*S1:	(0.6) for painted turtles (.) adult survival has the greatest
+	effect on population growth rate and fecundity has the least .
+%mor:	conj|for v|paint-PAST n|turtle-PL n|adult n|survival v|have&3S
+	det:art|the adj|great-SP n|effect prep|on n|populate&dv-TION
+	n|growth n|rate coord|and n|fecundity v|have&3S det:art|the n|least
+	.
+%gra:	1|2|LINK 2|6|CJCT 3|5|MOD 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|JCT 11|13|MOD 12|13|MOD 13|10|POBJ 14|16|LINK 15|16|SUBJ
+	16|6|CJCT 17|18|DET 18|16|OBJ 19|6|PUNCT
+*S1:	the paper by Heppell , &sh she &-uh added together the
+	elasticities for (.) what she called juvenile turtles (.) juvenile
+	survival (.) which was age classes one to three (.) and the
+	subadults (.) which were age classes four five and six .
+%mor:	det:art|the n|paper prep|by n:prop|Heppell cm|cm pro:sub|she
+	v|add-PAST adv|together det:art|the n|elastic-ITY-PL prep|for
+	pro:int|what pro:sub|she v|call-PAST n|juvenile n|turtle-PL
+	adj|juvenile n|survival pro:rel|which cop|be&PAST&13S n|age
+	v|class-3S det:num|one prep|to det:num|three coord|and det:art|the
+	sub#n|adult-PL pro:int|which cop|be&PAST n|age v|class-3S
+	det:num|four det:num|five coord|and det:num|six .
+%gra:	1|2|DET 2|7|JCT 3|2|NJCT 4|3|POBJ 5|2|LP 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|14|LINK 13|14|SUBJ 14|11|CPOBJ 15|16|MOD
+	16|18|MOD 17|18|MOD 18|14|OBJ 19|20|LINK 20|18|CMOD 21|22|SUBJ 22|20|PRED
+	23|22|OBJ 24|23|NJCT 25|24|POBJ 26|25|CONJ 27|28|DET 28|26|COORD
+	29|30|LINK 30|23|CJCT 31|30|PRED 32|31|CMOD 33|34|QUANT 34|32|OBJ 35|34|CONJ
+	36|35|COORD 37|7|PUNCT
+*S1:	and (.) this column represents the (.) elasticity of adult survival .
+%mor:	coord|and det:dem|this n|column v|represent-3S det:art|the
+	n|elastic&dadj-ITY prep|of n|adult n|survival .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|4|PUNCT
+*S1:	the first bar here represents elasticity of the fecundity .
+%mor:	det:art|the adj|first n|bar adv|here v|represent-3S
+	n|elastic&dadj-ITY prep|of det:art|the n|fecundity .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*S1:	so if the proportional changes in each of the elements of that
+	matrix were the same , fecundity has a (.) relatively small +//.
+%mor:	adv|so comp|if det:art|the adj|proportion&dn-AL n|change-PL prep|in
+	qn|each prep|of det:art|the n|element-PL prep|of det:dem|that
+	n|matrix cop|be&PAST det:art|the adj|same cm|cm n|fecundity
+	v|have&3S det:art|a adv|relative&dadj-LY adj|small +//.
+%gra:	1|2|JCT 2|14|LINK 3|5|DET 4|5|MOD 5|14|SUBJ 6|5|NJCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|19|LINK 15|18|DET
+	16|18|MOD 17|16|LP 18|19|SUBJ 19|0|ROOT 20|22|DET 21|22|JCT 22|19|JCT
+	23|19|PUNCT
+*S1:	and the smallest of these [/] these &-uh four here .
+%mor:	coord|and det:art|the adj|small-SP prep|of det:dem|these
+	det:num|four adv|here .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|6|JCT
+	8|1|PUNCT
+*S1:	the smallest effect on the population growth rate .
+%mor:	det:art|the adj|small-SP n|effect prep|on det:art|the
+	n|populate&dv-TION n|growth n|rate .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|8|DET 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|3|PUNCT
+*S1:	adult survival has the largest .
+%mor:	n|adult n|survival v|have&3S det:art|the adj|large-SP .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*S1:	in many other turtle populations (.) it takes a &lo even longer
+	time (.) &fo &be before the females become mature .
+%mor:	prep|in qn|many qn|other n|turtle n|populate&dv-TION-PL pro:per|it
+	v|take-3S det:art|a adv|even adv|long-CP n|time prep|before
+	det:art|the n|female-PL cop|become adj|mature .
+%gra:	1|7|JCT 2|4|QUANT 3|4|QUANT 4|5|MOD 5|1|POBJ 6|7|SUBJ 7|0|ROOT 8|11|DET
+	9|10|JCT 10|11|JCT 11|7|OBJ 12|15|LINK 13|14|DET 14|15|SUBJ 15|11|CMOD
+	16|15|PRED 17|7|PUNCT
+*S1:	Blanding's turtles , it's something like &-uh thirteen to fifteen
+	years .
+%mor:	adj|Blanding&dn-POSS n|turtle-PL cm|cm pro:per|it~cop|be&3S
+	pro:indef|something co|like det:num|thirteen prep|to det:num|fifteen
+	n|year-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|LP 4|5|SUBJ 5|2|CMOD 6|5|PRED 7|6|COM 8|6|ENUM
+	9|8|JCT 10|11|QUANT 11|9|POBJ 12|2|PUNCT
+*S1:	in &-uh snapping turtle populations it can range from thirteen to
+	nineteen years (.) for the age of first reproduction .
+%mor:	prep|in n:gerund|snap-PRESP n|turtle n|populate&dv-TION-PL
+	pro:per|it mod|can v|range prep|from det:num|thirteen prep|to
+	det:num|nineteen n|year-PL prep|for det:art|the n|age prep|of
+	adj|first re#n|production .
+%gra:	1|7|JCT 2|4|MOD 3|4|MOD 4|1|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|9|JCT 11|12|QUANT 12|10|POBJ 13|9|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|18|MOD 18|16|POBJ 19|7|PUNCT
+*S1:	(0.5) <in that case> [//] in those cases (.) adult survival (.) is
+	even more dramatic .
+%mor:	prep|in det:dem|those n|case-PL n|adult n|survival cop|be&3S
+	adv|even adv|more adj|dramatic .
+%gra:	1|6|JCT 2|5|DET 3|5|MOD 4|5|MOD 5|1|POBJ 6|0|ROOT 7|9|JCT 8|9|JCT
+	9|6|PRED 10|6|PUNCT
+*S1:	&-uh the [/] the [//] a comparable histogram for those situations
+	would be much taller and the elasticity would be approximately
+	seventy percent .
+%mor:	det:art|a adj|compare&dv-ABLE n|histogram prep|for det:dem|those
+	n|situate&dv-TION-PL mod|will&COND cop|be adv|much adj|tall-CP
+	coord|and det:art|the n|elastic&dadj-ITY mod|will&COND cop|be
+	adv|approximate&dadj-LY det:num|seventy n|percent .
+%gra:	1|3|DET 2|3|MOD 3|8|SUBJ 4|8|JCT 5|6|DET 6|4|POBJ 7|8|AUX 8|0|ROOT
+	9|10|JCT 10|8|PRED 11|15|LINK 12|13|DET 13|15|SUBJ 14|15|AUX 15|8|CJCT
+	16|17|JCT 17|18|QUANT 18|15|PRED 19|8|PUNCT
+*S1:	so (.) adult survival is overwhelmingly the biggest contributor to
+	population growth rate which means that (.) mortality of &-uh adult
+	turtles (.) is really critical to keeping those populations viable .
+%mor:	co|so n|adult n|survival cop|be&3S adv|overwhelm&dadj-PRESP-LY
+	det:art|the adj|big-SP n|contributor prep|to n|populate&dv-TION
+	n|growth n|rate pro:rel|which v|mean-3S adv|that n|mortal&dadj-ITY
+	prep|of n|adult n|turtle-PL cop|be&3S adv|real&dadj-LY adj|critical
+	inf|to n:gerund|keep-PRESP det:dem|those n|populate&dv-TION-PL
+	adj|viable .
+%gra:	1|3|COM 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|12|MOD 11|12|MOD 12|9|POBJ 13|14|LINK 14|12|CMOD 15|20|JCT
+	16|20|SUBJ 17|16|NJCT 18|19|MOD 19|17|POBJ 20|14|COMP 21|22|JCT 22|20|PRED
+	23|24|INF 24|22|XMOD 25|26|DET 26|24|OBJ 27|26|POSTMOD 28|4|PUNCT
+*S1:	(0.7) elasticity analysis can help evaluate management options .
+%mor:	n|elastic&dadj-ITY n|analysis mod|can v|help v|evaluate
+	n|manage&dv-MENT n|option-PL .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|COMP 6|7|MOD 7|5|OBJ 8|4|PUNCT
+*S1:	suppose you had two different (.) management plans you were (.)
+	considering .
+%mor:	v|suppose pro:per|you v|have&PAST det:num|two adj|different
+	n|manage&dv-MENT v|plan-3S pro:per|you aux|be&PAST
+	part|consider-PRESP .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|6|QUANT 5|6|MOD 6|7|SUBJ 7|3|COMP
+	8|10|SUBJ 9|10|AUX 10|7|COMP 11|1|PUNCT
+*S1:	under one plan you would estimate that (.) adult turtle survival
+	would increase by five percent .
+%mor:	adv|under det:num|one n|plan pro:per|you mod|will&COND v|estimate
+	det:dem|that n|adult n|turtle n|survival mod|will&COND v|increase
+	prep|by det:num|five n|percent .
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|10|DET
+	8|10|MOD 9|10|MOD 10|12|SUBJ 11|12|AUX 12|6|COMP 13|12|JCT 14|15|QUANT
+	15|13|POBJ 16|3|PUNCT
+*S1:	and another plan , juvenile survival would be (.) increased by
+	twenty five percent which would be the (.) most effective in
+	helping that population go [//] grow .
+%mor:	coord|and qn|another n|plan cm|cm adj|juvenile n|survival
+	mod|will&COND aux|be part|increase-PASTP prep|by det:num|twenty
+	det:num|five n|percent pro:rel|which mod|will&COND cop|be
+	det:art|the qn|most adj|effective prep|in n:gerund|help-PRESP
+	comp|that n|populate&dv-TION v|grow .
+%gra:	1|3|LINK 2|3|QUANT 3|9|JCT 4|3|LP 5|6|MOD 6|9|SUBJ 7|9|AUX 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|13|QUANT 12|13|QUANT 13|10|POBJ 14|16|LINK 15|16|AUX
+	16|13|CMOD 17|18|DET 18|19|QUANT 19|16|PRED 20|16|JCT 21|20|POBJ
+	22|24|LINK 23|24|SUBJ 24|21|COMP 25|9|PUNCT
+*S1:	well (.) suppose we're talking about a population that's declining
+	at five percent per year (.) so our lambda value is point nine five
+	.
+%mor:	co|well v|suppose pro:sub|we~aux|be&PRES part|talk-PRESP prep|about
+	det:art|a n|populate&dv-TION pro:rel|that~aux|be&3S
+	part|decline-PRESP prep|at det:num|five n|percent prep|per n|year
+	conj|so det:poss|our n|lambda n|value cop|be&3S v|point det:num|nine
+	det:num|five .
+%gra:	1|2|COM 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|AUX 11|8|CMOD 12|11|JCT 13|14|QUANT 14|12|POBJ 15|11|JCT
+	16|15|POBJ 17|21|LINK 18|20|DET 19|20|MOD 20|21|SUBJ 21|11|CJCT
+	22|21|CPRED 23|24|QUANT 24|22|OBJ 25|2|PUNCT
+*S1:	and suppose (.) we're talking about one of those longer lived
+	species of turtles where the adult survival elasticity is point six
+	.
+%mor:	coord|and v|suppose pro:sub|we~aux|be&PRES part|talk-PRESP
+	prep|about det:num|one prep|of det:dem|those adj|long-CP
+	part|live-PASTP n|species prep|of n|turtle-PL pro:rel|where
+	det:art|the n|adult n|survival n|elastic&dadj-ITY cop|be&3S v|point
+	det:num|six .
+%gra:	1|2|LINK 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|POBJ 13|12|NJCT 14|13|POBJ 15|20|LINK
+	16|19|DET 17|18|MOD 18|19|MOD 19|20|SUBJ 20|14|CMOD 21|20|PRED 22|21|OBJ
+	23|2|PUNCT
+*S1:	juvenile survival elasticity is point two .
+%mor:	adj|juvenile n|survival n|elastic&dadj-ITY cop|be&3S v|point
+	det:num|two .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|OBJ 7|4|PUNCT
+*S1:	(0.4) we can use this approach to &compl compare the different
+	plans' effects on lambda .
+%mor:	pro:sub|we mod|can v|use det:dem|this n|approach inf|to v|compare
+	det:art|the adj|different adj|plan&dn-PL-POSS n|effect-PL prep|on
+	n|lambda .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|5|XMOD 8|11|DET
+	9|11|MOD 10|11|MOD 11|7|OBJ 12|7|JCT 13|12|POBJ 14|3|PUNCT
+*S1:	(0.5) we can rank the plans by their potential effect on population
+	growth rate .
+%mor:	pro:sub|we mod|can v|rank det:art|the n|plan-PL prep|by
+	det:poss|their n|potential n|effect prep|on n|populate&dv-TION
+	n|growth n|rate .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|13|MOD 12|13|MOD 13|10|POBJ 14|3|PUNCT
+*S1:	so for plan a@l &w we multiply the adult elasticity by (.) five
+	percent (.) which is the projected (.) increase in (.) adult
+	survival .
+%mor:	adv|so prep|for n|plan n:let|a pro:sub|we v|multiply det:art|the
+	n|adult n|elastic&dadj-ITY prep|by det:num|five n|percent
+	pro:rel|which aux|be&3S det:art|the part|project-PASTP n|increase
+	prep|in n|adult n|survival .
+%gra:	1|2|JCT 2|6|JCT 3|4|MOD 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|JCT 11|12|QUANT 12|10|POBJ 13|17|LINK 14|17|AUX 15|17|DET
+	16|17|MOD 17|12|CMOD 18|17|NJCT 19|20|MOD 20|18|POBJ 21|6|PUNCT
+*S1:	we get point six times (.) point oh [: zero] five or a three
+	percent (.) increase in alpha .
+%mor:	pro:sub|we v|get n|point det:num|six n|time-PL v|point det:num|zero
+	det:num|five coord|or det:art|a det:num|three n|percent n|increase
+	prep|in n|alpha .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|QUANT 5|6|SUBJ 6|2|COMP 7|8|QUANT 8|6|OBJ
+	9|8|CONJ 10|13|DET 11|12|QUANT 12|13|MOD 13|9|COORD 14|13|NJCT
+	15|14|POBJ 16|2|PUNCT
+*S1:	Ivan ?
+%mor:	n:prop|Ivan ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	&-um at some point I take it painted turtles become nonreproductive
+	right ?
+%mor:	prep|at qn|some n|point pro:sub|I v|take pro:per|it v|paint-PAST
+	n|turtle-PL part|become&PASTP non#adj|reproductive co|right ?
+%gra:	1|5|JCT 2|3|QUANT 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|OBJ
+	9|8|XMOD 10|9|OBJ 11|10|COM 12|5|PUNCT
+*S2:	when they reach the upper age of the (.) adult class .
+%mor:	conj|when pro:sub|they v|reach det:art|the adj|upper n|age prep|of
+	det:art|the n|adult n|class .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*S2:	is that right or is that ?
+%mor:	cop|be&3S comp|that n|right coord|or cop|be&3S pro:dem|that ?
+%gra:	1|0|ROOT 2|6|LINK 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|1|PRED 7|1|PUNCT
+*S2:	I mean (be)cause that (be)cause the initial graph the number looked
+	really low for (.) you know point five two eight seems like a fairly
+	low value .
+%mor:	pro:sub|I v|mean conj|because det:dem|that conj|because det:art|the
+	adj|initial n|graph det:art|the n|number cop|look-PAST
+	adv|real&dadj-LY adj|low prep|for pro:per|you v|know n|point
+	det:num|five det:num|two det:num|eight cop|seem-3S conj|like
+	det:art|a adv|fair&dadj-LY adj|low n|value .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|LINK 4|5|DET 5|2|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|10|DET 10|11|SUBJ 11|8|CMOD 12|13|JCT 13|11|PRED 14|11|JCT 15|16|SUBJ
+	16|14|POBJ 17|18|MOD 18|19|QUANT 19|20|QUANT 20|21|QUANT 21|16|COMP
+	22|26|LINK 23|26|DET 24|25|JCT 25|26|MOD 26|11|PRED 27|2|PUNCT
+*S2:	so it &i I mean is that +//.
+%mor:	co|so pro:per|it pro:sub|I v|mean cop|be&3S pro:dem|that +//.
+%gra:	1|5|COM 2|5|SUBJ 3|4|SUBJ 4|2|CMOD 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*S2:	am I reading that ⌈ wrong or ⌉ ?
+%mor:	aux|be&1S pro:sub|I n:gerund|read-PRESP adv|that n|wrong coord|or ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PUNCT 6|5|CONJ 7|6|COORD
+*S1:	⌊ &-um ⌋ &the &-uh there's kind_of two separate things going on
+	here .
+%mor:	pro:exist|there~cop|be&3S adv|kind_of det:num|two v|separate
+	n|thing-PL part|go-PRESP prep|on n|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|SUBJ 5|2|CPRED 6|5|OBJ 7|6|XMOD 8|7|JCT
+	9|8|POBJ 10|2|PUNCT
+*S1:	I think <there is> [//] &s at very old ages (.) there is some
+	senescence and &-uh perhaps a reduction in fecundity .
+%mor:	pro:sub|I v|think prep|at adv|very adj|old n|age-PL adv|there
+	cop|be&3S qn|some n|senescence coord|and co|perhaps det:art|a
+	n|reduction prep|in n|fecundity .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|6|MOD 6|3|POBJ 7|2|JCT 8|2|CJCT
+	9|10|QUANT 10|8|PRED 11|10|CONJ 12|14|COM 13|14|DET 14|11|COORD 15|14|NJCT
+	16|15|POBJ 17|2|PUNCT
+*S1:	but that's not why that number is low .
+%mor:	conj|but pro:dem|that~cop|be&3S neg|not pro:int|why pro:dem|that
+	n|number cop|be&3S adj|low .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|8|LINK 6|7|DET 7|8|SUBJ 8|3|PRED
+	9|8|PRED 10|3|PUNCT
+*S1:	mainly (.) it's because there's approximately I think for that
+	population something like &-uh six point six female eggs per female
+	.
+%mor:	adv|main&dadj-LY pro:per|it~cop|be&3S conj|because
+	pro:exist|there~cop|be&3S adv|approximate&dadj-LY pro:sub|I v|think
+	prep|for det:dem|that n|populate&dv-TION pro:indef|something co|like
+	det:num|six v|point det:num|six adj|female n|egg-PL prep|per
+	n|female .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|9|CJCT 7|6|JCT 8|9|SUBJ
+	9|3|CPRED 10|9|JCT 11|12|DET 12|10|POBJ 13|9|JCT 14|13|COM 15|16|SUBJ
+	16|13|CMOD 17|19|QUANT 18|19|MOD 19|16|OBJ 20|19|NJCT 21|20|POBJ 22|3|PUNCT
+*S1:	but the survival of those eggs &-uh in that first year was very
+	+//.
+%mor:	conj|but det:art|the n|survival prep|of det:dem|those n|egg-PL
+	prep|in adv|that adv|first n|year cop|be&PAST&13S adv|very +//.
+%gra:	1|11|LINK 2|3|DET 3|11|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|NJCT 8|7|POBJ
+	9|11|JCT 10|11|SUBJ 11|0|ROOT 12|11|JCT 13|11|PUNCT
+*S1:	the eggs and the hatchlings , the survival was very low so_that (.)
+	only about <half an egg> [//] half of a female egg survived .
+%mor:	det:art|the n|egg-PL coord|and det:art|the n|hatchling-PL cm|cm
+	det:art|the n|survival cop|be&PAST&13S adv|very adj|low conj|so_that
+	adv|only adv|about n|half prep|of det:art|a adj|female n|egg
+	v|survive-PAST .
+%gra:	1|2|DET 2|9|SUBJ 3|2|CONJ 4|5|DET 5|3|COORD 6|2|LP 7|8|DET 8|9|SUBJ
+	9|0|ROOT 10|11|JCT 11|9|PRED 12|9|JCT 13|15|JCT 14|15|JCT 15|12|POBJ
+	16|15|NJCT 17|19|DET 18|19|MOD 19|20|SUBJ 20|16|POBJ 21|9|PUNCT
+*S1:	so actually there's (.) twelve or thirteen (.) eggs laid .
+%mor:	adv|so adv|actual&dadj-LY pro:exist|there~cop|be&3S det:num|twelve
+	coord|or det:num|thirteen n|egg-PL part|lay&PASTP .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|8|QUANT 6|5|CONJ 7|6|COORD 8|4|PRED
+	9|8|XMOD 10|4|PUNCT
+*S1:	about half of those are females .
+%mor:	adv|about n|half prep|of pro:dem|those cop|be&PRES n|female-PL .
+%gra:	1|2|JCT 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*S1:	but only (.) one egg every other year &-uh survives that first +//.
+%mor:	conj|but adv|only det:num|one n|egg qn|every qn|other n|year
+	v|survive-3S adv|that adv|first +//.
+%gra:	1|4|LINK 2|3|JCT 3|4|QUANT 4|8|CJCT 5|6|QUANT 6|7|QUANT 7|8|SUBJ
+	8|0|ROOT 9|8|JCT 10|8|JCT 11|8|PUNCT
+*S1:	<one egg> [//] &ev one female egg every other year survives that
+	first year of life .
+%mor:	det:num|one adj|female n|egg qn|every qn|other n|year v|survive-3S
+	adv|that adj|first n|year prep|of n|life .
+%gra:	1|3|QUANT 2|3|MOD 3|7|JCT 4|5|QUANT 5|6|QUANT 6|7|SUBJ 7|0|ROOT
+	8|10|JCT 9|10|MOD 10|7|OBJ 11|10|NJCT 12|11|POBJ 13|7|PUNCT
+*S1:	things like raccoon predation are really really severe .
+%mor:	n|thing-PL co|like n|raccoon pre#n|date&dv-TION cop|be&PRES
+	adv|real&dadj-LY adv|real&dadj-LY adj|severe .
+%gra:	1|3|MOD 2|1|COM 3|0|ROOT 4|3|CONJ 5|4|COORD 6|8|JCT 7|8|JCT 8|5|PRED
+	9|3|PUNCT
+*S1:	so the numbers of eggs laid is higher than that term (.) reflects .
+%mor:	co|so det:art|the n|number-PL prep|of n|egg-PL part|lay&PASTP
+	aux|be&3S adj|high-CP prep|than det:dem|that n|term v|reflect-3S .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|XMOD 7|6|OBJ 8|7|PRED
+	9|12|JCT 10|11|DET 11|9|POBJ 12|8|CMOD 13|3|PUNCT
+*S1:	it's largely due to first year survival .
+%mor:	pro:per|it~cop|be&3S adv|large&dadj-LY adj|due prep|to adj|first
+	n|year n|survival .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|8|MOD 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*S1:	another question ?
+%mor:	qn|another n|question ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S2:	oh no (.) I was just +//.
+%mor:	co|oh co|no pro:sub|I cop|be&PAST&13S adv|just +//.
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*S2:	that meaning that makes sense .
+%mor:	det:dem|that n|meaning pro:rel|that v|make-3S n|sense .
+%gra:	1|2|DET 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|OBJ 6|2|PUNCT
+*S2:	because I actually thought that they would &-uh have more eggs than
+	six .
+%mor:	conj|because pro:sub|I adv|actual&dadj-LY v|think&PAST comp|that
+	pro:sub|they mod|will&COND v|have qn|more n|egg-PL prep|than
+	det:num|six .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|10|QUANT 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|4|PUNCT
+*S2:	it seems like a small group .
+%mor:	pro:per|it cop|seem-3S conj|like det:art|a adj|small n|group .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT 4|6|DET 5|6|MOD 6|3|INCROOT 7|6|PUNCT
+*S1:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	that's six female eggs .
+%mor:	pro:dem|that~cop|be&3S det:num|six adj|female n|egg-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|PRED 6|2|PUNCT
+*S2:	okay [/] okay female eggs okay the total yeah .
+%mor:	co|okay n|female n|egg-PL co|okay det:art|the n|total co|yeah .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|COM 5|6|DET 6|3|ENUM 7|6|COM 8|3|PUNCT
+*S1:	the total clutch is &-uh bigger than that .
+%mor:	det:art|the adj|total n|clutch cop|be&3S adj|big-CP prep|than
+	pro:dem|that .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|6|POBJ 8|4|PUNCT
+*S1:	yeah and in [/] in &-um cases where it's been <looked at> [/] &-uh
+	looked at closely (.) there does tend to be an increase in &-uh
+	clutch size with female age .
+%mor:	co|yeah coord|and prep|in n|case-PL pro:rel|where
+	pro:per|it~cop|be&3S aux|be&PASTP v|look-PAST prep|at
+	adv|close&dadj-LY adv|there mod|do&3S v|tend inf|to cop|be det:art|a
+	n|increase prep|in n|clutch n|size prep|with n|female n|age .
+%gra:	1|9|SUBJ 2|1|CONJ 3|2|COORD 4|3|POBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|14|JCT 12|14|SUBJ 13|14|AUX 14|10|POBJ 15|16|INF
+	16|14|COMP 17|18|DET 18|16|PRED 19|18|NJCT 20|21|MOD 21|19|POBJ
+	22|18|NJCT 23|24|MOD 24|22|POBJ 25|9|PUNCT
+*S1:	but sometimes it's hard to detect in [/] in all the noise .
+%mor:	conj|but adv|sometimes pro:per|it~cop|be&3S adj|hard inf|to
+	v|detect prep|in qn|all det:art|the n|noise .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|INF 7|5|XMOD 8|7|JCT
+	9|11|QUANT 10|11|DET 11|8|POBJ 12|4|PUNCT
+*S2:	because I [/] &th I was thinking in harvesting that it [/] it'd
+	+//.
+%mor:	conj|because pro:sub|I aux|be&PAST&13S part|think-PRESP adv|in
+	part|harvest-PRESP adv|that pro:per|it~mod|genmod +//.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|XJCT 7|9|JCT 8|9|SUBJ
+	9|6|OM 10|4|PUNCT
+*S2:	well I guess what I was getting at was I was thinking +//.
+%mor:	co|well pro:sub|I v|guess pro:int|what pro:sub|I aux|be&PAST&13S
+	part|get-PRESP prep|at cop|be&PAST&13S pro:sub|I aux|be&PAST&13S
+	part|think-PRESP +//.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|JCT
+	9|8|POBJ 10|12|SUBJ 11|12|AUX 12|3|CJCT 13|3|PUNCT
+*S2:	I know like you_know you could place maybe size +//.
+%mor:	pro:sub|I v|know co|like co|you_know pro:per|you mod|could v|place
+	adv|maybe n|size +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|7|COM 5|7|SUBJ 6|7|AUX 7|2|COMP 8|7|JCT
+	9|8|POBJ 10|2|PUNCT
+*S2:	you could actually allow harvesting beyond a certain size if that's
+	somehow correlated with age class if you could say those were no
+	longer reproductive +/.
+%mor:	pro:per|you mod|could adv|actual&dadj-LY v|allow part|harvest-PRESP
+	prep|beyond det:art|a adj|certain n|size comp|if
+	pro:rel|that~aux|be&3S adv|somehow part|correlate-PASTP prep|with
+	n|age n|class conj|if pro:per|you mod|could co|say det:dem|those
+	aux|be&PAST co|no adj|long-CP adj|reproductive +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|14|LINK 12|14|AUX 13|14|JCT 14|10|ROOT 15|14|JCT
+	16|17|MOD 17|15|POBJ 18|23|LINK 19|23|SUBJ 20|23|AUX 21|23|COM 22|23|DET
+	23|14|ROOT 24|26|COM 25|26|MOD 26|23|PRED 27|23|PUNCT
+*S1:	ah: +/.
+%mor:	co|ah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and that [//] you_know thereby sort_of work in an ability to
+	sustainably harvest some turtles (be)cause I know (.) some cultures
+	do want turtles (.) so .
+%mor:	coord|and co|you_know adv|thereby adv|sort_of n|work prep|in
+	det:art|a n|able&dadj-ITY inf|to adv|sustain&dadj-ABLE-LY v|harvest
+	qn|some n|turtle-PL conj|because pro:sub|I v|know qn|some
+	n|culture-PL v|do v|want n|turtle-PL adv|so .
+%gra:	1|5|LINK 2|5|COM 3|4|JCT 4|5|JCT 5|11|SUBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|11|INF 10|11|JCT 11|0|ROOT 12|13|QUANT 13|11|OBJ 14|16|LINK 15|16|SUBJ
+	16|19|CJCT 17|18|QUANT 18|19|SUBJ 19|11|COMP 20|19|OBJ 21|20|OBJ
+	22|19|JCT 23|11|PUNCT
+*S1:	yeah absolutely [/] absolutely .
+%mor:	co|yeah adv|absolute&dadj-LY .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	in fact (.) I've (.) been getting some &-uh email messages from
+	some of the &-uh turtle experts around the state here .
+%mor:	prep|in n|fact pro:sub|I~aux|have aux|be&PASTP part|get-PRESP
+	qn|some n|email v|message-3S prep|from pro:indef|some prep|of
+	det:art|the n|turtle n|expert-PL prep|around det:art|the n|state
+	adv|here .
+%gra:	1|6|JCT 2|1|POBJ 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|8|QUANT 8|9|SUBJ
+	9|6|COMP 10|9|JCT 11|10|POBJ 12|11|NJCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|9|JCT 17|18|DET 18|16|POBJ 19|9|JCT 20|6|PUNCT
+*S1:	and &-uh Southeast Asia is apparently <a hot spot> [//] one of the
+	hot spots for turtle evolution (.) and there's a large variety of
+	species there .
+%mor:	coord|and n:prop|Southeast n:prop|Asia cop|be&3S
+	adv|apparent&dadj-LY pro:indef|one prep|of det:art|the adj|hot
+	n|spot-PL prep|for n|turtle n|evolution coord|and
+	pro:exist|there~cop|be&3S det:art|a adj|large n|variety prep|of
+	n|species adv|there .
+%gra:	1|4|LINK 2|3|NAME 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|6|NJCT 12|13|MOD 13|11|POBJ 14|16|LINK 15|16|SUBJ
+	16|6|CJCT 17|19|DET 18|19|MOD 19|16|PRED 20|19|NJCT 21|20|POBJ 22|19|JCT
+	23|4|PUNCT
+*S1:	they're coming under increasing pressure from human consumption .
+%mor:	pro:sub|they~aux|be&PRES part|come-PRESP prep|under
+	part|increase-PRESP n|pressure prep|from adj|human n|consumption .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|OBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|3|PUNCT
+*S1:	and especially as the economies improve in Southeast Asia &-uh and
+	all over Asia &-uh turtles are harvested for meat and it's severely
+	depleting the turtle populations .
+%mor:	coord|and adv|especial&dadj-LY prep|as det:art|the n|economy-PL
+	v|improve prep|in n:prop|Southeast n:prop|Asia coord|and adv|all
+	prep|over n:prop|Asia n|turtle-PL aux|be&PRES part|harvest-PASTP
+	prep|for n|meat coord|and pro:per|it~aux|be&3S adv|severe&dadj-LY
+	part|deplete-PRESP det:art|the n|turtle n|populate&dv-TION-PL .
+%gra:	1|6|LINK 2|6|JCT 3|5|COORD 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|16|SUBJ 10|9|CONJ 11|12|JCT 12|10|COORD 13|14|MOD 14|12|POBJ 15|16|AUX
+	16|6|CJCT 17|16|JCT 18|17|POBJ 19|23|LINK 20|23|SUBJ 21|23|AUX 22|23|JCT
+	23|16|CJCT 24|26|DET 25|26|MOD 26|23|OBJ 27|6|PUNCT
+*S1:	that additional source of mortality on those populations because
+	they're taking the larger adults (.) puts a severe cramp on the [/]
+	&-uh the population growth (.) over there .
+%mor:	det:dem|that adj|addition&dn-AL n|source prep|of n|mortal&dadj-ITY
+	prep|on det:dem|those n|populate&dv-TION-PL conj|because
+	pro:sub|they~aux|be&PRES part|take-PRESP det:art|the adj|large-CP
+	n|adult-PL v|put-3S det:art|a adj|severe n|cramp prep|on det:art|the
+	n|populate&dv-TION n|growth prep|over n|there .
+%gra:	1|3|DET 2|3|MOD 3|16|SUBJ 4|3|NJCT 5|4|POBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|16|CJCT 13|15|DET 14|15|MOD 15|16|SUBJ
+	16|0|ROOT 17|19|DET 18|19|MOD 19|16|OBJ 20|16|JCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|23|NJCT 25|24|POBJ 26|16|PUNCT
+*S1:	well ‡ and over here too .
+%mor:	co|well beg|beg coord|and prep|over n|here adv|too .
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|JCT 5|4|POBJ 6|0|INCROOT 7|6|PUNCT
+*S1:	&-um the poaching of turtles in [/] &-uh in [/] in Michigan and
+	actually just even incidental harvest is really hard on the (.)
+	populations .
+%mor:	det:art|the n:gerund|poach-PRESP prep|of n|turtle-PL prep|in
+	n:prop|Michigan coord|and adv|actual&dadj-LY adv|just adv|even
+	adj|incident&dn-AL n|harvest cop|be&3S adv|real&dadj-LY adv|hard
+	prep|on det:art|the n|populate&dv-TION-PL .
+%gra:	1|2|DET 2|13|SUBJ 3|2|JCT 4|3|POBJ 5|4|NJCT 6|5|POBJ 7|2|CONJ 8|9|JCT
+	9|11|JCT 10|11|JCT 11|12|MOD 12|7|COORD 13|0|ROOT 14|15|JCT 15|13|JCT
+	16|13|JCT 17|18|DET 18|16|POBJ 19|13|PUNCT
+*S1:	they just can't sustain much additional mortality on the adult stage
+	.
+%mor:	pro:sub|they adv|just mod|can~neg|not v|sustain adv|much
+	adj|addition&dn-AL n|mortal&dadj-ITY prep|on det:art|the n|adult
+	n|stage .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|8|MOD 8|5|OBJ
+	9|5|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|5|PUNCT
+*S1:	okay (.) good <good question> [/] good question .
+%mor:	co|okay adj|good adj|good n|question .
+%gra:	1|4|COM 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*S1:	let's &-uh lemme get back to (.) follow up this comparison here .
+%mor:	v|let~pro:obj|us v|let~pro:obj|me v|get adv|back inf|to v|follow
+	adv|up det:dem|this n|comparison adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|3|COMP 6|5|JCT 7|8|INF 8|5|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|JCT 13|1|PUNCT
+*S1:	the way to do this is to &-uh have the adult elasticity value (.)
+	times the percent change that you think is gonna be from this plan
+	five percent and that's (.) works out to point oh [: zero] three .
+%mor:	det:art|the n|way inf|to v|do pro:dem|this cop|be&3S inf|to v|have
+	det:art|the n|adult n|elastic&dadj-ITY n|value v|time-3S det:art|the
+	n|percent n|change comp|that pro:per|you v|think aux|be&3S
+	part|go-PRESP~inf|to cop|be prep|from det:dem|this n|plan
+	det:num|five n|percent coord|and pro:dem|that~cop|be&3S v|work-3S
+	adv|out inf|to v|point det:num|zero det:num|three .
+%gra:	1|2|DET 2|6|SUBJ 3|4|INF 4|2|XMOD 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|CPRED
+	9|12|DET 10|11|MOD 11|12|MOD 12|13|SUBJ 13|8|COMP 14|16|DET 15|16|MOD
+	16|13|OBJ 17|16|XMOD 18|19|SUBJ 19|17|CMOD 20|21|AUX 21|19|COMP 22|23|INF
+	23|32|XJCT 24|23|JCT 25|26|DET 26|24|POBJ 27|28|QUANT 28|32|SUBJ
+	29|28|CONJ 30|29|COORD 31|32|AUX 32|21|COMP 33|32|JCT 34|35|INF 35|32|XJCT
+	36|37|QUANT 37|35|OBJ 38|6|PUNCT
+*S1:	so that's a three percent increase in survival &-uh excuse_me three
+	percent increase in population growth rate from that plan .
+%mor:	co|so pro:dem|that~cop|be&3S det:art|a det:num|three n|percent
+	n|increase prep|in n|survival co|excuse_me det:num|three n|percent
+	n|increase prep|in n|populate&dv-TION n|growth n|rate prep|from
+	det:dem|that n|plan .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|QUANT 6|7|MOD 7|3|PRED 8|7|NJCT
+	9|8|POBJ 10|12|COM 11|12|QUANT 12|13|MOD 13|7|APP 14|13|NJCT 15|17|MOD
+	16|17|MOD 17|14|POBJ 18|13|NJCT 19|20|DET 20|18|POBJ 21|3|PUNCT
+*S1:	so (.) three percent of the &-uh nominal rate of point nine five
+	brings it up to point nine seven eight five would be the value
+	projected under plan A .
+%mor:	adv|so det:num|three n|percent prep|of det:art|the adj|nominal
+	n|rate prep|of n|point det:num|nine det:num|five v|bring-3S
+	pro:per|it adv|up prep|to n|point det:num|nine det:num|seven
+	det:num|eight det:num|five mod|will&COND cop|be det:art|the n|value
+	v|project-PAST adv|under n|plan n:prop|A .
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|7|NJCT 9|8|POBJ 10|11|QUANT 11|12|QUANT 12|7|CMOD 13|12|OBJ 14|12|JCT
+	15|12|JCT 16|15|POBJ 17|18|QUANT 18|19|QUANT 19|20|QUANT 20|22|SUBJ 21|22|AUX
+	22|16|CMOD 23|24|DET 24|25|SUBJ 25|22|PRED 26|25|JCT 27|28|MOD 28|26|POBJ
+	29|3|PUNCT
+*S1:	under plan B you take the juvenile elasticity (.) times the twenty
+	five percent increase in (.) juvenile survival (.) gives you a point
+	oh [: zero] five (.) percent increase in lambda .
+%mor:	adv|under n|plan n:prop|B pro:per|you v|take det:art|the n|juvenile
+	n|elastic&dadj-ITY v|time-3S det:art|the det:num|twenty det:num|five
+	n|percent n|increase prep|in adj|juvenile n|survival v|give-3S
+	pro:per|you det:art|a n|point det:num|zero det:num|five n|percent
+	n|increase prep|in n|lambda .
+%gra:	1|5|JCT 2|3|MOD 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|9|SUBJ
+	9|5|COMP 10|14|DET 11|13|QUANT 12|13|QUANT 13|14|MOD 14|18|SUBJ 15|14|NJCT
+	16|17|MOD 17|15|POBJ 18|9|COMP 19|18|OBJ 20|21|DET 21|19|OBJ 22|24|QUANT
+	23|24|QUANT 24|25|MOD 25|21|POSTMOD 26|25|NJCT 27|26|POBJ 28|5|PUNCT
+*S1:	so lambda would increase by five percent to this point nine [/]
+	nine seven five bringing it almost up to a stable population .
+%mor:	co|so n|lambda mod|will&COND v|increase prep|by det:num|five
+	n|percent prep|to det:dem|this n|point det:num|nine det:num|seven
+	det:num|five part|bring-PRESP pro:per|it adv|almost adv|up prep|to
+	det:art|a n|stable n|populate&dv-TION .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|12|QUANT 12|13|QUANT 13|14|QUANT 14|10|CMOD
+	15|14|OBJ 16|14|JCT 17|14|JCT 18|14|JCT 19|21|DET 20|21|MOD 21|18|POBJ
+	22|4|PUNCT
+*S1:	(0.4) so under this comparison plan B would be better (.) for the
+	population .
+%mor:	adv|so prep|under det:dem|this n|comparison n|plan n:prop|B
+	mod|will&COND cop|be adj|good&CP prep|for det:art|the
+	n|populate&dv-TION .
+%gra:	1|8|JCT 2|8|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|PRED 10|8|JCT 11|12|DET 12|10|POBJ 13|8|PUNCT
+*S1:	but notice that it's [//] in_order_to [/] to have the effect on the
+	juveniles (.) be better than the effect on adults , it hadta be &m a
+	very substantial increase in the juvenile survival .
+%mor:	conj|but n|notice pro:rel|that inf|to v|have det:art|the n|effect
+	prep|on det:art|the n|juvenile-PL cop|be adv|good&CP prep|than
+	det:art|the n|effect prep|on n|adult-PL cm|cm pro:per|it
+	mod|have&PAST~inf|to cop|be det:art|a adv|very adj|substantial
+	n|increase prep|in det:art|the adj|juvenile n|survival .
+%gra:	1|11|LINK 2|11|SUBJ 3|5|LINK 4|5|INF 5|2|CMOD 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|22|CJCT 12|11|JCT 13|11|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|16|POBJ 18|11|LP 19|22|SUBJ 20|22|AUX 21|22|INF 22|0|ROOT
+	23|26|DET 24|25|JCT 25|26|MOD 26|22|PRED 27|26|NJCT 28|30|DET 29|30|MOD
+	30|27|POBJ 31|22|PUNCT
+*S1:	mkay so this is an example how this kind of analysis can <help you
+	&=cough excuse_me> [//] help you evaluate different [/] different
+	management options .
+%mor:	co|mkay adv|so pro:dem|this cop|be&3S det:art|a n|example
+	pro:int|how det:dem|this adj|kind prep|of n|analysis mod|can v|help
+	pro:per|you v|evaluate adj|different n|manage&dv-MENT n|option-PL .
+%gra:	1|3|COM 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|13|LINK 8|13|DET
+	9|13|JCT 10|9|JCT 11|10|POBJ 12|13|AUX 13|6|CMOD 14|15|SUBJ 15|13|COMP
+	16|18|MOD 17|18|MOD 18|15|OBJ 19|4|PUNCT
+*S1:	(0.5) so this kind of lumping of adults (.) into an adult stage is
+	usually helpful especially for long+lived species (be)cause it can
+	simplify analyses .
+%mor:	co|so det:dem|this adj|kind prep|of n:gerund|lump-PRESP prep|of
+	n|adult-PL prep|into det:art|a n|adult n|stage cop|be&3S
+	adv|usual&dadj-LY adj|help&dn-FULL adv|especial&dadj-LY prep|for
+	adj|+adj|long+part|lived n|species conj|because pro:per|it mod|can
+	v|simplify v|analyse-3S .
+%gra:	1|3|COM 2|3|DET 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|JCT 7|6|POBJ 8|12|JCT
+	9|11|DET 10|11|MOD 11|12|SUBJ 12|5|CJCT 13|14|JCT 14|12|PRED 15|14|JCT
+	16|14|JCT 17|18|MOD 18|16|POBJ 19|22|LINK 20|22|SUBJ 21|22|AUX 22|12|CJCT
+	23|22|OBJ 24|3|PUNCT
+*S1:	&-uh requires much less data .
+%mor:	v|require-3S adv|much adj|less n|data .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*S1:	you can do a_lot_of averaging over the [/] the observations that you
+	do have .
+%mor:	pro:per|you mod|can v|do qn|a_lot_of part|average-PRESP prep|over
+	det:art|the n|observe&dv-TION-PL comp|that pro:per|you v|do v|have .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|OBJ 13|3|PUNCT
+*S1:	&-uh and avoids the problem of the oldest age .
+%mor:	coord|and v|avoid-3S det:art|the n|problem prep|of det:art|the
+	adj|old-SP n|age .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*S1:	notice that we didn't hafta specify how big that matrix is .
+%mor:	n|notice pro:rel|that pro:sub|we mod|do&PAST~neg|not
+	mod|have~inf|to v|specify pro:int|how adj|big det:dem|that n|matrix
+	cop|be&3S .
+%gra:	1|0|INCROOT 2|8|LINK 3|8|SUBJ 4|8|AUX 5|4|NEG 6|8|AUX 7|8|INF 8|1|CMOD
+	9|13|LINK 10|13|JCT 11|12|DET 12|13|SUBJ 13|8|COMP 14|1|PUNCT
+*S1:	we don't really hafta know what the oldest age of the individual
+	is .
+%mor:	pro:sub|we mod|do~neg|not adv|real&dadj-LY mod|have~inf|to v|know
+	pro:int|what det:art|the adj|old-SP n|age prep|of det:art|the
+	n|individual cop|be&3S .
+%gra:	1|7|SUBJ 2|7|AUX 3|2|NEG 4|7|JCT 5|7|AUX 6|7|INF 7|0|ROOT 8|11|DET
+	9|11|DET 10|11|MOD 11|15|CSUBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|7|COMP
+	16|7|PUNCT
+*S1:	we're just assuming that [/] that &-uh eighty two percent of them
+	keep surviving and surviving and surviving .
+%mor:	pro:sub|we~aux|be&PRES adv|just part|assume-PRESP adv|that
+	det:num|eighty det:num|two n|percent prep|of pro:obj|them v|keep
+	part|survive-PRESP coord|and part|survive-PRESP coord|and
+	part|survive-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|JCT 6|8|QUANT 7|8|QUANT 8|4|OBJ
+	9|8|NJCT 10|9|POBJ 11|12|SRL 12|8|XJCT 13|12|CONJ 14|13|COORD 15|14|CONJ
+	16|15|COORD 17|4|PUNCT
+*S1:	&-um by the time you get out to (.) say twenty or twenty five years
+	(.) it's a very tiny &f number that are actually &-uh surviving .
+%mor:	prep|by det:art|the n|time pro:per|you v|get adv|out inf|to v|say
+	det:num|twenty coord|or det:num|twenty det:num|five n|year-PL
+	pro:per|it~cop|be&3S det:art|a adv|very adj|tiny n|number
+	pro:rel|that aux|be&PRES adv|actual&dadj-LY part|survive-PRESP .
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|INF 8|5|XJCT
+	9|13|QUANT 10|9|CONJ 11|12|DATE 12|10|COORD 13|15|JCT 14|15|SUBJ 15|8|COMP
+	16|19|DET 17|18|JCT 18|19|MOD 19|15|PRED 20|23|LINK 21|23|AUX 22|23|JCT
+	23|19|CMOD 24|5|PUNCT
+*S1:	but you're able to include that &-um in the analysis .
+%mor:	conj|but pro:per|you~cop|be&PRES adj|able inf|to v|include
+	pro:dem|that prep|in det:art|the n|analysis .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*S1:	(0.5) &-uh one thing you needta (.) be cautious of is that this
+	can overestimate the speed of response to some perturbation .
+%mor:	det:num|one n|thing pro:per|you v|need~inf|to cop|be adj|cautious
+	prep|of cop|be&3S comp|that pro:dem|this n|can over#v|estimate
+	det:art|the n|speed prep|of n|response prep|to qn|some
+	n|perturb&dv-TION .
+%gra:	1|2|QUANT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|PRED 8|7|JCT
+	9|8|POBJ 10|6|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|16|POBJ 18|15|NJCT 19|20|QUANT 20|18|POBJ 21|4|PUNCT
+*S1:	suppose you [/] you had a change in the population size and you
+	wanted it to [/] to do a matrix projection and see how quickly it
+	would come back <to the same> [//] to that same stable age
+	distribution .
+%mor:	v|suppose pro:per|you v|have&PAST det:art|a n|change prep|in
+	det:art|the n|populate&dv-TION n|size coord|and pro:per|you
+	v|want-PAST pro:per|it inf|to v|do det:art|a n|matrix n|projection
+	coord|and v|see pro:int|how adv|quick&dadj-LY pro:per|it
+	mod|will&COND v|come adv|back inf|to adv|that adj|same adj|stable
+	n|age n|distribute&dv-TION .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|3|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|LINK 11|12|SUBJ 12|3|CJCT 13|12|OBJ 14|15|INF 15|12|COMP
+	16|18|DET 17|18|MOD 18|15|OBJ 19|15|CONJ 20|19|COORD 21|25|LINK 22|25|JCT
+	23|25|SUBJ 24|25|AUX 25|20|COMP 26|25|JCT 27|28|INF 28|32|JCT 29|32|MOD
+	30|32|MOD 31|32|MOD 32|25|OBJ 33|1|PUNCT
+*S1:	&-um if you have all the adults lumped in a single stage (.) you
+	aren't gonna see that [/] that actual &-uh wave of (.) population
+	changes as it ripples through those older ages .
+%mor:	conj|if pro:per|you v|have qn|all det:art|the n|adult-PL
+	v|lump-PAST prep|in det:art|a adj|single n|stage pro:per|you
+	aux|be&PRES~neg|not part|go-PRESP~inf|to v|see det:dem|that
+	adj|actual n|wave prep|of n|populate&dv-TION n|change-PL conj|as
+	pro:per|it v|ripple-3S prep|through det:dem|those adj|old-CP
+	n|age-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|6|QUANT 5|6|DET 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|15|SUBJ 13|15|AUX 14|13|NEG 15|7|XJCT
+	16|17|INF 17|15|COMP 18|20|DET 19|20|MOD 20|17|OBJ 21|20|NJCT 22|23|MOD
+	23|21|POBJ 24|26|LINK 25|26|SUBJ 26|15|CJCT 27|26|JCT 28|30|DET 29|30|MOD
+	30|27|POBJ 31|7|PUNCT
+*S1:	it's all gonna be lumped together in that single (.) adult stage .
+%mor:	pro:per|it~aux|be&3S post|all part|go-PRESP~inf|to aux|be
+	part|lump-PASTP adv|together prep|in det:dem|that n|single n|adult
+	n|stage .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|PQ 4|0|ROOT 5|7|INF 6|7|AUX 7|4|COMP 8|7|JCT
+	9|7|JCT 10|13|DET 11|13|MOD 12|13|MOD 13|9|POBJ 14|4|PUNCT
+*S1:	so it's gonna give you the impression that [/] that the population
+	has [/] has &-uh come back to its steady value (.) faster than it
+	really does .
+%mor:	adv|so pro:per|it~aux|be&3S part|go-PRESP~inf|to v|give pro:per|you
+	det:art|the n|impression pro:rel|that det:art|the n|populate&dv-TION
+	aux|have&3S part|come&PASTP adv|back prep|to det:poss|its adj|steady
+	n|value adj|fast-CP prep|than pro:per|it adv|real&dadj-LY v|do&3S .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ2 8|9|DET
+	9|6|OBJ 10|14|LINK 11|12|DET 12|14|SUBJ 13|14|AUX 14|9|CMOD 15|14|JCT
+	16|14|JCT 17|19|DET 18|19|MOD 19|24|SUBJ 20|19|POSTMOD 21|20|JCT 22|21|POBJ
+	23|24|JCT 24|16|POBJ 25|4|PUNCT
+*S1:	the population actually takes longer to achieve a new <stable age
+	distribution> [//] <stable stage (.) or excuse_me> [//] stable age
+	distribution than the lumped model would indicate .
+%mor:	det:art|the n|populate&dv-TION adv|actual&dadj-LY v|take-3S
+	adj|long-CP inf|to v|achieve det:art|a adj|new adj|stable n|age
+	n|distribute&dv-TION prep|than det:art|the part|lump-PASTP n|model
+	mod|will&COND v|indicate .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PRED 6|7|INF 7|5|XMOD 8|12|DET
+	9|12|MOD 10|12|MOD 11|12|MOD 12|18|SUBJ 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|18|AUX 18|7|COMP 19|4|PUNCT
+*S1:	(0.7) okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	size matters .
+%mor:	n|size v|matter-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S1:	for many populations an individual's size is more important (.) than
+	its age in affecting survival and reproduction .
+%mor:	prep|for qn|many n|populate&dv-TION-PL det:art|a
+	adj|individual&dn-POSS n|size cop|be&3S adv|more adj|important
+	prep|than det:poss|its n|age prep|in n:gerund|affect-PRESP
+	n|survival coord|and re#n|production .
+%gra:	1|7|LINK 2|3|QUANT 3|7|JCT 4|6|DET 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|9|JCT
+	9|7|PRED 10|9|JCT 11|12|DET 12|10|POBJ 13|7|JCT 14|15|MOD 15|13|POBJ
+	16|7|CONJ 17|16|COORD 18|7|PUNCT
+*S1:	and that's certainly true in [/] in &-uh many fish and in [/] in
+	trees .
+%mor:	coord|and pro:dem|that~cop|be&3S adv|certain&dadj-LY v|true prep|in
+	qn|many n|fish coord|and prep|in n|tree-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|CPRED 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|10|POBJ 12|3|PUNCT
+*S1:	like in forests there can be a_lot_of (.) fairly old &-uh &s
+	saplings that just haven't gotten enough light .
+%mor:	co|like adv|in n|forest-PL adv|there mod|can cop|be qn|a_lot_of
+	adv|fair&dadj-LY adj|old n|sapling-PL pro:rel|that adv|just
+	aux|have~neg|not part|get&PASTP qn|enough n|light .
+%gra:	1|3|COM 2|3|JCT 3|6|SUBJ 4|6|JCT 5|6|AUX 6|0|ROOT 7|10|QUANT 8|9|JCT
+	9|10|MOD 10|6|PRED 11|15|LINK 12|15|JCT 13|15|AUX 14|13|NEG 15|10|CMOD
+	16|17|QUANT 17|15|OBJ 18|6|PUNCT
+*S1:	they can be old (.) but they're not at the right size to mature .
+%mor:	pro:sub|they mod|can cop|be adj|old conj|but
+	pro:sub|they~cop|be&PRES neg|not prep|at det:art|the adj|right
+	n|size inf|to v|mature .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|NEG
+	9|7|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|14|INF 14|12|XMOD 15|3|PUNCT
+*S1:	for some species it's hard to determine age .
+%mor:	prep|for qn|some n|species pro:per|it~cop|be&3S adj|hard inf|to
+	v|determine n|age .
+%gra:	1|5|JCT 2|3|QUANT 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|8|INF 8|6|XMOD
+	9|8|OBJ 10|5|PUNCT
+*S1:	a_lot_of invertebrates , it's very difficult and in some plants it's
+	hard as well +...
+%mor:	qn|a_lot_of in#n|vertebrate-PL cm|cm pro:per|it~cop|be&3S adv|very
+	adj|difficult coord|and prep|in qn|some n|plant-PL
+	pro:per|it~cop|be&3S adj|hard adv|as adv|well +...
+%gra:	1|2|QUANT 2|5|JCT 3|2|LP 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|13|LINK
+	9|13|JCT 10|11|QUANT 11|9|POBJ 12|13|SUBJ 13|5|CJCT 14|13|PRED 15|14|JCT
+	16|13|JCT 17|5|PUNCT
+*S1:	but many species have clear (.) stages into which you can lump the
+	[/] the different types of the population for +//.
+%mor:	conj|but qn|many n|species v|have adv|clear v|stage-3S prep|into
+	pro:rel|which pro:per|you mod|can v|lump det:art|the adj|different
+	n|type-PL prep|of det:art|the n|populate&dv-TION prep|for +//.
+%gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|COMP 7|6|JCT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|CPOBJ 12|14|DET 13|14|MOD 14|11|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|11|JCT 19|4|PUNCT
+*S1:	in insects it's pretty clear (.) to define eggs larvae pupae and
+	adults .
+%mor:	prep|in n|insect-PL pro:per|it~cop|be&3S adj|pretty adv|clear
+	inf|to v|define n|egg-PL n|larvae n|pupa&PL coord|and n|adult-PL .
+%gra:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|8|INF 8|5|XMOD
+	9|11|MOD 10|11|MOD 11|8|OBJ 12|11|CONJ 13|12|COORD 14|4|PUNCT
+*S1:	for many other arthropods , eggs and juvenile instars and adults
+	(.) are &pretty [/] pretty easy to define and categorize them .
+%mor:	prep|for qn|many qn|other n|arthropod-PL cm|cm n|egg-PL coord|and
+	adj|juvenile in#n|star-PL coord|and n|adult-PL cop|be&PRES
+	adv|pretty adj|ease&dn-Y inf|to v|define coord|and
+	v|category&dadj-IZE pro:obj|them .
+%gra:	1|12|LINK 2|4|QUANT 3|4|QUANT 4|12|SUBJ 5|4|LP 6|4|ENUM 7|4|CONJ
+	8|9|MOD 9|7|COORD 10|4|CONJ 11|10|COORD 12|0|ROOT 13|14|JCT 14|12|PRED
+	15|16|INF 16|14|XMOD 17|16|CONJ 18|17|COORD 19|18|OBJ 20|12|PUNCT
+*S1:	&-uh much easier to do than telling how [/] how old they are ,
+	what their age is .
+%mor:	adv|much adj|ease&dn-Y-CP inf|to v|do prep|than n:gerund|tell-PRESP
+	pro:int|how adj|old pro:sub|they cop|be&PRES cm|cm pro:int|what
+	det:poss|their n|age cop|be&3S .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|INF 4|2|XMOD 5|4|JCT 6|10|LINK 7|8|JCT
+	8|10|PRED 9|10|SUBJ 10|5|CPOBJ 11|2|LP 12|15|LINK 13|14|DET 14|15|SUBJ 15|2|CMOD
+	16|2|PUNCT
+*S1:	so you can use a model based on size or stage (.) rather than age
+	class .
+%mor:	co|so pro:per|you mod|can v|use det:art|a n|model v|base-PAST
+	prep|on n|size coord|or n|stage adv|rather prep|than n|age n|class .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|8|POBJ 10|7|CONJ 11|10|COORD 12|11|NJCT 13|12|JCT 14|15|MOD 15|13|POBJ
+	16|4|PUNCT
+*S1:	I think we've mentioned the &n names before but the certain names
+	are often associated with different types of matrix models .
+%mor:	pro:sub|I v|think pro:sub|we~aux|have part|mention-PASTP
+	det:art|the n|name-PL adv|before conj|but det:art|the adj|certain
+	n|name-PL aux|be&PRES adv|often part|associate-PASTP prep|with
+	adj|different n|type-PL prep|of n|matrix n|model-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|15|LINK 10|12|DET 11|12|MOD 12|15|SUBJ 13|15|AUX 14|15|JCT 15|2|CJCT
+	16|15|JCT 17|18|MOD 18|16|POBJ 19|18|NJCT 20|21|MOD 21|19|POBJ 22|2|PUNCT
+*S1:	Leslie matrix model is the one based on age and Lefkovitch matrix
+	model is the one based on stages .
+%mor:	n:prop|Leslie n|matrix n|model cop|be&3S det:art|the pro:indef|one
+	v|base-PAST prep|on n|age coord|and n:prop|Lefkovitch n|matrix
+	n|model cop|be&3S det:art|the pro:indef|one v|base-PAST prep|on
+	n|stage-PL .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|CPRED 8|7|JCT
+	9|8|POBJ 10|14|LINK 11|13|MOD 12|13|MOD 13|14|SUBJ 14|7|CJCT 15|16|DET
+	16|17|SUBJ 17|14|CPRED 18|17|JCT 19|18|POBJ 20|4|PUNCT
+*S1:	here's a citation for &-uh Lefkovitch's discussion of plant &-uh
+	population growth (.) grouping organisms by stages .
+%mor:	pro:exist|here~cop|be&3S det:art|a n|cite&dv-TION prep|for
+	adj|Lefkovitch&dn-POSS n|discussion prep|of n|plant
+	n|populate&dv-TION n|growth part|group-PRESP n|organism-PL prep|by
+	n|stage-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|MOD 7|5|POBJ 8|7|NJCT
+	9|11|MOD 10|11|MOD 11|8|POBJ 12|4|XMOD 13|12|OBJ 14|12|JCT 15|14|POBJ
+	16|2|PUNCT
+*S1:	(0.6) here's an example of a stage based model for an insect
+	population .
+%mor:	pro:exist|here~cop|be&3S det:art|a n|example prep|of det:art|a
+	n|stage v|base-PAST n|model prep|for det:art|a n|insect
+	n|populate&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|4|ENUM
+	9|8|OBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|2|PUNCT
+*S1:	this is a (.) species of insect where you just have three stages ,
+	egg to larvae and adult .
+%mor:	pro:dem|this cop|be&3S det:art|a n|species prep|of n|insect
+	pro:rel|where pro:per|you adv|just v|have det:num|three n|stage-PL
+	cm|cm n|egg prep|to n|larvae coord|and n|adult .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|10|LINK
+	8|10|SUBJ 9|10|JCT 10|6|CMOD 11|12|QUANT 12|10|OBJ 13|12|LP 14|12|ENUM
+	15|14|NJCT 16|15|POBJ 17|16|CONJ 18|17|COORD 19|2|PUNCT
+*S1:	&-um we have a transition probability , a probability of survival
+	from egg to larvae (.) and from larvae to adult .
+%mor:	pro:sub|we v|have det:art|a n|transition n|probable&dadj-ITY cm|cm
+	det:art|a n|probable&dadj-ITY prep|of n|survival prep|from n|egg
+	prep|to n|larvae coord|and prep|from n|larvae prep|to n|adult .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|LP 7|8|DET 8|5|ENUM
+	9|8|NJCT 10|9|POBJ 11|10|NJCT 12|11|POBJ 13|12|NJCT 14|13|POBJ 15|8|CONJ
+	16|15|COORD 17|16|POBJ 18|17|NJCT 19|18|POBJ 20|2|PUNCT
+*S1:	there's a couple extra loops here .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|couple n|extra v|loop-3S
+	adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|SUBJ 6|4|CMOD 7|6|JCT 8|2|PUNCT
+*S1:	&-uh here's the probability of a larva surviving and remaining as a
+	larva (.) during the specified time interval .
+%mor:	pro:exist|here~cop|be&3S det:art|the n|probable&dadj-ITY prep|of
+	det:art|a n|larva part|survive-PRESP coord|and part|remain-PRESP
+	conj|as det:art|a n|larva prep|during det:art|the part|specify-PASTP
+	n|time n|interval .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|4|XMOD
+	9|8|CONJ 10|9|COORD 11|13|COORD 12|13|DET 13|10|OBJ 14|13|NJCT 15|18|DET
+	16|18|MOD 17|18|MOD 18|14|POBJ 19|2|PUNCT
+*S1:	and here's (.) the probability of (.) surviving the next time step
+	and staying in the adult (.) category .
+%mor:	coord|and pro:exist|here~cop|be&3S det:art|the n|probable&dadj-ITY
+	prep|of n:gerund|survive-PRESP det:art|the adj|next n|time n|step
+	coord|and part|stay-PRESP prep|in det:art|the n|adult n|category .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|11|DET
+	9|10|MOD 10|11|MOD 11|5|APP 12|5|CONJ 13|12|COORD 14|13|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|3|PUNCT
+*S1:	and then there's the (.) &off offspring produced by those adults
+	feeding back &t into the egg category .
+%mor:	coord|and adv:tem|then pro:exist|there~cop|be&3S det:art|the
+	n|offspring v|produce-PAST prep|by det:dem|those n|adult-PL
+	part|feed-PRESP adv|back prep|into det:art|the n|egg n|category .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|CPRED 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|XJCT 12|11|JCT 13|11|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|4|PUNCT
+*S1:	so this is the Lefkovitch or &st stage based matrix corresponding
+	to this life cycle graph .
+%mor:	adv|so pro:dem|this cop|be&3S det:art|the n:prop|Lefkovitch
+	coord|or n|stage v|base-PAST n|matrix part|correspond-PRESP prep|to
+	det:dem|this n|life n|cycle n|graph .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|6|COORD 8|3|CPRED
+	9|8|OBJ 10|9|XMOD 11|10|JCT 12|15|DET 13|15|MOD 14|15|MOD 15|11|POBJ
+	16|3|PUNCT
+*S1:	notice that there's [//] the term for reproduction is only in the
+	adult category .
+%mor:	n|notice pro:rel|that det:art|the n|term prep|for re#n|production
+	cop|be&3S adv|only prep|in det:art|the n|adult n|category .
+%gra:	1|0|INCROOT 2|7|LINK 3|4|DET 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|1|CMOD
+	8|7|JCT 9|7|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|1|PUNCT
+*S1:	we do have terms on the diagonal (.) and that's these loops of
+	probability of surviving but remaining as a larvae or &st staying as
+	an adult that's the two (.) terms on the diagonal .
+%mor:	pro:sub|we v|do v|have n|term-PL prep|on det:art|the n|diagonal
+	coord|and pro:dem|that~cop|be&3S det:dem|these n|loop-PL prep|of
+	n|probable&dadj-ITY prep|of n:gerund|survive-PRESP conj|but
+	n:gerund|remain-PRESP prep|as det:art|a n|larvae coord|or
+	part|stay-PRESP prep|as det:art|a n|adult pro:rel|that~cop|be&3S
+	det:art|the det:num|two n|term-PL prep|on det:art|the n|diagonal .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|2|CJCT 11|12|DET 12|10|PRED 13|12|NJCT 14|13|POBJ 15|14|NJCT
+	16|15|POBJ 17|2|CONJ 18|17|COORD 19|18|JCT 20|21|DET 21|19|POBJ
+	22|18|CONJ 23|22|COORD 24|23|JCT 25|26|DET 26|24|POBJ 27|28|LINK 28|26|CMOD
+	29|31|DET 30|31|QUANT 31|28|PRED 32|31|NJCT 33|34|DET 34|32|POBJ 35|2|PUNCT
+*S1:	(0.4) does that make sense ?
+%mor:	mod|do&3S adv|that v|make n|sense ?
+%gra:	1|3|AUX 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	that seem straightforward ?
+%mor:	pro:dem|that cop|seem adj|straightforward ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S1:	good +...
+%mor:	adj|good +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so for both [/] both age based and &s size or stage based models
+	(.) the time unit is fixed .
+%mor:	adv|so prep|for qn|both n|age v|base-PAST coord|and n|size coord|or
+	n|stage v|base-PAST n|model-PL det:art|the n|time n|unit aux|be&3S
+	part|fix-PASTP .
+%gra:	1|2|JCT 2|5|LINK 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|CONJ 7|6|COORD
+	8|10|LINK 9|10|SUBJ 10|5|CJCT 11|10|OBJ 12|14|DET 13|14|MOD 14|16|SUBJ
+	15|16|AUX 16|11|CMOD 17|5|PUNCT
+*S1:	that's really one of the keys , that it's the time unit that's fixed
+	for each time step .
+%mor:	pro:dem|that~cop|be&3S adv|real&dadj-LY det:num|one prep|of
+	det:art|the n|key-PL cm|cm adv|that pro:per|it~cop|be&3S det:art|the
+	n|time n|unit pro:rel|that~aux|be&3S part|fix-PASTP prep|for qn|each
+	n|time n|step .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|LP
+	9|11|JCT 10|11|SUBJ 11|2|CJCT 12|14|DET 13|14|MOD 14|11|PRED 15|17|LINK
+	16|17|AUX 17|14|CMOD 18|17|JCT 19|20|QUANT 20|21|MOD 21|18|POBJ 22|2|PUNCT
+*S1:	&-uh the [/] &le the width of the size categories is up to the
+	biological investigator , what he thinks is most appropriate .
+%mor:	det:art|the n|width prep|of det:art|the n|size n|category-PL
+	cop|be&3S adv|up prep|to det:art|the adj|biological n|investigator
+	cm|cm pro:int|what pro:sub|he v|think-3S cop|be&3S qn|most
+	adj|appropriate .
+%gra:	1|2|DET 2|7|SUBJ 3|2|NJCT 4|6|DET 5|6|MOD 6|3|POBJ 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|7|LP 14|16|LINK 15|16|SUBJ
+	16|7|CJCT 17|16|COMP 18|19|QUANT 19|17|PRED 20|7|PUNCT
+*S1:	but the time step &-uh is [/] is &-uh selected (.) depending on the
+	data that you have .
+%mor:	conj|but det:art|the n|time n|step aux|be&3S part|select-PASTP
+	part|depend-PRESP prep|on det:art|the n|data pro:rel|that
+	pro:per|you v|have .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|XJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|13|LINK 12|13|SUBJ 13|10|CMOD 14|6|PUNCT
+*S1:	so &exam for example you can pick a time unit like one year for
+	turtles or (.) many other animals .
+%mor:	adv|so prep|for ex#adj|ample pro:per|you mod|can v|pick det:art|a
+	n|time n|unit prep|like det:num|one n|year prep|for n|turtle-PL
+	coord|or qn|many qn|other n|animal-PL .
+%gra:	1|2|JCT 2|6|JCT 3|2|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|NJCT 11|12|QUANT 12|10|POBJ 13|9|NJCT 14|13|POBJ 15|9|CONJ
+	16|18|QUANT 17|18|QUANT 18|15|COORD 19|6|PUNCT
+*S1:	for ones with &f faster population growth you might choose a one
+	week for insects or maybe one day for certain &-uh Daphnia in lakes
+	.
+%mor:	prep|for n|one-PL prep|with adj|fast-CP n|populate&dv-TION n|growth
+	pro:per|you mod|might v|choose det:art|a det:num|one n|week prep|for
+	n|insect-PL coord|or adv|maybe pro:indef|one n|day prep|for
+	adj|certain n:prop|Daphnia prep|in n|lake-PL .
+%gra:	1|9|JCT 2|1|POBJ 3|2|NJCT 4|5|MOD 5|6|MOD 6|3|POBJ 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|12|DET 11|12|QUANT 12|9|OBJ 13|12|NJCT 14|13|POBJ 15|9|CONJ
+	16|18|JCT 17|18|QUANT 18|15|COORD 19|18|NJCT 20|21|MOD 21|19|POBJ
+	22|21|NJCT 23|22|POBJ 24|9|PUNCT
+*S1:	then you estimate the transition probabilities , the probability that
+	an individual is found in the next stage one time unit later .
+%mor:	adv:tem|then pro:per|you v|estimate det:art|the n|transition
+	n|probable&dadj-ITY-PL cm|cm det:art|the n|probable&dadj-ITY
+	comp|that det:art|a n|individual aux|be&3S part|find&PASTP prep|in
+	det:art|the adj|next n|stage det:num|one n|time n|unit adv|later .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|LP 8|9|DET
+	9|3|OBJ 10|14|LINK 11|12|DET 12|14|SUBJ 13|14|AUX 14|9|CMOD 15|14|JCT
+	16|18|DET 17|18|MOD 18|21|MOD 19|20|QUANT 20|21|MOD 21|15|POBJ 22|21|NJCT
+	23|3|PUNCT
+*S1:	Dana ?
+%mor:	n:prop|Dana ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	if you were using those really small time steps (.) like back in
+	the diagram on the previous slide (.) why wouldn't you ⌈ want [?] ⌉
+	+/.
+%mor:	conj|if pro:per|you aux|be&PAST part|use-PRESP det:dem|those
+	adv|real&dadj-LY adj|small n|time n|step-PL co|like adj|back prep|in
+	det:art|the n|diagram prep|on det:art|the adj|previous n|slide
+	pro:rel|why mod|will&COND~neg|not pro:per|you v|want +/.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|9|DET 6|7|JCT 7|9|MOD 8|9|MOD
+	9|4|OBJ 10|9|COM 11|4|JCT 12|4|JCT 13|14|DET 14|12|POBJ 15|4|JCT 16|18|DET
+	17|18|MOD 18|15|POBJ 19|23|LINK 20|23|AUX 21|20|NEG 22|23|SUBJ 23|18|CMOD
+	24|4|PUNCT
+*S1:	⌊ whoop ⌋ +/.
+%mor:	n|whoop +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	+, oh (.) sorry .
+%mor:	co|oh co|sorry .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	+, whoa jumping ahead excuse_me .
+%mor:	co|whoa part|jump-PRESP adv|ahead co|excuse_me .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|COM 5|2|PUNCT
+*S1:	&-uh there we go .
+%mor:	adv|there pro:sub|we v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S3:	+, why wouldn't you account for the probability of the egg staying
+	as an egg ?
+%mor:	pro:int|why mod|will&COND~neg|not pro:per|you v|account prep|for
+	det:art|the n|probable&dadj-ITY prep|of det:art|the n|egg
+	part|stay-PRESP conj|as det:art|a n|egg ?
+%gra:	1|5|JCT 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|5|XJCT 13|15|COORD 14|15|DET 15|12|ENUM
+	16|5|PUNCT
+*S1:	ah (.) <good point> [/] good point that's right .
+%mor:	co|ah adj|good n|point pro:rel|that~cop|be&3S co|right .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|5|PRED 7|3|PUNCT
+*S1:	<if your> [/] if your &-uh time unit was sufficiently small then
+	<there might> [/] there might be &-uh a loop here as_well .
+%mor:	conj|if det:poss|your n|time n|unit cop|be&PAST&13S
+	adv|sufficient&dadj-LY adj|small adv:tem|then adv|there mod|might
+	cop|be det:art|a n|loop adv|here adv|as_well .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|11|CJCT 6|7|JCT 7|5|PRED 8|11|JCT
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|13|DET 13|11|PRED 14|15|JCT 15|13|NJCT
+	16|11|PUNCT
+*S1:	that's a good point right .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|good n|point adj|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|POSTMOD 7|2|PUNCT
+*S1:	⌈ in this one ⌉ +/.
+%mor:	prep|in det:dem|this pro:indef|one +/.
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*S3:	⌊ and also ⌋ +/.
+%mor:	coord|and adv|also +/.
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*S1:	+, in this one it [/] it must be the case that for this analysis
+	the time step corresponds to the time it takes an egg to [/] &ha to
+	hatch .
+%mor:	prep|in det:dem|this pro:indef|one pro:per|it mod|must cop|be
+	det:art|the n|case adv|that prep|for det:dem|this n|analysis
+	det:art|the n|time n|step v|correspond-3S prep|to det:art|the n|time
+	pro:per|it v|take-3S det:art|a n|egg inf|to v|hatch .
+%gra:	1|6|LINK 2|3|DET 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|16|CJCT 7|8|DET 8|16|SUBJ
+	9|16|JCT 10|16|JCT 11|12|DET 12|10|POBJ 13|15|DET 14|15|MOD 15|16|SUBJ
+	16|0|ROOT 17|16|JCT 18|19|DET 19|17|POBJ 20|21|SUBJ 21|16|CJCT 22|23|DET
+	23|21|OBJ 24|25|INF 25|23|XMOD 26|16|PUNCT
+*S3:	where would that go on the matrix ?
+%mor:	pro:int|where mod|will&COND adv|that v|go prep|on det:art|the
+	n|matrix ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*S1:	that would go right here in this [/] this one (.) this first
+	element .
+%mor:	pro:dem|that mod|will&COND v|go adv|right adv|here prep|in
+	det:dem|this pro:indef|one det:dem|this adj|first n|element .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|JCT 7|8|DET 8|6|POBJ
+	9|11|DET 10|11|MOD 11|3|JCT 12|3|PUNCT
+*S1:	the probability that (.) the first stage remained in that first
+	stage .
+%mor:	det:art|the n|probable&dadj-ITY comp|that det:art|the adj|first
+	n|stage v|remain-PAST prep|in adv|that adj|first n|stage .
+%gra:	1|2|DET 2|0|INCROOT 3|7|LINK 4|6|DET 5|6|MOD 6|7|SUBJ 7|2|CMOD 8|7|JCT
+	9|10|JCT 10|11|MOD 11|8|POBJ 12|2|PUNCT
+*S1:	<good question> [/] good question .
+%mor:	adj|good n|question .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S1:	anybody else ?
+%mor:	pro:indef|anybody post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*S1:	(0.9) I hope you can see that the picture okay .
+%mor:	pro:sub|I v|hope pro:per|you mod|can v|see comp|that det:art|the
+	n|picture adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|OBJ 7|8|DET 8|6|OBJ
+	9|8|POSTMOD 10|2|PUNCT
+*S1:	one of the first stage structured models for plants was developed
+	for teasel .
+%mor:	pro:indef|one prep|of det:art|the adj|first n|stage
+	v|structure-PAST n|model-PL prep|for n|plant-PL aux|be&PAST&13S
+	part|develop-PASTP prep|for n|teasel .
+%gra:	1|6|SUBJ 2|1|NJCT 3|5|DET 4|5|MOD 5|2|POBJ 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|8|POBJ 10|11|AUX 11|6|XJCT 12|11|JCT 13|12|POBJ 14|6|PUNCT
+*S1:	Dipsacus_Sylvestris and it's in the teasel family .
+%mor:	n:prop|Dipsacus_Sylvestris coord|and pro:per|it~cop|be&3S prep|in
+	det:art|the n|teasel n|family .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*S1:	you've probably seen these [/] these heads .
+%mor:	pro:per|you~aux|have adv|probable&dadj-LY part|see&PASTP
+	det:dem|these n|head-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*S1:	they're often used in the dried flower displays .
+%mor:	pro:sub|they~aux|be&PRES adv|often part|use-PASTP prep|in
+	det:art|the part|dry-PASTP n|flower n|display-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|4|PUNCT
+*S1:	they're pretty neat .
+%mor:	pro:sub|they~cop|be&PRES adv|pretty adj|neat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*S1:	teasel's monocarpic .
+%mor:	adj|teasel&dn-POSS adj|monocarpic .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S1:	big bang reproducer .
+%mor:	adj|big n|bang re#n|produce&dv-AGT .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*S1:	often found in disturbed areas (0.4) where the soil is disturbed
+	and the seeds that are in the ground get a chance to [/] to &-uh
+	grow .
+%mor:	adv|often part|find&PASTP prep|in v|disturb-PAST n|area-PL
+	pro:rel|where det:art|the n|soil aux|be&3S part|disturb-PASTP
+	coord|and det:art|the n|seed-PL pro:rel|that cop|be&PRES prep|in
+	det:art|the n|ground v|get det:art|a n|chance inf|to v|grow .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|OBJ 6|10|LINK 7|8|DET 8|10|SUBJ
+	9|10|AUX 10|5|CMOD 11|10|CONJ 12|13|DET 13|11|COORD 14|15|LINK 15|13|CMOD
+	16|15|JCT 17|18|DET 18|19|SUBJ 19|16|POBJ 20|21|DET 21|19|OBJ 22|23|INF
+	23|21|XMOD 24|2|PUNCT
+*S1:	it's often seen along (.) roadways .
+%mor:	pro:per|it~aux|be&3S adv|often part|see&PASTP prep|along
+	n|+n|road+n|way-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*S1:	(0.5) looks a_lot better on my screen than it does on the big screen
+	here .
+%mor:	v|look-3S adv|a_lot adv|good&CP prep|on det:poss|my n|screen
+	prep|than pro:per|it mod|do&3S prep|on det:art|the adj|big n|screen
+	adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|JCT 5|6|DET 6|4|POBJ 7|1|JCT 8|14|SUBJ
+	9|14|AUX 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|7|POBJ 15|1|PUNCT
+*S1:	but the [//] you can see the little [/] little dots if you look here
+	closely .
+%mor:	conj|but pro:per|you mod|can v|see det:art|the adj|little n|dot-PL
+	conj|if pro:per|you v|look adv|here adv|close&dadj-LY .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|10|LINK
+	9|10|SUBJ 10|4|CJCT 11|10|JCT 12|10|JCT 13|4|PUNCT
+*S1:	and as you're driving along &-uh actually US twenty three +//.
+%mor:	coord|and adv|as pro:per|you~aux|be&PRES part|drive-PRESP adv|along
+	adv|actual&dadj-LY n:prop|US det:num|twenty det:num|three +//.
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|10|JCT 8|10|DATE
+	9|10|QUANT 10|5|JCT 11|5|PUNCT
+*S1:	this is near US twenty three and &-uh Washtenaw Avenue .
+%mor:	pro:dem|this cop|be&3S prep|near n:prop|US det:num|twenty
+	det:num|three coord|and n:prop|Washtenaw n:prop|Avenue .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DATE 5|6|QUANT 6|3|POBJ 7|6|CONJ 8|9|NAME
+	9|7|COORD 10|2|PUNCT
+*S1:	&-um there's [//] &-uh you see teasel quite a bit +...
+%mor:	pro:per|you v|see n|teasel adv|quite det:art|a n|bit +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*S1:	the plants grow with their leaves in rosettes .
+%mor:	det:art|the n|plant-PL v|grow prep|with det:poss|their n|leaf-PL
+	prep|in n|rosette-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*S1:	this would be a rosette with the leaves coming off a central place
+	here .
+%mor:	pro:dem|this mod|will&COND cop|be det:art|a n|rosette prep|with
+	det:art|the n|leaf-PL part|come-PRESP prep|off det:art|a adj|central
+	n|place adv|here .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|5|XMOD 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|9|JCT 15|3|PUNCT
+*S1:	and here's my little Swiss Army knife &-uh to give you an idea of
+	its size .
+%mor:	coord|and pro:exist|here~cop|be&3S det:poss|my adj|little
+	n:prop|Swiss n:prop|Army n|knife inf|to v|give pro:per|you det:art|a
+	n|idea prep|of det:poss|its n|size .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|8|MOD 6|8|MOD 7|8|MOD 8|3|PRED
+	9|10|INF 10|8|XMOD 11|10|OBJ2 12|13|DET 13|10|OBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|3|PUNCT
+*S1:	this is a relatively large rosette .
+%mor:	pro:dem|this cop|be&3S det:art|a adv|relative&dadj-LY adj|large
+	n|rosette .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|JCT 5|6|MOD 6|2|PRED 7|2|PUNCT
+*S1:	(0.6) small rosettes grow into large ones .
+%mor:	adj|small n|rosette-PL v|grow prep|into adj|large pro:indef|one-PL
+	.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*S1:	here's [/] here's &-uh one with really big leaves .
+%mor:	pro:exist|here~cop|be&3S pro:indef|one prep|with adv|real&dadj-LY
+	adj|big n|leaf-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|JCT 6|7|MOD 7|4|POBJ 8|2|PUNCT
+*S1:	(0.6) when the rosette is large enough (.) the plant reproduces .
+%mor:	conj|when det:art|the n|rosette cop|be&3S adj|large adv|enough
+	det:art|the n|plant re#n|produce-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|JCT 7|8|DET 8|6|POBJ
+	9|8|POSTMOD 10|4|PUNCT
+*S1:	it sends up a stalk , flowers , and &-uh seeds are produced .
+%mor:	pro:per|it v|send-3S prep|up det:art|a v|stalk cm|cm n|flower-PL
+	cm|cm coord|and n|seed-PL aux|be&PRES part|produce-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|LP 7|2|ENUM 8|7|LP
+	9|2|CONJ 10|12|SUBJ 11|12|AUX 12|9|COORD 13|2|PUNCT
+*S1:	so here's the [/] the [//] &-uh formerly the flower on the big stalk
+	.
+%mor:	adv|so pro:exist|here~cop|be&3S adv|former&dadj-LY det:art|the
+	n|flower prep|on det:art|the adj|big v|stalk .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|3|PRED 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*S1:	&-um you can see some of the rosette leaves at the base and
+	then there's a different kind of leaf that are produced <on the> [/]
+	on the stalk itself .
+%mor:	pro:per|you mod|can v|see pro:indef|some prep|of det:art|the
+	n|rosette n|leaf-PL prep|at det:art|the n|base coord|and
+	adv:tem|then pro:exist|there~cop|be&3S det:art|a adj|different
+	adj|kind prep|of n|leaf pro:rel|that aux|be&PRES part|produce-PASTP
+	prep|on det:art|the v|stalk pro:refl|itself .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|JCT 10|11|DET 11|9|POBJ 12|15|LINK 13|15|JCT 14|15|SUBJ 15|3|CJCT
+	16|18|DET 17|18|MOD 18|15|PRED 19|18|JCT 20|19|POBJ 21|23|LINK 22|23|AUX
+	23|20|CMOD 24|23|JCT 25|26|DET 26|24|POBJ 27|26|OBJ 28|3|PUNCT
+*S1:	(0.4) the age at which teasel reproduces varies with the growing
+	conditions .
+%mor:	det:art|the n|age prep|at det:int|which n|teasel re#n|produce-PL
+	v|vary-3S prep|with det:art|the part|grow-PRESP n|condition-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|7|LINK 5|7|JCT 6|7|SUBJ 7|3|POBJ 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|2|PUNCT
+*S1:	and size of the plant seems to be a better predictor of
+	reproduction and survival .
+%mor:	coord|and n|size prep|of det:art|the n|plant cop|seem-3S inf|to
+	cop|be det:art|a adj|good&CP n|predictor prep|of re#n|production
+	coord|and n|survival .
+%gra:	1|6|LINK 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|11|DET 10|11|MOD 11|8|PRED 12|11|NJCT 13|12|POBJ 14|13|CONJ 15|14|COORD
+	16|6|PUNCT
+*S1:	size is better than age .
+%mor:	n|size cop|be&3S adv|good&CP prep|than n|age .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*S1:	(0.5) Pat_Werner and &-uh Hal_Caswell did some studies where they
+	[//] &s seeds were sown in several plots and followed for several
+	years to estimate the survival probabilities and the seed production
+	.
+%mor:	n:prop|Pat_Werner coord|and n:prop|Hal_Caswell v|do&PAST qn|some
+	n|study-PL pro:rel|where n|seed-PL aux|be&PAST part|sow&PASTP
+	prep|in qn|several n|plot-PL coord|and v|follow-PAST prep|for
+	qn|several n|year-PL inf|to v|estimate det:art|the n|survival
+	n|probable&dadj-ITY-PL coord|and det:art|the n|seed n|production .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|CMOD 11|10|JCT 12|13|QUANT 13|11|POBJ 14|4|CONJ
+	15|14|COORD 16|15|JCT 17|18|QUANT 18|16|POBJ 19|20|INF 20|15|XJCT 21|23|DET
+	22|23|MOD 23|20|OBJ 24|23|CONJ 25|27|DET 26|27|MOD 27|24|COORD 28|4|PUNCT
+*S1:	(0.6) they divided the teasel population into six (.) size
+	categories .
+%mor:	pro:sub|they v|divide-PAST det:art|the n|teasel n|populate&dv-TION
+	prep|into det:num|six n|size n|category-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|JCT 7|8|QUANT 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+*S1:	first one was dormant first year seeds .
+%mor:	adv|first pro:indef|one cop|be&PAST&13S adj|dormant adj|first
+	n|year n|seed-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|MOD 5|7|MOD 6|7|MOD 7|3|PRED 8|3|PUNCT
+*S1:	second was dormant second year seeds .
+%mor:	adv|second cop|be&PAST&13S adj|dormant adj|second n|year n|seed-PL
+	.
+%gra:	1|2|JCT 2|0|ROOT 3|6|MOD 4|6|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+*S1:	and then small medium and large rosettes .
+%mor:	coord|and adv:tem|then adj|small adj|medium coord|and adj|large
+	n|rosette-PL .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PRED 5|4|CONJ 6|7|MOD 7|5|COORD 8|3|PUNCT
+*S1:	the small ones were about an inch in diameter .
+%mor:	det:art|the adj|small pro:indef|one-PL cop|be&PAST prep|about
+	det:art|a n|inch prep|in n|diameter .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*S1:	medium rosettes 0cop about an inch to eight or nine &-uh inches in
+	diameter and large rosettes 0cop bigger than that .
+%mor:	adj|medium n|rosette-PL 0cop|cop prep|about det:art|a n|inch
+	prep|to det:num|eight coord|or det:num|nine n|inch-PL prep|in
+	n|diameter coord|and adj|large n|rosette-PL 0cop|cop adj|big-CP
+	prep|than pro:dem|that .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|11|QUANT
+	9|8|CONJ 10|9|COORD 11|7|POBJ 12|11|NJCT 13|12|POBJ 14|13|CONJ 15|16|MOD
+	16|14|COORD 17|3|CJCT 18|17|PRED 19|18|JCT 20|19|POBJ 21|3|PUNCT
+*S1:	and then the last category was &flow flowering plants .
+%mor:	coord|and adv:tem|then det:art|the adj|last n|category
+	aux|be&PAST&13S part|flower-PRESP n|plant-PL .
+%gra:	1|7|LINK 2|7|JCT 3|5|DET 4|5|MOD 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+*S1:	(0.9) each flowering plant (.) in year t@l can produce (.) one year
+	later (.) over three hundred dormant seeds .
+%mor:	qn|each part|flower-PRESP n|plant prep|in n|year n:let|t n|can
+	n|produce det:num|one n|year adv|later adv|over det:num|three
+	det:num|hundred adj|dormant n|seed-PL .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|10|MOD 6|10|MOD 7|8|MOD 8|10|MOD
+	9|10|QUANT 10|4|POBJ 11|13|JCT 12|13|JCT 13|16|QUANT 14|16|QUANT
+	15|16|MOD 16|10|APP 17|2|PUNCT
+*S1:	it can also produce some seeds that will by one year later (.)
+	produce about thirty and half small rosettes .
+%mor:	pro:per|it mod|can adv|also v|produce qn|some n|seed-PL
+	pro:rel|that mod|will prep|by det:num|one n|year adv|later v|produce
+	prep|about det:num|thirty coord|and n|half adj|small n|rosette-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|13|LINK 8|13|AUX
+	9|8|JCT 10|11|QUANT 11|9|POBJ 12|13|JCT 13|6|CMOD 14|13|JCT 15|14|POBJ
+	16|15|CONJ 17|19|MOD 18|19|MOD 19|16|COORD 20|4|PUNCT
+*S1:	each flowering plant also &s will have some seeds that will make
+	about thirty medium rosettes .
+%mor:	qn|each part|flower-PRESP n|plant adv|also mod|will v|have qn|some
+	n|seed-PL pro:rel|that mod|will v|make prep|about det:num|thirty
+	adj|medium n|rosette-PL .
+%gra:	1|6|LINK 2|6|SUBJ 3|2|OBJ 4|2|JCT 5|6|AUX 6|0|ROOT 7|8|QUANT 8|6|OBJ
+	9|11|LINK 10|11|AUX 11|8|CMOD 12|11|JCT 13|15|QUANT 14|15|MOD 15|12|POBJ
+	16|6|PUNCT
+*S1:	and some of those seeds (.) that land in really favorable
+	conditions can actually produce a large rosette &-uh by the next
+	year .
+%mor:	coord|and pro:indef|some prep|of det:dem|those n|seed-PL
+	det:dem|that n|land prep|in adv|real&dadj-LY adj|favor&dv-ABLE
+	n|condition-PL n|can adv|actual&dadj-LY v|produce det:art|a
+	adj|large n|rosette prep|by det:art|the adj|next n|year .
+%gra:	1|14|LINK 2|14|XJCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|DET 7|14|SUBJ
+	8|7|NJCT 9|10|JCT 10|12|MOD 11|12|MOD 12|8|POBJ 13|14|JCT 14|0|ROOT 15|17|DET
+	16|17|MOD 17|14|OBJ 18|14|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|14|PUNCT
+*S1:	and it's monocarpic .
+%mor:	coord|and pro:per|it~cop|be&3S adj|monocarpic .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S1:	&-uh the flowering plant dies after reproduction .
+%mor:	det:art|the part|flower-PRESP n|plant v|die-3S prep|after
+	re#n|production .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*S1:	there's no survival of the adults .
+%mor:	pro:exist|there~cop|be&3S qn|no n|survival prep|of det:art|the
+	n|adult-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+*S1:	(0.6) this is what the life cycle graph looks like for the teasel
+	population .
+%mor:	pro:dem|this cop|be&3S pro:int|what det:art|the n|life n|cycle
+	n|graph v|look-3S co|like prep|for det:art|the n|teasel
+	n|populate&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|LINK 4|7|DET 5|6|MOD 6|7|MOD 7|8|SUBJ 8|2|CPRED
+	9|8|COM 10|8|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|2|PUNCT
+*S1:	(0.4) we can start over here with flowering plants .
+%mor:	pro:sub|we mod|can v|start prep|over n|here prep|with
+	n:gerund|flower-PRESP n|plant-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|6|POBJ 8|7|OBJ
+	9|3|PUNCT
+*S1:	they produce large numbers of dormant seeds that sit in the ground
+	.
+%mor:	pro:sub|they v|produce adj|large n|number-PL prep|of adj|dormant
+	n|seed-PL pro:rel|that v|sit prep|in det:art|the n|ground .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|NJCT 6|7|MOD 7|5|POBJ 8|9|LINK
+	9|7|CMOD 10|9|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*S1:	some of those don't germinate and stay a second year in the ground
+	as dormant seeds +...
+%mor:	pro:indef|some prep|of det:dem|those mod|do~neg|not v|germinate
+	coord|and v|stay det:art|a adj|second n|year prep|in det:art|the
+	n|ground adv|as adj|dormant n|seed-PL +...
+%gra:	1|0|INCROOT 2|1|NJCT 3|6|DET 4|6|AUX 5|4|NEG 6|2|POBJ 7|8|LINK 8|1|CJCT
+	9|11|DET 10|11|MOD 11|8|OBJ 12|8|JCT 13|14|DET 14|12|POBJ 15|16|JCT
+	16|17|MOD 17|8|OBJ 18|1|PUNCT
+*S1:	the flowering plant also produces some seeds that become small or
+	medium or large rosettes .
+%mor:	det:art|the part|flower-PRESP n|plant adv|also v|produce-3S qn|some
+	n|seed-PL pro:rel|that cop|become adj|small coord|or adj|medium
+	coord|or adj|large n|rosette-PL .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|9|LINK
+	9|7|CMOD 10|9|PRED 11|10|CONJ 12|11|COORD 13|9|CONJ 14|15|MOD 15|13|COORD
+	16|5|PUNCT
+*S1:	&-uh some of the dormant seeds can germinate and produce (.) small
+	medium and large rosettes (.) and likewise for the second year
+	dormant seeds .
+%mor:	pro:indef|some prep|of det:art|the adj|dormant n|seed-PL mod|can
+	v|germinate coord|and n|produce adj|small adj|medium coord|and
+	adj|large n|rosette-PL coord|and adv|likewise prep|for det:art|the
+	adj|second n|year adj|dormant n|seed-PL .
+%gra:	1|7|SUBJ 2|1|NJCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|AUX 7|0|ROOT 8|7|CONJ
+	9|8|COORD 10|11|MOD 11|9|POSTMOD 12|11|CONJ 13|14|MOD 14|12|COORD
+	15|7|CONJ 16|17|JCT 17|15|COORD 18|20|DET 19|20|MOD 20|22|MOD 21|22|MOD
+	22|17|POBJ 23|7|PUNCT
+*S1:	and then there are loops (.) for groups (.) for the small medium
+	and large rosettes indicating that they can stay as (.) small medium
+	and large or grow to the next larger size (.) or &-um with an arrow
+	pointing towards number six there (.) they can flower if they get
+	big enough .
+%mor:	coord|and adv:tem|then adv|there cop|be&PRES n|loop-PL prep|for
+	n|group-PL prep|for det:art|the adj|small adj|medium coord|and
+	adj|large n|rosette-PL part|indicate-PRESP comp|that pro:sub|they
+	mod|can v|stay prep|as adj|small adj|medium coord|and adj|large
+	coord|or v|grow prep|to det:art|the adj|next adj|large-CP n|size
+	coord|or prep|with det:art|a n|arrow part|point-PRESP prep|towards
+	n|number det:num|six adv|there pro:sub|they n|can n|flower conj|if
+	pro:sub|they v|get adj|big adv|enough .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|6|POBJ 8|4|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|CONJ 13|14|MOD 14|12|COORD 15|11|XMOD
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|15|COMP 20|22|COORD 21|22|MOD
+	22|19|JCT 23|22|CONJ 24|23|COORD 25|26|COORD 26|22|ENUM 27|22|JCT 28|31|DET
+	29|31|MOD 30|31|MOD 31|27|POBJ 32|22|CONJ 33|32|COORD 34|35|DET 35|33|POBJ
+	36|22|XMOD 37|36|JCT 38|39|MOD 39|43|QUANT 40|39|JCT 41|43|MOD 42|43|MOD
+	43|37|POBJ 44|46|LINK 45|46|SUBJ 46|22|CJCT 47|46|PRED 48|47|JCT
+	49|4|PUNCT
+*S1:	(0.8) this is the corresponding size based matrix model for teasel
+	.
+%mor:	pro:dem|this cop|be&3S det:art|the part|correspond-PRESP n|size
+	v|base-PAST n|matrix n|model prep|for n|teasel .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|6|SUBJ 6|2|CPRED 7|8|MOD 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|2|PUNCT
+*S1:	it has a different look than the other (.) models we've looked at .
+%mor:	pro:per|it aux|have&3S det:art|a adj|different v|look prep|than
+	det:art|the qn|other n|model-PL pro:sub|we~aux|have part|look-PASTP
+	prep|at .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|DET 4|5|MOD 5|0|ROOT 6|5|JCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|12|SUBJ 11|12|AUX 12|9|CMOD 13|12|JCT 14|5|PUNCT
+*S1:	there's a_lot more of the elements that are filled in (.) with
+	something besides zeros .
+%mor:	pro:exist|there~cop|be&3S adv|a_lot adv|more prep|of det:art|the
+	n|element-PL pro:rel|that aux|be&PRES part|fill-PASTP adv|in
+	prep|with pro:indef|something prep|besides n|zero-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|AUX 10|7|CMOD 11|10|JCT 12|10|JCT 13|12|POBJ 14|13|NJCT 15|14|POBJ
+	16|2|PUNCT
+*S1:	(0.5) lemme point out a couple things in the far right column .
+%mor:	v|let~pro:obj|me v|point prep|out det:art|a qn|couple n|thing-PL
+	prep|in det:art|the adj|far adj|right n|column .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|JCT 5|6|DET 6|7|QUANT 7|4|POBJ 8|7|NJCT
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|POBJ 13|1|PUNCT
+*S1:	this [/] this last column is the one for flowering plants .
+%mor:	det:dem|this adj|last n|column cop|be&3S det:art|the pro:indef|one
+	prep|for n:gerund|flower-PRESP n|plant-PL .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|4|PUNCT
+*S1:	notice that there's a zero at the bottom element there in the (.)
+	lower right .
+%mor:	v|notice comp|that pro:exist|there~cop|be&3S det:art|a n|zero
+	prep|at det:art|the n|bottom n|element adv|there prep|in det:art|the
+	v|lower co|right .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|6|DET 6|4|PRED 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|6|JCT 12|6|NJCT 13|14|DET 14|12|POBJ 15|6|COM
+	16|1|PUNCT
+*S1:	that's because this is a monocarpic &-uh species (.) it flowers (.)
+	none of those flowering ones survive .
+%mor:	pro:dem|that~cop|be&3S conj|because det:dem|this cop|be&3S
+	det:art|a adj|monocarpic n|species pro:per|it v|flower-3S
+	pro:indef|none prep|of det:dem|those n:gerund|flower-PRESP n|one-PL
+	v|survive .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|8|DET 7|8|MOD 8|5|PRED
+	9|10|SUBJ 10|8|CMOD 11|10|OBJ 12|11|NJCT 13|16|DET 14|16|LINK 15|16|SUBJ
+	16|12|POBJ 17|2|PUNCT
+*S1:	so the survival to the next period is zero .
+%mor:	co|so det:art|the n|survival prep|to det:art|the adj|next n|period
+	cop|be&3S det:num|zero .
+%gra:	1|8|COM 2|3|DET 3|8|SUBJ 4|3|NJCT 5|7|DET 6|7|MOD 7|4|POBJ 8|0|ROOT
+	9|8|PRED 10|8|PUNCT
+*S1:	this is in contrast to what we just looked at before for turtles
+	where we [//] <we actually> [//] we put a term in here to (.)
+	account for the fact that those adults were staying in the
+	population .
+%mor:	pro:dem|this cop|be&3S prep|in n|contrast prep|to pro:int|what
+	pro:sub|we adv|just v|look-PAST prep|at adv|before prep|for
+	n|turtle-PL pro:rel|where pro:sub|we v|put&ZERO det:art|a n|term
+	prep|in n|here inf|to v|account prep|for det:art|the n|fact adv|that
+	det:dem|those n|adult-PL aux|be&PAST part|stay-PRESP prep|in
+	det:art|the n|populate&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|9|LINK 7|9|SUBJ 8|9|JCT
+	9|5|CPOBJ 10|9|JCT 11|10|POBJ 12|11|JCT 13|12|POBJ 14|16|LINK 15|16|SUBJ
+	16|13|CMOD 17|18|DET 18|16|OBJ 19|16|JCT 20|19|POBJ 21|22|INF 22|16|XJCT
+	23|22|JCT 24|25|DET 25|23|POBJ 26|30|JCT 27|28|DET 28|30|SUBJ 29|30|AUX
+	30|22|XJCT 31|30|JCT 32|33|DET 33|31|POBJ 34|2|PUNCT
+*S1:	here they're all dying .
+%mor:	adv|here pro:sub|they~aux|be&PRES post|all part|die-PRESP .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*S1:	some of (th)em (.) &som some of those flowering plants produce
+	dormant seeds (.) they don't produce of_course any second year (.)
+	dormant seeds because you hafta be a dormant seed for one year
+	before you can be a second year dormant seed so that's what's this
+	&-uh transition over here .
+%mor:	pro:indef|some prep|of pro:obj|them pro:indef|some prep|of
+	det:dem|those part|flower-PRESP n|plant-PL n|produce adj|dormant
+	n|seed-PL pro:sub|they mod|do~neg|not v|produce co|of_course qn|any
+	adj|second n|year adj|dormant n|seed-PL conj|because pro:per|you
+	mod|have~inf|to cop|be det:art|a adj|dormant n|seed prep|for
+	pro:indef|one n|year conj|before pro:per|you mod|can cop|be
+	det:art|a adj|second n|year adj|dormant n|seed co|so
+	pro:dem|that~cop|be&3S pro:int|what~cop|be&3S det:dem|this
+	n|transition prep|over n|here .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|3|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|9|MOD
+	9|11|MOD 10|11|MOD 11|7|OBJ 12|15|SUBJ 13|15|AUX 14|13|NEG 15|11|CMOD
+	16|21|COM 17|19|QUANT 18|19|MOD 19|21|MOD 20|21|MOD 21|15|OBJ 22|26|LINK
+	23|26|SUBJ 24|26|AUX 25|26|INF 26|1|CJCT 27|29|DET 28|29|MOD 29|26|PRED
+	30|29|NJCT 31|32|SUBJ 32|30|POBJ 33|36|LINK 34|36|SUBJ 35|36|AUX
+	36|26|CJCT 37|39|DET 38|39|MOD 39|41|MOD 40|41|MOD 41|36|PRED 42|44|COM
+	43|44|SUBJ 44|36|CJCT 45|46|SUBJ 46|44|PRED 47|48|DET 48|46|PRED 49|48|NJCT
+	50|49|POBJ 51|1|PUNCT
+*S1:	then &-uh but it can produce some small or medium and large
+	rosettes .
+%mor:	adv:tem|then conj|but pro:per|it mod|can v|produce qn|some
+	adj|small coord|or adj|medium coord|and adj|large n|rosette-PL .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|7|QUANT 7|5|JCT
+	8|7|CONJ 9|8|COORD 10|5|CONJ 11|12|MOD 12|10|COORD 13|1|PUNCT
+*S1:	&-uh (0.5) and the rest of these terms indicate the [/] the &-uh
+	transitions to the different sizes .
+%mor:	coord|and det:art|the n|rest prep|of det:dem|these n|term-PL
+	v|indicate det:art|the n|transition-PL prep|to det:art|the
+	adj|different n|size-PL .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|7|PUNCT
+*S1:	the ones along the diagonal are the (.) probability of staying in
+	that particular size .
+%mor:	det:art|the n|one-PL prep|along det:art|the n|diagonal cop|be&PRES
+	det:art|the n|probable&dadj-ITY prep|of part|stay-PRESP prep|in
+	det:dem|that adj|particular n|size .
+%gra:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|NJCT 10|9|POBJ 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|6|PUNCT
+*S1:	the ones on the subdiagonal are the transitions to the next one
+	+...
+%mor:	det:art|the n|one-PL prep|on det:art|the sub#n|diagonal cop|be&PRES
+	det:art|the n|transition-PL prep|to det:art|the adj|next
+	pro:indef|one +...
+%gra:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|6|PUNCT
+*S1:	(o)kay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	is that +//.
+%mor:	cop|be&3S pro:dem|that +//.
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*S1:	you see how that corresponds to the &-uh life cycle (.) graph there
+	?
+%mor:	pro:per|you v|see pro:int|how pro:dem|that v|correspond-3S prep|to
+	det:art|the n|life n|cycle n|graph adv|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|JCT 7|10|DET 8|9|MOD
+	9|10|MOD 10|6|POBJ 11|5|JCT 12|2|PUNCT
+*S1:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	I'm seeing quite a few heads nodding .
+%mor:	pro:sub|I~aux|be&1S part|see-PRESP adv|quite det:art|a n|few
+	v|head-3S part|nod-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|JCT 5|6|DET 6|7|SUBJ 7|3|COMP 8|7|COMP
+	9|3|PUNCT
+*S1:	good +...
+%mor:	adj|good +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	we can do an Eigen value analysis with the (.) stage based models
+	just like we did with the age based models +...
+%mor:	pro:sub|we mod|can v|do det:art|a n:prop|Eigen n|value n|analysis
+	prep|with det:art|the n|stage v|base-PAST n|model-PL adj|just
+	co|like pro:sub|we mod|do&PAST prep|with det:art|the n|age
+	v|base-PAST n|model-PL +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|7|NJCT
+	9|10|DET 10|11|SUBJ 11|8|POBJ 12|20|SUBJ 13|20|JCT 14|20|COM 15|20|SUBJ
+	16|20|AUX 17|20|JCT 18|19|DET 19|20|SUBJ 20|11|COMP 21|20|OBJ 22|3|PUNCT
+*S1:	to remind you of the definition here a vector X with the property
+	that matrix multiplication is equivalent to scalar multiplication
+	(.) so that the matrix times that special vector is equal to (.) a
+	scalar times that special vector (.) for some scalar lambda (.) it's
+	called an Eigen vector of the matrix and the scalar is the Eigen
+	value .
+%mor:	inf|to v|remind pro:per|you prep|of det:art|the n|definition
+	adv|here det:art|a n|vector n:prop|X prep|with det:art|the
+	n|property det:dem|that n|matrix n|multiplication cop|be&3S
+	adj|equivalent prep|to adj|scalar n|multiplication adv|so comp|that
+	det:art|the n|matrix v|time-3S pro:dem|that adj|special n|vector
+	cop|be&3S adj|equal prep|to det:art|a adj|scalar n|time-PL
+	pro:dem|that adj|special n|vector prep|for qn|some adj|scalar
+	n|lambda pro:per|it~aux|be&3S part|call-PASTP det:art|a n:prop|Eigen
+	n|vector prep|of det:art|the n|matrix coord|and det:art|the
+	adj|scalar aux|be&3S det:art|the n:prop|Eigen n|value .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|17|JCT 8|9|DET
+	9|17|SUBJ 10|17|JCT 11|10|NJCT 12|13|DET 13|11|POBJ 14|16|DET 15|16|MOD
+	16|17|SUBJ 17|2|COMP 18|17|PRED 19|18|JCT 20|21|MOD 21|19|POBJ 22|26|JCT
+	23|26|LINK 24|25|DET 25|26|SUBJ 26|17|CPRED 27|29|DET 28|29|MOD 29|30|SUBJ
+	30|26|COMP 31|30|PRED 32|31|JCT 33|35|DET 34|35|MOD 35|32|POBJ 36|38|DET
+	37|38|MOD 38|35|OBJ 39|38|NJCT 40|42|QUANT 41|42|MOD 42|39|POBJ
+	43|45|SUBJ 44|45|AUX 45|42|CMOD 46|48|DET 47|48|MOD 48|45|OBJ 49|48|NJCT
+	50|51|DET 51|49|POBJ 52|42|CONJ 53|54|DET 54|58|SUBJ 55|58|AUX 56|58|DET
+	57|58|MOD 58|52|COORD 59|2|PUNCT
+*S1:	(0.4) so the &an analysis is the same as for age based matrices the
+	right Eigen vector of the matrix is the stable (.) size distribution
+	or stable (.) stage distribution of the population .
+%mor:	co|so det:art|the n|analysis cop|be&3S det:art|the adj|same adv|as
+	prep|for n|age v|base-PAST n|matrix&PL det:art|the adj|right
+	n:prop|Eigen n|vector prep|of det:art|the n|matrix cop|be&3S
+	det:art|the adj|stable n|size n|distribute&dv-TION coord|or
+	adj|stable n|stage n|distribute&dv-TION prep|of det:art|the
+	n|populate&dv-TION .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|10|COORD 8|10|JCT
+	9|8|POBJ 10|6|CMOD 11|19|COM 12|15|DET 13|15|MOD 14|15|MOD 15|19|SUBJ
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|10|COMP 20|23|DET 21|23|MOD 22|23|MOD
+	23|19|PRED 24|23|CONJ 25|27|MOD 26|27|MOD 27|24|COORD 28|27|NJCT
+	29|30|DET 30|28|POBJ 31|4|PUNCT
+*S1:	the left Eigen vector (.) gives the reproductive values for each
+	size or stage (.) of the population and the dominant Eigen value (.)
+	is the discrete growth factor or lambda (.) for that population +...
+%mor:	det:art|the adj|left n:prop|Eigen n|vector v|give-3S det:art|the
+	adj|reproductive n|value-PL prep|for qn|each n|size coord|or n|stage
+	prep|of det:art|the n|populate&dv-TION coord|and det:art|the
+	adj|dominant n:prop|Eigen n|value cop|be&3S det:art|the adj|discrete
+	n|growth n|factor coord|or n|lambda prep|for det:dem|that
+	n|populate&dv-TION +...
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|11|QUANT 11|9|POBJ 12|11|CONJ 13|12|COORD 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|22|LINK 18|21|DET 19|21|MOD 20|21|MOD 21|22|SUBJ 22|5|CJCT
+	23|26|DET 24|25|MOD 25|26|MOD 26|22|PRED 27|26|CONJ 28|27|COORD
+	29|26|NJCT 30|31|DET 31|29|POBJ 32|5|PUNCT
+*S1:	so it's just the same (.) when we're talking about these stage
+	based matrices .
+%mor:	co|so pro:per|it~cop|be&3S adj|just det:art|the adj|same
+	pro:rel|when pro:sub|we~aux|be&PRES part|talk-PRESP prep|about
+	det:dem|these n|stage v|base-PAST n|matrix&PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|7|DET 6|7|MOD 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|4|CMOD 11|14|JCT 12|13|DET 13|14|SUBJ 14|10|COMP 15|14|OBJ
+	16|3|PUNCT
+*S1:	for the teasel population &th the population growth rate (.) lambda
+	is two point thirty two [/] two per year .
+%mor:	prep|for det:art|the n|teasel n|populate&dv-TION det:art|the
+	n|populate&dv-TION n|growth n|rate n|lambda cop|be&3S det:num|two
+	n|point det:num|thirty det:num|two prep|per n|year .
+%gra:	1|10|LINK 2|4|DET 3|4|MOD 4|10|SUBJ 5|9|DET 6|9|MOD 7|9|MOD 8|9|MOD
+	9|10|SUBJ 10|0|ROOT 11|12|QUANT 12|10|PRED 13|14|QUANT 14|12|POSTMOD
+	15|14|JCT 16|15|POBJ 17|10|PUNCT
+*S1:	so it's more than doubling each (.) year .
+%mor:	adv|so pro:per|it~cop|be&3S qn|more prep|than n:gerund|double-PRESP
+	qn|each n|year .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|5|POBJ 7|8|QUANT 8|6|OBJ
+	9|3|PUNCT
+*S1:	each female is producing (.) two point three (.) females per year .
+%mor:	qn|each n|female aux|be&3S part|produce-PRESP det:num|two n|point
+	det:num|three n|female-PL prep|per n|year .
+%gra:	1|2|QUANT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|8|QUANT 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|4|PUNCT
+*S1:	at the stable stage distribution ninety percent of the population
+	(.) is in dormant seeds +...
+%mor:	prep|at det:art|the adj|stable n|stage n|distribute&dv-TION
+	det:num|ninety n|percent prep|of det:art|the n|populate&dv-TION
+	cop|be&3S prep|in adj|dormant n|seed-PL +...
+%gra:	1|11|LINK 2|5|DET 3|5|MOD 4|5|MOD 5|11|SUBJ 6|7|QUANT 7|11|SUBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|0|ROOT 12|11|JCT 13|14|MOD 14|12|POBJ
+	15|11|PUNCT
+*S1:	the flowering plant has the highest reproductive value +...
+%mor:	det:art|the part|flower-PRESP n|plant v|have&3S det:art|the
+	adj|high-SP adj|reproductive n|value +...
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+*S1:	so here's the numerical results of the teasel matrix analysis .
+%mor:	adv|so pro:exist|here~cop|be&3S det:art|the adj|numeric-AL
+	n|result-PL prep|of det:art|the n|teasel n|matrix n|analysis .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|11|DET
+	9|11|MOD 10|11|MOD 11|7|POBJ 12|3|PUNCT
+*S1:	there's the six stages and their names .
+%mor:	pro:exist|there~cop|be&3S det:art|the det:num|six n|stage-PL
+	coord|and det:poss|their n|name-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|PRED 6|5|CONJ 7|8|DET 8|6|COORD
+	9|2|PUNCT
+*S1:	here's the stable stage distribution .
+%mor:	pro:exist|here~cop|be&3S det:art|the adj|stable n|stage
+	n|distribute&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+*S1:	notice that (.) about sixty four percent of the population is in
+	the dormant (.) first year dormant seed category .
+%mor:	v|notice pro:dem|that prep|about det:num|sixty det:num|four
+	n|percent prep|of det:art|the n|populate&dv-TION cop|be&3S prep|in
+	det:art|the adj|dormant adj|first n|year adj|dormant n|seed
+	n|category .
+%gra:	1|0|ROOT 2|1|OBJ 3|10|JCT 4|6|QUANT 5|6|QUANT 6|3|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|1|CJCT 11|10|JCT 12|15|DET 13|15|MOD 14|15|MOD 15|18|MOD
+	16|18|MOD 17|18|MOD 18|11|POBJ 19|1|PUNCT
+*S1:	and &-uh almost twenty seven percent of the population is in the
+	second year dormant seed category +...
+%mor:	coord|and adv|almost det:num|twenty det:num|seven n|percent prep|of
+	det:art|the n|populate&dv-TION cop|be&3S prep|in det:art|the
+	adj|second n|year adj|dormant n|seed n|category +...
+%gra:	1|5|LINK 2|3|JCT 3|5|QUANT 4|5|QUANT 5|9|SUBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|0|ROOT 10|9|JCT 11|13|DET 12|13|MOD 13|16|MOD 14|16|MOD 15|16|MOD
+	16|10|POBJ 17|9|PUNCT
+*S1:	among the [/] the green part of the population (.) the largest
+	fraction is in the medium rosette category .
+%mor:	prep|among det:art|the adj|green n|part prep|of det:art|the
+	n|populate&dv-TION det:art|the adj|large-SP n|fraction cop|be&3S
+	prep|in det:art|the adj|medium n|rosette n|category .
+%gra:	1|11|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|10|DET
+	9|10|MOD 10|11|SUBJ 11|0|ROOT 12|11|JCT 13|16|DET 14|16|MOD 15|16|MOD
+	16|12|POBJ 17|11|PUNCT
+*S1:	and the flowering plants are the smallest numerical category <of
+	that> [/] of that whole population .
+%mor:	coord|and det:art|the part|flower-PRESP n|plant-PL cop|be&PRES
+	det:art|the adj|small-SP adj|numeric-AL n|category prep|of
+	det:dem|that adj|whole n|populate&dv-TION .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|PRED 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|5|PUNCT
+*S1:	and if (.) once it reaches this stable stage distribution these
+	would be the proportions that you'd expect .
+%mor:	coord|and conj|if conj|once pro:per|it v|reach-3S det:dem|this
+	adj|stable n|stage n|distribute&dv-TION pro:dem|these mod|will&COND
+	cop|be det:art|the n|proportion-PL pro:rel|that
+	pro:per|you~mod|genmod v|expect .
+%gra:	1|12|LINK 2|12|LINK 3|5|LINK 4|5|SUBJ 5|12|CJCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|OBJ 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|14|DET 14|12|PRED 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|14|CMOD 19|12|PUNCT
+*S1:	the last column shows the reproductive value for an individual by
+	stage .
+%mor:	det:art|the adj|last n|column v|show-3S det:art|the
+	adj|reproductive n|value prep|for det:art|a adj|individual prep|by
+	n|stage .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|10|JCT 12|11|POBJ 13|4|PUNCT
+*S1:	and as you might expect (.) the flowering plants stage is has the
+	highest reproductive value .
+%mor:	coord|and conj|as pro:per|you mod|might v|expect det:art|the
+	part|flower-PRESP n|plant-PL n|stage cop|be&3S v|have&3S det:art|the
+	adj|high-SP adj|reproductive n|value .
+%gra:	1|11|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|11|CJCT 6|9|DET 7|8|XMOD 8|9|MOD
+	9|5|OBJ 10|11|AUX 11|0|ROOT 12|15|DET 13|15|MOD 14|15|MOD 15|11|OBJ
+	16|11|PUNCT
+*S1:	(0.7) (o)kay (.) any questions ?
+%mor:	co|okay qn|any n|question-PL ?
+%gra:	1|3|COM 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*S1:	(0.6) (o)kay in summing up here lemme briefly mention some of the
+	assumptions of these age and stage based matrix models both assume
+	that there's a [/] &l a linear effect of the number (.) in each
+	category (.) on the numbers of births and deaths .
+%mor:	co|okay adv|in n:gerund|sum-PRESP prep|up n|here v|let~pro:obj|me
+	adv|brief&dadj-LY n|mention qn|some prep|of det:art|the
+	n|assumption-PL prep|of det:dem|these n|age coord|and n|stage
+	v|base-PAST n|matrix v|model-3S post|both v|assume comp|that
+	pro:exist|there~cop|be&3S det:art|a adj|linear n|effect prep|of
+	det:art|the n|number prep|in qn|each n|category prep|on det:art|the
+	n|number-PL prep|of n|birth-PL coord|and n|death-PL .
+%gra:	1|3|COM 2|3|JCT 3|23|SUBJ 4|3|JCT 5|4|POBJ 6|23|JCT 7|6|OBJ 8|9|JCT
+	9|23|SUBJ 10|19|QUANT 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|10|CONJ 18|17|COORD 19|9|CMOD 20|19|OBJ 21|20|CMOD 22|21|PQ
+	23|0|ROOT 24|26|LINK 25|26|SUBJ 26|23|COMP 27|29|DET 28|29|MOD
+	29|26|PRED 30|29|NJCT 31|32|DET 32|30|POBJ 33|29|NJCT 34|35|QUANT 35|33|POBJ
+	36|29|NJCT 37|38|DET 38|36|POBJ 39|38|NJCT 40|39|POBJ 41|40|CONJ
+	42|41|COORD 43|23|PUNCT
+*S1:	mkay we're [/] we're having constant [/] constant values for
+	survival (.) and reproduction (.) per individual .
+%mor:	co|mkay pro:sub|we~aux|be&PRES part|have-PRESP n|constant
+	v|value-3S prep|for n|survival coord|and re#n|production prep|per
+	n|individual .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|6|CONJ 10|9|COORD 11|10|JCT 12|11|POBJ 13|4|PUNCT
+*S1:	we're not including any kind of density dependence yet (.) in these
+	.
+%mor:	pro:sub|we~aux|be&PRES neg|not part|include-PRESP qn|any n|kind
+	prep|of n|density n|dependence conj|yet adv|in det:dem|these .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|4|PUNCT 11|12|JCT 12|10|INCROOT 13|12|PUNCT
+*S1:	and the parameters are constant .
+%mor:	coord|and det:art|the n|parameter-PL cop|be&PRES adj|constant .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*S1:	but of_course the real world is not really linear .
+%mor:	conj|but co|of_course det:art|the adj|real n|world cop|be&3S
+	neg|not adv|real&dadj-LY adj|linear .
+%gra:	1|6|LINK 2|6|COM 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|NEG 8|9|JCT
+	9|6|PRED 10|6|PUNCT
+*S1:	at least not all the time .
+%mor:	prep|at n|least neg|not qn|all det:art|the n|time .
+%gra:	1|6|JCT 2|1|POBJ 3|6|NEG 4|6|QUANT 5|6|DET 6|0|INCROOT 7|6|PUNCT
+*S1:	and conditions do change +...
+%mor:	coord|and n|condition-PL mod|do v|change +...
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*S1:	so you hafta be cautious in interpreting the results of these
+	matrix manipulations we're (.) you only are calling this a true
+	prediction about what's gonna happen if you believe that these
+	things are true .
+%mor:	co|so pro:per|you mod|have~inf|to cop|be adj|cautious prep|in
+	part|interpret-PRESP det:art|the n|result-PL prep|of det:dem|these
+	n|matrix n|manipulate&dv-TION-PL pro:sub|we~aux|be&PRES pro:per|you
+	adv|only aux|be&PRES part|call-PRESP det:dem|this det:art|a n|true
+	n|prediction prep|about pro:int|what~aux|be&3S part|go-PRESP~inf|to
+	v|happen comp|if pro:per|you v|believe adv|that det:dem|these
+	n|thing-PL cop|be&PRES n|true .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|INF 5|20|CJCT 6|5|PRED 7|5|JCT 8|7|POBJ
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ 15|20|SUBJ
+	16|20|AUX 17|20|SUBJ 18|20|JCT 19|20|AUX 20|0|ROOT 21|24|DET 22|24|DET
+	23|24|MOD 24|20|OBJ 25|28|JCT 26|28|SUBJ 27|28|AUX 28|20|CJCT 29|30|INF
+	30|28|COMP 31|33|LINK 32|33|SUBJ 33|30|COMP 34|37|JCT 35|36|DET 36|37|SUBJ
+	37|33|COMP 38|37|PRED 39|20|PUNCT
+*S1:	that there's no density dependence and that the parameters are
+	gonna remain constant you're &g are gonna have constant survival (.)
+	and &fe fecundity &-uh if that's true you &c will be able to make a
+	prediction .
+%mor:	comp|that pro:exist|there~cop|be&3S qn|no n|density n|dependence
+	coord|and comp|that det:art|the n|parameter-PL aux|be&PRES
+	part|go-PRESP~inf|to v|remain adj|constant pro:per|you~aux|be&PRES
+	aux|be&PRES part|go-PRESP~inf|to v|have adj|constant n|survival
+	coord|and n|fecundity conj|if pro:dem|that~cop|be&3S adj|true
+	pro:per|you mod|will cop|be adj|able inf|to v|make det:art|a
+	n|prediction .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|6|MOD 6|3|PRED 7|3|CONJ
+	8|12|LINK 9|10|DET 10|12|SUBJ 11|12|AUX 12|7|COORD 13|14|INF 14|12|COMP
+	15|14|PRED 16|19|SUBJ 17|19|AUX 18|19|AUX 19|15|CMOD 20|21|INF 21|19|COMP
+	22|23|MOD 23|21|OBJ 24|23|CONJ 25|24|COORD 26|28|LINK 27|28|SUBJ 28|12|CJCT
+	29|28|PRED 30|32|SUBJ 31|32|AUX 32|29|CMOD 33|32|PRED 34|35|INF 35|33|XMOD
+	36|37|DET 37|35|OBJ 38|3|PUNCT
+*S1:	but if it's not gonna be true (.) it still represents (.) the
+	description of the current population conditions and as [/] &th as
+	those numbers exist today (.) this is the direction in which that
+	population is moving (.) and where it would be heading (.) if &th
+	things did remain constant .
+%mor:	conj|but conj|if pro:per|it~aux|be&3S neg|not part|go-PRESP~inf|to
+	cop|be adj|true pro:per|it adj|still v|represent-3S det:art|the
+	n|description prep|of det:art|the adj|current n|populate&dv-TION
+	n|condition-PL coord|and prep|as det:dem|those n|number-PL v|exist
+	adv:tem|today pro:dem|this cop|be&3S det:art|the n|direction prep|in
+	pro:rel|which adv|that n|populate&dv-TION aux|be&3S part|move-PRESP
+	coord|and pro:int|where pro:per|it mod|will&COND aux|be
+	part|head-PRESP comp|if n|thing-PL mod|do&PAST v|remain n|constant .
+%gra:	1|6|LINK 2|6|LINK 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|PRED 10|12|SUBJ 11|12|JCT 12|9|CMOD 13|14|DET 14|12|OBJ 15|14|NJCT
+	16|19|DET 17|18|MOD 18|19|MOD 19|15|POBJ 20|19|CONJ 21|24|COORD 22|23|DET
+	23|21|POBJ 24|20|COORD 25|24|JCT 26|27|SUBJ 27|24|COMP 28|29|DET
+	29|27|PRED 30|29|NJCT 31|35|LINK 32|35|JCT 33|35|SUBJ 34|35|AUX 35|30|POBJ
+	36|35|CONJ 37|41|LINK 38|41|SUBJ 39|41|AUX 40|41|AUX 41|36|COORD 42|45|LINK
+	43|45|SUBJ 44|45|AUX 45|41|COMP 46|45|OBJ 47|6|PUNCT
+*S1:	so I think that's the &-uh a real take+home message here that (.)
+	it's still valuable even if it's not a true prediction it still
+	gives you insight into what's going on in this population &-uh what
+	parts of the population are &-uh contribute most to the population
+	growth rate .
+%mor:	co|so pro:sub|I v|think pro:dem|that~cop|be&3S det:art|the
+	det:art|a adj|real n|+v|take+n|home n|message adv|here adv|that
+	pro:per|it~cop|be&3S adv|still n|valuable adj|even conj|if
+	pro:per|it~cop|be&3S neg|not det:art|a n|true n|prediction
+	pro:per|it adv|still v|give-3S pro:per|you n|insight prep|into
+	pro:int|what~aux|be&3S part|go-PRESP adv|on prep|in det:dem|this
+	n|populate&dv-TION pro:int|what n|part-PL prep|of det:art|the
+	n|populate&dv-TION cop|be&PRES v|contribute qn|most prep|to
+	det:art|the n|populate&dv-TION n|growth n|rate .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|10|DET 7|10|DET 8|9|MOD
+	9|10|MOD 10|14|SUBJ 11|14|JCT 12|14|JCT 13|14|SUBJ 14|5|PRED 15|16|JCT
+	16|14|PRED 17|16|PRED 18|20|LINK 19|20|SUBJ 20|17|CMOD 21|20|NEG 22|24|DET
+	23|24|MOD 24|20|PRED 25|27|SUBJ 26|25|JCT 27|24|CMOD 28|29|SUBJ
+	29|27|OBJ 30|20|JCT 31|33|SUBJ 32|33|AUX 33|30|CPOBJ 34|33|JCT 35|33|JCT
+	36|37|DET 37|35|POBJ 38|39|DET 39|43|CSUBJ 40|39|NJCT 41|42|DET 42|40|POBJ
+	43|33|COMP 44|43|PRED 45|44|OBJ 46|45|JCT 47|50|DET 48|50|MOD 49|50|MOD
+	50|46|POBJ 51|3|PUNCT
+*S1:	give you some ideas about what's &w &-uh important to consider in
+	the management of those populations .
+%mor:	v|give pro:per|you qn|some n|idea-PL prep|about
+	pro:int|what~cop|be&3S adj|important inf|to v|consider prep|in
+	det:art|the n|manage&dv-MENT prep|of det:dem|those
+	n|populate&dv-TION-PL .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|QUANT 4|1|OBJ 5|7|JCT 6|7|SUBJ 7|1|CJCT 8|7|PRED
+	9|10|INF 10|8|XMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|1|PUNCT
+*S1:	(0.6) okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	I think that's (.) I think that's the last one .
+%mor:	pro:sub|I v|think comp|that~aux|be&3S pro:sub|I v|think
+	pro:dem|that~cop|be&3S det:art|the adj|last pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|2|COMP 7|8|SUBJ 8|6|COMP
+	9|11|DET 10|11|MOD 11|8|PRED 12|2|PUNCT
+*S1:	yeah (.) okay any [/] any further questions ?
+%mor:	co|yeah co|okay qn|any adv|further n|question-PL ?
+%gra:	1|2|COM 2|5|COM 3|5|QUANT 4|5|JCT 5|0|INCROOT 6|5|PUNCT
+*S1:	(0.4) have a good weekend .
+%mor:	v|have det:art|a adj|good n|+n|week+n|end .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*S1:	next week we'll talk about &-uh human populations and (.) allometry
+	.
+%mor:	adv|next n|week pro:sub|we~mod|will v|talk prep|about n|human
+	n|populate&dv-TION-PL coord|and n|allometry .
+%gra:	1|2|JCT 2|0|INCROOT 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|8|CONJ 10|9|COORD 11|2|PUNCT
+*S1:	xxx .
+*S4:	whenever you talk about those turtle populations I always think
+	about the &-uh study that grad student from Central Michigan was
+	doing on wood turtles in Manistee National Forest (.) while we were
+	up there .
+%mor:	conj|whenever pro:per|you v|talk prep|about det:dem|those n|turtle
+	n|populate&dv-TION-PL pro:sub|I adv|always v|think prep|about
+	det:art|the n|study det:dem|that n|grad n|student prep|from
+	n:prop|Central n:prop|Michigan aux|be&PAST&13S part|do-PRESP prep|on
+	n|wood n|turtle-PL prep|in n:prop|Manistee n:prop|National
+	n:prop|Forest conj|while pro:sub|we cop|be&PAST prep|up n|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|10|CJCT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|10|SUBJ
+	9|10|JCT 10|0|ROOT 11|10|JCT 12|13|DET 13|28|SUBJ 14|16|DET 15|16|MOD
+	16|21|CJCT 17|16|NJCT 18|17|POBJ 19|21|SUBJ 20|21|AUX 21|28|XJCT 22|21|JCT
+	23|24|MOD 24|22|POBJ 25|24|NJCT 26|25|POBJ 27|28|NAME 28|11|POBJ
+	29|31|LINK 30|31|SUBJ 31|10|CJCT 32|31|JCT 33|32|POBJ 34|10|PUNCT
+*S1:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	+, she said she (.) didn't find a single nest that had survived
+	raccoon predation (.) didn't find any turtles that were younger than
+	ten years old .
+%mor:	pro:sub|she v|say&PAST pro:sub|she mod|do&PAST~neg|not v|find
+	det:art|a adj|single n|nest pro:rel|that aux|have&PAST
+	part|survive-PASTP n|raccoon pre#n|date&dv-TION mod|do&PAST~neg|not
+	v|find qn|any n|turtle-PL pro:rel|that cop|be&PAST adj|young-CP
+	prep|than det:num|ten n|year-PL adj|old .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|9|DET 8|9|MOD
+	9|17|SUBJ 10|12|LINK 11|12|AUX 12|17|XJCT 13|12|OBJ 14|17|SUBJ 15|17|AUX
+	16|15|NEG 17|6|COMP 18|19|QUANT 19|17|OBJ 20|21|LINK 21|19|CMOD 22|21|PRED
+	23|22|JCT 24|25|QUANT 25|26|MOD 26|23|POBJ 27|2|PUNCT
+*S1:	oh boy .
+%mor:	co|oh n|boy .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S4:	yeah +...
+%mor:	co|yeah +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &tha that's just a real life style that depends on keeping
+	trying (.) reproducing and eventually hope we get a (.) successful
+	clutch .
+%mor:	pro:dem|that~cop|be&3S adv|just det:art|a adj|real n|life n|style
+	pro:rel|that v|depend-3S adv|on part|keep-PRESP part|try-PRESP
+	re#n:gerund|produce-PRESP coord|and adv|eventual&dadj-LY v|hope
+	pro:sub|we v|get det:art|a adj|success&dn-FULL n|clutch .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|JCT 4|7|DET 5|6|MOD 6|7|MOD 7|2|PRED 8|9|LINK
+	9|7|CMOD 10|9|JCT 11|9|XJCT 12|18|XJCT 13|12|OBJ 14|13|CONJ 15|16|JCT
+	16|14|COORD 17|18|SUBJ 18|11|COMP 19|21|DET 20|21|MOD 21|18|OBJ 22|2|PUNCT
+*S4:	<the raccoon> [/] the raccoon population is just so high +...
+%mor:	det:art|the n|raccoon n|populate&dv-TION cop|be&3S adv|just adv|so
+	adj|high +...
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|7|JCT 7|4|PRED 8|4|PUNCT
+*S1:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	I remembered this person [?] .
+%mor:	pro:sub|I v|remember-PAST det:dem|this n|person .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*S1:	somebody else asked about that too and I can't remember who it was
+	.
+%mor:	pro:indef|somebody post|else v|ask-PAST prep|about pro:dem|that
+	adv|too coord|and pro:sub|I mod|can~neg|not v|remember pro:int|who
+	pro:per|it cop|be&PAST&13S .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|3|CJCT 12|14|LINK 13|14|SUBJ 14|11|COMP 15|3|PUNCT
+*S4:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*S4:	&w .
+*S1:	have [/] &a have a good weekend .
+%mor:	v|have det:art|a adj|good n|+n|week+n|end .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+@End

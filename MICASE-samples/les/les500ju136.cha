@@ -1,0 +1,2556 @@
+@UTF8
+@PID:	11312/a-00010207-1
+@Begin
+@Languages:	eng
+@Participants:	S1 Instructor Teacher, S2 Student Student, S3 Student
+	Student, S4 Student Student, SS Student Student
+@ID:	eng|MICASE|S1|60;|male|NS||Teacher|SF||
+@ID:	eng|MICASE|S2|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|S3|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|S4|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|SS|||NS||Student|JU||
+@Media:	les500ju136, audio, unlinked
+@Date:	20-FEB-2001
+@Situation:	Classroom, Dennison Hall
+*S2:	⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ Sarah ⌋ (.) huh ?
+%mor:	n:prop|Sarah co|huh ?
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*S2:	+, who ?
+%mor:	pro:rel|who ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, Sarah Bruner you ?
+%mor:	n:prop|Sarah n:prop|Bruner pro:per|you ?
+%gra:	1|2|NAME 2|0|ROOT 3|2|OBJ2 4|2|PUNCT
+*S2:	that would be me .
+%mor:	pro:dem|that mod|will&COND cop|be pro:obj|me .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S1:	yup &-uh I found the article (.) that &-uh I actually (.) I ran
+	into it (.) this weekend (.) that &-uh supported your point about
+	&-uh the stereotype threat for white males .
+%mor:	co|yup pro:sub|I v|find&PAST det:art|the n|article pro:rel|that
+	pro:sub|I adv|actual&dadj-LY pro:sub|I v|run&PAST prep|into
+	pro:per|it det:dem|this n|+n|week+n|end pro:rel|that v|support-PAST
+	det:poss|your n|point prep|about det:art|the n|stereotype n|threat
+	prep|for adj|white n|male-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|10|LINK 7|10|SUBJ 8|10|JCT
+	9|10|SUBJ 10|5|CMOD 11|10|JCT 12|11|POBJ 13|14|DET 14|10|JCT 15|16|LINK
+	16|5|CMOD 17|18|DET 18|16|OBJ 19|16|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|22|NJCT 24|25|MOD 25|23|POBJ 26|3|PUNCT
+*S1:	&-uh didn't you make that point when we were talking about
+	stereotype vulnerability ?
+%mor:	mod|do&PAST~neg|not pro:per|you v|make det:dem|that n|point
+	conj|when pro:sub|we aux|be&PAST part|talk-PRESP prep|about
+	n|stereotype n|vulnerable&dadj-ITY ?
+%gra:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|4|CJCT 11|10|JCT 12|13|MOD 13|11|POBJ 14|4|PUNCT
+*S2:	about (.) it being helpful to certain groups ?
+%mor:	prep|about pro:per|it part|be-PRESP adj|help&dn-FULL prep|to
+	adj|certain n|group-PL ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|XMOD 4|3|JCT 5|3|JCT 6|7|MOD 7|5|POBJ
+	8|1|PUNCT
+*S1:	oh yeah I guess that would (.) you're right I'm sorry .
+%mor:	co|oh co|yeah pro:sub|I v|guess pro:dem|that mod|will&COND
+	pro:per|you~cop|be&PRES adj|right pro:sub|I~cop|be&1S adj|sorry .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|8|SUBJ 8|4|COMP
+	9|11|JCT 10|11|SUBJ 11|8|PRED 12|11|PRED 13|4|PUNCT
+*S1:	this is about Asian_Americans .
+%mor:	pro:dem|this cop|be&3S prep|about n:prop|Asian_Americans .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*S2:	okay +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, yep and the study (.) that <was done> [/] was done at
+	Northwestern (.) and what they did was to make &-uh they took a
+	group of Asian women (.) saw how they performed without any
+	particular cues on a test (.) then they &-uh cued (.) identity as
+	females .
+%mor:	co|yep coord|and det:art|the n|study pro:rel|that aux|be&PAST&13S
+	part|do&PASTP prep|at n:prop|Northwestern coord|and pro:int|what
+	pro:sub|they mod|do&PAST aux|be&PAST&13S inf|to v|make pro:sub|they
+	v|take&PAST det:art|a n|group prep|of n:prop|Asian n|woman&PL
+	v|see&PAST pro:int|how pro:sub|they v|perform-PAST prep|without
+	qn|any n|particular n|cue-PL prep|on det:art|a n|test adv:tem|then
+	pro:sub|they v|cue-PAST n|identity prep|as n|female-PL .
+%gra:	1|7|COM 2|1|CONJ 3|4|DET 4|2|COORD 5|7|LINK 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|CONJ 11|16|LINK 12|16|SUBJ 13|16|AUX 14|16|AUX 15|16|INF
+	16|10|COORD 17|18|SUBJ 18|16|COMP 19|20|DET 20|18|OBJ 21|20|NJCT 22|21|POBJ
+	23|24|SUBJ 24|20|CMOD 25|27|LINK 26|27|SUBJ 27|24|COBJ 28|27|JCT
+	29|30|QUANT 30|31|MOD 31|28|POBJ 32|31|NJCT 33|34|DET 34|32|POBJ 35|37|JCT
+	36|37|SUBJ 37|24|CJCT 38|37|OBJ 39|37|JCT 40|39|POBJ 41|7|PUNCT
+*S1:	and this test was something that &-uh was particularly (.) male
+	oriented .
+%mor:	coord|and det:dem|this n|test cop|be&PAST&13S pro:indef|something
+	pro:rel|that aux|be&PAST&13S adv|particular&dadj-LY n|male
+	part|orient-PASTP .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|10|LINK 7|10|AUX 8|10|JCT
+	9|10|MOD 10|5|CMOD 11|4|PUNCT
+*S1:	and the women did worse .
+%mor:	coord|and det:art|the n|woman&PL v|do&PAST adj|bad&CP .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*S1:	then they cued &-uh another comparable group (.) with the &-uh cue
+	(.) Asian (.) and Asians generally are better at math and this
+	sort_of thing (.) and the women did better (.) than in the control
+	group .
+%mor:	adv:tem|then pro:sub|they v|cue-PAST qn|another adj|compare&dv-ABLE
+	n|group prep|with det:art|the n|cue n:prop|Asian coord|and
+	n:prop|Asians adv|general&dadj-LY aux|be&PRES adv|good&CP prep|at
+	n|math coord|and pro:dem|this adv|sort_of n|thing coord|and
+	det:art|the n|woman&PL v|do&PAST adv|good&CP prep|than prep|in
+	det:art|the n|control n|group .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|MOD 6|3|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|6|APP 11|25|LINK 12|25|SUBJ 13|25|SUBJ 14|25|AUX 15|25|JCT
+	16|25|JCT 17|16|POBJ 18|21|LINK 19|21|SUBJ 20|21|JCT 21|25|SUBJ 22|21|CONJ
+	23|24|DET 24|22|COORD 25|6|CJCT 26|25|JCT 27|25|JCT 28|25|JCT 29|31|DET
+	30|31|MOD 31|28|POBJ 32|3|PUNCT
+*S1:	so &-uh it was a (.) positive effect (.) if you were cued that
+	you're gonna be better than other people (.) a negative effect &-uh
+	if you're cued (.) that you belong to a group that's likely to be
+	worse than another group .
+%mor:	co|so pro:per|it cop|be&PAST&13S det:art|a adj|positive n|effect
+	conj|if pro:per|you aux|be&PAST part|cue-PASTP adv|that
+	pro:per|you~aux|be&PRES part|go-PRESP~inf|to cop|be adv|good&CP
+	prep|than qn|other n|person&PL det:art|a adj|negative n|effect
+	conj|if pro:per|you~aux|be&PRES part|cue-PASTP comp|that pro:per|you
+	v|belong prep|to det:art|a n|group pro:rel|that~cop|be&3S adj|likely
+	inf|to cop|be adj|bad&CP prep|than qn|another n|group .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|3|CJCT 11|14|JCT 12|14|SUBJ 13|14|AUX 14|10|COMP 15|16|INF
+	16|14|COMP 17|16|JCT 18|17|JCT 19|20|QUANT 20|18|POBJ 21|23|DET 22|23|MOD
+	23|18|POBJ 24|27|LINK 25|27|SUBJ 26|27|AUX 27|23|CMOD 28|30|LINK
+	29|30|SUBJ 30|27|COMP 31|30|JCT 32|33|DET 33|31|POBJ 34|35|LINK 35|33|CMOD
+	36|35|PRED 37|38|INF 38|36|XMOD 39|38|PRED 40|38|JCT 41|42|QUANT 42|40|POBJ
+	43|3|PUNCT
+*S1:	so .
+%mor:	co|so .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	I think that was the point you were talking about .
+%mor:	pro:sub|I v|think adv|that cop|be&PAST&13S det:art|the n|point
+	pro:per|you aux|be&PAST part|talk-PRESP adv|about .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|COMP 5|6|DET 6|4|PRED 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|9|JCT 11|2|PUNCT
+*S2:	alright thank you .
+%mor:	co|alright v|thank pro:per|you .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*S2:	(0.6) .
+*S1:	there are a_couple_of &-uh lectures that are kind of relevant to
+	what we've been talking about there's one this noon (.) Is There a
+	Development Trajectory to Homicide by Young Males ?
+%mor:	pro:exist|there cop|be&PRES qn|a_couple_of n|lecture-PL
+	pro:rel|that cop|be&PRES n|kind prep|of adj|relevant prep|to
+	pro:int|what pro:sub|we~aux|have aux|be&PASTP part|talk-PRESP
+	adv|about pro:exist|there~cop|be&3S pro:indef|one det:dem|this
+	n|noon n:prop|Is n:prop|There det:art|a n:prop|Development
+	n:prop|Trajectory prep|to n:prop|Homicide prep|by n:prop|Young
+	n:prop|Males ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|6|LINK 6|4|CMOD 7|6|PRED
+	8|7|NJCT 9|8|POBJ 10|9|JCT 11|15|LINK 12|15|SUBJ 13|15|AUX 14|15|AUX
+	15|10|CPOBJ 16|18|JCT 17|18|SUBJ 18|15|COMP 19|18|PRED 20|21|DET 21|18|PRED
+	22|23|NAME 23|26|NAME 24|25|DET 25|26|NAME 26|21|CMOD 27|26|NJCT 28|27|POBJ
+	29|26|JCT 30|31|NAME 31|29|POBJ 32|2|PUNCT
+*S1:	by Professor Loeber from the Free University of Amsterdam in the
+	Netherlands .
+%mor:	prep|by n:prop|Professor n:prop|Loeber prep|from det:art|the
+	n:prop|Free n:prop|University prep|of n:prop|Amsterdam prep|in
+	det:art|the n:prop|Netherlands .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|POBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|APP
+	8|7|NJCT 9|8|POBJ 10|3|NJCT 11|12|DET 12|10|POBJ 13|1|PUNCT
+*S1:	and it's going to be at the Center for Human Growth and Development
+	(.) which is the old &s well it's three hundred North Ingalls Street
+	&-uh room one thousand it's up on the tenth floor .
+%mor:	coord|and pro:per|it~aux|be&3S part|go-PRESP inf|to cop|be prep|at
+	det:art|the n:prop|Center prep|for n:prop|Human n:prop|Growth
+	coord|and n:prop|Development pro:rel|which cop|be&3S det:art|the
+	adj|old adv|well pro:per|it~cop|be&3S det:num|three det:num|hundred
+	n:prop|North n:prop|Ingalls n:prop|Street n|room det:num|one
+	det:num|thousand pro:per|it~cop|be&3S adv|up prep|on det:art|the
+	adj|tenth n|floor .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|JCT 11|12|NAME 12|10|POBJ 13|4|CONJ 14|13|COORD 15|16|LINK
+	16|14|CMOD 17|18|DET 18|16|PRED 19|21|JCT 20|21|SUBJ 21|18|CMOD
+	22|23|QUANT 23|24|QUANT 24|31|SUBJ 25|27|MOD 26|27|MOD 27|31|JCT 28|29|QUANT
+	29|30|QUANT 30|31|SUBJ 31|21|PRED 32|31|JCT 33|31|JCT 34|36|DET 35|36|MOD
+	36|33|POBJ 37|4|PUNCT
+*S1:	so anybody interested (.) lunch is provided &-uh but if you're
+	interested in youth violence &-uh &-uh that'll be an interesting (.)
+	lecture .
+%mor:	adv|so pro:indef|anybody v|interest-PAST n|lunch aux|be&3S
+	part|provide-PASTP conj|but conj|if pro:per|you~aux|be&PRES
+	part|interest-PASTP prep|in n|youth n|violence pro:rel|that~mod|will
+	cop|be det:art|a adj|interesting n|lecture .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|3|CONJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|COORD 12|11|JCT 13|14|MOD 14|12|POBJ 15|17|LINK
+	16|17|AUX 17|14|CMOD 18|20|DET 19|20|MOD 20|17|PRED 21|3|PUNCT
+*S1:	then on Friday (.) there's a seminar on culture and cognition (.)
+	at ten thirty AM Friday (.) by John Jost who's a professor at
+	Stanford on the system justification function of stereotyping (.) in
+	Italy Israel and the United States .
+%mor:	adv:tem|then adv|on n:prop|Friday pro:exist|there~cop|be&3S
+	det:art|a n|seminar prep|on n|culture coord|and n|cognition prep|at
+	det:num|ten det:num|thirty n:prop|AM n:prop|Friday prep|by
+	n:prop|John n:prop|Jost pro:int|who~cop|be&3S det:art|a n|professor
+	prep|at n:prop|Stanford prep|on det:art|the n|system
+	n|justify&dv-TION n|function prep|of n:gerund|stereotype-PRESP
+	prep|in n:prop|Italy n:prop|Israel coord|and det:art|the
+	n:prop|United n:prop|States .
+%gra:	1|5|JCT 2|1|NJCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|7|NJCT
+	9|8|POBJ 10|7|CONJ 11|10|COORD 12|11|NJCT 13|14|QUANT 14|15|QUANT
+	15|16|NAME 16|12|POBJ 17|7|NJCT 18|19|NAME 19|17|POBJ 20|21|SUBJ 21|7|CMOD
+	22|23|DET 23|21|PRED 24|23|NJCT 25|24|POBJ 26|23|NJCT 27|30|DET 28|30|MOD
+	29|30|MOD 30|26|POBJ 31|30|NJCT 32|39|NAME 33|32|JCT 34|33|POBJ 35|39|NAME
+	36|35|CONJ 37|38|DET 38|36|COORD 39|31|POBJ 40|5|PUNCT
+*S1:	and &-uh I assume that's something about &-uh why stereotyping is
+	maintained by &-uh various groups .
+%mor:	coord|and pro:sub|I v|assume comp|that~aux|be&3S
+	pro:indef|something prep|about pro:int|why n:gerund|stereotype-PRESP
+	aux|be&3S part|maintain-PASTP adv|by adj|various n|group-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|OBJ 7|6|NJCT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|CPOBJ 12|14|JCT 13|14|MOD 14|11|OBJ 15|3|PUNCT
+*S1:	that's gonna be in thirty forty eight East Hall ten thirty AM
+	Friday .
+%mor:	pro:dem|that~aux|be&3S part|go-PRESP~inf|to cop|be prep|in
+	det:num|thirty det:num|forty det:num|eight n:prop|East n:prop|Hall
+	det:num|ten det:num|thirty n:prop|AM n:prop|Friday .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|QUANT 8|9|QUANT
+	9|10|QUANT 10|11|NAME 11|15|NAME 12|13|QUANT 13|14|QUANT 14|15|NAME
+	15|6|POBJ 16|3|PUNCT
+*S1:	(0.8) we're now kind_of at the midpoint of the course .
+%mor:	pro:sub|we~cop|be&PRES adv|now adv|kind_of prep|at det:art|the
+	mid#n|point prep|of det:art|the n|course .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*S1:	that is we finished (.) general psychology last week (.) and
+	developmental psychology (.) now gets back to whole human beings
+	pretty much .
+%mor:	pro:dem|that cop|be&3S pro:sub|we part|finish-PASTP adj|general
+	n|psychology adj|last n|week coord|and adj|develop&dn-MENT-AL
+	n|psychology adv|now v|get-3S adv|back prep|to adj|whole n|human
+	n|being-PL adj|pretty adv|much .
+%gra:	1|2|SUBJ 2|0|ROOT 3|13|SUBJ 4|13|XJCT 5|6|MOD 6|8|MOD 7|8|MOD 8|13|SUBJ
+	9|8|CONJ 10|11|MOD 11|9|COORD 12|13|JCT 13|2|CPRED 14|13|JCT 15|13|JCT
+	16|18|MOD 17|18|MOD 18|15|POBJ 19|18|PRED 20|19|JCT 21|2|PUNCT
+*S1:	&-uh general psychology's talking about variables within people (.)
+	that &-uh influence their behavior and tries to find general laws
+	that affect (.) all (.) human beings regardless of culture and so
+	forth (.) which turns out to be very difficult to do .
+%mor:	adj|general n|psychology~aux|be&3S part|talk-PRESP prep|about
+	n|variable-PL adv|within n|person&PL adv|that v|influence
+	det:poss|their n|behavior coord|and v|try-3S inf|to v|find n|general
+	n|law-PL det:dem|that n|affect adv|all n|human n|being-PL
+	adv|regardless prep|of n|culture coord|and co|so adv|forth
+	pro:rel|which v|turn-3S adv|out inf|to cop|be adv|very adj|difficult
+	inf|to v|do .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|7|POBJ
+	9|10|JCT 10|4|CJCT 11|12|DET 12|10|OBJ 13|10|CONJ 14|13|COORD 15|16|INF
+	16|14|COMP 17|18|MOD 18|16|OBJ 19|20|DET 20|23|MOD 21|22|JCT 22|23|MOD
+	23|18|APP 24|23|NJCT 25|24|JCT 26|25|POBJ 27|24|CONJ 28|27|COORD 29|28|JCT
+	30|31|LINK 31|29|CMOD 32|31|JCT 33|34|INF 34|32|CPOBJ 35|36|JCT
+	36|34|PRED 37|38|INF 38|36|XMOD 39|4|PUNCT
+*S1:	&-uh and now we get into things that deal much more with (.) people
+	as persons (.) and &-uh their whole characteristics .
+%mor:	coord|and adv|now pro:sub|we v|get prep|into n|thing-PL
+	det:dem|that v|deal adv|much adv|more prep|with n|person&PL adv|as
+	n|person-PL coord|and det:poss|their adj|whole n|characteristic-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|DET 8|4|CJCT
+	9|8|JCT 10|8|JCT 11|10|JCT 12|11|POBJ 13|14|COORD 14|12|ENUM 15|12|CONJ
+	16|18|DET 17|18|MOD 18|15|COORD 19|4|PUNCT
+*S1:	we'll be talking about personality right after the break .
+%mor:	pro:sub|we~mod|will cop|be part|talk-PRESP prep|about
+	n|personal&dadj-ITY adj|right prep|after det:art|the n|break .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|4|JCT 6|5|POBJ 7|8|JCT 8|6|NJCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*S1:	developmental psychology is &-uh essentially how the person
+	develops .
+%mor:	adj|develop&dn-MENT-AL n|psychology cop|be&3S adv|essential&dadj-LY
+	pro:int|how det:art|the n|person v|develop-3S .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|LINK 6|7|DET 7|8|SUBJ 8|3|CPRED
+	9|3|PUNCT
+*S1:	and in general the pace now is going to slow that is (.) you'll
+	notice we're taking (.) two sessions on developmental psych we'll
+	take three on personality &-uh your reading assignments will drop
+	off in most cases (.) though it depends somewhat on which book you
+	have on certain topics some books are longer than others (.) as it
+	has also been the case (.) previously .
+%mor:	coord|and prep|in adj|general det:art|the n|pace adv|now aux|be&3S
+	part|go-PRESP inf|to v|slow pro:dem|that cop|be&3S
+	pro:per|you~mod|will n|notice pro:sub|we~aux|be&PRES part|take-PRESP
+	det:num|two n|session-PL prep|on adj|develop&dn-MENT-AL n|psych
+	pro:sub|we~mod|will v|take det:num|three prep|on n|personal&dadj-ITY
+	det:poss|your part|read-PRESP n|assign&dv-MENT-PL mod|will v|drop
+	adv|off prep|in qn|most n|case-PL adv|though pro:per|it v|depend-3S
+	adv|somewhat prep|on det:int|which n|book pro:per|you v|have adv|on
+	adj|certain n|topic-PL qn|some n|book-PL cop|be&PRES adj|long-CP
+	prep|than n:pt|others conj|as pro:per|it aux|have&3S adv|also
+	cop|be&PASTP det:art|the n|case adv|previous&dadj-LY .
+%gra:	1|8|LINK 2|8|JCT 3|2|POBJ 4|5|DET 5|8|SUBJ 6|5|NJCT 7|8|AUX 8|0|ROOT
+	9|10|INF 10|8|COMP 11|12|SUBJ 12|10|COMP 13|15|SUBJ 14|15|AUX 15|26|SUBJ
+	16|18|SUBJ 17|18|AUX 18|26|XJCT 19|20|QUANT 20|18|OBJ 21|18|JCT 22|23|MOD
+	23|21|POBJ 24|26|SUBJ 25|26|AUX 26|12|CPRED 27|26|OBJ 28|26|JCT
+	29|28|POBJ 30|32|DET 31|32|XMOD 32|34|SUBJ 33|34|AUX 34|26|COMP 35|34|JCT
+	36|34|JCT 37|38|QUANT 38|36|POBJ 39|41|JCT 40|41|SUBJ 41|34|CJCT 42|41|JCT
+	43|41|JCT 44|43|POBJ 45|44|OBJ 46|47|SUBJ 47|45|CMOD 48|47|JCT 49|50|MOD
+	50|47|OBJ 51|52|QUANT 52|53|SUBJ 53|50|CMOD 54|53|PRED 55|54|JCT
+	56|55|POBJ 57|61|LINK 58|61|SUBJ 59|61|AUX 60|61|JCT 61|53|CJCT 62|63|DET
+	63|61|PRED 64|63|NJCT 65|8|PUNCT
+*S1:	so &-uh you'll have more time to work on your team research once
+	you get back .
+%mor:	adv|so pro:per|you~mod|will v|have qn|more n|time prep|to n|work
+	prep|on det:poss|your n|team n|research conj|once pro:per|you v|get
+	adv|back .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|LINK 14|15|SUBJ 15|4|CJCT
+	16|15|JCT 17|4|PUNCT
+*S1:	today I'm going to try to (.) do two things (.) and maybe a third
+	as (.) I'm going to have you participate in a review exercise &-uh
+	which I hope will help you (.) in &-uh getting schemas to (.) use
+	when you take the midterm on Wednesday (.) and I wanna talk some
+	about (.) four or five points in developmental psych +//.
+%mor:	adv:tem|today pro:sub|I~aux|be&1S part|go-PRESP inf|to v|try inf|to
+	v|do det:num|two n|thing-PL coord|and adv|maybe det:art|a n|third
+	adv|as pro:sub|I~aux|be&1S part|go-PRESP inf|to v|have pro:per|you
+	v|participate prep|in det:art|a n|review n|exercise pro:int|which
+	pro:sub|I n|hope mod|will v|help pro:per|you prep|in part|get-PRESP
+	n|schema-PL prep|to n|use conj|when pro:per|you v|take det:art|the
+	n|midterm adv|on n:prop|Wednesday coord|and pro:sub|I v|want~inf|to
+	v|talk qn|some prep|about det:num|four coord|or det:num|five
+	n|point-PL prep|in adj|develop&dn-MENT-AL n|psych +//.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|INF 8|6|COMP
+	9|10|QUANT 10|8|OBJ 11|8|CONJ 12|14|JCT 13|14|DET 14|11|COORD 15|18|JCT
+	16|18|SUBJ 17|18|AUX 18|14|CMOD 19|20|INF 20|18|COMP 21|22|SUBJ 22|20|COMP
+	23|22|JCT 24|26|DET 25|26|MOD 26|23|POBJ 27|31|LINK 28|31|SUBJ
+	29|31|SUBJ 30|31|AUX 31|14|CMOD 32|31|OBJ 33|31|JCT 34|35|XMOD 35|33|POBJ
+	36|31|JCT 37|36|POBJ 38|40|LINK 39|40|SUBJ 40|31|CJCT 41|42|DET 42|40|OBJ
+	43|40|JCT 44|43|POBJ 45|47|LINK 46|47|SUBJ 47|44|CJCT 48|49|INF 49|47|COMP
+	50|55|QUANT 51|52|JCT 52|55|QUANT 53|52|CONJ 54|53|COORD 55|49|OBJ
+	56|55|NJCT 57|58|MOD 58|56|POBJ 59|4|PUNCT
+*S1:	I think your books cover developmental (.) pretty well (.) but
+	these are points that either aren't (.) mentioned (.) or that I want
+	to highlight more or at least comment on .
+%mor:	pro:sub|I v|think det:poss|your n|book-PL v|cover
+	adj|develop&dn-MENT-AL adj|pretty adv|well conj|but det:dem|these
+	aux|be&PRES n|point-PL pro:rel|that adv|either aux|be&PRES~neg|not
+	v|mention-PAST coord|or comp|that pro:sub|I v|want prep|to
+	n|highlight adv|more coord|or prep|at n|least n|comment adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|PRED 7|8|JCT 8|6|JCT
+	9|6|CONJ 10|12|DET 11|12|AUX 12|9|COORD 13|17|LINK 14|17|SUBJ 15|17|AUX
+	16|15|NEG 17|12|CMOD 18|17|CONJ 19|21|LINK 20|21|SUBJ 21|18|COORD
+	22|21|JCT 23|22|POBJ 24|21|JCT 25|24|CONJ 26|29|JCT 27|28|MOD 28|26|POBJ
+	29|25|COORD 30|2|PUNCT
+*S1:	so &-uh I'll be (.) giving you the review exercise (.) about every
+	ten minutes to break up the lecture (.) so it may seem disorganized
+	but essentially after each topic (.) or before the first topic (.)
+	you'll be doing the review exercise .
+%mor:	co|so pro:sub|I~mod|will aux|be part|give-PRESP pro:per|you
+	det:art|the n|review n|exercise prep|about qn|every det:num|ten
+	n|minute-PL inf|to v|break prep|up det:art|the n|lecture adv|so
+	pro:per|it mod|may cop|seem dis#part|organize-PASTP conj|but
+	adv|essential&dadj-LY prep|after qn|each n|topic coord|or
+	prep|before det:art|the adj|first n|topic pro:per|you~mod|will
+	aux|be part|do-PRESP det:art|the n|review n|exercise .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|OBJ2 7|9|DET 8|9|MOD
+	9|5|OBJ 10|9|NJCT 11|13|QUANT 12|13|QUANT 13|10|POBJ 14|15|INF 15|13|XMOD
+	16|15|JCT 17|18|DET 18|16|POBJ 19|22|JCT 20|22|SUBJ 21|22|AUX 22|15|CJCT
+	23|22|PRED 24|22|CONJ 25|26|JCT 26|24|COORD 27|28|QUANT 28|26|POBJ
+	29|28|CONJ 30|29|COORD 31|33|DET 32|33|MOD 33|30|POBJ 34|37|SUBJ 35|37|AUX
+	36|37|AUX 37|33|CMOD 38|40|DET 39|40|MOD 40|37|OBJ 41|5|PUNCT
+*S1:	and then if we get time at the end I'll say a little bit about test
+	taking which I talked about earlier (.) and some of the strategies
+	that should help you on (.) taking the test or preparing for it .
+%mor:	coord|and adv:tem|then conj|if pro:sub|we v|get n|time prep|at
+	det:art|the n|end pro:sub|I~mod|will v|say det:art|a adj|little
+	n|bit prep|about n|test part|take-PRESP pro:int|which pro:sub|I
+	v|talk-PAST prep|about adj|early-CP coord|and qn|some prep|of
+	det:art|the n|strategy-PL pro:rel|that mod|should v|help pro:per|you
+	adv|on part|take-PRESP det:art|the n|test coord|or
+	part|prepare-PRESP prep|for pro:per|it .
+%gra:	1|12|LINK 2|12|JCT 3|5|LINK 4|5|SUBJ 5|12|CJCT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|15|DET 14|15|MOD 15|12|OBJ
+	16|12|JCT 17|16|POBJ 18|12|XJCT 19|21|LINK 20|21|SUBJ 21|18|COBJ 22|21|JCT
+	23|22|POBJ 24|23|CONJ 25|24|COORD 26|25|NJCT 27|28|DET 28|26|POBJ
+	29|31|LINK 30|31|AUX 31|28|CMOD 32|31|OBJ 33|31|JCT 34|31|XJCT 35|36|DET
+	36|34|OBJ 37|34|CONJ 38|37|COORD 39|38|JCT 40|39|POBJ 41|12|PUNCT
+*S1:	so (.) first (.) the review exercise .
+%mor:	adv|so adv|first det:art|the n|review n|exercise .
+%gra:	1|2|JCT 2|0|INCROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*S1:	and this you just do the top page to start with and then the second
+	page about ten minutes later and (.) so on after that +...
+%mor:	coord|and pro:dem|this pro:per|you adv|just v|do det:art|the
+	adj|top n|page inf|to v|start prep|with coord|and adv:tem|then
+	det:art|the adj|second n|page prep|about det:num|ten n|minute-PL
+	adv|later coord|and co|so adv|on prep|after pro:dem|that +...
+%gra:	1|5|LINK 2|5|SUBJ 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|10|INF 10|5|XJCT 11|10|JCT 12|11|CONJ 13|12|COORD 14|16|DET 15|16|MOD
+	16|13|OM 17|16|NJCT 18|19|QUANT 19|17|POBJ 20|16|NJCT 21|20|CONJ
+	22|21|COORD 23|24|JCT 24|22|JCT 25|24|POBJ 26|5|PUNCT
+*S1:	so now start on the top page and I'll (.) tell you more about it
+	(.) later .
+%mor:	adv|so adv|now v|start prep|on det:art|the adj|top n|page coord|and
+	pro:sub|I~mod|will v|tell pro:per|you adv|more prep|about pro:per|it
+	adv|later .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|3|CJCT 12|11|OBJ 13|11|JCT 14|13|JCT 15|14|POBJ
+	16|15|JCT 17|3|PUNCT
+*S1:	(0.11) this is an exercise that should help in building a general
+	schema .
+%mor:	pro:dem|this cop|be&3S det:art|a n|exercise pro:rel|that mod|should
+	v|help prep|in n|building det:art|a adj|general n|schema .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|7|LINK 6|7|AUX 7|4|CMOD 8|7|JCT
+	9|8|POBJ 10|12|DET 11|12|MOD 12|7|OBJ 13|2|PUNCT
+*S1:	and (.) Ernie Zaremba one of my doctoral students (.) who teaches
+	psychology at Washtenaw Community College (.) carried out a neat set
+	of studies (.) showing that simply taking (.) something like this
+	(.) actually helps your performance later in the course &-uh on
+	other topics as_well_as on the topic &-uh covered .
+%mor:	coord|and n:prop|Ernie n:prop|Zaremba pro:indef|one prep|of
+	det:poss|my adj|doctor&dn-AL n|student-PL pro:rel|who v|teach-3S
+	n|psychology prep|at n:prop|Washtenaw n:prop|Community
+	n:prop|College v|carry-PAST prep|out det:art|a adj|neat n|set
+	prep|of n|study-PL part|show-PRESP adv|that adv|simple&dadj-LY
+	part|take-PRESP pro:indef|something prep|like pro:dem|this
+	adv|actual&dadj-LY v|help-3S det:poss|your n|performance adv|later
+	prep|in det:art|the n|course prep|on qn|other n|topic-PL
+	coord|as_well_as prep|on det:art|the n|topic v|cover-PAST .
+%gra:	1|3|LINK 2|3|NAME 3|0|ROOT 4|3|PRED 5|16|LINK 6|8|DET 7|8|MOD 8|16|SUBJ
+	9|10|LINK 10|16|CJCT 11|10|OBJ 12|10|JCT 13|12|POBJ 14|16|SUBJ
+	15|16|SUBJ 16|4|CMOD 17|16|JCT 18|20|DET 19|20|MOD 20|17|POBJ 21|20|NJCT
+	22|21|POBJ 23|16|XJCT 24|23|JCT 25|23|JCT 26|23|XJCT 27|26|OBJ 28|27|NJCT
+	29|28|POBJ 30|31|JCT 31|26|COMP 32|33|DET 33|31|OBJ 34|31|JCT 35|31|JCT
+	36|37|DET 37|35|POBJ 38|31|JCT 39|40|QUANT 40|38|POBJ 41|45|LINK 42|45|JCT
+	43|44|DET 44|42|POBJ 45|31|CJCT 46|3|PUNCT
+*S1:	so (.) it &-uh doesn't &-uh necessarily mean that these terms are
+	actually going to be on the test (.) but it should help you in
+	getting a framework (.) and probably also help you later on in the
+	course in terms of (.) developing schemas relevant (.) to the rest
+	of the (.) topics in the course .
+%mor:	co|so pro:per|it mod|do&3S~neg|not adv|necessary&dadj-LY adj|mean
+	adv|that det:dem|these n|term-PL aux|be&PRES adv|actual&dadj-LY
+	part|go-PRESP inf|to cop|be prep|on det:art|the n|test conj|but
+	pro:per|it mod|should v|help pro:per|you prep|in part|get-PRESP
+	det:art|a n|framework coord|and adv|probable&dadj-LY adv|also v|help
+	pro:per|you adv|later adv|on prep|in det:art|the n|course prep|in
+	n|term-PL prep|of part|develop-PRESP n|schema-PL adj|relevant
+	prep|to det:art|the n|rest prep|of det:art|the n|topic-PL prep|in
+	det:art|the n|course .
+%gra:	1|6|COM 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|JCT 6|9|MOD 7|9|JCT 8|9|DET
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|0|ROOT 13|14|INF 14|12|COMP 15|14|JCT
+	16|17|DET 17|15|POBJ 18|21|LINK 19|21|SUBJ 20|21|AUX 21|12|CJCT 22|21|OBJ
+	23|21|JCT 24|23|POBJ 25|26|DET 26|24|OBJ 27|30|LINK 28|30|JCT 29|30|JCT
+	30|21|CJCT 31|30|OBJ 32|30|JCT 33|30|JCT 34|30|JCT 35|36|DET 36|34|POBJ
+	37|30|JCT 38|37|POBJ 39|38|NJCT 40|39|POBJ 41|40|OBJ 42|41|POSTMOD 43|42|JCT
+	44|45|DET 45|43|POBJ 46|45|NJCT 47|48|DET 48|46|POBJ 49|42|JCT 50|51|DET
+	51|49|POBJ 52|12|PUNCT
+*S1:	&=pause_while_students_complete_exercise did you get one yourself ?
+%mor:	mod|do&PAST pro:per|you v|get det:num|one pro:refl|yourself ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*S3:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, (2.41) how many aren't through +..?
+%mor:	pro:int|how qn|many aux|be&PRES~neg|not adv|through +..?
+%gra:	1|3|LINK 2|3|QUANT 3|0|ROOT 4|3|NEG 5|3|JCT 6|3|PUNCT
+*S1:	well you can work on it while I talk .
+%mor:	co|well pro:per|you mod|can v|work prep|on pro:per|it conj|while
+	pro:sub|I v|talk .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|4|PUNCT
+*S1:	the &-uh basically what developmental psychologists are trying to
+	do is to find out (.) what kinds of aspects of development are more
+	or less universal (.) that are built into our species (.) and what
+	kinds of things are (.) pretty much determined by (.) our culture
+	our parents our environment &-uh and &-uh it turns out most things
+	are an interaction of both .
+%mor:	det:art|the adv|basic&dadj-AL-LY pro:int|what
+	adj|develop&dn-MENT-AL n|psychology-IST-PL aux|be&PRES
+	part|try-PRESP inf|to v|do cop|be&3S inf|to v|find adv|out
+	pro:int|what n|kind-PL prep|of n|aspect-PL prep|of n|develop&dv-MENT
+	cop|be&PRES adv|more coord|or adj|less adj|universal adv|that
+	aux|be&PRES v|build&PAST prep|into det:poss|our n|species coord|and
+	pro:int|what n|kind-PL prep|of n|thing-PL aux|be&PRES adv|pretty
+	adv|much part|determine-PASTP prep|by det:poss|our n|culture
+	det:poss|our n|parent-PL det:poss|our n|environment coord|and
+	pro:per|it v|turn-3S adv|out qn|most n|thing-PL cop|be&PRES
+	det:art|a inter#n|action prep|of post|both .
+%gra:	1|7|DET 2|7|JCT 3|5|DET 4|5|MOD 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|OBJ 11|12|INF 12|10|CPRED 13|12|JCT 14|20|LINK 15|20|SUBJ
+	16|15|NJCT 17|16|POBJ 18|17|NJCT 19|18|POBJ 20|12|COMP 21|20|JCT 22|27|LINK
+	23|24|MOD 24|27|JCT 25|27|SUBJ 26|27|AUX 27|20|CJCT 28|27|JCT 29|30|DET
+	30|28|POBJ 31|27|CONJ 32|33|DET 33|31|COORD 34|33|NJCT 35|39|SUBJ
+	36|39|AUX 37|38|JCT 38|39|JCT 39|34|CPOBJ 40|39|JCT 41|42|DET 42|40|POBJ
+	43|44|DET 44|39|OBJ 45|46|DET 46|44|OBJ 47|49|LINK 48|49|SUBJ 49|44|CMOD
+	50|49|JCT 51|52|QUANT 52|53|SUBJ 53|49|COMP 54|55|DET 55|53|PRED 56|55|NJCT
+	57|56|POBJ 58|7|PUNCT
+*S1:	&-uh even something like height &-uh is influenced a good deal by
+	nutrition .
+%mor:	adv|even pro:indef|something co|like n|height aux|be&3S
+	part|influence-PASTP det:art|a adj|good n|deal prep|by n|nutrition .
+%gra:	1|6|JCT 2|6|JCT 3|2|COM 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|JCT 11|10|POBJ 12|6|PUNCT
+*S1:	the Japanese are taller now than they used to be for example .
+%mor:	det:art|the n:prop|Japanese cop|be&PRES adj|tall-CP adv|now
+	prep|than pro:sub|they v|use-PAST inf|to cop|be prep|for
+	ex#adj|ample .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|3|JCT 7|8|SUBJ 8|6|CPOBJ
+	9|10|INF 10|8|COMP 11|10|JCT 12|11|POBJ 13|3|PUNCT
+*S1:	so (.) there aren't any (.) simple answers to the questions that a
+	developmental (.) psychologist asks .
+%mor:	co|so pro:exist|there cop|be&PRES~neg|not qn|any adj|simple
+	n|answer-PL prep|to det:art|the n|question-PL pro:rel|that det:art|a
+	adj|develop&dn-MENT-AL n|psychology-IST v|ask-3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|7|QUANT 6|7|MOD 7|3|PRED 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|15|LINK 12|14|DET 13|14|MOD 14|15|SUBJ 15|10|CMOD
+	16|3|PUNCT
+*S1:	and &-uh Matti Shawn and Ryan showed you in their (.) class on
+	Monday (.) that &-uh here's something like (.) the effect of TV
+	violence which seems like a fairly simple thing to study (.) and
+	turns out it's very complex .
+%mor:	coord|and n:prop|Matti n:prop|Shawn coord|and n:prop|Ryan
+	v|show-PAST pro:per|you prep|in det:poss|their n|class prep|on
+	n:prop|Monday comp|that pro:exist|here~cop|be&3S pro:indef|something
+	prep|like det:art|the n|effect prep|of n:prop|TV n|violence
+	pro:rel|which cop|seem-3S conj|like det:art|a adv|fair&dadj-LY
+	adj|simple n|thing prep|to n|study coord|and v|turn-3S adv|out
+	pro:per|it~cop|be&3S adv|very adj|complex .
+%gra:	1|3|LINK 2|3|NAME 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|JCT 12|11|POBJ 13|15|LINK 14|15|SUBJ 15|12|ROOT
+	16|15|PRED 17|16|NJCT 18|19|DET 19|17|POBJ 20|19|NJCT 21|22|MOD
+	22|20|POBJ 23|24|LINK 24|19|ROOT 25|24|PRED 26|29|DET 27|28|JCT 28|29|MOD
+	29|25|INCROOT 30|29|NJCT 31|30|POBJ 32|36|LINK 33|36|JCT 34|33|JCT 35|36|SUBJ
+	36|29|CJCT 37|38|JCT 38|36|PRED 39|29|PUNCT
+*S1:	it affects some children in some situations (.) to become more
+	aggressive but &-uh there are a_lot_of other variables that
+	influence the effect .
+%mor:	pro:per|it v|affect-3S qn|some n|child&PL prep|in qn|some
+	n|situate&dv-TION-PL inf|to cop|become adv|more adj|aggressive
+	conj|but pro:exist|there cop|be&PRES qn|a_lot_of qn|other
+	n|variable-PL det:dem|that n|influence det:art|the n|effect .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|7|QUANT 7|5|POBJ 8|9|INF
+	9|2|COMP 10|11|JCT 11|9|PRED 12|14|LINK 13|14|SUBJ 14|2|CJCT 15|17|QUANT
+	16|17|QUANT 17|14|PRED 18|19|DET 19|17|ENUM 20|21|DET 21|19|OBJ
+	22|2|PUNCT
+*S1:	&-uh parents (.) and patterns of child rearing whether the parents
+	are aggressive and or not (.) peers &-uh poverty has an effect &-uh
+	so it's hard to untangle any one effect from others .
+%mor:	n|parent-PL coord|and n|pattern-PL prep|of n|child
+	n:gerund|rear-PRESP comp|whether det:art|the n|parent-PL cop|be&PRES
+	adj|aggressive coord|and coord|or neg|not n|peer-PL n|poverty
+	v|have&3S det:art|a n|effect adv|so pro:per|it~cop|be&3S adj|hard
+	inf|to un#v|tangle qn|any det:num|one n|effect prep|from n:pt|others
+	.
+%gra:	1|6|SUBJ 2|1|CONJ 3|2|COORD 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|10|LINK
+	8|9|DET 9|10|SUBJ 10|6|COMP 11|10|PRED 12|10|CONJ 13|17|LINK 14|15|NEG
+	15|13|COORD 16|17|SUBJ 17|12|COORD 18|19|DET 19|17|OBJ 20|22|JCT 21|22|SUBJ
+	22|17|CJCT 23|22|PRED 24|25|INF 25|23|XMOD 26|28|QUANT 27|28|QUANT
+	28|25|OBJ 29|28|NJCT 30|29|POBJ 31|6|PUNCT
+*S1:	and (.) most psychologists I should say do agree that &-uh
+	television violence is on the whole pretty bad (.) but &-uh
+	nonetheless that doesn't mean that it's invariably bad or bad for
+	everyone .
+%mor:	coord|and qn|most n|psychology-IST-PL pro:sub|I mod|should v|say
+	v|do v|agree comp|that n|television n|violence cop|be&3S prep|on
+	det:art|the adj|whole adv|pretty adj|bad conj|but adv|nonetheless
+	adv|that mod|do&3S~neg|not adj|mean comp|that pro:per|it~cop|be&3S
+	in#adj|variable&dn-Y adj|bad coord|or adj|bad prep|for
+	pro:indef|everyone .
+%gra:	1|7|LINK 2|3|QUANT 3|7|SUBJ 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|0|ROOT 8|7|OBJ
+	9|12|LINK 10|11|MOD 11|12|SUBJ 12|8|COMP 13|12|JCT 14|17|DET 15|17|MOD
+	16|17|JCT 17|13|POBJ 18|7|CONJ 19|23|JCT 20|23|JCT 21|23|AUX 22|21|NEG
+	23|18|COORD 24|26|LINK 25|26|SUBJ 26|23|CMOD 27|26|PRED 28|27|PRED
+	29|28|CONJ 30|29|COORD 31|30|JCT 32|31|POBJ 33|7|PUNCT
+*S1:	so the first of the four points that I wanted to make is about (.)
+	methodology .
+%mor:	co|so det:art|the adj|first prep|of det:art|the det:num|four
+	n|point-PL pro:rel|that pro:sub|I v|want-PAST inf|to v|make
+	aux|be&3S prep|about n|methodology .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|JCT 5|7|DET 6|7|QUANT 7|4|POBJ
+	8|10|LINK 9|10|SUBJ 10|7|CMOD 11|12|INF 12|10|COMP 13|12|OBJ 14|13|NJCT
+	15|14|POBJ 16|3|PUNCT
+*S1:	&-uh crosssectional method is essentially (.) trying to study
+	developmental processes by comparing (.) five year+olds with two
+	year+olds with eight year+olds and ten year+olds and so forth .
+%mor:	cross#adj|section&dn-AL n|method aux|be&3S adv|essential&dadj-LY
+	part|try-PRESP inf|to v|study adj|develop&dn-MENT-AL n|process-PL
+	adv|by part|compare-PRESP det:num|five n|+n|year+adj|old-PL
+	prep|with det:num|two n|+n|year+adj|old-PL prep|with det:num|eight
+	n|+n|year+adj|old-PL coord|and det:num|ten n|+n|year+adj|old-PL
+	coord|and adv|so adv|forth .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|9|MOD
+	9|7|OBJ 10|7|JCT 11|7|XJCT 12|13|QUANT 13|11|OBJ 14|13|NJCT 15|16|QUANT
+	16|14|POBJ 17|11|JCT 18|19|QUANT 19|17|POBJ 20|19|CONJ 21|22|QUANT
+	22|20|COORD 23|11|CONJ 24|25|JCT 25|23|COORD 26|5|PUNCT
+*S1:	and you take samples (.) at each of several age (.) levels (.) and
+	you assume that the differences between the say the five year+olds
+	and the eight year+olds (.) are a result of the development .
+%mor:	coord|and pro:per|you v|take n|sample-PL prep|at qn|each prep|of
+	qn|several n|age n|level-PL coord|and pro:per|you v|assume comp|that
+	det:art|the n|difference-PL prep|between det:art|the v|say
+	det:art|the det:num|five n|+n|year+adj|old-PL coord|and det:art|the
+	det:num|eight n|+n|year+adj|old-PL cop|be&PRES det:art|a n|result
+	prep|of det:art|the n|develop&dv-MENT .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|6|NJCT 8|9|QUANT
+	9|10|MOD 10|7|POBJ 11|13|LINK 12|13|SUBJ 13|3|CJCT 14|13|OBJ 15|16|DET
+	16|14|OBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|22|DET 21|22|QUANT
+	22|27|SUBJ 23|22|CONJ 24|26|DET 25|26|QUANT 26|23|COORD 27|16|CMOD 28|29|DET
+	29|27|PRED 30|29|NJCT 31|32|DET 32|30|POBJ 33|3|PUNCT
+*S1:	but the problem is (.) that &-uh what happens (.) to an eight
+	year+old (.) may be different from what happens to a five year+old
+	(.) who becomes eight later .
+%mor:	conj|but det:art|the n|problem cop|be&3S pro:dem|that pro:int|what
+	v|happen-3S prep|to det:art|a det:num|eight n|+n|year+adj|old
+	mod|may cop|be adj|different prep|from pro:int|what v|happen-3S
+	prep|to det:art|a det:num|five n|+n|year+adj|old pro:rel|who
+	cop|become-3S det:num|eight adv|later .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|DET 7|4|CPRED 8|7|JCT
+	9|11|DET 10|11|QUANT 11|13|SUBJ 12|13|AUX 13|8|POBJ 14|13|PRED 15|14|JCT
+	16|17|DET 17|15|CPOBJ 18|17|JCT 19|21|DET 20|21|QUANT 21|18|POBJ
+	22|23|LINK 23|21|CMOD 24|23|PRED 25|24|JCT 26|4|PUNCT
+*S1:	that the environment changes (.) over time (.) and thus &-uh this
+	crosssectional method (.) it's the easiest method to use (.) but
+	&-uh can sometimes give you screwy results .
+%mor:	comp|that det:art|the n|environment v|change-3S prep|over n|time
+	coord|and adv|thus det:dem|this cross#adj|section&dn-AL n|method
+	pro:per|it~cop|be&3S det:art|the adj|ease&dn-Y-SP n|method prep|to
+	n|use conj|but mod|can adv|sometimes v|give pro:per|you
+	adj|screw&dn-Y n|result-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|13|LINK 8|13|JCT
+	9|13|DET 10|13|COM 11|13|COM 12|13|SUBJ 13|4|CJCT 14|16|DET 15|16|MOD
+	16|13|PRED 17|16|NJCT 18|17|POBJ 19|4|CONJ 20|22|AUX 21|22|JCT 22|19|COORD
+	23|22|OBJ2 24|25|MOD 25|22|OBJ 26|4|PUNCT
+*S1:	so &-uh most developmental psychologists like to use longitudinal
+	methods .
+%mor:	adv|so qn|most adj|develop&dn-MENT-AL n|psychology-IST-PL v|like
+	inf|to v|use adj|longitudinal n|method-PL .
+%gra:	1|2|JCT 2|4|QUANT 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|9|MOD
+	9|7|OBJ 10|5|PUNCT
+*S1:	and in longitudinal methods you follow a group (.) kids or adults
+	(.) over a period of years .
+%mor:	coord|and prep|in adj|longitudinal n|method-PL pro:per|you v|follow
+	det:art|a n|group n|kid-PL coord|or n|adult-PL prep|over det:art|a
+	n|period prep|of n|year-PL .
+%gra:	1|6|LINK 2|6|JCT 3|4|MOD 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|CONJ 11|10|COORD 12|11|NJCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|6|PUNCT
+*S1:	and people don't like to do that (be)cause it takes a long time to
+	get +//.
+%mor:	coord|and n|person&PL mod|do~neg|not v|like inf|to v|do
+	pro:dem|that conj|because pro:per|it v|take-3S det:art|a adj|long
+	n|time inf|to v|get +//.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|11|LINK 10|11|SUBJ 11|5|CJCT 12|14|DET 13|14|MOD 14|11|OBJ 15|16|INF
+	16|14|XMOD 17|5|PUNCT
+*S1:	if you're working on a dissertation I tell my students don't (.)
+	use a longitudinal design because (.) you gotta wait until (.) you
+	know five years or something to find out how it comes out (.) so we
+	need to use some other kind of design (.) if you're gonna get out_of
+	here in any decent period .
+%mor:	comp|if pro:per|you~aux|be&PRES part|work-PRESP prep|on det:art|a
+	n|dissertation pro:sub|I v|tell det:poss|my n|student-PL
+	mod|do~neg|not v|use det:art|a adj|longitudinal n|design
+	conj|because pro:per|you mod|got~inf|to v|wait conj|until
+	pro:per|you v|know det:num|five n|year-PL coord|or
+	pro:indef|something inf|to v|find adv|out pro:int|how pro:per|it
+	v|come-3S adv|out co|so pro:sub|we v|need inf|to v|use qn|some
+	qn|other n|kind prep|of n|design comp|if pro:per|you~aux|be&PRES
+	part|go-PRESP~inf|to v|get prep|out_of n|here prep|in qn|any
+	adj|decent n|period .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|9|XJCT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|0|ROOT 10|11|DET 11|14|SUBJ 12|14|AUX 13|12|NEG 14|9|COMP 15|17|DET
+	16|17|MOD 17|14|OBJ 18|22|LINK 19|22|SUBJ 20|22|AUX 21|22|INF 22|9|CJCT
+	23|25|LINK 24|25|SUBJ 25|39|CJCT 26|27|QUANT 27|25|OBJ 28|27|CONJ
+	29|28|COORD 30|31|INF 31|25|COMP 32|31|JCT 33|35|LINK 34|35|SUBJ 35|31|COMP
+	36|35|JCT 37|39|COM 38|39|SUBJ 39|22|COMP 40|41|INF 41|39|COMP 42|44|QUANT
+	43|44|QUANT 44|41|OBJ 45|44|NJCT 46|45|POBJ 47|50|LINK 48|50|SUBJ 49|50|AUX
+	50|41|COMP 51|52|INF 52|50|COMP 53|52|JCT 54|53|POBJ 55|54|NJCT
+	56|58|QUANT 57|58|MOD 58|55|POBJ 59|9|PUNCT
+*S1:	but the longitudinal design has the advantage that you do see
+	development sequentially (.) in a given group of people .
+%mor:	conj|but det:art|the adj|longitudinal n|design v|have&3S
+	det:art|the n|advantage pro:rel|that pro:per|you v|do v|see
+	n|develop&dv-MENT adv|sequential&dadj-LY prep|in det:art|a
+	part|give&PASTP n|group prep|of n|person&PL .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|OBJ 12|11|OBJ 13|10|JCT 14|10|JCT 15|16|DET
+	16|14|POBJ 17|16|OBJ 18|17|NJCT 19|18|POBJ 20|5|PUNCT
+*S1:	the problem is (.) that (.) the historical period or the culture
+	(.) that is say the group of people you're following say from ten to
+	nineteen (.) may be quite different (.) for one cohort or one group
+	of students than it will be from another group (.) say ten years
+	later .
+%mor:	det:art|the n|problem cop|be&3S comp|that det:art|the
+	adj|historic-AL n|period coord|or det:art|the n|culture pro:rel|that
+	cop|be&3S v|say det:art|the n|group prep|of n|person&PL
+	pro:per|you~aux|be&PRES part|follow-PRESP v|say prep|from
+	det:num|ten prep|to det:num|nineteen mod|may cop|be adv|quite
+	adj|different prep|for pro:indef|one n|cohort coord|or det:num|one
+	n|group prep|of n|student-PL prep|than pro:per|it mod|will cop|be
+	prep|from qn|another n|group v|say det:num|ten n|year-PL adv|later .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|7|DET 6|7|MOD 7|4|OBJ 8|7|CONJ
+	9|10|DET 10|8|COORD 11|12|LINK 12|10|CMOD 13|12|CPRED 14|15|DET 15|13|OBJ
+	16|15|NJCT 17|16|POBJ 18|20|SUBJ 19|20|AUX 20|15|CMOD 21|20|OBJ 22|21|JCT
+	23|27|QUANT 24|27|LINK 25|27|SUBJ 26|27|AUX 27|22|CPOBJ 28|29|JCT
+	29|27|PRED 30|27|JCT 31|32|SUBJ 32|30|POBJ 33|21|CONJ 34|35|QUANT 35|33|COORD
+	36|35|NJCT 37|36|POBJ 38|41|LINK 39|41|SUBJ 40|41|AUX 41|35|CJCT
+	42|41|JCT 43|44|QUANT 44|45|SUBJ 45|42|CPOBJ 46|47|QUANT 47|45|OBJ 48|45|JCT
+	49|3|PUNCT
+*S1:	&-um my development for example was influenced by the fact that I
+	was a boy during the Depression .
+%mor:	det:poss|my n|develop&dv-MENT prep|for ex#adj|ample aux|be&PAST&13S
+	part|influence-PASTP prep|by det:art|the n|fact pro:rel|that
+	pro:sub|I cop|be&PAST&13S det:art|a n|boy prep|during det:art|the
+	n:prop|Depression .
+%gra:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|3|POBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|14|DET 14|12|PRED 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|6|PUNCT
+*S1:	I [//] &-uh World War Two occurred , I hadta go into the Navy ,
+	&-uh there was the McCarthy era while I was a young faculty member ,
+	a_lot_of things happened , Civil Rights campaign , &-uh student
+	activism in the sixties , the Vietnam War .
+%mor:	n:prop|World n:prop|War n:prop|Two v|occur-PAST cm|cm pro:sub|I
+	mod|have&PAST~inf|to v|go prep|into det:art|the n:prop|Navy cm|cm
+	adv|there cop|be&PAST&13S det:art|the n:prop|McCarthy n|era
+	conj|while pro:sub|I cop|be&PAST&13S det:art|a adj|young n|faculty
+	n|member cm|cm qn|a_lot_of n|thing-PL part|happen-PASTP cm|cm
+	n:prop|Civil n:prop|Rights n|campaign cm|cm n|student n|activism
+	prep|in det:art|the n|sixty-PL cm|cm det:art|the n:prop|Vietnam
+	n:prop|War .
+%gra:	1|2|NAME 2|4|SUBJ 3|2|APP 4|0|ROOT 5|4|LP 6|9|SUBJ 7|9|AUX 8|9|INF
+	9|4|XJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|4|LP 14|15|SUBJ 15|4|CJCT
+	16|18|DET 17|18|MOD 18|15|PRED 19|21|LINK 20|21|SUBJ 21|15|CJCT 22|25|DET
+	23|24|MOD 24|25|MOD 25|21|PRED 26|25|LP 27|28|QUANT 28|25|ENUM 29|28|XMOD
+	30|29|LP 31|33|MOD 32|33|MOD 33|29|OBJ 34|33|LP 35|36|MOD 36|33|ENUM
+	37|36|NJCT 38|39|DET 39|37|POBJ 40|36|LP 41|43|DET 42|43|MOD 43|33|APP
+	44|4|PUNCT
+*S1:	all of these things influenced my development (.) and are quite
+	different from <the development> [//] &-uh the events that will
+	influence your development over the next &-uh fifty sixty years (.)
+	from now .
+%mor:	pro:indef|all prep|of det:dem|these n|thing-PL v|influence-PAST
+	det:poss|my n|develop&dv-MENT coord|and cop|be&PRES adv|quite
+	adj|different prep|from det:art|the n|event-PL pro:rel|that mod|will
+	v|influence det:poss|your n|develop&dv-MENT prep|over det:art|the
+	adj|next det:num|fifty det:num|sixty n|year-PL prep|from adv|now .
+%gra:	1|5|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|CONJ
+	9|8|COORD 10|11|JCT 11|9|PRED 12|11|JCT 13|14|DET 14|12|POBJ 15|17|LINK
+	16|17|AUX 17|14|CMOD 18|19|DET 19|17|OBJ 20|17|JCT 21|23|DET 22|23|MOD
+	23|25|QUANT 24|25|QUANT 25|20|POBJ 26|25|NJCT 27|26|POBJ 28|5|PUNCT
+*S1:	so longitudinal method has its (.) problems too .
+%mor:	adv|so adj|longitudinal n|method v|have&3S det:poss|its
+	n|problem-PL post|too .
+%gra:	1|2|JCT 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*S1:	and what psychologists have developed (.) is what's called the
+	crosssequential method (.) which gets around (.) some of the
+	difficulties of both of these .
+%mor:	coord|and pro:int|what n|psychology-IST-PL aux|have
+	part|develop-PASTP aux|be&3S pro:int|what~aux|be&3S part|call-PASTP
+	det:art|the cross#adj|sequential n|method pro:rel|which v|get-3S
+	adv|around qn|some prep|of det:art|the n|difficulty-PL prep|of
+	qn|both prep|of pro:dem|these .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|9|SUBJ 6|9|AUX 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|12|DET 11|12|MOD 12|9|OBJ 13|14|LINK 14|12|CMOD 15|14|JCT
+	16|14|JCT 17|16|NJCT 18|19|DET 19|17|POBJ 20|19|NJCT 21|20|POBJ 22|21|NJCT
+	23|22|POBJ 24|9|PUNCT
+*S1:	&-uh and that's not mentioned in any of your textbooks as far as I
+	can determine crosssequential is essentially (.) if I want to study
+	teenagers (.) I take and what happens say (.) from twelve to twenty
+	two say a ten year period .
+%mor:	coord|and pro:dem|that~cop|be&3S neg|not part|mention-PASTP prep|in
+	qn|any prep|of det:poss|your n|textbook-PL adv|as adv|far conj|as
+	pro:sub|I mod|can v|determine cross#adj|sequential aux|be&3S
+	adv|essential&dadj-LY conj|if pro:sub|I v|want prep|to n|study
+	n|teenager-PL pro:sub|I v|take coord|and pro:int|what v|happen-3S
+	v|say prep|from det:num|twelve prep|to det:num|twenty det:num|two
+	v|say det:art|a det:num|ten n|year n|period .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|XJCT 6|5|JCT 7|8|QUANT 8|27|JCT
+	9|10|DET 10|8|POBJ 11|12|COORD 12|27|JCT 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|27|CJCT 17|27|SUBJ 18|27|AUX 19|27|JCT 20|22|LINK 21|22|SUBJ
+	22|27|CJCT 23|22|JCT 24|25|MOD 25|23|POBJ 26|27|SUBJ 27|6|POBJ 28|27|CONJ
+	29|30|DET 30|28|COORD 31|30|OBJ 32|31|JCT 33|32|POBJ 34|33|NJCT 35|34|POBJ
+	36|37|QUANT 37|30|CJCT 38|41|DET 39|40|QUANT 40|41|MOD 41|37|OBJ
+	42|3|PUNCT
+*S1:	so I start out (.) and I take a group of twelve year+olds and
+	fifteen year+olds and eighteen year+olds (.) and say twenty two
+	year+olds (.) and I measure them (.) all I get measures on all of
+	them so I've got a crosssectional (.) analysis (.) of development
+	from twelve to twenty two .
+%mor:	co|so pro:sub|I v|start adv|out coord|and pro:sub|I v|take
+	det:art|a n|group prep|of det:num|twelve n|+n|year+adj|old-PL
+	coord|and det:num|fifteen n|+n|year+adj|old-PL coord|and
+	det:num|eighteen n|+n|year+adj|old-PL coord|and v|say det:num|twenty
+	det:num|two n|+n|year+adj|old-PL coord|and pro:sub|I v|measure
+	pro:obj|them adv|all pro:sub|I v|get n|measure-PL adv|on adv|all
+	prep|of pro:obj|them conj|so pro:sub|I~aux|have part|get&PASTP
+	det:art|a cross#adj|section&dn-AL n|analysis prep|of
+	n|develop&dv-MENT prep|from det:num|twelve prep|to det:num|twenty
+	det:num|two .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|12|QUANT 12|10|POBJ 13|9|CONJ 14|15|QUANT 15|13|COORD
+	16|9|CONJ 17|18|QUANT 18|16|COORD 19|3|CONJ 20|19|COORD 21|23|QUANT
+	22|23|QUANT 23|20|OBJ 24|26|LINK 25|26|SUBJ 26|3|CJCT 27|26|OBJ 28|30|JCT
+	29|30|SUBJ 30|26|CJCT 31|30|OBJ 32|30|JCT 33|30|JCT 34|33|JCT 35|34|POBJ
+	36|39|LINK 37|39|SUBJ 38|39|AUX 39|30|CJCT 40|42|DET 41|42|MOD 42|39|OBJ
+	43|42|NJCT 44|43|POBJ 45|42|NJCT 46|45|POBJ 47|46|JCT 48|49|QUANT
+	49|47|POBJ 50|3|PUNCT
+*S1:	and then I follow (.) each of these groups (.) until they reach
+	twenty two .
+%mor:	coord|and adv:tem|then pro:sub|I v|follow qn|each prep|of
+	det:dem|these n|group-PL conj|until pro:sub|they v|reach
+	det:num|twenty det:num|two .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|4|CJCT 12|13|QUANT 13|11|OBJ 14|4|PUNCT
+*S1:	so (.) the eighteen year+olds I follow four years the fifteen
+	year+olds (.) seven years the twelve year+olds ten years and so
+	forth (.) so I've got the longitudinal data on them as_well .
+%mor:	co|so det:art|the det:num|eighteen n|+n|year+adj|old-PL pro:sub|I
+	v|follow det:num|four n|year-PL det:art|the det:num|fifteen
+	n|+n|year+adj|old-PL det:num|seven n|year-PL det:art|the
+	det:num|twelve n|+n|year+adj|old-PL det:num|ten n|year-PL coord|and
+	adv|so adv|forth conj|so pro:sub|I~aux|have part|get&PASTP
+	det:art|the adj|longitudinal n|data prep|on pro:obj|them adv|as_well
+	.
+%gra:	1|4|COM 2|4|DET 3|4|QUANT 4|0|INCROOT 5|6|SUBJ 6|4|CMOD 7|8|QUANT
+	8|18|MOD 9|11|DET 10|11|QUANT 11|18|MOD 12|13|QUANT 13|18|MOD 14|16|DET
+	15|16|QUANT 16|18|MOD 17|18|QUANT 18|6|OBJ 19|18|CONJ 20|21|JCT 21|19|COORD
+	22|25|LINK 23|25|SUBJ 24|25|AUX 25|4|CJCT 26|28|DET 27|28|MOD 28|25|OBJ
+	29|25|JCT 30|29|POBJ 31|25|JCT 32|4|PUNCT
+*S1:	but then in addition to that (.) each three years say if I'm using
+	a thirty year cycle (.) I pick up a new group of twelve year+olds
+	and follow them too .
+%mor:	conj|but adv:tem|then prep|in n|addition prep|to det:dem|that
+	qn|each det:num|three n|year-PL v|say conj|if pro:sub|I~aux|be&1S
+	part|use-PRESP det:art|a det:num|thirty n|year n|cycle pro:sub|I
+	v|pick adv|up det:art|a adj|new n|group prep|of det:num|twelve
+	n|+n|year+adj|old-PL coord|and v|follow pro:obj|them post|too .
+%gra:	1|10|LINK 2|10|JCT 3|10|JCT 4|3|POBJ 5|10|JCT 6|9|DET 7|9|QUANT
+	8|9|QUANT 9|5|POBJ 10|0|ROOT 11|14|LINK 12|14|SUBJ 13|14|AUX 14|20|CJCT
+	15|18|DET 16|17|QUANT 17|18|MOD 18|14|OBJ 19|20|SUBJ 20|10|COMP 21|20|JCT
+	22|24|DET 23|24|MOD 24|21|POBJ 25|24|NJCT 26|27|QUANT 27|25|POBJ 28|20|CONJ
+	29|28|COORD 30|29|OBJ 31|29|JCT 32|10|PUNCT
+*S1:	so I get rid of the particular historical circumstances (.) that
+	affected the development of my first group of twelve year+olds as
+	they (.) moved up to twenty two (.) by (.) seeing if the same sorts
+	of things happened to a new group as they moved through that period
+	that's called the crosssequential method .
+%mor:	co|so pro:sub|I v|get v|rid&ZERO prep|of det:art|the n|particular
+	adj|historic-AL n|circumstance-PL pro:rel|that v|affect-PAST
+	det:art|the n|develop&dv-MENT prep|of det:poss|my adj|first n|group
+	prep|of det:num|twelve n|+n|year+adj|old-PL conj|as pro:sub|they
+	v|move-PAST adv|up prep|to det:num|twenty det:num|two prep|by
+	n:gerund|see-PRESP comp|if det:art|the adj|same n|sort-PL prep|of
+	n|thing-PL v|happen-PAST prep|to det:art|a adj|new n|group conj|as
+	pro:sub|they v|move-PAST prep|through det:dem|that n|period
+	pro:rel|that~aux|be&3S part|call-PASTP det:art|the
+	cross#adj|sequential n|method .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|7|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|11|LINK 11|9|CMOD 12|13|DET 13|11|OBJ 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|17|NJCT 19|20|QUANT 20|18|POBJ 21|23|LINK 22|23|SUBJ
+	23|3|CJCT 24|23|JCT 25|23|JCT 26|27|QUANT 27|25|POBJ 28|3|JCT 29|28|POBJ
+	30|36|LINK 31|33|DET 32|33|MOD 33|36|SUBJ 34|33|NJCT 35|34|POBJ
+	36|29|CMOD 37|36|JCT 38|40|DET 39|40|MOD 40|37|POBJ 41|43|LINK 42|43|SUBJ
+	43|36|CJCT 44|43|JCT 45|46|DET 46|44|POBJ 47|49|LINK 48|49|AUX 49|46|CMOD
+	50|52|DET 51|52|MOD 52|49|OBJ 53|3|PUNCT
+*S1:	and it's probably better than either of the others and it's more
+	expensive and more difficult to carry out .
+%mor:	coord|and pro:per|it~cop|be&3S adv|probable&dadj-LY adv|good&CP
+	prep|than adv|either prep|of det:art|the n:pt|others coord|and
+	pro:per|it~cop|be&3S adv|more adj|expensive coord|and adv|more
+	adj|difficult inf|to v|carry adv|out .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|13|JCT 6|13|JCT 7|13|JCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|13|LINK 12|13|SUBJ 13|3|PRED 14|15|JCT 15|13|PRED
+	16|13|CONJ 17|18|JCT 18|16|COORD 19|20|INF 20|18|XMOD 21|20|JCT
+	22|3|PUNCT
+*S1:	okay flip over your review sheet and do the second page .
+%mor:	co|okay v|flip adv|over det:poss|your n|review n|sheet coord|and
+	v|do det:art|the adj|second n|page .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|2|OBJ 7|2|CONJ 8|7|COORD
+	9|11|DET 10|11|MOD 11|8|OBJ 12|2|PUNCT
+*S1:	&=pause_while_students_complete_exercise how many aren't finished ?
+%mor:	pro:int|how qn|many aux|be&PRES~neg|not part|finish-PASTP ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*S1:	okay a couple well you can finish up while we &g why do you suppose
+	I took a break in between having you do the first and second page ?
+%mor:	co|okay det:art|a n|couple adv|well pro:per|you mod|can v|finish
+	adv|up conj|while pro:sub|we pro:int|why mod|do pro:per|you
+	v|suppose pro:sub|I v|take&PAST det:art|a n|break adv|in adv|between
+	part|have-PRESP pro:per|you v|do det:art|the adj|first coord|and
+	adj|second n|page ?
+%gra:	1|3|COM 2|3|DET 3|7|SUBJ 4|7|JCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|14|LINK 10|14|SUBJ 11|14|JCT 12|14|AUX 13|14|SUBJ 14|16|CJCT 15|16|SUBJ
+	16|7|CJCT 17|18|DET 18|16|OBJ 19|16|JCT 20|21|JCT 21|16|XJCT 22|23|SUBJ
+	23|21|COMP 24|25|DET 25|23|JCT 26|25|CONJ 27|28|MOD 28|26|COORD 29|7|PUNCT
+*S1:	anyone have a guess +..?
+%mor:	pro:indef|anyone v|have det:art|a n|guess +..?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*S1:	basically it's to get (.) presumably out_of your (.) working memory
+	(.) what you did on the first page so that you approach the second
+	page more or less (.) drawing on your long term memory (.) rather
+	than just kind_of repeating (.) exactly the same thing you did on
+	the first page .
+%mor:	adv|basic&dadj-AL-LY pro:per|it~cop|be&3S inf|to v|get
+	adv|presume&dadj-ABLE-LY prep|out_of det:poss|your part|work-PRESP
+	n|memory pro:int|what pro:per|you v|do&PAST prep|on det:art|the
+	adj|first n|page co|so comp|that pro:per|you v|approach det:art|the
+	adj|second n|page adv|more coord|or adj|less n|drawing prep|on
+	det:poss|your adj|long n|term n|memory adv|rather prep|than adj|just
+	adv|kind_of part|repeat-PRESP adv|exact&dadj-LY det:art|the adj|same
+	n|thing pro:per|you v|do&PAST prep|on det:art|the adj|first n|page .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|CPRED 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|XMOD 10|7|POBJ 11|13|LINK 12|13|SUBJ 13|5|COMP 14|13|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|21|COM 19|21|LINK 20|21|SUBJ 21|13|CJCT 22|24|DET
+	23|24|MOD 24|21|OBJ 25|24|NJCT 26|25|CONJ 27|28|MOD 28|26|COORD
+	29|21|JCT 30|33|DET 31|33|MOD 32|33|MOD 33|29|POBJ 34|33|NJCT 35|34|JCT
+	36|38|JCT 37|38|JCT 38|35|CPOBJ 39|38|JCT 40|42|DET 41|42|MOD 42|39|POBJ
+	43|44|SUBJ 44|42|CMOD 45|44|JCT 46|48|DET 47|48|MOD 48|45|POBJ 49|3|PUNCT
+*S1:	and that's why we have a different cue word for you to start with
+	in the second page .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:int|why pro:sub|we v|have
+	det:art|a adj|different n|cue n|word prep|for pro:per|you inf|to
+	v|start prep|with prep|in det:art|the adj|second n|page .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CPRED 7|10|DET
+	8|10|MOD 9|10|MOD 10|6|OBJ 11|10|NJCT 12|11|POBJ 13|14|INF 14|10|XMOD 15|14|JCT
+	16|14|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|3|PUNCT
+*S1:	there'll be still a different one on the third page .
+%mor:	pro:exist|there~mod|will cop|be adv|still det:art|a adj|different
+	pro:indef|one prep|on det:art|the n|third n|page .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|3|PRED 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|3|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	second topic (.) is stage (.) versus (.) continuity stability
+	versus change (.) and basically &-uh I think it's been well
+	established now for probably (.) fifty years (.) that we don't
+	exactly progress &ex the way Piaget thought we did .
+%mor:	adj|second n|topic cop|be&3S v|stage prep|versus n|continuity
+	n|stable&dadj-ITY prep|versus n|change coord|and
+	adv|basic&dadj-AL-LY pro:sub|I v|think pro:per|it~cop|be&3S
+	cop|be&PASTP adv|well part|establish-PASTP adv|now prep|for
+	adv|probable&dadj-LY det:num|fifty n|year-PL pro:rel|that pro:sub|we
+	mod|do~neg|not adv|exact&dadj-LY v|progress det:art|the n|way
+	n:prop|Piaget v|think&PAST pro:sub|we v|do&PAST .
+%gra:	1|2|MOD 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|JCT
+	9|8|POBJ 10|13|LINK 11|13|JCT 12|13|SUBJ 13|4|CJCT 14|15|SUBJ 15|13|COMP
+	16|15|PRED 17|16|JCT 18|16|XJCT 19|18|JCT 20|18|JCT 21|22|JCT 22|23|QUANT
+	23|20|POBJ 24|29|LINK 25|29|SUBJ 26|29|AUX 27|26|NEG 28|29|JCT
+	29|23|CMOD 30|31|DET 31|29|OBJ 32|33|SUBJ 33|31|CMOD 34|35|SUBJ 35|33|COMP
+	36|4|PUNCT
+*S1:	that is &-uh Piaget had certain set ages (.) that things were to
+	occur and where certain transitions occurred (.) and &-uh it turns
+	out some kids (.) transition earlier some later actually (.) some of
+	the things he thought didn't occur (un)til later now we can find as
+	your books show .
+%mor:	pro:rel|that aux|be&3S n:prop|Piaget part|have&PASTP adj|certain
+	n|set n|age-PL pro:rel|that n|thing-PL cop|be&PAST inf|to v|occur
+	coord|and pro:int|where adj|certain n|transition-PL v|occur-PAST
+	coord|and pro:per|it v|turn-3S adv|out qn|some n|kid-PL n|transition
+	adj|early-CP qn|some adv|later adv|actual&dadj-LY pro:indef|some
+	prep|of det:art|the n|thing-PL pro:sub|he v|think&PAST
+	mod|do&PAST~neg|not v|occur prep|until adv|later adv|now pro:sub|we
+	mod|can v|find conj|as det:poss|your n|book-PL n|show .
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|MOD 6|7|MOD 7|4|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|12|INF 12|10|COMP 13|12|CONJ 14|17|LINK 15|16|MOD
+	16|17|SUBJ 17|13|COORD 18|20|LINK 19|20|SUBJ 20|17|COMP 21|20|JCT
+	22|24|QUANT 23|24|MOD 24|20|OBJ 25|24|POSTMOD 26|27|QUANT 27|28|JCT 28|24|NJCT
+	29|28|POBJ 30|29|NJCT 31|32|DET 32|30|POBJ 33|34|SUBJ 34|17|CJCT
+	35|37|AUX 36|35|NEG 37|34|COMP 38|43|LINK 39|40|JCT 40|43|JCT 41|43|SUBJ
+	42|43|AUX 43|37|CJCT 44|47|COORD 45|47|DET 46|47|MOD 47|43|ENUM 48|4|PUNCT
+*S1:	&-uh infants are really much better than we ever realized now that
+	we have better methods of studying them (.) so (.) that's &-uh the
+	stages are helpful I think in giving us a kind of sense of (.)
+	things that happen in development .
+%mor:	n|infant-PL cop|be&PRES adv|real&dadj-LY adv|much adv|good&CP
+	prep|than pro:sub|we adv|ever part|realize-PASTP adv|now comp|that
+	pro:sub|we v|have adj|good&CP n|method-PL prep|of
+	n:gerund|study-PRESP pro:obj|them conj|so pro:dem|that~cop|be&3S
+	det:art|the n|stage-PL cop|be&PRES adj|help&dn-FULL pro:sub|I
+	v|think prep|in n:gerund|give-PRESP pro:obj|us det:art|a n|kind
+	prep|of n|sense prep|of n|thing-PL pro:rel|that v|happen prep|in
+	n|develop&dv-MENT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|9|JCT 4|9|JCT 5|9|JCT 6|9|JCT 7|9|SUBJ 8|9|JCT
+	9|2|PRED 10|9|JCT 11|13|LINK 12|13|SUBJ 13|9|COMP 14|15|MOD 15|13|OBJ
+	16|15|NJCT 17|16|POBJ 18|15|ENUM 19|21|LINK 20|21|SUBJ 21|2|CJCT 22|23|DET
+	23|24|SUBJ 24|27|CJCT 25|24|PRED 26|27|SUBJ 27|21|CPRED 28|27|JCT
+	29|28|POBJ 30|29|OBJ 31|32|DET 32|29|OBJ 33|32|NJCT 34|33|POBJ 35|34|NJCT
+	36|35|POBJ 37|38|LINK 38|36|CMOD 39|38|JCT 40|39|POBJ 41|2|PUNCT
+*S1:	but the notion that (.) development's kind_of discontinuous that is
+	that you're in one stage (.) then you make a &s sudden transition to
+	another stage and so forth (.) and sometimes &i it is (.) it does
+	seem kind of amazing (.) how all of a sudden a child who couldn't do
+	something one day (.) in a just a little (.) few days later all of a
+	sudden can do something .
+%mor:	conj|but det:art|the n|notion adv|that adj|develop&dn-MENT-POSS
+	adv|kind_of adj|discontinuous pro:rel|that cop|be&3S adv|that
+	pro:per|you~cop|be&PRES adv|in det:num|one n|stage adv:tem|then
+	pro:per|you v|make det:art|a adj|sudden n|transition prep|to
+	qn|another n|stage coord|and co|so adv|forth coord|and adv|sometimes
+	pro:per|it cop|be&3S pro:per|it mod|do&3S cop|seem n|kind prep|of
+	n:gerund|amaze-PRESP pro:rel|how pro:indef|all prep|of det:art|a
+	adj|sudden det:art|a n|child pro:int|who mod|could~neg|not v|do
+	pro:indef|something det:num|one n|day prep|in det:art|a adv|just
+	det:art|a adj|little qn|few n|day-PL adv|later pro:indef|all prep|of
+	det:art|a adj|sudden mod|can v|do pro:indef|something .
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT 4|3|NJCT 5|3|NJCT 6|7|JCT 7|5|ROOT
+	8|9|LINK 9|7|ROOT 10|12|JCT 11|12|SUBJ 12|9|ROOT 13|18|JCT 14|15|QUANT
+	15|18|SUBJ 16|18|JCT 17|18|SUBJ 18|12|ROOT 19|21|DET 20|21|MOD 21|18|OBJ
+	22|21|NJCT 23|24|QUANT 24|22|POBJ 25|31|LINK 26|31|COM 27|31|JCT 28|31|LINK
+	29|31|JCT 30|31|SUBJ 31|21|ROOT 32|34|SUBJ 33|34|AUX 34|31|ROOT 35|34|PRED
+	36|35|NJCT 37|36|POBJ 38|39|LINK 39|37|INCROOT 40|39|NJCT 41|42|DET
+	42|40|POBJ 43|44|DET 44|42|OBJ 45|48|SUBJ 46|48|AUX 47|46|NEG 48|44|CMOD
+	49|48|OBJ 50|51|QUANT 51|48|JCT 52|48|JCT 53|54|DET 54|58|JCT 55|58|DET
+	56|58|MOD 57|58|QUANT 58|52|POBJ 59|48|JCT 60|59|POBJ 61|60|NJCT 62|65|DET
+	63|65|SUBJ 64|65|AUX 65|61|POBJ 66|65|OBJ 67|39|PUNCT
+*S1:	so (.) you can see how Piaget got the notion he got it from his own
+	children (.) that there were a few +//.
+%mor:	co|so pro:per|you mod|can v|see pro:int|how n:prop|Piaget
+	v|get&PAST det:art|the n|notion pro:sub|he v|get&PAST pro:per|it
+	prep|from det:poss|his adj|own n|child&PL adv|that adv|there
+	cop|be&PAST det:art|a qn|few +//.
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|9|DET
+	9|7|OBJ 10|11|SUBJ 11|4|CJCT 12|11|OBJ 13|11|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|19|JCT 18|19|SUBJ 19|11|CJCT 20|21|DET 21|19|PRED 22|4|PUNCT
+*S1:	I remember asking Levinson (.) the mid life crisis guy once (.)
+	well does the mid life crisis have to occur at forty ?
+%mor:	pro:sub|I v|remember part|ask-PRESP n:prop|Levinson det:art|the
+	adj|mid n|life n|crisis n|guy conj|once n|well v|do&3S det:art|the
+	adj|mid n|life n|crisis v|have inf|to v|occur prep|at det:num|forty
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|17|XJCT 4|3|OBJ 5|9|DET 6|7|MOD 7|9|MOD 8|9|MOD
+	9|4|APP 10|12|LINK 11|12|SUBJ 12|17|CJCT 13|16|DET 14|15|MOD 15|16|MOD
+	16|17|SUBJ 17|2|COMP 18|19|INF 19|17|COMP 20|19|JCT 21|20|POBJ 22|2|PUNCT
+*S1:	mightn't it be later say for (.) academics who don't &g actually
+	(.) get into their (.) career until probably thirty or so (.) as
+	compared with other people who start (.) say going to work when
+	they're eighteen or twenty ?
+%mor:	mod|might~neg|not pro:per|it aux|be adv|later co|say prep|for
+	n:pt|academics pro:int|who mod|do~neg|not adv|actual&dadj-LY v|get
+	prep|into det:poss|their n|career prep|until adv|probable&dadj-LY
+	det:num|thirty coord|or co|so adv|as v|compare-PAST prep|with
+	qn|other n|person&PL pro:rel|who v|start co|say part|go-PRESP
+	prep|to n|work conj|when pro:sub|they~cop|be&PRES det:num|eighteen
+	coord|or det:num|twenty ?
+%gra:	1|6|AUX 2|1|NEG 3|6|SUBJ 4|6|AUX 5|6|JCT 6|13|COM 7|13|JCT 8|7|POBJ
+	9|13|SUBJ 10|13|AUX 11|10|NEG 12|13|JCT 13|0|ROOT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|13|JCT 18|19|JCT 19|17|POBJ 20|19|CONJ 21|20|COORD 22|23|JCT
+	23|13|CJCT 24|23|JCT 25|26|QUANT 26|24|POBJ 27|28|LINK 28|26|CMOD
+	29|30|COM 30|28|COMP 31|30|JCT 32|31|POBJ 33|35|LINK 34|35|SUBJ 35|23|CJCT
+	36|35|PRED 37|36|CONJ 38|37|COORD 39|13|PUNCT
+*S1:	he said nope it's forty years plus or minus one or two well it's
+	not people can (.) have crises at almost any time (.) but the
+	problem is (.) that once you get certain stage ideas into the
+	culture so people believe them (.) we develop stereotypes .
+%mor:	pro:sub|he v|say&PAST co|nope pro:per|it~cop|be&3S det:num|forty
+	n|year-PL adv|plus coord|or prep|minus det:num|one coord|or
+	det:num|two n|well pro:per|it~cop|be&3S neg|not n|person&PL mod|can
+	v|have n|crisis&PL prep|at adv|almost qn|any n|time conj|but
+	det:art|the n|problem cop|be&3S pro:dem|that conj|once pro:per|you
+	v|get adj|certain n|stage n|idea-PL prep|into det:art|the n|culture
+	adv|so n|person&PL v|believe pro:obj|them pro:sub|we v|develop
+	n|stereotype-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|COM 4|5|SUBJ 5|2|COMP 6|7|QUANT 7|5|PRED 8|7|NJCT
+	9|16|LINK 10|16|JCT 11|10|POBJ 12|11|CONJ 13|14|QUANT 14|12|COORD
+	15|16|SUBJ 16|7|CJCT 17|16|NEG 18|20|SUBJ 19|20|AUX 20|16|CPRED 21|20|OBJ
+	22|20|JCT 23|25|JCT 24|25|QUANT 25|22|POBJ 26|29|LINK 27|28|DET 28|29|SUBJ
+	29|42|CJCT 30|29|PRED 31|33|LINK 32|33|SUBJ 33|42|CJCT 34|36|MOD
+	35|36|MOD 36|33|OBJ 37|33|JCT 38|39|DET 39|37|POBJ 40|42|JCT 41|42|SUBJ
+	42|20|CJCT 43|42|OBJ 44|45|SUBJ 45|42|COMP 46|45|OBJ 47|2|PUNCT
+*S1:	&-uh if &-uh you know if one of my colleagues falls in love with a
+	student at age (.) forty or forty five or something people say oh
+	he's going through the mid life crisis .
+%mor:	conj|if pro:per|you v|know comp|if det:num|one prep|of det:poss|my
+	n|colleague-PL v|fall-3S adv|in n|love prep|with det:art|a n|student
+	prep|at n|age det:num|forty coord|or det:num|forty det:num|five
+	coord|or pro:indef|something n|person&PL co|say co|oh
+	pro:sub|he~aux|be&3S part|go-PRESP prep|through det:art|the adj|mid
+	n|life n|crisis .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|9|LINK 5|9|SUBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|COMP 10|9|JCT 11|10|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|20|QUANT 18|17|CONJ 19|18|COORD 20|14|APP 21|20|CONJ
+	22|23|MOD 23|21|COORD 24|28|COM 25|28|COM 26|28|SUBJ 27|28|AUX 28|9|XJCT
+	29|28|JCT 30|33|DET 31|33|MOD 32|33|MOD 33|29|POBJ 34|3|PUNCT
+*S1:	so we [x 3] &lab use these labels (.) and &-uh kind_of take it for
+	granted people get +//.
+%mor:	co|so pro:sub|we v|use det:dem|these n|label-PL coord|and
+	adv|kind_of v|take pro:per|it prep|for part|grant-PASTP n|person&PL
+	v|get +//.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|8|JCT 8|6|COORD
+	9|8|OBJ 10|8|JCT 11|13|XJCT 12|13|SUBJ 13|10|POBJ 14|3|PUNCT
+*S1:	teenagers for example .
+%mor:	n|teenager-PL prep|for ex#adj|ample .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*S1:	if a teenager &-uh does something the parents don't like they say
+	well it's just teenage rebellion .
+%mor:	comp|if det:art|a n|teenager mod|do&3S pro:indef|something
+	det:art|the n|parent-PL mod|do~neg|not co|like pro:sub|they v|say
+	adv|well pro:per|it~cop|be&3S adj|just adj|teenage n|rebellion .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|AUX
+	9|8|NEG 10|12|COM 11|12|SUBJ 12|7|CMOD 13|12|JCT 14|15|SUBJ 15|12|COMP
+	16|18|MOD 17|18|MOD 18|15|PRED 19|5|PUNCT
+*S1:	(be)cause we've got a concept of adolescence .
+%mor:	conj|because pro:sub|we~aux|have part|get&PASTP det:art|a n|concept
+	prep|of n|adolescence .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+*S1:	other cultures don't necessarily have a concept that there's this
+	stage called adolescence .
+%mor:	qn|other n|culture-PL mod|do~neg|not adv|necessary&dadj-LY v|have
+	det:art|a n|concept pro:rel|that pro:exist|there~cop|be&3S
+	det:dem|this n|stage v|call-PAST n|adolescence .
+%gra:	1|2|QUANT 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|JCT 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|13|DET 13|11|PRED 14|13|CMOD 15|14|OBJ
+	16|6|PUNCT
+*S1:	so they don't have these stereotypes (.) and the stereotypes affect
+	(.) the people at that particular age and they affect the
+	perceptions of other people at that age .
+%mor:	co|so pro:sub|they mod|do~neg|not v|have det:dem|these
+	n|stereotype-PL coord|and det:art|the n|stereotype-PL v|affect
+	det:art|the n|person&PL prep|at det:dem|that adj|particular n|age
+	coord|and pro:sub|they v|affect det:art|the n|perception-PL prep|of
+	qn|other n|person&PL prep|at det:dem|that n|age .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|11|SUBJ 8|7|CONJ
+	9|10|DET 10|8|COORD 11|5|COMP 12|13|DET 13|11|OBJ 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|20|LINK 19|20|SUBJ 20|5|CJCT 21|22|DET 22|20|OBJ
+	23|22|NJCT 24|25|QUANT 25|23|POBJ 26|22|NJCT 27|28|DET 28|26|POBJ
+	29|5|PUNCT
+*S1:	and even though we have these stereotypes not all teenagers are
+	rebellious most men don't experience a mid life crisis (.) the
+	transitions don't occur when they're supposed to .
+%mor:	coord|and adv|even adv|though pro:sub|we v|have det:dem|these
+	n|stereotype-PL neg|not adv|all n|teenager-PL cop|be&PRES
+	adj|rebellious qn|most n|man&PL mod|do~neg|not v|experience
+	det:art|a adj|mid n|life n|crisis det:art|the n|transition-PL
+	mod|do~neg|not v|occur pro:int|when pro:sub|they~aux|be&PRES
+	part|suppose-PASTP inf|to .
+%gra:	1|5|LINK 2|3|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|11|JCT 8|7|NEG
+	9|10|JCT 10|11|SUBJ 11|5|COMP 12|11|PRED 13|14|QUANT 14|17|SUBJ 15|17|AUX
+	16|15|NEG 17|11|CJCT 18|21|DET 19|20|MOD 20|21|MOD 21|17|OBJ 22|23|DET
+	23|26|SUBJ 24|26|AUX 25|24|NEG 26|21|CMOD 27|30|LINK 28|30|SUBJ 29|30|AUX
+	30|26|COMP 31|30|OBJ 32|5|PUNCT
+*S1:	what about stability versus change ?
+%mor:	pro:int|what adv|about n|stable&dadj-ITY prep|versus n|change ?
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+*S1:	general notion has been (.) people pretty much stay the way they
+	are .
+%mor:	adj|general n|notion aux|have&3S aux|be&PASTP n|person&PL
+	adj|pretty adv|much v|stay det:art|the n|way pro:sub|they
+	cop|be&PRES .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|AUX 4|5|AUX 5|8|SUBJ 6|8|JCT 7|6|JCT 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|12|SUBJ 12|10|CMOD 13|8|PUNCT
+*S1:	&-uh you_know you're you (.) and you're gonna be pretty much the
+	same sort_of person the rest of your life .
+%mor:	co|you_know pro:per|you~cop|be&PRES pro:per|you coord|and
+	pro:per|you~aux|be&PRES part|go-PRESP~inf|to cop|be adv|pretty
+	adv|much det:art|the adj|same adv|sort_of n|person det:art|the
+	n|rest prep|of det:poss|your n|life .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CJCT
+	9|10|INF 10|8|COMP 11|12|JCT 12|10|JCT 13|16|DET 14|16|MOD 15|16|JCT
+	16|12|POBJ 17|18|DET 18|16|OBJ 19|18|NJCT 20|21|DET 21|19|POBJ 22|3|PUNCT
+*S1:	now that you've established your identity (.) which according to
+	Erickson is what you should be working on now .
+%mor:	adv|now adv|that pro:per|you~aux|have part|establish-PASTP
+	det:poss|your n|identity pro:rel|which part|accord-PRESP prep|to
+	n:prop|Erickson cop|be&3S pro:int|what pro:per|you mod|should aux|be
+	part|work-PRESP prep|on adv|now .
+%gra:	1|5|JCT 2|5|JCT 3|5|SUBJ 4|5|AUX 5|12|LINK 6|7|DET 7|12|SUBJ 8|9|LINK
+	9|7|CMOD 10|9|JCT 11|10|POBJ 12|0|ROOT 13|17|LINK 14|17|SUBJ 15|17|AUX
+	16|17|AUX 17|12|CPRED 18|17|JCT 19|18|POBJ 20|12|PUNCT
+*S1:	&-uh well &-uh Baltes and Brim Baltes is at the Max Planck
+	Institute in (.) Berlin .
+%mor:	co|well n:prop|Baltes coord|and n:prop|Brim n:prop|Baltes cop|be&3S
+	prep|at det:art|the n:prop|Max n:prop|Planck n:prop|Institute
+	prep|in n:prop|Berlin .
+%gra:	1|2|COM 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|NAME 11|7|POBJ 12|11|NJCT 13|12|POBJ 14|6|PUNCT
+*S1:	Bert Brim's now retired and he's head of the Russell Sage
+	Foundation .
+%mor:	n:prop|Bert n:prop|Brim~aux|be&3S adv|now part|retire-PASTP
+	coord|and pro:sub|he~cop|be&3S n|head prep|of det:art|the
+	n:prop|Russell n:prop|Sage n:prop|Foundation .
+%gra:	1|2|NAME 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|8|PRED 10|9|NJCT 11|12|DET 12|14|NAME 13|14|NAME 14|10|POBJ 15|5|PUNCT
+*S1:	&-uh both friends of mine , <they both> [//] &-uh they published a
+	whole book on continuity and change .
+%mor:	qn|both n|friend-PL prep|of pro:poss|mine cm|cm pro:sub|they
+	v|publish-PAST det:art|a adj|whole n|book prep|on n|continuity
+	coord|and n|change .
+%gra:	1|2|QUANT 2|7|JCT 3|2|NJCT 4|3|POBJ 5|2|LP 6|7|SUBJ 7|0|ROOT 8|10|DET
+	9|10|MOD 10|7|OBJ 11|7|JCT 12|11|POBJ 13|12|CONJ 14|13|COORD 15|7|PUNCT
+*S1:	what they showed was (.) that there is some kind of (.) stability .
+%mor:	pro:int|what pro:sub|they v|show-PAST aux|be&PAST&13S adv|that
+	pro:exist|there cop|be&3S qn|some n|kind prep|of n|stable&dadj-ITY .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|SUBJ 4|7|AUX 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|9|QUANT
+	9|7|PRED 10|9|NJCT 11|10|POBJ 12|7|PUNCT
+*S1:	most people are in the same environment &-uh and as long as you're
+	in kind of the same community the same environment .
+%mor:	qn|most n|person&PL cop|be&PRES prep|in det:art|the adj|same
+	n|environment coord|and prep|as adj|long adv|as
+	pro:per|you~cop|be&PRES adv|in n|kind prep|of det:art|the adj|same
+	n|community det:art|the adj|same n|environment .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|7|CONJ
+	9|10|COORD 10|8|COORD 11|12|COORD 12|13|SUBJ 13|10|CMOD 14|13|JCT
+	15|14|POBJ 16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|22|DET 21|22|MOD
+	22|15|APP 23|3|PUNCT
+*S1:	with the same kinds of (.) peers family pressures and so forth you
+	stay pretty much the same .
+%mor:	prep|with det:art|the adj|same n|kind-PL prep|of n|peer-PL n|family
+	n|pressure-PL coord|and adv|so adv|forth pro:per|you v|stay
+	adv|pretty adv|much det:art|the adj|same .
+%gra:	1|13|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|4|NJCT 6|8|MOD 7|8|MOD 8|5|POBJ
+	9|8|CONJ 10|11|JCT 11|9|COORD 12|13|SUBJ 13|0|ROOT 14|13|JCT 15|17|JCT
+	16|17|DET 17|13|JCT 18|13|PUNCT
+*S1:	but on the other hand (.) there is some kind of continuous
+	development (.) that probably depends upon your interests .
+%mor:	conj|but prep|on det:art|the qn|other n|hand adv|there cop|be&3S
+	qn|some n|kind prep|of adj|continuous n|develop&dv-MENT adv|that
+	adv|probable&dadj-LY v|depend-3S prep|upon det:poss|your
+	n|interest-PL .
+%gra:	1|7|LINK 2|7|JCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|7|SUBJ 7|0|ROOT 8|9|QUANT
+	9|7|PRED 10|9|NJCT 11|12|MOD 12|10|POBJ 13|15|JCT 14|15|JCT 15|9|CMOD
+	16|15|JCT 17|18|DET 18|16|POBJ 19|7|PUNCT
+*S1:	&-uh you develop more knowledge .
+%mor:	pro:per|you v|develop qn|more n|knowledge .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*S1:	we've talked about crystallized and fluid intelligence .
+%mor:	pro:sub|we~aux|have part|talk-PASTP adv|about
+	part|crystallize-PASTP coord|and adj|fluid n|intelligence .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|COMP 6|5|CONJ 7|8|MOD 8|6|COORD
+	9|3|PUNCT
+*S1:	you develop more vocabulary probably if you're in a [/] a job that
+	requires you to use words .
+%mor:	pro:per|you v|develop qn|more n|vocabulary adv|probable&dadj-LY
+	conj|if pro:per|you~cop|be&PRES prep|in det:art|a n|job pro:rel|that
+	v|require-3S pro:per|you prep|to n|use n|word-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|13|LINK 13|11|CMOD 14|13|OBJ 15|13|JCT
+	16|17|MOD 17|15|POBJ 18|2|PUNCT
+*S1:	so there's a certain amount of continuity , certain amount of
+	stability .
+%mor:	adv|so pro:exist|there~cop|be&3S det:art|a adj|certain n|amount
+	prep|of n|continuity cm|cm adj|certain n|amount prep|of
+	n|stable&dadj-ITY .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|7|POBJ
+	9|6|LP 10|11|MOD 11|6|APP 12|11|NJCT 13|12|POBJ 14|3|PUNCT
+*S1:	and yet people at any age can change very dramatically .
+%mor:	coord|and adv|yet n|person&PL prep|at qn|any n|age n|can n|change
+	adv|very adv|dramatic&dadj-AL-LY .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|3|NJCT 5|8|QUANT 6|8|MOD 7|8|MOD
+	8|4|POBJ 9|10|JCT 10|8|NJCT 11|1|PUNCT
+*S1:	probably the most common example (.) is men tend to die before
+	women .
+%mor:	adv|probable&dadj-LY det:art|the qn|most adj|common ex#adj|ample
+	aux|be&3S n|man&PL v|tend prep|to n|die prep|before n|woman&PL .
+%gra:	1|3|JCT 2|3|DET 3|4|QUANT 4|8|JCT 5|8|SUBJ 6|8|AUX 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|10|NJCT 12|11|POBJ 13|8|PUNCT
+*S1:	and you &f very frequently find that a woman who's been pretty much
+	a conventional (.) say homemaker in the old days who &-uh acceded to
+	her husband the way the Southern Baptists want their women to do
+	&-uh and who &-uh you_know never took much responsibility for
+	finances or anything else &-uh all_of_a_sudden &-uh kind_of blossoms
+	out &-uh finds the strength and &-uh develops the skills that are
+	necessary to manage her own life very well .
+%mor:	coord|and pro:per|you adv|very adv|frequent&dadj-LY v|find
+	comp|that det:art|a n|woman pro:rel|who~cop|be&3S cop|be&PASTP
+	adv|pretty adv|much det:art|a adj|convention&dn-AL v|say n|homemaker
+	prep|in det:art|the adj|old n|day-PL pro:rel|who v|accede-PAST
+	prep|to det:poss|her n|husband det:art|the n|way det:art|the
+	n:prop|Southern n:prop|Baptists v|want det:poss|their n|woman&PL
+	inf|to v|do coord|and pro:int|who co|you_know adv|never v|take&PAST
+	adv|much n|responsible&dadj-ITY prep|for n|finance-PL coord|or
+	pro:indef|anything post|else adv|all_of_a_sudden adv|kind_of
+	v|blossom-3S adv|out v|find-3S det:art|the n|strength coord|and
+	v|develop-3S det:art|the n|skill-PL pro:rel|that cop|be&PRES
+	adj|necessary inf|to v|manage det:poss|her adj|own n|life adv|very
+	adv|well .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|OBJ 7|8|DET 8|6|OBJ
+	9|11|LINK 10|11|AUX 11|8|CMOD 12|11|JCT 13|11|JCT 14|16|DET 15|16|JCT
+	16|11|CPRED 17|16|OBJ 18|16|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|23|LINK
+	23|21|CMOD 24|23|JCT 25|26|DET 26|24|POBJ 27|28|DET 28|23|OBJ 29|30|DET
+	30|28|APP 31|32|SUBJ 32|30|CMOD 33|34|DET 34|32|OBJ 35|36|INF 36|32|COMP
+	37|51|LINK 38|41|LINK 39|41|COM 40|41|JCT 41|51|XJCT 42|41|JCT 43|51|SUBJ
+	44|43|NJCT 45|44|POBJ 46|43|CONJ 47|46|COORD 48|47|PQ 49|51|JCT 50|51|JCT
+	51|36|CJCT 52|51|JCT 53|51|COMP 54|55|DET 55|53|OBJ 56|53|CONJ
+	57|56|COORD 58|59|DET 59|57|OBJ 60|61|LINK 61|59|CMOD 62|61|PRED 63|64|INF
+	64|62|XMOD 65|67|DET 66|67|MOD 67|64|OBJ 68|69|JCT 69|64|JCT 70|5|PUNCT
+*S1:	&-uh religious conversions are other examples of people who (.)
+	make dramatic changes (.) in their lives so there's always the
+	potential for change .
+%mor:	adj|religious n|conversion-PL cop|be&PRES qn|other n|example-PL
+	prep|of n|person&PL pro:rel|who v|make adj|dramatic n|change-PL
+	prep|in det:poss|their n|life-PL adv|so pro:exist|there~cop|be&3S
+	adv|always det:art|the n|potential prep|for n|change .
+%gra:	1|2|MOD 2|3|SUBJ 3|17|SUBJ 4|5|QUANT 5|3|PRED 6|5|NJCT 7|6|POBJ
+	8|9|LINK 9|7|CMOD 10|11|MOD 11|9|OBJ 12|9|JCT 13|14|DET 14|12|POBJ 15|17|JCT
+	16|17|SUBJ 17|0|ROOT 18|20|JCT 19|20|DET 20|17|PRED 21|20|NJCT 22|21|POBJ
+	23|17|PUNCT
+*S1:	okay go on to the third page of the (.) ordered tree .
+%mor:	co|okay v|go adv|on prep|to det:art|the n|third n|page prep|of
+	det:art|the part|order-PASTP n|tree .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|2|PUNCT
+*S1:	&=pause_while_students_complete_exercise how many aren't through ?
+%mor:	pro:int|how qn|many aux|be&PRES~neg|not adv|through ?
+%gra:	1|3|LINK 2|3|QUANT 3|0|ROOT 4|3|NEG 5|3|JCT 6|3|PUNCT
+*S1:	okay +...
+%mor:	co|okay +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&-uh the third topic (.) I wanna take up (.) is chance .
+%mor:	det:art|the adj|third n|topic pro:sub|I v|want~inf|to v|take adv|up
+	cop|be&3S v|chance .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|5|SUBJ 5|3|CMOD 6|7|INF 7|5|COMP 8|7|JCT
+	9|7|COMP 10|9|CPRED 11|3|PUNCT
+*S1:	&-uh and that I talked about &-uh Al Bandura's &-uh theory of
+	observational learning (.) he's probably one of the (.) maybe the
+	foremost &-uh kind of (.) I don't know if you'd call him a
+	personality theory or theorist or developmental theorist or what
+	have you (.) he's a great guy (.) and &-uh he has emphasized (.)
+	more than any other psychologist (.) because psychologists +//.
+%mor:	coord|and comp|that pro:sub|I v|talk-PAST prep|about n:prop|Al
+	adj|Bandura&dn-POSS n|theory prep|of adj|observe&dn-TION-AL
+	n:gerund|learn-PRESP pro:sub|he~cop|be&3S adv|probable&dadj-LY
+	det:num|one prep|of det:art|the adv|maybe det:art|the adj|foremost
+	n|kind prep|of pro:sub|I mod|do~neg|not v|know comp|if
+	pro:per|you~mod|genmod v|call pro:obj|him det:art|a
+	n|personal&dadj-ITY n|theory coord|or n|theory-IST coord|or
+	adj|develop&dn-MENT-AL n|theory-IST coord|or pro:int|what aux|have
+	pro:per|you pro:sub|he~cop|be&3S det:art|a adj|great n|guy coord|and
+	pro:sub|he aux|have&3S part|emphasize-PASTP adv|more prep|than
+	qn|any qn|other n|psychology-IST conj|because n|psychology-IST-PL
+	+//.
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|13|SUBJ 13|4|CJCT 14|15|JCT 15|13|PRED
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|21|DET 20|21|MOD 21|18|POBJ 22|26|LINK
+	23|26|SUBJ 24|26|AUX 25|24|NEG 26|21|CMOD 27|30|LINK 28|30|SUBJ 29|30|AUX
+	30|26|COMP 31|30|OBJ2 32|34|DET 33|34|MOD 34|30|OBJ 35|34|CONJ
+	36|35|COORD 37|34|CONJ 38|39|MOD 39|37|COORD 40|45|LINK 41|45|SUBJ 42|45|AUX
+	43|45|SUBJ 44|45|SUBJ 45|34|CJCT 46|48|DET 47|48|MOD 48|45|PRED 49|52|LINK
+	50|52|SUBJ 51|52|AUX 52|48|CMOD 53|52|JCT 54|52|JCT 55|57|QUANT
+	56|57|QUANT 57|54|POBJ 58|59|LINK 59|52|CJCT 60|4|PUNCT
+*S1:	are you awake Phil ?
+%mor:	cop|be&PRES pro:per|you v|awake n:prop|Phil ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S4:	+, I'm sorry +/.
+%mor:	pro:sub|I~cop|be&1S adj|sorry +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S1:	+, &=laughs okay (.) looked as if you were about to fall off .
+%mor:	co|okay part|look-PASTP adv|as conj|if pro:per|you cop|be&PAST
+	adv|about inf|to v|fall adv|off .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|6|PRED 8|9|INF
+	9|7|COMP 10|9|JCT 11|2|PUNCT
+*S1:	&-uh the &-uh he emphasized this more than any other psychologist
+	probably .
+%mor:	det:art|the pro:sub|he v|emphasize-PAST det:dem|this qn|more
+	prep|than qn|any qn|other n|psychology-IST adv|probable&dadj-LY .
+%gra:	1|3|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|JCT 7|9|QUANT 8|9|QUANT
+	9|6|POBJ 10|9|NJCT 11|3|PUNCT
+*S1:	even though psychologists keep trying to find all of these (.)
+	variables that cause behavior in a certain way (.) he stresses you
+	know no matter how hard we work (.) there's always the role of
+	chance .
+%mor:	adv|even adv|though n|psychology-IST-PL v|keep part|try-PRESP
+	inf|to v|find pro:indef|all prep|of det:dem|these n|variable-PL
+	det:dem|that n|cause n|behavior prep|in det:art|a adj|certain n|way
+	pro:sub|he v|stress-3S pro:per|you v|know co|no n|matter pro:rel|how
+	adj|hard pro:sub|we v|work pro:exist|there~cop|be&3S adv|always
+	det:art|the n|role prep|of n|chance .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|7|INF 7|5|COMP 8|20|SUBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|14|DET 13|14|MOD 14|20|JCT 15|14|NJCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|20|SUBJ 20|7|COMP 21|22|SUBJ 22|20|COMP
+	23|24|COM 24|22|OBJ 25|28|LINK 26|28|JCT 27|28|SUBJ 28|24|CMOD 29|30|SUBJ
+	30|28|COMP 31|30|JCT 32|33|DET 33|31|POBJ 34|33|NJCT 35|34|POBJ
+	36|4|PUNCT
+*S1:	you simply we aren't gonna be able to predict all behavior because
+	chance variables play a big role .
+%mor:	pro:per|you adv|simple&dadj-LY pro:sub|we aux|be&PRES~neg|not
+	part|go-PRESP~inf|to cop|be adj|able inf|to v|predict qn|all
+	n|behavior conj|because n|chance n|variable-PL v|play det:art|a
+	adj|big n|role .
+%gra:	1|6|SUBJ 2|6|JCT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|PRED 10|11|INF 11|9|XMOD 12|13|QUANT 13|11|OBJ 14|17|LINK 15|16|MOD
+	16|17|SUBJ 17|11|CJCT 18|20|DET 19|20|MOD 20|17|OBJ 21|6|PUNCT
+*S1:	I keep telling people at basketball and football games they don't
+	realize how much variability there is and how much the outcome
+	depends upon chance .
+%mor:	pro:sub|I v|keep n:gerund|tell-PRESP n|person&PL prep|at
+	n|+n|basket+n|ball coord|and n|+n|foot+n|ball n|game-PL pro:sub|they
+	mod|do~neg|not v|realize pro:int|how adv|much n|vary&dadj-ABLE-ITY
+	pro:exist|there cop|be&3S coord|and pro:int|how adv|much det:art|the
+	n|outcome v|depend-3S prep|upon n|chance .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|9|MOD 5|4|NJCT 6|5|POBJ 7|4|CONJ 8|7|COORD
+	9|3|OBJ 10|13|SUBJ 11|13|AUX 12|11|NEG 13|9|CMOD 14|18|LINK 15|16|JCT
+	16|18|JCT 17|18|SUBJ 18|13|COMP 19|24|LINK 20|21|JCT 21|24|JCT 22|23|DET
+	23|24|SUBJ 24|18|CJCT 25|24|JCT 26|25|POBJ 27|2|PUNCT
+*S1:	&-uh some of my best nights (.) they'd pop things out over the
+	infield and I'd lose a game (.) some nights when I didn't have much
+	stuff &-uh they'd hit them all at the fielders and I'd get a
+	no+hitter .
+%mor:	pro:indef|some prep|of det:poss|my adj|good&SP n|night-PL
+	pro:sub|they~mod|genmod n|pop n|thing-PL adv|out prep|over
+	det:art|the n|infield coord|and pro:sub|I~mod|genmod v|lose
+	det:art|a n|game qn|some n|night-PL conj|when pro:sub|I
+	mod|do&PAST~neg|not v|have adv|much n|stuff pro:sub|they~mod|genmod
+	v|hit&ZERO pro:obj|them post|all prep|at det:art|the n|fielder-PL
+	coord|and pro:sub|I~mod|genmod v|get det:art|a n|+qn|no+n|hitter .
+%gra:	1|9|XJCT 2|1|NJCT 3|5|DET 4|5|MOD 5|2|POBJ 6|9|SUBJ 7|9|AUX 8|9|MOD
+	9|0|INCROOT 10|9|NJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|10|CJCT 18|19|DET 19|17|OBJ 20|21|QUANT 21|19|OBJ
+	22|26|LINK 23|26|SUBJ 24|26|AUX 25|24|NEG 26|21|CMOD 27|26|JCT 28|27|POBJ
+	29|31|SUBJ 30|31|AUX 31|28|CMOD 32|31|OBJ 33|32|PQ 34|33|JCT 35|36|DET
+	36|34|POBJ 37|40|LINK 38|40|SUBJ 39|40|AUX 40|36|CMOD 41|42|DET 42|40|OBJ
+	43|9|PUNCT
+*S1:	so &-uh and that's pretty much chance I think .
+%mor:	co|so coord|and pro:dem|that~cop|be&3S adj|pretty adv|much n|chance
+	pro:sub|I v|think .
+%gra:	1|4|COM 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|PRED 6|7|JCT 7|4|PRED 8|9|SUBJ
+	9|7|CMOD 10|4|PUNCT
+*S1:	they stick their bats out at the right spot .
+%mor:	pro:sub|they v|stick det:poss|their n|bat-PL adv|out prep|at
+	det:art|the adj|right n|spot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+*S1:	by accident .
+%mor:	prep|by n|accident .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*S1:	anyway &-uh Al for instance told me once he said (.) the thing that
+	got me started on chance was (.) that the way I met my wife was that
+	I was playing golf (.) and she was in the foursome behind us and she
+	hit me with a golf ball .
+%mor:	co|anyway n:prop|Al prep|for n|instance v|tell&PAST pro:obj|me
+	adv|once pro:sub|he v|say&PAST det:art|the n|thing pro:rel|that
+	v|get&PAST pro:obj|me v|start-PAST prep|on n|chance cop|be&PAST&13S
+	comp|that det:art|the n|way pro:sub|I v|meet&PAST det:poss|my n|wife
+	cop|be&PAST&13S comp|that pro:sub|I aux|be&PAST&13S part|play-PRESP
+	n|golf coord|and pro:sub|she cop|be&PAST&13S prep|in det:art|the
+	n|foursome adv|behind pro:obj|us coord|and pro:sub|she v|hit&ZERO
+	pro:obj|me prep|with det:art|a n|golf n|ball .
+%gra:	1|5|COM 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|5|OBJ 7|9|JCT 8|9|SUBJ
+	9|5|COMP 10|11|DET 11|9|OBJ 12|13|LINK 13|11|CMOD 14|15|SUBJ 15|13|COMP
+	16|15|JCT 17|16|POBJ 18|15|JCT 19|23|LINK 20|21|DET 21|23|JCT 22|23|SUBJ
+	23|18|CPRED 24|25|DET 25|26|SUBJ 26|23|COMP 27|30|LINK 28|30|SUBJ
+	29|30|AUX 30|26|PRED 31|30|OBJ 32|34|LINK 33|34|SUBJ 34|30|CJCT 35|34|JCT
+	36|37|DET 37|35|POBJ 38|39|JCT 39|34|PRED 40|42|LINK 41|42|SUBJ 42|39|CJCT
+	43|42|OBJ 44|42|JCT 45|47|DET 46|47|MOD 47|44|POBJ 48|5|PUNCT
+*S1:	&=laughs:multiple well that [/] that's kind_of a chance occurrence
+	.
+%mor:	co|well pro:rel|that~cop|be&3S adv|kind_of det:art|a n|chance
+	n|occurrence .
+%gra:	1|3|COM 2|3|LINK 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*S1:	&=laughs you_know &-uh [x 3] actually &-uh when I was a senior I
+	didn't date much because I was playing in a bar at Novi on weekends
+	(.) and <I hadn't> [//] I decided I'm gonna have a date before I
+	graduate .
+%mor:	co|you_know adv|actual&dadj-LY conj|when pro:sub|I cop|be&PAST&13S
+	det:art|a n|senior pro:sub|I mod|do&PAST~neg|not v|date adv|much
+	conj|because pro:sub|I aux|be&PAST&13S part|play-PRESP prep|in
+	det:art|a n|bar prep|at n:prop|Novi prep|on n|+n|week+n|end-PL
+	coord|and pro:sub|I v|decide-PAST pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|have det:art|a n|date conj|before pro:sub|I
+	v|graduate .
+%gra:	1|16|COM 2|1|JCT 3|5|LINK 4|5|SUBJ 5|2|CPOBJ 6|7|DET 7|5|PRED 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|7|CMOD 12|11|JCT 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|0|ROOT 17|16|JCT 18|19|DET 19|17|POBJ 20|16|JCT 21|20|POBJ 22|16|JCT
+	23|22|POBJ 24|26|LINK 25|26|SUBJ 26|16|CJCT 27|29|SUBJ 28|29|AUX
+	29|26|COMP 30|31|INF 31|29|COMP 32|33|DET 33|31|OBJ 34|36|LINK 35|36|SUBJ
+	36|29|CJCT 37|16|PUNCT
+*S1:	and we're gonna have a dance &-uh in May so toward the end of April
+	I decided there [//] &o &-uh I was going to ask one of two girls
+	whom I'd admired (.) probably for four years (.) without really (.)
+	interacting with them at all (.) for a date .
+%mor:	coord|and pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|have
+	det:art|a n|dance prep|in n:prop|May conj|so prep|toward det:art|the
+	n|end prep|of n:prop|April pro:sub|I v|decide-PAST pro:sub|I
+	aux|be&PAST&13S part|go-PRESP inf|to v|ask det:num|one prep|of
+	det:num|two n|girl-PL pro:int|whom pro:sub|I~mod|genmod
+	v|admire-PAST adv|probable&dadj-LY prep|for det:num|four n|year-PL
+	prep|without adv|real&dadj-LY inter#part|act-PRESP prep|with
+	pro:obj|them prep|at pro:indef|all prep|for det:art|a n|date .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|6|JCT 10|9|POBJ 11|18|LINK 12|18|JCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|18|SUBJ 18|4|CJCT 19|21|SUBJ 20|21|AUX 21|18|COMP 22|23|INF
+	23|21|COMP 24|23|OBJ 25|24|NJCT 26|27|QUANT 27|25|POBJ 28|31|LINK
+	29|31|SUBJ 30|31|AUX 31|23|COMP 32|31|JCT 33|31|JCT 34|35|QUANT 35|33|POBJ
+	36|31|JCT 37|38|JCT 38|36|POBJ 39|31|JCT 40|39|POBJ 41|31|JCT 42|41|POBJ
+	43|42|NJCT 44|45|DET 45|43|POBJ 46|4|PUNCT
+*S1:	well it happened that (.) we took (.) a bus out to Lincoln School
+	to do our practice teaching she was doing (.) well I was doing
+	algebra (.) and &-uh my wife was doing (.) the library (.) and &-uh
+	my wife was sitting there waiting .
+%mor:	co|well pro:per|it v|happen-PAST comp|that pro:sub|we v|take&PAST
+	det:art|a n|bus adv|out prep|to n:prop|Lincoln n:prop|School inf|to
+	v|do det:poss|our n|practice part|teach-PRESP pro:sub|she
+	aux|be&PAST&13S part|do-PRESP adv|well pro:sub|I aux|be&PAST&13S
+	part|do-PRESP n|algebra coord|and det:poss|my n|wife aux|be&PAST&13S
+	part|do-PRESP det:art|the n|library coord|and det:poss|my n|wife
+	aux|be&PAST&13S part|sit-PRESP adv|there part|wait-PRESP .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|8|DET 8|6|OBJ
+	9|6|JCT 10|6|JCT 11|12|NAME 12|10|POBJ 13|14|INF 14|6|XJCT 15|16|DET
+	16|14|OBJ 17|6|XJCT 18|20|SUBJ 19|20|AUX 20|17|COMP 21|20|JCT 22|24|SUBJ
+	23|24|AUX 24|17|COMP 25|24|OBJ 26|25|CONJ 27|28|DET 28|26|COORD 29|30|AUX
+	30|24|XJCT 31|32|DET 32|30|OBJ 33|37|LINK 34|35|DET 35|37|SUBJ 36|37|AUX
+	37|30|CJCT 38|37|JCT 39|37|XJCT 40|3|PUNCT
+*S1:	so I asked her for a date and she said yes and a month later we
+	were engaged to be married so &-uh &-uh if the other girl had been
+	there first no telling &=laughs where <I'd be> [?] what would have
+	happened .
+%mor:	co|so pro:sub|I v|ask-PAST pro:obj|her prep|for det:art|a n|date
+	coord|and pro:sub|she v|say&PAST co|yes coord|and det:art|a n|month
+	adv|later pro:sub|we aux|be&PAST part|engage-PASTP inf|to aux|be
+	part|marry-PASTP adv|so comp|if det:art|the qn|other n|girl
+	aux|have&PAST cop|be&PASTP adv|there adv|first co|no part|tell-PRESP
+	pro:int|where pro:sub|I~mod|genmod cop|be pro:int|what mod|will&COND
+	aux|have part|happen-PASTP .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|3|CJCT 11|3|COM 12|18|LINK 13|14|DET 14|18|SUBJ 15|18|JCT
+	16|18|SUBJ 17|18|AUX 18|3|CJCT 19|21|INF 20|21|AUX 21|18|COMP 22|23|JCT
+	23|28|LINK 24|26|DET 25|26|QUANT 26|28|SUBJ 27|28|AUX 28|21|COMP 29|28|JCT
+	30|28|JCT 31|32|COM 32|28|XJCT 33|36|LINK 34|36|SUBJ 35|36|AUX
+	36|32|COMP 37|40|OBJ 38|40|AUX 39|40|AUX 40|36|CPRED 41|3|PUNCT
+*S1:	&-uh so chance variables (.) play a big role (.) in behavior &-uh
+	there's a chapter in a book called the History of Teaching in
+	Psychology about me based on an interview with me (.) and they
+	titled it I Was Lucky .
+%mor:	co|so n|chance n|variable-PL v|play det:art|a adj|big n|role
+	prep|in n|behavior pro:exist|there~cop|be&3S det:art|a n|chapter
+	prep|in det:art|a n|book v|call-PAST det:art|the n:prop|History
+	prep|of n:prop|Teaching prep|in n:prop|Psychology prep|about
+	pro:obj|me v|base-PAST prep|on det:art|a n|interview prep|with
+	pro:obj|me coord|and pro:sub|they v|title-PAST pro:per|it pro:sub|I
+	n:prop|Was n:prop|Lucky .
+%gra:	1|3|COM 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|8|POBJ 10|11|SUBJ 11|4|CJCT 12|13|DET 13|11|PRED 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|13|ENUM 18|19|DET 19|17|OBJ 20|19|NJCT 21|20|POBJ 22|17|JCT
+	23|22|POBJ 24|17|JCT 25|24|POBJ 26|17|COMP 27|26|JCT 28|29|DET 29|27|POBJ
+	30|26|JCT 31|30|POBJ 32|34|LINK 33|34|SUBJ 34|26|CJCT 35|34|OBJ
+	36|38|NAME 37|38|NAME 38|34|CJCT 39|4|PUNCT
+*S1:	because I kept saying over and over as they (.) asked me about
+	things I'd say well I was just lucky .
+%mor:	conj|because pro:sub|I v|keep&PAST part|say-PRESP adv|over
+	coord|and prep|over conj|as pro:sub|they v|ask-PAST pro:obj|me
+	prep|about n|thing-PL pro:sub|I~mod|genmod v|say adv|well pro:sub|I
+	cop|be&PAST&13S adv|just adj|luck&dn-Y .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|4|CONJ 7|16|LINK
+	8|10|LINK 9|10|SUBJ 10|16|CJCT 11|10|OBJ 12|10|JCT 13|12|POBJ 14|16|SUBJ
+	15|16|AUX 16|6|COORD 17|19|JCT 18|19|SUBJ 19|16|COMP 20|21|JCT 21|19|PRED
+	22|3|PUNCT
+*S1:	&-uh I mean I worked too but basically a_lot_of my career
+	essentially depended upon being (.) here at a particular time and
+	place and being involved in things +//.
+%mor:	pro:sub|I v|mean pro:sub|I part|work-PASTP adv|too conj|but
+	adv|basic&dadj-AL-LY qn|a_lot_of det:poss|my n|career
+	adv|essential&dadj-LY v|depend-PAST prep|upon n:gerund|be-PRESP
+	adv|here prep|at det:art|a adj|particular n|time coord|and n|place
+	coord|and part|be-PRESP part|involve-PASTP prep|in n|thing-PL +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|12|LINK 7|8|JCT
+	8|10|QUANT 9|10|DET 10|12|SUBJ 11|12|JCT 12|4|CJCT 13|12|JCT 14|13|POBJ 15|14|JCT
+	16|14|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|19|CONJ 21|20|COORD
+	22|19|CONJ 23|22|COORD 24|23|PRED 25|24|JCT 26|25|POBJ 27|2|PUNCT
+*S1:	well I was lucky to survive the war in the first place but anyway
+	a_lot_of things (.) are pure luck and bad things can happen
+	as_well_as good things I mean &-uh the book the whole book of Job is
+	about the fact that bad things happen to good people .
+%mor:	co|well pro:sub|I cop|be&PAST&13S adj|luck&dn-Y inf|to v|survive
+	det:art|the n|war prep|in det:art|the adj|first n|place conj|but
+	co|anyway qn|a_lot_of n|thing-PL cop|be&PRES adj|pure n|luck
+	coord|and adj|bad n|thing-PL mod|can v|happen coord|as_well_as
+	adj|good n|thing-PL pro:sub|I v|mean det:art|the n|book det:art|the
+	adj|whole n|book prep|of n:prop|Job cop|be&3S prep|about det:art|the
+	n|fact det:dem|that adj|bad n|thing-PL v|happen prep|to adj|good
+	n|person&PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|8|DET 8|6|OBJ
+	9|6|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|17|LINK 14|16|COM 15|16|QUANT
+	16|17|SUBJ 17|24|CJCT 18|19|MOD 19|17|PRED 20|24|LINK 21|22|MOD 22|24|SUBJ
+	23|24|AUX 24|3|CJCT 25|24|CONJ 26|27|MOD 27|25|COORD 28|29|SUBJ
+	29|27|CMOD 30|31|DET 31|37|SUBJ 32|34|DET 33|34|MOD 34|31|CMOD 35|34|NJCT
+	36|35|POBJ 37|29|COMP 38|37|JCT 39|40|DET 40|38|POBJ 41|43|DET 42|43|MOD
+	43|44|SUBJ 44|40|CMOD 45|44|JCT 46|47|MOD 47|45|POBJ 48|3|PUNCT
+*S1:	(o)kay right now &-uh sort_of thing that &-uh kind_of came up a
+	little bit in talking about violence on television (.) is resilience
+	.
+%mor:	adj|okay adv|right adv|now adv|sort_of n|thing pro:rel|that
+	adv|kind_of v|come&PAST adv|up det:art|a adj|little n|bit adv|in
+	part|talk-PRESP prep|about n|violence prep|on n|television cop|be&3S
+	n|resilience .
+%gra:	1|5|MOD 2|3|JCT 3|1|JCT 4|5|MOD 5|0|INCROOT 6|8|LINK 7|8|JCT 8|5|CMOD
+	9|8|JCT 10|12|DET 11|12|MOD 12|8|JCT 13|8|JCT 14|8|XJCT 15|19|JCT
+	16|19|SUBJ 17|19|JCT 18|19|SUBJ 19|14|CJCT 20|19|PRED 21|5|PUNCT
+*S1:	that is &-uh some people bounce back (.) from bad events (.) and
+	&-uh become even stronger because of something that happens to them
+	.
+%mor:	pro:dem|that cop|be&3S qn|some n|person&PL v|bounce adv|back
+	prep|from adj|bad n|event-PL coord|and cop|become adv|even
+	adj|strong-CP conj|because prep|of pro:indef|something pro:rel|that
+	v|happen-3S prep|to pro:obj|them .
+%gra:	1|2|SUBJ 2|5|LINK 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|MOD
+	9|7|POBJ 10|5|CONJ 11|10|COORD 12|13|JCT 13|11|PRED 14|5|JCT 15|14|JCT
+	16|15|POBJ 17|18|LINK 18|16|CMOD 19|18|JCT 20|19|POBJ 21|5|PUNCT
+*S1:	I've heard (.) people who have had heart attacks say +"/.
+%mor:	pro:sub|I~aux|have part|hear&PASTP n|person&PL pro:rel|who v|have
+	v|have&PAST n|heart v|attack-3S v|say +"/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|LINK 6|4|CMOD 7|6|COMP 8|9|SUBJ
+	9|7|COMP 10|9|COMP 11|3|PUNCT
+*S1:	+" well you_know I'm a much better person now (be)cause I've quit
+	smoking and I'm watching my weight and I'm exercising .
+%mor:	co|well co|you_know pro:sub|I~cop|be&1S det:art|a qn|much
+	adj|good&CP n|person adv|now conj|because pro:sub|I~aux|have
+	part|quit&PASTP part|smoke-PRESP coord|and pro:sub|I~aux|be&1S
+	part|watch-PRESP det:poss|my n|weight coord|and pro:sub|I~aux|be&1S
+	part|exercise-PRESP .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|QUANT 7|8|MOD 8|4|PRED
+	9|8|NJCT 10|13|LINK 11|13|SUBJ 12|13|AUX 13|4|CJCT 14|13|XJCT 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|14|CJCT 19|20|DET 20|18|OBJ 21|24|LINK 22|24|SUBJ
+	23|24|AUX 24|18|CJCT 25|4|PUNCT
+*S1:	and so they bounce back and become stronger as a result of what
+	would ordinarily be considered (.) a bad event .
+%mor:	coord|and conj|so pro:sub|they v|bounce adv|back coord|and
+	part|become&PASTP adj|strong-CP prep|as det:art|a n|result prep|of
+	pro:int|what mod|will&COND adv|ordinary&dadj-LY aux|be
+	v|consider-PAST det:art|a adj|bad n|event .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|7|JCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|17|LINK 13|17|SUBJ 14|17|AUX 15|17|SUBJ
+	16|17|AUX 17|11|CMOD 18|20|DET 19|20|MOD 20|17|OBJ 21|4|PUNCT
+*S1:	so chance (.) is always going to be something that you need to
+	think about when you think about human behavior .
+%mor:	co|so n|chance aux|be&3S adv|always part|go-PRESP inf|to cop|be
+	pro:indef|something pro:rel|that pro:per|you v|need inf|to v|think
+	adv|about conj|when pro:per|you v|think adv|about adj|human
+	n|behavior .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|7|PRED
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|13|INF 13|11|COMP 14|13|JCT 15|17|LINK
+	16|17|SUBJ 17|13|CJCT 18|19|JCT 19|20|MOD 20|17|OBJ 21|5|PUNCT
+*S1:	okay go on to your fourth (.) page .
+%mor:	co|okay v|go adv|on prep|to det:poss|your n|fourth n|page .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|2|PUNCT
+*S1:	and last page .
+%mor:	coord|and adj|last n|page .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S1:	&=pause_while_students_complete_exercise basically &-uh the method
+	(.) that you've been &b using is the ordered tree method of studying
+	(.) ways (.) concepts are structured inside your head .
+%mor:	adv|basic&dadj-AL-LY det:art|the n|method pro:rel|that
+	pro:per|you~aux|have aux|be&PASTP n:gerund|use-PRESP aux|be&3S
+	det:art|the part|order-PASTP n|tree n|method prep|of
+	part|study-PRESP n|way-PL n|concept-PL aux|be&PRES
+	part|structure-PASTP adj|inside det:poss|your adj|head .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|AUX 8|3|CMOD
+	9|13|AUX 10|13|DET 11|12|XMOD 12|13|MOD 13|8|OBJ 14|13|NJCT 15|14|POBJ
+	16|17|MOD 17|19|SUBJ 18|19|AUX 19|15|COMP 20|19|PRED 21|22|DET 22|20|JCT
+	23|1|PUNCT
+*S1:	it was developed by Judy Reitman Olson who's now a professor of
+	psychology and business administration &-uh and her student Henry
+	Reuter who took her his PhD with her .
+%mor:	pro:per|it aux|be&PAST&13S part|develop-PASTP prep|by n:prop|Judy
+	n:prop|Reitman n:prop|Olson pro:rel|who~cop|be&3S adv|now det:art|a
+	n|professor prep|of n|psychology coord|and n|business
+	n|administrate&dv-TION coord|and det:poss|her n|student n:prop|Henry
+	n:prop|Reuter pro:rel|who v|take&PAST pro:obj|her det:poss|his
+	n:prop|PhD prep|with pro:obj|her .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|NAME 6|7|NAME 7|4|POBJ 8|9|LINK
+	9|7|CMOD 10|9|JCT 11|12|DET 12|9|PRED 13|12|NJCT 14|13|POBJ 15|12|CONJ
+	16|17|MOD 17|15|COORD 18|12|CONJ 19|20|DET 20|18|COORD 21|22|NAME
+	22|20|APP 23|24|LINK 24|22|CMOD 25|24|OBJ 26|27|DET 27|24|OBJ 28|24|JCT
+	29|28|POBJ 30|3|PUNCT
+*S1:	they studied laboratory .
+%mor:	pro:sub|they v|study-PAST n|laboratory .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*S1:	they'd give people lists of words to remember (.) and then they
+	would give them this exercise (.) to &-uh see which words tended to
+	cluster together &-uh in recall (.) or in ordering actually I think
+	.
+%mor:	pro:sub|they~mod|genmod v|give n|person&PL n|list-PL prep|of
+	n|word-PL inf|to v|remember coord|and adv:tem|then pro:sub|they
+	mod|will&COND v|give pro:obj|them det:dem|this n|exercise inf|to
+	v|see det:int|which n|word-PL v|tend-PAST inf|to v|cluster
+	adv|together prep|in n|recall coord|or prep|in part|order-PRESP
+	adv|actual&dadj-LY pro:sub|I v|think .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|9|INF
+	9|3|XJCT 10|14|LINK 11|14|JCT 12|14|SUBJ 13|14|AUX 14|9|CJCT 15|14|OBJ
+	16|17|DET 17|14|OBJ 18|19|INF 19|17|XMOD 20|22|LINK 21|22|SUBJ 22|19|COMP
+	23|24|INF 24|22|COMP 25|24|JCT 26|24|JCT 27|26|POBJ 28|33|LINK 29|33|JCT
+	30|29|POBJ 31|33|JCT 32|33|SUBJ 33|24|CJCT 34|3|PUNCT
+*S1:	they just had people recall words and looked at the order of recall
+	(.) rather than [/] &-uh than we did (.) and (.) write them down .
+%mor:	pro:sub|they adv|just part|have&PASTP n|person&PL v|recall
+	n|word-PL coord|and v|look-PAST prep|at det:art|the n|order prep|of
+	n|recall adv|rather prep|than pro:sub|we v|do&PAST coord|and v|write
+	pro:obj|them adv|down .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|5|CONJ 8|7|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|17|JCT 15|17|JCT
+	16|17|SUBJ 17|8|CJCT 18|17|CONJ 19|18|COORD 20|19|OBJ 21|19|JCT 22|3|PUNCT
+*S1:	&-uh I think maybe they did it both ways come to think of it .
+%mor:	pro:sub|I v|think adv|maybe pro:sub|they v|do&PAST pro:per|it
+	post|both n|way-PL v|come inf|to v|think prep|of pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|SUBJ 5|2|CJCT 6|5|OBJ 7|6|PQ 8|9|SUBJ
+	9|5|COMP 10|11|INF 11|9|COMP 12|11|JCT 13|12|POBJ 14|2|PUNCT
+*S1:	anyway Moshe Naveh_Benjamin &-uh my colleague at Ben Gurion
+	University &-uh then developed this as a way that he and I could
+	study (.) learning in courses .
+%mor:	co|anyway n:prop|Moshe n:prop|Naveh_Benjamin det:poss|my
+	n|colleague prep|at n:prop|Ben n:prop|Gurion n:prop|University
+	adv:tem|then v|develop-PAST det:dem|this prep|as det:art|a n|way
+	pro:rel|that pro:sub|he coord|and pro:sub|I mod|could v|study
+	part|learn-PRESP prep|in n|course-PL .
+%gra:	1|2|COM 2|3|NAME 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|6|POBJ
+	9|11|SUBJ 10|11|JCT 11|8|CMOD 12|11|OBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|17|LINK 17|15|CMOD 18|21|LINK 19|21|SUBJ 20|21|AUX 21|17|CJCT 22|21|COMP
+	23|22|JCT 24|23|POBJ 25|3|PUNCT
+*S1:	and so we've used it now for probably twenty years .
+%mor:	coord|and co|so pro:sub|we~aux|have part|use-PASTP pro:per|it
+	adv|now prep|for adv|probable&dadj-LY det:num|twenty n|year-PL .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|JCT
+	9|10|JCT 10|11|QUANT 11|8|POBJ 12|5|PUNCT
+*S1:	&-uh maybe he's not that old I don't know fifteen twenty anyway
+	&-uh to [/] &-uh to study learning in courses (.) and Ernie Zaremba
+	my doctoral student &-uh teaches seven &-uh or at least at the time
+	at that we're doing this (.) was teaching seven sections of
+	introductory psychology at Washtenaw Community College .
+%mor:	adv|maybe pro:sub|he~cop|be&3S neg|not det:dem|that adj|old
+	pro:sub|I mod|do~neg|not v|know det:num|fifteen det:num|twenty
+	adv|anyway prep|to n|study part|learn-PRESP prep|in n|course-PL
+	coord|and n:prop|Ernie n:prop|Zaremba det:poss|my adj|doctor&dn-AL
+	n|student v|teach-3S det:num|seven coord|or prep|at n|least prep|at
+	det:art|the n|time prep|at adv|that pro:sub|we~aux|be&PRES
+	part|do-PRESP pro:dem|this aux|be&PAST&13S part|teach-PRESP
+	det:num|seven n|section-PL prep|of adj|introductory n|psychology
+	prep|at n:prop|Washtenaw n:prop|Community n:prop|College .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|DET 6|3|PRED 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|3|PUNCT 11|12|QUANT 12|21|QUANT 13|12|JCT 14|12|NJCT
+	15|14|POBJ 16|12|XJCT 17|16|JCT 18|17|POBJ 19|12|CONJ 20|19|COORD 21|10|ROOT
+	22|24|DET 23|24|MOD 24|25|SUBJ 25|21|ROOT 26|25|OBJ 27|25|CONJ 28|27|COORD
+	29|28|POBJ 30|28|INCROOT 31|32|DET 32|30|POBJ 33|30|JCT 34|37|JCT
+	35|37|SUBJ 36|37|AUX 37|33|CPOBJ 38|40|SUBJ 39|40|AUX 40|37|COMP 41|42|QUANT
+	42|40|OBJ 43|42|NJCT 44|45|MOD 45|43|POBJ 46|40|JCT 47|46|POBJ 48|49|NAME
+	49|46|POBJ 50|30|PUNCT
+*S1:	so he had a chance to really (.) run (.) a_lot_of different
+	variations .
+%mor:	co|so pro:sub|he v|have&PAST det:art|a n|chance inf|to
+	adv|real&dadj-LY v|run qn|a_lot_of adj|different n|vary&dv-TION-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|INF 7|8|JCT 8|5|XMOD
+	9|11|QUANT 10|11|MOD 11|8|OBJ 12|3|PUNCT
+*S1:	and so he (.) would give this sort_of exercise (.) to one class (.)
+	and then see what their performance was later on .
+%mor:	coord|and co|so pro:sub|he mod|will&COND v|give det:dem|this
+	adv|sort_of v|exercise prep|to det:num|one n|class coord|and
+	adv:tem|then v|see pro:int|what det:poss|their n|performance
+	cop|be&PAST&13S adv|later adv|on .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|8|JCT 8|5|COMP
+	9|8|JCT 10|11|QUANT 11|9|POBJ 12|8|CONJ 13|14|JCT 14|12|COORD 15|18|LINK
+	16|17|DET 17|18|SUBJ 18|14|COMP 19|18|JCT 20|18|JCT 21|5|PUNCT
+*S1:	he'd give it to another class (.) and then have them do it later in
+	the term .
+%mor:	pro:sub|he~mod|genmod v|give pro:per|it prep|to qn|another n|class
+	coord|and adv:tem|then v|have pro:obj|them v|do pro:per|it adv|later
+	prep|in det:art|the n|term .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|QUANT 7|5|POBJ 8|3|CONJ
+	9|10|JCT 10|8|COORD 11|10|OBJ 12|10|COMP 13|12|OBJ 14|12|JCT 15|12|JCT
+	16|17|DET 17|15|POBJ 18|3|PUNCT
+*S1:	see how they perform .
+%mor:	v|see pro:int|how pro:sub|they v|perform .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|1|PUNCT
+*S1:	&-uh he'd give it to [/] &-uh to another class (.) and then go over
+	the results kind of in a tree such as I've done here (.) and see
+	what effect that had then he compared that with a group that didn't
+	do it all .
+%mor:	pro:sub|he~mod|genmod v|give pro:per|it prep|to qn|another n|class
+	coord|and adv:tem|then v|go adv|over det:art|the n|result-PL n|kind
+	prep|of prep|in det:art|a n|tree qn|such adv|as pro:sub|I~aux|have
+	part|do&PASTP adv|here coord|and v|see pro:int|what n|effect
+	pro:rel|that v|have&PAST adv:tem|then pro:sub|he v|compare-PAST
+	comp|that prep|with det:art|a n|group pro:rel|that
+	mod|do&PAST~neg|not v|do pro:per|it adv|all .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|QUANT 7|5|POBJ 8|3|CONJ
+	9|10|JCT 10|8|COORD 11|10|JCT 12|14|DET 13|14|MOD 14|10|OBJ 15|14|NJCT
+	16|23|JCT 17|18|DET 18|16|POBJ 19|20|QUANT 20|23|JCT 21|23|SUBJ 22|23|AUX
+	23|15|POBJ 24|23|JCT 25|23|CONJ 26|25|COORD 27|28|DET 28|33|JCT
+	29|30|LINK 30|28|CMOD 31|30|JCT 32|33|SUBJ 33|26|COMP 34|33|OBJ 35|34|JCT
+	36|37|DET 37|35|POBJ 38|41|LINK 39|41|AUX 40|39|NEG 41|37|CMOD 42|41|OBJ
+	43|41|JCT 44|3|PUNCT
+*S1:	well just taking the thing once (.) as I suggested &-uh made a &dif
+	positive difference as compared with those who never saw (.) an
+	exercise of this sort .
+%mor:	co|well adv|just part|take-PRESP det:art|the n|thing conj|once
+	conj|as pro:sub|I v|suggest-PAST v|make&PAST det:art|a adj|positive
+	n|difference prep|as part|compare-PASTP prep|with det:dem|those
+	pro:rel|who adv|never v|see&PAST det:art|a n|exercise prep|of
+	det:dem|this n|sort .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|9|LINK 8|9|SUBJ
+	9|6|CPOBJ 10|9|OBJ 11|13|DET 12|13|MOD 13|10|OBJ 14|15|COORD 15|9|XJCT
+	16|15|JCT 17|16|POBJ 18|20|LINK 19|20|JCT 20|17|CMOD 21|22|DET 22|20|OBJ
+	23|22|NJCT 24|25|DET 25|23|POBJ 26|3|PUNCT
+*S1:	&-uh those who took it twice did somewhat better &-uh those who did
+	the best (.) were those who took it and then had some discussion of
+	the organization &-uh and he did it (.) I think he did it for
+	instance in biopsych [: biopsychology] (.) and even though they just
+	discussed the tree in biopsych [: biopsychology] (.) these students
+	did better on mental disorders later in the term (.) than students
+	who hadn't had the tree and the discussion about it .
+%mor:	pro:dem|those pro:rel|who v|take&PAST pro:per|it adv|twice
+	mod|do&PAST adv|somewhat adj|good&CP det:dem|those pro:rel|who
+	mod|do&PAST det:art|the adj|good&SP aux|be&PAST det:dem|those
+	pro:rel|who v|take&PAST pro:per|it coord|and adv:tem|then
+	v|have&PAST qn|some n|discussion prep|of det:art|the
+	n|organize&dv-TION coord|and pro:sub|he mod|do&PAST pro:per|it
+	pro:sub|I v|think pro:sub|he mod|do&PAST pro:per|it prep|for
+	n|instance prep|in bio#n|psychology coord|and adv|even adv|though
+	pro:sub|they adv|just v|discuss-PAST det:art|the n|tree prep|in
+	bio#n|psychology det:dem|these n|student-PL mod|do&PAST adv|good&CP
+	prep|on adj|mental dis#n|order-PL adv|later prep|in det:art|the
+	n|term prep|than n|student-PL pro:rel|who aux|have&PAST~neg|not
+	part|have&PASTP det:art|the n|tree coord|and det:art|the
+	n|discussion prep|about pro:per|it .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|PUNCT 4|3|OBJ 5|8|JCT 6|8|AUX 7|8|JCT 8|3|ROOT
+	9|13|DET 10|13|LINK 11|13|AUX 12|13|DET 13|8|ROOT 14|15|AUX 15|13|ROOT
+	16|17|LINK 17|15|ROOT 18|17|OBJ 19|21|LINK 20|21|JCT 21|17|ROOT
+	22|23|QUANT 23|21|OBJ 24|23|NJCT 25|26|DET 26|24|POBJ 27|21|CONJ 28|30|SUBJ
+	29|30|AUX 30|27|COORD 31|32|SUBJ 32|30|ROOT 33|35|SUBJ 34|35|AUX 35|32|OBJ
+	36|35|INCROOT 37|36|POBJ 38|37|NJCT 39|38|POBJ 40|45|LINK 41|42|JCT
+	42|45|JCT 43|45|SUBJ 44|45|JCT 45|36|ROOT 46|47|DET 47|45|OBJ 48|45|JCT
+	49|48|POBJ 50|51|DET 51|49|INCROOT 52|51|ROOT 53|52|JCT 54|53|JCT 55|54|POBJ
+	56|54|POBJ 57|56|NJCT 58|57|INCROOT 59|60|DET 60|58|POBJ 61|58|JCT
+	62|61|POBJ 63|66|LINK 64|66|AUX 65|64|NEG 66|62|CMOD 67|68|DET 68|66|OBJ
+	69|68|CONJ 70|71|DET 71|69|COORD 72|71|NJCT 73|72|POBJ 74|58|PUNCT
+*S1:	so here is my tree &-uh of these (.) things (.) and our computer
+	program essentially will print out for each of you &-uh using that
+	&-uh assuming we get somebody to enter it and get it into the
+	computer sometime &-uh something like that for you .
+%mor:	co|so pro:exist|here cop|be&3S det:poss|my n|tree prep|of
+	det:dem|these n|thing-PL coord|and det:poss|our n|compute&dv-AGT
+	n|program adv|essential&dadj-LY mod|will v|print adv|out prep|for
+	qn|each prep|of pro:per|you part|use-PRESP adv|that
+	part|assume-PRESP pro:sub|we v|get pro:indef|somebody inf|to v|enter
+	pro:per|it coord|and v|get pro:per|it prep|into det:art|the
+	n|compute&dv-AGT adv|sometime pro:indef|something prep|like
+	pro:dem|that prep|for pro:per|you .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|15|LINK 10|12|DET 11|12|MOD 12|15|SUBJ 13|15|JCT 14|15|AUX 15|3|CJCT
+	16|15|JCT 17|15|JCT 18|17|POBJ 19|18|NJCT 20|19|POBJ 21|15|XJCT 22|21|JCT
+	23|15|XJCT 24|25|SUBJ 25|23|COMP 26|25|OBJ 27|28|INF 28|26|XMOD 29|28|OBJ
+	30|25|CONJ 31|30|COORD 32|31|OBJ 33|31|JCT 34|35|DET 35|33|POBJ
+	36|31|JCT 37|36|POBJ 38|37|NJCT 39|38|POBJ 40|37|NJCT 41|40|POBJ 42|3|PUNCT
+*S1:	&-uh &-uh generally &-uh as you go through the term &-uh what we
+	find is (.) that early in the term &-uh the concepts are not
+	particularly grouped together .
+%mor:	adv|general&dadj-LY prep|as pro:per|you v|go adj|through
+	det:art|the n|term pro:int|what pro:sub|we v|find aux|be&3S adv|that
+	adv|early prep|in det:art|the n|term det:art|the n|concept-PL
+	aux|be&PRES neg|not adv|particular&dadj-LY part|group-PASTP
+	adv|together .
+%gra:	1|4|JCT 2|4|COORD 3|4|SUBJ 4|0|ROOT 5|7|MOD 6|7|DET 7|4|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|22|AUX 12|13|JCT 13|22|JCT 14|22|JCT 15|16|DET
+	16|14|POBJ 17|18|DET 18|22|SUBJ 19|22|AUX 20|19|NEG 21|22|JCT 22|10|COMP
+	23|22|JCT 24|4|PUNCT
+*S1:	&-uh you don't I mean you put them more or less randomly all four
+	times and (.) maybe some of the concepts in psychology go together
+	just in natural language so you get those together .
+%mor:	pro:per|you mod|do~neg|not pro:sub|I v|mean pro:per|you v|put&ZERO
+	pro:obj|them pro:indef|more coord|or adj|less adv|random&dadj-LY
+	qn|all det:num|four n|time-PL coord|and adv|maybe pro:indef|some
+	prep|of det:art|the n|concept-PL prep|in n|psychology v|go
+	adv|together adv|just prep|in adj|natural n|language conj|so
+	pro:per|you v|get pro:dem|those adv|together .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|OBJ
+	9|7|OBJ 10|9|CONJ 11|15|MOD 12|15|JCT 13|15|QUANT 14|15|QUANT 15|10|COORD
+	16|7|CONJ 17|16|COORD 18|17|POBJ 19|18|NJCT 20|21|DET 21|19|POBJ
+	22|24|JCT 23|22|POBJ 24|18|CMOD 25|24|JCT 26|24|JCT 27|24|JCT 28|29|MOD
+	29|27|POBJ 30|32|LINK 31|32|SUBJ 32|24|CJCT 33|32|OBJ 34|32|JCT 35|5|PUNCT
+*S1:	so you have a few little clusters (.) but it's pretty much just a
+	level (.) thing with a few pairs here and there (.) not much of
+	anything else in the computer program .
+%mor:	adv|so pro:per|you v|have det:art|a qn|few adj|little n|cluster-PL
+	conj|but pro:per|it~cop|be&3S adj|pretty adv|much adv|just det:art|a
+	n|level n|thing prep|with det:art|a qn|few n|pair-PL adv|here
+	coord|and adv|there neg|not adv|much prep|of pro:indef|anything
+	post|else prep|in det:art|the n|compute&dv-AGT n|program .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|QUANT 6|7|MOD 7|3|OBJ 8|10|LINK
+	9|10|SUBJ 10|3|CJCT 11|10|PRED 12|10|JCT 13|16|JCT 14|16|DET 15|16|MOD
+	16|10|PRED 17|16|NJCT 18|20|DET 19|20|QUANT 20|17|POBJ 21|16|NJCT
+	22|25|LINK 23|25|JCT 24|23|NEG 25|21|JCT 26|25|JCT 27|26|POBJ 28|26|POBJ
+	29|28|JCT 30|32|DET 31|32|MOD 32|29|POBJ 33|3|PUNCT
+*S1:	as we go through the term &-uh when we give it say (.) beginning of
+	the term midterm (.) final (.) maybe one time in between someplace
+	&-uh what happens is (.) that your conceptual structure gets more
+	and more organized as things get grouped together a little more
+	consistently .
+%mor:	conj|as pro:sub|we v|go adv|through det:art|the n|term conj|when
+	pro:sub|we v|give pro:per|it co|say n|beginning prep|of det:art|the
+	n|term n|midterm adj|final adv|maybe det:num|one n|time adv|in
+	adv|between adv|someplace pro:int|what v|happen-3S cop|be&3S
+	comp|that det:poss|your adj|conceptual n|structure v|get-3S adv|more
+	coord|and adv|more part|organize-PASTP conj|as n|thing-PL v|get
+	v|group-PAST adv|together det:art|a adj|little adv|more
+	adv|consistent&dadj-LY .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|3|CJCT 10|9|OBJ 11|26|COM 12|26|SUBJ 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|20|MOD 18|19|JCT 19|20|QUANT 20|16|CMOD 21|25|JCT 22|23|JCT
+	23|25|JCT 24|25|SUBJ 25|20|CMOD 26|9|COMP 27|31|LINK 28|30|DET 29|30|MOD
+	30|31|SUBJ 31|26|CPRED 32|31|JCT 33|32|CONJ 34|35|JCT 35|33|COORD
+	36|38|LINK 37|38|SUBJ 38|31|CJCT 39|38|COMP 40|39|JCT 41|42|DET 42|40|POSTMOD
+	43|44|JCT 44|42|JCT 45|3|PUNCT
+*S1:	and (.) if the organization (.) comes out to be similar to that (.)
+	of your professor (.) and that's not just in psychology we've done
+	this in biology and (.) &Eng even in English which is not as highly
+	structured as biology and psychology &-uh the more organized and the
+	more your structure (.) resembles that of your &f professor &-uh the
+	better grade you get .
+%mor:	coord|and comp|if det:art|the n|organize&dv-TION v|come-3S adv|out
+	inf|to cop|be adj|similar inf|to adv|that prep|of det:poss|your
+	n|professor coord|and pro:dem|that~cop|be&3S neg|not adv|just
+	prep|in n|psychology pro:sub|we~aux|have part|do&PASTP det:dem|this
+	prep|in n|biology coord|and adv|even prep|in n:prop|English
+	pro:rel|which aux|be&3S neg|not prep|as adv|high&dadj-LY
+	part|structure-PASTP conj|as n|biology coord|and n|psychology
+	det:art|the adv|more v|organize-PAST coord|and det:art|the adv|more
+	det:poss|your n|structure v|resemble-3S comp|that prep|of
+	det:poss|your n|professor det:art|the adj|good&CP v|grade
+	pro:per|you v|get .
+%gra:	1|5|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|INF 8|6|CPOBJ
+	9|8|PRED 10|24|INF 11|24|JCT 12|24|JCT 13|14|DET 14|12|POBJ 15|12|CONJ
+	16|15|COORD 17|24|AUX 18|17|NEG 19|24|JCT 20|19|JCT 21|20|POBJ 22|24|SUBJ
+	23|24|AUX 24|9|XMOD 25|26|DET 26|5|JCT 27|26|POBJ 28|26|CONJ 29|28|COORD
+	30|29|JCT 31|30|POBJ 32|37|LINK 33|37|AUX 34|33|NEG 35|37|COORD
+	36|37|JCT 37|30|POBJ 38|44|LINK 39|44|SUBJ 40|39|CONJ 41|40|COORD 42|44|DET
+	43|44|JCT 44|37|CJCT 45|44|CONJ 46|50|DET 47|50|JCT 48|49|DET 49|50|SUBJ
+	50|45|COORD 51|57|LINK 52|57|JCT 53|54|DET 54|52|POBJ 55|56|DET 56|57|JCT
+	57|50|COMP 58|59|SUBJ 59|57|COMP 60|5|PUNCT
+*S1:	so it seems to be a pretty good measure of (.) kind_of how you're
+	developing the schemas that we talk about (.) and presumably how
+	well you're able to use them then in answering whatever's on exam
+	questions .
+%mor:	co|so pro:per|it cop|seem-3S inf|to cop|be det:art|a adj|pretty
+	adj|good n|measure prep|of adv|kind_of pro:int|how
+	pro:per|you~aux|be&PRES part|develop-PRESP det:art|the n|schema-PL
+	pro:rel|that pro:sub|we v|talk adv|about coord|and
+	adv|presume&dadj-ABLE-LY pro:rel|how n|well pro:per|you~cop|be&PRES
+	adj|able inf|to v|use pro:obj|them adv:tem|then prep|in
+	n:gerund|answer-PRESP pro:int|whatever~cop|be&3S prep|on n|exam
+	n|question-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|9|DET 7|8|JCT 8|9|MOD
+	9|5|PRED 10|9|NJCT 11|15|JCT 12|15|LINK 13|15|SUBJ 14|15|AUX 15|10|POBJ
+	16|17|DET 17|15|OBJ 18|20|LINK 19|20|SUBJ 20|17|CMOD 21|20|JCT 22|21|CONJ
+	23|22|COORD 24|25|LINK 25|23|POBJ 26|27|SUBJ 27|25|CMOD 28|27|PRED
+	29|30|INF 30|28|XMOD 31|30|OBJ 32|30|JCT 33|30|JCT 34|33|POBJ 35|36|SUBJ
+	36|30|COMP 37|36|JCT 38|39|MOD 39|37|POBJ 40|3|PUNCT
+*S1:	any questions about it ?
+%mor:	qn|any n|question-PL prep|about pro:per|it ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*S1:	okay well pass them on up to the front and I'll collect them .
+%mor:	co|okay n|well v|pass pro:obj|them adv|on adv|up prep|to
+	det:art|the n|front coord|and pro:sub|I~mod|will v|collect
+	pro:obj|them .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|3|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|3|CJCT 14|13|OBJ 15|3|PUNCT
+*S1:	and I'll go onto my fourth topic (.) which is (.) children in
+	poverty +...
+%mor:	coord|and pro:sub|I~mod|will v|go prep|onto det:poss|my adj|fourth
+	n|topic pro:rel|which cop|be&3S n|child&PL prep|in n|poverty +...
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|10|LINK 10|8|CMOD 11|10|PRED 12|11|NJCT 13|12|POBJ 14|4|PUNCT
+*S1:	&-uh this is covered really only in Whiteman of your four textbooks
+	.
+%mor:	pro:dem|this aux|be&3S part|cover-PASTP adv|real&dadj-LY adv|only
+	prep|in n:prop|Whiteman prep|of det:poss|your det:num|four
+	n|textbook-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|JCT 7|6|POBJ 8|7|NJCT
+	9|11|DET 10|11|QUANT 11|8|POBJ 12|3|PUNCT
+*S1:	and I think it's important that you all get it (.) even though it's
+	not in the other textbooks .
+%mor:	coord|and pro:sub|I v|think pro:per|it~cop|be&3S adj|important
+	comp|that pro:per|you adv|all aux|get pro:per|it adv|even adv|though
+	pro:per|it~cop|be&3S neg|not prep|in det:art|the qn|other
+	n|textbook-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|PRED 7|15|LINK
+	8|15|SUBJ 9|10|JCT 10|15|AUX 11|10|PRED 12|13|JCT 13|15|JCT 14|15|SUBJ
+	15|6|CMOD 16|15|NEG 17|15|JCT 18|20|DET 19|20|QUANT 20|17|POBJ 21|3|PUNCT
+*S1:	we have today thirteen million kids who are in poverty .
+%mor:	pro:sub|we v|have adv:tem|today det:num|thirteen det:num|million
+	n|kid-PL pro:rel|who cop|be&PRES prep|in n|poverty .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|QUANT 5|6|QUANT 6|3|OBJ 7|8|LINK 8|6|CMOD
+	9|8|JCT 10|9|POBJ 11|2|PUNCT
+*S1:	that's three million more than we had twenty years ago .
+%mor:	pro:dem|that~cop|be&3S det:num|three det:num|million adv|more
+	prep|than pro:sub|we v|have&PAST det:num|twenty n|year-PL post|ago .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|6|JCT 6|4|JCT 7|8|SUBJ 8|6|CPOBJ
+	9|10|QUANT 10|8|OBJ 11|10|POSTMOD 12|2|PUNCT
+*S1:	so (.) even though the nation's been prospering &-uh things have
+	been getting worse for children .
+%mor:	adv|so adv|even adv|though det:art|the n|nation~cop|be&3S
+	aux|be&PASTP part|prosper-PRESP n|thing-PL v|have aux|be&PASTP
+	n:gerund|get-PRESP adj|bad&CP prep|for n|child&PL .
+%gra:	1|2|JCT 2|3|JCT 3|6|JCT 4|5|DET 5|6|SUBJ 6|0|ROOT 7|8|AUX 8|6|PRED
+	9|10|SUBJ 10|8|COMP 11|12|AUX 12|10|OBJ 13|12|PRED 14|13|JCT 15|14|POBJ
+	16|6|PUNCT
+*S1:	&-uh as I probably mentioned before (.) a_lot_of our Congressmen
+	are against abortions but they don't care if kids die or suffer once
+	they're born .
+%mor:	conj|as pro:sub|I adv|probable&dadj-LY v|mention-PAST conj|before
+	qn|a_lot_of det:poss|our n:prop|Congressmen cop|be&PRES prep|against
+	n|abortion-PL conj|but pro:sub|they mod|do~neg|not n|care comp|if
+	n|kid-PL n|die coord|or v|suffer adv|once pro:sub|they~cop|be&PRES
+	adj|born .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|9|LINK 6|8|QUANT 7|8|DET 8|9|SUBJ
+	9|4|CJCT 10|9|JCT 11|10|POBJ 12|9|CONJ 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|12|COORD 17|19|MOD 18|19|MOD 19|16|CMOD 20|19|CONJ 21|20|COORD
+	22|21|JCT 23|24|SUBJ 24|21|COMP 25|24|PRED 26|4|PUNCT
+*S1:	&-uh at least they don't want to appropriate any money for health
+	care well we rank twenty third or twenty fourth in the world (.) in
+	terms of infant mortality .
+%mor:	prep|at n|least pro:sub|they mod|do~neg|not v|want inf|to
+	v|appropriate qn|any n|money prep|for n|health n|care adv|well
+	pro:sub|we adj|rank det:num|twenty adj|third coord|or det:num|twenty
+	adj|fourth prep|in det:art|the n|world prep|in n|term-PL prep|of
+	n|infant n|mortal&dadj-ITY .
+%gra:	1|6|JCT 2|1|POBJ 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|QUANT 10|8|OBJ 11|8|JCT 12|13|MOD 13|11|POBJ 14|8|JCT 15|14|INCROOT
+	16|18|MOD 17|18|QUANT 18|15|JCT 19|18|CONJ 20|21|QUANT 21|19|COORD
+	22|21|JCT 23|24|DET 24|22|POBJ 25|24|NJCT 26|25|POBJ 27|26|NJCT 28|29|MOD
+	29|27|POBJ 30|15|PUNCT
+*S1:	that is we have more &k babies dying (.) than any other civilized I
+	mean any other Western country .
+%mor:	pro:dem|that cop|be&3S pro:sub|we v|have qn|more n|baby-PL
+	part|die-PRESP prep|than qn|any qn|other part|civil-IZE-PASTP
+	pro:sub|I v|mean qn|any qn|other n:prop|Western n|country .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|CPRED 5|6|QUANT 6|4|OBJ 7|6|XMOD 8|7|JCT
+	9|10|QUANT 10|11|QUANT 11|8|CPOBJ 12|13|SUBJ 13|11|COMP 14|15|QUANT
+	15|16|QUANT 16|17|MOD 17|13|OBJ 18|2|PUNCT
+*S1:	so (.) we are in bad shape as far as children go .
+%mor:	co|so pro:sub|we cop|be&PRES prep|in adj|bad n|shape prep|as
+	adv|far conj|as n|child&PL v|go .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|8|COORD 8|3|PUNCT
+	9|11|LINK 10|11|SUBJ 11|8|ROOT 12|11|PUNCT
+*S1:	&-uh we don't (.) give good education good health care good
+	nutrition &-uh other countries provide health care for (.) prenatal
+	care for mothers and care for the mother and the child (.) health
+	care &-uh in infancy we don't do any of that we'd much rather (.)
+	cut taxes for millionaires than (.) put any money into the future .
+%mor:	pro:sub|we mod|do~neg|not v|give adj|good n|educate&dv-TION
+	adj|good n|health n|care adj|good n|nutrition qn|other n|country-PL
+	v|provide n|health n|care prep|for pre#adj|natal n|care prep|for
+	n|mother-PL coord|and n|care prep|for det:art|the n|mother coord|and
+	det:art|the n|child n|health n|care prep|in n|infancy pro:sub|we
+	mod|do~neg|not v|do qn|any prep|of adv|that pro:sub|we~mod|genmod
+	adv|much adv|rather n|cut v|tax-3S prep|for n|millionaire-PL
+	prep|than part|put&PASTP qn|any n|money prep|into det:art|the
+	n|future .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|MOD 6|14|JCT 7|9|MOD 8|9|MOD
+	9|11|MOD 10|11|MOD 11|6|APP 12|13|QUANT 13|14|SUBJ 14|4|COMP 15|16|MOD
+	16|14|OBJ 17|16|NJCT 18|17|POBJ 19|18|OBJ 20|19|NJCT 21|20|POBJ 22|19|CONJ
+	23|22|COORD 24|19|NJCT 25|26|DET 26|24|POBJ 27|19|CONJ 28|31|DET 29|31|MOD
+	30|31|MOD 31|27|COORD 32|31|NJCT 33|32|POBJ 34|37|SUBJ 35|37|AUX
+	36|35|NEG 37|31|CMOD 38|37|OBJ 39|38|NJCT 40|46|JCT 41|46|SUBJ 42|46|AUX
+	43|44|JCT 44|46|JCT 45|46|SUBJ 46|39|POBJ 47|38|JCT 48|47|POBJ 49|48|NJCT
+	50|49|CPOBJ 51|52|QUANT 52|50|OBJ 53|31|NJCT 54|55|DET 55|53|POBJ
+	56|4|PUNCT
+*S1:	&-uh and one of the reasons I guess I'm interested in <this is> [/]
+	this is one of the centers of research on poverty and its effect on
+	children &-uh a_couple_of the professors in social work are among
+	the national leaders (.) of research in this area &-uh Danziger and
+	(.) I forgot Cohen &-uh so we know a good deal about how poverty is
+	related (.) to children's development .
+%mor:	coord|and det:num|one prep|of det:art|the n|reason-PL pro:sub|I
+	v|guess pro:sub|I~aux|be&1S part|interest-PASTP adv|in det:dem|this
+	aux|be&3S det:num|one prep|of det:art|the n|center-PL prep|of
+	n|research prep|on n|poverty coord|and det:poss|its n|effect prep|on
+	n|child&PL qn|a_couple_of det:art|the n|professor-PL prep|in
+	adj|social n|work cop|be&PRES prep|among det:art|the
+	adj|nation&dn-AL n|lead&dv-AGT-PL prep|of n|research prep|in
+	det:dem|this n|area n:prop|Danziger coord|and pro:sub|I
+	v|forget&PAST n:prop|Cohen conj|so pro:sub|we v|know det:art|a
+	adj|good n|deal adv|about pro:rel|how n|poverty aux|be&3S
+	part|relate-PASTP inf|to adj|child&PL&dn-POSS n|develop&dv-MENT .
+%gra:	1|7|LINK 2|7|XJCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|10|SUBJ
+	9|10|AUX 10|7|COMP 11|33|JCT 12|14|DET 13|14|AUX 14|29|QUANT 15|14|JCT
+	16|17|DET 17|15|POBJ 18|17|NJCT 19|18|POBJ 20|14|JCT 21|20|POBJ
+	22|14|CONJ 23|24|DET 24|22|COORD 25|14|JCT 26|25|POBJ 27|29|QUANT 28|29|DET
+	29|33|SUBJ 30|29|NJCT 31|32|MOD 32|30|POBJ 33|10|COMP 34|33|JCT 35|37|DET
+	36|37|MOD 37|34|POBJ 38|37|NJCT 39|38|POBJ 40|37|NJCT 41|42|DET 42|40|POBJ
+	43|37|APP 44|46|LINK 45|46|SUBJ 46|37|CJCT 47|46|OBJ 48|50|LINK
+	49|50|SUBJ 50|46|CJCT 51|53|DET 52|53|MOD 53|50|OBJ 54|53|NJCT 55|58|LINK
+	56|58|SUBJ 57|58|AUX 58|54|CMOD 59|60|INF 60|61|MOD 61|58|OBJ 62|7|PUNCT
+*S1:	now again let me remind you it's the same way with TV violence that
+	is (.) it doesn't affect all children in the same way (.) and
+	poverty relates to a_lot_of other things that is (.) generally
+	speaking probably kids who are poor (.) are +//.
+%mor:	adv|now adv|again v|let&ZERO pro:obj|me v|remind pro:per|you
+	pro:per|it~cop|be&3S det:art|the adj|same n|way prep|with n:prop|TV
+	n|violence pro:rel|that cop|be&3S pro:per|it mod|do&3S~neg|not
+	v|affect qn|all n|child&PL prep|in det:art|the adj|same n|way
+	coord|and n|poverty v|relate-3S prep|to qn|a_lot_of qn|other
+	n|thing-PL pro:rel|that aux|be&3S adv|general&dadj-LY
+	part|speak-PRESP adv|probable&dadj-LY n|kid-PL pro:rel|who
+	cop|be&PRES adj|poor cop|be&PRES +//.
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|COMP 6|8|SUBJ 7|8|SUBJ 8|5|COMP
+	9|11|DET 10|11|MOD 11|8|PRED 12|11|NJCT 13|14|MOD 14|12|POBJ 15|16|LINK
+	16|14|CMOD 17|20|SUBJ 18|20|AUX 19|18|NEG 20|16|CPRED 21|22|QUANT
+	22|20|OBJ 23|29|LINK 24|26|DET 25|26|MOD 26|29|SUBJ 27|26|CONJ 28|27|COORD
+	29|20|CJCT 30|29|JCT 31|33|QUANT 32|33|QUANT 33|30|POBJ 34|37|LINK 35|37|AUX
+	36|37|JCT 37|33|CMOD 38|43|JCT 39|43|SUBJ 40|41|LINK 41|39|CMOD
+	42|41|PRED 43|37|COMP 44|3|PUNCT
+*S1:	spend more time watching television than kids whose parents are
+	taking them to Little League baseball games and (.) ballet lessons
+	and everything else they can (.) do so (.) these things tend to get
+	intertwined .
+%mor:	v|spend qn|more n|time part|watch-PRESP n|television prep|than
+	n|kid-PL pro:int|whose n|parent-PL aux|be&PRES part|take-PRESP
+	pro:obj|them prep|to n:prop|Little n:prop|League n|baseball
+	n|game-PL coord|and n|ballet n|lesson-PL coord|and
+	pro:indef|everything post|else pro:sub|they mod|can v|do conj|so
+	det:dem|these n|thing-PL v|tend inf|to aux|get part|intertwine-PASTP
+	.
+%gra:	1|0|ROOT 2|3|QUANT 3|26|SUBJ 4|26|XJCT 5|4|OBJ 6|5|NJCT 7|6|POBJ
+	8|11|LINK 9|11|SUBJ 10|11|AUX 11|26|XJCT 12|11|OBJ 13|11|JCT 14|17|MOD
+	15|17|MOD 16|17|MOD 17|13|POBJ 18|17|CONJ 19|20|MOD 20|18|COORD 21|11|CONJ
+	22|21|COORD 23|22|PQ 24|26|SUBJ 25|26|AUX 26|1|COMP 27|30|LINK 28|29|DET
+	29|30|SUBJ 30|1|CJCT 31|33|INF 32|33|AUX 33|30|COMP 34|1|PUNCT
+*S1:	but &-uh John Hagen of our faculty in psychology and Fulman [?]
+	&-uh studied poverty (.) and its effect on children in Detroit .
+%mor:	conj|but n:prop|John n:prop|Hagen prep|of det:poss|our n|faculty
+	prep|in n|psychology coord|and n:prop|Fulman v|study-PAST n|poverty
+	coord|and det:poss|its n|effect prep|on n|child&PL prep|in
+	n:prop|Detroit .
+%gra:	1|11|LINK 2|3|NAME 3|11|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|NJCT
+	8|7|POBJ 9|3|CONJ 10|9|COORD 11|0|ROOT 12|11|OBJ 13|11|CONJ 14|15|DET
+	15|13|COORD 16|15|NJCT 17|16|POBJ 18|17|NJCT 19|18|POBJ 20|11|PUNCT
+*S1:	they found that children who're in poverty (.) were more likely to
+	believe in aggression that is that you should fight &-uh you_know if
+	somebody's taking something from you .
+%mor:	pro:sub|they v|find&PAST comp|that n|child&PL
+	pro:int|who~cop|be&PRES prep|in n|poverty cop|be&PAST adv|more
+	adj|likely inf|to v|believe prep|in n|aggression pro:rel|that
+	cop|be&3S comp|that pro:per|you mod|should v|fight co|you_know
+	conj|if pro:indef|somebody~aux|be&3S part|take-PRESP
+	pro:indef|something prep|from pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|SUBJ 6|2|COMP 7|6|JCT 8|9|SUBJ
+	9|7|POBJ 10|11|JCT 11|9|PRED 12|13|INF 13|11|XMOD 14|13|JCT 15|14|POBJ
+	16|17|LINK 17|15|CMOD 18|21|LINK 19|21|SUBJ 20|21|AUX 21|17|CPRED
+	22|26|COM 23|26|LINK 24|26|SUBJ 25|26|AUX 26|21|COMP 27|26|OBJ 28|26|JCT
+	29|28|POBJ 30|2|PUNCT
+*S1:	&-uh there's a neat article in the current issue of the &-uh
+	Psychologist the &-uh British journal (.) that &-uh left to
+	themselves children in preschools quite often can negotiate and
+	settle things .
+%mor:	pro:exist|there~cop|be&3S det:art|a adj|neat n|article prep|in
+	det:art|the n|current n|issue prep|of det:art|the
+	n:prop|Psychologist det:art|the n:prop|British n|journal
+	pro:rel|that v|leave&PAST prep|to pro:refl|themselves n|child&PL
+	prep|in pre#n|school-PL adv|quite adv|often mod|can v|negotiate
+	coord|and v|settle n|thing-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|15|DET 14|15|MOD 15|2|PRED
+	16|17|LINK 17|15|CMOD 18|17|JCT 19|26|LINK 20|26|SUBJ 21|20|NJCT 22|21|POBJ
+	23|20|JCT 24|26|JCT 25|26|AUX 26|18|POBJ 27|26|CONJ 28|27|COORD 29|28|OBJ
+	30|2|PUNCT
+*S1:	they do it better than <if there's an adult there> [/] if there's
+	an adult there they (.) fight until the adult stops them but &-uh if
+	they're just by themselves they negotiate .
+%mor:	pro:sub|they v|do pro:per|it adv|good&CP prep|than comp|if
+	pro:exist|there~cop|be&3S det:art|a n|adult adv|there pro:sub|they
+	v|fight prep|until det:art|the n|adult v|stop-3S pro:obj|them
+	conj|but conj|if pro:sub|they~cop|be&PRES adv|just prep|by
+	pro:refl|themselves pro:sub|they v|negotiate .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|8|LINK 7|8|SUBJ 8|5|CPOBJ
+	9|10|DET 10|13|JCT 11|10|NJCT 12|13|SUBJ 13|8|CPRED 14|17|LINK 15|16|DET
+	16|17|SUBJ 17|13|COMP 18|17|OBJ 19|27|LINK 20|22|LINK 21|22|SUBJ
+	22|27|CJCT 23|22|JCT 24|22|JCT 25|24|POBJ 26|27|SUBJ 27|17|CJCT 28|2|PUNCT
+*S1:	so (.) children in poverty are more likely (.) to &-uh have
+	favorable attitudes toward aggression (.) they're more likely to be
+	fearful of violence (.) I remember &-uh a National Academy meeting
+	in Washington some years +//.
+%mor:	adv|so n|child&PL prep|in n|poverty cop|be&PRES adv|more adj|likely
+	inf|to v|have adj|favor&dv-ABLE n|attitude-PL prep|toward
+	n|aggression pro:sub|they~cop|be&PRES adv|more adj|likely inf|to
+	cop|be adj|fear&dn-FULL prep|of n|violence pro:sub|I v|remember
+	det:art|a n:prop|National n:prop|Academy part|meet-PRESP prep|in
+	n:prop|Washington qn|some n|year-PL +//.
+%gra:	1|2|JCT 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|5|JCT 7|5|PRED 8|9|INF
+	9|7|XMOD 10|11|MOD 11|9|COMP 12|11|NJCT 13|12|POBJ 14|15|SUBJ 15|9|COMP
+	16|17|JCT 17|15|PRED 18|19|INF 19|24|XJCT 20|19|PRED 21|20|JCT 22|21|POBJ
+	23|24|SUBJ 24|17|OM 25|26|DET 26|24|OBJ 27|28|SUBJ 28|26|XMOD 29|28|JCT
+	30|29|POBJ 31|32|QUANT 32|28|JCT 33|5|PUNCT
+*S1:	in Chicago (.) some years ago that a woman from one of the Chicago
+	&s schools .
+%mor:	prep|in n:prop|Chicago qn|some n|year-PL post|ago comp|that
+	det:art|a n|woman prep|from det:num|one prep|of det:art|the
+	n:prop|Chicago n|school-PL .
+%gra:	1|0|INCROOT 2|1|POBJ 3|4|QUANT 4|1|POBJ 5|4|POSTMOD 6|4|ENUM 7|8|DET
+	8|6|OBJ 9|8|NJCT 10|9|POBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|1|PUNCT
+*S1:	and she said &-uh the problem for our kids on the south side of
+	Chicago (.) is that the only place they're really safe (.) is in the
+	school .
+%mor:	coord|and pro:sub|she v|say&PAST det:art|the n|problem prep|for
+	det:poss|our n|kid-PL prep|on det:art|the adj|south n|side prep|of
+	n:prop|Chicago cop|be&3S comp|that det:art|the qn|only n|place
+	pro:sub|they~cop|be&PRES adv|real&dadj-LY n|safe cop|be&3S prep|in
+	det:art|the n|school .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|12|NJCT 14|13|POBJ 15|3|CJCT
+	16|15|PRED 17|19|DET 18|19|QUANT 19|16|OBJ 20|21|SUBJ 21|19|CMOD 22|24|JCT
+	23|24|SUBJ 24|21|PRED 25|24|JCT 26|27|DET 27|25|POBJ 28|3|PUNCT
+*S1:	the problem is getting them there and back &=laughs without getting
+	beaten up or (.) robbed or [/] or taken advantage of along the way .
+%mor:	det:art|the n|problem aux|be&3S part|get-PRESP pro:obj|them
+	adv|there coord|and adv|back prep|without aux|get-PRESP
+	part|beat&PASTP adv|up coord|or v|rob-PAST coord|or part|take&PASTP
+	n|advantage prep|of adv|along det:art|the n|way .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|CONJ 8|11|JCT
+	9|11|JCT 10|11|AUX 11|7|COORD 12|11|JCT 13|4|CONJ 14|13|COORD 15|14|CONJ
+	16|15|COORD 17|16|OBJ 18|17|NJCT 19|21|JCT 20|21|DET 21|18|POBJ 22|4|PUNCT
+*S1:	&-uh they are more likely to approve stealing .
+%mor:	pro:sub|they cop|be&PRES adv|more adj|likely inf|to v|approve
+	part|steal-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|6|INF 6|4|XMOD 7|6|COMP 8|2|PUNCT
+*S1:	&-uh drug dealing is normal in their situations .
+%mor:	n|drug n:gerund|deal-PRESP cop|be&3S adv|normal prep|in
+	det:poss|their n|situate&dv-TION-PL .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*S1:	&-uh they have poorer health as I've already mentioned (.) and
+	that's not necessary +//.
+%mor:	pro:sub|they v|have adj|poor-CP n|health prep|as pro:sub|I~aux|have
+	adv|already part|mention-PASTP coord|and pro:dem|that~cop|be&3S
+	neg|not adj|necessary +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|12|SUBJ 5|9|COORD 6|9|SUBJ 7|9|AUX 8|9|JCT
+	9|4|ENUM 10|4|CONJ 11|10|COORD 12|2|COMP 13|12|NEG 14|12|PRED 15|2|PUNCT
+*S1:	&-uh &wh &-uh Lyndon Johnson when he was president conducted a war
+	on poverty (.) and cut poverty to about fourteen percent .
+%mor:	n:prop|Lyndon n:prop|Johnson conj|when pro:sub|he aux|be&PAST&13S
+	n|president part|conduct-PASTP det:art|a n|war prep|on n|poverty
+	coord|and v|cut&ZERO n|poverty inf|to prep|about det:num|fourteen
+	n|percent .
+%gra:	1|2|NAME 2|0|ROOT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|JCT 7|2|CJCT 8|9|DET
+	9|7|OBJ 10|7|JCT 11|10|POBJ 12|7|CONJ 13|12|COORD 14|13|OBJ 15|16|INF
+	16|14|XMOD 17|18|QUANT 18|16|POBJ 19|2|PUNCT
+*S1:	&-uh now we have about that is fourteen percent of children were
+	reared in poverty .
+%mor:	adv|now pro:sub|we v|have prep|about pro:dem|that cop|be&3S
+	det:num|fourteen n|percent prep|of n|child&PL aux|be&PAST
+	part|rear-PASTP prep|in n|poverty .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|SUBJ 6|12|CJCT 7|8|QUANT
+	8|12|SUBJ 9|8|NJCT 10|9|POBJ 11|12|AUX 12|3|COMP 13|12|JCT 14|13|POBJ 15|3|PUNCT
+*S1:	&-uh now it's about twenty five percent so it's gone up and &-uh
+	there's no reason why it should (.) in a wealthy nation like this .
+%mor:	adv|now pro:per|it~cop|be&3S prep|about det:num|twenty det:num|five
+	n|percent conj|so pro:per|it~aux|be&3S part|go&PASTP adv|up
+	coord|and pro:exist|there~cop|be&3S qn|no n|reason pro:rel|why
+	pro:per|it mod|should prep|in det:art|a adj|wealth&dn-Y n|nation
+	prep|like pro:dem|this .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|7|QUANT 6|7|QUANT 7|3|PRED
+	8|11|LINK 9|11|SUBJ 10|11|AUX 11|3|PUNCT 12|11|JCT 13|15|LINK 14|15|SUBJ
+	15|11|ROOT 16|17|QUANT 17|15|PRED 18|17|ROOT 19|18|OBJ 20|19|INCROOT 21|20|JCT
+	22|24|DET 23|24|MOD 24|21|POBJ 25|24|NJCT 26|25|POBJ 27|20|PUNCT
+*S1:	the (.) let me just give you (.) one suggestion for your journal .
+%mor:	det:art|the v|let&ZERO pro:obj|me adv|just v|give pro:per|you
+	pro:indef|one n|suggestion prep|for det:poss|your n|journal .
+%gra:	1|2|DET 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|COMP 6|5|OBJ2 7|8|SUBJ 8|5|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*S1:	&-uh that is &-uh it would be interesting &a or if you don't do it
+	for your journal do it for your own interest .
+%mor:	pro:dem|that cop|be&3S pro:per|it mod|will&COND cop|be
+	adj|interesting coord|or conj|if pro:per|you mod|do~neg|not v|do
+	pro:per|it prep|for det:poss|your n|journal v|do pro:per|it prep|for
+	det:poss|your adj|own n|interest .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|PRED 6|5|PRED 7|17|LINK
+	8|12|LINK 9|12|SUBJ 10|12|AUX 11|10|NEG 12|17|CJCT 13|12|OBJ 14|12|JCT 15|16|DET
+	16|14|POBJ 17|5|CJCT 18|17|OBJ 19|17|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|2|PUNCT
+*S1:	&-uh I've done this and it's kind_of fun .
+%mor:	pro:sub|I~aux|have part|do&PASTP pro:dem|this coord|and
+	pro:per|it~cop|be&3S adv|kind_of adj|fun .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|9|JCT
+	9|7|PRED 10|3|PUNCT
+*S1:	&-uh draw a graphic representation of your own development .
+%mor:	v|draw det:art|a adj|graphic n|represent&dv-TION prep|of
+	det:poss|your adj|own n|develop&dv-MENT .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|1|PUNCT
+*S1:	that is put in kind of critical events (.) how you've branched out
+	maybe with different kinds of interests at different times &-uh
+	people (.) who had some influence on you &-uh you_know your parents
+	your peers (.) aunts and uncles grandparents maybe &-uh and if you
+	want to (.) try to project it into the future and see what kind of
+	critical events or things you think are going to happen in the
+	future .
+%mor:	pro:rel|that aux|be&3S part|put&PASTP adv|in n|kind prep|of
+	adj|critical n|event-PL pro:rel|how pro:per|you~aux|have
+	part|branch-PASTP adv|out adv|maybe prep|with adj|different
+	n|kind-PL prep|of n|interest-PL prep|at adj|different n|time-PL
+	n|person&PL pro:rel|who v|have&PAST qn|some n|influence prep|on
+	pro:per|you co|you_know det:poss|your n|parent-PL det:poss|your
+	n|peer-PL n|aunt-PL coord|and n|uncle-PL grand#n|parent-PL adv|maybe
+	coord|and conj|if pro:per|you v|want inf|to v|try inf|to v|project
+	pro:per|it prep|into det:art|the n|future coord|and co|see
+	pro:int|what n|kind prep|of adj|critical n|event-PL coord|or
+	n|thing-PL pro:per|you v|think aux|be&PRES part|go-PRESP inf|to
+	v|happen prep|in det:art|the n|future .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|OBJ 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CMOD 13|12|JCT 14|12|JCT 15|12|JCT
+	16|17|MOD 17|15|POBJ 18|17|NJCT 19|18|POBJ 20|19|NJCT 21|23|MOD 22|23|MOD
+	23|20|POBJ 24|25|LINK 25|23|CMOD 26|27|QUANT 27|25|OBJ 28|25|JCT
+	29|28|POBJ 30|32|COM 31|32|DET 32|29|OBJ 33|35|DET 34|35|MOD 35|38|SUBJ
+	36|35|CONJ 37|36|COORD 38|32|COMP 39|38|JCT 40|38|CONJ 41|43|LINK 42|43|SUBJ
+	43|40|COORD 44|45|INF 45|43|COMP 46|47|INF 47|45|COMP 48|47|OBJ 49|47|JCT
+	50|51|DET 51|49|POBJ 52|64|LINK 53|64|COM 54|55|DET 55|64|SUBJ 56|55|NJCT
+	57|58|MOD 58|56|POBJ 59|55|CONJ 60|59|COORD 61|62|SUBJ 62|55|CMOD
+	63|64|AUX 64|45|CJCT 65|66|INF 66|64|COMP 67|66|JCT 68|69|DET 69|67|POBJ
+	70|3|PUNCT
+*S1:	but that would be a good way for you to kind_of elaborate (.) what
+	you've learned about development from your reading so far .
+%mor:	conj|but pro:dem|that mod|will&COND cop|be det:art|a adj|good n|way
+	prep|for pro:per|you inf|to adv|kind_of v|elaborate pro:int|what
+	pro:per|you~aux|have part|learn-PASTP prep|about n|develop&dv-MENT
+	prep|from det:poss|your n:gerund|read-PRESP adv|so adv|far .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|8|POBJ 10|12|INF 11|12|JCT 12|7|XMOD 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|12|COMP 17|16|JCT 18|17|POBJ 19|18|NJCT 20|21|DET 21|19|POBJ 22|23|JCT
+	23|12|JCT 24|4|PUNCT
+*S1:	if you're interested in developmental psychology (.) there's a book
+	by two of our (.) well my former teaching assistants or research
+	assistants Phil and Barbara Newman (.) which is probably the
+	bestselling developmental psych book .
+%mor:	conj|if pro:per|you~aux|be&PRES part|interest-PASTP prep|in
+	adj|develop&dn-MENT-AL n|psychology pro:exist|there~cop|be&3S
+	det:art|a n|book prep|by det:num|two prep|of det:poss|our adv|well
+	co|my adj|former part|teach-PRESP n|assistant-PL coord|or n|research
+	n|assistant-PL n:prop|Phil coord|and n:prop|Barbara n:prop|Newman
+	pro:rel|which cop|be&3S adv|probable&dadj-LY det:art|the
+	adj|+adj|best+part|selling adj|develop&dn-MENT-AL n|psych n|book .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|9|CJCT 5|4|JCT 6|7|MOD 7|5|POBJ 8|9|SUBJ
+	9|0|ROOT 10|11|DET 11|9|PRED 12|11|NJCT 13|20|QUANT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|18|COM 18|20|MOD 19|20|MOD 20|12|POBJ 21|11|CONJ 22|23|MOD
+	23|21|COORD 24|21|COORD 25|9|CONJ 26|27|NAME 27|25|COORD 28|29|LINK
+	29|27|CMOD 30|29|JCT 31|35|DET 32|35|MOD 33|35|MOD 34|35|MOD 35|29|PRED
+	36|9|PUNCT
+*S1:	&-uh there's also a very good one by Mussen and Conger and Kagan .
+%mor:	pro:exist|there~cop|be&3S adv|also det:art|a adv|very adj|good
+	pro:indef|one prep|by n:prop|Mussen coord|and n:prop|Conger
+	coord|and n:prop|Kagan .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|DET 5|6|JCT 6|7|MOD 7|2|PRED 8|7|NJCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|7|CONJ 13|12|COORD 14|2|PUNCT
+*S1:	&-uh if you're interested in continuity &-uh the book by Baltes and
+	Brim I mentioned Constancy and Change in Human Development's good .
+%mor:	conj|if pro:per|you~aux|be&PRES part|interest-PASTP prep|in
+	n|continuity det:art|the n|book prep|by n:prop|Baltes coord|and
+	n:prop|Brim pro:sub|I v|mention-PAST n:prop|Constancy coord|and
+	n:prop|Change prep|in n:prop|Human adj|Development&dn-POSS adj|good
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|14|CJCT 5|4|JCT 6|5|POBJ 7|8|DET 8|4|OBJ
+	9|8|NJCT 10|9|POBJ 11|10|CONJ 12|11|COORD 13|14|SUBJ 14|0|ROOT 15|14|OBJ
+	16|15|CONJ 17|16|COORD 18|14|JCT 19|18|POBJ 20|21|MOD 21|19|PRED
+	22|14|PUNCT
+*S1:	I've got some readings here quite a few readings on test taking .
+%mor:	pro:sub|I~aux|have part|get&PASTP qn|some n:gerund|read-PRESP-PL
+	adv|here adv|quite det:art|a qn|few n:gerund|read-PRESP-PL prep|on
+	n|test part|take-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|JCT 7|9|JCT 8|9|DET
+	9|10|QUANT 10|5|OBJ 11|10|JCT 12|11|POBJ 13|10|XJCT 14|3|PUNCT
+*S1:	&-uh and if you're interested in your own development you might be
+	interested in a book by Holahan H O L A H A N and Sears called The
+	Gifted Group in Later Maturity .
+%mor:	coord|and conj|if pro:per|you~aux|be&PRES part|interest-PASTP
+	prep|in det:poss|your adj|own n|develop&dv-MENT pro:per|you
+	mod|might aux|be part|interest-PASTP prep|in det:art|a n|book
+	prep|by n:prop|Holahan n:prop|H n:prop|O n:prop|L n:prop|A n:prop|H
+	n:prop|A n:prop|N coord|and n:prop|Sears v|call-PAST n:prop|The
+	n:prop|Gifted n:prop|Group prep|in n:prop|Later n:prop|Maturity .
+%gra:	1|13|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|13|CJCT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|13|SUBJ 11|13|AUX 12|13|AUX 13|0|ROOT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|13|JCT 18|19|NAME 19|20|NAME 20|21|NAME 21|22|NAME 22|23|NAME
+	23|24|NAME 24|25|NAME 25|17|POBJ 26|28|LINK 27|28|SUBJ 28|13|CJCT
+	29|30|NAME 30|31|NAME 31|28|OBJ 32|31|NJCT 33|32|POBJ 34|31|APP 35|13|PUNCT
+*S1:	and this is a longitudinal study that studied a group of kids who
+	scored in the top one percent (.) maybe it was the top half of one
+	percent &-uh highly gifted (.) kids &-uh who were followed over (.)
+	I think it's maybe sixty years now .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|a adj|longitudinal n|study
+	pro:rel|that v|study-PAST det:art|a n|group prep|of n|kid-PL
+	pro:rel|who v|score-PAST prep|in det:art|the n|top det:num|one
+	n|percent adv|maybe pro:per|it cop|be&PAST&13S det:art|the n|top
+	n|half prep|of det:num|one n|percent adv|high&dadj-LY adj|gifted
+	n|kid-PL pro:rel|who aux|be&PAST part|follow-PASTP adv|over
+	pro:sub|I v|think pro:per|it~cop|be&3S adv|maybe det:num|sixty
+	n|year-PL adv|now .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|8|LINK 8|6|CMOD
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|14|LINK 14|12|CMOD 15|14|JCT
+	16|19|DET 17|19|MOD 18|19|QUANT 19|15|POBJ 20|22|JCT 21|22|SUBJ
+	22|14|CJCT 23|25|DET 24|25|MOD 25|22|PRED 26|25|NJCT 27|28|QUANT 28|26|POBJ
+	29|30|JCT 30|31|MOD 31|25|APP 32|34|LINK 33|34|AUX 34|25|CMOD 35|34|JCT
+	36|37|SUBJ 37|22|CJCT 38|39|SUBJ 39|37|COMP 40|41|JCT 41|42|QUANT 42|39|PRED
+	43|42|NJCT 44|3|PUNCT
+*S1:	&-uh the last I knew they were still following those who were still
+	alive so (.) that deals with kind of what happened to people with
+	your range of intelligence .
+%mor:	det:art|the n|last pro:sub|I v|know&PAST pro:sub|they aux|be&PAST
+	adv|still part|follow-PRESP det:dem|those pro:rel|who cop|be&PAST
+	adj|still adj|alive adv|so adv|that n|deal-PL prep|with n|kind
+	prep|of pro:int|what v|happen-PAST prep|to n|person&PL prep|with
+	det:poss|your n|range prep|of n|intelligence .
+%gra:	1|2|DET 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|8|SUBJ 6|8|AUX 7|8|JCT 8|2|CMOD
+	9|8|OBJ 10|11|LINK 11|9|CMOD 12|16|MOD 13|16|MOD 14|16|JCT 15|16|JCT
+	16|11|PRED 17|16|NJCT 18|17|POBJ 19|18|NJCT 20|21|SUBJ 21|19|CPOBJ
+	22|21|JCT 23|22|POBJ 24|21|JCT 25|26|DET 26|24|POBJ 27|26|NJCT 28|27|POBJ
+	29|2|PUNCT
+*S1:	let me summarize .
+%mor:	v|let&ZERO pro:obj|me v|summary&dadj-IZE .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*S1:	&-uh one (.) methodology (.) studying things in developmental
+	psychology &-uh has problems as you saw in the studies on television
+	(.) but were able to get (.) nonetheless I think fairly reasonable
+	evidence that gives you somewhat (.) more confidence in certain
+	variables that are affecting development (.) and the better (.)
+	design you have something like crosssequential probably would (.)
+	assure you can be that your results are going to hold up .
+%mor:	det:num|one n|methodology part|study-PRESP n|thing-PL prep|in
+	adj|develop&dn-MENT-AL n|psychology aux|have&3S n|problem-PL conj|as
+	pro:per|you n|saw prep|in det:art|the n|study-PL prep|on
+	n|television conj|but aux|be&PAST adj|able inf|to v|get
+	adv|nonetheless pro:sub|I v|think adv|fair&dadj-LY
+	adj|reason&dv-ABLE n|evidence pro:rel|that v|give-3S pro:per|you
+	adv|somewhat adv|more n|confidence prep|in adj|certain n|variable-PL
+	pro:rel|that cop|be&PRES n:gerund|affect-PRESP n|develop&dv-MENT
+	coord|and det:art|the adj|good&CP v|design pro:per|you v|have
+	pro:indef|something prep|like cross#adj|sequential
+	adv|probable&dadj-LY mod|will&COND v|assure pro:per|you mod|can
+	cop|be comp|that det:poss|your n|result-PL aux|be&PRES part|go-PRESP
+	inf|to v|hold adv|up .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|XMOD 4|3|OBJ 5|3|JCT 6|7|MOD 7|9|SUBJ 8|9|AUX
+	9|5|POBJ 10|12|COORD 11|12|SUBJ 12|2|CJCT 13|12|JCT 14|15|DET
+	15|13|POBJ 16|12|NJCT 17|16|POBJ 18|12|CONJ 19|18|COORD 20|19|PRED 21|22|INF
+	22|25|XJCT 23|22|JCT 24|25|SUBJ 25|20|CMOD 26|25|JCT 27|28|MOD 28|25|OBJ
+	29|30|LINK 30|28|CMOD 31|30|OBJ 32|30|JCT 33|34|JCT 34|30|OBJ 35|34|NJCT
+	36|37|MOD 37|35|POBJ 38|39|LINK 39|37|CMOD 40|39|PRED 41|45|SUBJ
+	42|41|CONJ 43|44|DET 44|42|COORD 45|40|COMP 46|47|SUBJ 47|45|COMP 48|47|OBJ
+	49|48|NJCT 50|49|POBJ 51|53|JCT 52|53|AUX 53|47|COMP 54|56|SUBJ 55|56|AUX
+	56|53|COMP 57|61|LINK 58|59|DET 59|61|SUBJ 60|61|AUX 61|56|PRED 62|63|INF
+	63|61|COMP 64|63|JCT 65|2|PUNCT
+*S1:	two (.) people (.) tend to be stable (.) in personality and other
+	characteristics (.) but &-uh they still (.) always have great
+	capacity for change and I think that's what's tended to be
+	underemphasized in our (.) kind_of folklore .
+%mor:	det:num|two n|person&PL v|tend inf|to cop|be adj|stable prep|in
+	n|personal&dadj-ITY coord|and qn|other n|characteristic-PL conj|but
+	pro:sub|they adv|still adv|always v|have adj|great n|capacity
+	prep|for n|change coord|and pro:sub|I v|think comp|that~aux|be&3S
+	pro:int|what~aux|be&3S part|tend-PASTP inf|to cop|be
+	under#part|emphasize-PASTP prep|in det:poss|our adv|kind_of
+	n|folklore .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|PRED 7|5|JCT 8|7|POBJ
+	9|8|CONJ 10|11|QUANT 11|9|COORD 12|16|LINK 13|16|SUBJ 14|16|JCT
+	15|16|JCT 16|3|CJCT 17|18|MOD 18|16|OBJ 19|18|NJCT 20|19|POBJ 21|23|LINK
+	22|23|SUBJ 23|16|CJCT 24|28|SUBJ 25|28|AUX 26|28|SUBJ 27|28|AUX 28|23|COMP
+	29|30|INF 30|28|COMP 31|30|PRED 32|31|JCT 33|35|DET 34|35|JCT 35|32|POBJ
+	36|3|PUNCT
+*S1:	third thing poverty's a major problem for the child for children
+	particularly .
+%mor:	adj|third n|thing adj|poverty&dn-POSS det:art|a n|major n|problem
+	prep|for det:art|the n|child prep|for n|child&PL
+	adv|particular&dadj-LY .
+%gra:	1|2|MOD 2|6|MOD 3|6|MOD 4|6|DET 5|6|MOD 6|0|INCROOT 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|6|NJCT 11|10|POBJ 12|6|JCT 13|6|PUNCT
+*S1:	I mean it's bad for anybody but it just has particularly bad
+	effects on children .
+%mor:	pro:sub|I v|mean pro:per|it~cop|be&3S adj|bad prep|for
+	pro:indef|anybody conj|but pro:per|it adv|just aux|have&3S
+	adv|particular&dadj-LY adj|bad n|effect-PL prep|on n|child&PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|4|JCT 7|6|POBJ 8|14|LINK
+	9|14|SUBJ 10|14|JCT 11|14|AUX 12|13|JCT 13|14|MOD 14|2|OBJ 15|14|NJCT
+	16|15|POBJ 17|2|PUNCT
+*S1:	and fourth &-uh don't forget the role of chance (.) but that
+	nonetheless &-uh even if bad things happen to you [/] you can always
+	bounce back .
+%mor:	coord|and adj|fourth mod|do~neg|not v|forget det:art|the n|role
+	prep|of n|chance conj|but pro:dem|that adv|nonetheless adj|even
+	conj|if adj|bad n|thing-PL v|happen prep|to pro:per|you mod|can
+	adv|always v|bounce adv|back .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|5|CONJ 11|10|COORD 12|13|JCT 13|11|PRED 14|17|LINK 15|16|MOD
+	16|17|SUBJ 17|13|CMOD 18|17|JCT 19|22|SUBJ 20|22|AUX 21|22|JCT 22|18|POBJ
+	23|22|JCT 24|5|PUNCT
+*S1:	&-uh I don't know for test taking I guess &-uh any questions about
+	the test or (.) strategies to use ?
+%mor:	pro:sub|I mod|do~neg|not v|know prep|for n|test part|take-PRESP
+	pro:sub|I v|guess qn|any n|question-PL prep|about det:art|the n|test
+	coord|or n|strategy-PL prep|to n|use ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|9|XJCT 8|9|SUBJ
+	9|4|CJCT 10|11|QUANT 11|9|OBJ 12|9|JCT 13|14|DET 14|12|POBJ 15|14|CONJ
+	16|15|COORD 17|16|NJCT 18|17|POBJ 19|4|PUNCT
+*S1:	there are going to be I think eight multiple choice six short
+	answer &-uh an essay (.) and you'll have your choice of essays (.)
+	but &-uh plan your time because we just have fifty minutes to get it
+	in &-uh we'll probably try to pass them out as you come into the
+	room so if you get here (.) on time you'll have a better chance to
+	finish up .
+%mor:	pro:exist|there cop|be&PRES part|go-PRESP inf|to cop|be pro:sub|I
+	v|think det:num|eight adj|multiple n|choice det:num|six adj|short
+	n|answer det:art|a n|essay coord|and pro:per|you~mod|will v|have
+	det:poss|your n|choice prep|of n|essay-PL conj|but v|plan
+	det:poss|your n|time conj|because pro:sub|we adv|just v|have
+	det:num|fifty n|minute-PL inf|to v|get pro:per|it prep|in
+	pro:sub|we~mod|will adv|probable&dadj-LY v|try inf|to v|pass
+	pro:obj|them adv|out prep|as pro:per|you v|come prep|into
+	det:art|the n|room adv|so conj|if pro:per|you v|get adv|here prep|on
+	n|time pro:per|you~mod|will v|have det:art|a adj|good&CP n|chance
+	inf|to v|finish adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|COMP 6|7|SUBJ 7|3|COMP
+	8|10|QUANT 9|10|MOD 10|7|OBJ 11|13|QUANT 12|13|MOD 13|10|APP 14|15|DET 15|13|OBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|13|ENUM 20|21|DET 21|19|OBJ
+	22|21|NJCT 23|22|POBJ 24|2|CONJ 25|24|COORD 26|27|DET 27|25|OBJ 28|31|LINK
+	29|31|SUBJ 30|31|JCT 31|2|CJCT 32|33|QUANT 33|31|OBJ 34|35|INF 35|33|XMOD
+	36|35|OBJ 37|35|JCT 38|41|SUBJ 39|41|AUX 40|41|JCT 41|37|POBJ 42|43|INF
+	43|41|COMP 44|43|OBJ 45|43|JCT 46|48|COORD 47|48|SUBJ 48|43|CJCT 49|48|JCT
+	50|51|DET 51|49|POBJ 52|53|JCT 53|55|LINK 54|55|SUBJ 55|61|CJCT 56|55|JCT
+	57|55|JCT 58|57|POBJ 59|61|SUBJ 60|61|AUX 61|48|CJCT 62|64|DET
+	63|64|MOD 64|61|OBJ 65|66|INF 66|64|XMOD 67|66|JCT 68|2|PUNCT
+*S1:	and &-uh I guess the main thing is be sure and read the heading if
+	it's a multiple choice question read all of the alternatives in the
+	heading to be sure you've read it .
+%mor:	coord|and pro:sub|I v|guess det:art|the adj|main n|thing cop|be&3S
+	aux|be adj|sure coord|and v|read&ZERO det:art|the n|heading conj|if
+	pro:per|it~cop|be&3S det:art|a adj|multiple n|choice n|question
+	v|read&ZERO pro:indef|all prep|of det:art|the n|alternative-PL
+	prep|in det:art|the n|heading inf|to cop|be adj|sure
+	pro:per|you~aux|have v|read&ZERO pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|7|SUBJ 7|3|COMP 8|9|AUX
+	9|7|PRED 10|7|CONJ 11|10|COORD 12|13|DET 13|11|OBJ 14|16|LINK 15|16|SUBJ
+	16|3|CJCT 17|20|DET 18|19|MOD 19|20|MOD 20|21|SUBJ 21|16|CPRED 22|21|OBJ
+	23|22|NJCT 24|25|DET 25|23|POBJ 26|22|NJCT 27|28|DET 28|26|POBJ
+	29|30|INF 30|22|XMOD 31|30|PRED 32|34|SUBJ 33|34|AUX 34|31|CMOD 35|34|OBJ
+	36|3|PUNCT
+*S1:	&-uh I find that one of the things people miss the most is that
+	they pick one of the first two answers (.) and haven't read the
+	other ones which may turn out to be better and we try to write in
+	seductive alternatives I mean &-uh alternatives that maybe are
+	partially right but aren't as good .
+%mor:	pro:sub|I v|find adv|that pro:indef|one prep|of det:art|the
+	n|thing-PL n|person&PL v|miss det:art|the qn|most cop|be&3S
+	comp|that pro:sub|they v|pick det:num|one prep|of det:art|the
+	adj|first det:num|two n|answer-PL coord|and v|have~neg|not
+	v|read&ZERO det:art|the qn|other n|one-PL pro:rel|which mod|may
+	v|turn adv|out inf|to cop|be adv|good&CP coord|and pro:sub|we v|try
+	inf|to v|write prep|in adj|seductive n|alternative-PL pro:sub|I
+	v|mean n|alternative-PL comp|that adv|maybe aux|be&PRES
+	adv|partial&dadj-LY adj|right conj|but aux|be&PRES~neg|not prep|as
+	adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|9|JCT 4|9|SUBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|ROOT 10|11|DET 11|12|QUANT 12|9|ROOT 13|15|LINK 14|15|SUBJ 15|12|ROOT
+	16|15|OBJ 17|16|JCT 18|21|DET 19|21|MOD 20|21|QUANT 21|17|POBJ
+	22|15|CONJ 23|22|COORD 24|23|NEG 25|23|COMP 26|28|DET 27|28|QUANT 28|25|OBJ
+	29|31|LINK 30|31|AUX 31|28|CMOD 32|31|JCT 33|34|INF 34|31|COMP 35|34|JCT
+	36|38|LINK 37|38|SUBJ 38|31|ROOT 39|40|INF 40|38|COMP 41|40|JCT 42|43|MOD
+	43|41|POBJ 44|45|SUBJ 45|38|ROOT 46|45|OBJ 47|46|POBJ 48|47|NJCT
+	49|48|POBJ 50|49|NJCT 51|50|INCROOT 52|51|CONJ 53|52|COORD 54|53|NEG 55|56|COORD
+	56|53|ENUM 57|51|PUNCT
+*S1:	and the same way for essay (.) tests &-uh people (.) underline key
+	words in the essay tests &-uh (be)cause people just forget that they
+	were supposed to have contrasted or compared or done something else
+	.
+%mor:	coord|and det:art|the adj|same n|way prep|for n|essay v|test-3S
+	n|person&PL under#v|line n|key n|word-PL prep|in det:art|the n|essay
+	v|test-3S conj|because n|person&PL adj|just v|forget comp|that
+	pro:sub|they aux|be&PAST part|suppose-PASTP inf|to aux|have
+	part|contrast-PASTP coord|or v|compare-PAST coord|or part|do&PASTP
+	pro:indef|something post|else .
+%gra:	1|15|LINK 2|4|DET 3|4|MOD 4|15|SUBJ 5|7|LINK 6|7|SUBJ 7|15|CJCT
+	8|11|MOD 9|11|MOD 10|11|MOD 11|15|SUBJ 12|11|NJCT 13|14|DET 14|12|POBJ
+	15|0|ROOT 16|19|LINK 17|19|SUBJ 18|19|JCT 19|15|CJCT 20|23|LINK 21|23|SUBJ
+	22|23|AUX 23|19|COMP 24|26|INF 25|26|AUX 26|23|COMP 27|26|CONJ 28|27|COORD
+	29|26|CONJ 30|29|COORD 31|30|OBJ 32|31|PQ 33|15|PUNCT
+*S1:	okay good luck on Wednesday .
+%mor:	co|okay adj|good n|luck prep|on n:prop|Wednesday .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+@End

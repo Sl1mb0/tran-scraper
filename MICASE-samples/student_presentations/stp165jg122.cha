@@ -1,0 +1,2609 @@
+@UTF8
+@PID:	11312/a-00010243-1
+@Begin
+@Languages:	eng
+@Participants:	S1 Instructor Teacher, S2 Student Student, S3 Student
+	Student, S4 Student Student, S5 Student Student, SS Student
+	Student, SUF Student Student
+@ID:	eng|MICASE|S1|36;|female|NS||Teacher|JF||
+@ID:	eng|MICASE|S2|27;|female|NS||Student|JG||
+@ID:	eng|MICASE|S3|27;|male|NS||Student|SG||
+@ID:	eng|MICASE|S4|20;|female|NS||Student|JG||
+@ID:	eng|MICASE|S5|20;|female|NS||Student|JG||
+@ID:	eng|MICASE|SS|20;||NS||Student|JG||
+@ID:	eng|MICASE|SUF|20;|female|NS||Student|UN||
+@Media:	stp165jg122, audio, unlinked
+@Date:	02-NOV-2000
+@Situation:	Classroom, Environmental and Water Resources Engineering
+	Building
+*S1:	okay Rebecca .
+%mor:	co|okay n:prop|Rebecca .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	(0.4) did I get the right xxx .
+%mor:	mod|do&PAST pro:sub|I v|get det:art|the adj|right .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*S2:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	(0.4) when I wanna go to the next slide do I just hit enter ?
+%mor:	conj|when pro:sub|I v|want~inf|to v|go prep|to det:art|the adj|next
+	n|slide mod|do pro:sub|I adv|just n|hit v|enter ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|9|DET 8|9|MOD
+	9|14|SUBJ 10|14|AUX 11|14|SUBJ 12|14|JCT 13|14|SUBJ 14|6|POBJ 15|3|PUNCT
+*S1:	&-um enter or space bar or +/.
+%mor:	v|enter coord|or n|space n|bar coord|or +/.
+%gra:	1|0|ROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|CONJ 6|5|COORD
+*S2:	okay +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, right click .
+%mor:	co|right n|click .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	+, ⌈ okay ⌉ +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ or ⌋ right +/.
+%mor:	coord|or co|right +/.
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*S3:	+, arrow ⌈ down or ⌉ +/.
+%mor:	n|arrow adv|down coord|or +/.
+%gra:	1|0|INCROOT 2|1|NJCT 3|1|CONJ 4|1|PUNCT
+*S1:	+, ⌊ arrow ⌋ .
+%mor:	n|arrow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	<that's okay> [?] +/.
+%mor:	pro:dem|that~cop|be&3S adj|okay +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S4:	⌈ N too ⌉ +/.
+%mor:	n:prop|N post|too +/.
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*S2:	+, ⌊ that's a ⌋ lot o(f) &=laughs .
+%mor:	pro:dem|that~cop|be&3S det:art|a n|lot prep|of .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|2|PUNCT
+*S1:	M too ?
+%mor:	n:prop|M post|too ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*S4:	⌈ N ⌉ +/.
+%mor:	n:prop|N +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ N ⌋ .
+%mor:	n:prop|N .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	yeah N for next .
+%mor:	co|yeah n:prop|N prep|for adj|next .
+%gra:	1|2|COM 2|0|ROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*S1:	P for previous if you want to back up .
+%mor:	n:prop|P prep|for adj|previous conj|if pro:per|you v|want prep|to
+	adv|back adv|up .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|6|LINK 5|6|SUBJ 6|1|CJCT 7|6|JCT
+	8|9|JCT 9|7|POBJ 10|1|PUNCT
+*S2:	oh okay .
+%mor:	co|oh co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S4:	or plus or minus .
+%mor:	coord|or n|plus coord|or n|minus .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*S4:	+, or page up page down .
+%mor:	coord|or v|page adv|up n|page adv|down .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|2|PUNCT
+*S4:	&=laughs:multiple .
+*S3:	page up page down that's a good one that's what I .
+%mor:	v|page adv|up n|page prep|down pro:dem|that~cop|be&3S det:art|a
+	adj|good pro:indef|one pro:dem|that~cop|be&3S pro:int|what pro:sub|I
+	.
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|JCT 5|4|POBJ 6|1|PUNCT 7|9|DET 8|9|MOD
+	9|6|PRED 10|11|SUBJ 11|9|ROOT 12|11|PRED 13|12|INCROOT 14|13|PUNCT
+*S2:	I think that's like too many choices for me .
+%mor:	pro:sub|I v|think comp|that~aux|be&3S v|like adv|too qn|many
+	n|choice-PL prep|for pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|JCT 7|8|QUANT 8|5|OBJ
+	9|5|JCT 10|9|POBJ 11|2|PUNCT
+*S2:	+, ⌊ okay I'll pick ⌋ one of (th)em .
+%mor:	co|okay pro:sub|I~mod|will v|pick det:num|one prep|of pro:obj|them
+	.
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|JCT 7|6|POBJ 8|4|PUNCT
+*S2:	okay my topic survey was on augmentative and alternative
+	communication systems .
+%mor:	co|okay det:poss|my n|topic n|survey cop|be&PAST&13S adv|on
+	adj|augmentative coord|and adj|alternative n|communicate&dv-TION
+	n|system-PL .
+%gra:	1|4|COM 2|3|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PRED 8|7|CONJ
+	9|11|MOD 10|11|MOD 11|8|COORD 12|5|PUNCT
+*S2:	okay and the [/] the first slide is what are augmentative and
+	alternative communication systems or AAC devices .
+%mor:	co|okay coord|and det:art|the adj|first n|slide cop|be&3S
+	pro:int|what cop|be&PRES adj|augmentative coord|and adj|alternative
+	n|communicate&dv-TION n|system-PL coord|or n:prop|AAC n|device-PL .
+%gra:	1|6|COM 2|6|LINK 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|8|LINK 8|6|PRED
+	9|8|PRED 10|9|CONJ 11|13|MOD 12|13|MOD 13|10|COORD 14|8|CONJ 15|16|MOD
+	16|14|COORD 17|6|PUNCT
+*S2:	and &-um they're designed for people who can't (.) speak or write
+	or (.) have maybe a [/] a problem with speaking or writing (.) maybe
+	they can't speak or write fully (.) due to neuromuscular disease or
+	injury .
+%mor:	coord|and pro:sub|they~aux|be&PRES part|design-PASTP prep|for
+	n|person&PL pro:rel|who mod|can~neg|not v|speak coord|or v|write
+	coord|or v|have adv|maybe det:art|a n|problem prep|with
+	n:gerund|speak-PRESP coord|or part|write-PRESP adv|maybe
+	pro:sub|they mod|can~neg|not v|speak coord|or v|write adv|fully
+	n|due prep|to neuro#adj|muscular n|disease coord|or n|injury .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|10|LINK 8|10|AUX
+	9|8|NEG 10|6|CMOD 11|10|CONJ 12|11|COORD 13|4|CONJ 14|13|COORD 15|14|JCT
+	16|17|DET 17|15|POBJ 18|14|JCT 19|18|POBJ 20|26|LINK 21|26|XJCT
+	22|21|JCT 23|26|SUBJ 24|26|AUX 25|24|NEG 26|19|CJCT 27|26|CONJ 28|27|COORD
+	29|30|JCT 30|28|COMP 31|30|NJCT 32|31|POBJ 33|32|OBJ 34|33|CONJ 35|34|COORD
+	36|4|PUNCT
+*S2:	an AAC user in communicating with other people (.) and telling them
+	what their wants and needs are .
+%mor:	det:art|a n:prop|AAC n|use&dv-AGT prep|in
+	n:gerund|communicate-PRESP prep|with qn|other n|person&PL coord|and
+	part|tell-PRESP pro:obj|them pro:int|what det:poss|their v|want-3S
+	coord|and n|need-PL cop|be&PRES .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|5|JCT 7|8|QUANT
+	8|6|POBJ 9|8|CONJ 10|9|COORD 11|10|OBJ 12|14|LINK 13|14|DET 14|3|CMOD
+	15|14|CONJ 16|17|SUBJ 17|15|COORD 18|3|PUNCT
+*S2:	and I also see this as (.) an important safety measure in case of
+	emergencies if someone can't communicate (.) a situation or how
+	they're feeling if an emergency comes up (.) an AAC system can be a
+	good source of safety .
+%mor:	coord|and pro:sub|I adv|also v|see det:dem|this prep|as det:art|a
+	adj|important n|safety n|measure prep|in n|case prep|of
+	n|emergency-PL comp|if pro:indef|someone mod|can~neg|not
+	v|communicate det:art|a n|situate&dv-TION coord|or pro:rel|how
+	pro:sub|they~cop|be&PRES n:gerund|feel-PRESP comp|if det:art|a
+	n|emergency v|come-3S prep|up det:art|a n:prop|AAC n|system mod|can
+	cop|be det:art|a adj|good n|source prep|of n|safety .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|JCT 7|10|DET 8|10|MOD
+	9|10|MOD 10|6|POBJ 11|10|NJCT 12|11|POBJ 13|12|NJCT 14|13|POBJ 15|19|LINK
+	16|19|SUBJ 17|19|AUX 18|17|NEG 19|10|CMOD 20|21|DET 21|19|OBJ 22|10|CONJ
+	23|25|LINK 24|25|SUBJ 25|22|COORD 26|36|LINK 27|30|LINK 28|29|DET
+	29|30|SUBJ 30|36|SUBJ 31|30|JCT 32|34|DET 33|34|MOD 34|31|POBJ 35|36|AUX
+	36|25|COMP 37|39|DET 38|39|MOD 39|36|PRED 40|39|NJCT 41|40|POBJ 42|4|PUNCT
+*S2:	there are two basic types of AAC systems .
+%mor:	pro:exist|there cop|be&PRES det:num|two adj|basic n|type-PL prep|of
+	n:prop|AAC n|system-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|PRED 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|2|PUNCT
+*S2:	&-um one is for conversational or speech needs (.) and &-um some
+	examples are if you wanna talk to friends and family or if you wanna
+	talk on the telephone &-um if you're in a classroom or at work and
+	(.) just to specify what your wants and needs are .
+%mor:	pro:indef|one cop|be&3S prep|for adj|converse&dn-TION-AL coord|or
+	n|speech n|need-PL coord|and qn|some n|example-PL cop|be&PRES
+	conj|if pro:per|you v|want~inf|to v|talk prep|to n|friend-PL
+	coord|and n|family coord|or conj|if pro:per|you v|want~inf|to v|talk
+	prep|on det:art|the n|telephone conj|if pro:per|you~cop|be&PRES
+	prep|in det:art|a n|+n|class+n|room coord|or prep|at n|work
+	coord|and adv|just inf|to v|specify pro:int|what det:poss|your
+	v|want-3S coord|and n|need-PL cop|be&PRES .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|CONJ 6|5|COORD 7|5|COORD
+	8|5|CONJ 9|10|QUANT 10|8|COORD 11|8|COORD 12|5|COORD 13|5|COORD 14|5|COORD
+	15|5|COORD 16|5|COORD 17|16|JCT 18|17|POBJ 19|18|CONJ 20|19|COORD 21|2|CONJ
+	22|24|LINK 23|24|SUBJ 24|21|COORD 25|26|INF 26|24|COMP 27|26|JCT
+	28|29|DET 29|27|POBJ 30|32|LINK 31|32|SUBJ 32|24|CJCT 33|32|JCT 34|35|DET
+	35|33|POBJ 36|32|CONJ 37|36|COORD 38|37|POBJ 39|37|CONJ 40|42|JCT 41|42|INF
+	42|39|COORD 43|42|OBJ 44|45|DET 45|43|COMP 46|45|CONJ 47|48|SUBJ
+	48|46|COORD 49|2|PUNCT
+*S2:	and then there's also graphical or written needs (.) that people
+	have .
+%mor:	coord|and adv:tem|then pro:exist|there~cop|be&3S adv|also
+	adj|graphic-AL coord|or part|write&PASTP n|need-PL pro:rel|that
+	n|person&PL v|have .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|CONJ 8|7|COORD
+	9|8|OBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|4|PUNCT
+*S2:	and that's if you wanna write letters (.) or you have assignments
+	(.) or you would like to draw or do some sort of artistic work .
+%mor:	coord|and pro:dem|that~cop|be&3S conj|if pro:per|you v|want~inf|to
+	v|write n|letter-PL coord|or pro:per|you v|have n|assign&dv-MENT-PL
+	coord|or pro:per|you mod|will&COND v|like inf|to v|draw coord|or
+	v|do qn|some n|sort prep|of adj|artistic n|work .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|12|LINK 11|12|SUBJ 12|8|CJCT 13|12|OBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|12|CJCT 18|19|INF 19|17|COMP 20|19|CONJ 21|20|COORD
+	22|23|QUANT 23|21|OBJ 24|23|NJCT 25|26|MOD 26|24|POBJ 27|3|PUNCT
+*S2:	&-um people who can benefit from AAC devices (.) are people with a
+	damaged larynx (.) or cerebral palsy (.) ALS (.) traumatic brain
+	injury (.) stroke (.) and if you have &-um a spinal cord &in injury
+	and you can't use your hands then you can benefit from this .
+%mor:	n|person&PL pro:rel|who mod|can v|benefit prep|from n:prop|AAC
+	n|device-PL cop|be&PRES n|person&PL prep|with det:art|a
+	part|damage-PASTP n|larynx coord|or adj|cerebral n|palsy n:prop|ALS
+	adj|traumatic n|brain n|injury n|stroke coord|and conj|if
+	pro:per|you v|have det:art|a adj|spinal n|cord n|injury coord|and
+	pro:per|you mod|can~neg|not v|use det:poss|your n|hand-PL
+	adv:tem|then pro:per|you mod|can v|benefit prep|from pro:dem|this .
+%gra:	1|8|SUBJ 2|4|LINK 3|4|AUX 4|1|CMOD 5|4|JCT 6|7|MOD 7|5|POBJ 8|0|ROOT
+	9|8|PRED 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|9|INCROOT 15|16|MOD
+	16|14|COORD 17|21|MOD 18|21|MOD 19|21|MOD 20|21|MOD 21|14|COORD
+	22|14|CONJ 23|25|LINK 24|25|SUBJ 25|22|COORD 26|29|DET 27|28|MOD 28|29|MOD
+	29|25|OBJ 30|34|LINK 31|34|SUBJ 32|34|AUX 33|32|NEG 34|25|CJCT 35|36|DET
+	36|34|OBJ 37|40|JCT 38|40|SUBJ 39|40|AUX 40|34|COMP 41|40|JCT 42|41|POBJ
+	43|14|PUNCT
+*S2:	the first device I'm gonna go over (.) is &-um talking picture
+	cards .
+%mor:	det:art|the adj|first n|device pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|go adv|over aux|be&3S part|talk-PRESP
+	n|picture n|card-PL .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|8|INF 8|6|COMP
+	9|8|JCT 10|11|AUX 11|8|COMP 12|13|MOD 13|11|OBJ 14|3|PUNCT
+*S2:	and the company that developed these specific cards are Crestwood
+	Company .
+%mor:	coord|and det:art|the n|company pro:rel|that v|develop-PAST
+	det:dem|these adj|specific n|card-PL cop|be&PRES n:prop|Crestwood
+	n:prop|Company .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|8|DET 7|8|MOD 8|9|SUBJ
+	9|5|COMP 10|11|NAME 11|9|PRED 12|3|PUNCT
+*S2:	and basically it's a way for someone to communicate with other
+	people by pointing to the actual card that expresses their need .
+%mor:	coord|and adv|basic&dadj-AL-LY pro:per|it~cop|be&3S det:art|a n|way
+	prep|for pro:indef|someone inf|to v|communicate prep|with qn|other
+	n|person&PL prep|by n:gerund|point-PRESP prep|to det:art|the
+	adj|actual n|card pro:rel|that v|express-3S det:poss|their n|need .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|7|POBJ
+	9|10|INF 10|6|XMOD 11|10|JCT 12|13|QUANT 13|11|POBJ 14|6|NJCT 15|14|POBJ
+	16|15|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|21|LINK 21|19|CMOD 22|23|DET
+	23|21|OBJ 24|4|PUNCT
+*S2:	&-um when you get a package of cards there's a hundred and fifteen
+	functional cards in that package (.) and there's eight different
+	classifications that you have .
+%mor:	conj|when pro:per|you v|get det:art|a n|package prep|of n|card-PL
+	pro:exist|there~cop|be&3S det:art|a det:num|hundred coord|and
+	det:num|fifteen n|functional n|card-PL prep|in det:dem|that
+	n|package coord|and pro:exist|there~cop|be&3S det:num|eight
+	adj|different n|classify&dv-TION-PL comp|that pro:per|you v|have .
+%gra:	1|3|LINK 2|3|SUBJ 3|9|CJCT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|9|SUBJ
+	9|0|ROOT 10|11|DET 11|15|QUANT 12|11|CONJ 13|12|COORD 14|15|MOD 15|9|PRED
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|21|LINK 20|21|SUBJ 21|9|CJCT
+	22|24|QUANT 23|24|MOD 24|21|PRED 25|27|LINK 26|27|SUBJ 27|24|CMOD 28|9|PUNCT
+*S2:	&-um they specify (.) things about your room bathroom health (.)
+	any aids that you need food clothes people miscellaneous .
+%mor:	pro:sub|they v|specify n|thing-PL prep|about det:poss|your n|room
+	n|+n|bath+n|room n|health qn|any n|aid-PL pro:rel|that pro:per|you
+	v|need n|food n:pt|clothes n|person&PL adj|miscellaneous .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|8|DET 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|10|QUANT 10|8|OBJ 11|13|LINK 12|13|SUBJ 13|10|CMOD 14|13|OBJ 15|14|POSTMOD
+	16|17|MOD 17|15|POSTMOD 18|2|PUNCT
+*S2:	and there are five languages on the reverse side of the card or you
+	can get sign language if you want (.) and the cost is thirty one
+	ninety five .
+%mor:	coord|and adv|there cop|be&PRES det:num|five n|language-PL prep|on
+	det:art|the adj|reverse n|side prep|of det:art|the n|card coord|or
+	pro:per|you mod|can v|get n|sign n|language conj|if pro:per|you
+	v|want coord|and det:art|the n|cost cop|be&3S det:num|thirty
+	det:num|one det:num|ninety det:num|five .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|5|CJCT 17|18|MOD 18|16|OBJ 19|21|LINK 20|21|SUBJ 21|16|CJCT
+	22|25|LINK 23|24|DET 24|25|SUBJ 25|21|COMP 26|29|DATE 27|28|DATE 28|29|DATE
+	29|25|PRED 30|3|PUNCT
+*S2:	the pros about the picture cards (.) is that they're easy to use
+	and transport (.) and you don't need fine motor control in_order_to
+	use them .
+%mor:	det:art|the n|pro-PL prep|about det:art|the n|picture n|card-PL
+	cop|be&3S comp|that pro:sub|they~cop|be&PRES adj|ease&dn-Y inf|to
+	v|use coord|and n|transport coord|and pro:per|you mod|do~neg|not
+	v|need n|fine n|motor n|control inf|in_order_to v|use pro:obj|them .
+%gra:	1|2|DET 2|7|SUBJ 3|7|JCT 4|6|DET 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|10|LINK
+	9|10|SUBJ 10|7|PRED 11|10|PRED 12|13|INF 13|11|XMOD 14|13|CONJ 15|14|COORD
+	16|20|LINK 17|20|SUBJ 18|20|AUX 19|18|NEG 20|10|CJCT 21|23|MOD
+	22|23|MOD 23|20|OBJ 24|25|INF 25|23|XMOD 26|25|OBJ 27|7|PUNCT
+*S2:	&-um they're fairly inexpensive .
+%mor:	pro:sub|they~cop|be&PRES adv|fair&dadj-LY in#adj|expensive .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*S2:	but (.) with the picture cards you have a fairly limited vocabulary
+	and you can only use these pictures so (.) the picture may not show
+	the exact need that the person needs or (.) if the other person is
+	looking at the picture they might not understand what the person
+	wants from just looking at a specific picture .
+%mor:	conj|but prep|with det:art|the n|picture n|card-PL pro:per|you
+	v|have det:art|a adv|fair&dadj-LY part|limit-PASTP n|vocabulary
+	coord|and pro:per|you mod|can adv|only n|use det:dem|these
+	n|picture-PL co|so det:art|the n|picture mod|may neg|not v|show
+	det:art|the adj|exact n|need comp|that det:art|the n|person
+	n|need-PL coord|or comp|if det:art|the qn|other n|person aux|be&3S
+	part|look-PRESP prep|at det:art|the n|picture pro:sub|they mod|might
+	neg|not v|understand pro:int|what det:art|the n|person v|want-3S
+	prep|from adv|just part|look-PRESP prep|at det:art|a adj|specific
+	n|picture .
+%gra:	1|7|LINK 2|7|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|SUBJ 7|0|ROOT 8|11|DET
+	9|10|JCT 10|11|MOD 11|7|OBJ 12|7|CONJ 13|16|SUBJ 14|16|AUX 15|16|JCT
+	16|12|COORD 17|18|DET 18|16|OBJ 19|24|COM 20|21|DET 21|24|SUBJ 22|24|AUX
+	23|22|NEG 24|18|CMOD 25|27|DET 26|27|MOD 27|24|OBJ 28|27|XMOD 29|31|DET
+	30|31|MOD 31|28|OBJ 32|45|LINK 33|38|LINK 34|36|DET 35|36|QUANT 36|38|SUBJ
+	37|38|AUX 38|45|XJCT 39|38|JCT 40|41|DET 41|39|POBJ 42|45|SUBJ 43|45|AUX
+	44|43|NEG 45|31|CMOD 46|49|LINK 47|48|DET 48|49|SUBJ 49|45|COMP
+	50|49|JCT 51|52|JCT 52|50|POBJ 53|52|JCT 54|56|DET 55|56|MOD 56|53|POBJ
+	57|7|PUNCT
+*S2:	or you may be communicating with someone that is vision impaired
+	and can't see the picture very clearly and so then you're not
+	communicating very effectively .
+%mor:	coord|or pro:per|you mod|may aux|be part|communicate-PRESP
+	prep|with pro:indef|someone pro:rel|that aux|be&3S n|vision
+	part|impair-PASTP coord|and mod|can~neg|not v|see det:art|the
+	n|picture adv|very adv|clear&dadj-LY coord|and adv|so adv:tem|then
+	pro:per|you~aux|be&PRES neg|not part|communicate-PRESP adv|very
+	adv|effective&dadj-LY .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|11|LINK
+	9|11|AUX 10|11|SUBJ 11|7|CMOD 12|11|CONJ 13|15|AUX 14|13|NEG 15|12|COORD
+	16|17|DET 17|15|OBJ 18|19|JCT 19|17|NJCT 20|26|LINK 21|22|JCT 22|26|JCT
+	23|26|SUBJ 24|26|AUX 25|24|NEG 26|19|CJCT 27|28|JCT 28|26|JCT 29|5|PUNCT
+*S2:	and also I thought (.) with a hundred and fifteen cards you need to
+	sort through (.) a_lot in_order_to communicate .
+%mor:	coord|and adv|also pro:sub|I v|think&PAST prep|with det:art|a
+	det:num|hundred coord|and det:num|fifteen n|card-PL pro:per|you
+	v|need prep|to n|sort prep|through adv|a_lot inf|in_order_to
+	v|communicate .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|10|QUANT 8|7|CONJ
+	9|8|COORD 10|5|POBJ 11|12|SUBJ 12|4|CJCT 13|12|JCT 14|13|POBJ 15|12|JCT
+	16|15|POBJ 17|18|INF 18|16|COMP 19|4|PUNCT
+*S2:	so you're constantly like sorting through all these cards to get
+	from (.) one communication to the other .
+%mor:	adv|so pro:per|you~cop|be&PRES adv|constant&dadj-LY v|like
+	part|sort-PRESP prep|through qn|all det:dem|these n|card-PL inf|to
+	v|get prep|from det:num|one n|communicate&dv-TION prep|to
+	det:art|the qn|other .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|COM 6|3|PRED 7|6|JCT 8|10|QUANT
+	9|10|DET 10|7|POBJ 11|12|INF 12|6|XJCT 13|12|JCT 14|15|QUANT 15|13|POBJ
+	16|12|JCT 17|18|DET 18|16|POBJ 19|3|PUNCT
+*S2:	so that can be difficult .
+%mor:	adv|so adv|that mod|can cop|be adj|difficult .
+%gra:	1|4|JCT 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*S2:	&-um Crestwood also has (.) what they call Crestwood Passports and
+	these are more specific to the talking picture cards .
+%mor:	n:prop|Crestwood adv|also aux|have&3S pro:int|what pro:sub|they
+	v|call n:prop|Crestwood n:prop|Passports coord|and pro:dem|these
+	cop|be&PRES adv|more adj|specific prep|to det:art|the
+	part|talk-PRESP n|picture n|card-PL .
+%gra:	1|6|SUBJ 2|6|JCT 3|6|AUX 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|8|NAME 8|11|SUBJ
+	9|8|CONJ 10|9|COORD 11|6|COMP 12|13|JCT 13|11|PRED 14|11|JCT 15|18|DET
+	16|18|MOD 17|18|MOD 18|14|POBJ 19|6|PUNCT
+*S2:	but &-um they include items such as fast food supermarket shopping
+	school (.) recreation &-um casual dining personal needs drugstore
+	shopping center and health .
+%mor:	conj|but pro:sub|they v|include n|item-PL qn|such adv|as adj|fast
+	n|food super#n|market part|shop-PRESP n|school re#n|create&dv-TION
+	adj|casual n:gerund|dine-PRESP adj|personal n|need-PL
+	n|+n|drug+n|store part|shop-PRESP n|center coord|and n|health .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|QUANT 6|7|JCT 7|8|MOD 8|4|APP
+	9|3|CJCT 10|9|XMOD 11|19|MOD 12|19|MOD 13|17|MOD 14|17|MOD 15|17|MOD
+	16|17|MOD 17|19|MOD 18|19|MOD 19|10|OBJ 20|19|CONJ 21|20|COORD 22|3|PUNCT
+*S2:	and what these are is just it's a packet of portable book with
+	specific &-uh pictures in there so you can go and do a specific
+	activity and (.) the one I have is (.) an example of fast food items
+	.
+%mor:	coord|and pro:int|what det:dem|these aux|be&PRES aux|be&3S adv|just
+	pro:per|it~cop|be&3S det:art|a n|packet prep|of adj|portable n|book
+	prep|with adj|specific n|picture-PL prep|in n|there adv|so
+	pro:per|you mod|can v|go coord|and v|do det:art|a adj|specific
+	n|active&dadj-ITY coord|and det:art|the pro:indef|one pro:sub|I
+	v|have cop|be&3S det:art|a n|example prep|of adj|fast n|food
+	n|item-PL .
+%gra:	1|8|LINK 2|8|LINK 3|8|SUBJ 4|8|AUX 5|8|AUX 6|7|JCT 7|8|SUBJ 8|0|ROOT
+	9|10|DET 10|22|SUBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|10|NJCT 15|16|MOD
+	16|14|POBJ 17|16|NJCT 18|17|POBJ 19|22|JCT 20|22|SUBJ 21|22|AUX
+	22|8|CPRED 23|22|CONJ 24|23|COORD 25|27|DET 26|27|MOD 27|24|OBJ 28|33|LINK
+	29|30|DET 30|33|SUBJ 31|32|SUBJ 32|30|CMOD 33|24|CJCT 34|35|DET 35|33|PRED
+	36|35|NJCT 37|39|MOD 38|39|MOD 39|36|POBJ 40|8|PUNCT
+*S2:	and I found this on their website .
+%mor:	coord|and pro:sub|I v|find&PAST pro:dem|this prep|on det:poss|their
+	n|+n|web+n|site .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*S2:	this is a lady named Mary and &-um she has a limited vocabulary and
+	people have difficulty understanding her and she has the fast food
+	passport .
+%mor:	pro:dem|this cop|be&3S det:art|a n|lady v|name-PAST n:prop|Mary
+	coord|and pro:sub|she v|have&3S det:art|a part|limit-PASTP
+	n|vocabulary coord|and n|person&PL v|have n|difficulty
+	part|understand-PRESP pro:obj|her coord|and pro:sub|she v|have&3S
+	det:art|the adj|fast n|food n|passport .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|CPRED 6|5|OBJ 7|9|LINK 8|9|SUBJ
+	9|5|CJCT 10|12|DET 11|12|MOD 12|9|OBJ 13|9|CONJ 14|15|SUBJ 15|13|COORD
+	16|15|OBJ 17|16|XMOD 18|17|OBJ 19|21|LINK 20|21|SUBJ 21|9|CJCT 22|25|DET
+	23|25|MOD 24|25|MOD 25|21|OBJ 26|2|PUNCT
+*S2:	and here it shows her going to Wendy's for the first time and
+	ordering her meal by herself .
+%mor:	coord|and adv|here pro:per|it v|show-3S pro:obj|her part|go-PRESP
+	prep|to adj|Wendy&dn-POSS prep|for det:art|the adj|first n|time
+	coord|and part|order-PRESP det:poss|her n|meal prep|by
+	pro:refl|herself .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|12|CONJ 14|13|COORD 15|16|DET
+	16|14|OBJ 17|14|JCT 18|17|POBJ 19|4|PUNCT
+*S2:	&-um the passports have about forty four picture cards each (.) and
+	they come in a portable book and it's twenty three ninety five per
+	passport .
+%mor:	det:art|the n|passport-PL v|have prep|about det:num|forty
+	det:num|four n|picture n|card-PL qn|each coord|and pro:sub|they
+	v|come adv|in det:art|a adj|portable n|book coord|and
+	pro:per|it~cop|be&3S det:num|twenty det:num|three det:num|ninety
+	det:num|five prep|per n|passport .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|QUANT 6|7|QUANT 7|8|MOD 8|4|POBJ
+	9|10|QUANT 10|12|LINK 11|12|SUBJ 12|8|CJCT 13|12|JCT 14|16|DET 15|16|MOD
+	16|12|OBJ 17|19|LINK 18|19|SUBJ 19|12|CJCT 20|23|DATE 21|22|DATE
+	22|23|DATE 23|19|PRED 24|23|JCT 25|24|POBJ 26|3|PUNCT
+*S2:	&-um the pros I see are that cards are specialized for a certain
+	activity and they're inexpensive (.) but &-um you know once you
+	leave Wendy's or McDonald's or whatever you can't &u really use your
+	fast food passport anymore so it's very specific and you hafta have
+	a_lot_of these passports .
+%mor:	det:art|the n|pro-PL pro:sub|I v|see aux|be&PRES det:dem|that
+	n|card-PL aux|be&PRES part|special-IZE-PASTP prep|for det:art|a
+	adj|certain n|active&dadj-ITY coord|and pro:sub|they~cop|be&PRES
+	in#adj|expensive conj|but pro:per|you v|know adv|once pro:per|you
+	v|leave adj|Wendy&dn-POSS coord|or adj|McDonald&dn-POSS coord|or
+	pro:int|whatever pro:per|you mod|can~neg|not adv|real&dadj-LY v|use
+	det:poss|your adj|fast n|food n|passport adv|anymore conj|so
+	pro:per|it~cop|be&3S adv|very adj|specific coord|and pro:per|you
+	mod|have~inf|to v|have qn|a_lot_of det:dem|these n|passport-PL .
+%gra:	1|2|DET 2|9|SUBJ 3|4|SUBJ 4|2|CMOD 5|9|AUX 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|16|LINK 15|16|SUBJ
+	16|9|CJCT 17|16|PRED 18|20|LINK 19|20|SUBJ 20|23|CJCT 21|20|JCT 22|23|SUBJ
+	23|9|CJCT 24|23|JCT 25|24|CONJ 26|25|COORD 27|24|CONJ 28|33|LINK
+	29|33|SUBJ 30|33|AUX 31|30|NEG 32|33|JCT 33|27|COORD 34|37|DET 35|37|MOD
+	36|37|MOD 37|33|OBJ 38|33|JCT 39|41|LINK 40|41|SUBJ 41|23|CJCT 42|43|JCT
+	43|41|PRED 44|48|LINK 45|48|SUBJ 46|48|AUX 47|48|INF 48|41|CJCT 49|51|QUANT
+	50|51|DET 51|48|OBJ 52|9|PUNCT
+*S2:	and Crestwood Company also has what they call Crespeaker .
+%mor:	coord|and n:prop|Crestwood n:prop|Company adv|also aux|have&3S
+	pro:int|what pro:sub|they v|call n:prop|Crespeaker .
+%gra:	1|3|LINK 2|3|NAME 3|8|SUBJ 4|8|JCT 5|8|AUX 6|8|LINK 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|8|PUNCT
+*S2:	it's a handheld device and you can type in words phrases and
+	sentences (.) and it will speak them for you .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|+n|hand+part|held n|device
+	coord|and pro:per|you mod|can v|type adv|in n|word-PL v|phrase-3S
+	coord|and n|sentence-PL coord|and pro:per|it mod|will v|speak
+	pro:obj|them prep|for pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|2|CJCT 10|12|JCT 11|12|SUBJ 12|9|COMP 13|12|CONJ 14|13|COORD 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|12|CJCT 19|18|OBJ 20|18|JCT 21|20|POBJ
+	22|2|PUNCT
+*S2:	it also translates from English to Spanish and Spanish to English .
+%mor:	pro:per|it adv|also v|translate-3S prep|from n:prop|English prep|to
+	n:prop|Spanish coord|and n:prop|Spanish prep|to n:prop|English .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|6|POBJ 8|3|CONJ
+	9|8|COORD 10|9|NJCT 11|10|POBJ 12|3|PUNCT
+*S2:	and they show people using this (.) on the telephone .
+%mor:	coord|and pro:sub|they v|show n|person&PL part|use-PRESP
+	pro:dem|this prep|on det:art|the n|telephone .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|XJCT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*S2:	so they'll hold the (.) device up to the phone receiver and
+	actually talk with the device .
+%mor:	adv|so pro:sub|they~mod|will v|hold det:art|the n|device adv|up
+	prep|to det:art|the n|phone n|receive&dv-AGT coord|and
+	adv|actual&dadj-LY v|talk prep|with det:art|the n|device .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|4|CONJ 13|14|JCT 14|12|COORD 15|14|JCT
+	16|17|DET 17|15|POBJ 18|4|PUNCT
+*S2:	&-um it's also very small and easy to operate (.) you can enter up
+	a hundred characters which is about eighteen words (.) and there are
+	also built+in phrases about four hundred and two built+in phrases .
+%mor:	pro:per|it~cop|be&3S adv|also adv|very adj|small coord|and
+	adj|ease&dn-Y inf|to v|operate pro:per|you mod|can v|enter adv|up
+	det:art|a det:num|hundred n|character-PL pro:rel|which cop|be&3S
+	prep|about det:num|eighteen n|word-PL coord|and adv|there
+	cop|be&PRES adv|also adj|+v|built+prep|in n|phrase-PL prep|about
+	det:num|four det:num|hundred coord|and det:num|two
+	adj|+v|built+prep|in n|phrase-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|PRED 6|5|CONJ 7|6|COORD 8|9|INF
+	9|5|XMOD 10|12|SUBJ 11|12|AUX 12|9|COMP 13|12|JCT 14|16|DET 15|16|QUANT
+	16|12|OBJ 17|18|LINK 18|16|CMOD 19|18|JCT 20|21|QUANT 21|19|POBJ
+	22|18|CONJ 23|24|SUBJ 24|22|COORD 25|27|JCT 26|27|MOD 27|24|PRED 28|24|JCT
+	29|30|QUANT 30|28|POBJ 31|30|CONJ 32|34|QUANT 33|34|MOD 34|31|COORD
+	35|2|PUNCT
+*S2:	they (.) basically advertise this device not only for people with
+	communication difficulties (.) but if you're traveling or you're
+	learning English or Spanish as a second language (.) they also &-um
+	+...
+%mor:	pro:sub|they adv|basic&dadj-AL-LY v|advertise det:dem|this n|device
+	neg|not adv|only prep|for n|person&PL prep|with
+	n|communicate&dv-TION n|difficulty-PL conj|but comp|if
+	pro:per|you~aux|be&PRES part|travel-PRESP coord|or
+	pro:per|you~aux|be&PRES part|learn-PRESP n:prop|English coord|or
+	n:prop|Spanish conj|as det:art|a adj|second n|language pro:sub|they
+	adv|also +...
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NEG 7|8|JCT 8|5|NJCT
+	9|8|POBJ 10|9|NJCT 11|12|MOD 12|10|POBJ 13|3|PUNCT 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|13|ROOT 18|21|LINK 19|21|SUBJ 20|21|AUX 21|17|ROOT 22|21|OBJ
+	23|22|CONJ 24|23|COORD 25|21|INCROOT 26|28|DET 27|28|MOD 28|25|OBJ
+	29|28|XMOD 30|29|JCT 31|25|PUNCT
+*S2:	they also &s you know promote this device for that .
+%mor:	pro:sub|they adv|also pro:per|you v|know v|promote det:dem|this
+	n|device prep|for pro:dem|that .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|4|PUNCT
+*S2:	&-um and it has a male voice and it's three hundred and seventy
+	nine dollars and ninety five cents .
+%mor:	coord|and pro:per|it aux|have&3S det:art|a adj|male n|voice
+	coord|and pro:per|it~cop|be&3S det:num|three det:num|hundred
+	coord|and det:num|seventy det:num|nine n|dollar-PL coord|and
+	det:num|ninety det:num|five n|cent-PL .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|6|DET 5|6|MOD 6|0|INCROOT 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|11|QUANT 11|9|PRED 12|11|CONJ 13|15|QUANT 14|15|QUANT
+	15|12|COORD 16|11|CONJ 17|19|QUANT 18|19|QUANT 19|16|COORD 20|6|PUNCT
+*S2:	so it's +//.
+%mor:	adv|so pro:per|it~cop|be&3S +//.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S2:	good thing about it is it's compact and has large number of
+	built+in phrases for the user (.) and you can also type and enter in
+	phrases (.) so you don't hafta use all the preprogrammed phrases
+	that they have .
+%mor:	adj|good n|thing prep|about pro:per|it cop|be&3S
+	pro:per|it~cop|be&3S n|compact coord|and aux|have&3S adj|large
+	n|number prep|of adj|+v|built+prep|in n|phrase-PL prep|for
+	det:art|the n|use&dv-AGT coord|and pro:per|you mod|can adv|also
+	n|type coord|and v|enter prep|in n|phrase-PL co|so pro:per|you
+	mod|do~neg|not mod|have~inf|to v|use qn|all det:art|the
+	pre#part|program-PASTP n|phrase-PL comp|that pro:sub|they v|have .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|PRED 8|7|PRED
+	9|8|CONJ 10|12|AUX 11|12|MOD 12|9|COORD 13|12|NJCT 14|15|MOD 15|13|POBJ
+	16|12|NJCT 17|18|DET 18|16|POBJ 19|12|CONJ 20|23|SUBJ 21|23|AUX 22|23|JCT
+	23|19|COORD 24|7|CONJ 25|24|COORD 26|25|JCT 27|26|POBJ 28|34|COM
+	29|34|SUBJ 30|34|AUX 31|30|NEG 32|34|AUX 33|34|INF 34|25|XJCT 35|38|QUANT
+	36|38|DET 37|38|MOD 38|34|OBJ 39|41|LINK 40|41|SUBJ 41|34|COMP 42|5|PUNCT
+*S2:	but &-um it is a compact design so you'd need some fine motor
+	control in_order_to use it .
+%mor:	conj|but pro:per|it cop|be&3S det:art|a n|compact n|design co|so
+	pro:per|you~mod|genmod v|need qn|some n|fine n|motor n|control
+	inf|in_order_to v|use pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|10|CJCT 4|6|DET 5|6|MOD 6|3|PRED 7|10|COM 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|14|QUANT 12|14|MOD 13|14|MOD 14|10|OBJ 15|16|INF
+	16|10|XJCT 17|16|OBJ 18|10|PUNCT
+*S2:	if you couldn't target very well you might not be able to (.) press
+	all the buttons and type in what you wanted .
+%mor:	conj|if pro:per|you mod|could~neg|not v|target adv|very adv|well
+	pro:per|you mod|might neg|not cop|be adj|able inf|to v|press qn|all
+	det:art|the n|button-PL coord|and n|type prep|in pro:int|what
+	pro:per|you v|want-PAST .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|JCT 7|11|JCT 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|5|COMP 12|11|PRED 13|14|INF 14|12|XMOD 15|17|QUANT
+	16|17|DET 17|14|OBJ 18|17|CONJ 19|18|COORD 20|14|JCT 21|23|LINK
+	22|23|SUBJ 23|20|CPOBJ 24|5|PUNCT
+*S2:	and it only has a male voice so (.) that's bad if you're a [/] &s a
+	child or female .
+%mor:	coord|and pro:per|it adv|only v|have&3S det:art|a n|male n|voice
+	co|so pro:dem|that~cop|be&3S adj|bad conj|if pro:per|you~cop|be&PRES
+	det:art|a n|child coord|or adj|female .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|10|COM
+	9|10|SUBJ 10|4|CJCT 11|10|PRED 12|14|LINK 13|14|SUBJ 14|10|CJCT 15|16|DET
+	16|14|PRED 17|16|CONJ 18|17|COORD 19|4|PUNCT
+*S2:	you might not wanna talk with a male (.) voice .
+%mor:	pro:per|you mod|might neg|not v|want~inf|to v|talk prep|with
+	det:art|a n|male n|voice .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+*S2:	&-um Enabling Devices has (.) a device called a portable talking ID
+	(.) which you can wear around your neck (.) and record a twenty
+	second message on your name (.) address phone any special needs .
+%mor:	n:prop|Enabling n:prop|Devices v|have&3S det:art|a n|device
+	v|call-PAST det:art|a adj|portable n:gerund|talk-PRESP n:prop|ID
+	pro:rel|which pro:per|you mod|can v|wear prep|around det:poss|your
+	n|neck coord|and v|record det:art|a det:num|twenty adj|second
+	n|message prep|on det:poss|your n|name n|address n|phone qn|any
+	n|special n|need-PL .
+%gra:	1|2|NAME 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|14|JCT 11|12|LINK 12|14|SUBJ 13|14|AUX 14|9|COMP 15|14|JCT
+	16|17|DET 17|15|POBJ 18|14|CONJ 19|18|COORD 20|23|DET 21|23|QUANT 22|23|MOD
+	23|19|OBJ 24|19|JCT 25|28|DET 26|28|MOD 27|28|MOD 28|31|MOD 29|30|QUANT
+	30|31|MOD 31|24|POBJ 32|3|PUNCT
+*S2:	and &-um this is basically used (.) in case there's an emergency
+	then somebody can press the device and (.) you know find out who you
+	are and if you have any special needs and what they need to do in
+	that emergency .
+%mor:	coord|and pro:dem|this cop|be&3S adv|basic&dadj-AL-LY v|use-PAST
+	prep|in n|case pro:exist|there~cop|be&3S det:art|a n|emergency
+	adv:tem|then pro:indef|somebody mod|can v|press det:art|the n|device
+	coord|and pro:per|you v|know v|find adv|out pro:int|who pro:per|you
+	cop|be&PRES coord|and conj|if pro:per|you v|have qn|any n|special
+	n|need-PL coord|and pro:int|what pro:sub|they v|need inf|to v|do
+	prep|in det:dem|that n|emergency .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|CPRED 6|5|JCT 7|6|POBJ 8|9|SUBJ
+	9|5|CJCT 10|11|DET 11|15|SUBJ 12|15|JCT 13|15|SUBJ 14|15|AUX 15|9|CPRED
+	16|17|DET 17|15|OBJ 18|15|CONJ 19|20|SUBJ 20|18|COORD 21|20|OBJ
+	22|20|JCT 23|25|LINK 24|25|SUBJ 25|20|COMP 26|25|CONJ 27|29|LINK 28|29|SUBJ
+	29|26|COORD 30|31|QUANT 31|32|MOD 32|29|OBJ 33|32|CONJ 34|36|LINK 35|36|SUBJ
+	36|33|COORD 37|38|INF 38|36|COMP 39|38|JCT 40|41|DET 41|39|POBJ
+	42|3|PUNCT
+*S2:	&-um it's very simple and effective easy to activate (.) it's also
+	very visible .
+%mor:	pro:per|it~cop|be&3S adv|very adj|simple coord|and adj|effective
+	adj|ease&dn-Y inf|to v|activate pro:per|it~cop|be&3S adv|also
+	adv|very adj|visible .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|CONJ 6|5|COORD 7|6|PRED 8|9|INF
+	9|7|XMOD 10|11|SUBJ 11|9|COMP 12|11|JCT 13|14|JCT 14|11|PRED 15|2|PUNCT
+*S2:	so people can see it (.) if there is an emergency .
+%mor:	adv|so n|person&PL mod|can v|see pro:per|it conj|if adv|there
+	cop|be&3S det:art|a n|emergency .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|10|DET 10|8|PRED 11|4|PUNCT
+*S2:	but it could
+	be a nuisance wearing this &-um big device around your neck around
+	your clothing .
+%mor:	conj|but pro:per|it mod|could cop|be det:art|a n|nuisance
+	part|wear-PRESP det:dem|this adj|big n|device prep|around
+	det:poss|your n|neck prep|around det:poss|your n|clothing .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|PRED 7|6|XMOD 8|10|DET
+	9|10|MOD 10|7|OBJ 11|7|JCT 12|13|DET 13|11|POBJ 14|7|JCT 15|16|DET
+	16|14|POBJ 17|4|PUNCT
+*S2:	and also (.) if (.) you don't use it every day or
+	check it every now and then (.) you may forget you need to replace
+	the batteries .
+%mor:	coord|and adv|also conj|if pro:per|you mod|do~neg|not v|use
+	pro:per|it qn|every n|day coord|or v|check pro:per|it qn|every
+	adv|now coord|and adv:tem|then pro:per|you mod|may v|forget
+	pro:per|you v|need inf|to re#v|place det:art|the n|battery-PL .
+%gra:	1|7|LINK 2|3|JCT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|OBJ
+	9|10|QUANT 10|7|JCT 11|7|CONJ 12|11|COORD 13|12|OBJ 14|15|QUANT 15|12|JCT
+	16|20|LINK 17|20|JCT 18|20|SUBJ 19|20|AUX 20|12|CJCT 21|22|SUBJ
+	22|20|COMP 23|24|INF 24|22|COMP 25|26|DET 26|24|OBJ 27|7|PUNCT
+*S2:	and then (.) you're wearing this thing .
+%mor:	coord|and adv:tem|then pro:per|you~aux|be&PRES part|wear-PRESP
+	det:dem|this n|thing .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*S2:	and it doesn't
+	work (.) anyway when the emergency comes up .
+%mor:	coord|and pro:per|it mod|do&3S~neg|not n|work adv|anyway conj|when
+	det:art|the n|emergency v|come-3S adv|up .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|INCROOT 6|5|NJCT 7|10|LINK
+	8|9|DET 9|10|SUBJ 10|5|CJCT 11|10|JCT 12|5|PUNCT
+*S2:	another device made by Enabling Devices is a Step Talk .
+%mor:	qn|another n|device v|make&PAST prep|by n:prop|Enabling
+	n:prop|Devices cop|be&3S det:art|a n:prop|Step n:prop|Talk .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|SUBJ 7|3|CJCT 8|10|DET
+	9|10|MOD 10|7|PRED 11|3|PUNCT
+*S2:	and here it has a series of prerecorded messages (.) that are +//.
+%mor:	coord|and adv|here pro:per|it aux|have&3S det:art|a n|series
+	prep|of pre#v|record-PAST n|message-PL pro:rel|that cop|be&PRES +//.
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|DET 6|0|INCROOT 7|6|NJCT 8|7|POBJ
+	9|8|OBJ 10|11|LINK 11|9|CMOD 12|6|PUNCT
+*S2:	have a seven (.) seventy five second limit .
+%mor:	v|have det:art|a det:num|seven det:num|seventy det:num|five
+	adj|second n|limit .
+%gra:	1|0|ROOT 2|3|DET 3|7|QUANT 4|5|DATE 5|7|QUANT 6|7|MOD 7|1|OBJ 8|1|PUNCT
+*S2:	so (.) allows people to carry on a conversation with these
+	prerecorded messages .
+%mor:	adv|so v|allow-3S n|person&PL inf|to v|carry prep|on det:art|a
+	n|converse&dv-TION prep|with det:dem|these pre#v|record-PAST
+	n|message-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|2|PUNCT
+*S2:	and that's ninety dollars .
+%mor:	coord|and pro:dem|that~cop|be&3S det:num|ninety n|dollar-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*S2:	&-um it's inexpensive and easy to use (.) but with the prerecorded
+	messages (.) you don't have a_lot_of flexibility in communicating
+	you have to basically use (.) what the device already offers .
+%mor:	pro:per|it~cop|be&3S in#adj|expensive coord|and adj|ease&dn-Y
+	inf|to v|use conj|but prep|with det:art|the pre#part|record-PASTP
+	n|message-PL pro:per|you mod|do~neg|not v|have qn|a_lot_of
+	n|flexible&dadj-ITY adv|in part|communicate-PRESP pro:per|you v|have
+	prep|to adv|basic&dadj-AL-LY v|use pro:int|what det:art|the n|device
+	adv|already n|offer-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|CONJ 5|4|COORD 6|7|INF 7|5|XMOD
+	8|16|LINK 9|16|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|2|CJCT 17|18|QUANT 18|16|OBJ 19|16|JCT 20|16|XJCT 21|22|SUBJ
+	22|20|COMP 23|22|JCT 24|25|JCT 25|23|POBJ 26|30|DET 27|28|DET 28|30|MOD
+	29|30|MOD 30|25|OBJ 31|2|PUNCT
+*S2:	and here's a device by Frame Technologies it's (.) called a Book
+	Talker it looks like a book (.) and there're six different levels
+	(.) of messages that you can go (.) to and from with &-um the manual
+	switch (.) on the right hand side .
+%mor:	coord|and pro:exist|here~cop|be&3S det:art|a n|device prep|by
+	n:prop|Frame n:prop|Technologies pro:per|it~aux|be&3S
+	part|call-PASTP det:art|a n:prop|Book n:prop|Talker pro:per|it
+	v|look-3S prep|like det:art|a n|book coord|and
+	pro:exist|there~cop|be&PRES det:num|six adj|different n|level-PL
+	prep|of n|message-PL pro:rel|that pro:per|you mod|can v|go prep|to
+	coord|and prep|from prep|with det:art|the n|manual n|switch prep|on
+	det:art|the adj|right n|hand n|side .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|5|XMOD 12|13|DET 13|11|OBJ 14|11|OBJ 15|16|SUBJ
+	16|14|CMOD 17|16|JCT 18|19|DET 19|17|POBJ 20|22|LINK 21|22|SUBJ
+	22|16|CJCT 23|25|QUANT 24|25|MOD 25|22|PRED 26|25|NJCT 27|26|POBJ 28|31|LINK
+	29|31|SUBJ 30|31|AUX 31|27|CMOD 32|31|JCT 33|32|CONJ 34|33|COORD 35|34|POBJ
+	36|38|DET 37|38|MOD 38|35|POBJ 39|38|NJCT 40|43|DET 41|42|MOD 42|43|MOD
+	43|39|POBJ 44|3|PUNCT
+*S2:	okay it also has (.) optical level changing in addition to that (.)
+	or I guess instead of the manual switch (.) I don't have a picture
+	of that .
+%mor:	co|okay pro:per|it adv|also aux|have&3S adj|optic-AL n|level
+	part|change-PRESP prep|in n|addition inf|to adv|that coord|or
+	pro:sub|I v|guess adv|instead prep|of det:art|the adj|manual
+	n|switch pro:sub|I mod|do~neg|not v|have det:art|a n|picture prep|of
+	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|6|AUX 5|6|MOD 6|3|POBJ 7|6|XMOD 8|7|JCT
+	9|8|POBJ 10|11|INF 11|9|XMOD 12|14|LINK 13|14|SUBJ 14|11|CJCT 15|14|JCT
+	16|15|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|23|SUBJ 21|23|AUX 22|21|NEG
+	23|14|COMP 24|25|DET 25|23|OBJ 26|25|NJCT 27|26|POBJ 28|1|PUNCT
+*S2:	and &-um when the page is turned (.) the Book Talker knows which
+	level it's on (.) and (.) there are six levels (.) with twenty four
+	messages each level .
+%mor:	coord|and conj|when det:art|the n|page aux|be&3S part|turn-PASTP
+	det:art|the n:prop|Book n:prop|Talker v|know-3S pro:int|which
+	adj|level pro:per|it~cop|be&3S adv|on coord|and adv|there
+	cop|be&PRES det:num|six n|level-PL prep|with det:num|twenty
+	det:num|four n|message-PL qn|each adj|level .
+%gra:	1|10|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|10|CJCT 7|8|DET 8|6|OBJ
+	9|10|SUBJ 10|0|ROOT 11|14|LINK 12|14|JCT 13|14|SUBJ 14|10|COMP 15|14|JCT
+	16|10|CONJ 17|18|SUBJ 18|16|COORD 19|20|QUANT 20|18|PRED 21|20|NJCT
+	22|24|QUANT 23|24|QUANT 24|21|POBJ 25|26|QUANT 26|24|POSTMOD 27|10|PUNCT
+*S2:	so two hundred and eighty eight messages total .
+%mor:	adv|so det:num|two det:num|hundred coord|and det:num|eighty
+	det:num|eight n|message-PL n|total .
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|3|CONJ 5|8|QUANT 6|7|QUANT 7|8|MOD
+	8|4|COORD 9|3|PUNCT
+*S2:	and this device is five hundred dollars .
+%mor:	coord|and det:dem|this n|device cop|be&3S det:num|five
+	det:num|hundred n|dollar-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|QUANT 6|7|QUANT 7|4|PRED
+	8|4|PUNCT
+*S2:	one of the good things about this is that you have organized levels
+	of messages so when you get used to the Book Talker (.) you're
+	probably really good at switching from different levels and using
+	those levels .
+%mor:	pro:indef|one prep|of det:art|the adj|good n|thing-PL prep|about
+	pro:dem|this cop|be&3S comp|that pro:per|you v|have
+	part|organize-PASTP n|level-PL prep|of n|message-PL adv|so conj|when
+	pro:per|you v|get v|use-PAST prep|to det:art|the n:prop|Book
+	n:prop|Talker pro:per|you~cop|be&PRES adv|probable&dadj-LY
+	adv|real&dadj-LY adj|good prep|at n:gerund|switch-PRESP prep|from
+	adj|different n|level-PL coord|and part|use-PRESP det:dem|those
+	n|level-PL .
+%gra:	1|8|SUBJ 2|1|NJCT 3|5|DET 4|5|MOD 5|2|POBJ 6|8|JCT 7|8|SUBJ 8|0|ROOT
+	9|11|LINK 10|11|SUBJ 11|8|ROOT 12|11|COMP 13|12|OBJ 14|13|NJCT 15|14|POBJ
+	16|17|JCT 17|12|INCROOT 18|19|SUBJ 19|17|CMOD 20|19|COMP 21|20|JCT
+	22|23|DET 23|21|POBJ 24|26|COM 25|26|SUBJ 26|23|CMOD 27|26|JCT 28|29|JCT
+	29|26|JCT 30|26|JCT 31|30|POBJ 32|31|JCT 33|34|MOD 34|32|POBJ 35|31|CONJ
+	36|35|COORD 37|38|DET 38|36|OBJ 39|17|PUNCT
+*S2:	and also the fact that it has optical level changing (.) you don't
+	need accurate motor control or if you don't have any &-um control of
+	your arms or hands then this would be a very good device .
+%mor:	coord|and adv|also det:art|the n|fact pro:rel|that pro:per|it
+	aux|have&3S adj|optic-AL n|level part|change-PRESP pro:per|you
+	mod|do~neg|not v|need adj|accurate n|motor n|control coord|or
+	conj|if pro:per|you mod|do~neg|not v|have qn|any n|control prep|of
+	det:poss|your n|arm-PL coord|or v|hand-3S adv:tem|then pro:dem|this
+	mod|will&COND cop|be det:art|a adv|very adj|good n|device .
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|9|LINK 6|9|SUBJ 7|9|AUX 8|9|MOD
+	9|4|CMOD 10|9|XMOD 11|14|SUBJ 12|14|AUX 13|12|NEG 14|10|COMP 15|17|MOD
+	16|17|MOD 17|14|OBJ 18|17|CONJ 19|23|LINK 20|23|SUBJ 21|23|AUX 22|21|NEG
+	23|18|COORD 24|25|QUANT 25|23|OBJ 26|25|NJCT 27|28|DET 28|26|POBJ
+	29|14|CONJ 30|29|COORD 31|30|JCT 32|34|SUBJ 33|34|AUX 34|30|COMP 35|38|DET
+	36|37|JCT 37|38|MOD 38|34|PRED 39|4|PUNCT
+*S2:	&-um but it is fairly expensive and (.) again it has all
+	prerecorded messages so there aren't messages (.) that you can come
+	up with yourself .
+%mor:	conj|but pro:per|it cop|be&3S adv|fair&dadj-LY adj|expensive
+	coord|and adv|again pro:per|it aux|have&3S adv|all
+	pre#part|record-PASTP n|message-PL adv|so adv|there
+	aux|be&PRES~neg|not n|message-PL comp|that pro:per|you mod|can
+	v|come adv|up prep|with pro:refl|yourself .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|CONJ 7|11|JCT 8|11|SUBJ
+	9|11|AUX 10|11|JCT 11|12|MOD 12|6|COORD 13|17|JCT 14|17|SUBJ 15|17|AUX
+	16|15|NEG 17|12|APP 18|21|LINK 19|21|SUBJ 20|21|AUX 21|17|CMOD 22|21|JCT
+	23|21|JCT 24|23|POBJ 25|3|PUNCT
+*S2:	&-um Frame Technologies also has voice in a box .
+%mor:	n:prop|Frame n:prop|Technologies adv|also v|have&3S n|voice prep|in
+	det:art|a n|box .
+%gra:	1|2|NAME 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*S2:	this is almost a simpler design (.) there are only sixteen messages
+	on the screen and three point seven five seconds each message which
+	is actually (.) fairly short .
+%mor:	pro:dem|this cop|be&3S adv|almost det:art|a adj|simple-CP n|design
+	adv|there cop|be&PRES qn|only det:num|sixteen n|message-PL prep|on
+	det:art|the n|screen coord|and det:num|three n|point det:num|seven
+	det:num|five n|second-PL qn|each n|message pro:rel|which cop|be&3S
+	adv|actual&dadj-LY adv|fair&dadj-LY adj|short .
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|JCT 4|6|DET 5|6|MOD 6|8|SUBJ 7|6|NJCT 8|2|PRED
+	9|11|QUANT 10|11|QUANT 11|8|PRED 12|11|NJCT 13|14|DET 14|12|POBJ
+	15|11|CONJ 16|17|QUANT 17|20|MOD 18|20|QUANT 19|20|QUANT 20|15|COORD 21|22|QUANT
+	22|20|OBJ 23|24|LINK 24|22|CMOD 25|24|JCT 26|27|JCT 27|24|PRED
+	28|2|PUNCT
+*S2:	&-um but it is easy to use and record and it has a light so you
+	know when you're recording the messages .
+%mor:	conj|but pro:per|it cop|be&3S adj|ease&dn-Y inf|to v|use coord|and
+	n|record coord|and pro:per|it aux|have&3S det:art|a n|light co|so
+	pro:per|you v|know pro:rel|when pro:per|you~aux|be&PRES
+	part|record-PRESP det:art|the n|message-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|6|CONJ 8|7|COORD
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|13|DET 13|3|CJCT 14|16|COM 15|16|SUBJ
+	16|13|CMOD 17|20|LINK 18|20|SUBJ 19|20|AUX 20|13|CMOD 21|22|DET
+	22|20|OBJ 23|3|PUNCT
+*S2:	&-um it's a hundred and ninety five dollars and (.) I see this as a
+	good device for someone that doesn't have fine motor control (.) and
+	can't target very easily because there are large and easy to use
+	buttons on this device .
+%mor:	pro:per|it~cop|be&3S det:art|a det:num|hundred coord|and
+	det:num|ninety det:num|five n|dollar-PL coord|and pro:sub|I v|see
+	det:dem|this prep|as det:art|a adj|good n|device prep|for
+	pro:indef|someone adv|that mod|do&3S~neg|not v|have adj|fine n|motor
+	n|control coord|and mod|can~neg|not v|target adv|very
+	adv|ease&dadj-Y-LY conj|because pro:exist|there cop|be&PRES
+	adj|large coord|and adj|ease&dn-Y inf|to v|use v|button-3S prep|on
+	det:dem|this n|device .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|CONJ 6|8|QUANT 7|8|QUANT
+	8|5|COORD 9|11|LINK 10|11|SUBJ 11|2|CJCT 12|13|DET 13|11|JCT 14|16|DET
+	15|16|MOD 16|13|POBJ 17|13|JCT 18|17|POBJ 19|22|JCT 20|22|AUX 21|20|NEG
+	22|17|CPOBJ 23|25|MOD 24|25|MOD 25|22|OBJ 26|25|CONJ 27|29|AUX 28|27|NEG
+	29|26|COORD 30|31|JCT 31|29|JCT 32|34|LINK 33|34|SUBJ 34|13|CJCT 35|34|PRED
+	36|34|CONJ 37|36|COORD 38|40|INF 39|40|SRL 40|37|XMOD 41|40|JCT 42|43|DET
+	43|41|POBJ 44|2|PUNCT
+*S2:	but it does have minimal message capabilities .
+%mor:	conj|but pro:per|it mod|do&3S v|have adj|minimal n|message
+	n|capable&dadj-ITY-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|MOD 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*S2:	&-um there's a device called Say_It_All by Innocomp .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|device v|call-PAST
+	n:prop|Say_It_All prep|by n:prop|Innocomp .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|CPRED 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|2|PUNCT
+*S2:	this is actually a little more advanced .
+%mor:	pro:dem|this cop|be&3S adv|actual&dadj-LY det:art|a adj|little
+	adv|more part|advance-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|JCT 4|7|DET 5|7|MOD 6|7|JCT 7|2|PRED 8|2|PUNCT
+*S2:	it has what they call a speech synthesizer (.) where you can choose
+	different voices (.) and you can also choose the pitch of the voice
+	(.) and different sounds and so you can really customize what voice
+	you want it to have .
+%mor:	pro:per|it aux|have&3S pro:int|what pro:sub|they v|call det:art|a
+	n|speech n|synthesize&dv-AGT pro:rel|where pro:per|you mod|can
+	v|choose adj|different n|voice-PL coord|and pro:per|you mod|can
+	adv|also v|choose det:art|the n|pitch prep|of det:art|the n|voice
+	coord|and adj|different n|sound-PL coord|and co|so pro:per|you
+	mod|can adv|real&dadj-LY v|custom&dadj-IZE pro:int|what v|voice
+	pro:per|you v|want pro:per|it inf|to v|have .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CMOD 13|14|MOD 14|12|OBJ 15|19|LINK
+	16|19|SUBJ 17|19|AUX 18|19|JCT 19|12|CJCT 20|21|DET 21|19|OBJ 22|21|NJCT
+	23|24|DET 24|22|POBJ 25|21|CONJ 26|27|MOD 27|25|COORD 28|19|CONJ 29|33|COM
+	30|33|SUBJ 31|33|AUX 32|33|JCT 33|28|COORD 34|35|SUBJ 35|33|COMP
+	36|37|SUBJ 37|35|COMP 38|37|OBJ 39|40|INF 40|37|COMP 41|5|PUNCT
+*S2:	there's a lookup table of over sixteen thousand nouns .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|lookup n|table prep|of
+	adv|over det:num|sixteen det:num|thousand n|noun-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|8|JCT 8|10|QUANT
+	9|10|QUANT 10|6|POBJ 11|2|PUNCT
+*S2:	&-um they have new technology that allows (.) the user to type in
+	any name city state country (.) and have it spoken correctly without
+	resorting to phonetic spellings .
+%mor:	pro:sub|they v|have adj|new n|technology pro:rel|that v|allow-3S
+	det:art|the n|use&dv-AGT prep|to n|type prep|in qn|any n|name n|city
+	n|state n|country coord|and v|have pro:per|it part|speak&PASTP
+	adv|correct&dadj-LY prep|without part|resort-PRESP prep|to
+	adj|phonetic n:gerund|spell-PRESP-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|6|LINK 6|4|CMOD 7|8|DET 8|6|OBJ
+	9|6|JCT 10|9|POBJ 11|10|NJCT 12|13|QUANT 13|16|MOD 14|16|MOD 15|16|MOD
+	16|11|POBJ 17|6|CONJ 18|17|COORD 19|18|OBJ 20|19|XMOD 21|20|JCT 22|20|JCT
+	23|22|POBJ 24|23|JCT 25|26|MOD 26|24|POBJ 27|2|PUNCT
+*S2:	they also have clarity speech (.) which gives a human sounding text
+	to speech .
+%mor:	pro:sub|they adv|also v|have n|clarity n|speech pro:rel|which
+	v|give-3S det:art|a n|human part|sound-PRESP n|text prep|to n|speech
+	.
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|7|LINK 7|5|CMOD 8|9|DET
+	9|7|OBJ 10|9|XMOD 11|10|OBJ 12|11|NJCT 13|12|POBJ 14|3|PUNCT
+*S2:	and (.) as I said before it's available in male or female [/]
+	female voice and you can alter the pitch voice volume .
+%mor:	coord|and conj|as pro:sub|I v|say&PAST adv|before
+	pro:per|it~cop|be&3S adj|avail&dv-ABLE adv|in n|male coord|or
+	adj|female n|voice coord|and pro:per|you mod|can v|alter det:art|the
+	n|pitch n|voice n|volume .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|JCT 6|7|SUBJ 7|4|COMP 8|7|PRED
+	9|10|JCT 10|7|PRED 11|10|CONJ 12|13|MOD 13|11|COORD 14|17|LINK
+	15|17|SUBJ 16|17|AUX 17|10|CJCT 18|21|DET 19|21|MOD 20|21|MOD 21|17|OBJ
+	22|4|PUNCT
+*S2:	and it has ability to have an &unlim unlimited vocabulary (be)cause
+	you can use text [/] text to speech or you can use their stored
+	phrases .
+%mor:	coord|and pro:per|it aux|have&3S n|able&dadj-ITY inf|to v|have
+	det:art|a un#part|limit-PASTP n|vocabulary conj|because pro:per|you
+	mod|can n|use n|text prep|to n|speech coord|or pro:per|you mod|can
+	v|use det:poss|their v|store-PAST n|phrase-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|20|SUBJ 5|6|INF 6|4|XMOD 7|9|DET 8|9|MOD
+	9|6|OBJ 10|14|LINK 11|14|SUBJ 12|14|AUX 13|14|MOD 14|20|CJCT 15|14|NJCT
+	16|15|POBJ 17|20|LINK 18|20|SUBJ 19|20|AUX 20|0|ROOT 21|22|DET 22|20|OBJ
+	23|22|OBJ 24|20|PUNCT
+*S2:	&-um something they promote this device for is that (.) it's ideal
+	if you have changing communication needs if (.) your communication
+	needs change through time then this device can adapt to that .
+%mor:	pro:indef|something pro:sub|they v|promote det:dem|this n|device
+	prep|for cop|be&3S comp|that pro:per|it~cop|be&3S adj|ideal conj|if
+	pro:per|you v|have part|change-PRESP n|communicate&dv-TION n|need-PL
+	comp|if det:poss|your n|communicate&dv-TION n|need-PL n|change
+	prep|through n|time adv:tem|then det:dem|this n|device mod|can
+	v|adapt inf|to adv|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|10|LINK
+	9|10|SUBJ 10|7|PRED 11|10|PRED 12|14|LINK 13|14|SUBJ 14|10|CJCT
+	15|14|COMP 16|17|MOD 17|15|OBJ 18|29|LINK 19|22|DET 20|22|MOD 21|22|MOD
+	22|29|SUBJ 23|22|NJCT 24|23|POBJ 25|29|JCT 26|27|DET 27|29|SUBJ 28|29|AUX
+	29|17|CMOD 30|31|INF 31|29|JCT 32|3|PUNCT
+*S2:	and also (.) allows some flexibility if you have multiple users
+	+...
+%mor:	coord|and adv|also v|allow-3S pro:indef|some n|flexible&dadj-ITY
+	conj|if pro:per|you v|have adj|multiple n|use&dv-AGT-PL +...
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|10|MOD 10|8|OBJ 11|3|PUNCT
+*S2:	it's lightweight two and (.) a quarter pounds it's very [/] &s very
+	lightweight .
+%mor:	pro:per|it~cop|be&3S n|lightweight det:num|two coord|and det:art|a
+	n|quarter v|pound-3S pro:per|it~cop|be&3S adv|very n|lightweight .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|8|LINK 6|7|DET 7|8|SUBJ 8|2|CJCT
+	9|10|SUBJ 10|8|COMP 11|12|JCT 12|10|PRED 13|2|PUNCT
+*S2:	and has eight hundred and forty six (.) definable phrases .
+%mor:	coord|and v|have&3S det:num|eight det:num|hundred coord|and
+	det:num|forty det:num|six adj|define&dv-ABLE n|phrase-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|CONJ 6|9|QUANT 7|9|QUANT
+	8|9|MOD 9|5|COORD 10|2|PUNCT
+*S2:	the (.) device costs about two thousand dollars and if you want the
+	speech synthesizer so that you can customize your own voice then
+	it's (.) thirty five hundred .
+%mor:	det:art|the n|device v|cost-3S prep|about det:num|two
+	det:num|thousand n|dollar-PL coord|and conj|if pro:per|you v|want
+	det:art|the n|speech n|synthesize&dv-AGT adv|so pro:rel|that
+	pro:per|you mod|can v|custom&dadj-IZE det:poss|your adj|own n|voice
+	adv:tem|then pro:per|it~cop|be&3S det:num|thirty det:num|five
+	det:num|hundred .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|QUANT 6|7|QUANT 7|4|POBJ 8|3|CONJ
+	9|11|LINK 10|11|SUBJ 11|8|COORD 12|14|DET 13|14|MOD 14|11|OBJ 15|11|JCT
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|15|CMOD 20|22|DET 21|22|MOD
+	22|25|SUBJ 23|25|JCT 24|25|SUBJ 25|19|COMP 26|27|QUANT 27|28|QUANT 28|25|PRED
+	29|3|PUNCT
+*S2:	so the pros are that it offers a great deal of flexibility and
+	speech capacity but it's extremely expensive .
+%mor:	co|so det:art|the n|pro-PL cop|be&PRES comp|that pro:per|it
+	v|offer-3S det:art|a adj|great n|deal prep|of n|flexible&dadj-ITY
+	coord|and n|speech n|capacity conj|but pro:per|it~cop|be&3S
+	adv|extreme&dadj-LY adj|expensive .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|10|DET
+	9|10|MOD 10|7|OBJ 11|10|NJCT 12|11|POBJ 13|10|CONJ 14|15|MOD 15|13|COORD
+	16|18|LINK 17|18|SUBJ 18|4|CJCT 19|20|JCT 20|18|PRED 21|4|PUNCT
+*S2:	and the last device I had was the Pathfinder .
+%mor:	coord|and det:art|the adj|last n|device pro:sub|I v|have&PAST
+	cop|be&PAST&13S det:art|the n:prop|Pathfinder .
+%gra:	1|7|LINK 2|4|DET 3|4|MOD 4|7|SUBJ 5|6|SUBJ 6|4|CMOD 7|0|ROOT 8|9|DET
+	9|7|PRED 10|7|PUNCT
+*S2:	&-um this has a color display and also has touch screen technology
+	.
+%mor:	pro:dem|this v|have&3S det:art|a n|color n|display coord|and
+	adv|also aux|have&3S n|touch n|screen n|technology .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|CONJ 7|11|SUBJ 8|11|AUX
+	9|11|MOD 10|11|MOD 11|6|COORD 12|2|PUNCT
+*S2:	and you can use an infrared head pointing access for the &key
+	keyboard .
+%mor:	coord|and pro:per|you mod|can v|use det:art|a adj|infrared n|head
+	part|point-PRESP n|access prep|for det:art|the n|+n|key+n|board .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|XMOD
+	9|8|OBJ 10|8|JCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*S2:	and this also has this &thyn synthesized speech .
+%mor:	coord|and pro:dem|this adv|also aux|have&3S det:dem|this
+	part|synthesize-PASTP n|speech .
+%gra:	1|7|LINK 2|7|SUBJ 3|7|JCT 4|7|AUX 5|7|DET 6|7|MOD 7|0|INCROOT 8|7|PUNCT
+*S2:	that comes with it .
+%mor:	pro:dem|that v|come-3S prep|with pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*S2:	&-um users can upload and download information from computer disks
+	onto this device .
+%mor:	n|use&dv-AGT-PL n|can up#v|load coord|and v|download
+	n|inform&dv-TION prep|from n|compute&dv-AGT n|disk-PL prep|onto
+	det:dem|this n|device .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|OBJ 7|5|JCT 8|9|MOD
+	9|7|POBJ 10|3|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*S2:	and it also has notebook and journal function for writing letters
+	or papers (.) and a text editor .
+%mor:	coord|and pro:per|it adv|also v|have&3S n|notebook coord|and
+	n|journal n|function prep|for n:gerund|write-PRESP n|letter-PL
+	coord|or n|paper-PL coord|and det:art|a n|text n|editor .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|8|MOD 8|6|COORD
+	9|4|JCT 10|9|POBJ 11|10|OBJ 12|11|CONJ 13|12|COORD 14|11|CONJ 15|17|DET
+	16|17|MOD 17|14|COORD 18|4|PUNCT
+*S2:	it also has calculator clock and word prediction .
+%mor:	pro:per|it adv|also v|have&3S n|calculator n|clock coord|and n|word
+	n|prediction .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|5|CONJ 7|8|MOD 8|6|COORD
+	9|3|PUNCT
+*S2:	and it's about four and a half pounds +...
+%mor:	coord|and pro:per|it~cop|be&3S adv|about det:num|four coord|and
+	det:art|a n|half n|pound-PL +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|CONJ 7|9|DET 8|9|MOD
+	9|6|COORD 10|3|PUNCT
+*S2:	&-um it also incorporates a couple different things language
+	activity monitoring (.) which basically records language events so
+	that (.) you can see the progress the person is making with their
+	communication tool through time .
+%mor:	pro:per|it adv|also v|incorporate-3S det:art|a n|couple
+	adj|different n|thing-PL n|language n|active&dadj-ITY
+	part|monitor-PRESP pro:int|which adv|basic&dadj-AL-LY v|record-3S
+	n|language n|event-PL conj|so comp|that pro:per|you mod|can v|see
+	det:art|the n|progress det:art|the n|person aux|be&3S
+	part|make-PRESP prep|with det:poss|their n|communicate&dv-TION
+	n|tool prep|through n|time .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|MOD 7|9|MOD 8|9|MOD
+	9|5|APP 10|9|XMOD 11|13|LINK 12|13|JCT 13|10|COMP 14|15|MOD 15|13|OBJ
+	16|3|JCT 17|20|LINK 18|20|SUBJ 19|20|AUX 20|16|CPOBJ 21|22|DET 22|20|OBJ
+	23|24|DET 24|26|SUBJ 25|26|AUX 26|22|CMOD 27|26|JCT 28|30|DET 29|30|MOD
+	30|27|POBJ 31|30|NJCT 32|31|POBJ 33|3|PUNCT
+*S2:	and (.) again it has a infrared head pointing device that you can
+	use (.) but this device is (.) eight thousand dollars .
+%mor:	coord|and adv|again pro:per|it aux|have&3S det:art|a adj|infrared
+	n|head part|point-PRESP n|device pro:rel|that pro:per|you mod|can
+	v|use conj|but det:dem|this n|device cop|be&3S det:num|eight
+	det:num|thousand n|dollar-PL .
+%gra:	1|9|LINK 2|9|JCT 3|9|SUBJ 4|9|AUX 5|7|DET 6|7|MOD 7|9|MOD 8|9|MOD
+	9|0|INCROOT 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CMOD 14|17|LINK 15|16|DET
+	16|17|SUBJ 17|13|COMP 18|20|QUANT 19|20|QUANT 20|17|PRED 21|9|PUNCT
+*S2:	which is (.) very pricy .
+%mor:	pro:rel|which cop|be&3S adv|very adj|price&dv-Y .
+%gra:	1|2|LINK 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*S2:	&=laughs so &-um the pros are that you do have head pointing access
+	and unlimited capabilities with this device (.) but it's really
+	comes &a at an outrageous price .
+%mor:	co|so det:art|the n|pro-PL cop|be&PRES comp|that pro:per|you v|do
+	v|have n|head part|point-PRESP n|access coord|and
+	un#part|limit-PASTP n|capable&dadj-ITY-PL prep|with det:dem|this
+	n|device conj|but pro:per|it~cop|be&3S adv|real&dadj-LY v|come-3S
+	prep|at det:art|a adj|outrageous n|price .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|SUBJ 7|5|CMOD 8|7|OBJ
+	9|11|MOD 10|11|MOD 11|8|OBJ 12|11|CONJ 13|12|COORD 14|13|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|20|LINK 19|20|SUBJ 20|7|CJCT 21|22|JCT 22|20|CPRED
+	23|22|JCT 24|26|DET 25|26|MOD 26|23|POBJ 27|4|PUNCT
+*S2:	okay (.) there're some areas of research that I saw with AAC
+	systems (.) the first one is dynamic display .
+%mor:	co|okay pro:exist|there~cop|be&PRES qn|some n|area-PL prep|of
+	n|research comp|that pro:sub|I n|saw prep|with n:prop|AAC
+	n|system-PL det:art|the adj|first pro:indef|one cop|be&3S
+	adj|dynamic n|display .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|5|NJCT 7|6|POBJ
+	8|17|LINK 9|17|SUBJ 10|17|JCT 11|10|NJCT 12|13|MOD 13|11|POBJ 14|16|DET
+	15|16|MOD 16|17|SUBJ 17|5|CMOD 18|19|MOD 19|17|PRED 20|3|PUNCT
+*S2:	so instead of having just &-um a static picture on a sheet of paper
+	or (.) <on the> [/] on the display of the AAC device (.) the they
+	will have a dynamic display where the pictures change depending on
+	your selection .
+%mor:	adv|so adv|instead prep|of n:gerund|have-PRESP adv|just det:art|a
+	adj|static n|picture prep|on det:art|a n|sheet prep|of n|paper
+	coord|or prep|on det:art|the n|display prep|of det:art|the
+	n:prop|AAC n|device det:art|the pro:sub|they mod|will v|have
+	det:art|a adj|dynamic n|display pro:rel|where det:art|the
+	n|picture-PL v|change n:gerund|depend-PRESP prep|on det:poss|your
+	n|selection .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|3|POBJ 5|8|JCT 6|8|DET 7|8|MOD 8|4|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|8|CONJ 15|14|COORD
+	16|17|DET 17|15|POBJ 18|17|NJCT 19|21|DET 20|21|MOD 21|18|POBJ 22|25|DET
+	23|25|SUBJ 24|25|AUX 25|8|CMOD 26|28|DET 27|28|MOD 28|25|OBJ 29|32|LINK
+	30|31|DET 31|32|SUBJ 32|28|CMOD 33|32|OBJ 34|32|JCT 35|36|DET 36|34|POBJ
+	37|2|PUNCT
+*S2:	and there are also (.) there's a_lot_of work being done on optical
+	control or different &-um types of control for the &di device rather
+	than just using your hands .
+%mor:	coord|and adv|there cop|be&PRES adv|also pro:exist|there~cop|be&3S
+	qn|a_lot_of n|work n|being part|do&PASTP prep|on adj|optic-AL
+	n|control coord|or adj|different n|type-PL prep|of n|control
+	prep|for det:art|the n|device adv|rather prep|than adv|just
+	part|use-PRESP det:poss|your n|hand-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|SUBJ 6|3|PRED 7|9|QUANT 8|9|MOD
+	9|6|PRED 10|9|XMOD 11|10|JCT 12|13|MOD 13|11|POBJ 14|10|CONJ 15|16|MOD
+	16|14|COORD 17|16|NJCT 18|17|POBJ 19|16|NJCT 20|21|DET 21|19|POBJ
+	22|16|JCT 23|22|JCT 24|25|JCT 25|23|CPOBJ 26|27|DET 27|25|OBJ 28|3|PUNCT
+*S2:	and also there's a_lot_of &-uh research being done on increasing
+	the performance and efficiency of the devices .
+%mor:	coord|and adv|also pro:exist|there~cop|be&3S qn|a_lot_of n|research
+	n|being part|do&PASTP adv|on part|increase-PRESP det:art|the
+	n|performance coord|and n|efficiency prep|of det:art|the n|device-PL
+	.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|7|MOD 7|4|PRED 8|7|XMOD
+	9|8|JCT 10|8|XJCT 11|12|DET 12|10|OBJ 13|12|CONJ 14|13|COORD 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|4|PUNCT
+*S2:	so that they can incorporate more words into the device and be more
+	effective communication tools .
+%mor:	adv|so pro:rel|that pro:sub|they mod|can v|incorporate qn|more
+	n|word-PL prep|into det:art|the n|device coord|and cop|be adv|more
+	adj|effective n|communicate&dv-TION n|tool-PL .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CMOD 6|7|QUANT 7|5|OBJ
+	8|5|JCT 9|10|DET 10|8|POBJ 11|5|CONJ 12|11|COORD 13|14|JCT 14|16|MOD 15|16|MOD
+	16|12|PRED 17|1|PUNCT
+*S2:	&-um one (.) research area I saw by InvoTek is (.) a laser that
+	will point &as at a laser sensing surface and acts as the keyboard .
+%mor:	det:num|one n|research n|area pro:sub|I v|see&PAST prep|by
+	n:prop|InvoTek cop|be&3S det:art|a n|laser pro:rel|that mod|will
+	v|point prep|at det:art|a n|laser part|sense-PRESP n|surface
+	coord|and n|act-PL conj|as det:art|the n|+n|key+n|board .
+%gra:	1|3|QUANT 2|3|MOD 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|CJCT
+	9|10|DET 10|8|PRED 11|13|LINK 12|13|AUX 13|10|CMOD 14|13|JCT 15|16|DET
+	16|14|POBJ 17|13|XJCT 18|17|OBJ 19|18|CONJ 20|19|COORD 21|23|COORD
+	22|23|DET 23|17|ENUM 24|5|PUNCT
+*S2:	and the last thing that I found by InvoTek at Michigan State
+	University this one's actually pretty slick it's &-um what the
+	device does is it listens to a conversation between the AAC user and
+	the person they're talking to (.) and actually tries to predict what
+	the AAC user will say next .
+%mor:	coord|and det:art|the adj|last n|thing pro:rel|that pro:sub|I
+	v|find&PAST prep|by n:prop|InvoTek prep|at n:prop|Michigan
+	n:prop|State n:prop|University det:dem|this adj|one&dn-POSS
+	adv|actual&dadj-LY adv|pretty adj|slick pro:per|it~cop|be&3S
+	pro:int|what det:art|the n|device mod|do&3S aux|be&3S pro:per|it
+	v|listen-3S prep|to det:art|a n|converse&dv-TION prep|between
+	det:art|the n:prop|AAC n|use&dv-AGT coord|and det:art|the n|person
+	pro:sub|they~aux|be&PRES part|talk-PRESP prep|to coord|and
+	adv|actual&dadj-LY v|try-3S inf|to v|predict pro:int|what
+	det:art|the n:prop|AAC n|use&dv-AGT mod|will v|say adv|next .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|7|JCT
+	9|8|POBJ 10|9|NJCT 11|13|NAME 12|13|NAME 13|10|POBJ 14|15|DET 15|18|JCT
+	16|15|JCT 17|18|JCT 18|20|JCT 19|20|SUBJ 20|8|POBJ 21|27|LINK 22|23|DET
+	23|27|SUBJ 24|27|AUX 25|27|AUX 26|27|SUBJ 27|20|CPRED 28|27|JCT
+	29|30|DET 30|28|POBJ 31|27|JCT 32|34|DET 33|34|MOD 34|31|POBJ 35|27|CONJ
+	36|37|DET 37|35|COORD 38|40|SUBJ 39|40|AUX 40|37|CMOD 41|40|JCT 42|41|CONJ
+	43|44|JCT 44|42|COORD 45|46|INF 46|44|COMP 47|52|LINK 48|50|DET 49|50|MOD
+	50|52|SUBJ 51|52|AUX 52|46|COMP 53|52|JCT 54|4|PUNCT
+*S2:	and so it helps them formulate sentences so they don't hafta use as
+	many key strokes (.) when they communicate with another person .
+%mor:	coord|and co|so pro:per|it v|help-3S pro:obj|them v|formulate
+	n|sentence-PL co|so pro:sub|they mod|do~neg|not mod|have~inf|to
+	v|use adv|as qn|many n|key n|stroke-PL conj|when pro:sub|they
+	v|communicate prep|with qn|another n|person .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|14|COM
+	9|14|SUBJ 10|14|AUX 11|10|NEG 12|14|AUX 13|14|INF 14|4|CJCT 15|17|COORD
+	16|17|QUANT 17|18|MOD 18|14|OBJ 19|21|LINK 20|21|SUBJ 21|14|CJCT
+	22|21|JCT 23|24|QUANT 24|22|POBJ 25|4|PUNCT
+*S2:	so that's [/] that's kinda interesting .
+%mor:	co|so pro:rel|that~cop|be&3S adv|kinda adj|interesting .
+%gra:	1|3|COM 2|3|LINK 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*S2:	and then &-um and my references .
+%mor:	coord|and adv:tem|then coord|and det:poss|my n|reference-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|DET 5|3|COORD 6|1|PUNCT
+*S2:	are there any questions ?
+%mor:	cop|be&PRES adv|there qn|any n|question-PL ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|QUANT 4|1|PRED 5|1|PUNCT
+*S2:	(0.5) .
+*S3:	just one comment that &-uh the Pathfinder from what I understand is
+	pretty cool &-uh +/.
+%mor:	adv|just det:num|one n|comment pro:rel|that det:art|the
+	n:prop|Pathfinder prep|from pro:int|what pro:sub|I v|understand
+	aux|be&3S adv|pretty adj|cool +/.
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|6|LINK 5|6|DET 6|3|CMOD 7|6|JCT
+	8|10|LINK 9|10|SUBJ 10|7|CPOBJ 11|10|OBJ 12|13|JCT 13|11|PRED 14|3|PUNCT
+*S2:	⌈ yeah and it's really slick ⌉ .
+%mor:	co|yeah coord|and pro:per|it~cop|be&3S adv|real&dadj-LY adj|slick .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+*S3:	+, ⌊ there's like a six month waiting list ⌋ to get (th)em &-uh
+	they're (.) all the rage .
+%mor:	pro:exist|there~cop|be&3S prep|like det:art|a det:num|six n|month
+	part|wait-PRESP n|list inf|to v|get pro:obj|them
+	pro:sub|they~cop|be&PRES adv|all det:art|the n|rage .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|QUANT 6|3|POBJ 7|2|XJCT 8|7|OBJ
+	9|10|INF 10|7|XJCT 11|10|OBJ 12|13|SUBJ 13|10|COMP 14|16|JCT 15|16|DET
+	16|13|PRED 17|2|PUNCT
+*S2:	yeah I mean I think if [/] if &-um you needed that device (.) eight
+	thousand dollars (.) I mean in a way it's like (.) what's money ?
+%mor:	co|yeah pro:sub|I adj|mean pro:sub|I v|think comp|if pro:per|you
+	v|need-PAST det:dem|that n|device det:num|eight det:num|thousand
+	n|dollar-PL pro:sub|I v|mean prep|in det:art|a n|way
+	pro:per|it~cop|be&3S conj|like pro:int|what~cop|be&3S n|money ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|10|DET 10|8|OBJ 11|13|QUANT 12|13|QUANT 13|10|APP 14|15|SUBJ 15|5|CJCT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|20|SUBJ 20|15|CJCT 21|23|LINK
+	22|23|SUBJ 23|20|PRED 24|23|PRED 25|5|PUNCT
+*S2:	but (.) you know if you really +/.
+%mor:	conj|but pro:per|you v|know comp|if pro:per|you adv|real&dadj-LY
+	+/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|JCT 7|3|PUNCT
+*S1:	⌈ you don't have it ⌉ +/.
+%mor:	pro:per|you mod|do~neg|not v|have pro:per|it +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*S2:	+, ⌊ need it and it's ⌋ (.) but yeah but if you don't have it then
+	you can't really say that .
+%mor:	v|need pro:per|it coord|and pro:per|it~cop|be&3S conj|but co|yeah
+	conj|but conj|if pro:per|you mod|do~neg|not v|have pro:per|it
+	adv:tem|then pro:per|you mod|can~neg|not adv|real&dadj-LY v|say
+	comp|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|SUBJ 5|1|CJCT 6|5|CONJ 7|6|COORD 8|7|CONJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|8|COORD 14|13|OBJ 15|20|JCT
+	16|20|SUBJ 17|20|AUX 18|17|NEG 19|20|JCT 20|13|COMP 21|20|OBJ
+	22|1|PUNCT
+*S2:	&=laughs yeah <it looks> [/] it looks like this is the best device
+	I've seen out there .
+%mor:	co|yeah pro:per|it v|look-3S prep|like pro:dem|this cop|be&3S
+	det:art|the adj|good&SP n|device pro:sub|I~aux|have part|see&PASTP
+	prep|out n|there .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|COMP 7|9|DET 8|9|MOD
+	9|6|PRED 10|12|SUBJ 11|12|AUX 12|9|CMOD 13|12|JCT 14|13|POBJ 15|3|PUNCT
+*S3:	+, mm +/.
+%mor:	co|mm +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, yeah +...
+%mor:	co|yeah +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	is that it ?
+%mor:	cop|be&3S comp|that pro:per|it ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|1|PUNCT
+*S2:	⌈ okay ⌉ .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	⌊ anybody ⌋ else ?
+%mor:	pro:indef|anybody post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*S1:	&=applause:multiple .
+*S3:	yay .
+%mor:	co|yay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	gee I don't remember too many other people getting applause .
+%mor:	co|gee pro:sub|I mod|do~neg|not v|remember adv|too qn|many qn|other
+	n|person&PL part|get-PRESP n|applause .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|JCT 7|9|QUANT 8|9|QUANT
+	9|5|OBJ 10|9|XMOD 11|10|OBJ 12|5|PUNCT
+*S3:	you're just extra special .
+%mor:	pro:per|you~cop|be&PRES adj|just n|extra n|special .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+*S3:	xxx .
+*S2:	oh okay .
+%mor:	co|oh co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	&=laughs you want me to just leave my disk in here ?
+%mor:	pro:per|you v|want pro:obj|me inf|to adj|just v|leave det:poss|my
+	n|disk prep|in n|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|INF 5|6|JCT 6|2|COMP 7|8|DET 8|6|OBJ
+	9|6|JCT 10|9|POBJ 11|2|PUNCT
+*S2:	or (0.7) okay .
+%mor:	coord|or co|okay .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*S2:	(0.11) .
+*S1:	let's see (.) so &=break_in_recording and we will pick this up (.)
+	next time .
+%mor:	v|let~pro:obj|us v|see adv|so coord|and pro:sub|we mod|will v|pick
+	det:dem|this adv|up adj|next n|time .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|8|JCT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|12|DET 10|11|JCT 11|12|MOD 12|8|OBJ 13|1|PUNCT
+*S1:	(0.7) so Marissa (.) you're up .
+%mor:	co|so n:prop|Marissa pro:per|you~cop|be&PRES adv|up .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*S5:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S5:	(0.13) I had &-um the distinct pleasure of playing with (.) the
+	Alpha Talker .
+%mor:	pro:sub|I v|have&PAST det:art|the adj|distinct n|pleasure prep|of
+	n:gerund|play-PRESP prep|with det:art|the n:prop|Alpha n:prop|Talker
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|6|POBJ 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|2|PUNCT
+*S5:	&-um the Alpha Talker is &-uh a basically it's an introductory
+	augmentative &-um communication aid and it uses Minspeak which I'll
+	describe in a minute &-um to store and retrieve messages .
+%mor:	det:art|the n:prop|Alpha n:prop|Talker cop|be&3S det:art|a
+	adv|basic&dadj-AL-LY pro:per|it~cop|be&3S det:art|a adj|introductory
+	adj|augmentative n|communicate&dv-TION n|aid coord|and pro:per|it
+	v|use-3S n:prop|Minspeak pro:int|which pro:sub|I~mod|will v|describe
+	prep|in det:art|a n|minute inf|to v|store coord|and v|retrieve
+	n|message-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|2|APP 4|0|ROOT 5|8|DET 6|8|JCT 7|8|SUBJ 8|4|PRED
+	9|13|DET 10|13|MOD 11|13|MOD 12|13|MOD 13|8|PRED 14|16|LINK 15|16|SUBJ
+	16|13|CMOD 17|16|OBJ 18|21|LINK 19|21|SUBJ 20|21|AUX 21|8|CPRED 22|21|JCT
+	23|24|DET 24|22|POBJ 25|26|INF 26|21|XJCT 27|26|CONJ 28|27|COORD 29|28|OBJ
+	30|4|PUNCT
+*S5:	&-um really it's meant &-uh the users are kind of beginners (.)
+	this is probably their first &-uh communication system that's you
+	know (.) computer based .
+%mor:	adv|real&dadj-LY pro:per|it~aux|be&3S part|mean&PASTP det:art|the
+	n|use&dv-AGT-PL cop|be&PRES n|kind prep|of n|begin&dv-AGT-PL
+	pro:dem|this cop|be&3S adv|probable&dadj-LY det:poss|their adj|first
+	n|communicate&dv-TION n|system pro:rel|that~cop|be&3S pro:per|you
+	v|know n|compute&dv-AGT part|base-PASTP .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|12|XJCT 5|6|DET 6|7|SUBJ 7|4|COMP 8|7|PRED
+	9|8|NJCT 10|9|POBJ 11|12|SUBJ 12|0|ROOT 13|12|JCT 14|17|DET 15|17|MOD
+	16|17|MOD 17|13|POBJ 18|19|LINK 19|17|CMOD 20|21|SUBJ 21|19|CPRED 22|21|OBJ
+	23|22|XMOD 24|12|PUNCT
+*S5:	&-um and it really allows you to learn at your own pace .
+%mor:	coord|and pro:per|it adv|real&dadj-LY v|allow-3S pro:per|you inf|to
+	v|learn prep|at det:poss|your adj|own n|pace .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|SUBJ 6|7|INF 7|4|COMP 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|4|PUNCT
+*S5:	xxx &=laughs alright the basic package &-um basically &-uh comes
+	with you know it's this (.) which is a key guard (.) your actual
+	computer base &-um overlay (.) which is this is a sample overlay
+	they also give you (.) several blank ones so you can kinda make up
+	your own stuff .
+%mor:	adj|alright det:art|the adj|basic n|package adv|basic&dadj-AL-LY
+	v|come-3S prep|with pro:per|you v|know pro:per|it~cop|be&3S
+	det:dem|this pro:rel|which cop|be&3S det:art|a n|key n|guard
+	det:poss|your adj|actual n|compute&dv-AGT adj|base n|overlay
+	pro:rel|which cop|be&3S pro:dem|this cop|be&3S det:art|a n|sample
+	n|overlay pro:sub|they adv|also v|give pro:per|you qn|several
+	adj|blank n|one-PL co|so pro:per|you mod|can adv|kinda v|make adv|up
+	det:poss|your adj|own n|stuff .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|JCT 8|9|SUBJ
+	9|7|POBJ 10|11|SUBJ 11|9|COMP 12|13|DET 13|14|LINK 14|9|COMP 15|17|DET
+	16|17|MOD 17|14|PRED 18|20|DET 19|20|MOD 20|22|MOD 21|22|MOD 22|17|APP
+	23|24|LINK 24|22|CMOD 25|26|SUBJ 26|24|PRED 27|29|DET 28|29|MOD 29|26|PRED
+	30|32|SUBJ 31|32|JCT 32|29|CMOD 33|32|OBJ2 34|36|QUANT 35|36|MOD 36|32|OBJ
+	37|41|COM 38|41|SUBJ 39|41|AUX 40|41|JCT 41|24|CPRED 42|41|JCT
+	43|45|DET 44|45|MOD 45|42|POBJ 46|6|PUNCT
+*S5:	&-um if you +//.
+%mor:	conj|if pro:per|you +//.
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*S5:	the memory (.) basically can store about three and a half minutes
+	of speech (.) at &-uh high quality and five and a quarter (.)
+	minutes of speech for &-um lower quality or standard quality .
+%mor:	det:art|the n|memory adv|basic&dadj-AL-LY mod|can v|store
+	prep|about det:num|three coord|and det:art|a n|half n|minute-PL
+	prep|of n|speech prep|at adj|high n|quality coord|and det:num|five
+	coord|and det:art|a n|quarter n|minute-PL prep|of n|speech prep|for
+	v|lower n|quality coord|or adj|standard n|quality .
+%gra:	1|2|DET 2|5|SUBJ 3|5|JCT 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|CONJ
+	9|11|DET 10|11|MOD 11|8|COORD 12|11|NJCT 13|12|POBJ 14|13|NJCT 15|16|MOD
+	16|14|POBJ 17|7|CONJ 18|17|COORD 19|7|CONJ 20|22|DET 21|22|MOD 22|19|COORD
+	23|22|NJCT 24|23|POBJ 25|5|JCT 26|25|POBJ 27|26|OBJ 28|27|CONJ
+	29|30|MOD 30|28|COORD 31|5|PUNCT
+*S5:	&-uh it comes with &-uh thirty two (.) keys you can also get it in
+	four (.) which is this one here or eight which they didn't have &-um
+	there but you can also get it in eight .
+%mor:	pro:per|it v|come-3S prep|with det:num|thirty det:num|two n|key-PL
+	pro:per|you mod|can adv|also v|get pro:per|it prep|in det:num|four
+	pro:rel|which cop|be&3S det:dem|this pro:indef|one adv|here coord|or
+	det:num|eight pro:int|which pro:sub|they mod|do&PAST~neg|not v|have
+	adv|there conj|but pro:per|you mod|can adv|also v|get pro:per|it
+	prep|in det:num|eight .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|QUANT 5|6|QUANT 6|3|POBJ 7|10|SUBJ
+	8|10|AUX 9|10|JCT 10|2|CJCT 11|10|OBJ 12|10|JCT 13|14|QUANT 14|15|LINK
+	15|12|POBJ 16|17|DET 17|15|PRED 18|17|NJCT 19|18|CONJ 20|19|COORD 21|25|LINK
+	22|25|SUBJ 23|25|AUX 24|23|NEG 25|17|CMOD 26|25|JCT 27|31|LINK 28|31|SUBJ
+	29|31|AUX 30|31|JCT 31|25|CJCT 32|31|OBJ 33|31|JCT 34|33|POBJ 35|2|PUNCT
+*S5:	and you can get optional memory packages that are (.) you know give
+	you fourteen and half minutes of standard speech .
+%mor:	coord|and pro:per|you mod|can v|get adj|option&dn-AL n|memory
+	n|package-PL pro:rel|that cop|be&PRES pro:per|you v|know v|give
+	pro:per|you det:num|fourteen coord|and n|half n|minute-PL prep|of
+	adj|standard n|speech .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|MOD 6|7|MOD 7|4|OBJ 8|9|LINK
+	9|7|CMOD 10|11|SUBJ 11|9|CPRED 12|11|COMP 13|14|SUBJ 14|17|QUANT 15|14|CONJ
+	16|15|COORD 17|12|OBJ 18|17|NJCT 19|20|MOD 20|18|POBJ 21|4|PUNCT
+*S5:	&-um but the memory package is about nine hundred dollars more &-uh
+	at least .
+%mor:	conj|but det:art|the n|memory n|package cop|be&3S prep|about
+	det:num|nine det:num|hundred n|dollar-PL qn|more prep|at n|least .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|QUANT 8|9|QUANT
+	9|6|POBJ 10|9|POSTMOD 11|10|JCT 12|11|POBJ 13|5|PUNCT
+*S5:	&=laughs:S3 that's what it's (.) was on the website and the website
+	actually had all the information on the Alpha Two (.) and this is
+	the Alpha One .
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:per|it~cop|be&3S
+	cop|be&PAST&13S prep|on det:art|the n|+n|web+n|site coord|and
+	det:art|the n|+n|web+n|site adv|actual&dadj-LY v|have&PAST qn|all
+	det:art|the n|inform&dv-TION prep|on det:art|the n:prop|Alpha
+	n:prop|Two coord|and pro:dem|this cop|be&3S det:art|the n:prop|Alpha
+	n:prop|One .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|SUBJ 5|6|SUBJ 6|2|PRED 7|6|JCT 8|9|DET
+	9|7|POBJ 10|14|LINK 11|12|DET 12|14|SUBJ 13|14|JCT 14|6|CJCT 15|17|QUANT
+	16|17|DET 17|14|OBJ 18|24|LINK 19|20|DET 20|21|NAME 21|24|SUBJ
+	22|21|CONJ 23|22|COORD 24|14|CJCT 25|27|DET 26|27|MOD 27|24|PRED 28|2|PUNCT
+*S5:	the Alpha Two is about two grand for a base (.) and then you add a
+	whole bunch of options if you want the extra memory it it's [/] it's
+	a pretty expensive little toy .
+%mor:	det:art|the n:prop|Alpha n:prop|Two cop|be&3S prep|about
+	det:num|two adj|grand prep|for det:art|a n|base coord|and
+	adv:tem|then pro:per|you v|add det:art|a adj|whole n|bunch prep|of
+	n|option-PL conj|if pro:per|you v|want det:art|the adj|extra
+	n|memory pro:per|it pro:per|it~cop|be&3S det:art|a adj|pretty
+	adj|expensive adj|little n|toy .
+%gra:	1|2|DET 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|CONJ 12|11|COORD 13|14|SUBJ 14|4|CJCT 15|17|DET
+	16|17|MOD 17|14|OBJ 18|17|NJCT 19|18|POBJ 20|22|LINK 21|22|SUBJ
+	22|14|CJCT 23|25|DET 24|25|MOD 25|22|OBJ 26|28|SUBJ 27|28|SUBJ 28|25|CMOD
+	29|31|DET 30|31|JCT 31|33|MOD 32|33|MOD 33|28|PRED 34|4|PUNCT
+*S5:	&-um on the front of the Alpha Talker (.) we have a couple things I
+	wanna point out one of which is the control panel which is this
+	little guy right here .
+%mor:	prep|on det:art|the n|front prep|of det:art|the n:prop|Alpha
+	n:prop|Talker pro:sub|we v|have det:art|a qn|couple n|thing-PL
+	pro:sub|I v|want~inf|to v|point adv|out pro:indef|one prep|of
+	pro:rel|which cop|be&3S det:art|the n|control n|panel pro:rel|which
+	cop|be&3S det:dem|this adj|little n|guy adv|right adv|here .
+%gra:	1|9|JCT 2|3|DET 3|1|POBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|14|CJCT 10|11|DET 11|12|QUANT 12|9|OBJ 13|14|SUBJ 14|0|ROOT 15|16|INF
+	16|14|COMP 17|16|JCT 18|17|POBJ 19|18|NJCT 20|21|LINK 21|19|POBJ 22|24|DET
+	23|24|MOD 24|21|PRED 25|26|LINK 26|24|CMOD 27|29|DET 28|29|MOD
+	29|26|PRED 30|31|JCT 31|29|NJCT 32|14|PUNCT
+*S5:	&-uh this control panel lets you do just about everything that's on
+	here &-um that it can do .
+%mor:	det:dem|this n|control n|panel v|let-3S pro:per|you v|do adv|just
+	prep|about pro:indef|everything pro:rel|that~cop|be&3S prep|on
+	n|here pro:rel|that pro:per|it mod|can v|do .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|11|LINK 11|9|CMOD 12|11|JCT 13|12|POBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|13|CMOD 18|4|PUNCT
+*S5:	it lets you select &-um if you're using a
+	thirty two xxx four location keyboard (.) it lets you &-uh switch
+	between your input devices .
+%mor:	pro:per|it v|let-3S pro:per|you v|select comp|if
+	pro:per|you~aux|be&PRES part|use-PRESP det:art|a det:num|thirty
+	det:num|two det:num|four n|locate&dv-TION n|+n|key+n|board
+	pro:per|it v|let-3S pro:per|you v|switch prep|between det:poss|your
+	n|input n|device-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|8|LINK 6|8|SUBJ 7|8|AUX 8|16|XJCT
+	9|10|DET 10|14|QUANT 11|12|DATE 12|13|QUANT 13|14|MOD 14|8|OBJ
+	15|16|SUBJ 16|4|COMP 17|18|SUBJ 18|16|COMP 19|18|JCT 20|22|DET 21|22|MOD
+	22|19|POBJ 23|2|PUNCT
+*S5:	you can use switches keyboards head
+	pointing .
+%mor:	pro:per|you mod|can n|use n|switch-PL n|+n|key+n|board-PL n|head
+	part|point-PRESP .
+%gra:	1|6|SUBJ 2|6|AUX 3|6|MOD 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|XMOD 8|6|PUNCT
+*S5:	&-um it also lets you store and record (.) all of your
+	messages review your messages (.) and erase &-uh whatever messages
+	you want to erase off of here .
+%mor:	pro:per|it adv|also v|let-3S pro:per|you v|store coord|and n|record
+	adv|all prep|of det:poss|your n|message-PL v|review det:poss|your
+	n|message-PL coord|and v|erase pro:int|whatever n|message-PL
+	pro:per|you v|want inf|to v|erase adv|off prep|of adv|here .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|12|LINK 7|12|SUBJ 8|9|JCT
+	9|7|NJCT 10|11|DET 11|9|POBJ 12|5|CJCT 13|14|DET 14|12|OBJ 15|5|CONJ
+	16|15|COORD 17|20|LINK 18|20|JCT 19|20|SUBJ 20|16|COMP 21|22|INF
+	22|20|COMP 23|22|JCT 24|23|JCT 25|24|POBJ 26|3|PUNCT
+*S5:	on the back of it (.) you can see that it's got a bunch of little
+	things here (.) this you know you've got your battery charger (.)
+	you've got a dual &-um control which you can plug in &-um either a
+	dual switch or a head pointer (.) we've got a microphone so +//.
+%mor:	prep|on det:art|the adj|back prep|of pro:per|it pro:per|you mod|can
+	v|see comp|that pro:per|it~aux|be&3S part|get&PASTP det:art|a
+	n|bunch prep|of adj|little n|thing-PL adv|here det:dem|this
+	pro:per|you v|know pro:per|you~aux|have part|get&PASTP det:poss|your
+	n|battery n|charge&dv-AGT pro:per|you~aux|have part|get&PASTP
+	det:art|a adj|dual n|control pro:rel|which pro:per|you mod|can
+	v|plug adv|in adv|either det:art|a adj|dual n|switch coord|or
+	det:art|a n|head n|point&dv-AGT pro:sub|we~aux|have part|get&PASTP
+	det:art|a micro#n|phone co|so +//.
+%gra:	1|8|JCT 2|3|DET 3|1|POBJ 4|3|NJCT 5|4|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|COMP 13|14|DET 14|12|OBJ 15|14|NJCT
+	16|17|MOD 17|15|POBJ 18|21|JCT 19|20|DET 20|21|SUBJ 21|12|CJCT 22|21|OBJ
+	23|24|AUX 24|21|COMP 25|27|DET 26|27|MOD 27|24|OBJ 28|30|SUBJ 29|30|AUX
+	30|27|CMOD 31|33|DET 32|33|MOD 33|30|OBJ 34|37|LINK 35|37|SUBJ 36|37|AUX
+	37|33|CMOD 38|37|JCT 39|49|JCT 40|42|DET 41|42|MOD 42|49|JCT 43|42|CONJ
+	44|46|DET 45|46|MOD 46|43|COORD 47|49|SUBJ 48|49|AUX 49|37|XJCT
+	50|51|DET 51|49|OBJ 52|51|COM 53|8|PUNCT
+*S5:	there is a microphone in the control panel this little black thing
+	here is a microphone but if you want an external mic for better
+	recording &-uh you can plug that in here .
+%mor:	pro:exist|there cop|be&3S det:art|a micro#n|phone prep|in
+	det:art|the n|control n|panel det:dem|this adj|little n|black
+	n|thing adv|here cop|be&3S det:art|a micro#n|phone conj|but conj|if
+	pro:per|you v|want det:art|a adj|external n|mic prep|for adj|good&CP
+	part|record-PRESP pro:per|you mod|can v|plug comp|that prep|in
+	n|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|12|DET 10|12|MOD 11|12|MOD 12|5|POBJ 13|14|JCT 14|4|CMOD 15|16|DET
+	16|14|PRED 17|14|CONJ 18|20|LINK 19|20|SUBJ 20|17|COORD 21|23|DET 22|23|MOD
+	23|20|OBJ 24|23|NJCT 25|24|POBJ 26|25|XMOD 27|29|SUBJ 28|29|AUX
+	29|26|COMP 30|29|OBJ 31|30|JCT 32|31|POBJ 33|2|PUNCT
+*S5:	&-um there is a switch here that allows you .
+%mor:	pro:exist|there cop|be&3S det:art|a n|switch adv|here pro:rel|that
+	v|allow-3S pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|LINK 7|5|CMOD 8|7|OBJ
+	9|2|PUNCT
+*S5:	it's &-um allows you to
+	connect up to a computer (.) so you can end up storing &-um things
+	you have in memory .
+%mor:	pro:per|it~cop|be&3S v|allow-3S pro:per|you inf|to v|connect adv|up
+	prep|to det:art|a n|compute&dv-AGT conj|so pro:per|you mod|can v|end
+	adv|up part|store-PRESP n|thing-PL pro:per|you v|have prep|in
+	n|memory .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|2|CJCT 15|14|JCT
+	16|19|XJCT 17|16|OBJ 18|19|SUBJ 19|14|COMP 20|19|JCT 21|20|POBJ 22|2|PUNCT
+*S5:	&-uh you can (.) the memory on here you can
+	actually store onto a disk .
+%mor:	pro:per|you mod|can det:art|the n|memory prep|on n|here pro:per|you
+	mod|can adv|actual&dadj-LY v|store prep|onto det:art|a n|disk .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|DET 4|10|JCT 5|4|NJCT 6|5|POBJ 7|10|SUBJ 8|10|AUX
+	9|10|JCT 10|0|ROOT 11|10|JCT 12|13|DET 13|11|POBJ 14|10|PUNCT
+*S5:	is you [?] can have three or four
+	different types of &-um &i three or four different overlays .
+%mor:	aux|be&3S pro:per|you mod|can v|have det:num|three coord|or
+	det:num|four adj|different n|type-PL prep|of det:num|three coord|or
+	det:num|four adj|different n|overlay-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|9|QUANT 8|9|MOD
+	9|6|COORD 10|9|NJCT 11|10|POBJ 12|11|CONJ 13|15|QUANT 14|15|MOD
+	15|12|COORD 16|4|PUNCT
+*S5:	you can
+	have the memory associated with each overlay in a computer .
+%mor:	pro:per|you mod|can v|have det:art|the n|memory v|associate-PAST
+	prep|with qn|each n|overlay prep|in det:art|a n|compute&dv-AGT .
+%gra:	1|3|SUBJ 2|3|AUX 3|6|OBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|QUANT
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|6|PUNCT
+*S5:	&-um you also have another &sw this is a mono (.) button .
+%mor:	pro:per|you adv|also v|have qn|another pro:dem|this cop|be&3S
+	det:art|a n|mono n|button .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|QUANT 5|6|SUBJ 6|3|COMP 7|9|DET 8|9|MOD
+	9|6|PRED 10|3|PUNCT
+*S5:	for the &s
+	for a single switch you have external speakers you can put in here .
+%mor:	prep|for det:art|the prep|for det:art|a adj|single n|switch
+	pro:per|you v|have adj|external n|speak&dv-AGT-PL pro:per|you
+	mod|can part|put&PASTP prep|in n|here .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|6|DET 5|6|MOD 6|3|POBJ 7|8|SUBJ 8|6|CMOD
+	9|10|MOD 10|8|OBJ 11|13|SUBJ 12|13|AUX 13|10|XMOD 14|13|JCT 15|14|POBJ
+	16|1|PUNCT
+*S5:	you have a jack for headphones .
+%mor:	pro:per|you v|have det:art|a n|jack prep|for n|+n|head+n|phone-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*S5:	you have a speaker volume
+	&-um adjustability so that's the &sp you know the volume that it'll
+	speak to someone else .
+%mor:	pro:per|you v|have det:art|a n|speak&dv-AGT n|volume
+	n|adjust&dadj-ABLE-ITY co|so pro:dem|that~cop|be&3S det:art|the
+	pro:per|you v|know det:art|the n|volume pro:rel|that
+	pro:per|it~mod|will v|speak prep|to pro:indef|someone post|else .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|MOD 5|6|MOD 6|2|OBJ 7|9|COM 8|9|SUBJ
+	9|2|COMP 10|11|DET 11|12|SUBJ 12|9|CPRED 13|14|DET 14|12|OBJ 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|14|CMOD 19|18|JCT 20|19|POBJ 21|20|PQ 22|2|PUNCT
+*S5:	but then you also have an ear volume (.) so in
+	case you know if you have a headphone or something like that [/]
+	that you're listening with and you use some of their auditory
+	prompts &-um you can hear it at &-uh specialized volumes +...
+%mor:	conj|but adv:tem|then pro:per|you adv|also v|have det:art|a n|ear
+	n|volume adv|so prep|in n|case pro:per|you v|know comp|if
+	pro:per|you v|have det:art|a n|+n|head+n|phone coord|or
+	pro:indef|something co|like adv|that pro:per|you~aux|be&PRES
+	part|listen-PRESP prep|with coord|and pro:per|you n|use qn|some
+	prep|of det:poss|their adj|auditor&dn-Y v|prompt-3S pro:per|you
+	mod|can v|hear pro:per|it prep|at part|special-IZE-PASTP n|volume-PL
+	+...
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|JCT 5|13|CJCT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|9|JCT 11|10|POBJ 12|13|SUBJ 13|0|ROOT 14|16|LINK 15|16|SUBJ
+	16|13|COMP 17|18|DET 18|16|OBJ 19|25|LINK 20|25|SUBJ 21|20|COM 22|25|JCT
+	23|25|SUBJ 24|25|AUX 25|18|XMOD 26|25|JCT 27|29|LINK 28|29|SUBJ 29|26|POBJ
+	30|29|NJCT 31|30|JCT 32|33|DET 33|31|POBJ 34|31|CPOBJ 35|37|SUBJ
+	36|37|AUX 37|34|COMP 38|37|OBJ 39|37|JCT 40|39|POBJ 41|40|OBJ 42|13|PUNCT
+*S5:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S5:	do [x 3] .
+%mor:	v|do .
+%gra:	1|0|ROOT 2|1|PUNCT
+*S5:	&-um as I said before you can plug it in &-um the battery does
+	charge and it does hold a charge so I'll be able to kinda hold it up
+	for you guys .
+%mor:	conj|as pro:sub|I v|say&PAST conj|before pro:per|you mod|can v|plug
+	pro:per|it prep|in det:art|the n|battery mod|do&3S n|charge
+	coord|and pro:per|it mod|do&3S n|hold det:art|a n|charge adv|so
+	pro:sub|I~mod|will cop|be adj|able inf|to adv|kinda v|hold
+	pro:per|it adv|up prep|for pro:per|you n|guy-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|23|CJCT 8|7|OBJ
+	9|7|JCT 10|11|DET 11|13|SUBJ 12|13|AUX 13|9|POBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|23|SUBJ 18|19|DET 19|17|OBJ 20|23|JCT 21|23|SUBJ 22|23|AUX
+	23|3|COMP 24|23|PRED 25|27|INF 26|27|JCT 27|24|XMOD 28|27|OBJ 29|27|JCT
+	30|27|JCT 31|32|SUBJ 32|30|POBJ 33|3|PUNCT
+*S5:	&-um turning it on and off is pretty simple (.) it's right here in
+	the control panel &-um &=device_beeps gives a little beep .
+%mor:	part|turn-PRESP pro:per|it adv|on coord|and adv|off cop|be&3S
+	adv|pretty adj|simple pro:per|it~cop|be&3S adv|right adv|here
+	prep|in det:art|the n|control n|panel v|give-3S det:art|a adj|little
+	n|beep .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|JCT 4|1|CONJ 5|6|JCT 6|4|COORD 7|8|JCT 8|6|PRED
+	9|10|SUBJ 10|6|CMOD 11|12|JCT 12|10|JCT 13|17|JCT 14|16|DET 15|16|MOD
+	16|17|SUBJ 17|10|CJCT 18|20|DET 19|20|MOD 20|17|OBJ 21|1|PUNCT
+*S5:	&-uh now this is +//.
+%mor:	adv|now pro:dem|this cop|be&3S +//.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S5:	these buttons up here (.) are really kind_of hard [/] &t hard even
+	for me to press down so I wouldn't (.) really imagine that someone
+	who's actually gonna be using this device unless they have (.) very
+	good motor control &-um is actually gonna be using the control panel
+	this kinda stuff (.) is going to be left for the caregiver .
+%mor:	det:dem|these n|button-PL prep|up n|here cop|be&PRES
+	adv|real&dadj-LY adv|kind_of adv|hard adv|even prep|for pro:obj|me
+	inf|to v|press adv|down co|so pro:sub|I mod|will&COND~neg|not
+	adv|real&dadj-LY v|imagine comp|that pro:indef|someone
+	pro:rel|who~aux|be&3S adv|actual&dadj-LY part|go-PRESP~inf|to aux|be
+	part|use-PRESP det:dem|this n|device conj|unless pro:sub|they v|have
+	adv|very adj|good n|motor n|control aux|be&3S adv|actual&dadj-LY
+	part|go-PRESP~inf|to aux|be part|use-PRESP det:art|the n|control
+	n|panel pro:dem|this adv|kinda v|stuff aux|be&3S part|go-PRESP
+	inf|to cop|be v|leave&PAST prep|for det:art|the n|+n|care+n|giver .
+%gra:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|8|JCT 7|8|JCT 8|5|JCT
+	9|5|JCT 10|9|JCT 11|10|POBJ 12|13|INF 13|10|CPOBJ 14|13|JCT 15|20|COM
+	16|20|SUBJ 17|20|AUX 18|17|NEG 19|20|JCT 20|13|COMP 21|20|OBJ 22|21|POBJ
+	23|26|LINK 24|26|AUX 25|26|JCT 26|22|CMOD 27|29|INF 28|29|AUX 29|26|COMP
+	30|31|DET 31|29|OBJ 32|34|LINK 33|34|SUBJ 34|21|CJCT 35|36|JCT 36|38|MOD
+	37|38|MOD 38|41|SUBJ 39|41|AUX 40|41|JCT 41|34|COMP 42|44|INF 43|44|AUX
+	44|50|XJCT 45|47|DET 46|47|MOD 47|44|OBJ 48|50|SUBJ 49|50|JCT 50|41|COMP
+	51|52|AUX 52|50|COMP 53|54|INF 54|52|COMP 55|54|PRED 56|55|JCT 57|58|DET
+	58|56|POBJ 59|5|PUNCT
+*S5:	&-um and it automatically powers down after two minutes that's the
+	[/] the setting that it's on &-um you can change that however by
+	going into the toolbox .
+%mor:	coord|and pro:per|it adv|automatic&dadj-AL-LY v|power-3S adv|down
+	prep|after det:num|two n|minute-PL pro:rel|that~cop|be&3S
+	det:art|the n:gerund|set-PRESP comp|that pro:per|it~cop|be&3S adv|on
+	pro:per|you mod|can v|change pro:dem|that adv|however adv|by
+	part|go-PRESP prep|into det:art|the n|+n|tool+n|box .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|QUANT 8|6|POBJ
+	9|10|LINK 10|8|CMOD 11|12|DET 12|10|PRED 13|15|LINK 14|15|SUBJ 15|19|CJCT
+	16|15|JCT 17|19|SUBJ 18|19|AUX 19|12|CMOD 20|19|OBJ 21|19|JCT 22|23|JCT
+	23|19|XJCT 24|23|JCT 25|26|DET 26|24|POBJ 27|4|PUNCT
+*S5:	alright (.) let's talk a little bit about Minspeak .
+%mor:	co|alright v|let~pro:obj|us v|talk det:art|a adj|little n|bit
+	prep|about n:prop|Minspeak .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|2|PUNCT
+*S5:	you see all these little icons on [/] on the keyboard here .
+%mor:	pro:per|you v|see qn|all det:dem|these adj|little n|icon-PL prep|on
+	det:art|the n|+n|key+n|board adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|QUANT 4|6|DET 5|6|MOD 6|2|OBJ 7|2|JCT 8|9|DET
+	9|7|POBJ 10|2|JCT 11|2|PUNCT
+*S5:	well they don't necessarily mean anything until you put meaning to
+	them .
+%mor:	adv|well pro:sub|they mod|do~neg|not adv|necessary&dadj-LY adj|mean
+	pro:indef|anything conj|until pro:per|you v|put&ZERO n|meaning
+	prep|to pro:obj|them .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|7|JCT 6|7|MOD 7|0|INCROOT 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|OBJ 12|10|JCT 13|12|POBJ 14|7|PUNCT
+*S5:	so basically what Minspeak does is you can take a combination of
+	one (.) two (.) or three different (.) icons and make a phrase .
+%mor:	adv|so adv|basic&dadj-AL-LY pro:int|what n:prop|Minspeak v|do&3S
+	aux|be&3S pro:per|you mod|can v|take det:art|a n|combine&dv-TION
+	prep|of det:num|one det:num|two coord|or det:num|three adj|different
+	n|icon-PL coord|and v|make det:art|a n|phrase .
+%gra:	1|2|JCT 2|9|JCT 3|5|LINK 4|5|SUBJ 5|9|SUBJ 6|9|AUX 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|11|NJCT 13|14|QUANT 14|12|POBJ 15|14|CONJ
+	16|18|QUANT 17|18|MOD 18|15|COORD 19|9|CONJ 20|19|COORD 21|22|DET
+	22|20|OBJ 23|9|PUNCT
+*S5:	and &-um so basically (.) you can store a large number of messages
+	with only a few keystrokes .
+%mor:	coord|and co|so adv|basic&dadj-AL-LY pro:per|you mod|can v|store
+	det:art|a adj|large n|number prep|of n|message-PL prep|with adv|only
+	det:art|a qn|few n|+n|key+n|stroke-PL .
+%gra:	1|6|LINK 2|6|COM 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|NJCT 11|10|POBJ 12|6|JCT 13|16|JCT 14|16|DET 15|16|QUANT
+	16|12|POBJ 17|6|PUNCT
+*S5:	so &-um let's see if we can demo something here .
+%mor:	adv|so v|let~pro:obj|us v|see conj|if pro:sub|we mod|can n|demo
+	pro:indef|something adv|here .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|OBJ
+	9|8|OBJ 10|9|NJCT 11|2|PUNCT
+*S5:	&-um &=pressing_buttons I (.) &{l=DEVICE_SPEAKING I want to play
+	with Sammy .
+%mor:	pro:sub|I pro:sub|I v|want prep|to n|play prep|with n:prop|Sammy .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*S5:	&}l=DEVICE_SPEAKING and that was this +//.
+%mor:	coord|and pro:dem|that cop|be&PAST&13S det:dem|this +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S5:	that was three key strokes so you have &=pressing_buttons I want to
+	(.) play (.) with (.) a person &{l=DEVICE_SPEAKING I want to play
+	with Sammy .
+%mor:	pro:dem|that cop|be&PAST&13S det:num|three n|key v|stroke-3S
+	conj|so pro:per|you v|have pro:sub|I v|want prep|to n|play prep|with
+	det:art|a n|person pro:sub|I v|want prep|to n|play prep|with
+	n:prop|Sammy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|5|SUBJ 5|2|PRED 6|8|LINK 7|8|SUBJ
+	8|10|CJCT 9|10|SUBJ 10|2|CJCT 11|12|INF 12|17|CJCT 13|12|NJCT 14|15|DET
+	15|13|POBJ 16|17|SUBJ 17|10|COMP 18|19|INF 19|17|OBJ 20|19|NJCT 21|20|POBJ
+	22|2|PUNCT
+*S5:	&}l=DEVICE_SPEAKING and you can see that &-um the [/] the messages
+	that are they're recorded in a nonsynthesized speech they're
+	actually someone's voice that's actually me .
+%mor:	coord|and pro:per|you mod|can v|see comp|that det:art|the
+	n|message-PL pro:rel|that cop|be&PRES pro:sub|they~aux|be&PRES
+	part|record-PASTP prep|in det:art|a non#part|synthesize-PASTP
+	n|speech pro:sub|they~cop|be&PRES adv|actual&dadj-LY
+	adj|someone&dn-POSS n|voice pro:rel|that~cop|be&3S
+	adv|actual&dadj-LY pro:obj|me .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|12|LINK 6|7|DET 7|12|SUBJ 8|9|LINK
+	9|12|AUX 10|12|SUBJ 11|12|AUX 12|4|COMP 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|18|SUBJ 18|4|CJCT 19|21|JCT 20|21|MOD 21|18|PRED 22|23|LINK
+	23|21|CMOD 24|23|JCT 25|24|POBJ 26|4|PUNCT
+*S5:	&-um but there's other ones here too .
+%mor:	conj|but pro:exist|there~cop|be&3S qn|other n|one-PL adv|here
+	adv|too .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|7|JCT 7|5|NJCT
+	8|3|PUNCT
+*S5:	&=pressing_buttons &{l=DEVICE_SPEAKING I do not want to go to bed .
+%mor:	pro:sub|I mod|do neg|not v|want inf|to v|go prep|to n|bed .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+*S5:	&}l=DEVICE_SPEAKING so you can actually have you know if you wanna
+	record a child's voice or you wanna record a [/] a man's voice you
+	kinda have your option as to what voice you wanna put into it .
+%mor:	co|so pro:per|you mod|can adv|actual&dadj-LY v|have pro:per|you
+	v|know comp|if pro:per|you v|want~inf|to v|record det:art|a
+	adj|child&dn-POSS n|voice coord|or pro:per|you v|want~inf|to
+	v|record det:art|a adj|man&dn-POSS n|voice pro:per|you adv|kinda
+	v|have det:poss|your n|option prep|as prep|to pro:int|what v|voice
+	pro:per|you v|want~inf|to v|put&ZERO prep|into pro:per|it .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|10|LINK
+	9|10|SUBJ 10|7|COMP 11|12|INF 12|10|COMP 13|15|DET 14|15|MOD 15|12|OBJ
+	16|18|LINK 17|18|SUBJ 18|10|CJCT 19|20|INF 20|18|COMP 21|23|DET 22|23|MOD
+	23|20|OBJ 24|26|SUBJ 25|26|JCT 26|23|CMOD 27|28|DET 28|26|OBJ 29|26|JCT
+	30|29|POBJ 31|32|DET 32|30|CPOBJ 33|34|SUBJ 34|32|COMP 35|36|INF
+	36|34|COMP 37|36|JCT 38|37|POBJ 39|5|PUNCT
+*S5:	and you can &exchan or you're you can change the expression (.) and
+	some of the intonation with different things so it gives you a
+	little bit more flexibility so if you wanna have like an exclamation
+	point cowabunga or something like that you can kind_of (.) have that
+	inflection in your voice .
+%mor:	coord|and pro:per|you mod|can coord|or pro:per|you~cop|be&PRES
+	pro:per|you mod|can v|change det:art|the n|expression coord|and
+	qn|some prep|of det:art|the n|intone&dv-TION prep|with adj|different
+	n|thing-PL conj|so pro:per|it v|give-3S pro:per|you det:art|a
+	adj|little n|bit adv|more n|flexible&dadj-ITY adv|so conj|if
+	pro:per|you v|want~inf|to v|have prep|like det:art|a n|exclamation
+	n|point co|cowabunga coord|or pro:indef|something prep|like
+	pro:dem|that pro:per|you mod|can adv|kind_of v|have det:dem|that
+	n|inflection prep|in det:poss|your n|voice .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|3|CONJ 5|4|COORD 6|9|CJCT 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|11|CONJ 13|12|COORD 14|13|JCT 15|16|DET
+	16|14|POBJ 17|13|JCT 18|19|MOD 19|17|POBJ 20|22|LINK 21|22|SUBJ 22|9|CJCT
+	23|22|OBJ 24|26|DET 25|26|MOD 26|22|OBJ 27|26|NJCT 28|27|POBJ 29|30|JCT
+	30|32|LINK 31|32|SUBJ 32|26|CMOD 33|34|INF 34|32|COMP 35|34|JCT
+	36|38|DET 37|38|MOD 38|35|POBJ 39|34|COM 40|39|CONJ 41|40|COORD 42|41|NJCT
+	43|42|POBJ 44|47|SUBJ 45|47|AUX 46|47|JCT 47|41|CMOD 48|49|DET 49|47|OBJ
+	50|47|JCT 51|52|DET 52|50|POBJ 53|9|PUNCT
+*S5:	&-um and then you know if you wanna just have a single key (.)
+	&{l=DEVICE_SPEAKING I like money .
+%mor:	coord|and adv:tem|then pro:per|you v|know comp|if pro:per|you
+	v|want~inf|to adj|just v|have det:art|a adj|single n|key pro:sub|I
+	co|like n|money .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|10|INF
+	9|10|JCT 10|7|COMP 11|13|DET 12|13|MOD 13|10|OBJ 14|16|SUBJ 15|16|COM
+	16|13|CMOD 17|4|PUNCT
+*S5:	&}l=DEVICE_SPEAKING &=laughs:multiple so (.) you can have a single
+	key too .
+%mor:	co|so pro:per|you mod|can v|have det:art|a adj|single n|key adv|too
+	.
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|4|PUNCT
+*S5:	&-um now (.) with Minspeak however (.) <if you> [/] &-um if you
+	have a three key sequence (.) but you also have (.) you have maybe
+	two keys like (.) you know &=pressing_buttons I like to play with
+	Sammy .
+%mor:	adv|now prep|with n:prop|Minspeak adv|however conj|if pro:per|you
+	v|have det:art|a det:num|three n|key n|sequence conj|but pro:per|you
+	adv|also v|have pro:per|you v|have adv|maybe det:num|two n|key-PL
+	prep|like pro:per|you v|know pro:sub|I v|like inf|to v|play
+	prep|with n:prop|Sammy .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|17|JCT 5|7|LINK 6|7|SUBJ 7|17|CJCT
+	8|11|DET 9|10|QUANT 10|11|MOD 11|17|SUBJ 12|15|LINK 13|15|SUBJ 14|15|JCT
+	15|17|CJCT 16|17|SUBJ 17|2|POBJ 18|19|JCT 19|20|QUANT 20|17|OBJ 21|20|NJCT
+	22|21|POBJ 23|20|ENUM 24|25|SUBJ 25|23|COMP 26|27|INF 27|25|COMP
+	28|27|JCT 29|28|POBJ 30|1|PUNCT
+*S5:	&{l=DEVICE_SPEAKING I want to play with Sammy .
+%mor:	pro:sub|I v|want prep|to n|play prep|with n:prop|Sammy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|5|POBJ 7|2|PUNCT
+*S5:	&}l=DEVICE_SPEAKING okay (.) but you also wanna say let's play (.)
+	and maybe you don't wanna say with Sammy or with another friend .
+%mor:	co|okay conj|but pro:per|you adv|also v|want~inf|to co|say
+	v|let~pro:obj|us v|play coord|and adv|maybe pro:per|you
+	mod|do~neg|not v|want~inf|to co|say prep|with n:prop|Sammy coord|or
+	prep|with qn|another n|friend .
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|8|INF 7|8|COM 8|5|COMP
+	9|8|OBJ 10|8|COMP 11|10|CONJ 12|16|JCT 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|11|COORD 17|18|INF 18|16|COMP 19|18|JCT 20|19|POBJ 21|19|CONJ 22|21|COORD
+	23|24|QUANT 24|22|POBJ 25|5|PUNCT
+*S5:	&=pressing_buttons &{l=DEVICE_SPEAKING let's play .
+%mor:	v|let~pro:obj|us v|play .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*S5:	&}l=DEVICE_SPEAKING you actually have to press the last button
+	twice .
+%mor:	pro:per|you adv|actual&dadj-LY v|have inf|to v|press det:art|the
+	adj|last n|button adv|twice .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|JCT 10|3|PUNCT
+*S5:	so you know the more complex you get with these sequences (.) the
+	more cognitive ability your user needs to have .
+%mor:	co|so pro:per|you v|know det:art|the qn|more n|complex pro:per|you
+	v|get prep|with det:dem|these n|sequence-PL det:art|the adv|more
+	adj|cognitive n|able&dadj-ITY det:poss|your n|use&dv-AGT v|need-3S
+	inf|to v|have .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|8|SUBJ 8|3|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|15|DET 13|14|JCT 14|15|MOD 15|8|OBJ
+	16|17|DET 17|18|SUBJ 18|15|CMOD 19|20|INF 20|18|COMP 21|3|PUNCT
+*S5:	and &-um that gets into the toolbox a little bit .
+%mor:	coord|and pro:dem|that v|get-3S prep|into det:art|the
+	n|+n|tool+n|box det:art|a adj|little n|bit .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|DET 8|9|MOD
+	9|3|JCT 10|3|PUNCT
+*S5:	we can change (.) how much we need &-um how much cognitive ability
+	we need to be able to use this .
+%mor:	pro:sub|we mod|can v|change pro:int|how adv|much pro:sub|we v|need
+	pro:int|how adv|much adj|cognitive n|able&dadj-ITY pro:sub|we v|need
+	inf|to cop|be adj|able inf|to v|use pro:dem|this .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|LINK 5|7|JCT 6|7|SUBJ 7|3|COMP 8|10|JCT
+	9|10|JCT 10|11|MOD 11|7|OBJ 12|13|SUBJ 13|3|CJCT 14|15|INF 15|13|COMP
+	16|15|PRED 17|18|INF 18|16|XMOD 19|18|OBJ 20|3|PUNCT
+*S5:	&-um what you actually do is you go into your little control panel
+	here and you want to press this option select until you get to the
+	tools (.) &=pressing_buttons and now we're in the toolbox .
+%mor:	pro:int|what pro:per|you adv|actual&dadj-LY v|do cop|be&3S
+	pro:per|you v|go prep|into det:poss|your adj|little n|control
+	n|panel adv|here coord|and pro:per|you v|want inf|to v|press
+	det:dem|this n|option adj|select conj|until pro:per|you v|get
+	prep|to det:art|the n|tool-PL coord|and adv|now
+	pro:sub|we~cop|be&PRES prep|in det:art|the n|+n|tool+n|box .
+%gra:	1|4|OBJ 2|4|SUBJ 3|4|JCT 4|7|PRED 5|4|OBJ 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|POBJ 13|7|JCT 14|7|CONJ 15|16|SUBJ
+	16|14|COORD 17|18|INF 18|16|COMP 19|20|DET 20|18|OBJ 21|20|POSTMOD 22|24|LINK
+	23|24|SUBJ 24|7|CJCT 25|24|JCT 26|27|DET 27|25|POBJ 28|31|LINK 29|31|JCT
+	30|31|SUBJ 31|24|CJCT 32|31|JCT 33|34|DET 34|32|POBJ 35|7|PUNCT
+*S5:	so what I'm gonna do (.) is open it up +...
+%mor:	co|so pro:int|what pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|do
+	aux|be&3S adj|open pro:per|it adv|up +...
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|8|PRED 10|9|OBJ 11|10|JCT 12|5|PUNCT
+*S5:	&=pressing_buttons and (.) right now as you can see there are some
+	buttons lit up .
+%mor:	coord|and adv|right adv|now prep|as pro:per|you mod|can v|see
+	adv|there cop|be&PRES qn|some n|button-PL v|light&PAST adv|up .
+%gra:	1|7|LINK 2|3|JCT 3|7|JCT 4|6|COORD 5|4|POBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|COMP 10|11|QUANT 11|12|SUBJ 12|9|COMP 13|12|JCT 14|7|PUNCT
+*S5:	and each of these &-uh things has like a name on it .
+%mor:	coord|and qn|each prep|of det:dem|these n|thing-PL aux|have&3S
+	prep|like det:art|a n|name prep|on pro:per|it .
+%gra:	1|6|LINK 2|6|QUANT 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|6|PUNCT
+*S5:	and &-um there's &-uh like this one here is the setting the
+	scanning speed .
+%mor:	coord|and pro:exist|there~cop|be&3S prep|like pro:dem|this
+	pro:indef|one adv|here cop|be&3S det:art|the n:gerund|set-PRESP
+	det:art|the part|scan-PRESP n|speed .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|JCT 8|3|CJCT
+	9|10|DET 10|8|PRED 11|13|DET 12|13|MOD 13|10|OBJ 14|3|PUNCT
+*S5:	you can also scan with this &-um setting the
+	acceptance time that's actually (.) how long you can hold down a
+	button before it actually activates .
+%mor:	pro:per|you mod|can adv|also v|scan prep|with det:dem|this
+	part|set-PRESP det:art|the n|acceptance n|time
+	pro:rel|that~cop|be&3S adv|actual&dadj-LY pro:int|how adj|long
+	pro:per|you mod|can v|hold prep|down det:art|a n|button prep|before
+	pro:per|it adv|actual&dadj-LY v|activate-3S .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|XMOD 8|10|DET
+	9|10|MOD 10|7|OBJ 11|12|LINK 12|10|CMOD 13|18|JCT 14|15|JCT 15|18|PRED
+	16|18|SUBJ 17|18|AUX 18|12|CPRED 19|18|JCT 20|21|DET 21|19|POBJ 22|18|JCT
+	23|22|POBJ 24|25|JCT 25|18|CJCT 26|4|PUNCT
+*S5:	and let's say we wanna set
+	that acceptance time (.) &=pressing_buttons to something a little
+	bit slower (.) so let's make it (.) to point oh [: zero] five .
+%mor:	coord|and v|let~pro:obj|us v|say pro:sub|we v|want~inf|to
+	v|set&ZERO pro:dem|that n|acceptance n|time prep|to
+	pro:indef|something det:art|a adj|little n|bit adv|slow-CP co|so
+	v|let~pro:obj|us v|make pro:per|it prep|to n|point det:num|zero
+	det:num|five .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|SUBJ 6|4|COMP 7|8|INF 8|6|COMP
+	9|11|DET 10|11|MOD 11|8|OBJ 12|11|NJCT 13|19|LINK 14|16|DET 15|16|MOD
+	16|19|SUBJ 17|19|JCT 18|19|COM 19|12|POBJ 20|19|OBJ 21|19|COMP 22|21|OBJ
+	23|21|JCT 24|26|MOD 25|26|QUANT 26|23|POBJ 27|2|PUNCT
+*S5:	the standard's point oh [: zero] one so it's basically a press and
+	a release .
+%mor:	det:art|the adj|standard&dn-POSS n|point det:num|zero det:num|one
+	adv|so pro:per|it~cop|be&3S adv|basic&dadj-AL-LY det:art|a n|press
+	coord|and det:art|a n|release .
+%gra:	1|3|DET 2|3|MOD 3|8|SUBJ 4|5|QUANT 5|6|QUANT 6|8|JCT 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|11|CONJ 13|14|DET 14|12|COORD 15|8|PUNCT
+*S5:	&-um you can also set &-um different types of scanning you can if
+	you want to do a row column scan you do need to have an external &s
+	you need to have a switch for that (.) and &-uh there's no switch
+	here to really demonstrate it .
+%mor:	pro:per|you mod|can adv|also n|set adj|different n|type-PL prep|of
+	part|scan-PRESP pro:per|you mod|can conj|if pro:per|you v|want
+	inf|to v|do det:art|a n|row n|column n|scan pro:per|you v|do v|need
+	inf|to v|have det:art|a adj|external pro:per|you v|need inf|to
+	v|have det:art|a n|switch prep|for pro:dem|that coord|and
+	pro:exist|there~cop|be&3S qn|no n|switch adv|here inf|to
+	adv|real&dadj-LY v|demonstrate pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|NJCT 8|7|POBJ
+	9|13|SUBJ 10|13|AUX 11|13|LINK 12|13|SUBJ 13|8|COMP 14|15|INF 15|13|COMP
+	16|19|DET 17|18|MOD 18|19|MOD 19|15|OBJ 20|21|SUBJ 21|13|COMP 22|21|OBJ
+	23|24|INF 24|22|COMP 25|26|DET 26|24|OBJ 27|28|SUBJ 28|26|CMOD
+	29|30|INF 30|28|COMP 31|32|DET 32|30|OBJ 33|30|JCT 34|33|POBJ 35|37|LINK
+	36|37|SUBJ 37|26|CJCT 38|39|QUANT 39|37|PRED 40|39|NJCT 41|43|INF 42|43|JCT
+	43|40|COMP 44|43|OBJ 45|6|PUNCT
+*S5:	but &-um basically it would you know it just scans across the rows
+	(.) and then you select the row with your switch and then it would
+	scan across the columns .
+%mor:	conj|but adv|basic&dadj-AL-LY pro:per|it mod|will&COND pro:per|you
+	v|know pro:per|it adv|just v|scan-3S prep|across det:art|the
+	n|row-PL coord|and adv:tem|then pro:per|you v|select det:art|the
+	n|row prep|with det:poss|your n|switch coord|and adv:tem|then
+	pro:per|it mod|will&COND v|scan prep|across det:art|the n|column-PL
+	.
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|9|JCT
+	9|6|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|16|LINK 14|16|JCT 15|16|SUBJ
+	16|9|CJCT 17|18|DET 18|16|OBJ 19|16|JCT 20|21|DET 21|19|POBJ 22|26|LINK
+	23|26|JCT 24|26|SUBJ 25|26|AUX 26|9|CJCT 27|26|JCT 28|29|DET 29|27|POBJ
+	30|6|PUNCT
+*S5:	&-um but you can also make it do a circular or linear (.) motion so
+	if you had maybe four (.) instead of thirty two buttons you might
+	have four or eight it might make more sense to just make it go in a
+	circle and just scan each one .
+%mor:	conj|but pro:per|you mod|can adv|also v|make pro:per|it v|do
+	det:art|a n|circular coord|or adj|linear n|motion adv|so conj|if
+	pro:per|you v|have&PAST adv|maybe det:num|four adv|instead prep|of
+	det:num|thirty det:num|two n|button-PL pro:per|you mod|might v|have
+	det:num|four coord|or det:num|eight pro:per|it mod|might v|make
+	adv|more n|sense inf|to adj|just v|make pro:per|it v|go prep|in
+	det:art|a n|circle coord|and adv|just n|scan qn|each pro:indef|one .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|7|CJCT 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|9|CONJ 11|12|MOD 12|10|COORD 13|14|JCT 14|16|LINK 15|16|SUBJ
+	16|7|CJCT 17|18|JCT 18|32|QUANT 19|26|JCT 20|19|JCT 21|23|QUANT
+	22|23|QUANT 23|20|POBJ 24|26|SUBJ 25|26|AUX 26|32|CJCT 27|26|OBJ 28|27|CONJ
+	29|28|COORD 30|32|SUBJ 31|32|AUX 32|16|COMP 33|32|JCT 34|33|POBJ 35|37|INF
+	36|37|JCT 37|34|XMOD 38|39|SUBJ 39|37|COMP 40|39|JCT 41|42|DET 42|40|POBJ
+	43|39|CONJ 44|45|JCT 45|43|COORD 46|47|QUANT 47|45|OBJ 48|7|PUNCT
+*S5:	&-um the lights you can either put on with auto or you can put it
+	on hold &-um auto means that it'll come on (.) when &-uh they'll
+	come on when selected and hold it'll stay on &-um let's see here
+	&-uh +//.
+%mor:	det:art|the n|light-PL pro:per|you mod|can adv|either
+	part|put&PASTP adv|on prep|with n|auto coord|or pro:per|you mod|can
+	v|put&ZERO pro:per|it prep|on n|hold n|auto v|mean-3S adv|that
+	pro:per|it~mod|will v|come adv|on conj|when pro:sub|they~mod|will
+	v|come adv|on conj|when v|select-PAST coord|and n|hold
+	pro:per|it~mod|will v|stay adv|on v|let~pro:obj|us v|see adv|here
+	+//.
+%gra:	1|2|DET 2|0|INCROOT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|2|CMOD 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|6|CJCT 14|13|OBJ 15|13|JCT
+	16|15|POBJ 17|18|SUBJ 18|13|COMP 19|22|JCT 20|22|SUBJ 21|22|AUX 22|18|COMP
+	23|22|JCT 24|27|LINK 25|27|SUBJ 26|27|AUX 27|37|CJCT 28|27|JCT
+	29|30|LINK 30|37|CJCT 31|30|CONJ 32|31|COORD 33|35|SUBJ 34|35|AUX 35|32|CMOD
+	36|35|JCT 37|22|COMP 38|37|OBJ 39|37|COMP 40|39|JCT 41|2|PUNCT
+*S5:	what there was one thing I wanted to +//.
+%mor:	pro:int|what adv|there cop|be&PAST&13S det:num|one n|thing
+	pro:sub|I v|want-PAST prep|to +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|7|JCT 4|5|QUANT 5|3|PRED 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+*S5:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S5:	the biggest (.) the +...
+%mor:	det:art|the adj|big-SP det:art|the +...
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|PUNCT
+*S5:	&-um the icon &sel prediction and selection we wanna make sure
+	these two things are on .
+%mor:	det:art|the n|icon n|prediction coord|and n|selection pro:sub|we
+	v|want~inf|to v|make adj|sure det:dem|these det:num|two n|thing-PL
+	cop|be&PRES prep|on .
+%gra:	1|3|DET 2|3|MOD 3|7|JCT 4|3|CONJ 5|4|COORD 6|7|SUBJ 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|PRED 11|13|DET 12|13|QUANT 13|14|SUBJ 14|10|CMOD 15|14|JCT
+	16|7|PUNCT
+*S5:	&-uh what this does is actually it'll only light up +//.
+%mor:	pro:int|what det:dem|this mod|do&3S aux|be&3S adv|actual&dadj-LY
+	pro:per|it~mod|will adv|only v|light adv|up +//.
+%gra:	1|9|LINK 2|9|SUBJ 3|9|AUX 4|9|AUX 5|9|JCT 6|9|SUBJ 7|9|AUX 8|9|JCT
+	9|0|ROOT 10|9|JCT 11|9|PUNCT
+*S5:	the icon prediction will only light up things that are active so
+	things that you've stored messages in .
+%mor:	det:art|the n|icon n|prediction mod|will adv|only adj|light adv|up
+	n|thing-PL pro:rel|that cop|be&PRES adj|active adv|so n|thing-PL
+	pro:rel|that pro:per|you~aux|have part|store-PASTP n|message-PL
+	adv|in .
+%gra:	1|3|DET 2|3|MOD 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|10|LINK 10|8|CMOD 11|10|PRED 12|10|JCT 13|12|POBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|13|CMOD 18|17|OBJ 19|17|JCT 20|6|PUNCT
+*S5:	so if I stored a message in +...
+%mor:	adv|so conj|if pro:sub|I v|store-PAST det:art|a n|message adv|in
+	+...
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*S5:	in this little guy here (.) his light would be on .
+%mor:	prep|in det:dem|this adj|little n|guy adv|here det:poss|his n|light
+	mod|will&COND cop|be prep|on .
+%gra:	1|9|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|9|JCT 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|9|PUNCT
+*S5:	but let's say we don't have any messages stored under this one here
+	(.) as the first key (.) then that light wouldn't be on okay ?
+%mor:	conj|but v|let~pro:obj|us v|say pro:sub|we mod|do~neg|not v|have
+	qn|any n|message-PL v|store-PAST prep|under det:dem|this
+	pro:indef|one adv|here prep|as det:art|the adj|first n|key
+	adv:tem|then adv|that adj|light mod|will&COND~neg|not cop|be prep|on
+	co|okay ?
+%gra:	1|2|LINK 2|8|CJCT 3|2|OBJ 4|2|COMP 5|8|SUBJ 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|10|QUANT 10|11|SUBJ 11|8|COMP 12|11|JCT 13|14|DET 14|12|POBJ 15|11|JCT
+	16|25|JCT 17|19|DET 18|19|MOD 19|25|SUBJ 20|25|JCT 21|22|JCT 22|25|SUBJ
+	23|25|AUX 24|23|NEG 25|11|CJCT 26|25|JCT 27|26|POBJ 28|8|PUNCT
+*S5:	and then as soon as I press him (.) anything that (.) is [/] is a
+	second button after him in that sequence will light up .
+%mor:	coord|and adv:tem|then conj|as adv|soon conj|as pro:sub|I v|press
+	pro:obj|him pro:indef|anything pro:rel|that cop|be&3S det:art|a
+	adj|second n|button prep|after pro:obj|him prep|in det:dem|that
+	n|sequence mod|will v|light adv|up .
+%gra:	1|7|LINK 2|7|JCT 3|4|COORD 4|7|JCT 5|7|LINK 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|7|OBJ 10|11|LINK 11|9|CMOD 12|14|DET 13|14|MOD 14|21|SUBJ 15|14|NJCT
+	16|15|POBJ 17|14|NJCT 18|19|DET 19|17|POBJ 20|21|AUX 21|11|CPRED 22|21|JCT
+	23|7|PUNCT
+*S5:	so you'll kinda see well (.) after him I can press maybe there's
+	four buttons and I'll show you that in a minute .
+%mor:	adv|so pro:per|you~mod|will adv|kinda v|see adv|well prep|after
+	pro:obj|him pro:sub|I mod|can v|press adv|maybe
+	pro:exist|there~cop|be&3S det:num|four n|button-PL coord|and
+	pro:sub|I~mod|will v|show pro:per|you pro:dem|that prep|in det:art|a
+	n|minute .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|11|CJCT 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|11|JCT 13|14|SUBJ 14|11|COMP 15|16|QUANT
+	16|14|PRED 17|20|LINK 18|20|SUBJ 19|20|AUX 20|16|CJCT 21|22|SUBJ
+	22|20|OBJ 23|22|JCT 24|25|DET 25|23|POBJ 26|11|PUNCT
+*S5:	but then the predictive selection &-um turns on only those keys
+	that have the light lit .
+%mor:	conj|but adv:tem|then det:art|the adj|predictive n|selection
+	v|turn-3S prep|on qn|only det:dem|those n|key-PL pro:rel|that v|have
+	det:art|the n|light n|lit .
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|10|QUANT
+	9|10|DET 10|7|POBJ 11|12|LINK 12|10|CMOD 13|15|DET 14|15|MOD 15|12|OBJ
+	16|6|PUNCT
+*S5:	so if I press a button that doesn't have a light on (.) it won't
+	even recognize that I've pressed that button .
+%mor:	co|so conj|if pro:sub|I v|press det:art|a n|button adv|that
+	mod|do&3S~neg|not v|have det:art|a n|light prep|on pro:per|it
+	mod|will~neg|not adv|even v|recognize comp|that pro:sub|I~aux|have
+	part|press-PASTP det:dem|that n|button .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|JCT 8|10|AUX
+	9|8|NEG 10|4|COMP 11|12|DET 12|10|OBJ 13|10|JCT 14|18|SUBJ 15|18|AUX
+	16|15|NEG 17|18|JCT 18|13|CPOBJ 19|22|LINK 20|22|SUBJ 21|22|AUX 22|18|COMP
+	23|24|DET 24|22|OBJ 25|4|PUNCT
+*S5:	so it kinda helps you if you're making mistakes or anything like
+	that .
+%mor:	co|so pro:per|it adv|kinda v|help-3S pro:per|you comp|if
+	pro:per|you~cop|be&PRES n:gerund|make-PRESP n|mistake-PL coord|or
+	pro:indef|anything prep|like pro:dem|that .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|4|COMP
+	9|8|PRED 10|9|OBJ 11|10|CONJ 12|11|COORD 13|12|NJCT 14|13|POBJ 15|4|PUNCT
+*S5:	and then you can also &-um &=pressing_buttons turn on or off the
+	beep feedback which I'm going to turn off right now .
+%mor:	coord|and adv:tem|then pro:per|you mod|can adv|also v|turn adv|on
+	coord|or prep|off det:art|the n|beep n|feedback pro:rel|which
+	pro:sub|I~aux|be&1S part|go-PRESP prep|to n|turn adv|off adv|right
+	adv|now .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|6|CONJ
+	9|8|COORD 10|12|DET 11|12|MOD 12|9|POBJ 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|12|CMOD 17|16|JCT 18|17|POBJ 19|16|JCT 20|21|JCT 21|16|JCT 22|6|PUNCT
+*S5:	so then we put this guy back on +...
+%mor:	adv|so adv:tem|then pro:sub|we v|put&ZERO det:dem|this n|guy
+	adv|back adv|on +...
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|JCT
+	9|4|PUNCT
+*S5:	and he's upside+down +...
+%mor:	coord|and pro:sub|he~cop|be&3S adv|+n|upside+adv|down +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*S5:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S5:	then we need to get outta the toolbox .
+%mor:	adv:tem|then pro:sub|we v|need inf|to v|get prep|outta det:art|the
+	n|+n|tool+n|box .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*S5:	(0.8) alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S5:	and then you have to press a key to activate (.) now I'm gonna put
+	(.) I'm gonna put the head pointer in just so I can show you a
+	little bit how that works .
+%mor:	coord|and adv:tem|then pro:per|you v|have inf|to v|press det:art|a
+	n|key inf|to v|activate adv|now pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to part|put&PASTP pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|put&ZERO det:art|the n|head n|point&dv-AGT
+	adv|in adv|just co|so pro:sub|I mod|can v|show pro:per|you det:art|a
+	adj|little n|bit pro:rel|how adv|that n|work-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|10|INF 10|6|XJCT 11|10|JCT 12|14|SUBJ 13|14|AUX 14|10|COMP 15|16|INF
+	16|14|XJCT 17|19|SUBJ 18|19|AUX 19|16|COMP 20|21|INF 21|19|COMP 22|24|DET
+	23|24|MOD 24|21|OBJ 25|21|JCT 26|27|JCT 27|30|COM 28|30|SUBJ 29|30|AUX
+	30|21|COMP 31|30|OBJ 32|34|DET 33|34|MOD 34|30|JCT 35|37|LINK 36|37|JCT
+	37|34|CMOD 38|4|PUNCT
+*S5:	and we have [/] have to turn the head pointing on which it is
+	actually (.) already .
+%mor:	coord|and pro:sub|we v|have prep|to n|turn det:art|the n|head
+	part|point-PRESP adv|on pro:rel|which pro:per|it cop|be&3S
+	adv|actual&dadj-LY adv|already .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|DET 7|3|OBJ 8|7|XMOD
+	9|8|JCT 10|12|LINK 11|12|SUBJ 12|7|CMOD 13|12|JCT 14|12|JCT 15|3|PUNCT
+*S5:	and normally this would be attached to some sort of like &-um
+	headband or something to kinda control it with your head (.) but
+	since it's you know that'd be kind of difficult for you to see I'm
+	actually just gonna (.) use my hand .
+%mor:	coord|and adv|normal&dadj-LY pro:dem|this mod|will&COND aux|be
+	part|attach-PASTP prep|to qn|some n|sort prep|of co|like
+	n|+n|head+n|band coord|or pro:indef|something inf|to adv|kinda
+	v|control pro:per|it prep|with det:poss|your adj|head conj|but
+	conj|since pro:per|it~cop|be&3S pro:per|you v|know
+	comp|that~mod|genmod cop|be n|kind prep|of adj|difficult prep|for
+	pro:per|you inf|to v|see pro:sub|I~aux|be&1S adv|actual&dadj-LY
+	adv|just part|go-PRESP~inf|to v|use det:poss|my n|hand .
+%gra:	1|6|LINK 2|3|JCT 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|QUANT
+	9|7|POBJ 10|9|NJCT 11|12|COM 12|10|POBJ 13|12|CONJ 14|13|COORD 15|17|INF
+	16|17|JCT 17|14|XMOD 18|17|OBJ 19|17|JCT 20|21|DET 21|19|POBJ 22|27|LINK
+	23|25|LINK 24|25|SUBJ 25|27|CJCT 26|27|SUBJ 27|6|CJCT 28|30|LINK
+	29|30|AUX 30|27|COMP 31|30|PRED 32|31|NJCT 33|32|POBJ 34|30|JCT 35|37|SUBJ
+	36|37|INF 37|34|CPOBJ 38|42|SUBJ 39|42|AUX 40|42|JCT 41|42|JCT 42|37|COMP
+	43|44|INF 44|42|COMP 45|46|DET 46|44|OBJ 47|6|PUNCT
+*S5:	and it is actually very difficult I tried it and I had a very
+	difficult time targeting and holding it there and everything like
+	that .
+%mor:	coord|and pro:per|it cop|be&3S adv|actual&dadj-LY adv|very
+	adj|difficult pro:sub|I v|try-PAST pro:per|it coord|and pro:sub|I
+	v|have&PAST det:art|a adv|very adj|difficult n|time
+	part|target-PRESP coord|and part|hold-PRESP pro:per|it adv|there
+	coord|and pro:indef|everything prep|like pro:dem|that .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|PRED 7|8|SUBJ 8|3|CJCT
+	9|3|PRED 10|12|LINK 11|12|SUBJ 12|9|CJCT 13|16|DET 14|15|JCT 15|16|MOD
+	16|12|OBJ 17|16|XMOD 18|17|CONJ 19|18|COORD 20|19|OBJ 21|19|JCT 22|19|CONJ
+	23|22|COORD 24|23|NJCT 25|24|POBJ 26|3|PUNCT
+*S5:	so let's say we wanna say &-um (0.8) &{l=DEVICE_SPEAKING who's that
+	?
+%mor:	adv|so v|let~pro:obj|us v|say pro:sub|we v|want~inf|to co|say
+	pro:int|who~cop|be&3S pro:dem|that ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|SUBJ 6|2|CJCT 7|8|INF 8|10|COM
+	9|10|SUBJ 10|6|COMP 11|10|PRED 12|2|PUNCT
+*S5:	&}l=DEVICE_SPEAKING who's that so we have the question mark (.) we
+	hadta find it hold it (.) find it hold it (.) &{l=DEVICE_SPEAKING
+	who's that ?
+%mor:	pro:int|who~cop|be&3S adv|that conj|so pro:sub|we v|have
+	det:art|the n|question n|mark pro:sub|we mod|have&PAST~inf|to v|find
+	pro:per|it v|hold pro:per|it v|find pro:per|it v|hold pro:per|it
+	pro:int|who~cop|be&3S pro:dem|that ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|13|SUBJ 11|13|AUX 12|13|INF 13|9|CMOD 14|15|SUBJ 15|13|COMP
+	16|15|OBJ 17|15|JCT 18|17|OBJ 19|17|JCT 20|19|OBJ 21|22|SUBJ 22|19|COMP
+	23|22|PRED 24|2|PUNCT
+*S5:	&}l=DEVICE_SPEAKING and it would it'd tell you [/] &wh you know ask
+	who's that ?
+%mor:	coord|and pro:per|it mod|will&COND pro:per|it~mod|genmod v|tell
+	pro:per|you v|know v|ask pro:int|who~cop|be&3S pro:dem|that ?
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|ENUM
+	9|8|COMP 10|11|SUBJ 11|9|COMP 12|11|PRED 13|6|PUNCT
+*S5:	&-um so basically it's [/] it's very similar to pressing the button
+	(.) and when the head pointer's on you can also press buttons .
+%mor:	adv|so adv|basic&dadj-AL-LY pro:per|it~cop|be&3S adv|very
+	adj|similar prep|to n:gerund|press-PRESP det:art|the n|button
+	coord|and conj|when det:art|the n|head n|point&dv-AGT~cop|be&3S
+	prep|on pro:per|you mod|can adv|also n|press n|button-PL .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|JCT 8|7|POBJ
+	9|10|DET 10|8|OBJ 11|10|CONJ 12|16|LINK 13|15|DET 14|15|MOD 15|16|SUBJ
+	16|11|COORD 17|16|JCT 18|21|SUBJ 19|21|AUX 20|21|JCT 21|22|MOD 22|17|POBJ
+	23|4|PUNCT
+*S5:	so +...
+%mor:	co|so +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S5:	&=pressing_buttons &{l=DEVICE_SPEAKING I want to play with Ginny .
+%mor:	pro:sub|I v|want prep|to n|play prep|with n:prop|Ginny .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|5|POBJ 7|2|PUNCT
+*S5:	&}l=DEVICE_SPEAKING so anyway that's how the head pointing works .
+%mor:	co|so co|anyway pro:dem|that~cop|be&3S pro:int|how det:art|the
+	n|head part|point-PRESP n|work-PL .
+%gra:	1|3|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|DET 7|5|OBJ 8|7|XMOD
+	9|8|OBJ 10|4|PUNCT
+*S5:	&-um but then you also need to be able to store and retrieve
+	messages .
+%mor:	conj|but adv:tem|then pro:per|you adv|also v|need inf|to cop|be
+	adj|able inf|to v|store coord|and v|retrieve n|message-PL .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|7|PRED
+	9|10|INF 10|8|XMOD 11|10|CONJ 12|11|COORD 13|12|OBJ 14|5|PUNCT
+*S5:	so (.) in_order_to store or retrieve we need to go back into our
+	toolbox (.) and (.) let's say we wanna say (.) hm what do we wanna
+	say ?
+%mor:	adv|so inf|in_order_to v|store coord|or v|retrieve pro:sub|we
+	v|need inf|to v|go adv|back prep|into det:poss|our n|+n|tool+n|box
+	coord|and v|let~pro:obj|us v|say pro:sub|we v|want~inf|to co|say
+	co|hm pro:int|what mod|do pro:sub|we v|want~inf|to co|say ?
+%gra:	1|3|JCT 2|3|INF 3|0|ROOT 4|3|CONJ 5|4|COORD 6|7|SUBJ 7|5|COMP 8|9|INF
+	9|7|COMP 10|9|JCT 11|9|JCT 12|13|DET 13|11|POBJ 14|9|CONJ 15|14|COORD
+	16|15|OBJ 17|15|COMP 18|19|SUBJ 19|3|CJCT 20|21|INF 21|26|COM 22|26|COM
+	23|26|OBJ 24|26|AUX 25|26|SUBJ 26|19|COMP 27|28|INF 28|26|COMP 29|3|PUNCT
+*S5:	let's just make a [/] a simple one .
+%mor:	v|let~pro:obj|us adv|just v|make det:art|a adj|simple pro:indef|one
+	.
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|1|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|1|PUNCT
+*S5:	and we're just gonna do one button .
+%mor:	coord|and pro:sub|we~aux|be&PRES adv|just part|go-PRESP~inf|to v|do
+	det:num|one n|button .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|9|QUANT
+	9|7|OBJ 10|5|PUNCT
+*S5:	so I'm gonna press store (.) that light comes on (.) and then all I
+	do is I press (.) the key sequence I want (.) and then I press
+	record .
+%mor:	adv|so pro:sub|I~aux|be&1S part|go-PRESP~prep|to n|press n|store
+	det:dem|that n|light v|come-3S adv|on coord|and adv:tem|then adv|all
+	pro:sub|I v|do cop|be&3S pro:sub|I v|press det:art|the n|key
+	n|sequence pro:sub|I v|want coord|and adv:tem|then pro:sub|I n|press
+	n|record .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|10|XJCT 5|4|JCT 6|7|MOD 7|5|POBJ 8|9|DET
+	9|10|SUBJ 10|0|ROOT 11|10|JCT 12|19|LINK 13|16|JCT 14|16|JCT 15|16|SUBJ
+	16|19|CJCT 17|16|OBJ 18|19|SUBJ 19|10|CJCT 20|22|DET 21|22|MOD 22|19|OBJ
+	23|24|SUBJ 24|10|CJCT 25|10|CONJ 26|29|JCT 27|29|MOD 28|29|MOD 29|25|COORD
+	30|10|PUNCT
+*S5:	&=pushing_button cool .
+%mor:	adj|cool .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S5:	oop (.) my memory's full .
+%mor:	co|oop det:poss|my adj|memory&dn-POSS adj|full .
+%gra:	1|4|COM 2|3|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*S5:	so I actually have to go through and erase something if I want to
+	go and store that .
+%mor:	co|so pro:sub|I adv|actual&dadj-LY v|have inf|to v|go adv|through
+	coord|and v|erase pro:indef|something conj|if pro:sub|I v|want
+	inf|to v|go coord|and v|store pro:dem|that .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|CONJ
+	9|8|COORD 10|9|OBJ 11|13|LINK 12|13|SUBJ 13|4|CJCT 14|15|INF 15|13|COMP
+	16|15|CONJ 17|16|COORD 18|17|OBJ 19|4|PUNCT
+*S5:	so what we're gonna do is we're gonna press a key here (0.4)
+	&{l=DEVICE_SPEAKING I want to play with Sammy .
+%mor:	adv|so pro:int|what pro:sub|we~aux|be&PRES part|go-PRESP~inf|to
+	v|do cop|be&3S pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|press
+	det:art|a n|key adv|here pro:sub|I v|want prep|to n|play prep|with
+	n:prop|Sammy .
+%gra:	1|5|JCT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|11|SUBJ 10|11|AUX 11|8|CPRED 12|13|INF 13|11|COMP 14|15|DET 15|13|OBJ
+	16|13|JCT 17|18|SUBJ 18|11|CJCT 19|20|INF 20|18|OBJ 21|20|NJCT 22|21|POBJ
+	23|5|PUNCT
+*S5:	&}l=DEVICE_SPEAKING and we're gonna erase that .
+%mor:	coord|and pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|erase
+	pro:dem|that .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*S5:	so all I have to do is (.) press the key sequence press erase (.)
+	it'll beep and then I press erase again (.) and then it goes through
+	and erases .
+%mor:	adv|so pro:indef|all pro:sub|I v|have inf|to v|do cop|be&3S v|press
+	det:art|the n|key n|sequence n|press v|erase pro:per|it~mod|will
+	n|beep coord|and adv:tem|then pro:sub|I v|press v|erase adv|again
+	coord|and adv:tem|then pro:per|it v|go-3S prep|through coord|and
+	v|erase-3S .
+%gra:	1|4|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|12|DET 10|11|MOD 11|12|MOD 12|13|SUBJ 13|8|COMP 14|16|SUBJ 15|16|AUX
+	16|13|OBJ 17|16|CONJ 18|17|COORD 19|20|SUBJ 20|4|CJCT 21|20|OBJ 22|21|JCT
+	23|26|LINK 24|26|JCT 25|26|SUBJ 26|21|CJCT 27|26|JCT 28|27|CONJ
+	29|28|COORD 30|4|PUNCT
+*S5:	now if you want to review every single one of the messages and you
+	want to erase them one by one (.) it takes a very long time because
+	you just press this review button (.) and you &k and it basically
+	will go through at this corner and go through every single
+	combination that you have for this one button here .
+%mor:	adv|now conj|if pro:per|you v|want inf|to v|review qn|every
+	adj|single det:num|one prep|of det:art|the n|message-PL coord|and
+	pro:per|you v|want inf|to v|erase pro:obj|them pro:indef|one adv|by
+	det:num|one pro:per|it v|take-3S det:art|a adv|very adj|long n|time
+	conj|because pro:per|you adj|just n|press det:dem|this n|review
+	n|button coord|and pro:per|you coord|and pro:per|it
+	adv|basic&dadj-AL-LY mod|will v|go adv|through prep|at det:dem|this
+	n|corner coord|and v|go adv|through qn|every adj|single
+	n|combine&dv-TION comp|that pro:per|you v|have prep|for det:dem|this
+	det:num|one n|button adv|here .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|6|INF 6|4|COMP 7|8|QUANT
+	8|15|JCT 9|15|SUBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|9|CONJ 14|13|COORD
+	15|6|COMP 16|17|INF 17|15|COMP 18|17|OBJ 19|17|OBJ 20|21|JCT 21|23|QUANT
+	22|23|SUBJ 23|19|CMOD 24|27|DET 25|26|JCT 26|27|MOD 27|23|OBJ 28|31|LINK
+	29|31|SUBJ 30|31|MOD 31|4|CJCT 32|34|DET 33|34|MOD 34|31|OBJ 35|34|CONJ
+	36|41|SUBJ 37|41|LINK 38|41|SUBJ 39|41|JCT 40|41|AUX 41|35|COORD 42|41|JCT
+	43|41|JCT 44|45|DET 45|43|POBJ 46|41|CONJ 47|46|COORD 48|47|JCT
+	49|51|QUANT 50|51|MOD 51|47|OBJ 52|54|LINK 53|54|SUBJ 54|51|CMOD 55|54|JCT
+	56|58|DET 57|58|QUANT 58|55|POBJ 59|54|JCT 60|1|PUNCT
+*S5:	so (.) it and it'll (.) if it stops erasing .
+%mor:	co|so pro:per|it coord|and pro:per|it~mod|will conj|if pro:per|it
+	n|stop-PL part|erase-PRESP .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|6|SUBJ 5|6|AUX 6|3|COORD 7|6|POBJ
+	8|7|OBJ 9|8|XMOD 10|1|PUNCT
+*S5:	it takes a while to actually erase the messages once that erase
+	light goes out I can continue .
+%mor:	pro:per|it v|take-3S det:art|a n|while inf|to adv|actual&dadj-LY
+	v|erase det:art|the n|message-PL adv|once pro:rel|that v|erase
+	n|light v|go-3S adv|out pro:sub|I mod|can v|continue .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|INF 6|7|JCT 7|2|COMP 8|9|DET
+	9|7|OBJ 10|7|JCT 11|12|LINK 12|10|CMOD 13|14|SUBJ 14|12|COMP 15|14|JCT
+	16|18|SUBJ 17|18|AUX 18|12|CJCT 19|2|PUNCT
+*S5:	&-um but that's (.) how you erase and record .
+%mor:	conj|but pro:dem|that~cop|be&3S pro:rel|how pro:per|you v|erase
+	coord|and n|record .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CPRED 7|6|CONJ
+	8|7|COORD 9|3|PUNCT
+*S5:	and (.) you can also &-uh as I was saying <you can use remote> [/]
+	&headsw you can use remote switches you can use &-um like if you
+	have an eight keypad you can use eight different switches that all
+	come in &may maybe have one (.) you know relate to one position on
+	that key pad .
+%mor:	coord|and pro:per|you mod|can adv|also prep|as pro:sub|I
+	aux|be&PAST&13S part|say-PRESP pro:per|you mod|can v|use adj|remote
+	v|switch-3S pro:per|you mod|can n|use co|like conj|if pro:per|you
+	v|have det:art|a det:num|eight n|+n|key+n|pad pro:per|you mod|can
+	v|use det:num|eight adj|different n|switch-PL comp|that qn|all
+	v|come adv|in adv|maybe v|have det:num|one pro:per|you v|know
+	v|relate prep|to det:num|one n|position prep|on det:dem|that n|key
+	n|pad .
+%gra:	1|8|LINK 2|8|SUBJ 3|8|AUX 4|8|JCT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|11|SUBJ
+	9|8|OBJ 10|11|AUX 11|0|ROOT 12|13|JCT 13|11|COMP 14|16|SUBJ 15|16|AUX
+	16|13|OBJ 17|16|COM 18|20|LINK 19|20|SUBJ 20|11|CJCT 21|23|DET 22|23|QUANT
+	23|20|OBJ 24|26|SUBJ 25|26|AUX 26|23|CMOD 27|29|QUANT 28|29|MOD
+	29|26|OBJ 30|32|LINK 31|32|QUANT 32|29|CMOD 33|32|JCT 34|32|JCT 35|32|XJCT
+	36|38|QUANT 37|38|SUBJ 38|35|COMP 39|38|OBJ 40|39|JCT 41|42|QUANT 42|40|POBJ
+	43|38|JCT 44|46|DET 45|46|MOD 46|43|POBJ 47|11|PUNCT
+*S5:	&-um you can also use this as a keyboard emulator (.) by &-um &pu
+	loading in a specific program into this and putting an (.) overlay
+	with letters on it [/] it hooks into the computer and it also does
+	that &-um you can also (.) alright yeah .
+%mor:	pro:per|you mod|can adv|also v|use pro:dem|this prep|as det:art|a
+	n|+n|key+n|board n|emulator adv|by part|load-PRESP prep|in det:art|a
+	adj|specific n|program prep|into pro:dem|this coord|and
+	part|put-PRESP det:art|a n|overlay prep|with n|letter-PL prep|on
+	pro:per|it v|hook-3S prep|into det:art|the n|compute&dv-AGT
+	coord|and pro:per|it adv|also mod|do&3S pro:dem|that pro:per|you
+	mod|can adv|also adj|alright co|yeah .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|11|JCT 11|4|XJCT 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|11|JCT 17|16|POBJ 18|26|LINK 19|26|XJCT 20|21|DET 21|19|OBJ 22|19|JCT
+	23|22|POBJ 24|26|JCT 25|26|SUBJ 26|11|CJCT 27|26|JCT 28|29|DET 29|27|POBJ
+	30|34|LINK 31|34|SUBJ 32|34|JCT 33|34|AUX 34|11|CJCT 35|38|SUBJ 36|38|AUX
+	37|38|JCT 38|34|PRED 39|38|COM 40|4|PUNCT
+*S5:	here's a reviewing of the messages .
+%mor:	pro:exist|here~cop|be&3S det:art|a n:gerund|review-PRESP prep|of
+	det:art|the n|message-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*S5:	&{l=DEVICE_SPEAKING a@l one .
+%mor:	n:let|a pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*S5:	g@l one .
+%mor:	n:let|g pro:indef|one .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*S5:	do it again .
+%mor:	mod|do pro:per|it adv|again .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|1|PUNCT
+*S5:	a@l one .
+%mor:	n:let|a pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*S5:	h@l one .
+%mor:	n:let|h pro:indef|one .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*S5:	I want it .
+%mor:	pro:sub|I v|want pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*S5:	&}l=DEVICE_SPEAKING now the a@l one h@l one all those things <those
+	are> [/] &-um those are called auditory prompts (.) and you can
+	actually change those you can personalize them to your specific &-um
+	Alpha Talker (.) keyboard .
+%mor:	adv|now det:art|the n:let|a det:num|one n:let|h det:num|one adv|all
+	det:dem|those n|thing-PL det:dem|those aux|be&PRES part|call-PASTP
+	adj|auditor&dn-Y v|prompt-3S coord|and pro:per|you mod|can
+	adv|actual&dadj-LY v|change det:dem|those pro:per|you mod|can
+	v|personal&dadj-IZE pro:obj|them prep|to det:poss|your adj|specific
+	n:prop|Alpha n:prop|Talker n|+n|key+n|board .
+%gra:	1|14|JCT 2|9|DET 3|9|MOD 4|9|QUANT 5|6|DATE 6|9|QUANT 7|9|JCT 8|9|DET
+	9|14|SUBJ 10|12|SUBJ 11|12|AUX 12|14|XJCT 13|14|SUBJ 14|0|ROOT 15|19|LINK
+	16|19|SUBJ 17|19|AUX 18|19|JCT 19|14|CJCT 20|23|DET 21|23|SUBJ
+	22|23|AUX 23|19|COMP 24|23|OBJ 25|23|JCT 26|27|DET 27|30|MOD 28|30|MOD 29|30|MOD
+	30|25|POBJ 31|14|PUNCT
+*S5:	so if you want this auditory prompt to be me (.) then you can
+	change that simply by going into the toolbox (.) selecting your
+	auditory prompts (.) and then going from there .
+%mor:	co|so conj|if pro:per|you v|want det:dem|this adj|auditor&dn-Y
+	adj|prompt inf|to aux|be pro:obj|me adv:tem|then pro:per|you mod|can
+	v|change comp|that adv|simple&dadj-LY prep|by part|go-PRESP
+	prep|into det:art|the n|+n|tool+n|box part|select-PRESP
+	det:poss|your adj|auditor&dn-Y v|prompt-3S coord|and adv:tem|then
+	part|go-PRESP prep|from n|there .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|14|DET 6|14|JCT 7|14|SUBJ 8|9|INF
+	9|14|AUX 10|11|SUBJ 11|14|JCT 12|14|SUBJ 13|14|AUX 14|4|COMP 15|18|LINK
+	16|18|JCT 17|18|JCT 18|14|COMP 19|18|JCT 20|21|DET 21|19|POBJ 22|25|XJCT
+	23|24|DET 24|25|SUBJ 25|18|CJCT 26|25|CONJ 27|28|JCT 28|26|COORD
+	29|28|JCT 30|29|POBJ 31|4|PUNCT
+*S5:	so those things like let's say you couldn't see very well or you
+	couldn't focus on things you could actually have an earphone (.) and
+	you can turn on auditory prompt so anytime you hit something it'll
+	tell you what it is (.) and then you press it again to select it .
+%mor:	adv|so det:dem|those n|thing-PL prep|like v|let~pro:obj|us v|say
+	pro:per|you mod|could~neg|not v|see adv|very adv|well coord|or
+	pro:per|you mod|could~neg|not v|focus prep|on n|thing-PL pro:per|you
+	mod|could adv|actual&dadj-LY v|have det:art|a n|+n|ear+n|phone
+	coord|and pro:per|you mod|can v|turn prep|on adj|auditor&dn-Y
+	v|prompt adv|so adv:tem|anytime pro:per|you v|hit&ZERO
+	pro:indef|something pro:per|it~mod|will v|tell pro:per|you
+	pro:int|what pro:per|it cop|be&3S coord|and adv:tem|then pro:per|you
+	v|press pro:per|it adv|again inf|to v|select pro:per|it .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|7|SUBJ 7|3|CMOD
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|7|COMP 12|13|JCT 13|11|JCT 14|18|LINK 15|18|SUBJ
+	16|18|AUX 17|16|NEG 18|13|CJCT 19|18|JCT 20|19|POBJ 21|24|SUBJ
+	22|24|AUX 23|24|JCT 24|18|CJCT 25|26|DET 26|24|OBJ 27|30|LINK 28|30|SUBJ
+	29|30|AUX 30|24|CJCT 31|30|JCT 32|33|JCT 33|31|POBJ 34|35|JCT 35|30|JCT
+	36|37|SUBJ 37|35|CMOD 38|37|OBJ 39|41|SUBJ 40|41|AUX 41|38|CMOD 42|41|OBJ
+	43|45|LINK 44|45|SUBJ 45|41|COMP 46|49|LINK 47|49|JCT 48|49|SUBJ 49|45|CJCT
+	50|49|OBJ 51|49|JCT 52|53|INF 53|49|COMP 54|53|OBJ 55|3|PUNCT
+*S5:	and in (.) it's very useful when scanning (be)cause it'll go down
+	and scan the rows (.) and it'll tell you the first icon in each row
+	alright ?
+%mor:	coord|and prep|in pro:per|it~cop|be&3S adv|very adj|use&dn-FULL
+	conj|when part|scan-PRESP conj|because pro:per|it~mod|will v|go
+	adv|down coord|and v|scan det:art|the n|row-PL coord|and
+	pro:per|it~mod|will v|tell pro:per|you det:art|the adj|first n|icon
+	prep|in qn|each n|row adj|alright ?
+%gra:	1|4|LINK 2|4|JCT 3|2|POBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|8|LINK 8|4|CJCT
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CJCT 13|12|JCT 14|12|CONJ 15|14|COORD
+	16|17|DET 17|15|OBJ 18|21|LINK 19|21|SUBJ 20|21|AUX 21|15|CJCT
+	22|21|OBJ2 23|25|DET 24|25|MOD 25|21|OBJ 26|25|NJCT 27|28|QUANT 28|26|POBJ
+	29|25|POSTMOD 30|4|PUNCT
+*S5:	&-um one other thing you can also do themes (.) where you can
+	actually set say alright let's say I'm in the house theme (.) so
+	that means that every button (.) that every first button hasta do
+	with house (.) so then when you set the theme to be the house they
+	don't ever have to press that as the first button .
+%mor:	pro:indef|one qn|other n|thing pro:per|you mod|can adv|also v|do
+	n|theme-PL pro:rel|where pro:per|you mod|can adv|actual&dadj-LY
+	n|set co|say co|alright v|let~pro:obj|us v|say pro:sub|I~cop|be&1S
+	prep|in det:art|the n|house n|theme adv|so adv|that v|mean-3S
+	adv|that qn|every n|button pro:rel|that qn|every adj|first n|button
+	mod|have&3S~inf|to v|do prep|with n|house co|so adv:tem|then
+	conj|when pro:per|you v|set&ZERO det:art|the n|theme inf|to cop|be
+	det:art|the n|house pro:sub|they mod|do~neg|not adv|ever v|have
+	inf|to v|press comp|that prep|as det:art|the adj|first n|button .
+%gra:	1|7|SUBJ 2|3|QUANT 3|7|JCT 4|7|SUBJ 5|7|AUX 6|7|JCT 7|20|JCT 8|7|OBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|13|JCT 13|18|SUBJ 14|16|COM 15|16|COM
+	16|13|CMOD 17|16|OBJ 18|8|COMP 19|20|SUBJ 20|0|ROOT 21|20|JCT 22|24|DET
+	23|24|MOD 24|21|POBJ 25|27|JCT 26|27|JCT 27|20|CJCT 28|37|JCT 29|30|QUANT
+	30|37|JCT 31|34|LINK 32|34|QUANT 33|34|MOD 34|37|SUBJ 35|37|AUX
+	36|37|INF 37|27|COMP 38|37|JCT 39|38|POBJ 40|41|COM 41|37|JCT 42|44|LINK
+	43|44|SUBJ 44|37|CJCT 45|46|DET 46|44|OBJ 47|48|INF 48|46|XMOD 49|50|DET
+	50|48|PRED 51|55|SUBJ 52|55|AUX 53|52|NEG 54|55|JCT 55|50|CMOD 56|57|INF
+	57|55|COMP 58|57|OBJ 59|58|JCT 60|62|DET 61|62|MOD 62|59|POBJ 63|20|PUNCT
+*S5:	they just have to
+	press the second and third buttons .
+%mor:	pro:sub|they adv|just v|have prep|to n|press det:art|the n|second
+	coord|and adj|third n|button-PL .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|DET 7|3|OBJ 8|7|CONJ
+	9|10|MOD 10|8|COORD 11|3|PUNCT
+*S5:	&-um and that can be handy &-uh sometimes however the person can't
+	switch outta that mode unless they can work the control panel .
+%mor:	coord|and pro:dem|that mod|can cop|be adj|handy adv|sometimes
+	co|however det:art|the n|person mod|can~neg|not v|switch prep|outta
+	det:dem|that n|mode conj|unless pro:sub|they mod|can v|work
+	det:art|the n|control n|panel .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|5|JCT 7|12|COM 8|9|DET
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|4|CJCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|12|CJCT 20|22|DET 21|22|MOD 22|19|OBJ
+	23|4|PUNCT
+*S5:	so &-um a few of the pros and cons I saw it was a little bit
+	difficult &-um to review the messages it was hard to &-um &contr use
+	the control panel without real good motor control and targeting .
+%mor:	co|so det:art|a qn|few prep|of det:art|the n|pro-PL coord|and
+	n|con-PL pro:sub|I v|see&PAST pro:per|it cop|be&PAST&13S det:art|a
+	adj|little n|bit adj|difficult inf|to v|review det:art|the
+	n|message-PL pro:per|it cop|be&PAST&13S adv|hard prep|to n|use
+	det:art|the n|control n|panel prep|without adj|real adj|good n|motor
+	n|control coord|and part|target-PRESP .
+%gra:	1|10|COM 2|3|DET 3|4|QUANT 4|1|JCT 5|6|DET 6|4|POBJ 7|1|CONJ 8|7|COORD
+	9|10|SUBJ 10|0|ROOT 11|12|SUBJ 12|10|COMP 13|15|DET 14|15|MOD 15|16|JCT
+	16|12|PRED 17|18|INF 18|16|XMOD 19|20|DET 20|18|OBJ 21|22|SUBJ
+	22|20|CMOD 23|22|JCT 24|22|JCT 25|24|POBJ 26|28|DET 27|28|MOD 28|22|PRED
+	29|28|NJCT 30|33|MOD 31|33|MOD 32|33|MOD 33|29|POBJ 34|33|CONJ 35|34|COORD
+	36|10|PUNCT
+*S5:	&-um you really need to have a_lot_o(f) thought into stuff before
+	you start recording just because of all the overlapping symbols and
+	things like that you wanna know exactly what this person needs to
+	say .
+%mor:	pro:per|you adv|real&dadj-LY v|need inf|to v|have qn|a_lot_of
+	v|think&PAST prep|into n|stuff prep|before pro:per|you v|start
+	part|record-PRESP adv|just conj|because prep|of qn|all det:art|the
+	over#part|lap-PRESP n|symbol-PL coord|and n|thing-PL prep|like
+	pro:dem|that pro:per|you v|want~inf|to v|know adv|exact&dadj-LY
+	pro:int|what det:dem|this n|person v|need-3S inf|to v|say .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|7|QUANT 7|5|COMP 8|7|JCT
+	9|8|POBJ 10|7|JCT 11|12|SUBJ 12|10|POBJ 13|7|XJCT 14|13|JCT 15|26|LINK
+	16|26|JCT 17|20|QUANT 18|20|DET 19|20|MOD 20|16|POBJ 21|20|CONJ
+	22|21|COORD 23|22|NJCT 24|23|POBJ 25|26|SUBJ 26|13|CJCT 27|28|INF 28|26|COMP
+	29|28|JCT 30|33|LINK 31|32|DET 32|33|SUBJ 33|28|COMP 34|35|INF 35|33|COMP
+	36|3|PUNCT
+*S5:	&-um and then the clarity of the recording can be difficult the
+	recordings you heard are all on the high quality (.) so that would
+	only be (.) it'd only give you three and a half minutes of recording
+	time .
+%mor:	coord|and adv:tem|then det:art|the n|clarity prep|of det:art|the
+	n:gerund|record-PRESP mod|can cop|be adj|difficult det:art|the
+	n:gerund|record-PRESP-PL pro:per|you v|hear&PAST cop|be&PRES adv|all
+	prep|on det:art|the adj|high n|quality adv|so pro:dem|that
+	mod|will&COND adv|only cop|be pro:per|it~mod|genmod adv|only v|give
+	pro:per|you det:num|three coord|and det:art|a n|half n|minute-PL
+	prep|of n:gerund|record-PRESP n|time .
+%gra:	1|9|LINK 2|9|JCT 3|4|DET 4|9|SUBJ 5|9|JCT 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|9|PRED 11|12|DET 12|9|PRED 13|14|SUBJ 14|12|CMOD 15|14|COMP
+	16|17|JCT 17|15|JCT 18|20|DET 19|20|MOD 20|25|SUBJ 21|25|JCT 22|25|SUBJ
+	23|25|AUX 24|25|JCT 25|17|POBJ 26|29|SUBJ 27|29|AUX 28|29|JCT 29|25|CPRED
+	30|31|SUBJ 31|29|OBJ 32|31|CONJ 33|35|DET 34|35|MOD 35|32|COORD 36|35|NJCT
+	37|36|POBJ 38|37|OBJ 39|9|PUNCT
+*S5:	however (.) there're some of the pros are that it's it is real
+	speech .
+%mor:	adv|however pro:exist|there~cop|be&PRES pro:indef|some prep|of
+	det:art|the n|pro-PL cop|be&PRES comp|that pro:per|it~cop|be&3S
+	pro:per|it cop|be&3S adj|real n|speech .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|3|PRED
+	9|11|LINK 10|11|SUBJ 11|8|COMP 12|13|SUBJ 13|11|PRED 14|15|MOD 15|13|PRED
+	16|3|PUNCT
+*S5:	it sounds more natural .
+%mor:	pro:per|it v|sound-3S adv|more adj|natural .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+*S5:	you can put some inflection into your
+	voice .
+%mor:	pro:per|you mod|can v|put&ZERO qn|some n|inflection prep|into
+	det:poss|your n|voice .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*S5:	&-um the icons make you know &mem remembering things somewhat
+	easy .
+%mor:	det:art|the n|icon-PL v|make pro:per|you v|know part|remember-PRESP
+	n|thing-PL adv|somewhat adj|ease&dn-Y .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|COMP 7|6|OBJ 8|9|JCT
+	9|7|POSTMOD 10|3|PUNCT
+*S5:	and it's very customizeable .
+%mor:	coord|and pro:per|it~cop|be&3S adv|very adj|customizeable .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*S5:	you can customize your scanning
+	speed .
+%mor:	pro:per|you mod|can v|custom&dadj-IZE det:poss|your part|scan-PRESP
+	n|speed .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|XMOD 6|3|OBJ 7|3|PUNCT
+*S5:	you can customize your acceptance rates .
+%mor:	pro:per|you mod|can v|custom&dadj-IZE det:poss|your n|acceptance
+	n|rate-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*S5:	&-um you can put
+	stickers on things .
+%mor:	pro:per|you mod|can v|put&ZERO v|sticker-3S prep|on n|thing-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*S5:	you can have <all sorts of> [/] &-um all sorts of
+	things that you can change to the way you like them and what you
+	need them for .
+%mor:	pro:per|you mod|can v|have qn|all n|sort-PL prep|of n|thing-PL
+	pro:rel|that pro:per|you mod|can v|change prep|to det:art|the n|way
+	pro:per|you v|like pro:obj|them coord|and pro:int|what pro:per|you
+	v|need pro:obj|them prep|for .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|CMOD 12|11|JCT 13|14|DET 14|12|POBJ 15|16|SUBJ
+	16|11|CJCT 17|16|OBJ 18|16|CONJ 19|21|LINK 20|21|SUBJ 21|18|COORD
+	22|21|OBJ 23|21|JCT 24|3|PUNCT
+*S5:	alright &-um any questions ?
+%mor:	co|alright qn|any n|question-PL ?
+%gra:	1|3|COM 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*S5:	(0.4) and there's a_lot more that I could have done with this guy
+	[?] &=laughs:multiple there was so much stuff I was like .
+%mor:	coord|and pro:exist|there~cop|be&3S adv|a_lot adv|more pro:rel|that
+	pro:sub|I mod|could aux|have part|do&PASTP prep|with det:dem|this
+	n|guy adv|there cop|be&PAST&13S adv|so qn|much n|stuff pro:sub|I
+	cop|be&PAST&13S prep|like .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|10|LINK 7|10|SUBJ 8|10|AUX
+	9|10|AUX 10|5|CMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|15|SUBJ 15|10|CJCT
+	16|17|JCT 17|18|QUANT 18|20|JCT 19|20|SUBJ 20|15|PRED 21|20|JCT
+	22|3|PUNCT
+*S1:	okay I'm curious how do you connect eight different switches to
+	that machine ?
+%mor:	co|okay pro:sub|I~cop|be&1S adj|curious pro:int|how mod|do
+	pro:per|you v|connect det:num|eight adj|different n|switch-PL
+	prep|to det:dem|that n|machine ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|8|JCT 6|8|AUX 7|8|SUBJ 8|3|CPRED
+	9|11|QUANT 10|11|MOD 11|8|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*S5:	you connect eight switches through either +//.
+%mor:	pro:per|you v|connect det:num|eight n|switch-PL adj|through
+	adv|either +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|POSTMOD 6|5|JCT 7|2|PUNCT
+*S5:	I think it's this one .
+%mor:	pro:sub|I v|think pro:per|it~cop|be&3S det:dem|this pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|PRED 7|2|PUNCT
+*S5:	y@l .
+%mor:	n:let|y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	uhuh .
+%mor:	co|uhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S5:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S5:	yeah it it's actually +//.
+%mor:	co|yeah pro:per|it pro:per|it~cop|be&3S adv|actual&dadj-LY +//.
+%gra:	1|4|COM 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*S5:	they had &-um a price for (.) the eight different switch is a
+	hundred and twenty five dollars for the extra large targets [?] .
+%mor:	pro:sub|they v|have&PAST det:art|a n|price prep|for det:art|the
+	det:num|eight adj|different n|switch cop|be&3S det:art|a
+	det:num|hundred coord|and det:num|twenty det:num|five n|dollar-PL
+	prep|for det:art|the n|extra adj|large n|target-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|10|JCT 6|7|DET 7|9|QUANT 8|9|MOD
+	9|10|SUBJ 10|2|CJCT 11|12|DET 12|10|PRED 13|12|CONJ 14|16|QUANT
+	15|16|QUANT 16|13|COORD 17|12|NJCT 18|19|DET 19|21|MOD 20|21|MOD 21|17|POBJ
+	22|2|PUNCT
+*S1:	I think that's why we don't have xxx .
+%mor:	pro:sub|I v|think pro:dem|that~cop|be&3S pro:int|why pro:sub|we
+	mod|do~neg|not v|have .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|9|LINK 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|4|CPRED 10|2|PUNCT
+*S5:	yeah &=unintelligible_speech_until_end .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

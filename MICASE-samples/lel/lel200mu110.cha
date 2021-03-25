@@ -1,0 +1,1885 @@
+@UTF8
+@PID:	11312/a-00010164-1
+@Begin
+@Languages:	eng
+@Participants:	S1 Instructor Teacher, S2 Student Student, S3 Student
+	Student, S4 Student Student, S5 Student Student, S6 Student
+	Student, S7 Student Student, S8 Student Student, SS Student
+	Student, SUF Student Student
+@ID:	eng|MICASE|S1|60;|female|NS||Teacher|SF||
+@ID:	eng|MICASE|S2|20;|female|NS||Student|SU||
+@ID:	eng|MICASE|S3|20;|male|NS||Student|SU||
+@ID:	eng|MICASE|S4|20;|male|NS||Student|SU||
+@ID:	eng|MICASE|S5|20;|female|NS||Student|SU||
+@ID:	eng|MICASE|S6|20;|female|NS||Student|SU||
+@ID:	eng|MICASE|S7|20;|male|NS||Student|SU||
+@ID:	eng|MICASE|S8|20;|male|NS||Student|SU||
+@ID:	eng|MICASE|SS|20;||NS||Student|SU||
+@ID:	eng|MICASE|SUF|20;|female|NS||Student|SU||
+@Media:	lel200mu110, audio, unlinked
+@Date:	04-OCT-2000
+@Situation:	Lecture Hall, Chemistry Building
+*S1:	good morning .
+%mor:	adj|good n|morning .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S1:	today we're going to be talking about polyprotic acids (.) which
+	are acids that have more than one easily ionizable hydrogen (.) and
+	among the most important of these are the amino acids .
+%mor:	adv:tem|today pro:sub|we~aux|be&PRES part|go-PRESP inf|to aux|be
+	part|talk-PRESP adv|about adj|polyprotic n|acid-PL pro:rel|which
+	cop|be&PRES n|acid-PL pro:rel|that v|have qn|more prep|than
+	det:num|one adv|ease&dadj-Y-LY adj|ionizable n|hydrogen coord|and
+	prep|among det:art|the qn|most adj|important prep|of pro:dem|these
+	cop|be&PRES det:art|the n|amino n|acid-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|INF 6|7|AUX 7|4|COMP 8|9|JCT
+	9|10|MOD 10|7|OBJ 11|12|LINK 12|10|CMOD 13|12|PRED 14|15|LINK 15|13|CMOD
+	16|15|OBJ 17|16|JCT 18|21|QUANT 19|20|JCT 20|21|MOD 21|17|POBJ 22|21|CONJ
+	23|22|COORD 24|25|DET 25|26|QUANT 26|23|POBJ 27|26|JCT 28|27|POBJ
+	29|26|ENUM 30|32|DET 31|32|MOD 32|29|PRED 33|4|PUNCT
+*S1:	which exist in proteins and peptides (.) and so we're going move to
+	those as soon as we (.) cover some of the basics (.) with (.) some
+	simpler (.) polyprotic acids .
+%mor:	pro:rel|which v|exist prep|in n|protein-PL coord|and n|peptide-PL
+	coord|and co|so pro:sub|we~aux|be&PRES part|go-PRESP n|move prep|to
+	det:dem|those adv|as adv|soon conj|as pro:sub|we n|cover qn|some
+	prep|of det:art|the n:pt|basics prep|with qn|some adj|simple-CP
+	adj|polyprotic n|acid-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|CONJ 6|5|COORD 7|11|LINK
+	8|11|COM 9|11|SUBJ 10|11|AUX 11|2|CJCT 12|11|OBJ 13|12|NJCT 14|13|POBJ
+	15|16|COORD 16|14|NJCT 17|19|LINK 18|19|SUBJ 19|16|POBJ 20|19|NJCT 21|20|JCT
+	22|23|DET 23|21|POBJ 24|20|JCT 25|28|QUANT 26|28|MOD 27|28|MOD 28|24|POBJ
+	29|2|PUNCT
+*S1:	I have on the board acetic acid (.) as the (.) archetypal
+	carboxylic acid (.) and then I have two +...
+%mor:	pro:sub|I v|have prep|on det:art|the n|board adj|acetic adj|acid
+	prep|as det:art|the adj|archetypal adj|carboxylic adj|acid coord|and
+	adv:tem|then pro:sub|I v|have det:num|two +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|MOD 7|5|PRED 8|16|LINK
+	9|11|DET 10|11|MOD 11|16|SUBJ 12|16|JCT 13|12|CONJ 14|13|COORD 15|16|SUBJ
+	16|7|CMOD 17|16|OBJ 18|2|PUNCT
+*S1:	diprotic acids (.) succinic acid &=writing:board and adipic acid .
+%mor:	adj|diprotic n|acid-PL adj|succinic adj|acid coord|and adj|adipic
+	adj|acid .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|MOD 4|2|PRED 5|4|CONJ 6|7|MOD 7|5|COORD
+	8|2|PUNCT
+*S1:	&=writing:board these are the common names for these (.)
+	dicarboxylic acids .
+%mor:	pro:dem|these cop|be&PRES det:art|the adj|common n|name-PL prep|for
+	det:dem|these adj|dicarboxylic n|acid-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+*S1:	their scientific names (.) are (.) one two thirty four butane (.)
+	dioic acid (.) and one two thirty four five six (.) hexane (.) dioic
+	acid .
+%mor:	det:poss|their adj|scientific n|name-PL cop|be&PRES det:num|one
+	det:num|two det:num|thirty det:num|four n|butane adj|dioic adj|acid
+	coord|and det:num|one det:num|two det:num|thirty det:num|four
+	det:num|five det:num|six n|hexane adj|dioic adj|acid .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|9|QUANT 7|8|DATE 8|9|QUANT
+	9|4|PRED 10|11|MOD 11|9|PRED 12|11|CONJ 13|19|QUANT 14|16|DATE
+	15|16|DATE 16|17|DATE 17|18|DATE 18|19|QUANT 19|12|COORD 20|21|MOD 21|19|PRED
+	22|4|PUNCT
+*S1:	however (.) they're usually called succinic acid (.) and adipic
+	acid so we'll (.) stick with their common names .
+%mor:	adv|however pro:sub|they~aux|be&PRES adv|usual&dadj-LY
+	part|call-PASTP adj|succinic adj|acid coord|and adj|adipic adj|acid
+	adv|so pro:sub|we~mod|will v|stick prep|with det:poss|their
+	adj|common n|name-PL .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|MOD 7|5|JCT 8|5|CONJ
+	9|10|MOD 10|8|COORD 11|14|JCT 12|14|SUBJ 13|14|AUX 14|10|CMOD 15|14|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|5|PUNCT
+*S1:	now notice that we have two PKA values once we have (.) two
+	carboxylic acid groups (.) and I've given the PKA values here (.)
+	and we want to compare them then to the PKA value of the single
+	carboxylic group we have in acetic acid .
+%mor:	adv|now n|notice comp|that pro:sub|we v|have det:num|two n:prop|PKA
+	n|value-PL adv|once pro:sub|we v|have det:num|two adj|carboxylic
+	adj|acid n|group-PL coord|and pro:sub|I~aux|have part|give&PASTP
+	det:art|the n:prop|PKA v|value-3S adv|here coord|and pro:sub|we
+	v|want inf|to v|compare pro:obj|them adv:tem|then prep|to
+	det:art|the n:prop|PKA n|value prep|of det:art|the adj|single
+	adj|carboxylic n|group pro:sub|we v|have prep|in adj|acetic adj|acid
+	.
+%gra:	1|2|JCT 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|8|QUANT 7|8|MOD
+	8|5|OBJ 9|5|JCT 10|11|SUBJ 11|5|COMP 12|13|QUANT 13|15|MOD 14|15|MOD 15|11|OBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|15|CJCT 20|21|DET 21|22|SUBJ
+	22|19|COMP 23|22|JCT 24|26|LINK 25|26|SUBJ 26|22|CJCT 27|28|INF 28|26|COMP
+	29|28|OBJ 30|28|JCT 31|28|JCT 32|34|DET 33|34|MOD 34|31|POBJ 35|34|NJCT
+	36|39|DET 37|39|MOD 38|39|MOD 39|35|POBJ 40|41|SUBJ 41|26|CJCT 42|41|JCT
+	43|44|MOD 44|42|POBJ 45|2|PUNCT
+*S1:	and you can see (.) that (.) of_course these two protons are
+	equivalent and so the first ionization can be either one of those
+	(.) and so (.) either one for the first ionization (.) has the PKA
+	value of four point two one .
+%mor:	coord|and pro:per|you mod|can v|see comp|that co|of_course
+	det:dem|these det:num|two n|proton-PL cop|be&PRES n|equivalent
+	coord|and co|so det:art|the adj|first n|ion&dv-IZE-TION mod|can
+	aux|be adv|either det:num|one prep|of det:dem|those coord|and co|so
+	adv|either pro:indef|one prep|for det:art|the adj|first
+	n|ion&dv-IZE-TION v|have&3S det:art|the n:prop|PKA n|value prep|of
+	det:num|four v|point det:num|two det:num|one .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|10|LINK 6|10|COM 7|9|DET 8|9|QUANT
+	9|10|SUBJ 10|4|COMP 11|10|PRED 12|10|CONJ 13|18|COM 14|16|DET 15|16|MOD
+	16|18|SUBJ 17|18|AUX 18|12|COORD 19|20|JCT 20|18|PRED 21|20|NJCT
+	22|21|POBJ 23|22|CONJ 24|26|COM 25|26|JCT 26|23|COORD 27|31|LINK 28|30|DET
+	29|30|MOD 30|31|SUBJ 31|26|CMOD 32|34|DET 33|34|MOD 34|31|OBJ 35|34|NJCT
+	36|37|SUBJ 37|35|POBJ 38|39|QUANT 39|37|OBJ 40|4|PUNCT
+*S1:	but once I have removed one of the protons (.) then the other
+	proton becomes significantly less acidic .
+%mor:	conj|but adv|once pro:sub|I v|have part|remove-PASTP det:num|one
+	prep|of det:art|the n|proton-PL adv:tem|then det:art|the qn|other
+	n|proton cop|become-3S adv|significant&dadj-LY adj|less adj|acidic .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|14|SUBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|14|JCT 11|13|DET 12|13|QUANT 13|14|SUBJ 14|5|COMP 15|16|JCT
+	16|17|MOD 17|14|PRED 18|4|PUNCT
+*S1:	and so we want to talk about (.) first why the first proton (.) is
+	more acidic than the one in acetic acid (.) and then secondly (.)
+	why does the (.) it becomes so much harder to remove the second
+	proton once we've removed the first one .
+%mor:	coord|and co|so pro:sub|we v|want prep|to n|talk adv|about
+	adv|first pro:int|why det:art|the adj|first n|proton cop|be&3S
+	adv|more adj|acidic prep|than det:art|the det:num|one prep|in
+	adj|acetic adj|acid coord|and adv:tem|then adv|second&dadj-LY
+	pro:rel|why v|do&3S det:art|the pro:per|it cop|become-3S adv|so
+	qn|much adj|hard-CP inf|to v|remove det:art|the adj|second n|proton
+	conj|once pro:sub|we~aux|have part|remove-PASTP none|the adj|first
+	pro:indef|one .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|JCT 8|4|JCT
+	9|13|LINK 10|12|DET 11|12|MOD 12|13|SUBJ 13|8|CPOBJ 14|15|JCT 15|13|PRED
+	16|15|JCT 17|18|DET 18|16|POBJ 19|18|NJCT 20|21|MOD 21|19|POBJ 22|19|CONJ
+	23|22|COORD 24|23|JCT 25|26|LINK 26|24|CMOD 27|28|DET 28|26|OBJ
+	29|26|OBJ 30|31|JCT 31|32|QUANT 32|29|PRED 33|34|INF 34|32|XMOD 35|37|DET
+	36|37|MOD 37|34|OBJ 38|41|LINK 39|41|SUBJ 40|41|AUX 41|29|CJCT 42|44|DET
+	43|44|MOD 44|41|OBJ 45|4|PUNCT
+*S1:	and I think you know the answers to both of those questions (.) why
+	is succinic acid more acidic (.) in its first ionization than acetic
+	acid ?
+%mor:	coord|and pro:sub|I v|think pro:per|you v|know det:art|the
+	n|answer-PL prep|to qn|both prep|of det:dem|those n|question-PL
+	pro:rel|why cop|be&3S adj|succinic adj|acid adv|more adj|acidic
+	prep|in det:poss|its adj|first n|ion&dv-IZE-TION prep|than
+	adj|acetic adj|acid ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|14|LINK 14|12|CMOD 15|14|PRED
+	16|15|JCT 17|18|JCT 18|16|JCT 19|18|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|22|NJCT 24|25|MOD 25|23|POBJ 26|3|PUNCT
+*S1:	(0.4) .
+*S2:	resonance ?
+%mor:	n|resonance ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	hm ?
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	<isn't it resonance> [?] ?
+%mor:	cop|be&3S~neg|not pro:per|it n|resonance ?
+%gra:	1|0|ROOT 2|1|NEG 3|4|MOD 4|1|PRED 5|1|PUNCT
+*S1:	+, I just didn't hear .
+%mor:	pro:sub|I adv|just mod|do&PAST~neg|not v|hear .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*S2:	is it resonance ?
+%mor:	aux|be&3S pro:per|it n|resonance ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*S1:	well the resonance if I draw the (.) structure of the anion in each
+	case &=writing:board so this is the anion for acetic acid the
+	acetate ion +...
+%mor:	co|well det:art|the n|resonance conj|if pro:sub|I v|draw
+	det:art|the n|structure prep|of det:art|the n|anion prep|in qn|each
+	n|case co|so pro:dem|this cop|be&3S det:art|the n|anion prep|for
+	adj|acetic adj|acid det:art|the n|acetate n|ion +...
+%gra:	1|3|COM 2|3|DET 3|17|SUBJ 4|6|LINK 5|6|SUBJ 6|17|CJCT 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|6|JCT 13|14|QUANT 14|12|POBJ 15|16|COM
+	16|17|SUBJ 17|0|ROOT 18|19|DET 19|17|PRED 20|19|NJCT 21|25|MOD 22|25|MOD
+	23|25|DET 24|25|MOD 25|20|POBJ 26|17|PUNCT
+*S1:	and lemme draw the corresponding (.) anion (.) for succinic acid .
+%mor:	coord|and v|let~pro:obj|me v|draw det:art|the part|correspond-PRESP
+	n|anion prep|for adj|succinic adj|acid .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|10|MOD 10|8|POBJ 11|2|PUNCT
+*S1:	&=pauses and it wouldn't have mattered which of these protons I
+	removed (.) I have similar resonance in both of (th)em .
+%mor:	coord|and pro:per|it mod|will&COND~neg|not aux|have
+	part|matter-PASTP det:int|which prep|of det:dem|these n|proton-PL
+	pro:sub|I v|remove-PAST pro:sub|I v|have adj|similar n|resonance
+	prep|in qn|both prep|of pro:obj|them .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|AUX 6|12|XJCT 7|6|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|12|SUBJ 12|0|ROOT 13|14|SUBJ 14|12|COMP 15|16|MOD
+	16|14|OBJ 17|16|NJCT 18|17|POBJ 19|18|NJCT 20|19|POBJ 21|12|PUNCT
+*S1:	I can draw a resonance contributor in which I delocalize the charge
+	to the other oxygen in either case .
+%mor:	pro:sub|I mod|can v|draw det:art|a n|resonance n|contributor
+	prep|in pro:int|which pro:sub|I de#v|local&dadj-IZE det:art|the
+	n|charge prep|to det:art|the qn|other n|oxygen prep|in qn|either
+	n|case .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|7|POBJ
+	9|8|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|12|NJCT 14|16|DET 15|16|QUANT
+	16|13|POBJ 17|16|NJCT 18|19|QUANT 19|17|POBJ 20|3|PUNCT
+*S1:	so resonance is not the (.) reason for the difference .
+%mor:	co|so n|resonance cop|be&3S neg|not det:art|the n|reason prep|for
+	det:art|the n|difference .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|DET 6|3|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*S1:	it's a (.) good reason for why it's as acidic as it is (.) but not
+	for the difference .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|good n|reason prep|for
+	pro:int|why pro:per|it~cop|be&3S adv|as adj|acidic prep|as
+	pro:per|it cop|be&3S conj|but neg|not prep|for det:art|the
+	n|difference .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|9|LINK 8|9|SUBJ
+	9|6|CPOBJ 10|11|COORD 11|9|PRED 12|14|COORD 13|12|POBJ 14|11|ENUM
+	15|2|CONJ 16|15|COORD 17|16|NJCT 18|19|DET 19|17|POBJ 20|2|PUNCT
+*S1:	(0.4) any other ideas ?
+%mor:	qn|any qn|other n|idea-PL ?
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*S1:	yep ?
+%mor:	co|yep ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	you have <inductive and that's supposed to> [?] take away the
+	negative charge a little bit ⌈ xxx ⌉ .
+%mor:	pro:per|you v|have adj|inductive coord|and pro:dem|that~cop|be&3S
+	v|suppose-PAST inf|to v|take adv|away det:art|the n|negative
+	n|charge det:art|a adj|little n|bit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|SUBJ 4|3|CONJ 5|4|COORD 6|7|AUX 7|2|COMP 8|9|INF
+	9|7|COMP 10|9|JCT 11|13|DET 12|13|MOD 13|9|OBJ 14|16|DET 15|16|MOD
+	16|13|APP 17|2|PUNCT
+*S1:	⌊ and what is ⌋ the thing that's the &indu doing the inductive
+	effect ?
+%mor:	coord|and pro:int|what cop|be&3S det:art|the n|thing
+	pro:rel|that~cop|be&3S det:art|the n:gerund|do-PRESP det:art|the
+	adj|inductive n|effect ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|LINK 7|5|CMOD 8|9|DET
+	9|7|PRED 10|12|DET 11|12|MOD 12|9|OBJ 13|3|PUNCT
+*S3:	the oxygen atoms .
+%mor:	det:art|the n|oxygen n|atom-PL .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S1:	the other carboxylic acid group here .
+%mor:	det:art|the qn|other adj|carboxylic adj|acid n|group adv|here .
+%gra:	1|5|DET 2|3|QUANT 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|NJCT 7|5|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so I have the partially positive carbon these oxygens more
+	electronegative than carbon and so I have (.) an electron
+	withdrawing effect (.) through the bonds (.) of one carboxylic acid
+	group stabilizing the carboxylate anion in the other case .
+%mor:	co|so pro:sub|I v|have det:art|the adv|partial&dadj-LY adj|positive
+	n|carbon det:dem|these n|oxygen-PL qn|more electro#n|negative
+	prep|than n|carbon coord|and co|so pro:sub|I v|have det:art|a
+	n|electron part|withdraw-PRESP n|effect prep|through det:art|the
+	n|bond-PL prep|of det:num|one adj|carboxylic adj|acid n|group
+	part|stabilize-PRESP det:art|the n|carboxylate n|anion prep|in
+	det:art|the qn|other n|case .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|OBJ 8|9|DET
+	9|7|APP 10|11|QUANT 11|9|CMOD 12|11|JCT 13|12|POBJ 14|17|LINK 15|17|COM
+	16|17|SUBJ 17|11|CJCT 18|19|DET 19|17|OBJ 20|19|XMOD 21|20|OBJ 22|20|JCT
+	23|24|DET 24|22|POBJ 25|24|NJCT 26|29|QUANT 27|29|MOD 28|29|MOD 29|25|POBJ
+	30|29|XMOD 31|33|DET 32|33|MOD 33|30|OBJ 34|30|JCT 35|37|DET 36|37|QUANT
+	37|34|POBJ 38|3|PUNCT
+*S1:	so this (.) base (.) is weaker (.) than the base (.) in (.) &acetic
+	acetate ion .
+%mor:	adv|so det:dem|this n|base cop|be&3S adj|weak-CP prep|than
+	det:art|the n|base prep|in n|acetate n|ion .
+%gra:	1|3|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|4|PUNCT
+*S1:	&=writing:board and where the base is weaker (.) the corresponding
+	conjugate acid is stronger .
+%mor:	coord|and pro:int|where det:art|the n|base aux|be&3S adj|weak-CP
+	det:art|the part|correspond-PRESP n|conjugate adj|acid aux|be&3S
+	adj|strong-CP .
+%gra:	1|9|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|AUX 6|9|MOD 7|9|DET 8|9|MOD
+	9|0|ROOT 10|9|PUNCT 11|10|INCROOT 12|11|PRED 13|11|PUNCT
+*S1:	well why is it so hard to remove the second (.) proton ?
+%mor:	co|well pro:int|why cop|be&3S pro:per|it adv|so adj|hard inf|to
+	v|remove det:art|the adj|second n|proton ?
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|3|PRED 5|6|JCT 6|4|PRED 7|8|INF 8|6|XMOD
+	9|11|DET 10|11|MOD 11|8|OBJ 12|3|PUNCT
+*S1:	why does the PKA go up (.) with the second one ?
+%mor:	pro:int|why mod|do&3S det:art|the n:prop|PKA v|go adv|up prep|with
+	det:art|the adj|second det:num|one ?
+%gra:	1|5|LINK 2|5|AUX 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|5|PUNCT
+*S1:	(0.8) yep ?
+%mor:	co|yep ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	because there's two negative charges after that ?
+%mor:	conj|because pro:exist|there~cop|be&3S det:num|two adj|negative
+	n|charge-PL prep|after pro:dem|that ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|MOD 6|3|PRED 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*S1:	because I already have a negative charge in the molecule so let's
+	just write a little (.) equation for (.) the removal of the second
+	proton &=writing:board and I'm going to put the (.) hydronium ion
+	+...
+%mor:	conj|because pro:sub|I adv|already v|have det:art|a n|negative
+	n|charge prep|in det:art|the n|molecule adv|so v|let~pro:obj|us
+	adv|just v|write det:art|a adj|little n|equate&dv-TION prep|for
+	det:art|the n|removal prep|of det:art|the adj|second n|proton
+	coord|and pro:sub|I~aux|be&1S part|go-PRESP inf|to v|put&ZERO
+	det:art|the n|hydronium n|ion +...
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|12|CJCT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|12|JCT 12|0|ROOT 13|12|OBJ 14|15|JCT 15|12|COMP
+	16|18|DET 17|18|MOD 18|15|OBJ 19|15|JCT 20|21|DET 21|19|POBJ 22|21|NJCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|29|LINK 27|29|SUBJ 28|29|AUX 29|15|CJCT
+	30|31|INF 31|29|COMP 32|34|DET 33|34|MOD 34|31|OBJ 35|12|PUNCT
+*S1:	that has resulted sort_of up there to remind us (.) that we're
+	trying to pull this positively charged species away from an ion that
+	now is doubly (.) negatively charged .
+%mor:	pro:dem|that aux|have&3S part|result-PASTP adv|sort_of prep|up
+	n|there inf|to v|remind pro:obj|us comp|that pro:sub|we~aux|be&PRES
+	part|try-PRESP inf|to v|pull det:dem|this adv|positive&dadj-LY
+	part|charge-PASTP n|species adv|away prep|from det:art|a n|ion
+	comp|that adv|now cop|be&3S adv|double&dadj-LY adv|negative&dadj-LY
+	v|charge-PAST .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|8|INF 8|3|XJCT
+	9|8|OBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|8|COMP 14|15|INF 15|13|COMP
+	16|15|OBJ 17|18|JCT 18|16|XMOD 19|18|OBJ 20|18|JCT 21|18|JCT 22|23|DET
+	23|21|POBJ 24|26|LINK 25|26|JCT 26|23|CMOD 27|26|JCT 28|29|JCT 29|26|CPRED
+	30|3|PUNCT
+*S1:	and so we have to exert more energy it is (.) harder to do (.) to
+	remove that proton from something that is already negatively charged
+	.
+%mor:	coord|and co|so pro:sub|we v|have inf|to v|exert qn|more n|energy
+	pro:per|it cop|be&3S adj|hard-CP inf|to v|do inf|to v|remove
+	det:dem|that n|proton prep|from pro:indef|something pro:rel|that
+	aux|be&3S adv|already adv|negative&dadj-LY part|charge-PASTP .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|QUANT 8|10|JCT
+	9|10|SUBJ 10|6|COMP 11|10|PRED 12|13|INF 13|11|XMOD 14|15|INF 15|13|COMP
+	16|17|DET 17|15|OBJ 18|17|NJCT 19|18|POBJ 20|24|LINK 21|24|AUX
+	22|24|JCT 23|24|JCT 24|19|CMOD 25|4|PUNCT
+*S1:	so the first proton is easier to remove (.) than it was for acetate
+	ion (.) but the second proton is harder to remove .
+%mor:	co|so det:art|the adj|first n|proton cop|be&3S adj|ease&dn-Y-CP
+	inf|to v|remove prep|than pro:per|it cop|be&PAST&13S prep|for
+	n|acetate n|ion conj|but det:art|the adj|second n|proton cop|be&3S
+	adj|hard-CP inf|to v|remove .
+%gra:	1|5|COM 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|8|INF 8|6|XMOD
+	9|11|JCT 10|11|SUBJ 11|8|COMP 12|11|JCT 13|14|MOD 14|12|POBJ 15|19|LINK
+	16|18|DET 17|18|MOD 18|19|SUBJ 19|5|CJCT 20|19|PRED 21|22|INF 22|20|XMOD
+	23|5|PUNCT
+*S1:	now notice what happens with adipic acid .
+%mor:	adv|now v|notice pro:int|what v|happen-3S prep|with adj|adipic
+	adj|acid .
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|7|MOD 7|5|POBJ 8|2|PUNCT
+*S1:	the first proton (.) is (.) more like the proton in acetic acid (.)
+	in other words the PKA has gone up relative (.) to the PKA of
+	succinic acid (.) for the first ionization (.) but the PKA for the
+	second ionization has gone down .
+%mor:	det:art|the adj|first n|proton cop|be&3S adv|more prep|like
+	det:art|the n|proton prep|in adj|acetic adj|acid prep|in qn|other
+	n|word-PL det:art|the n:prop|PKA aux|have&3S part|go&PASTP adv|up
+	adj|relative prep|to det:art|the n:prop|PKA prep|of adj|succinic
+	adj|acid prep|for det:art|the adj|first n|ion&dv-IZE-TION conj|but
+	det:art|the n:prop|PKA prep|for det:art|the n|second
+	n|ion&dv-IZE-TION aux|have&3S part|go&PASTP adv|down .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|18|JCT 11|18|JCT 12|11|JCT 13|14|QUANT 14|12|POBJ 15|16|DET
+	16|18|SUBJ 17|18|AUX 18|9|POBJ 19|20|JCT 20|4|PRED 21|20|JCT 22|23|DET
+	23|21|POBJ 24|23|NJCT 25|39|LINK 26|39|JCT 27|26|JCT 28|30|DET 29|30|MOD
+	30|27|POBJ 31|26|CONJ 32|33|DET 33|31|COORD 34|33|NJCT 35|37|DET 36|37|MOD
+	37|34|POBJ 38|39|AUX 39|24|POBJ 40|39|JCT 41|4|PUNCT
+*S1:	what's going on here ?
+%mor:	pro:int|what~aux|be&3S part|go-PRESP prep|on n|here ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*S1:	(0.13) .
+*S5:	the dipole is (.) weaker when more carbon atoms xxx .
+%mor:	det:art|the adj|dipole aux|be&3S adj|weak-CP conj|when qn|more
+	n|carbon n|atom-PL .
+%gra:	1|2|DET 2|8|SUBJ 3|8|AUX 4|3|PRED 5|8|LINK 6|7|QUANT 7|8|MOD
+	8|0|INCROOT 9|8|PUNCT
+*S1:	I have a &l greater distance between the two carboxylic acid groups
+	.
+%mor:	pro:sub|I v|have det:art|a adj|great-CP n|distance prep|between
+	det:art|the det:num|two adj|carboxylic adj|acid n|group-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|8|DET 8|11|QUANT
+	9|11|MOD 10|11|MOD 11|6|POBJ 12|2|PUNCT
+*S1:	so my inductive effect (.) if I ionize this one &=writing:board
+	first (.) the inductive effect of the second carboxylic acid group
+	is weaker (.) than it is in the case of succinic acid .
+%mor:	adv|so det:poss|my adj|inductive n|effect conj|if pro:sub|I
+	v|ion&dadj-IZE det:dem|this det:num|one adj|first det:art|the
+	adj|inductive n|effect prep|of det:art|the adj|second adj|carboxylic
+	adj|acid n|group cop|be&3S adj|weak-CP prep|than pro:per|it
+	cop|be&3S prep|in det:art|the n|case prep|of adj|succinic adj|acid .
+%gra:	1|4|JCT 2|4|DET 3|4|MOD 4|24|SUBJ 5|7|LINK 6|7|SUBJ 7|24|CJCT 8|9|DET
+	9|24|SUBJ 10|24|JCT 11|13|DET 12|13|MOD 13|24|SUBJ 14|24|JCT 15|17|DET
+	16|17|MOD 17|24|SUBJ 18|19|MOD 19|20|SUBJ 20|17|CMOD 21|20|PRED 22|21|JCT
+	23|22|POBJ 24|0|ROOT 25|24|JCT 26|27|DET 27|25|POBJ 28|27|NJCT 29|30|MOD
+	30|28|POBJ 31|24|PUNCT
+*S1:	because inductive effect falls off with distance (.) so with the
+	greater distance between the two carboxylic acid groups (.) I have
+	less effect (.) on &sta the stabilization of the base resulting from
+	the loss of the first proton .
+%mor:	conj|because adj|inductive n|effect v|fall-3S adv|off prep|with
+	n|distance adv|so prep|with det:art|the adj|great-CP n|distance
+	prep|between det:art|the det:num|two adj|carboxylic adj|acid
+	n|group-PL pro:sub|I v|have adj|less n|effect prep|on det:art|the
+	n|stabilize&dv-TION prep|of det:art|the n|base part|result-PRESP
+	prep|from det:art|the n|loss prep|of det:art|the adj|first n|proton
+	.
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|20|CJCT 5|4|JCT 6|4|JCT 7|6|POBJ 8|9|JCT
+	9|4|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|12|NJCT 14|18|DET 15|16|QUANT
+	16|18|MOD 17|18|MOD 18|13|POBJ 19|20|SUBJ 20|0|ROOT 21|22|MOD 22|20|OBJ
+	23|22|NJCT 24|25|DET 25|23|POBJ 26|25|NJCT 27|28|DET 28|26|POBJ 29|22|XMOD
+	30|29|JCT 31|32|DET 32|30|POBJ 33|32|NJCT 34|36|DET 35|36|MOD 36|33|POBJ
+	37|20|PUNCT
+*S1:	what is also true then about the loss of the second proton ?
+%mor:	pro:int|what cop|be&3S adv|also adj|true adv:tem|then adv|about
+	det:art|the n|loss prep|of det:art|the adj|second n|proton ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|8|JCT 7|8|DET 8|4|ENUM
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|2|PUNCT
+*S6:	<negative charges> [?] xxx .
+%mor:	adj|negative n|charge-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S1:	again with negative charges are further apart from each_other (.)
+	and therefore it's not as hard to remove a proton from this end of
+	the molecule (.) when this end is negative (.) as it was with
+	succinic acid where the charges were closer together .
+%mor:	adv|again prep|with n|negative n|charge-PL cop|be&PRES adv|further
+	adv|apart prep|from pro:refl|each_other coord|and adv|therefore
+	pro:per|it~cop|be&3S neg|not prep|as adj|hard inf|to v|remove
+	det:art|a n|proton prep|from det:dem|this n|end prep|of det:art|the
+	n|molecule conj|when det:dem|this n|end cop|be&3S adj|negative
+	prep|as pro:per|it cop|be&PAST&13S prep|with adj|succinic adj|acid
+	pro:int|where det:art|the n|charge-PL cop|be&PAST n|close&dv-AGT
+	adv|together .
+%gra:	1|5|JCT 2|5|JCT 3|4|MOD 4|2|POBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|5|JCT
+	9|8|POBJ 10|5|CONJ 11|13|JCT 12|13|SUBJ 13|10|COORD 14|13|NEG 15|13|JCT
+	16|15|POBJ 17|18|INF 18|16|XMOD 19|20|DET 20|18|OBJ 21|20|NJCT 22|23|DET
+	23|21|POBJ 24|23|NJCT 25|26|DET 26|24|POBJ 27|30|LINK 28|29|DET 29|30|SUBJ
+	30|20|CJCT 31|30|PRED 32|34|COORD 33|34|SUBJ 34|30|CJCT 35|34|JCT
+	36|35|POBJ 37|36|PRED 38|41|LINK 39|40|DET 40|41|SUBJ 41|37|CMOD 42|41|PRED
+	43|42|NJCT 44|5|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	any questions about what we've done so far ?
+%mor:	qn|any n|question-PL prep|about pro:int|what pro:sub|we~aux|have
+	part|do&PASTP adv|so adj|far ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|JCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CPOBJ
+	8|9|JCT 9|7|JCT 10|2|PUNCT
+*S1:	(0.5) okay I'd like to move on then to talk about amino acids (.)
+	as &po polyprotic acids &=writing:board .
+%mor:	co|okay pro:sub|I~mod|genmod v|like inf|to v|move adv|on
+	adv:tem|then prep|to n|talk prep|about n|amino n|acid-PL adv|as
+	adj|polyprotic n|acid-PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|6|JCT
+	9|6|JCT 10|9|POBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|16|COORD 15|16|MOD
+	16|13|ENUM 17|4|PUNCT
+*S1:	and the amino acids that we're gonna talk about are the alpha amino
+	acids the amino acids that are found in peptides and proteins .
+%mor:	coord|and det:art|the n|amino n|acid-PL comp|that
+	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|talk adv|about
+	cop|be&PRES det:art|the adj|alpha n|amino n|acid-PL det:art|the
+	n|amino n|acid-PL pro:rel|that aux|be&PRES part|find&PASTP prep|in
+	n|peptide-PL coord|and n|protein-PL .
+%gra:	1|12|LINK 2|4|DET 3|4|MOD 4|12|SUBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD
+	9|10|INF 10|8|COMP 11|12|JCT 12|0|ROOT 13|16|DET 14|15|MOD 15|16|MOD
+	16|12|PRED 17|19|DET 18|19|MOD 19|16|OBJ 20|22|LINK 21|22|AUX 22|19|CMOD
+	23|22|JCT 24|23|POBJ 25|24|CONJ 26|25|COORD 27|12|PUNCT
+*S1:	&=writing:board and they're interesting to us of_course because
+	they are the components (.) of (.) the very important (.) substances
+	such as enzymes muscle tissue cellular tissues (.) which are made up
+	of (.) proteins +...
+%mor:	coord|and pro:sub|they~cop|be&PRES adj|interesting prep|to
+	pro:obj|us co|of_course conj|because pro:sub|they cop|be&PRES
+	det:art|the n|component-PL prep|of det:art|the adv|very
+	adj|important n|substance-PL qn|such prep|as n|enzyme-PL n|muscle
+	n|tissue adj|cellular n|tissue-PL pro:rel|which aux|be&PRES
+	part|make&PASTP adv|up prep|of n|protein-PL +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|5|POBJ 7|3|COM 8|10|LINK
+	9|10|SUBJ 10|3|CJCT 11|12|DET 12|10|PRED 13|12|NJCT 14|17|DET 15|16|JCT
+	16|17|MOD 17|13|POBJ 18|24|QUANT 19|24|COORD 20|22|MOD 21|22|MOD
+	22|24|MOD 23|24|MOD 24|12|APP 25|27|LINK 26|27|AUX 27|24|CMOD 28|27|JCT
+	29|28|JCT 30|29|POBJ 31|3|PUNCT
+*S1:	there's alanine (.) representative of a simple +...
+%mor:	pro:exist|there~cop|be&3S n|alanine n|representative prep|of
+	det:art|a adj|simple +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*S1:	amino acid +...
+%mor:	n|amino n|acid +...
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S1:	and I'm drawing it this way first (.) to emphasize the fact that it
+	is an alpha amino acid here (.) it is the carboxylic acid group (.)
+	and the carbon adjacent to it (.) will [?] you remember we talked
+	about (.) is the alpha carbon (.) and I've got an amino group (.) on
+	that alpha carbon so this is an alpha amino acid .
+%mor:	coord|and pro:sub|I~cop|be&1S n|drawing pro:per|it det:dem|this
+	n|way adj|first inf|to v|emphasize det:art|the n|fact pro:rel|that
+	pro:per|it cop|be&3S det:art|a adj|alpha n|amino adj|acid adv|here
+	pro:per|it cop|be&3S det:art|the adj|carboxylic adj|acid n|group
+	coord|and det:art|the n|carbon adj|adjacent prep|to pro:per|it
+	mod|will pro:per|you v|remember pro:sub|we v|talk-PAST prep|about
+	cop|be&3S det:art|the adj|alpha n|carbon coord|and
+	pro:sub|I~aux|have part|get&PASTP det:art|a n|amino n|group prep|on
+	det:dem|that adj|alpha n|carbon adv|so pro:dem|this cop|be&3S
+	det:art|a adj|alpha n|amino adj|acid .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|OBJ 6|7|DET 7|8|JCT 8|5|PRED
+	9|10|INF 10|8|XMOD 11|12|DET 12|10|OBJ 13|15|LINK 14|15|SUBJ 15|12|CMOD
+	16|18|DET 17|18|MOD 18|22|SUBJ 19|22|JCT 20|19|JCT 21|22|SUBJ 22|15|PRED
+	23|26|DET 24|26|MOD 25|26|MOD 26|37|JCT 27|26|CONJ 28|29|DET 29|27|COORD
+	30|29|POSTMOD 31|35|JCT 32|35|SUBJ 33|35|AUX 34|35|SUBJ 35|30|CMOD
+	36|37|SUBJ 37|22|CPRED 38|39|JCT 39|37|COMP 40|42|DET 41|42|MOD 42|39|PRED
+	43|46|LINK 44|46|SUBJ 45|46|AUX 46|42|CMOD 47|49|DET 48|49|MOD 49|46|OBJ
+	50|49|NJCT 51|53|DET 52|53|MOD 53|50|POBJ 54|55|JCT 55|56|SUBJ 56|46|CJCT
+	57|59|DET 58|59|MOD 59|56|PRED 60|59|POSTMOD 61|3|PUNCT
+*S1:	and it has (.) two sites of &aci possible acidity basicity &-um
+	this (.) is the (.) carboxylic acid group and the PKA there if we
+	compare it to acetic acid (.) we would expect it to have a PKA of
+	approximately four point eight .
+%mor:	coord|and pro:per|it aux|have&3S det:num|two n|site-PL prep|of
+	adj|possible n|acidity n|basic&dadj-ITY pro:dem|this cop|be&3S
+	det:art|the adj|carboxylic adj|acid n|group coord|and det:art|the
+	n:prop|PKA adv|there conj|if pro:sub|we v|compare pro:per|it prep|to
+	adj|acetic adj|acid pro:sub|we mod|will&COND v|expect pro:per|it
+	inf|to v|have det:art|a n:prop|PKA prep|of adv|approximate&dadj-LY
+	det:num|four v|point det:num|eight .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|QUANT 5|11|SUBJ 6|5|NJCT 7|8|MOD 8|9|MOD
+	9|6|POBJ 10|11|SUBJ 11|0|ROOT 12|15|DET 13|15|MOD 14|15|MOD 15|29|SUBJ
+	16|15|CONJ 17|18|DET 18|16|COORD 19|15|NJCT 20|22|LINK 21|22|SUBJ
+	22|29|CJCT 23|22|OBJ 24|22|JCT 25|26|MOD 26|24|POBJ 27|29|SUBJ 28|29|AUX
+	29|11|CPRED 30|29|OBJ 31|32|INF 32|29|COMP 33|34|DET 34|32|OBJ 35|34|NJCT
+	36|38|JCT 37|38|QUANT 38|35|POBJ 39|38|OBJ 40|11|PUNCT
+*S1:	&=writing:board and that is sort_of like ammonia (.) ammoniamine
+	(.) methylammoniamine (.) and that has a PKA (.) we would expect of
+	about nine point four .
+%mor:	coord|and pro:dem|that cop|be&3S adv|sort_of co|like n|ammonia
+	n|ammoniamine n|methylammoniamine coord|and pro:rel|that v|have&3S
+	det:art|a n:prop|PKA pro:sub|we mod|will&COND v|expect prep|of
+	adv|about det:num|nine v|point det:num|four .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|COM 6|8|MOD 7|8|MOD 8|3|PRED
+	9|8|CONJ 10|11|LINK 11|9|COORD 12|13|DET 13|11|OBJ 14|16|SUBJ 15|16|AUX
+	16|11|COMP 17|16|JCT 18|20|JCT 19|20|QUANT 20|17|POBJ 21|20|OBJ 22|3|PUNCT
+*S1:	so if we compare this these two structures (.) we will see that the
+	structure to the right (.) is the one that we should be (.)
+	considering +...
+%mor:	adv|so conj|if pro:sub|we v|compare det:dem|this det:dem|these
+	det:num|two n|structure-PL pro:sub|we mod|will v|see comp|that
+	det:art|the n|structure prep|to det:art|the adj|right cop|be&3S
+	det:art|the pro:indef|one pro:rel|that pro:sub|we mod|should aux|be
+	part|consider-PRESP +...
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|DET 7|8|QUANT 8|4|OBJ
+	9|11|SUBJ 10|11|AUX 11|8|CMOD 12|11|OBJ 13|14|DET 14|12|OM 15|14|NJCT
+	16|18|DET 17|18|JCT 18|15|POBJ 19|20|DET 20|14|APP 21|25|LINK 22|25|SUBJ
+	23|25|AUX 24|25|AUX 25|20|CMOD 26|4|PUNCT
+*S1:	because (.) if we consider this as an equilibrium (.) between two
+	acids (.) this is the stronger acid this is the weaker acid and the
+	proton resides on (.) the weaker acid .
+%mor:	conj|because conj|if pro:sub|we v|consider det:dem|this prep|as
+	det:art|a n|equilibrium prep|between det:num|two n|acid-PL
+	pro:dem|this cop|be&3S det:art|the adj|strong-CP n|acid pro:dem|this
+	cop|be&3S det:art|the adj|weak-CP n|acid coord|and det:art|the
+	n|proton v|reside-3S prep|on det:art|the adj|weak-CP n|acid .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|13|CJCT 5|8|DET 6|8|COORD 7|8|DET 8|4|OBJ
+	9|4|JCT 10|11|QUANT 11|9|POBJ 12|13|SUBJ 13|0|ROOT 14|16|DET 15|16|MOD
+	16|13|PRED 17|18|SUBJ 18|16|CMOD 19|21|DET 20|21|MOD 21|25|SUBJ
+	22|21|CONJ 23|24|DET 24|22|COORD 25|18|CPRED 26|25|JCT 27|29|DET 28|29|MOD
+	29|26|POBJ 30|13|PUNCT
+*S1:	and so we have an equilibrium (.) where the proton is mostly on the
+	nitrogen (.) and only a little bit on the oxygen atom of the amino
+	acid .
+%mor:	coord|and adv|so pro:sub|we v|have det:art|a n|equilibrium
+	pro:rel|where det:art|the n|proton cop|be&3S adv|mostly prep|on
+	det:art|the n|nitrogen coord|and adv|only det:art|a adj|little n|bit
+	prep|on det:art|the n|oxygen n|atom prep|of det:art|the n|amino
+	adj|acid .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|CMOD 11|10|JCT 12|4|JCT 13|14|DET 14|12|POBJ 15|4|CONJ
+	16|19|JCT 17|19|DET 18|19|MOD 19|15|COORD 20|19|NJCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|23|NJCT 25|26|DET 26|24|POBJ 27|26|POSTMOD 28|4|PUNCT
+*S1:	so the (.) true structure of the amino acid (.) is in this form (.)
+	where it is an internal salt (.) the proton has been transferred
+	from the oxygen to the nitrogen (.) and we call that form the
+	zwitterion .
+%mor:	co|so det:art|the adj|true n|structure prep|of det:art|the n|amino
+	n|acid cop|be&3S prep|in det:dem|this n|form pro:rel|where
+	pro:per|it cop|be&3S det:art|a adj|internal n|salt det:art|the
+	n|proton aux|have&3S aux|be&PASTP part|transfer-PASTP prep|from
+	det:art|the n|oxygen prep|to det:art|the n|nitrogen coord|and
+	pro:sub|we v|call det:dem|that n|form det:art|the n|zwitterion .
+%gra:	1|9|COM 2|4|DET 3|4|MOD 4|9|SUBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|15|LINK 14|15|SUBJ 15|12|CMOD
+	16|18|DET 17|18|MOD 18|15|PRED 19|20|DET 20|23|SUBJ 21|23|AUX 22|23|AUX
+	23|18|XMOD 24|23|JCT 25|26|DET 26|24|POBJ 27|23|JCT 28|29|DET 29|27|POBJ
+	30|32|LINK 31|32|SUBJ 32|9|CJCT 33|34|DET 34|32|OBJ 35|36|DET 36|34|OBJ
+	37|9|PUNCT
+*S1:	the internal (.) salt where we have the negative charge and the (.)
+	positive charge within the same (.) species not two separate ions
+	that can (.) migrate apart from each_other .
+%mor:	det:art|the adj|internal n|salt pro:rel|where pro:sub|we v|have
+	det:art|the n|negative n|charge coord|and det:art|the n|positive
+	n|charge prep|within det:art|the adj|same n|species neg|not
+	det:num|two v|separate n|ion-PL pro:rel|that mod|can v|migrate
+	adv|apart prep|from pro:refl|each_other .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|CONJ 11|13|DET 12|13|MOD 13|10|COORD 14|6|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|17|NEG 19|20|SUBJ 20|6|CJCT 21|20|OBJ 22|24|LINK
+	23|24|AUX 24|21|CMOD 25|24|JCT 26|24|JCT 27|26|POBJ 28|3|PUNCT
+*S1:	(0.4) well let's write (.) a series of equilibria for alanine
+	&=writing:board that will exist at low PH .
+%mor:	co|well v|let~pro:obj|us v|write det:art|a n|series prep|of
+	n|equilibrium&PL prep|for n|alanine pro:rel|that mod|will v|exist
+	prep|at n|low n:prop|PH .
+%gra:	1|2|COM 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|6|NJCT 10|9|POBJ 11|13|LINK 12|13|AUX 13|10|CMOD 14|13|JCT 15|16|MOD
+	16|14|POBJ 17|2|PUNCT
+*S1:	where I have both of the basic sites in the molecule protonated
+	&=writing:board so at low PH (.) I will be protonated at the
+	nitrogen and protonated at the oxygen .
+%mor:	pro:int|where pro:sub|I v|have qn|both prep|of det:art|the
+	adj|basic n|site-PL prep|in det:art|the n|molecule
+	part|protonate-PASTP adv|so prep|at n|low n:prop|PH pro:sub|I
+	mod|will aux|be part|protonate-PASTP prep|at det:art|the n|nitrogen
+	coord|and v|protonate-PAST prep|at det:art|the n|oxygen .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|12|QUANT 5|12|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|3|COMP 13|12|JCT 14|13|JCT 15|14|POBJ
+	16|14|POBJ 17|20|SUBJ 18|20|AUX 19|20|AUX 20|16|CMOD 21|20|JCT 22|23|DET
+	23|21|POBJ 24|20|CONJ 25|24|COORD 26|25|JCT 27|28|DET 28|26|POBJ
+	29|3|PUNCT
+*S1:	but as I add base to the system +...
+%mor:	conj|but prep|as pro:sub|I v|add adj|base prep|to det:art|the
+	n|system +...
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*S1:	I will deprotonate &=writing:board and if we look up the actual PKA
+	values of the (.) two acidic protons here (.) it turns out that this
+	one is about two point thirty four (.) and this one (.) is nine
+	point six nine .
+%mor:	pro:sub|I mod|will de#v|protonate coord|and conj|if pro:sub|we
+	v|look prep|up det:art|the adj|actual n:prop|PKA v|value-3S prep|of
+	det:art|the det:num|two adj|acidic n|proton-PL adv|here pro:per|it
+	v|turn-3S adv|out comp|that pro:dem|this pro:indef|one cop|be&3S
+	prep|about det:num|two n|point det:num|thirty det:num|four coord|and
+	det:dem|this pro:indef|one cop|be&3S det:num|nine n|point
+	det:num|six det:num|nine .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|12|LINK 5|7|LINK 6|7|SUBJ 7|12|CJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|12|SUBJ 12|3|CJCT 13|12|JCT 14|17|DET 15|17|QUANT
+	16|17|MOD 17|13|POBJ 18|20|JCT 19|20|SUBJ 20|12|CJCT 21|20|JCT
+	22|25|LINK 23|24|DET 24|25|SUBJ 25|20|COMP 26|25|JCT 27|28|QUANT 28|26|POBJ
+	29|30|QUANT 30|34|SUBJ 31|30|CONJ 32|33|DET 33|31|COORD 34|28|CMOD
+	35|36|QUANT 36|38|DATE 37|38|QUANT 38|34|PRED 39|3|PUNCT
+*S1:	okay [?] (.) so when I add base to the system (.) which proton is
+	going to leave first the one on oxygen or the one on nitrogen ?
+%mor:	co|okay adv|so conj|when pro:sub|I v|add adj|base prep|to
+	det:art|the n|system pro:rel|which n|proton aux|be&3S part|go-PRESP
+	inf|to v|leave adv|first det:art|the pro:indef|one adv|on n|oxygen
+	coord|or det:art|the pro:indef|one adv|on n|nitrogen ?
+%gra:	1|3|COM 2|3|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CMOD 14|15|INF 15|13|COMP
+	16|20|JCT 17|18|DET 18|20|SUBJ 19|20|JCT 20|15|OBJ 21|20|CONJ 22|23|DET
+	23|25|SUBJ 24|25|JCT 25|21|COORD 26|5|PUNCT
+*SS:	&=unintelligible_answers .
+*S1:	the one on oxygen is gonna leave first .
+%mor:	det:art|the det:num|one prep|on n|oxygen aux|be&3S
+	part|go-PRESP~inf|to v|leave adv|first .
+%gra:	1|2|DET 2|6|SUBJ 3|2|JCT 4|3|POBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|JCT 10|6|PUNCT
+*S1:	so the first deprotonation of this polyprotic acid and this is why
+	I'm calling it a polyprotic acid I've got two protons here that I
+	can lose &=writing:board well the first ionization (.) gives me that
+	(.) species (.) and if I were to add acid to that (.) it would go
+	back to being (.) this species here .
+%mor:	co|so det:art|the adj|first de#n|protonate&dv-TION prep|of
+	det:dem|this adj|polyprotic adj|acid coord|and pro:dem|this
+	cop|be&3S pro:rel|why pro:sub|I~aux|be&1S part|call-PRESP pro:per|it
+	det:art|a adj|polyprotic adj|acid pro:sub|I~aux|have part|get&PASTP
+	det:num|two n|proton-PL adv|here pro:rel|that pro:sub|I mod|can
+	v|lose adv|well det:art|the adj|first n|ion&dv-IZE-TION v|give-3S
+	pro:obj|me det:dem|that n|species coord|and conj|if pro:sub|I
+	cop|be&PAST inf|to v|add n|acid inf|to adv|that pro:per|it
+	mod|will&COND v|go adv|back prep|to n:gerund|be-PRESP det:dem|this
+	n|species adv|here .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|CONJ 10|9|COORD 11|8|CMOD 12|15|LINK 13|15|SUBJ 14|15|AUX 15|8|CMOD
+	16|15|OBJ 17|18|DET 18|16|PRED 19|22|LINK 20|22|SUBJ 21|22|AUX 22|18|CMOD
+	23|24|QUANT 24|22|OBJ 25|24|NJCT 26|29|LINK 27|29|SUBJ 28|29|AUX
+	29|25|CMOD 30|34|JCT 31|33|DET 32|33|MOD 33|34|SUBJ 34|29|COMP 35|34|OBJ
+	36|37|DET 37|34|OBJ 38|37|CONJ 39|41|LINK 40|41|SUBJ 41|38|COORD 42|43|INF
+	43|41|CPRED 44|49|SUBJ 45|46|INF 46|49|JCT 47|49|SUBJ 48|49|AUX 49|43|COMP
+	50|49|JCT 51|49|JCT 52|51|POBJ 53|54|DET 54|52|OBJ 55|52|JCT 56|4|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so at low PH I have this at intermediate PH &=writing:board so I
+	get to the form that I have at high PH .
+%mor:	adv|so prep|at n|low n:prop|PH pro:sub|I v|have pro:dem|this
+	prep|at adj|intermediate n:prop|PH conj|so pro:sub|I v|get prep|to
+	det:art|the n|form pro:rel|that pro:sub|I v|have prep|at n|high
+	n:prop|PH .
+%gra:	1|6|JCT 2|6|JCT 3|2|POBJ 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|10|MOD 10|8|POBJ 11|13|LINK 12|13|SUBJ 13|6|CJCT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|19|LINK 18|19|SUBJ 19|16|CMOD 20|19|JCT 21|22|MOD 22|20|POBJ
+	23|6|PUNCT
+*S1:	&=writing:board let's take a moment to consider (.) these two PKA
+	values .
+%mor:	v|let~pro:obj|us v|take det:art|a n|moment inf|to v|consider
+	det:dem|these det:num|two n:prop|PKA v|value-3S .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|7|INF 7|3|XJCT 8|9|DET
+	9|10|QUANT 10|11|SUBJ 11|7|COMP 12|1|PUNCT
+*S1:	why is (.) the carboxylic acid group in an amino acid (.) more
+	acidic (.) than the one in acetic acid ?
+%mor:	pro:int|why cop|be&3S det:art|the adj|carboxylic adj|acid n|group
+	prep|in det:art|a n|amino n|acid adv|more adj|acidic prep|than
+	det:art|the det:num|one prep|in adj|acetic adj|acid ?
+%gra:	1|2|LINK 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|PRED 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|12|JCT 12|6|XMOD 13|12|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|18|MOD 18|16|POBJ 19|2|PUNCT
+*S1:	(0.8) what's going on there ?
+%mor:	pro:int|what~aux|be&3S part|go-PRESP prep|on n|there ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*S3:	positive charge xxx increase xxx stabilize the xxx .
+%mor:	adj|positive n|charge n|increase v|stabilize det:art|the .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PUNCT
+*S1:	so I have the positive charge on this nitrogen (.) exerting an
+	inductive effect (.) stabilizing (.) the negative charge (.) on the
+	carboxylate anion .
+%mor:	co|so pro:sub|I v|have det:art|the adj|positive n|charge prep|on
+	det:dem|this n|nitrogen part|exert-PRESP det:art|a adj|inductive
+	n|effect part|stabilize-PRESP det:art|the adj|negative n|charge
+	prep|on det:art|the n|carboxylate n|anion .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|XJCT 11|13|DET 12|13|MOD 13|10|OBJ 14|13|XMOD 15|17|DET
+	16|17|MOD 17|14|OBJ 18|14|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so that this is (.) considerably more acidic (.) than what we
+	expected by just comparing it to acetic acid .
+%mor:	adv|so comp|that pro:dem|this cop|be&3S adv|consider&dadj-ABLE-LY
+	adv|more adj|acidic prep|than pro:int|what pro:sub|we v|expect-PAST
+	adv|by adv|just part|compare-PRESP pro:per|it prep|to adj|acetic
+	adj|acid .
+%gra:	1|4|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|JCT 7|14|JCT 8|7|JCT
+	9|11|LINK 10|11|SUBJ 11|8|CPOBJ 12|7|JCT 13|14|JCT 14|4|XJCT 15|14|OBJ
+	16|14|JCT 17|18|MOD 18|16|POBJ 19|4|PUNCT
+*S1:	the amino group (.) it depends on whether you compare it to ammonia
+	(.) ammonium ion which has a PKA of about nine point four (.) or
+	methylammonium ion which is about ten (.) it lies somewhere in that
+	range .
+%mor:	det:art|the n|amino n|group pro:per|it v|depend-3S adv|on
+	conj|whether pro:per|you v|compare pro:per|it prep|to n|ammonia
+	n|ammonium n|ion pro:rel|which v|have&3S det:art|a n:prop|PKA
+	prep|of adv|about det:num|nine n|point det:num|four coord|or
+	n|methylammonium n|ion pro:rel|which cop|be&3S prep|about
+	det:num|ten pro:per|it v|lie-3S adv|somewhere prep|in det:dem|that
+	n|range .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|LINK 8|9|SUBJ
+	9|5|CJCT 10|9|OBJ 11|9|JCT 12|14|MOD 13|14|MOD 14|11|POBJ 15|16|LINK
+	16|14|CMOD 17|18|DET 18|16|OBJ 19|18|NJCT 20|21|JCT 21|22|QUANT 22|26|MOD
+	23|26|QUANT 24|23|CONJ 25|24|COORD 26|19|POBJ 27|28|LINK 28|18|CMOD
+	29|30|JCT 30|32|CJCT 31|32|SUBJ 32|28|CPRED 33|32|JCT 34|32|JCT 35|36|DET
+	36|34|POBJ 37|5|PUNCT
+*S1:	and you can argue (.) two ways (.) you can say well it's a little
+	more basic than you expect these electrons are a little more
+	available because they're close to a negative charge (.) or you can
+	argue well +...
+%mor:	coord|and pro:per|you mod|can v|argue det:num|two n|way-PL
+	pro:per|you mod|can v|say adv|well pro:per|it~cop|be&3S det:art|a
+	adj|little adv|more adj|basic prep|than pro:per|you v|expect
+	det:dem|these n|electron-PL cop|be&PRES det:art|a adj|little
+	adv|more adj|avail&dv-ABLE conj|because pro:sub|they~cop|be&PRES
+	adj|close prep|to det:art|a n|negative n|charge coord|or pro:per|you
+	mod|can v|argue adv|well +...
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|9|CJCT 5|6|QUANT 6|4|OBJ 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|12|JCT 11|12|SUBJ 12|9|COMP 13|16|DET 14|16|MOD 15|16|JCT
+	16|12|PRED 17|19|JCT 18|19|SUBJ 19|16|CMOD 20|21|DET 21|22|SUBJ 22|19|COMP
+	23|26|DET 24|26|MOD 25|26|JCT 26|22|PRED 27|29|LINK 28|29|SUBJ 29|9|CJCT
+	30|29|PRED 31|29|JCT 32|34|DET 33|34|MOD 34|31|POBJ 35|38|LINK
+	36|38|SUBJ 37|38|AUX 38|34|CMOD 39|38|JCT 40|9|PUNCT
+*S1:	you have the carboneal@n$adj group there still (.) therefore it
+	makes it a little more (.) unavailable (.) it lies right at the cusp
+	of where you expect it to be and so it's a little hard to make an
+	argument about that as well .
+%mor:	pro:per|you v|have det:art|the adj|carboneal n|group adv|there
+	adv|still adv|therefore pro:per|it v|make-3S pro:per|it det:art|a
+	adj|little pro:indef|more un#adj|avail&dv-ABLE pro:per|it v|lie-3S
+	adv|right prep|at det:art|the n|cusp prep|of pro:int|where
+	pro:per|you v|expect pro:per|it inf|to cop|be coord|and adv|so
+	pro:per|it~cop|be&3S det:art|a adj|little adj|hard inf|to v|make
+	det:art|a n|argue&dv-MENT prep|about pro:dem|that adv|as adv|well .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|10|SUBJ 6|5|NJCT 7|6|JCT 8|10|JCT
+	9|10|SUBJ 10|2|COMP 11|10|OBJ 12|14|DET 13|14|MOD 14|10|OBJ 15|17|LINK
+	16|17|SUBJ 17|14|CMOD 18|19|JCT 19|17|JCT 20|21|DET 21|19|POBJ 22|21|NJCT
+	23|25|LINK 24|25|SUBJ 25|22|CPOBJ 26|25|OBJ 27|28|INF 28|25|COMP
+	29|32|LINK 30|32|JCT 31|32|SUBJ 32|28|CJCT 33|35|DET 34|35|MOD 35|32|PRED
+	36|37|INF 37|35|XMOD 38|39|DET 39|37|OBJ 40|37|JCT 41|40|POBJ 42|43|JCT
+	43|41|JCT 44|2|PUNCT
+*S1:	well we're interested (.) in two numbers .
+%mor:	co|well pro:sub|we~aux|be&PRES part|interest-PASTP prep|in
+	det:num|two n|number-PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|4|PUNCT
+*S1:	one of them is (.) that for a technique that is very often used in
+	analyzing for amino acids or peptides proteins and in separating
+	them .
+%mor:	det:num|one prep|of pro:obj|them cop|be&3S pro:dem|that prep|for
+	det:art|a n|technique pro:rel|that aux|be&3S adv|very adv|often
+	part|use-PASTP prep|in part|analyze-PRESP prep|for n|amino n|acid-PL
+	coord|or n|peptide-PL n|protein-PL coord|and prep|in
+	part|separate-PRESP pro:obj|them .
+%gra:	1|4|SUBJ 2|1|NJCT 3|2|POBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|13|LINK 10|13|AUX 11|12|JCT 12|13|JCT 13|8|CMOD 14|13|JCT 15|14|POBJ
+	16|15|JCT 17|18|MOD 18|16|POBJ 19|18|CONJ 20|21|MOD 21|19|COORD
+	22|15|CONJ 23|22|COORD 24|23|POBJ 25|24|OBJ 26|4|PUNCT
+*S1:	and that's called electrophoresis (.) where you put a substance on
+	a gel (.) and you put two electrodes on it (.) and then you watch to
+	see where (.) the compound migrates (.) in this electric field .
+%mor:	coord|and pro:dem|that~aux|be&3S part|call-PASTP n|electrophoresis
+	pro:rel|where pro:per|you v|put&ZERO det:art|a n|substance prep|on
+	det:art|a n|gel coord|and pro:per|you v|put&ZERO det:num|two
+	n|electrode-PL prep|on pro:per|it coord|and adv:tem|then pro:per|you
+	v|watch inf|to v|see pro:int|where det:art|the n|compound
+	v|migrate-3S adv|in det:dem|this adj|electric n|field .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|10|DET 10|8|OBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|16|LINK 15|16|SUBJ
+	16|8|CJCT 17|18|QUANT 18|16|OBJ 19|16|JCT 20|19|POBJ 21|24|LINK 22|24|JCT
+	23|24|SUBJ 24|16|CJCT 25|26|INF 26|24|COMP 27|30|LINK 28|29|DET
+	29|30|SUBJ 30|26|COMP 31|30|JCT 32|34|DET 33|34|MOD 34|30|JCT 35|4|PUNCT
+*S1:	and there is (.) a point at which no migration takes place .
+%mor:	coord|and adv|there cop|be&3S det:art|a n|point prep|at
+	pro:int|which qn|no n|migrate&dv-TION v|take-3S n|place .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|10|LINK
+	8|9|QUANT 9|10|SUBJ 10|6|CPOBJ 11|10|OBJ 12|3|PUNCT
+*S1:	and that PH is called the isoelectric point .
+%mor:	coord|and comp|that n:prop|PH aux|be&3S part|call-PASTP det:art|the
+	adj|isoelectric n|point .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*S1:	the point in &whi at which the charges within the molecule are
+	balanced (.) so that it migrates neither to the positive electrode
+	nor to the (.) negative electrode .
+%mor:	det:art|the n|point adv|in prep|at pro:int|which det:art|the
+	n|charge-PL prep|within det:art|the n|molecule aux|be&PRES
+	part|balance-PASTP adv|so pro:rel|that pro:per|it v|migrate-3S
+	adv|neither prep|to det:art|the adj|positive n|electrode coord|nor
+	prep|to det:art|the adj|negative n|electrode .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|JCT 5|12|LINK 6|7|DET 7|12|SUBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|12|AUX 12|4|CPOBJ 13|12|JCT 14|16|LINK
+	15|16|SUBJ 16|13|CMOD 17|16|JCT 18|16|JCT 19|21|DET 20|21|MOD 21|18|POBJ
+	22|16|CONJ 23|22|COORD 24|26|DET 25|26|MOD 26|23|POBJ 27|2|PUNCT
+*S1:	&=writes:board so one (.) value we're going to be interested in (.)
+	is (.) PH for what we call the isoelectric point .
+%mor:	adv|so det:num|one n|value pro:sub|we~aux|be&PRES part|go-PRESP
+	inf|to aux|be part|interest-PASTP prep|in cop|be&3S n:prop|PH
+	prep|for pro:int|what pro:sub|we v|call det:art|the adj|isoelectric
+	n|point .
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|9|INF 8|9|AUX
+	9|6|COMP 10|9|JCT 11|10|POBJ 12|11|PRED 13|12|JCT 14|16|LINK 15|16|SUBJ
+	16|13|CPOBJ 17|19|DET 18|19|MOD 19|16|OBJ 20|3|PUNCT
+*S1:	(0.15) the point at which (0.8) the amino acid (0.7) does not
+	migrate (0.5) to either electrode (0.6) in an electric field .
+%mor:	det:art|the n|point prep|at pro:int|which det:art|the n|amino
+	n|acid mod|do&3S neg|not v|migrate prep|to coord|either n|electrode
+	prep|in det:art|a n|electric n|field .
+%gra:	1|2|DET 2|0|INCROOT 3|2|JCT 4|10|LINK 5|7|DET 6|7|MOD 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|3|CPOBJ 11|10|JCT 12|11|CONJ 13|12|COORD 14|13|NJCT
+	15|17|DET 16|17|MOD 17|14|POBJ 18|2|PUNCT
+*S1:	(0.9) for example (.) at low PH the amino acid has a net positive
+	charge (.) and therefore (.) it will migrate to the negative
+	electrode +...
+%mor:	prep|for ex#adj|ample prep|at n|low n:prop|PH det:art|the n|amino
+	adj|acid v|have&3S det:art|a n|net adj|positive n|charge coord|and
+	adv|therefore pro:per|it mod|will v|migrate prep|to det:art|the
+	adj|negative n|electrode +...
+%gra:	1|0|INCROOT 2|1|POBJ 3|9|JCT 4|5|MOD 5|3|POBJ 6|7|DET 7|9|SUBJ 8|9|JCT
+	9|2|CJCT 10|11|DET 11|13|MOD 12|13|MOD 13|9|OBJ 14|18|LINK 15|18|JCT
+	16|18|SUBJ 17|18|AUX 18|13|CJCT 19|18|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|1|PUNCT
+*S1:	and at high PH it has a net (.) negative charge (.) and therefore
+	it will migrate to the positive electrode .
+%mor:	coord|and prep|at n|high n:prop|PH pro:per|it aux|have&3S det:art|a
+	n|net adj|negative n|charge coord|and adv|therefore pro:per|it
+	mod|will v|migrate prep|to det:art|the adj|positive n|electrode .
+%gra:	1|10|LINK 2|10|JCT 3|4|MOD 4|2|POBJ 5|10|SUBJ 6|10|AUX 7|8|DET 8|10|MOD
+	9|10|MOD 10|0|INCROOT 11|15|LINK 12|15|JCT 13|15|SUBJ 14|15|AUX
+	15|10|CJCT 16|15|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|10|PUNCT
+*S1:	and I can manipulate the PH to do to make it do either one of those
+	things .
+%mor:	coord|and pro:sub|I mod|can v|manipulate det:art|the n:prop|PH
+	inf|to v|do inf|to v|make pro:per|it v|do qn|either pro:indef|one
+	prep|of det:dem|those n|thing-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|8|SUBJ 7|8|INF 8|4|COMP
+	9|10|INF 10|8|COMP 11|12|SUBJ 12|10|COMP 13|14|QUANT 14|12|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|4|PUNCT
+*S1:	but at this intermediate value whatever that is (.) I have a
+	situation (.) where the charges are balanced within the same
+	molecule (.) and therefore (.) the compound is stationary (.) in an
+	electric field .
+%mor:	conj|but prep|at det:dem|this adj|intermediate n|value
+	pro:int|whatever adv|that cop|be&3S pro:sub|I v|have det:art|a
+	n|situate&dv-TION pro:rel|where det:art|the n|charge-PL aux|be&PRES
+	part|balance-PASTP prep|within det:art|the adj|same n|molecule
+	coord|and adv|therefore det:art|the n|compound cop|be&3S
+	adj|stationary prep|in det:art|a adj|electric n|field .
+%gra:	1|8|LINK 2|8|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|8|LINK 7|8|JCT 8|10|CJCT
+	9|10|SUBJ 10|0|ROOT 11|12|DET 12|10|OBJ 13|17|LINK 14|15|DET 15|17|SUBJ
+	16|17|AUX 17|12|CMOD 18|17|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|26|LINK
+	23|26|JCT 24|25|DET 25|26|SUBJ 26|21|CMOD 27|26|PRED 28|26|JCT 29|31|DET
+	30|31|MOD 31|28|POBJ 32|10|PUNCT
+*S1:	this also happens to be the point at which the amino acid is least
+	soluble .
+%mor:	pro:dem|this adv|also v|happen-3S inf|to cop|be det:art|the n|point
+	prep|at pro:int|which det:art|the n|amino n|acid cop|be&3S adj|least
+	adj|soluble .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|PRED 8|7|NJCT
+	9|13|LINK 10|12|DET 11|12|MOD 12|13|SUBJ 13|8|CPOBJ 14|15|MOD 15|13|PRED
+	16|3|PUNCT
+*S1:	so you can sometimes get it to precipitate from solution (.) at
+	this isoelectric point .
+%mor:	co|so pro:per|you mod|can adv|sometimes v|get pro:per|it inf|to
+	v|precipitate prep|from n|solution prep|at det:dem|this
+	adj|isoelectric n|point .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|OBJ 7|8|INF 8|5|COMP
+	9|8|JCT 10|9|POBJ 11|8|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|5|PUNCT
+*S1:	so that's another reason that we're interested (.) in knowing what
+	that isoelectric point is so that we can isolate (.) a [?] compound
+	.
+%mor:	co|so pro:dem|that~cop|be&3S qn|another n|reason comp|that
+	pro:sub|we~aux|be&PRES part|interest-PASTP adv|in part|know-PRESP
+	pro:int|what det:dem|that adj|isoelectric n|point cop|be&3S adv|so
+	pro:rel|that pro:sub|we mod|can v|isolate det:art|a n|compound .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CMOD 10|9|JCT 11|9|XJCT 12|16|LINK 13|15|DET 14|15|MOD 15|16|SUBJ
+	16|11|COMP 17|16|PRED 18|21|LINK 19|21|SUBJ 20|21|AUX 21|17|CMOD 22|23|DET
+	23|21|OBJ 24|3|PUNCT
+*S1:	the other thing that we are really interested in (.) especially
+	when you get into biochemistry (.) medicine (.) is what is the form
+	of the amino acid (.) at physiological PH ?
+%mor:	det:art|the qn|other n|thing pro:rel|that pro:sub|we aux|be&PRES
+	adv|real&dadj-LY part|interest-PASTP prep|in adv|especial&dadj-LY
+	conj|when pro:per|you v|get prep|into bio#n|chemistry n|medicine
+	cop|be&3S pro:int|what cop|be&3S det:art|the n|form prep|of
+	det:art|the n|amino n|acid prep|at n|physiological n:prop|PH ?
+%gra:	1|3|DET 2|3|QUANT 3|19|SUBJ 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|JCT 8|3|CMOD
+	9|8|JCT 10|9|POBJ 11|13|LINK 12|13|SUBJ 13|19|CJCT 14|13|JCT 15|17|COM
+	16|17|SUBJ 17|14|POBJ 18|19|SUBJ 19|0|ROOT 20|21|DET 21|19|PRED
+	22|21|NJCT 23|25|DET 24|25|MOD 25|22|POBJ 26|21|NJCT 27|26|POBJ 28|21|APP
+	29|19|PUNCT
+*S1:	what is the form in which it exists (.) the cells and the tissues
+	(.) enzymes things like that ?
+%mor:	pro:int|what cop|be&3S det:art|the n|form prep|in pro:rel|which
+	pro:per|it v|exist-3S det:art|the n|cell-PL coord|and det:art|the
+	n|tissue-PL n|enzyme-PL n|thing-PL prep|like pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|8|LINK 7|8|SUBJ 8|5|POBJ
+	9|10|DET 10|8|OBJ 11|8|CONJ 12|15|DET 13|15|MOD 14|15|MOD 15|11|COORD
+	16|15|NJCT 17|16|POBJ 18|2|PUNCT
+*S1:	so that is the second PH value that we're gonna be interested in .
+%mor:	adv|so pro:rel|that cop|be&3S det:art|the adj|second n:prop|PH
+	n|value pro:rel|that pro:sub|we~aux|be&PRES part|go-PRESP~inf|to
+	aux|be part|interest-PASTP adv|in .
+%gra:	1|3|JCT 2|3|LINK 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|PRED 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|CMOD 12|14|INF 13|14|AUX 14|11|COMP 15|14|JCT
+	16|3|PUNCT
+*S1:	&=writing:board and for the (.) sake of argument it varies from
+	tissue to tissue (.) but let's just take (.) a PH of six point five
+	as physiological PH .
+%mor:	coord|and prep|for det:art|the n|sake prep|of n|argue&dv-MENT
+	pro:per|it v|vary-3S prep|from n|tissue prep|to n|tissue conj|but
+	v|let~pro:obj|us adv|just v|take det:art|a n:prop|PH prep|of
+	det:num|six n|point det:num|five prep|as n|physiological n:prop|PH .
+%gra:	1|8|LINK 2|8|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|8|JCT 12|11|POBJ 13|8|CONJ 14|13|COORD 15|14|OBJ
+	16|17|JCT 17|14|COMP 18|19|DET 19|17|OBJ 20|19|NJCT 21|22|QUANT 22|20|POBJ
+	23|25|QUANT 24|25|COORD 25|19|APP 26|19|APP 27|8|PUNCT
+*S1:	okay +..?
+%mor:	co|okay +..?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	well last time +...
+%mor:	co|well adj|last n|time +...
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S1:	we derived (.) the equation for the acidity constant (.) of a weak
+	acid (.) the KA (.) and from that then &=writes:board by certain
+	manipulations we arrived at the (.) Henderson_Hasselbach equation
+	(.) which said that the PH was equal to the PKA (0.5) plus the log
+	(.) of the ratio (.) of the concentration of the (.) conjugate base
+	of the acid +...
+%mor:	pro:sub|we v|derive-PAST det:art|the n|equate&dv-TION prep|for
+	det:art|the n|acidity n|constant prep|of det:art|a adj|weak adj|acid
+	det:art|the n:prop|KA coord|and prep|from det:dem|that adv:tem|then
+	adv|by adj|certain n|manipulate&dv-TION-PL pro:sub|we v|arrive-PAST
+	prep|at det:art|the n:prop|Henderson_Hasselbach n|equate&dv-TION
+	pro:rel|which v|say&PAST comp|that det:art|the n:prop|PH
+	cop|be&PAST&13S adj|equal prep|to det:art|the n:prop|PKA adv|plus
+	det:art|the n|log prep|of det:art|the n|ratio prep|of det:art|the
+	n|concentrate&dv-TION prep|of det:art|the n|conjugate n|base prep|of
+	det:art|the n|acid +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|14|MOD 13|14|DET 14|11|CMOD 15|14|CONJ
+	16|15|COORD 17|18|DET 18|16|POBJ 19|20|JCT 20|21|MOD 21|16|POBJ 22|23|SUBJ
+	23|21|CMOD 24|23|JCT 25|27|DET 26|27|MOD 27|24|POBJ 28|29|LINK 29|21|CMOD
+	30|33|LINK 31|32|DET 32|33|SUBJ 33|29|COMP 34|33|PRED 35|33|JCT
+	36|37|DET 37|35|POBJ 38|37|NJCT 39|40|DET 40|38|POBJ 41|40|NJCT 42|43|DET
+	43|41|POBJ 44|43|NJCT 45|46|DET 46|44|POBJ 47|46|NJCT 48|50|DET 49|50|MOD
+	50|47|POBJ 51|50|NJCT 52|53|DET 53|51|POBJ 54|2|PUNCT
+*S1:	to the concentration of the conjugate acid itself .
+%mor:	prep|to det:art|the n|concentrate&dv-TION prep|of det:art|the
+	n|conjugate adj|acid pro:refl|itself .
+%gra:	1|8|JCT 2|3|DET 3|1|POBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|8|MOD 8|0|INCROOT
+	9|8|PUNCT
+*S1:	(0.4) so this is a relationship that relates the PKA of the
+	particular acid we're talking about to the PH of the solution .
+%mor:	adv|so pro:dem|this cop|be&3S det:art|a n|relate&dv-TION-SHIP
+	pro:rel|that v|relate-3S det:art|the n:prop|PKA prep|of det:art|the
+	n|particular n|acid pro:sub|we~aux|be&PRES part|talk-PRESP adv|about
+	prep|to det:art|the n:prop|PH prep|of det:art|the n|solution .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|LINK 7|5|CMOD 8|9|DET
+	9|16|CJCT 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|16|SUBJ 15|16|AUX
+	16|7|COMP 17|16|JCT 18|16|JCT 19|20|DET 20|18|POBJ 21|20|NJCT 22|23|DET
+	23|21|POBJ 24|3|PUNCT
+*S1:	&=writes:board and we went further and said that when (.) at the
+	special point at which we had an equal concentration of the
+	conjugate base and the conjugate acid (.) so when the concentration
+	of the conjugate base equaled that of the conjugate acid (.) then
+	the log +...
+%mor:	coord|and pro:sub|we v|go&PAST adj|further coord|and v|say&PAST
+	comp|that conj|when prep|at det:art|the n|special n|point prep|at
+	pro:int|which pro:sub|we v|have&PAST det:art|a n|equal
+	n|concentrate&dv-TION prep|of det:art|the n|conjugate n|base
+	coord|and det:art|the n|conjugate n|acid co|so conj|when det:art|the
+	n|concentrate&dv-TION prep|of det:art|the n|conjugate n|base
+	part|equal-PASTP comp|that prep|of det:art|the n|conjugate n|acid
+	adv:tem|then det:art|the n|log +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|CONJ 6|5|COORD 7|6|OBJ 8|7|OM
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|12|NJCT 14|16|LINK 15|16|SUBJ
+	16|13|CPOBJ 17|19|DET 18|19|MOD 19|16|OBJ 20|19|NJCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|19|CONJ 25|27|DET 26|27|MOD 27|24|COORD 28|29|COM
+	29|9|POBJ 30|31|DET 31|29|OBJ 32|31|NJCT 33|35|DET 34|35|MOD 35|32|POBJ
+	36|31|XMOD 37|36|OBJ 38|37|NJCT 39|41|DET 40|41|MOD 41|44|SUBJ 42|44|JCT
+	43|44|DET 44|38|POBJ 45|3|PUNCT
+*S1:	this term the log of the concentration of the conjugate base (.)
+	over that of the conjugate acid (.) was equal (.) to zero +...
+%mor:	det:dem|this v|term det:art|the n|log prep|of det:art|the
+	n|concentrate&dv-TION prep|of det:art|the n|conjugate n|base
+	adv|over pro:dem|that prep|of det:art|the n|conjugate adj|acid
+	aux|be&PAST&13S adj|equal prep|to det:num|zero +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|2|JCT 13|12|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|13|OM 18|17|OM 19|18|PRED 20|19|JCT 21|20|POBJ 22|2|PUNCT
+*S1:	so that allows us to cancel out this term +...
+%mor:	adv|so pro:rel|that v|allow-3S pro:obj|us inf|to v|cancel adv|out
+	det:dem|this n|term +...
+%gra:	1|3|JCT 2|3|LINK 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*S1:	and we have this one special point (.) at which (.) the PH of the
+	solution (.) is equal to the PKA of the acid that we're talking
+	about .
+%mor:	coord|and pro:sub|we v|have pro:dem|this pro:indef|one adj|special
+	n|point prep|at pro:rel|which det:art|the n:prop|PH prep|of
+	det:art|the n|solution cop|be&3S adj|equal prep|to det:art|the
+	n:prop|PKA prep|of det:art|the n|acid comp|that
+	pro:sub|we~aux|be&PRES part|talk-PRESP adv|about .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|15|LINK 5|15|SUBJ 6|7|MOD 7|15|JCT
+	8|7|NJCT 9|8|POBJ 10|11|DET 11|15|SUBJ 12|11|NJCT 13|14|DET 14|12|POBJ
+	15|3|COMP 16|15|PRED 17|16|JCT 18|19|DET 19|17|POBJ 20|19|NJCT 21|22|DET
+	22|20|POBJ 23|26|LINK 24|26|SUBJ 25|26|AUX 26|16|XMOD 27|26|JCT 28|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so now let's see what (.) it looks like (.) if we try to plot (0.6)
+	what kinds of species we have (.) at different PHs (.) for [/] &ana
+	for alanine (.) xxx for the amino acid (.) alanine [?] .
+%mor:	adv|so adv|now v|let~pro:obj|us v|see pro:int|what pro:per|it
+	v|look-3S conj|like conj|if pro:sub|we v|try inf|to v|plot
+	pro:int|what n|kind-PL prep|of n|species pro:sub|we v|have prep|at
+	adj|different n:prop|PHs prep|for n|alanine prep|for det:art|the
+	n|amino adj|acid n|alanine .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|COMP 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|8|JCT 10|12|LINK 11|12|SUBJ 12|9|CPOBJ 13|14|INF 14|12|COMP 15|20|LINK
+	16|20|JCT 17|16|NJCT 18|17|POBJ 19|20|SUBJ 20|14|COMP 21|20|JCT 22|23|MOD
+	23|21|POBJ 24|20|JCT 25|24|POBJ 26|20|JCT 27|28|DET 28|30|MOD 29|30|MOD
+	30|26|POBJ 31|3|PUNCT
+*S1:	&=writing:board and on this axis I'm going to plot the relative
+	abundance (.) of the different species there whether the (.)
+	concentration of the (.) conjugate (.) base or that of the acid .
+%mor:	coord|and prep|on det:dem|this n|axis pro:sub|I~aux|be&1S
+	part|go-PRESP inf|to v|plot det:art|the adj|relative n|abundance
+	prep|of det:art|the adj|different n|species adv|there comp|whether
+	det:art|the n|concentrate&dv-TION prep|of det:art|the n|conjugate
+	n|base coord|or pro:dem|that prep|of det:art|the n|acid .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|INF
+	9|7|COMP 10|12|DET 11|12|MOD 12|9|OBJ 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|9|JCT 18|9|INCROOT 19|20|DET 20|18|OBJ 21|20|NJCT 22|24|DET
+	23|24|MOD 24|21|POBJ 25|20|CONJ 26|25|COORD 27|26|JCT 28|29|DET 29|27|POBJ
+	30|18|PUNCT
+*S1:	so at some point I have &hun a hundred percent (.) of whichever
+	species I'm talking about (.) down here I have zero percent (.) and
+	in between (.) that point I have equal amounts of the two species
+	+...
+%mor:	adv|so prep|at qn|some n|point pro:sub|I v|have det:art|a
+	det:num|hundred n|percent prep|of pro:int|whichever n|species
+	pro:sub|I~aux|be&1S part|talk-PRESP adv|about prep|down adv|here
+	pro:sub|I v|have det:num|zero n|percent coord|and adv|in
+	prep|between det:dem|that n|point pro:sub|I v|have adj|equal
+	n|amount-PL prep|of det:art|the det:num|two n|species +...
+%gra:	1|6|JCT 2|1|JCT 3|4|QUANT 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|QUANT
+	9|6|OBJ 10|9|NJCT 11|12|MOD 12|15|PRED 13|15|SUBJ 14|15|AUX 15|10|CPOBJ
+	16|17|JCT 17|15|JCT 18|20|JCT 19|20|SUBJ 20|17|CPOBJ 21|22|QUANT
+	22|20|OBJ 23|22|CONJ 24|23|COORD 25|24|JCT 26|27|DET 27|25|POBJ 28|29|SUBJ
+	29|6|CJCT 30|31|MOD 31|29|OBJ 32|31|NJCT 33|35|DET 34|35|QUANT 35|32|POBJ
+	36|6|PUNCT
+*S1:	so I start with alanine at low PH .
+%mor:	co|so pro:sub|I v|start prep|with n|alanine prep|at n|low n:prop|PH
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+*S1:	(0.6) and almost all (.) of the (.) species in solution are this
+	form (.) of alanine .
+%mor:	coord|and adv|almost adv|all prep|of det:art|the n|species prep|in
+	n|solution cop|be&PRES det:dem|this n|form prep|of n|alanine .
+%gra:	1|9|LINK 2|9|JCT 3|4|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|0|ROOT 10|11|DET 11|9|PRED 12|11|NJCT 13|12|POBJ 14|9|PUNCT
+*S1:	the +//.
+%mor:	det:art|the +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	form in which it has it's doubly protonated .
+%mor:	n|form prep|in pro:rel|which pro:per|it aux|have&3S
+	pro:per|it~aux|be&3S adv|double&dadj-LY part|protonate-PASTP .
+%gra:	1|0|INCROOT 2|1|NJCT 3|9|LINK 4|9|SUBJ 5|9|AUX 6|9|SUBJ 7|9|AUX 8|9|JCT
+	9|2|POBJ 10|1|PUNCT
+*S1:	okay (.) but as I add base (.) the concentration of the (.) acid
+	falls (.) HA falls and for every molecule of HA that is deprotonated
+	I get one molecule of a@l minus formed (.) so I have a loss of HA
+	(.) and a gain of a@l minus .
+%mor:	co|okay conj|but prep|as pro:sub|I v|add v|base det:art|the
+	n|concentrate&dv-TION prep|of det:art|the n|acid v|fall-3S n:prop|HA
+	v|fall-3S coord|and prep|for qn|every n|molecule prep|of n:prop|HA
+	pro:rel|that aux|be&3S de#part|protonate-PASTP pro:sub|I v|get
+	det:num|one n|molecule prep|of n:let|a n|minus part|form-PASTP
+	adv|so pro:sub|I v|have det:art|a n|loss prep|of n:prop|HA coord|and
+	det:art|a n|gain prep|of n:let|a n|minus .
+%gra:	1|5|COM 2|1|CONJ 3|2|COORD 4|5|SUBJ 5|0|ROOT 6|5|COMP 7|8|DET 8|12|SUBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|6|COMP 13|14|SUBJ 14|12|COMP 15|14|CONJ
+	16|15|COORD 17|18|QUANT 18|16|POBJ 19|18|NJCT 20|19|POBJ 21|23|LINK
+	22|23|AUX 23|20|CMOD 24|25|SUBJ 25|23|CMOD 26|27|QUANT 27|25|OBJ 28|27|NJCT
+	29|28|POBJ 30|31|MOD 31|29|COMP 32|34|JCT 33|34|SUBJ 34|31|COMP
+	35|36|DET 36|34|OBJ 37|36|NJCT 38|37|POBJ 39|36|CONJ 40|41|DET 41|39|COORD
+	42|41|NJCT 43|44|MOD 44|42|POBJ 45|5|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and our equation tells us that at a PH value equal to the PKA value
+	(.) which is two point thirty four for the first proton that I'm
+	taking off (.) so somewhere around here +...
+%mor:	coord|and det:poss|our n|equate&dv-TION v|tell-3S pro:obj|us
+	comp|that prep|at det:art|a n:prop|PH n|value adj|equal prep|to
+	det:art|the n:prop|PKA n|value pro:rel|which cop|be&3S det:num|two
+	v|point det:num|thirty det:num|four prep|for det:art|the adj|first
+	n|proton pro:rel|that pro:sub|I~aux|be&1S part|take-PRESP adv|off
+	conj|so n|somewhere prep|around n|here +...
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|11|LINK 7|11|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|JCT 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|17|LINK 17|15|CMOD 18|19|QUANT 19|17|CPRED 20|21|QUANT 21|19|OBJ
+	22|21|JCT 23|25|DET 24|25|MOD 25|22|POBJ 26|29|LINK 27|29|SUBJ 28|29|AUX
+	29|25|CMOD 30|29|JCT 31|29|JCT 32|31|POBJ 33|32|NJCT 34|33|POBJ 35|4|PUNCT
+*S1:	the concentration of a@l minus will equal the concentration (.) of
+	HA .
+%mor:	det:art|the n|concentrate&dv-TION prep|of n:let|a n|minus mod|will
+	v|equal det:art|the n|concentrate&dv-TION prep|of n:prop|HA .
+%gra:	1|2|DET 2|7|SUBJ 3|2|NJCT 4|5|MOD 5|3|POBJ 6|7|AUX 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|10|POBJ 12|7|PUNCT
+*S1:	&=writing:board and then (.) the concentration of HA will continue
+	to decline .
+%mor:	coord|and adv:tem|then det:art|the n|concentrate&dv-TION prep|of
+	n:prop|HA mod|will v|continue prep|to n|decline .
+%gra:	1|8|LINK 2|8|JCT 3|4|DET 4|8|SUBJ 5|4|NJCT 6|5|POBJ 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|8|PUNCT
+*S1:	&=writing:board and growing in then starting from almost zero (.) I
+	will begin to see the conjugate base (.) forming .
+%mor:	coord|and part|grow-PRESP prep|in adv:tem|then part|start-PRESP
+	prep|from adv|almost det:num|zero pro:sub|I mod|will v|begin inf|to
+	v|see det:art|the n|conjugate n|base part|form-PRESP .
+%gra:	1|11|LINK 2|11|XJCT 3|2|JCT 4|3|POBJ 5|11|XJCT 6|5|JCT 7|8|JCT 8|6|POBJ
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|13|INF 13|11|COMP 14|16|DET 15|16|MOD
+	16|13|OBJ 17|16|XMOD 18|11|PUNCT
+*S1:	and again at this point (.) half of the species in solution will be
+	that of the conjugate base .
+%mor:	coord|and adv|again prep|at det:dem|this n|point n|half prep|of
+	det:art|the n|species prep|in n|solution mod|will cop|be
+	pro:dem|that prep|of det:art|the n|conjugate n|base .
+%gra:	1|13|LINK 2|13|JCT 3|13|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|13|AUX 13|0|ROOT 14|13|PRED 15|14|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|13|PUNCT
+*S1:	&=writing:board then I continue to add more base .
+%mor:	adv:tem|then pro:sub|I v|continue inf|to v|add qn|more n|base .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|QUANT 7|5|OBJ 8|3|PUNCT
+*S1:	I'm now at this point .
+%mor:	pro:sub|I~cop|be&1S adv|now prep|at det:dem|this n|point .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*S1:	that's what we said at intermediate PH (.) here .
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:sub|we v|say&PAST prep|at
+	adj|intermediate n:prop|PH adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CPRED 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|5|JCT 10|2|PUNCT
+*S1:	and I continue to add base .
+%mor:	coord|and pro:sub|I v|continue inf|to v|add n|base .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*S1:	let me remind you that I can go this way too with acid .
+%mor:	v|let&ZERO pro:obj|me v|remind pro:per|you comp|that pro:sub|I
+	mod|can v|go det:dem|this n|way adv|too prep|with n|acid .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|10|DET 10|8|OBJ 11|8|JCT 12|8|JCT 13|12|POBJ 14|1|PUNCT
+*S1:	I continue to add base .
+%mor:	pro:sub|I v|continue inf|to v|add n|base .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*S1:	and so at the PKA value corresponding to this proton which is the
+	one I'm now going to remove (.) at nine point six nine (.) I again
+	have a crossing point .
+%mor:	coord|and adv|so prep|at det:art|the n:prop|PKA n|value
+	part|correspond-PRESP prep|to det:dem|this n|proton pro:rel|which
+	cop|be&3S det:art|the det:num|one pro:sub|I~aux|be&1S adv|now
+	part|go-PRESP inf|to v|remove prep|at det:num|nine n|point
+	det:num|six det:num|nine pro:sub|I adv|again v|have det:art|a
+	part|cross-PRESP n|point .
+%gra:	1|7|LINK 2|3|JCT 3|7|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|12|LINK 12|10|CMOD 13|14|DET 14|12|PRED 15|18|SUBJ
+	16|18|AUX 17|18|JCT 18|14|CMOD 19|20|INF 20|18|COMP 21|20|JCT 22|23|QUANT
+	23|21|POBJ 24|25|DATE 25|20|OBJ 26|28|SUBJ 27|28|JCT 28|25|CMOD 29|31|DET
+	30|31|MOD 31|28|OBJ 32|7|PUNCT
+*S1:	&=writing:board and the third species builds in .
+%mor:	coord|and det:art|the adj|third n|species v|build-3S adv|in .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*S1:	and I'm deliberately drawing these longish tails (.) to remind you
+	(.) that this doesn't happen all at once .
+%mor:	coord|and pro:sub|I~aux|be&1S adv|deliberate&dadj-LY
+	part|draw-PRESP pro:dem|these adj|long&dn-ISH n|tail-PL inf|to
+	v|remind pro:per|you comp|that pro:dem|this mod|do&3S~neg|not
+	v|happen pro:indef|all prep|at adv|once .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|10|INF 10|8|XMOD 11|10|OBJ 12|16|LINK 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|10|COMP 17|16|OBJ 18|17|NJCT 19|18|POBJ 20|5|PUNCT
+*S1:	that all three of these things are really in equilibrium with
+	each_other we're just talking about what predominates at any one (.)
+	PH .
+%mor:	comp|that qn|all det:num|three prep|of det:dem|these n|thing-PL
+	cop|be&PRES adv|real&dadj-LY prep|in n|equilibrium prep|with
+	pro:refl|each_other pro:sub|we~aux|be&PRES adv|just part|talk-PRESP
+	prep|about pro:int|what pre#v|dominate-3S prep|at qn|any det:num|one
+	n:prop|PH .
+%gra:	1|3|LINK 2|3|QUANT 3|7|SUBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|7|JCT 12|11|POBJ 13|16|SUBJ 14|16|AUX 15|16|JCT
+	16|7|CJCT 17|16|JCT 18|19|DET 19|17|POBJ 20|19|NJCT 21|22|QUANT 22|23|QUANT
+	23|20|POBJ 24|7|PUNCT
+*S1:	and so somewhere around here we begin to see (.) some of the third
+	species coming in &=writing:board and at high PH then (.) it becomes
+	the predominant species .
+%mor:	coord|and adv|so adv|somewhere prep|around n|here pro:sub|we
+	v|begin inf|to v|see pro:indef|some prep|of det:art|the adj|third
+	n|species part|come-PRESP adv|in coord|and prep|at n|high n:prop|PH
+	adv:tem|then pro:per|it cop|become-3S det:art|the pre#adj|dominant
+	n|species .
+%gra:	1|7|LINK 2|3|JCT 3|7|JCT 4|3|JCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|OBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ 15|9|XJCT
+	16|15|JCT 17|23|LINK 18|23|JCT 19|18|POBJ 20|23|SUBJ 21|23|JCT 22|23|SUBJ
+	23|15|CJCT 24|26|DET 25|26|MOD 26|23|PRED 27|7|PUNCT
+*S1:	so here &=writing:board this region we have predominantly that
+	species +...
+%mor:	co|so pro:exist|here det:dem|this n|region pro:sub|we v|have
+	pre#adv|dominant&dadj-LY pro:dem|that n|species +...
+%gra:	1|6|COM 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|6|COMP 8|9|DET
+	9|7|OM 10|6|PUNCT
+*S1:	down here &=writing:board we have this species +...
+%mor:	prep|down n|here pro:sub|we v|have det:dem|this n|species +...
+%gra:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*S1:	now with this we can answer two questions (.) one is (.) what is
+	the isoelectric point ?
+%mor:	adv|now prep|with det:dem|this pro:sub|we mod|can v|answer
+	det:num|two n|question-PL det:num|one cop|be&3S pro:int|what
+	cop|be&3S det:art|the adj|isoelectric n|point ?
+%gra:	1|0|INCROOT 2|1|JCT 3|6|DET 4|6|SUBJ 5|6|AUX 6|2|POBJ 7|8|QUANT 8|6|OBJ
+	9|10|SUBJ 10|8|CMOD 11|12|SUBJ 12|10|PRED 13|15|DET 14|15|MOD
+	15|12|PRED 16|1|PUNCT
+*S1:	and that is the (.) point at which we have a +...
+%mor:	coord|and pro:dem|that cop|be&3S det:art|the n|point prep|at
+	pro:int|which pro:sub|we v|have det:art|a +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|9|LINK 8|9|SUBJ
+	9|6|CPOBJ 10|11|DET 11|3|PUNCT
+*S1:	maximum for our +...
+%mor:	adj|maximum prep|for det:poss|our +...
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*S1:	balanced ionic species the zwitterion .
+%mor:	v|balance-PAST adj|ionic n|species det:art|the n|zwitterion .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*S1:	&=writing:board which is actually if you wanna be more accurate the
+	arithmetic mean of the two PKA values that (.) border it .
+%mor:	pro:rel|which cop|be&3S adv|actual&dadj-LY conj|if pro:per|you
+	v|want~inf|to aux|be adv|more adj|accurate det:art|the n|arithmetic
+	adj|mean prep|of det:art|the det:num|two n:prop|PKA v|value-3S
+	det:dem|that n|border pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|8|INF 8|18|XJCT
+	9|10|JCT 10|8|PRED 11|12|DET 12|18|SUBJ 13|18|XJCT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|18|SUBJ 18|6|COMP 19|20|DET 20|18|OBJ 21|20|OBJ 22|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so if we took the arithmetic mean of two point thirty four and nine
+	point six nine (.) you would get (.) the (.) isoelectric point for
+	alanine .
+%mor:	adv|so conj|if pro:sub|we v|take&PAST det:art|the n|arithmetic
+	v|mean prep|of det:num|two n|point det:num|thirty det:num|four
+	coord|and det:num|nine n|point det:num|six det:num|nine pro:per|you
+	mod|will&COND v|get det:art|the adj|isoelectric n|point prep|for
+	n|alanine .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|20|CJCT 5|6|DET 6|20|SUBJ 7|20|CJCT 8|7|JCT
+	9|10|QUANT 10|8|POBJ 11|12|QUANT 12|16|QUANT 13|12|CONJ 14|15|QUANT
+	15|13|COORD 16|17|QUANT 17|18|QUANT 18|20|SUBJ 19|20|AUX 20|0|ROOT
+	21|23|DET 22|23|MOD 23|20|OBJ 24|23|NJCT 25|24|POBJ 26|20|PUNCT
+*S1:	and the other question was (.) what form does the amino acid exist
+	in (.) at physiological PH ?
+%mor:	coord|and det:art|the qn|other n|question cop|be&PAST&13S
+	pro:int|what n|form mod|do&3S det:art|the n|amino adj|acid v|exist
+	adv|in prep|at n|physiological n:prop|PH ?
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|12|LINK 7|12|SUBJ
+	8|12|AUX 9|10|DET 10|12|SUBJ 11|10|POSTMOD 12|16|CSUBJ 13|12|JCT 14|12|JCT
+	15|14|POBJ 16|5|PRED 17|5|PUNCT
+*S1:	and physiological PH we defined as six point five .
+%mor:	coord|and n|physiological n:prop|PH pro:sub|we v|define-PAST
+	prep|as det:num|six n|point det:num|five .
+%gra:	1|5|LINK 2|3|MOD 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|9|COORD 7|8|QUANT 8|9|MOD
+	9|5|ENUM 10|5|PUNCT
+*S1:	&=writing:board okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so again the &zwitter zwitterionic form exists at physiological PH
+	+...
+%mor:	adv|so adv|again det:art|the adj|zwitterionic n|form v|exist-3S
+	prep|at n|physiological n:prop|PH +...
+%gra:	1|2|JCT 2|6|JCT 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|OM 10|6|PUNCT
+*S1:	do you have any questions about what I've done so far ?
+%mor:	mod|do pro:per|you v|have qn|any n|question-PL prep|about
+	pro:int|what pro:sub|I~aux|have part|do&PASTP adv|so adj|far ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|CPOBJ 11|12|JCT 12|10|JCT 13|3|PUNCT
+*S1:	yeah ?
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S7:	when you say physiological PH of the zwitterions (.) ones [?] what
+	about the alpha [?] classes of blue lines [?] doesn't (.) the &-uh
+	basic form also exist ?
+%mor:	conj|when pro:per|you v|say n|physiological n:prop|PH prep|of
+	det:art|the n|zwitterion-PL n|one-PL pro:int|what prep|about
+	det:art|the n|alpha v|class-3S prep|of n|blue v|line-3S
+	mod|do&3S~neg|not det:art|the adj|basic n|form adv|also v|exist ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|APP 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|14|LINK 11|14|JCT 12|13|DET 13|14|SUBJ 14|17|CSUBJ 15|14|JCT
+	16|15|POBJ 17|3|CJCT 18|22|AUX 19|18|NEG 20|22|DET 21|22|MOD 22|24|SUBJ
+	23|24|JCT 24|17|COMP 25|3|PUNCT
+*S1:	yes (.) but the (.) you know the blue is just beginning to grow in
+	at those PHs (.) there's very little of it .
+%mor:	co|yes conj|but det:art|the pro:per|you v|know det:art|the n|blue
+	cop|be&3S adv|just n|beginning inf|to v|grow adv|in prep|at
+	det:dem|those n:prop|PHs pro:exist|there~cop|be&3S adv|very
+	adj|little prep|of pro:per|it .
+%gra:	1|8|COM 2|5|LINK 3|4|DET 4|5|SUBJ 5|8|CJCT 6|7|DET 7|8|SUBJ 8|18|JCT
+	9|10|JCT 10|8|PRED 11|12|INF 12|10|XMOD 13|12|JCT 14|12|JCT 15|16|DET
+	16|14|POBJ 17|18|SUBJ 18|0|ROOT 19|20|JCT 20|18|PRED 21|20|JCT 22|21|POBJ
+	23|18|PUNCT
+*S1:	so what is the predominant form there ?
+%mor:	adv|so pro:int|what cop|be&3S det:art|the pre#adj|dominant n|form
+	adv|there ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|3|PUNCT
+*S1:	that's what we're talking about .
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:sub|we~aux|be&PRES
+	part|talk-PRESP adv|about .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CPRED 7|6|JCT 8|2|PUNCT
+*S1:	and if I did it accurately if I calculated at every point what the
+	concentrations were (.) I may have exaggerated how early the blue
+	really begins to appear .
+%mor:	coord|and conj|if pro:sub|I mod|do&PAST pro:per|it
+	adv|accurate&dadj-LY conj|if pro:sub|I v|calculate-PAST prep|at
+	qn|every n|point pro:int|what det:art|the n|concentrate&dv-TION-PL
+	cop|be&PAST pro:sub|I mod|may aux|have part|exaggerate-PASTP
+	pro:rel|how adj|early det:art|the n|blue adv|real&dadj-LY v|begin-3S
+	inf|to v|appear .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|LINK 8|9|SUBJ
+	9|5|CJCT 10|9|JCT 11|12|QUANT 12|10|POBJ 13|16|LINK 14|15|DET 15|16|SUBJ
+	16|9|CJCT 17|20|SUBJ 18|20|AUX 19|20|AUX 20|16|CPRED 21|24|LINK
+	22|24|MOD 23|24|DET 24|26|SUBJ 25|26|JCT 26|20|COMP 27|28|INF 28|26|COMP
+	29|5|PUNCT
+*S1:	but the point I'm really trying to make is that it doesn't suddenly
+	become blue .
+%mor:	conj|but det:art|the n|point pro:sub|I~aux|be&1S adv|real&dadj-LY
+	part|try-PRESP inf|to v|make aux|be&3S comp|that pro:per|it
+	mod|do&3S~neg|not adv|sudden&dadj-LY part|become&PASTP adj|blue .
+%gra:	1|16|LINK 2|3|DET 3|16|SUBJ 4|7|SUBJ 5|7|AUX 6|7|JCT 7|3|CMOD 8|9|INF
+	9|7|COMP 10|16|AUX 11|16|LINK 12|16|SUBJ 13|16|AUX 14|13|NEG 15|16|JCT
+	16|0|ROOT 17|16|PRED 18|16|PUNCT
+*S1:	that there is some blue (.) way back +...
+%mor:	comp|that adv|there cop|be&3S qn|some n|blue n|way adv|back +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|MOD 6|3|PRED 7|6|NJCT
+	8|3|PUNCT
+*S1:	any other questions ?
+%mor:	qn|any qn|other n|question-PL ?
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*S1:	(0.5) okay well is this true of all amino acids ?
+%mor:	co|okay n|well cop|be&3S det:dem|this n|true prep|of qn|all n|amino
+	n|acid-PL ?
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|QUANT 8|9|MOD
+	9|6|POBJ 10|3|PUNCT
+*S1:	and the answer is no +...
+%mor:	coord|and det:art|the n|answer cop|be&3S co|no +...
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*S1:	alanine is what we call a neutral .
+%mor:	n|alanine cop|be&3S pro:int|what pro:sub|we v|call det:art|a
+	adj|neutral .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CPRED 6|7|DET 7|5|OBJ 8|2|PUNCT
+*S1:	&=writing:board but other amino acids have additional amino groups
+	(.) called other basic groups (.) or other acidic groups on the side
+	chain .
+%mor:	conj|but qn|other n|amino n|acid-PL v|have adj|addition&dn-AL
+	n|amino n|group-PL v|call-PAST qn|other adj|basic n|group-PL
+	coord|or qn|other adj|acidic n|group-PL prep|on det:art|the adj|side
+	n|chain .
+%gra:	1|5|LINK 2|3|QUANT 3|4|MOD 4|5|SUBJ 5|9|CJCT 6|8|MOD 7|8|MOD 8|9|SUBJ
+	9|0|ROOT 10|12|QUANT 11|12|MOD 12|9|OBJ 13|12|CONJ 14|16|QUANT 15|16|MOD
+	16|13|COORD 17|16|NJCT 18|20|DET 19|20|MOD 20|17|POBJ 21|9|PUNCT
+*S1:	and therefore (.) they tend to be (.) not just diprotic as alanine
+	is but triprotic and so on .
+%mor:	coord|and adv|therefore pro:sub|they v|tend inf|to cop|be neg|not
+	adv|just adj|diprotic prep|as n|alanine cop|be&3S conj|but
+	adj|triprotic coord|and adv|so adv|on .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|NEG 8|9|JCT
+	9|6|PRED 10|12|JCT 11|10|POBJ 12|6|CJCT 13|12|CONJ 14|13|COORD 15|14|CONJ
+	16|17|JCT 17|15|COORD 18|4|PUNCT
+*S1:	so let's take a look at lysine &=writes:board &=pause as an
+	important basic amino acid .
+%mor:	adv|so v|let~pro:obj|us v|take det:art|a v|look prep|at n|lysine
+	prep|as det:art|a adj|important adj|basic n|amino n|acid .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|DET 6|4|OBJ 7|6|JCT 8|7|POBJ
+	9|6|JCT 10|14|DET 11|14|MOD 12|14|MOD 13|14|MOD 14|9|POBJ 15|2|PUNCT
+*S1:	&=pause it's very often found in the active site of enzymes (.) and
+	so we're interested in knowing (.) what form it exists in (.) at
+	&thou those positions .
+%mor:	pro:per|it~aux|be&3S adv|very adv|often part|find&PASTP prep|in
+	det:art|the adj|active n|site prep|of n|enzyme-PL coord|and adv|so
+	pro:sub|we~aux|be&PRES part|interest-PASTP adv|in part|know-PRESP
+	pro:int|what v|form pro:per|it v|exist-3S adv|in prep|at
+	det:dem|those n|position-PL .
+%gra:	1|5|SUBJ 2|5|AUX 3|4|JCT 4|5|JCT 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|10|POBJ 12|5|CONJ 13|16|JCT 14|16|SUBJ 15|16|AUX
+	16|12|COORD 17|16|JCT 18|16|XJCT 19|20|SUBJ 20|18|COMP 21|20|OBJ 22|20|OBJ
+	23|22|JCT 24|22|JCT 25|26|DET 26|24|POBJ 27|5|PUNCT
+*S1:	&=writes:board (0.4) so lysine has two amino groups .
+%mor:	co|so n|lysine v|have&3S det:num|two n|amino n|group-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*S1:	one of them is at the alpha position (0.7) the other one is at the
+	(0.4) epsilon position .
+%mor:	det:num|one prep|of pro:obj|them cop|be&3S prep|at det:art|the
+	adj|alpha n|position det:art|the qn|other pro:indef|one cop|be&3S
+	prep|at det:art|the n|epsilon n|position .
+%gra:	1|4|SUBJ 2|1|NJCT 3|2|POBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|11|DET 10|11|QUANT 11|12|SUBJ 12|4|CJCT 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|4|PUNCT
+*S1:	(0.9) so it is known as an epsilon amino (.) acid as_well_as an
+	alpha amino acid .
+%mor:	co|so pro:per|it aux|be&3S part|know&PASTP prep|as det:art|a
+	n|epsilon n|amino n|acid coord|as_well_as det:art|a adj|alpha
+	n|amino n|acid .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|9|CONJ 11|14|DET 12|14|MOD 13|14|MOD 14|10|COORD 15|4|PUNCT
+*S1:	and here are my three acidic protons (.) so I have three different
+	PKA values for them (.) this one is &=writes:board two point one
+	eight +...
+%mor:	coord|and adv|here cop|be&PRES co|my det:num|three adj|acidic
+	n|proton-PL conj|so pro:sub|I v|have det:num|three adj|different
+	n:prop|PKA v|value-3S prep|for pro:obj|them det:dem|this
+	pro:indef|one cop|be&3S det:num|two n|point det:num|one
+	det:num|eight +...
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|7|COM 5|7|QUANT 6|7|MOD 7|3|PRED 8|10|LINK
+	9|10|SUBJ 10|3|CJCT 11|12|QUANT 12|14|JCT 13|14|SUBJ 14|10|COMP
+	15|14|JCT 16|15|POBJ 17|18|DET 18|19|SUBJ 19|14|CJCT 20|21|QUANT 21|19|PRED
+	22|23|QUANT 23|21|OM 24|3|PUNCT
+*S1:	this one is eight point nine five (0.4) and this one is ten point
+	five three .
+%mor:	pro:dem|this pro:indef|one cop|be&3S det:num|eight n|point
+	det:num|nine det:num|five coord|and det:dem|this pro:indef|one
+	cop|be&3S det:num|ten n|point det:num|five det:num|three .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|7|DATE 6|7|QUANT 7|3|PRED
+	8|11|LINK 9|10|DET 10|11|SUBJ 11|3|CJCT 12|13|QUANT 13|15|DATE 14|15|QUANT
+	15|11|PRED 16|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so this one is almost like methylamine (.) this one is more acidic
+	than &en methylamine and this one is definitely more acidic than
+	acetic acid .
+%mor:	adv|so det:dem|this pro:indef|one cop|be&3S adv|almost co|like
+	n|methylamine det:dem|this pro:indef|one cop|be&3S adv|more
+	adj|acidic prep|than n|methylamine coord|and det:dem|this
+	pro:indef|one cop|be&3S adv|definite&dadj-LY adv|more adj|acidic
+	prep|than adj|acetic adj|acid .
+%gra:	1|3|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|COM 7|4|PRED 8|9|DET
+	9|10|SUBJ 10|7|CMOD 11|12|JCT 12|10|PRED 13|12|JCT 14|13|POBJ 15|10|CONJ
+	16|17|DET 17|15|COORD 18|7|XMOD 19|18|JCT 20|21|JCT 21|18|PRED 22|21|JCT
+	23|24|MOD 24|22|POBJ 25|4|PUNCT
+*S1:	so I've drawn the form that exists at low PH +...
+%mor:	adv|so pro:sub|I~aux|have part|draw&PASTP det:art|the n|form
+	pro:rel|that v|exist-3S prep|at n|low n:prop|PH +...
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|LINK 8|6|CMOD
+	9|8|JCT 10|9|POBJ 11|8|JCT 12|4|PUNCT
+*S1:	and we can do the same thing we did (.) with alanine (.) add base
+	and explore what happens (.) at each stage .
+%mor:	coord|and pro:sub|we mod|can v|do det:art|the adj|same n|thing
+	pro:sub|we v|do&PAST prep|with n|alanine v|add n|base coord|and
+	v|explore pro:int|what v|happen-3S prep|at qn|each n|stage .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|9|JCT 5|7|DET 6|7|MOD 7|4|OBJ 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|12|SUBJ 12|10|POBJ 13|12|OBJ 14|9|CONJ 15|14|COORD
+	16|17|SUBJ 17|15|COMP 18|17|JCT 19|20|QUANT 20|18|POBJ 21|9|PUNCT
+*S1:	so as I add base to the system I'm gonna lose one of these protons
+	(.) which one's gonna go first ?
+%mor:	adv|so conj|as pro:sub|I v|add adj|base prep|to det:art|the
+	n|system pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|lose det:num|one
+	prep|of det:dem|these n|proton-PL pro:int|which adj|one&dn-POSS
+	part|go-PRESP~inf|to v|go adv|first ?
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|11|CJCT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|13|INF 13|11|COMP 14|13|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|13|INCROOT 19|18|PRED 20|19|XMOD 21|22|INF
+	22|20|COMP 23|22|JCT 24|18|PUNCT
+*SS:	&=unintelligible_answers .
+*S1:	the one on the carboxylic acid (.) the one with the lowest PKA
+	&=writing:board so I have an acid base equilibrium here (.) as I add
+	base I go to this form if I were to add acid I would go back that
+	way this is at some intermediate PH .
+%mor:	det:art|the det:num|one prep|on det:art|the adj|carboxylic adj|acid
+	det:art|the det:num|one prep|with det:art|the adj|low-SP n:prop|PKA
+	conj|so pro:sub|I v|have det:art|a adj|acid n|base n|equilibrium
+	adv|here conj|as pro:sub|I v|add n|base pro:sub|I v|go prep|to
+	det:dem|this n|form conj|if pro:sub|I cop|be&PAST inf|to v|add
+	n|acid pro:sub|I mod|will&COND v|go adv|back det:dem|that none|way
+	pro:dem|this cop|be&3S prep|at qn|some adj|intermediate n:prop|PH .
+%gra:	1|2|DET 2|0|INCROOT 3|2|JCT 4|5|DET 5|8|MOD 6|8|MOD 7|8|DET 8|3|POBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|LINK 14|15|SUBJ 15|2|CJCT
+	16|19|DET 17|18|MOD 18|19|MOD 19|15|OBJ 20|15|JCT 21|23|LINK 22|23|SUBJ
+	23|26|CJCT 24|23|OBJ 25|26|SUBJ 26|15|COMP 27|26|JCT 28|29|DET 29|27|POBJ
+	30|32|LINK 31|32|SUBJ 32|15|CJCT 33|34|INF 34|32|CPRED 35|34|OBJ
+	36|38|SUBJ 37|38|AUX 38|34|COMP 39|38|JCT 40|41|DET 41|43|JCT 42|43|SUBJ
+	43|38|COMP 44|43|JCT 45|46|QUANT 46|47|MOD 47|44|POBJ 48|2|PUNCT
+*S1:	&=writing:board but notice this is not the zwitterion .
+%mor:	conj|but v|notice pro:dem|this cop|be&3S neg|not det:art|the
+	n|zwitterion .
+%gra:	1|2|LINK 2|4|CJCT 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|DET 7|4|PRED 8|4|PUNCT
+*S1:	this is not what exists at the isoelectric point (.) because I have
+	two positive charges and one negative charge .
+%mor:	pro:dem|this cop|be&3S neg|not pro:int|what v|exist-3S prep|at
+	det:art|the adj|isoelectric n|point conj|because pro:sub|I v|have
+	det:num|two adj|positive n|charge-PL coord|and det:num|one
+	n|negative n|charge .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|LINK 5|2|CPRED 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|LINK 11|12|SUBJ 12|2|CJCT 13|15|QUANT 14|15|MOD 15|12|OBJ
+	16|15|CONJ 17|19|QUANT 18|19|MOD 19|16|COORD 20|2|PUNCT
+*S1:	so this is not balanced in its charge yet .
+%mor:	adv|so pro:dem|this cop|be&3S neg|not part|balance-PASTP prep|in
+	det:poss|its n|charge adv|yet .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|XJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|3|PUNCT
+*S1:	(0.9) but I can add some more base to it (.) <set up> [?] another
+	equilibrium (.) what's the next proton that's going to be removed ?
+%mor:	conj|but pro:sub|I mod|can v|add qn|some qn|more adj|base inf|to
+	pro:per|it v|set&ZERO adv|up qn|another n|equilibrium
+	pro:int|what~cop|be&3S det:art|the adj|next n|proton
+	pro:rel|that~aux|be&3S part|go-PRESP inf|to aux|be part|remove-PASTP
+	?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|7|QUANT 7|4|JCT 8|10|INF
+	9|10|SUBJ 10|7|XMOD 11|10|JCT 12|13|QUANT 13|15|JCT 14|15|SUBJ
+	15|10|COMP 16|18|DET 17|18|MOD 18|15|PRED 19|21|LINK 20|21|AUX 21|18|CMOD
+	22|24|INF 23|24|AUX 24|21|COMP 25|4|PUNCT
+*S1:	which nitrogen ?
+%mor:	det:int|which n|nitrogen ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S1:	the alpha nitrogen or the (.) epsilon nitrogen ?
+%mor:	det:art|the adj|alpha n|nitrogen coord|or det:art|the n|epsilon
+	n|nitrogen ?
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|7|DET 6|7|MOD 7|4|COORD
+	8|3|PUNCT
+*SUF:	alpha +/.
+%mor:	adj|alpha +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, the alpha nitrogen is going to be the one to go next .
+%mor:	det:art|the adj|alpha n|nitrogen aux|be&3S part|go-PRESP inf|to
+	cop|be det:art|the det:num|one inf|to v|go adv|next .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|9|DET
+	9|7|PRED 10|11|INF 11|9|XMOD 12|11|JCT 13|5|PUNCT
+*S1:	&=writing:board notice that this is the zwitterion .
+%mor:	v|notice comp|that pro:dem|this cop|be&3S det:art|the n|zwitterion
+	.
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|6|DET 6|4|PRED 7|1|PUNCT
+*S1:	this is the form in which I have a balance of charges there .
+%mor:	pro:dem|this cop|be&3S det:art|the n|form prep|in pro:int|which
+	pro:sub|I v|have det:art|a n|balance prep|of n|charge-PL adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|8|LINK 7|8|SUBJ 8|5|CPOBJ
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|8|JCT 14|2|PUNCT
+*S1:	&=writing:board and also presumably then the form that exists at
+	the isoelectric point .
+%mor:	coord|and adv|also adv|presume&dadj-ABLE-LY adv:tem|then
+	det:art|the n|form pro:rel|that v|exist-3S prep|at det:art|the
+	adj|isoelectric n|point .
+%gra:	1|4|LINK 2|4|JCT 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|LINK 8|6|CMOD
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|4|PUNCT
+*S1:	&=writing:board and this is the form that exists at high PH .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|the n|form pro:rel|that
+	v|exist-3S prep|at n|high n:prop|PH .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|LINK 7|5|CMOD 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|3|PUNCT
+*S1:	&=writing:board where I have removed all of the easily ionizable
+	protons .
+%mor:	pro:int|where pro:sub|I aux|have part|remove-PASTP pro:indef|all
+	prep|of det:art|the adv|ease&dadj-Y-LY adj|ionizable n|proton-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|10|DET 8|9|JCT
+	9|10|MOD 10|6|POBJ 11|4|PUNCT
+*S1:	this is a triprotic acid (.) and I have three ionizations (.) for
+	it .
+%mor:	pro:dem|this cop|be&3S det:art|a adj|triprotic adj|acid coord|and
+	pro:sub|I v|have det:num|three n|ion&dv-IZE-TION-PL prep|for
+	pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|10|QUANT 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|2|PUNCT
+*S1:	well let's do the same thing we did for alanine (.) draw a curve
+	for this (0.23) so here are my axes again .
+%mor:	co|well v|let~pro:obj|us v|do det:art|the adj|same n|thing
+	pro:sub|we v|do&PAST prep|for n|alanine v|draw det:art|a n|curve
+	prep|for det:dem|this co|so pro:exist|here cop|be&PRES det:poss|my
+	n|ax-PL adv|again .
+%gra:	1|2|COM 2|9|CJCT 3|2|OBJ 4|2|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|9|SUBJ
+	9|0|ROOT 10|12|JCT 11|12|SUBJ 12|9|CJCT 13|14|DET 14|12|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|19|SUBJ 19|14|CMOD 20|21|DET 21|19|PRED 22|21|JCT
+	23|9|PUNCT
+*S1:	&=writing:board of relative abundancies on &on abundances on one
+	axis (.) PH on the other .
+%mor:	prep|of n|relative n|abundance-DIM-PL prep|on n|abundance-PL
+	prep|on det:num|one n|axis n:prop|PH prep|on det:art|the qn|other .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|1|JCT 5|4|POBJ 6|1|JCT 7|8|QUANT
+	8|6|POBJ 9|6|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|1|PUNCT
+*S1:	&=writing:board okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and once again I start with the most acidic form (.) the one at low
+	PH where everything is protonated (.) and I have about a hundred
+	percent of the specie@u up there (.) but then very soon (.) at a PH
+	of two point one eight &=writing:board as I add base (.) I have lost
+	half of that species +...
+%mor:	coord|and adv|once adv|again pro:sub|I v|start prep|with
+	det:art|the qn|most adj|acidic n|form det:art|the det:num|one
+	prep|at n|low n:prop|PH pro:rel|where pro:indef|everything aux|be&3S
+	part|protonate-PASTP coord|and pro:sub|I v|have prep|about det:art|a
+	det:num|hundred n|percent prep|of det:art|the uni|specie prep|up
+	n|there conj|but adv:tem|then adv|very adv|soon prep|at det:art|a
+	n:prop|PH prep|of det:num|two n|point det:num|one det:num|eight
+	conj|as pro:sub|I v|add n|base pro:sub|I aux|have part|lose&PASTP
+	n|half prep|of det:dem|that n|species +...
+%gra:	1|5|LINK 2|5|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|10|DET 8|10|QUANT
+	9|10|MOD 10|6|POBJ 11|12|DET 12|5|CJCT 13|12|NJCT 14|13|POBJ 15|13|POBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|15|CMOD 20|22|LINK 21|22|SUBJ
+	22|19|CJCT 23|22|JCT 24|26|DET 25|26|QUANT 26|23|POBJ 27|26|NJCT 28|29|DET
+	29|27|POBJ 30|22|JCT 31|30|POBJ 32|22|CONJ 33|35|JCT 34|35|JCT 35|32|COORD
+	36|35|JCT 37|38|DET 38|36|POBJ 39|38|NJCT 40|41|QUANT 41|39|POBJ
+	42|43|QUANT 43|44|QUANT 44|46|LINK 45|46|SUBJ 46|36|CPOBJ 47|46|OBJ 48|50|SUBJ
+	49|50|AUX 50|47|CMOD 51|50|OBJ 52|51|NJCT 53|54|DET 54|52|POBJ 55|5|PUNCT
+*S1:	it continues to die off as I add more and more base &=writing:board
+	and a new species (.) comes in .
+%mor:	pro:per|it v|continue-3S inf|to v|die adv|off adv|as pro:sub|I
+	v|add adv|more coord|and adv|more n|base coord|and det:art|a adj|new
+	n|species v|come-3S adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|4|JCT 7|8|SUBJ 8|2|CJCT
+	9|8|JCT 10|9|CONJ 11|12|JCT 12|10|COORD 13|17|LINK 14|16|DET 15|16|MOD
+	16|17|SUBJ 17|8|CJCT 18|17|JCT 19|2|PUNCT
+*S1:	&=writing:board so at that PH (.) half of the &s species in
+	solution is this (.) monodeprotonated form +...
+%mor:	co|so prep|at adv|that n:prop|PH n|half prep|of det:art|the
+	n|species prep|in n|solution cop|be&3S det:dem|this
+	part|monodeprotonate-PASTP n|form +...
+%gra:	1|11|COM 2|11|JCT 3|5|MOD 4|5|MOD 5|2|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|9|POBJ 11|0|ROOT 12|14|DET 13|14|MOD 14|11|PRED 15|11|PUNCT
+*S1:	which increases as I make the system more basic &=writing:board and
+	(.) a third species (.) comes in (.) crosses at that point +...
+%mor:	pro:int|which n|increase-PL conj|as pro:sub|I v|make det:art|the
+	n|system adv|more adj|basic coord|and det:art|a adj|third n|species
+	v|come-3S adv|in n|cross-PL prep|at det:dem|that n|point +...
+%gra:	1|2|LINK 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|DET 7|5|OBJ 8|9|JCT
+	9|5|JCT 10|14|LINK 11|13|DET 12|13|MOD 13|14|SUBJ 14|9|CMOD 15|14|JCT
+	16|15|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|2|PUNCT
+*S1:	increases in concentration +...
+%mor:	n|increase-PL prep|in n|concentrate&dv-TION +...
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*S1:	then at the PKA corresponding to the ionization of this (.) third
+	proton in other words at ten point five three (.) you see this
+	happens very fast .
+%mor:	adv:tem|then prep|at det:art|the n:prop|PKA part|correspond-PRESP
+	prep|to det:art|the n|ion&dv-IZE-TION prep|of det:dem|this adj|third
+	n|proton prep|in qn|other n|word-PL prep|at det:num|ten n|point
+	det:num|five det:num|three pro:per|you v|see det:dem|this
+	v|happen-3S adv|very adv|fast .
+%gra:	1|22|JCT 2|22|JCT 3|4|DET 4|2|POBJ 5|22|XJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|12|NJCT 14|15|QUANT 15|13|POBJ
+	16|5|JCT 17|18|QUANT 18|16|POBJ 19|22|QUANT 20|21|QUANT 21|22|SUBJ
+	22|0|ROOT 23|24|DET 24|22|COMP 25|26|JCT 26|24|JCT 27|22|PUNCT
+*S1:	&=writing:board comes out .
+%mor:	v|come-3S adv|out .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*S1:	now the structures are too big to write here so what I'm going to
+	do is I'm going to label them (.) this is structure A (0.4) this is
+	structure B (.) this is structure (.) C +...
+%mor:	adv|now det:art|the n|structure-PL cop|be&PRES adv|too adj|big
+	inf|to v|write adv|here adv|so pro:int|what pro:sub|I~aux|be&1S
+	part|go-PRESP inf|to v|do cop|be&3S pro:sub|I~aux|be&1S
+	part|go-PRESP inf|to v|label pro:obj|them pro:dem|this cop|be&3S
+	v|structure n:prop|A pro:dem|this cop|be&3S v|structure n:prop|B
+	pro:dem|this cop|be&3S v|structure n:prop|C +...
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|8|INF 8|6|XMOD
+	9|8|JCT 10|14|JCT 11|14|LINK 12|14|SUBJ 13|14|AUX 14|8|XJCT 15|16|INF
+	16|14|COMP 17|16|COMP 18|20|SUBJ 19|20|AUX 20|14|XJCT 21|22|INF 22|20|COMP
+	23|22|OBJ 24|25|SUBJ 25|20|COMP 26|25|CPRED 27|26|OBJ 28|29|SUBJ
+	29|26|COMP 30|29|PRED 31|30|OBJ 32|33|SUBJ 33|30|COMP 34|33|PRED 35|34|OBJ
+	36|4|PUNCT
+*S1:	and this is structure D .
+%mor:	coord|and pro:dem|this cop|be&3S v|structure n:prop|D .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|OBJ 6|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so we have A (.) predominating in this region +...
+%mor:	co|so pro:sub|we v|have n:prop|A pre#part|dominate-PRESP prep|in
+	det:dem|this n|region +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*S1:	we have B (.) predominating in this region (.) here we are at C (.)
+	and we finally get (.) to D .
+%mor:	pro:sub|we v|have n:prop|B pre#part|dominate-PRESP prep|in
+	det:dem|this n|region adv|here pro:sub|we cop|be&PRES prep|at
+	n:prop|C coord|and pro:sub|we adv|final&dadj-LY v|get prep|to
+	n:prop|D .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|10|JCT
+	9|10|SUBJ 10|4|CJCT 11|10|JCT 12|11|POBJ 13|16|LINK 14|16|SUBJ 15|16|JCT
+	16|10|CJCT 17|16|JCT 18|17|POBJ 19|2|PUNCT
+*S1:	so let's ask our two questions .
+%mor:	adv|so v|let~pro:obj|us v|ask det:poss|our det:num|two
+	n|question-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|7|DET 6|7|QUANT 7|4|OBJ 8|2|PUNCT
+*S1:	(0.5) what is the isoelectric point (.) for this species ?
+%mor:	pro:int|what cop|be&3S det:art|the adj|isoelectric n|point prep|for
+	det:dem|this n|species ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*S1:	well (.) the species that exists (.) at the isoelectric point is C
+	(.) so our isoelectric point is (.) here .
+%mor:	co|well det:art|the n|species pro:rel|that v|exist-3S prep|at
+	det:art|the adj|isoelectric n|point cop|be&3S n:prop|C conj|so
+	det:poss|our adj|isoelectric n|point cop|be&3S adv|here .
+%gra:	1|10|COM 2|3|DET 3|10|SUBJ 4|5|LINK 5|3|CMOD 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|0|ROOT 11|10|PRED 12|16|LINK 13|15|DET 14|15|MOD 15|16|SUBJ
+	16|10|CJCT 17|16|JCT 18|10|PUNCT
+*S1:	&=writing:board so it has a high &i isoelectric point .
+%mor:	co|so pro:per|it aux|have&3S det:art|a n|high adj|isoelectric
+	n|point .
+%gra:	1|7|COM 2|7|SUBJ 3|7|AUX 4|5|DET 5|7|MOD 6|7|MOD 7|0|INCROOT 8|7|PUNCT
+*S1:	and what is the form that exists (.) at physiological PH ?
+%mor:	coord|and pro:int|what cop|be&3S det:art|the n|form pro:rel|that
+	v|exist-3S prep|at n|physiological n:prop|PH ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|LINK 7|5|CMOD 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|3|PUNCT
+*S1:	now remember we defined that as six point five .
+%mor:	adv|now v|remember pro:sub|we v|define-PAST comp|that prep|as
+	det:num|six n|point det:num|five .
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|9|COORD 7|8|QUANT 8|9|MOD
+	9|5|ENUM 10|2|PUNCT
+*S1:	&=writing:board so which form is it ?
+%mor:	adv|so pro:rel|which n|form cop|be&3S pro:per|it ?
+%gra:	1|4|JCT 2|3|LINK 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*S1:	B (.) is the species we have at physiological PH .
+%mor:	n:prop|B cop|be&3S det:art|the n|species pro:sub|we v|have prep|at
+	n|physiological n:prop|PH .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|SUBJ 6|4|CMOD 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|2|PUNCT
+*S1:	so at physiological PH +...
+%mor:	adv|so prep|at n|physiological n:prop|PH +...
+%gra:	1|4|JCT 2|4|JCT 3|2|POBJ 4|0|ROOT 5|4|PUNCT
+*S1:	notice that the (.) amino group (.) at the epsilon position (.) of
+	the amino acid lysine is protonated .
+%mor:	v|notice comp|that det:art|the n|amino n|group prep|at det:art|the
+	n|epsilon n|position prep|of det:art|the n|amino adj|acid n|lysine
+	aux|be&3S part|protonate-PASTP .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|14|MOD 14|16|SUBJ 15|16|AUX
+	16|12|CMOD 17|1|PUNCT
+*S1:	in other words lysine is positively charged at physiological PH .
+%mor:	prep|in qn|other n|word-PL n|lysine aux|be&3S adv|positive&dadj-LY
+	part|charge-PASTP prep|at n|physiological n:prop|PH .
+%gra:	1|7|JCT 2|3|QUANT 3|4|MOD 4|7|SUBJ 5|7|AUX 6|7|JCT 7|0|ROOT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|7|PUNCT
+*S1:	and this is significant .
+%mor:	coord|and pro:dem|this cop|be&3S adj|significant .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S1:	for example in the structure of a protein (.) to have the positive
+	charge on one lysine molecule interacting in an ionic fashion with
+	the negative charge of a carboxylic acid group somewhere else in the
+	molecule .
+%mor:	prep|for ex#adj|ample prep|in det:art|the n|structure prep|of
+	det:art|a n|protein inf|to v|have det:art|the n|positive n|charge
+	prep|on det:num|one n|lysine n|molecule inter#part|act-PRESP prep|in
+	det:art|a adj|ionic n|fashion prep|with det:art|the n|negative
+	n|charge prep|of det:art|a adj|carboxylic adj|acid n|group
+	adv|somewhere post|else prep|in det:art|the n|molecule .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|10|INF 10|2|XJCT 11|13|DET 12|13|MOD 13|10|OBJ 14|10|JCT 15|17|QUANT
+	16|17|MOD 17|14|POBJ 18|17|NJCT 19|18|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|18|JCT 24|26|DET 25|26|MOD 26|23|POBJ 27|26|NJCT 28|31|DET 29|31|MOD
+	30|31|MOD 31|27|POBJ 32|33|JCT 33|31|XMOD 34|33|JCT 35|36|DET
+	36|34|POBJ 37|1|PUNCT
+*S1:	so you have ionic (.) intermolecular type of interactions (.)
+	nonbonding but still (.) helping to shape the structure of the
+	protein .
+%mor:	co|so pro:per|you v|have adj|ionic inter#adj|molecular n|type
+	prep|of inter#n|action-PL non#n:gerund|bond-PRESP conj|but adv|still
+	part|help-PRESP inf|to v|shape det:art|the n|structure prep|of
+	det:art|the n|protein .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|9|MOD 5|9|MOD 6|9|MOD 7|6|NJCT 8|7|POBJ
+	9|3|COMP 10|9|CONJ 11|12|JCT 12|10|COORD 13|14|INF 14|12|COMP 15|16|DET
+	16|14|OBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so the overall shape of the protein (.) is a multiple (.) of these
+	various interactions through the molecules you have a question ?
+%mor:	co|so det:art|the adj|overall n|shape prep|of det:art|the n|protein
+	cop|be&3S det:art|a adj|multiple prep|of det:dem|these adj|various
+	inter#n|action-PL prep|through det:art|the n|molecule-PL pro:per|you
+	v|have det:art|a n|question ?
+%gra:	1|8|COM 2|4|DET 3|4|MOD 4|8|SUBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|0|ROOT
+	9|10|DET 10|8|PRED 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|10|JCT
+	16|17|DET 17|15|POBJ 18|19|SUBJ 19|10|CMOD 20|21|DET 21|19|OBJ 22|8|PUNCT
+*S8:	you said that the isoelectric point was also the arithmetic mean
+	(.) is that only for diprotic ?
+%mor:	pro:per|you v|say&PAST comp|that det:art|the adj|isoelectric
+	n|point cop|be&PAST&13S adv|also det:art|the n|arithmetic v|mean
+	cop|be&3S pro:dem|that adv|only prep|for adj|diprotic ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|6|DET 5|6|MOD 6|7|SUBJ 7|2|COMP 8|11|JCT
+	9|10|DET 10|11|SUBJ 11|7|PRED 12|11|OBJ 13|12|SUBJ 14|11|JCT 15|11|JCT
+	16|15|POBJ 17|2|PUNCT
+*S1:	no it's the arithmetic mean &=indicating_two_points_on_board .
+%mor:	co|no pro:per|it~cop|be&3S det:art|the n|arithmetic adj|mean .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|POSTMOD 7|3|PUNCT
+*S8:	oh just between those two .
+%mor:	co|oh adv|just prep|between det:dem|those det:num|two .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*S1:	between those two .
+%mor:	prep|between det:dem|those det:num|two .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*S1:	what is the HA and which +//.
+%mor:	pro:int|what cop|be&3S det:art|the n:prop|HA coord|and
+	pro:int|which +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*S1:	what is the a@l minus (.) for that particular range okay ?
+%mor:	pro:int|what cop|be&3S det:art|the n:let|a n|minus prep|for
+	det:dem|that adj|particular n|range adj|okay ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|POSTMOD 11|2|PUNCT
+*S1:	any other questions about what I've done .
+%mor:	qn|any qn|other n|question-PL prep|about pro:int|what
+	pro:sub|I~aux|have part|do&PASTP .
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|3|JCT 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CPOBJ 9|3|PUNCT
+*S1:	(0.6) okay next time we'll start talking about carbon acids (.) and
+	enolate ions and then move on to their reactions .
+%mor:	co|okay adj|next n|time pro:sub|we~mod|will v|start part|talk-PRESP
+	prep|about n|carbon n|acid-PL coord|and n|enolate n|ion-PL coord|and
+	adv:tem|then v|move adv|on prep|to det:poss|their n|reaction-PL .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|6|COMP 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|10|CONJ 12|13|MOD 13|11|COORD 14|16|LINK 15|16|JCT
+	16|7|CJCT 17|16|JCT 18|16|JCT 19|20|DET 20|18|POBJ 21|3|PUNCT
+@End

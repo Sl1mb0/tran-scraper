@@ -1,0 +1,3577 @@
+@UTF8
+@PID:	11312/a-00010149-1
+@Begin
+@Languages:	eng
+@Participants:	S1 Instructor Teacher, S2 Student Student, S3 Student
+	Student, S4 Student Student, S5 Student Student, SU3 Student
+	Student, SU4 Student Student, SS Students Student, SUF
+	Student Student, SUM Student Student
+@ID:	eng|MICASE|S1|20;|male|NS||Teacher|SG||
+@ID:	eng|MICASE|S2|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|S3|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|S4|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|S5|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|SU3|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|SU4|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|SS|20;||NS||Student|JU||
+@ID:	eng|MICASE|SUF|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|SUM|20;|male|NS||Student|JU||
+@Media:	lab575ju095, audio, unlinked
+@Date:	06-JUN-2000
+@Situation:	Classroom, Mason Hall
+*S1:	xxx like I said I don't know if the word interested is (.) probably
+	the best &=laughs word to use (.) but +/.
+%mor:	conj|like pro:sub|I v|say&PAST pro:sub|I mod|do~neg|not v|know
+	comp|if det:art|the n|word v|interest-PAST aux|be&3S
+	adv|probable&dadj-LY det:art|the adj|good&SP n|word prep|to n|use
+	conj|but +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|3|COMP 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|7|COMP 12|11|OBJ 13|16|JCT 14|16|DET 15|16|MOD
+	16|12|PRED 17|16|NJCT 18|17|POBJ 19|12|OM 20|3|PUNCT
+*SUF:	forced <would be better> [?] +/.
+%mor:	part|force-PASTP mod|will&COND cop|be adj|good&CP +/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S1:	+, forced (.) maybe .
+%mor:	v|force-PAST adv|maybe .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*S1:	&=laughs required (.) okay .
+%mor:	part|require-PASTP co|okay .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*S1:	here's your quiz for this week +...
+%mor:	pro:exist|here~cop|be&3S det:poss|your n|quiz prep|for det:dem|this
+	n|week +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*S1:	okay you got a quiz this (.) Thursday I believe right ?
+%mor:	co|okay pro:per|you v|get&PAST det:art|a n|quiz det:dem|this
+	n:prop|Thursday pro:sub|I v|believe co|right ?
+%gra:	1|3|COM 2|3|SUBJ 3|9|JCT 4|5|DET 5|3|OBJ 6|7|DET 7|5|APP 8|9|SUBJ
+	9|0|ROOT 10|9|COM 11|9|PUNCT
+*S1:	homework's due on Wednesday (.) quiz due Thursday (.) all kinds of
+	fun stuff .
+%mor:	adj|+n|home+n|work&dn-POSS n|due prep|on n:prop|Wednesday n|quiz
+	adj|due n:prop|Thursday qn|all n|kind-PL prep|of n|fun n|stuff .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|5|MOD 5|3|POBJ 6|7|MOD 7|2|APP 8|9|QUANT
+	9|2|ENUM 10|9|NJCT 11|12|MOD 12|10|POBJ 13|2|PUNCT
+*S1:	end of the semester (.) we have two weeks left
+	&=pause_while_taking_quizzes yeah I know .
+%mor:	n|end prep|of det:art|the n|semester pro:sub|we v|have det:num|two
+	n|week-PL v|leave&PAST co|yeah pro:sub|I v|know .
+%gra:	1|6|XJCT 2|1|NJCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|QUANT 8|9|SUBJ
+	9|6|COMP 10|12|COM 11|12|SUBJ 12|9|COMP 13|6|PUNCT
+*S2:	you &kn &-uh what ?
+%mor:	pro:per|you pro:int|what ?
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*S1:	go .
+%mor:	v|go .
+%gra:	1|0|ROOT 2|1|PUNCT
+*S2:	what do you mean ?
+%mor:	pro:int|what mod|do pro:per|you adj|mean ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S1:	twentieth right ?
+%mor:	adj|twentieth co|right ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S2:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	okay (.) go (.) ⌈ <I knew> [?] ⌉ .
+%mor:	co|okay v|go pro:sub|I v|know&PAST .
+%gra:	1|2|COM 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+*S2:	⌊ okay ⌋ I have another question .
+%mor:	adj|okay pro:sub|I v|have qn|another n|question .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*S1:	alright go .
+%mor:	co|alright v|go .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*S2:	&=laughs no (.) not that &-um do you mind if I started practicing
+	with the calculator now since I'll probably have to borrow it again
+	for the (.) ⌈ practice test ⌉ ?
+%mor:	co|no neg|not comp|that mod|do pro:per|you n|mind conj|if pro:sub|I
+	v|start-PAST part|practice-PRESP prep|with det:art|the n|calculator
+	adv|now prep|since pro:sub|I~mod|will adv|probable&dadj-LY v|have
+	inf|to v|borrow pro:per|it adv|again prep|for det:art|the n|practice
+	n|test ?
+%gra:	1|6|COM 2|1|NEG 3|6|LINK 4|6|AUX 5|6|SUBJ 6|0|INCROOT 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|19|XJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|10|JCT 15|19|JCT
+	16|19|SUBJ 17|19|AUX 18|19|JCT 19|9|COMP 20|21|INF 21|19|COMP 22|21|OBJ
+	23|21|JCT 24|21|JCT 25|27|DET 26|27|MOD 27|24|POBJ 28|6|PUNCT
+*S1:	⌊ &-um ⌋ sure .
+%mor:	adv|sure .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	I mean it would be easy for me to borrow it then because we're
+	already setting up a day +/.
+%mor:	pro:sub|I v|mean pro:per|it mod|will&COND cop|be adj|ease&dn-Y
+	prep|for pro:obj|me inf|to v|borrow pro:per|it adv:tem|then
+	conj|because pro:sub|we~aux|be&PRES adv|already part|set-PRESP
+	prep|up det:art|a n|day +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|PRED 7|5|JCT 8|7|POBJ
+	9|10|INF 10|2|COMP 11|10|OBJ 12|10|JCT 13|17|LINK 14|17|SUBJ 15|17|AUX
+	16|17|JCT 17|2|CJCT 18|17|JCT 19|20|DET 20|17|JCT 21|2|PUNCT
+*S1:	yes +/.
+%mor:	co|yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, alright (.) okay cool .
+%mor:	co|alright adj|okay adj|cool .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S2:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*S1:	no problem (0.10) okay you guys ready to go over this (.) bad boy ?
+%mor:	qn|no n|problem adj|okay pro:per|you n|guy-PL adj|ready inf|to v|go
+	adv|over det:dem|this adj|bad n|boy ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PRED 4|3|CONJ 5|4|COORD 6|5|PRED 7|8|INF
+	8|6|XMOD 9|8|JCT 10|12|DET 11|12|MOD 12|8|JCT 13|2|PUNCT
+*SUF:	that's good xxx +/.
+%mor:	pro:dem|that~cop|be&3S adj|good +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S1:	+, &=laughs &=laughs I swear I forgot about that (.) see I don't
+	even know it's there .
+%mor:	pro:sub|I v|swear pro:sub|I v|forget&PAST prep|about pro:dem|that
+	v|see pro:sub|I mod|do~neg|not adv|even v|know pro:per|it~cop|be&3S
+	adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|5|POBJ 7|4|XJCT 8|12|SUBJ
+	9|12|AUX 10|9|NEG 11|12|JCT 12|7|COMP 13|14|SUBJ 14|12|COMP 15|14|JCT
+	16|2|PUNCT
+*S1:	okay (.) so the probability that June gets an A in Stat one hundred
+	is (.) point four five so (.) &=writes:board the probability ⌈ of ⌉
+	+/.
+%mor:	co|okay conj|so det:art|the n|probable&dadj-ITY comp|that
+	n:prop|June v|get-3S det:art|a n:prop|A prep|in n:prop|Stat
+	det:num|one det:num|hundred cop|be&3S v|point det:num|four
+	det:num|five conj|so det:art|the n|probable&dadj-ITY prep|of +/.
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|9|DET
+	9|7|OBJ 10|4|NJCT 11|12|DATE 12|10|POBJ 13|14|QUANT 14|4|CMOD 15|14|CPRED
+	16|17|QUANT 17|15|OBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|20|NJCT
+	22|2|PUNCT
+*SUF:	+, ⌊ number ⌋ ?
+%mor:	v|number ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*S1:	+, J &-uh the probability that May +//.
+%mor:	n:prop|J det:art|the n|probable&dadj-ITY comp|that n:prop|May +//.
+%gra:	1|0|INCROOT 2|3|DET 3|1|OM 4|3|OM 5|4|OM 6|1|PUNCT
+*S1:	I [/] I couldn't think of any names so I'm like oh I'll just use
+	months .
+%mor:	pro:sub|I mod|could~neg|not v|think prep|of qn|any n|name-PL adv|so
+	pro:sub|I~cop|be&1S co|like co|oh pro:sub|I~mod|will adj|just n|use
+	n|month-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|10|JCT
+	9|10|SUBJ 10|4|CJCT 11|10|COM 12|17|COM 13|17|SUBJ 14|17|AUX 15|17|MOD
+	16|17|MOD 17|10|PRED 18|4|PUNCT
+*S1:	April was gonna be next but I didn't have any other name I could
+	use .
+%mor:	n:prop|April aux|be&PAST&13S part|go-PRESP~inf|to cop|be adv|next
+	conj|but pro:sub|I mod|do&PAST~neg|not v|have qn|any qn|other n|name
+	pro:sub|I mod|could v|use .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|PRED 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|17|CJCT 12|14|QUANT 13|14|QUANT 14|11|OBJ
+	15|17|SUBJ 16|17|AUX 17|3|CJCT 18|3|PUNCT
+*S1:	eight five (.) probability of both May and June (.) getting an A is
+	point thirty five .
+%mor:	det:num|eight det:num|five n|probable&dadj-ITY prep|of qn|both
+	n:prop|May coord|and n:prop|June part|get-PRESP det:art|a n:prop|A
+	cop|be&3S v|point det:num|thirty det:num|five .
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|6|QUANT 6|4|POBJ 7|6|CONJ
+	8|7|COORD 9|3|XJCT 10|11|DET 11|12|SUBJ 12|9|COMP 13|12|PRED 14|15|QUANT
+	15|13|OBJ 16|3|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so now what is the probability that either May or June +//.
+%mor:	adv|so adv|now pro:int|what cop|be&3S det:art|the
+	n|probable&dadj-ITY adv|that coord|either n:prop|May coord|or
+	n:prop|June +//.
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|7|CONJ
+	9|8|COORD 10|9|CONJ 11|10|COORD 12|4|PUNCT
+*S1:	(be)cause we're looking for the probability of M (.) over J .
+%mor:	conj|because pro:sub|we~aux|be&PRES part|look-PRESP prep|for
+	det:art|the n|probable&dadj-ITY prep|of n:prop|M adv|over n:prop|J .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|4|JCT 11|10|POBJ 12|4|PUNCT
+*S1:	we wanna know that .
+%mor:	pro:sub|we v|want~inf|to v|know pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*S1:	now we know (.) that we have this awesome addition formula which is
+	(.) probability of A or B (.) the probability of A plus the
+	probability of B (.) that's the probability of A and (.) okay so
+	this is on your formula sheet you know all this [/] &-um this is
+	review for you (.) hopefully .
+%mor:	adv|now pro:sub|we v|know adv|that pro:sub|we v|have det:dem|this
+	adj|awesome n|addition n|formula pro:rel|which cop|be&3S
+	n|probable&dadj-ITY prep|of n:prop|A coord|or n:prop|B det:art|the
+	n|probable&dadj-ITY prep|of n:prop|A adv|plus det:art|the
+	n|probable&dadj-ITY prep|of n:prop|B pro:dem|that~cop|be&3S
+	det:art|the n|probable&dadj-ITY prep|of n:prop|A coord|and adj|okay
+	adv|so pro:dem|this cop|be&3S prep|on det:poss|your n|formula
+	n|sheet pro:per|you v|know adv|all det:dem|this cop|be&3S v|review
+	prep|for pro:per|you adj|hope&dn-FUL-LY .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|SUBJ 6|3|COMP 7|10|DET 8|10|MOD
+	9|10|MOD 10|6|OBJ 11|12|LINK 12|10|CMOD 13|12|PRED 14|13|NJCT 15|14|POBJ
+	16|10|CONJ 17|28|LINK 18|19|DET 19|28|SUBJ 20|19|NJCT 21|20|POBJ
+	22|19|NJCT 23|24|DET 24|22|POBJ 25|24|NJCT 26|25|POBJ 27|28|SUBJ 28|16|COORD
+	29|30|DET 30|28|PRED 31|30|NJCT 32|31|POBJ 33|37|LINK 34|37|JCT 35|36|JCT
+	36|37|SUBJ 37|30|CJCT 38|37|JCT 39|41|DET 40|41|MOD 41|38|POBJ
+	42|43|SUBJ 43|37|CPRED 44|46|JCT 45|46|DET 46|43|COMP 47|46|SUBJ 48|46|JCT
+	49|50|SUBJ 50|48|POBJ 51|3|PUNCT
+*S1:	so (.) this is the formula we can use (.) to solve this .
+%mor:	co|so pro:dem|this cop|be&3S det:art|the n|formula pro:sub|we
+	mod|can v|use inf|to v|solve det:dem|this .
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|8|SUBJ 7|8|AUX 8|5|CMOD
+	9|10|INF 10|8|COMP 11|10|OBJ 12|3|PUNCT
+*S1:	so we have (.) we [/] we're given this [/] this and this (.) and we
+	wanna find (.) that .
+%mor:	co|so pro:sub|we v|have pro:sub|we~aux|be&PRES part|give&PASTP
+	pro:dem|this coord|and pro:dem|this coord|and pro:sub|we
+	v|want~inf|to v|find pro:dem|that .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|OBJ 8|7|CONJ
+	9|8|COORD 10|12|LINK 11|12|SUBJ 12|6|CJCT 13|14|INF 14|12|COMP 15|14|OBJ
+	16|3|PUNCT
+*S1:	so we're given probability of A probability of B (.) probability of
+	A and B (.) and we wanna find probability of A or B .
+%mor:	adv|so pro:sub|we~aux|be&PRES part|give&PASTP n|probable&dadj-ITY
+	prep|of n:prop|A n|probable&dadj-ITY prep|of n:prop|B
+	n|probable&dadj-ITY prep|of n:prop|A coord|and n:prop|B coord|and
+	pro:sub|we v|want~inf|to v|find n|probable&dadj-ITY prep|of n:prop|A
+	coord|or n:prop|B .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|4|CONJ 15|14|COORD
+	16|18|LINK 17|18|SUBJ 18|4|CJCT 19|20|INF 20|18|COMP 21|20|OBJ 22|21|NJCT
+	23|22|POBJ 24|20|CONJ 25|24|COORD 26|4|PUNCT
+*S1:	we just plug and chug into the equation .
+%mor:	pro:sub|we adv|just n|plug coord|and v|chug prep|into det:art|the
+	n|equate&dv-TION .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|JCT 7|8|DET
+	8|6|POBJ 9|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so the probability of A is point four five .
+%mor:	co|so det:art|the n|probable&dadj-ITY prep|of n:prop|A cop|be&3S
+	v|point det:num|four det:num|five .
+%gra:	1|6|COM 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|PRED 8|9|QUANT
+	9|7|OBJ 10|6|PUNCT
+*S1:	probability of B is point eight five .
+%mor:	n|probable&dadj-ITY prep|of n:prop|B cop|be&3S v|point
+	det:num|eight det:num|five .
+%gra:	1|4|SUBJ 2|1|NJCT 3|2|POBJ 4|0|ROOT 5|4|PRED 6|7|QUANT 7|5|OBJ
+	8|4|PUNCT
+*S1:	point thirty five (.) and when you add (th)em up and subtract (.)
+	it's point nine five .
+%mor:	v|point det:num|thirty det:num|five coord|and conj|when pro:per|you
+	v|add pro:obj|them adv|up coord|and v|subtract pro:per|it~cop|be&3S
+	n|point det:num|nine det:num|five .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|CONJ 5|7|LINK 6|7|SUBJ 7|4|COORD 8|7|OBJ
+	9|7|JCT 10|7|CONJ 11|10|COORD 12|13|SUBJ 13|11|COMP 14|16|MOD
+	15|16|QUANT 16|13|PRED 17|1|PUNCT
+*S1:	so the probability of A or B (.) or the probability of May (.)
+	probability of May or June (.) is point nine five .
+%mor:	co|so det:art|the n|probable&dadj-ITY prep|of n:prop|A coord|or
+	n:prop|B coord|or det:art|the n|probable&dadj-ITY prep|of n:prop|May
+	n|probable&dadj-ITY prep|of n:prop|May coord|or n:prop|June
+	cop|be&3S v|point det:num|nine det:num|five .
+%gra:	1|3|COM 2|3|DET 3|18|SUBJ 4|3|NJCT 5|4|POBJ 6|3|CONJ 7|6|COORD 8|3|CONJ
+	9|10|DET 10|8|COORD 11|10|NJCT 12|13|MOD 13|11|POBJ 14|13|NJCT
+	15|14|POBJ 16|3|CONJ 17|16|COORD 18|0|ROOT 19|18|PRED 20|21|QUANT 21|19|OBJ
+	22|18|PUNCT
+*S1:	and that's that answer .
+%mor:	coord|and pro:dem|that~cop|be&3S det:dem|that n|answer .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*S1:	you can also do this &-uh with a Venn diagram .
+%mor:	pro:per|you mod|can adv|also v|do pro:dem|this prep|with det:art|a
+	n:prop|Venn n|diagram .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|4|PUNCT
+*S1:	either way is fine .
+%mor:	qn|either n|way cop|be&3S adv|fine .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*S1:	<if you see> [/] &it if you see things easier probably (.) it's
+	best to draw a Venn diagram .
+%mor:	conj|if pro:per|you v|see n|thing-PL adj|ease&dn-Y-CP
+	adv|probable&dadj-LY pro:per|it~cop|be&3S adj|good&SP inf|to v|draw
+	det:art|a n:prop|Venn n|diagram .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|3|OBJ 5|4|POSTMOD 6|3|JCT 7|8|SUBJ
+	8|0|ROOT 9|8|PRED 10|11|INF 11|9|XMOD 12|14|DET 13|14|MOD 14|11|OBJ 15|8|PUNCT
+*S1:	but (.) I can see things with formulae easier so I don't use the
+	Venn diagrams .
+%mor:	conj|but pro:sub|I mod|can v|see n|thing-PL prep|with n|formulae
+	adj|ease&dn-Y-CP conj|so pro:sub|I mod|do~neg|not v|use det:art|the
+	n:prop|Venn v|diagram-3S .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|JCT
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|16|CJCT 14|15|DET 15|16|SUBJ
+	16|8|CMOD 17|4|PUNCT
+*S1:	are the events (.) June gets an A in Stat one hundred and May gets
+	an A in Stat one hundred (.) independent ?
+%mor:	cop|be&PRES det:art|the n|event-PL n:prop|June v|get-3S det:art|a
+	n:prop|A prep|in n:prop|Stat det:num|one det:num|hundred coord|and
+	n:prop|May v|get-3S det:art|a n:prop|A prep|in n:prop|Stat
+	det:num|one det:num|hundred in#adj|dependent ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|5|SUBJ 5|3|CMOD 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|11|QUANT 11|14|QUANT 12|11|CONJ 13|12|COORD 14|8|CPOBJ
+	15|16|DET 16|14|OBJ 17|14|JCT 18|17|POBJ 19|20|QUANT 20|21|QUANT 21|17|POBJ
+	22|1|PUNCT
+*S1:	well now how would we calculate if things are independent +..?
+%mor:	adv|well adv|now pro:rel|how mod|will&COND pro:sub|we v|calculate
+	comp|if n|thing-PL cop|be&PRES in#adj|dependent +..?
+%gra:	1|2|JCT 2|0|INCROOT 3|6|LINK 4|6|AUX 5|6|SUBJ 6|2|CMOD 7|9|LINK
+	8|9|SUBJ 9|6|COMP 10|9|PRED 11|2|PUNCT
+*S1:	but we know there's the independence formula (.) this .
+%mor:	conj|but pro:sub|we v|know pro:exist|there~cop|be&3S det:art|the
+	in#n|dependence n|formula pro:dem|this .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|8|POSTMOD 10|5|PUNCT
+*S1:	&=writes:board A +...
+%mor:	n:prop|A +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so (.) if this happens (.) we know they're independent .
+%mor:	adv|so conj|if pro:dem|this v|happen-3S pro:sub|we v|know
+	pro:sub|they~cop|be&PRES in#adj|dependent .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|8|SUBJ 8|6|COMP
+	9|8|PRED 10|6|PUNCT
+*S1:	if the probability of A (.) times the probability of B is equal to
+	the probability of A and B (.) then they're independent +...
+%mor:	comp|if det:art|the n|probable&dadj-ITY prep|of n:prop|A v|time-3S
+	det:art|the n|probable&dadj-ITY prep|of n:prop|B cop|be&3S adj|equal
+	prep|to det:art|the n|probable&dadj-ITY prep|of n:prop|A coord|and
+	n:prop|B adv:tem|then pro:sub|they~cop|be&PRES in#adj|dependent +...
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|11|LINK 7|8|DET 8|11|SUBJ
+	9|8|NJCT 10|9|POBJ 11|0|ROOT 12|11|PRED 13|12|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|16|POBJ 18|22|LINK 19|22|SUBJ 20|22|JCT 21|22|SUBJ
+	22|11|CJCT 23|22|PRED 24|11|PUNCT
+*S1:	okay (.) mkay and either way (.) if they're independent then this
+	is true (.) and if this is true then they're independent .
+%mor:	co|okay co|mkay coord|and qn|either n|way conj|if
+	pro:sub|they~cop|be&PRES in#n|dependent adv:tem|then pro:dem|this
+	cop|be&3S adj|true coord|and conj|if pro:dem|this cop|be&3S adj|true
+	adv:tem|then pro:sub|they~cop|be&PRES in#adj|dependent .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|5|QUANT 5|3|COORD 6|8|LINK 7|8|SUBJ
+	8|2|CJCT 9|8|PRED 10|12|JCT 11|12|SUBJ 12|9|COMP 13|12|PRED 14|12|CONJ
+	15|17|LINK 16|17|SUBJ 17|14|COORD 18|17|PRED 19|21|JCT 20|21|SUBJ 21|17|CJCT
+	22|21|PRED 23|2|PUNCT
+*S1:	it's a tautology .
+%mor:	pro:per|it~cop|be&3S det:art|a n|tautology .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*S1:	there that was an (.) ace English words for you .
+%mor:	adv|there pro:rel|that cop|be&PAST&13S det:art|a n|ace
+	n:prop|English n|word-PL prep|for pro:per|you .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|5|DET 5|7|MOD 6|7|MOD 7|3|PRED 8|7|NJCT
+	9|8|POBJ 10|1|PUNCT
+*S1:	okay (.) are the events independent ?
+%mor:	co|okay cop|be&PRES det:art|the n|event-PL in#adj|dependent ?
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|PRED 5|4|OM 6|2|PUNCT
+*S1:	okay (.) so the probability of A (.) is point four five .
+%mor:	co|okay conj|so det:art|the n|probable&dadj-ITY prep|of n:prop|A
+	cop|be&3S v|point det:num|four det:num|five .
+%gra:	1|7|COM 2|7|LINK 3|4|DET 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|0|ROOT 8|7|CPRED
+	9|10|QUANT 10|8|OBJ 11|7|PUNCT
+*S1:	probability of B (.) is point eight five .
+%mor:	n|probable&dadj-ITY prep|of n:prop|B cop|be&3S v|point
+	det:num|eight det:num|five .
+%gra:	1|4|SUBJ 2|1|NJCT 3|2|POBJ 4|0|ROOT 5|4|PRED 6|7|QUANT 7|5|OBJ
+	8|4|PUNCT
+*S1:	are they equal ?
+%mor:	cop|be&PRES pro:sub|they adj|equal ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*S1:	so the probability of A and B (.) well the probability of A and B
+	is point thirty five .
+%mor:	co|so det:art|the n|probable&dadj-ITY prep|of n:prop|A coord|and
+	n:prop|B n|well det:art|the n|probable&dadj-ITY prep|of n:prop|A
+	coord|and n:prop|B cop|be&3S v|point det:num|thirty det:num|five .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|CONJ 7|8|MOD
+	8|6|COORD 9|10|DET 10|15|SUBJ 11|10|NJCT 12|11|POBJ 13|10|CONJ 14|13|COORD
+	15|8|CMOD 16|15|PRED 17|18|QUANT 18|16|OBJ 19|3|PUNCT
+*S1:	it's not (.) if these two &mul &t multiplied together is equal to
+	point thirty five (.) then they're independent .
+%mor:	pro:per|it~cop|be&3S neg|not conj|if det:dem|these det:num|two
+	v|multiply-PAST adv|together cop|be&3S n|equal inf|to v|point
+	det:num|thirty det:num|five adv:tem|then pro:sub|they~cop|be&PRES
+	in#adj|dependent .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|7|LINK 5|6|DET 6|7|QUANT 7|17|CJCT 8|9|JCT
+	9|7|COMP 10|9|PRED 11|12|INF 12|10|XMOD 13|14|QUANT 14|15|QUANT
+	15|12|JCT 16|17|SUBJ 17|2|CJCT 18|17|PRED 19|2|PUNCT
+*S1:	did I do this right ?
+%mor:	mod|do&PAST pro:sub|I v|do pro:dem|this adj|right ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*S1:	it's point thirty eight two five .
+%mor:	pro:per|it~cop|be&3S n|point det:num|thirty det:num|eight
+	det:num|two det:num|five .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|DATE 4|5|QUANT 5|6|QUANT 6|7|QUANT 7|2|PRED
+	8|2|PUNCT
+*S1:	so the answer is point thirty eight two five is not equal to (.)
+	point thirty five (.) therefore they're not independent .
+%mor:	co|so det:art|the n|answer cop|be&3S v|point det:num|thirty
+	det:num|eight det:num|two det:num|five aux|be&3S neg|not n|equal
+	inf|to v|point det:num|thirty det:num|five adv|therefore
+	pro:sub|they~cop|be&PRES neg|not in#adj|dependent .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|CPRED 6|7|QUANT 7|8|QUANT
+	8|9|QUANT 9|12|QUANT 10|12|AUX 11|10|NEG 12|5|OBJ 13|14|INF 14|12|COMP
+	15|16|QUANT 16|14|OBJ 17|14|JCT 18|19|SUBJ 19|12|CJCT 20|19|NEG 21|19|PRED
+	22|4|PUNCT
+*S1:	so they're not (.) independent .
+%mor:	adv|so pro:sub|they~cop|be&PRES neg|not in#adj|dependent .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+*S1:	mkay ?
+%mor:	co|mkay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and you may think (.) wow why shouldn't (.) they should be
+	independent .
+%mor:	coord|and pro:per|you mod|may v|think co|wow pro:int|why
+	mod|should~neg|not pro:sub|they mod|should cop|be in#adj|dependent .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|11|COM 6|11|JCT 7|11|AUX 8|7|NEG
+	9|11|SUBJ 10|11|AUX 11|4|COMP 12|11|PRED 13|4|PUNCT
+*S1:	they're two separate students in the class .
+%mor:	pro:sub|they~cop|be&PRES det:num|two v|separate n|student-PL
+	prep|in det:art|the n|class .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*S1:	but (.) I don't know (.) you can always +//.
+%mor:	conj|but pro:sub|I mod|do~neg|not v|know pro:per|you mod|can
+	adv|always +//.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|SUBJ 7|8|AUX 8|5|JCT
+	9|5|PUNCT
+*S1:	don't [/] don't use logic <when you> [/] when you &-uh solve stats
+	problems .
+%mor:	mod|do~neg|not v|use n|logic conj|when pro:per|you v|solve
+	n|stat-PL n|problem-PL .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|9|MOD
+	9|7|OBJ 10|3|PUNCT
+*S1:	just use numbers .
+%mor:	adj|just n|use n|number-PL .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S1:	numbers work better than logic .
+%mor:	n|number-PL v|work adv|good&CP prep|than n|logic .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*S1:	are the events (.) June gets an A in Stat one hundred and May gets
+	an A in Stat one hundred disjoint ?
+%mor:	cop|be&PRES det:art|the n|event-PL n:prop|June v|get-3S det:art|a
+	n:prop|A prep|in n:prop|Stat det:num|one det:num|hundred coord|and
+	n:prop|May v|get-3S det:art|a n:prop|A prep|in n:prop|Stat
+	det:num|one det:num|hundred v|disjoint ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|5|SUBJ 5|3|CMOD 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|11|QUANT 11|14|QUANT 12|11|CONJ 13|12|COORD 14|8|CPOBJ
+	15|16|DET 16|14|OBJ 17|21|JCT 18|17|POBJ 19|20|QUANT 20|21|QUANT 21|14|CJCT
+	22|1|PUNCT
+*S1:	are they ?
+%mor:	cop|be&PRES pro:sub|they ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*S1:	they're not .
+%mor:	pro:sub|they~cop|be&PRES neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PUNCT
+*S1:	they have thirty &f &fir thirty five percent chance that [/] that
+	will happen (.) so they're not disjunct .
+%mor:	pro:sub|they v|have det:num|thirty det:num|thirty det:num|five
+	n|percent n|chance pro:rel|that mod|will v|happen conj|so
+	pro:sub|they~cop|be&PRES neg|not adj|disjunct .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|QUANT 4|5|DATE 5|6|QUANT 6|7|MOD 7|2|OBJ
+	8|10|LINK 9|10|AUX 10|7|CMOD 11|13|LINK 12|13|SUBJ 13|10|CJCT 14|13|NEG
+	15|13|PRED 16|2|PUNCT
+*S1:	<if they had> [//] if there was no events in common (.) if there
+	was no chance of that happening (.) then they would be disjoint .
+%mor:	conj|if adv|there cop|be&PAST&13S qn|no n|event-PL prep|in
+	adj|common conj|if adv|there cop|be&PAST&13S qn|no n|chance prep|of
+	det:dem|that n:gerund|happen-PRESP adv:tem|then pro:sub|they
+	mod|will&COND cop|be v|disjoint .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|5|NJCT 7|6|POBJ
+	8|10|LINK 9|10|SUBJ 10|3|CJCT 11|12|QUANT 12|10|PRED 13|12|NJCT 14|15|DET
+	15|13|POBJ 16|12|NJCT 17|19|SUBJ 18|19|AUX 19|16|CMOD 20|19|PRED 21|3|PUNCT
+*S1:	but since we have (.) a chance of that happening they're not
+	disjoint .
+%mor:	conj|but conj|since pro:sub|we v|have det:art|a n|chance prep|of
+	det:dem|that n:gerund|happen-PRESP pro:sub|they~cop|be&PRES neg|not
+	v|disjoint .
+%gra:	1|11|LINK 2|4|LINK 3|4|SUBJ 4|11|CJCT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|11|SUBJ 11|13|CJCT 12|11|NEG 13|0|ROOT 14|13|PUNCT
+*S1:	what is the probability that [/] that either May or June gets an A
+	in Stat one hundred .
+%mor:	pro:int|what cop|be&3S det:art|the n|probable&dadj-ITY adv|that
+	coord|either n:prop|May coord|or n:prop|June v|get-3S det:art|a
+	n:prop|A prep|in n:prop|Stat det:num|one det:num|hundred .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|CONJ 7|6|COORD 8|4|CONJ
+	9|8|COORD 10|4|NJCT 11|12|DET 12|10|OBJ 13|4|NJCT 14|13|POBJ
+	15|16|QUANT 16|4|NJCT 17|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so the probability (.) come on &=writes:board <we'll do> [?] that
+	here +...
+%mor:	co|so det:art|the n|probable&dadj-ITY v|come adv|on
+	pro:sub|we~mod|will v|do adv|that adv|here +...
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|8|CJCT 5|4|JCT 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|8|JCT 11|8|PUNCT
+*S1:	that's the probability that neither an M or J is equal to (.) the
+	minus the probability that (.) M or J gets it .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|probable&dadj-ITY adv|that
+	adv|neither det:art|a n:prop|M coord|or n:prop|J cop|be&3S adj|equal
+	prep|to det:art|the n|minus det:art|the n|probable&dadj-ITY
+	comp|that n:prop|M coord|or n:prop|J v|get-3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|11|JCT 5|6|JCT 6|4|NJCT 7|8|DET 8|11|SUBJ
+	9|8|CONJ 10|9|COORD 11|2|PRED 12|11|PRED 13|12|JCT 14|15|DET 15|13|POBJ
+	16|17|DET 17|11|PRED 18|22|LINK 19|22|SUBJ 20|19|CONJ 21|20|COORD
+	22|17|CMOD 23|22|OBJ 24|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	M minus point thirty five (.) so it's a (.) only a five percent
+	chance that neither of (th)em (.) will get an A .
+%mor:	n:prop|M n|minus v|point det:num|thirty det:num|five adv|so
+	pro:per|it~cop|be&3S det:art|a adv|only det:art|a det:num|five
+	n|percent n|chance pro:rel|that adv|neither prep|of pro:obj|them
+	mod|will v|get det:art|a n:prop|A .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|8|JCT 7|8|SUBJ 8|3|COMP
+	9|10|DET 10|8|JCT 11|14|DET 12|13|QUANT 13|14|MOD 14|10|POBJ 15|20|LINK
+	16|20|JCT 17|16|JCT 18|17|POBJ 19|20|AUX 20|14|CMOD 21|22|DET 22|20|OBJ
+	23|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	question two +/.
+%mor:	v|question det:num|two +/.
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*SUF:	+, what is the answer ?
+%mor:	pro:int|what cop|be&3S det:art|the n|answer ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*S1:	+, what [/] what do you mean ?
+%mor:	pro:int|what mod|do pro:per|you adj|mean ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*SUF:	the probability of (.) .
+%mor:	det:art|the n|probable&dadj-ITY prep|of .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|2|PUNCT
+*S1:	neither May +/.
+%mor:	coord|neither n:prop|May +/.
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*SUF:	oh (.) neither (.) okay +/.
+%mor:	co|oh adv|neither adj|okay +/.
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*S1:	+, mhm (.) I'm sorry (.) I [/] I'm sorry I can't write very well .
+%mor:	co|mhm=yes pro:sub|I~cop|be&1S adj|sorry pro:sub|I~cop|be&1S
+	adj|sorry pro:sub|I mod|can~neg|not v|write adv|very adv|well .
+%gra:	1|3|COM 2|3|SUBJ 3|6|CJCT 4|3|PRED 5|6|SUBJ 6|11|CJCT 7|6|PRED
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|0|ROOT 12|13|JCT 13|11|JCT 14|11|PUNCT
+*S1:	&-uh question (.) any questions for number one ?
+%mor:	v|question qn|any n|question-PL prep|for n|number pro:indef|one ?
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|JCT 5|6|MOD 6|4|POBJ 7|1|PUNCT
+*S1:	let's move on to question number two .
+%mor:	v|let~pro:obj|us v|move adv|on prep|to n|question n|number
+	det:num|two .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|3|JCT 6|8|MOD 7|8|MOD 8|5|POBJ
+	9|1|PUNCT
+*S1:	X is distributed u@l thirty seven (.) what does that mean ?
+%mor:	n:prop|X aux|be&3S part|distribute-PASTP n:let|u det:num|thirty
+	det:num|seven pro:int|what mod|do&3S pro:dem|that adj|mean ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DATE 5|6|DATE 6|3|OBJ 7|9|DET 8|9|AUX
+	9|3|OBJ 10|9|PRED 11|3|PUNCT
+*S1:	&=writes:board again (.) three lower bound (.) upper &bou I think
+	almost everyone did really well on the [/] &qui the exam for this
+	question (.) for drawing this (.) so that's good .
+%mor:	adv|again det:num|three v|lower n|bound adj|upper pro:sub|I v|think
+	adv|almost pro:indef|everyone v|do&PAST adv|real&dadj-LY adv|well
+	prep|on det:art|the n|exam prep|for det:dem|this n|question prep|for
+	n|drawing det:dem|this co|so pro:dem|that~cop|be&3S adj|good .
+%gra:	1|3|JCT 2|3|SUBJ 3|7|CJCT 4|3|OBJ 5|4|POSTMOD 6|7|SUBJ 7|0|ROOT
+	8|10|JCT 9|10|SUBJ 10|7|COMP 11|10|JCT 12|10|JCT 13|10|JCT 14|15|DET 15|13|POBJ
+	16|10|JCT 17|18|DET 18|16|POBJ 19|10|JCT 20|19|POBJ 21|24|DET 22|24|COM
+	23|24|SUBJ 24|10|JCT 25|24|PRED 26|7|PUNCT
+*S1:	and we want to find the height but we always label it density (.)
+	that's one over the max minus the Min (.) one of them over seven
+	minus three (.) that's one out_of four .
+%mor:	coord|and pro:sub|we v|want inf|to v|find det:art|the n|height
+	conj|but pro:sub|we adv|always v|label pro:per|it n|density
+	pro:rel|that~cop|be&3S det:num|one prep|over det:art|the v|max
+	n|minus det:art|the n:prop|Min det:num|one prep|of pro:obj|them
+	adv|over det:num|seven n|minus det:num|three pro:rel|that~cop|be&3S
+	det:num|one prep|out_of det:num|four .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|11|LINK
+	9|11|SUBJ 10|11|JCT 11|3|CJCT 12|11|OBJ 13|11|OBJ 14|15|LINK 15|13|CMOD
+	16|28|QUANT 17|16|NJCT 18|20|DET 19|20|MOD 20|17|POBJ 21|23|DET 22|23|MOD
+	23|27|SUBJ 24|23|NJCT 25|24|POBJ 26|27|JCT 27|28|QUANT 28|15|PRED
+	29|28|NJCT 30|31|LINK 31|29|CMOD 32|31|PRED 33|32|JCT 34|33|POBJ 35|3|PUNCT
+*S1:	okay (.) so we have drawn this .
+%mor:	co|okay conj|so pro:sub|we v|have part|draw&PASTP pro:dem|this .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|OBJ 7|4|PUNCT
+*S1:	&{l=READING find the probability that X is greater than four
+	&}l=READING well (.) there's four +...
+%mor:	v|find det:art|the n|probable&dadj-ITY comp|that n:prop|X cop|be&3S
+	adj|great-CP prep|than det:num|four n|well pro:exist|there~cop|be&3S
+	det:num|four +...
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|PRED 8|12|JCT
+	9|10|QUANT 10|8|POBJ 11|12|SUBJ 12|7|CMOD 13|12|PRED 14|1|PUNCT
+*S1:	we want that probability .
+%mor:	pro:sub|we v|want adv|that n|probable&dadj-ITY .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*S1:	remember probability is the same as area when you're doing uniform
+	(.) and area is equal to (.) what (.) height times width .
+%mor:	v|remember n|probable&dadj-ITY cop|be&3S det:art|the adj|same
+	adv|as n|area pro:rel|when pro:per|you~aux|be&PRES part|do-PRESP
+	adj|uniform coord|and n|area cop|be&3S adj|equal inf|to pro:int|what
+	n|height v|time-3S n|width .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|7|DET 5|7|MOD 6|7|COORD 7|3|PRED 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|CMOD 12|11|PRED 13|12|CONJ 14|13|COORD
+	15|12|CMOD 16|15|PRED 17|18|INF 18|20|LINK 19|20|SUBJ 20|16|CMOD 21|20|OBJ
+	22|1|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	it's equal to one fourth (.) (be)cause that's the height (.) times
+	the width is &s seven minus three which is three (.) so thirty
+	fourths .
+%mor:	pro:per|it~cop|be&3S n|equal prep|to det:num|one adj|fourth
+	conj|because pro:rel|that~cop|be&3S det:art|the n|height v|time-3S
+	det:art|the n|width cop|be&3S det:num|seven n|minus det:num|three
+	pro:rel|which cop|be&3S det:num|three adv|so det:num|thirty
+	n|fourth-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|QUANT 6|4|POBJ 7|2|PRED
+	8|9|LINK 9|7|CMOD 10|11|DET 11|12|SUBJ 12|9|CPRED 13|14|DET 14|15|SUBJ
+	15|12|COMP 16|17|QUANT 17|15|PRED 18|17|NJCT 19|20|LINK 20|18|CMOD 21|24|QUANT
+	22|23|JCT 23|24|QUANT 24|20|PRED 25|2|PUNCT
+*S1:	so that's the probability (.) X is greater than four +...
+%mor:	co|so pro:dem|that~cop|be&3S det:art|the n|probable&dadj-ITY
+	n:prop|X cop|be&3S adj|great-CP prep|than det:num|four +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|SUBJ 7|5|CMOD 8|7|PRED
+	9|8|JCT 10|9|POBJ 11|3|PUNCT
+*S1:	three out_of four .
+%mor:	det:num|three prep|out_of det:num|four .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and we want (.) to find the probability (.) so we want this now .
+%mor:	coord|and pro:sub|we v|want inf|to v|find det:art|the
+	n|probable&dadj-ITY co|so pro:sub|we v|want det:dem|this adv|now .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|10|COM
+	9|10|SUBJ 10|3|CJCT 11|12|DET 12|10|JCT 13|3|PUNCT
+*S1:	probability X is greater than four (.) we have X .
+%mor:	n|probable&dadj-ITY n:prop|X cop|be&3S adj|great-CP prep|than
+	det:num|four pro:sub|we v|have n:prop|X .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|5|POBJ 7|8|SUBJ 8|3|CJCT
+	9|8|OBJ 10|3|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	now this slash (.) I didn't write it in words (.) but that means
+	given .
+%mor:	adv|now pro:dem|this conj|slash pro:sub|I mod|do&PAST~neg|not
+	v|write pro:per|it prep|in n|word-PL conj|but pro:dem|that v|mean-3S
+	part|give&PASTP .
+%gra:	1|2|JCT 2|0|INCROOT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|CJCT 8|7|OBJ
+	9|7|JCT 10|9|POBJ 11|13|LINK 12|13|SUBJ 13|7|CJCT 14|13|COMP 15|2|PUNCT
+*S1:	so we wanna find the probability that X is greater than four (.)
+	given that X is less than six .
+%mor:	co|so pro:sub|we v|want~inf|to v|find det:art|the
+	n|probable&dadj-ITY comp|that n:prop|X cop|be&3S adj|great-CP
+	prep|than det:num|four part|give&PASTP adv|that n:prop|X cop|be&3S
+	adj|less prep|than det:num|six .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|PRED 12|11|JCT 13|14|QUANT 14|12|CPOBJ 15|17|JCT
+	16|17|SUBJ 17|14|COMP 18|17|PRED 19|18|JCT 20|19|POBJ 21|3|PUNCT
+*S1:	&aw another rule (.) another awesome formula that you must know (.)
+	probability of A given B (.) sequence of the probability A and B (.)
+	divided by probability of B .
+%mor:	qn|another n|rule qn|another adj|awesome n|formula pro:rel|that
+	pro:per|you mod|must v|know n|probable&dadj-ITY prep|of n:prop|A
+	part|give&PASTP n:prop|B n|sequence prep|of det:art|the
+	n|probable&dadj-ITY n:prop|A coord|and n:prop|B v|divide-PAST
+	prep|by n|probable&dadj-ITY prep|of n:prop|B .
+%gra:	1|2|QUANT 2|0|INCROOT 3|5|QUANT 4|5|MOD 5|2|OBJ 6|9|LINK 7|9|SUBJ
+	8|9|AUX 9|5|CMOD 10|9|OBJ 11|10|NJCT 12|11|POBJ 13|9|XJCT 14|15|MOD 15|13|OBJ
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|15|APP 20|22|LINK 21|22|SUBJ
+	22|13|CJCT 23|22|JCT 24|23|POBJ 25|24|NJCT 26|25|POBJ 27|2|PUNCT
+*S1:	mkay ?
+%mor:	co|mkay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	another formula that you must know so (.) I don't know (.) I happen
+	to write three of the really important formulas that you must know
+	for your (.) quiz on Thursday and for your exam (.) in a couple
+	weeks so (.) know this stuff (.) that's good .
+%mor:	qn|another n|formula pro:rel|that pro:per|you mod|must v|know co|so
+	pro:sub|I mod|do~neg|not v|know pro:sub|I v|happen inf|to v|write
+	det:num|three prep|of det:art|the adv|real&dadj-LY adj|important
+	n|formula-PL comp|that pro:per|you mod|must v|know prep|for
+	det:poss|your n|quiz prep|on n:prop|Thursday coord|and prep|for
+	det:poss|your n|exam prep|in det:art|a qn|couple n|week-PL conj|so
+	v|know det:dem|this n|stuff pro:rel|that~cop|be&3S adj|good .
+%gra:	1|2|QUANT 2|13|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CMOD 7|11|COM
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|6|COMP 12|13|SUBJ 13|0|ROOT 14|15|INF 15|13|COMP
+	16|15|OBJ 17|16|NJCT 18|21|DET 19|20|JCT 20|21|MOD 21|17|POBJ 22|25|LINK
+	23|25|SUBJ 24|25|AUX 25|15|COMP 26|25|JCT 27|28|DET 28|26|POBJ
+	29|25|JCT 30|29|POBJ 31|25|CONJ 32|31|COORD 33|34|DET 34|32|POBJ 35|34|NJCT
+	36|37|DET 37|35|POBJ 38|32|POBJ 39|40|LINK 40|38|CMOD 41|42|DET 42|40|OBJ
+	43|44|LINK 44|42|CMOD 45|44|PRED 46|13|PUNCT
+*S1:	so then we can rewrite this statement from here (.) be something
+	like that .
+%mor:	adv|so adv:tem|then pro:sub|we mod|can n|rewrite det:dem|this
+	n|state&dv-MENT prep|from n|here cop|be pro:indef|something
+	prep|like pro:dem|that .
+%gra:	1|2|JCT 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|INCROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|7|CMOD 11|10|PRED 12|11|NJCT 13|12|POBJ 14|5|PUNCT
+*S1:	so this is gonna be equal to the probability that X is greater than
+	four (.) and X is less than six .
+%mor:	adv|so pro:dem|this aux|be&3S part|go-PRESP~inf|to aux|be adj|equal
+	prep|to det:art|the n|probable&dadj-ITY comp|that n:prop|X cop|be&3S
+	adj|great-CP prep|than det:num|four coord|and n:prop|X cop|be&3S
+	adj|less prep|than det:num|six .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|PRED 8|7|JCT
+	9|10|DET 10|8|POBJ 11|13|LINK 12|13|SUBJ 13|10|CMOD 14|13|PRED 15|19|LINK
+	16|19|SUBJ 17|16|CONJ 18|17|COORD 19|14|CMOD 20|19|PRED 21|20|JCT
+	22|21|POBJ 23|4|PUNCT
+*S1:	divided by the probability that X is less than six .
+%mor:	v|divide-PAST prep|by det:art|the n|probable&dadj-ITY comp|that
+	n:prop|X cop|be&3S adj|less prep|than det:num|six .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|7|PRED
+	9|8|JCT 10|9|POBJ 11|1|PUNCT
+*S1:	mkay +...
+%mor:	co|mkay +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so now when (.) we wanna find the probability that X is greater
+	than four (.) but less than six .
+%mor:	adv|so adv|now conj|when pro:sub|we v|want~inf|to v|find
+	det:art|the n|probable&dadj-ITY comp|that n:prop|X cop|be&3S
+	adj|great-CP prep|than det:num|four conj|but adj|less prep|than
+	det:num|six .
+%gra:	1|2|JCT 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|PRED 14|13|JCT 15|14|POBJ
+	16|15|CONJ 17|16|COORD 18|17|JCT 19|18|POBJ 20|2|PUNCT
+*S1:	so basically that means the probability that (.) X is between four
+	and six .
+%mor:	adv|so adv|basic&dadj-AL-LY pro:rel|that v|mean-3S det:art|the
+	n|probable&dadj-ITY comp|that n:prop|X cop|be&3S prep|between
+	det:num|four coord|and det:num|six .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|6|DET 6|4|OBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|JCT 11|10|POBJ 12|11|CONJ 13|12|COORD 14|2|PUNCT
+*S1:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	does everyone see that ?
+%mor:	mod|do&3S pro:indef|everyone v|see comp|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	we're greater than four (.) and we're less than six .
+%mor:	pro:sub|we~cop|be&PRES adj|great-CP prep|than det:num|four
+	coord|and pro:sub|we~cop|be&PRES adj|less prep|than det:num|six .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|4|POBJ 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|8|PRED 10|9|JCT 11|10|POBJ 12|2|PUNCT
+*S1:	so +...
+%mor:	co|so +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	that's the area we're looking for .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|area pro:sub|we~aux|be&PRES
+	part|look-PRESP prep|for .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|7|SUBJ 6|7|AUX 7|4|CMOD 8|7|JCT
+	9|2|PUNCT
+*S1:	mkay .
+%mor:	co|mkay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so that's what that's equal to .
+%mor:	co|so pro:dem|that~cop|be&3S pro:int|what pro:rel|that~cop|be&3S
+	n|equal inf|to .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|LINK 6|4|CMOD 7|6|PRED 8|7|OM
+	9|3|PUNCT
+*S1:	and it's again divided by the probability that X is <the systems>
+	[?] .
+%mor:	coord|and pro:per|it~aux|be&3S adv|again part|divide-PASTP prep|by
+	det:art|the n|probable&dadj-ITY comp|that n:prop|X cop|be&3S
+	det:art|the n|system-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|13|DET 13|11|PRED 14|5|PUNCT
+*S1:	mkay ?
+%mor:	co|mkay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so this probability (.) again area of a rectangle (.) the base
+	times the height (.) the base here is six minus four is two (.)
+	times one fourth (.) so it's two over four .
+%mor:	co|so det:dem|this n|probable&dadj-ITY adv|again n|area prep|of
+	det:art|a n|rectangle det:art|the adj|base n|time-PL det:art|the
+	n|height det:art|the n|base pro:exist|here cop|be&3S det:num|six
+	n|minus det:num|four aux|be&3S det:num|two n|time-PL det:num|one
+	adj|fourth adv|so pro:per|it~cop|be&3S det:num|two adv|over
+	det:num|four .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|11|DET 10|11|MOD 11|3|APP 12|13|DET 13|11|CMOD 14|15|DET 15|13|OBJ
+	16|17|SUBJ 17|15|CMOD 18|19|QUANT 19|17|PRED 20|23|QUANT 21|23|AUX
+	22|23|QUANT 23|19|APP 24|25|QUANT 25|23|PRED 26|28|JCT 27|28|SUBJ 28|25|CMOD
+	29|31|QUANT 30|31|JCT 31|28|PRED 32|3|PUNCT
+*S1:	and the denominator is X is less than six (.) base times height
+	again .
+%mor:	coord|and det:art|the n|denominator cop|be&3S n:prop|X cop|be&3S
+	adj|less prep|than det:num|six adj|base n|time-PL n|height adv|again
+	.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|PRED 7|6|PRED 8|7|JCT
+	9|12|QUANT 10|12|MOD 11|12|MOD 12|8|POBJ 13|12|JCT 14|4|PUNCT
+*S1:	six minus three is three (.) height is still one fourth (.) three
+	out_of four +...
+%mor:	det:num|six prep|minus det:num|three aux|be&3S det:num|three
+	n|height cop|be&3S adv|still det:num|one n|fourth det:num|three
+	prep|out_of det:num|four +...
+%gra:	1|7|SUBJ 2|1|JCT 3|6|QUANT 4|6|AUX 5|6|QUANT 6|2|POBJ 7|0|ROOT 8|7|JCT
+	9|10|QUANT 10|7|PRED 11|10|OM 12|11|JCT 13|12|POBJ 14|7|PUNCT
+*S1:	and that's two thirds .
+%mor:	coord|and pro:dem|that~cop|be&3S det:num|two n|third-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*S1:	okay (.) so this probability is equal to two thirds .
+%mor:	co|okay adv|so det:dem|this n|probable&dadj-ITY cop|be&3S adj|equal
+	prep|to det:num|two n|third-PL .
+%gra:	1|4|COM 2|4|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|JCT 8|9|QUANT
+	9|7|POBJ 10|5|PUNCT
+*S1:	so the probability that X is greater than four given X is less than
+	six (.) is two thirds (.) as_well_as the probability that X is
+	greater than four is thirty fourths .
+%mor:	co|so det:art|the n|probable&dadj-ITY comp|that n:prop|X cop|be&3S
+	adj|great-CP prep|than det:num|four part|give&PASTP n:prop|X
+	cop|be&3S adj|less prep|than det:num|six aux|be&3S det:num|two
+	n|third-PL coord|as_well_as det:art|the n|probable&dadj-ITY
+	comp|that n:prop|X cop|be&3S adj|great-CP prep|than det:num|four
+	aux|be&3S det:num|thirty n|fourth-PL .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|PRED 8|7|JCT
+	9|10|QUANT 10|8|CPOBJ 11|12|SUBJ 12|10|COMP 13|12|PRED 14|13|JCT
+	15|17|SUBJ 16|17|AUX 17|18|QUANT 18|14|POBJ 19|18|CONJ 20|21|DET 21|19|COORD
+	22|24|LINK 23|24|SUBJ 24|21|CMOD 25|24|PRED 26|25|JCT 27|30|QUANT
+	28|30|AUX 29|30|QUANT 30|26|POBJ 31|3|PUNCT
+*S1:	are these two independent ?
+%mor:	cop|be&PRES det:dem|these det:num|two in#adj|dependent ?
+%gra:	1|0|ROOT 2|4|DET 3|4|QUANT 4|1|PRED 5|1|PUNCT
+*S1:	well (.) another rule (.) see (.) this rule +//.
+%mor:	co|well qn|another n|rule v|see det:dem|this n|rule +//.
+%gra:	1|3|COM 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*S1:	we can also rewrite that as saying (.) the probability of A given B
+	(.) &probabil so (.) if the probability of A given B is equal to the
+	probability of A (.) then they're independent +...
+%mor:	pro:sub|we mod|can adv|also n|rewrite adv|that adv|as
+	part|say-PRESP det:art|the n|probable&dadj-ITY prep|of n:prop|A
+	part|give&PASTP n:prop|B conj|so comp|if det:art|the
+	n|probable&dadj-ITY prep|of n:prop|A part|give&PASTP n:prop|B
+	cop|be&3S adj|equal prep|to det:art|the n|probable&dadj-ITY prep|of
+	n:prop|A adv:tem|then pro:sub|they~cop|be&PRES in#adj|dependent +...
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|INCROOT 5|7|JCT 6|7|JCT 7|4|XMOD 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|10|POBJ 12|9|XMOD 13|12|OBJ 14|4|CONJ 15|14|COORD
+	16|17|DET 17|15|OBJ 18|17|NJCT 19|18|POBJ 20|17|XMOD 21|22|SUBJ 22|20|COMP
+	23|22|PRED 24|23|JCT 25|26|DET 26|24|POBJ 27|26|NJCT 28|27|POBJ
+	29|31|JCT 30|31|SUBJ 31|22|CJCT 32|31|PRED 33|4|PUNCT
+*S1:	as well .
+%mor:	prep|as adv|well .
+%gra:	1|2|COORD 2|0|INCROOT 3|2|PUNCT
+*S1:	it's the same &s it's actually the same statement as this one here
+	(.) just rewritten in a different way .
+%mor:	pro:per|it~cop|be&3S det:art|the adj|same pro:per|it~cop|be&3S
+	adv|actual&dadj-LY det:art|the adj|same n|state&dv-MENT prep|as
+	det:dem|this pro:indef|one adv|here adv|just re#part|write&PASTP
+	prep|in det:art|a adj|different n|way .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|SUBJ 6|4|CMOD 7|16|JCT 8|10|DET
+	9|10|MOD 10|16|SUBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|16|JCT 15|16|JCT
+	16|6|PRED 17|16|JCT 18|20|DET 19|20|MOD 20|17|POBJ 21|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so and we've we actually have done all this work already .
+%mor:	adv|so coord|and pro:sub|we~aux|have pro:sub|we adv|actual&dadj-LY
+	v|have part|do&PASTP qn|all det:dem|this n|work adv|already .
+%gra:	1|0|INCROOT 2|1|CONJ 3|7|SUBJ 4|7|AUX 5|7|SUBJ 6|7|JCT 7|2|COORD
+	8|7|COMP 9|11|QUANT 10|11|DET 11|8|OBJ 12|8|JCT 13|1|PUNCT
+*S1:	so the probability of X is (.) greater than four given that X is
+	less than six (.) less this guy (.) is two thirds (.) is that equal
+	to (.) probability of +//.
+%mor:	co|so det:art|the n|probable&dadj-ITY prep|of n:prop|X cop|be&3S
+	adj|great-CP prep|than det:num|four part|give&PASTP adv|that
+	n:prop|X cop|be&3S adj|less prep|than det:num|six adj|less
+	det:dem|this n|guy cop|be&3S det:num|two n|third-PL cop|be&3S
+	adv|that n|equal prep|to n|probable&dadj-ITY prep|of +//.
+%gra:	1|6|COM 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|PRED 8|7|JCT
+	9|10|QUANT 10|8|CPOBJ 11|13|JCT 12|13|SUBJ 13|10|COMP 14|13|PRED 15|14|JCT
+	16|17|QUANT 17|15|POBJ 18|19|DET 19|20|SUBJ 20|17|CMOD 21|22|QUANT
+	22|23|SUBJ 23|20|PRED 24|25|JCT 25|23|PRED 26|25|NJCT 27|26|POBJ 28|27|NJCT
+	29|6|PUNCT
+*S1:	that X is less than four (.) X is greater than four excuse_me (.)
+	thirty fourths ?
+%mor:	comp|that n:prop|X cop|be&3S adj|less prep|than det:num|four
+	n:prop|X cop|be&3S adj|great-CP prep|than det:num|four co|excuse_me
+	det:num|thirty n|fourth-PL ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|QUANT 7|5|POBJ
+	8|5|CPOBJ 9|8|PRED 10|9|JCT 11|14|QUANT 12|14|COM 13|14|QUANT 14|10|POBJ
+	15|3|PUNCT
+*S1:	it's not equal to (.) so they're not independent .
+%mor:	pro:per|it~cop|be&3S neg|not n|equal inf|to adv|so
+	pro:sub|they~cop|be&PRES neg|not in#adj|dependent .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|6|INF 6|8|JCT 7|8|SUBJ 8|4|CMOD
+	9|8|NEG 10|8|PRED 11|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	again this is just some of the stuff from chapter (.) eight (.)
+	that you must know .
+%mor:	adv|again pro:dem|this cop|be&3S adv|just pro:indef|some prep|of
+	det:art|the n|stuff prep|from n|chapter det:num|eight adv|that
+	pro:per|you mod|must v|know .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|15|JCT 5|15|SUBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|5|NJCT 10|9|POBJ 11|12|QUANT 12|15|JCT 13|15|SUBJ 14|15|AUX 15|3|CPRED
+	16|3|PUNCT
+*S1:	okay +...
+%mor:	co|okay +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	today's lab +//.
+%mor:	adv:tem|today~aux|be&3S n|lab +//.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*S1:	does everyone know the game show Monty Hall ?
+%mor:	mod|do&3S pro:indef|everyone v|know det:art|the n|game n|show
+	n:prop|Monty n:prop|Hall ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|8|NAME 8|6|APP
+	9|3|PUNCT
+*S1:	that's not what I &thought Let's Make a Deal .
+%mor:	pro:dem|that~cop|be&3S neg|not pro:int|what pro:sub|I
+	adj|Let&dn-POSS n:prop|Make det:art|a n:prop|Deal .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|7|LINK 5|7|SUBJ 6|7|MOD 7|2|PRED 8|9|DET
+	9|7|APP 10|2|PUNCT
+*S1:	everyone know that game show ?
+%mor:	pro:indef|everyone v|know det:dem|that n|game n|show ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*S1:	anyone know that game show ?
+%mor:	pro:indef|anyone v|know det:dem|that n|game n|show ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*S1:	I used to love that game show .
+%mor:	pro:sub|I v|use-PAST inf|to v|love det:dem|that n|game n|show .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|2|PUNCT
+*S1:	we're doing a lab based on (.) a game show .
+%mor:	pro:sub|we~aux|be&PRES part|do-PRESP det:art|a n|lab v|base-PAST
+	prep|on det:art|a n|game n|show .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*S1:	so &-uh everyone needs to get with another person (.) we're gonna
+	have (.) lab in groups today .
+%mor:	adv|so pro:indef|everyone v|need-3S inf|to v|get prep|with
+	qn|another n|person pro:sub|we~aux|be&PRES part|go-PRESP~inf|to
+	v|have n|lab prep|in n|group-PL adv:tem|today .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|11|SUBJ 10|11|AUX 11|8|CMOD 12|13|INF 13|11|COMP 14|13|OBJ 15|13|JCT
+	16|17|MOD 17|15|POBJ 18|3|PUNCT
+*S1:	so (.) get with (.) &i one more person so we can have groups of two
+	(.) and have all kinds of cool fun .
+%mor:	adv|so v|get prep|with det:num|one qn|more n|person conj|so
+	pro:sub|we mod|can v|have n|group-PL prep|of det:num|two coord|and
+	v|have qn|all n|kind-PL prep|of adj|cool n|fun .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|6|QUANT 5|6|QUANT 6|3|POBJ 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|2|CJCT 11|10|OBJ 12|11|NJCT 13|12|POBJ 14|10|CONJ
+	15|14|COORD 16|17|QUANT 17|15|OBJ 18|17|NJCT 19|20|MOD 20|18|POBJ 21|2|PUNCT
+*S1:	<take that> [?] xxx mkay groups of two (.) who doesn't have a group
+	?
+%mor:	v|take comp|that co|mkay n|group-PL prep|of det:num|two pro:rel|who
+	mod|do&3S~neg|not v|have det:art|a n|group ?
+%gra:	1|0|ROOT 2|4|DET 3|4|COM 4|1|OBJ 5|4|NJCT 6|5|POBJ 7|10|LINK 8|10|AUX
+	9|8|NEG 10|6|CMOD 11|12|DET 12|10|OBJ 13|1|PUNCT
+*S1:	you get the cool &gr you don't have someone else (.) you get the
+	group of +/.
+%mor:	pro:per|you v|get det:art|the adj|cool pro:per|you mod|do~neg|not
+	v|have pro:indef|someone post|else pro:per|you v|get det:art|the
+	n|group prep|of +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|CMOD
+	9|8|OBJ 10|9|PQ 11|12|SUBJ 12|8|COMP 13|14|DET 14|12|OBJ 15|14|NJCT
+	16|2|PUNCT
+*SUF:	+, oh okay +/.
+%mor:	co|oh co|okay +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	+, xxx okay group of three people .
+%mor:	co|okay n|group prep|of det:num|three n|person&PL .
+%gra:	1|2|COM 2|0|INCROOT 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|2|PUNCT
+*S1:	if you can read this slip [?] (.) &{l=READING there are three doors
+	.
+%mor:	conj|if pro:per|you mod|can v|read&ZERO det:dem|this n|slip
+	adv|there cop|be&PRES det:num|three n|door-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|COMP
+	9|10|QUANT 10|8|PRED 11|4|PUNCT
+*S1:	behind one door is a car .
+%mor:	prep|behind det:num|one n|door cop|be&3S det:art|a n|car .
+%gra:	1|4|JCT 2|3|QUANT 3|1|POBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*S1:	behind the other two doors is a goat &}l=READING +/.
+%mor:	prep|behind det:art|the qn|other det:num|two n|door-PL cop|be&3S
+	det:art|a n|goat +/.
+%gra:	1|6|JCT 2|5|DET 3|5|QUANT 4|5|QUANT 5|1|POBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|6|PUNCT
+*SUM:	+, idiots +/.
+%mor:	n|idiot-PL +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &{l=READING as a contestant (.) you are asked to select a door
+	with the idea that you will receive the prize behind the door .
+%mor:	prep|as det:art|a n|contestant pro:per|you aux|be&PRES
+	part|ask-PASTP inf|to v|select det:art|a n|door prep|with
+	det:art|the n|idea pro:rel|that pro:per|you mod|will v|receive
+	det:art|the n|prize adv|behind det:art|the n|door .
+%gra:	1|6|JCT 2|3|DET 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|13|CMOD 18|19|DET 19|17|OBJ 20|17|JCT 21|22|DET 22|20|POBJ
+	23|6|PUNCT
+*S1:	the game show host (.) &}l=READING you know (.) Monty Hall (.)
+	&{l=READING knows what is behind each door .
+%mor:	det:art|the n|game n|show n|host pro:per|you v|know n:prop|Monty
+	n:prop|Hall v|know-3S pro:int|what cop|be&3S prep|behind qn|each
+	n|door .
+%gra:	1|4|DET 2|3|MOD 3|4|MOD 4|6|SUBJ 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|9|SUBJ
+	9|6|COMP 10|11|SUBJ 11|9|COMP 12|11|JCT 13|14|QUANT 14|12|POBJ 15|6|PUNCT
+*S1:	after you select the door the host opens one of the remaining doors
+	that has a goat behind it .
+%mor:	conj|after pro:per|you v|select det:art|the n|door det:art|the
+	n|host v|open-3S pro:indef|one prep|of det:art|the part|remain-PRESP
+	n|door-PL pro:rel|that v|have&3S det:art|a n|goat adv|behind
+	pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|5|DET 5|3|OBJ 6|7|DET 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|15|LINK 15|13|CMOD
+	16|17|DET 17|15|OBJ 18|15|JCT 19|18|POBJ 20|8|PUNCT
+*S1:	note that [/] &mo that no matter what door you select at least one
+	of the remaining doors will have a goat behind it for the host to
+	open .
+%mor:	n|note pro:rel|that co|no v|matter det:int|what n|door pro:per|you
+	v|select prep|at n|least pro:indef|one prep|of det:art|the
+	part|remain-PRESP n|door-PL mod|will v|have det:art|a n|goat
+	adv|behind pro:per|it prep|for det:art|the n|host inf|to v|open .
+%gra:	1|8|JCT 2|4|LINK 3|4|COM 4|1|CMOD 5|6|DET 6|4|OBJ 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|9|POBJ 12|11|NJCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|17|AUX 17|8|CJCT 18|19|DET 19|17|OBJ 20|26|JCT 21|26|SUBJ 22|21|NJCT
+	23|24|DET 24|22|POBJ 25|26|INF 26|17|COMP 27|8|PUNCT
+*S1:	&}l=READING now explain (.) just be certain (.) you guys see that .
+%mor:	adv|now v|explain adv|just cop|be adj|certain pro:per|you n|guy-PL
+	v|see comp|that .
+%gra:	1|2|JCT 2|0|ROOT 3|4|JCT 4|2|COMP 5|4|PRED 6|8|SUBJ 7|8|SUBJ 8|4|CMOD
+	9|8|OBJ 10|2|PUNCT
+*S1:	right (.) okay .
+%mor:	adv|right adj|okay .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*S1:	so (.) there's three doors .
+%mor:	adv|so pro:exist|there~cop|be&3S det:num|three n|door-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*S1:	one has a goat (.) one has a goat (.) and one has a car .
+%mor:	det:num|one v|have&3S det:art|a n|goat det:num|one v|have&3S
+	det:art|a n|goat coord|and det:num|one v|have&3S det:art|a n|car .
+%gra:	1|2|SUBJ 2|6|JCT 3|4|DET 4|2|OBJ 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|11|LINK 10|11|SUBJ 11|6|CJCT 12|13|DET 13|11|OBJ 14|6|PUNCT
+*S1:	there's three doors .
+%mor:	pro:exist|there~cop|be&3S det:num|three n|door-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*S1:	again .
+%mor:	adv|again .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so now (.) let's say this is (.) I can't draw [/] &th draw [/] draw
+	doors very well .
+%mor:	co|so adv|now v|let~pro:obj|us co|say det:dem|this cop|be&3S
+	pro:sub|I mod|can~neg|not v|draw n|door-PL adv|very adv|well .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|3|OBJ 5|7|COM 6|7|DET 7|3|COMP 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|3|COMP 12|11|OBJ 13|14|JCT 14|11|JCT 15|3|PUNCT
+*S1:	door one door two door three .
+%mor:	n|door det:num|one n|door det:num|two n|door det:num|three .
+%gra:	1|3|MOD 2|3|QUANT 3|6|MOD 4|5|QUANT 5|6|MOD 6|0|ROOT 7|6|PUNCT
+*S1:	&=laughs okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	if you do (.) if [/] if let's say you select door one (.) the game
+	show host is gonna show you door two (.) that has a goat behind it .
+%mor:	conj|if pro:per|you v|do comp|if v|let~pro:obj|us v|say pro:per|you
+	adj|select n|door det:num|one det:art|the n|game n|show n|host
+	aux|be&3S part|go-PRESP~inf|to v|show pro:per|you n|door det:num|two
+	adv|that v|have&3S det:art|a n|goat adv|behind pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP
+	8|17|SUBJ 9|10|MOD 10|17|JCT 11|15|QUANT 12|14|DET 13|14|MOD 14|15|MOD
+	15|17|SUBJ 16|17|AUX 17|7|COMP 18|19|INF 19|17|COMP 20|21|SUBJ 21|24|SUBJ
+	22|23|QUANT 23|24|JCT 24|19|COMP 25|26|DET 26|24|OBJ 27|24|JCT 28|27|POBJ
+	29|5|PUNCT
+*S1:	okay does everyone see that ?
+%mor:	co|okay mod|do&3S pro:indef|everyone v|see comp|that ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*S1:	if you select door two (.) the game show host is gonna show you (.)
+	door number one which has a goat behind it .
+%mor:	conj|if pro:per|you adj|select n|door det:num|two det:art|the
+	n|game n|show n|host aux|be&3S part|go-PRESP~inf|to v|show
+	pro:per|you n|door n|number pro:indef|one pro:rel|which v|have&3S
+	det:art|a n|goat adv|behind pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|MOD 4|11|CJCT 5|8|QUANT 6|8|DET 7|8|MOD 8|9|MOD
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|13|INF 13|11|COMP 14|15|SUBJ 15|16|MOD
+	16|13|OBJ 17|16|PRED 18|19|LINK 19|17|CMOD 20|21|DET 21|19|OBJ 22|19|JCT
+	23|22|POBJ 24|11|PUNCT
+*S1:	and if you select door three (.) the game show host will show you
+	either door one or door two (.) which has a goat behind it .
+%mor:	coord|and conj|if pro:per|you adj|select n|door det:num|three
+	det:art|the n|game n|show n|host mod|will v|show pro:per|you
+	qn|either n|door det:num|one coord|or n|door det:num|two
+	pro:rel|which v|have&3S det:art|a n|goat adv|behind pro:per|it .
+%gra:	1|12|LINK 2|5|LINK 3|5|SUBJ 4|5|MOD 5|12|CJCT 6|10|QUANT 7|10|DET
+	8|9|MOD 9|10|MOD 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|OBJ2 14|15|QUANT
+	15|12|OBJ 16|15|POSTMOD 17|16|CONJ 18|17|COORD 19|12|OBJ 20|21|LINK 21|19|CMOD
+	22|23|DET 23|21|OBJ 24|21|JCT 25|24|POBJ 26|12|PUNCT
+*S1:	so either way you're going to see a [/] &ca a door (.) with a goat
+	behind it .
+%mor:	adv|so coord|either n|way pro:per|you~aux|be&PRES part|go-PRESP
+	inf|to v|see det:art|a n|door prep|with det:art|a n|goat adv|behind
+	pro:per|it .
+%gra:	1|6|JCT 2|6|LINK 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|8|JCT 15|14|POBJ
+	16|6|PUNCT
+*S1:	okay so that is the +//.
+%mor:	co|okay co|so pro:dem|that cop|be&3S det:art|the +//.
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PUNCT
+*S1:	that is really what I want you to see so does everyone see that ?
+%mor:	pro:dem|that cop|be&3S adv|real&dadj-LY pro:int|what pro:sub|I
+	v|want pro:per|you inf|to v|see adv|so mod|do&3S pro:indef|everyone
+	v|see comp|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|JCT 4|6|LINK 5|6|SUBJ 6|2|CPRED 7|9|SUBJ 8|9|INF
+	9|6|COMP 10|13|JCT 11|13|AUX 12|13|SUBJ 13|9|COMP 14|13|OBJ 15|2|PUNCT
+*S1:	so no matter what (.) door you pick (.) you're going to see (.) a
+	door with a goat behind it .
+%mor:	adv|so qn|no n|matter pro:int|what n|door pro:per|you v|pick
+	pro:per|you~aux|be&PRES part|go-PRESP inf|to v|see det:art|a n|door
+	prep|with det:art|a n|goat adv|behind pro:per|it .
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|5|MOD 5|7|PRED 6|7|SUBJ 7|3|CMOD
+	8|10|SUBJ 9|10|AUX 10|7|COMP 11|12|INF 12|10|COMP 13|14|DET 14|12|OBJ
+	15|12|JCT 16|17|DET 17|15|POBJ 18|12|JCT 19|18|POBJ 20|3|PUNCT
+*S1:	for example (.) I have three cards here .
+%mor:	prep|for ex#adj|ample pro:sub|I v|have det:num|three n|card-PL
+	adv|here .
+%gra:	1|4|LINK 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*S1:	as you see there's two red cards and one black card .
+%mor:	conj|as pro:per|you co|see pro:exist|there~cop|be&3S det:num|two
+	adj|red n|card-PL coord|and det:num|one n|black n|card .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|COM 4|5|SUBJ 5|0|ROOT 6|8|QUANT 7|8|MOD 8|5|PRED
+	9|8|CONJ 10|12|QUANT 11|12|MOD 12|9|COORD 13|5|PUNCT
+*S1:	this is a car (.) these are goats .
+%mor:	pro:dem|this cop|be&3S det:art|a n|car pro:dem|these cop|be&PRES
+	n|goat-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|SUBJ 6|4|CMOD 7|6|PRED 8|2|PUNCT
+*S1:	they're not really goats (.) but (.) let's pretend .
+%mor:	pro:sub|they~cop|be&PRES neg|not adv|real&dadj-LY n|goat-PL
+	conj|but v|let~pro:obj|us v|pretend .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|2|CONJ 7|6|COORD 8|7|OBJ
+	9|7|COMP 10|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so (.) I'm mixing the cards up (.) okay ?
+%mor:	adv|so pro:sub|I~aux|be&1S part|mix-PRESP det:art|the n|card-PL
+	adv|up co|okay ?
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|COM
+	9|4|PUNCT
+*S1:	select a door (.) one two or three .
+%mor:	v|select det:art|a n|door det:num|one det:num|two coord|or
+	det:num|three .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|QUANT 5|3|POSTMOD 6|5|CONJ 7|6|COORD
+	8|1|PUNCT
+*SUF:	+, two +/.
+%mor:	det:num|two +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, two .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	you select door two (.) I'm gonna show you this door right here (.)
+	which has (.) is a goat .
+%mor:	pro:per|you adj|select n|door det:num|two pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|show pro:per|you det:dem|this n|door
+	adv|right adv|here pro:rel|which v|have&3S cop|be&3S det:art|a
+	n|goat .
+%gra:	1|2|SUBJ 2|3|MOD 3|4|DATE 4|7|LINK 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|INF
+	9|7|COMP 10|17|SUBJ 11|12|DET 12|17|SUBJ 13|14|JCT 14|12|NJCT 15|16|LINK
+	16|12|CMOD 17|9|COMP 18|19|DET 19|17|PRED 20|7|PUNCT
+*S1:	so I can show you a goat (.) all the time .
+%mor:	co|so pro:sub|I mod|can v|show pro:per|you det:art|a n|goat qn|all
+	det:art|the n|time .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ2 6|7|DET 7|4|OBJ 8|10|QUANT
+	9|10|DET 10|7|OBJ 11|4|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	now (.) it doesn't matter again (.) I can show you one more time .
+%mor:	adv|now pro:per|it mod|do&3S~neg|not v|matter adv|again pro:sub|I
+	mod|can v|show pro:per|you pro:indef|one qn|more n|time .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|9|CJCT 6|5|JCT 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|11|SUBJ 11|9|COMP 12|13|QUANT 13|11|OBJ 14|9|PUNCT
+*S1:	you select this door (.) &ri initially (.) I'm gonna show you one
+	of these two doors (.) which has a goat behind it .
+%mor:	pro:per|you v|select det:dem|this n|door adv|initial&dadj-LY
+	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|show pro:per|you
+	pro:indef|one prep|of det:dem|these det:num|two n|door-PL
+	pro:rel|which v|have&3S det:art|a n|goat adv|behind pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|8|JCT 6|8|SUBJ 7|8|AUX 8|2|XJCT
+	9|10|INF 10|8|COMP 11|10|OBJ 12|11|POBJ 13|12|NJCT 14|16|DET 15|16|QUANT
+	16|13|POBJ 17|18|LINK 18|12|CMOD 19|20|DET 20|18|OBJ 21|18|JCT 22|21|POBJ
+	23|2|PUNCT
+*S1:	if you select this door (.) I'm gonna show you this door which has
+	a goat behind it .
+%mor:	conj|if pro:per|you v|select det:dem|this n|door
+	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|show pro:per|you
+	det:dem|this n|door pro:rel|which v|have&3S det:art|a n|goat
+	adv|behind pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|5|DET 5|3|OBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|10|INF 10|8|COMP 11|10|OBJ 12|13|DET 13|11|POBJ 14|15|LINK 15|13|CMOD
+	16|17|DET 17|15|OBJ 18|15|JCT 19|18|POBJ 20|8|PUNCT
+*S1:	and if you select this door (.) I'm gonna show you this door which
+	has a goat behind it .
+%mor:	coord|and conj|if pro:per|you v|select det:dem|this n|door
+	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|show pro:per|you
+	det:dem|this n|door pro:rel|which v|have&3S det:art|a n|goat
+	adv|behind pro:per|it .
+%gra:	1|9|LINK 2|4|LINK 3|4|SUBJ 4|9|CJCT 5|6|DET 6|4|OBJ 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|11|INF 11|9|COMP 12|11|OBJ 13|14|DET 14|12|POBJ 15|16|LINK
+	16|14|CMOD 17|18|DET 18|16|OBJ 19|16|JCT 20|19|POBJ 21|9|PUNCT
+*S1:	so either way (.) you're going to see (.) a goat .
+%mor:	adv|so coord|either n|way pro:per|you~aux|be&PRES part|go-PRESP
+	inf|to v|see det:art|a n|goat .
+%gra:	1|6|JCT 2|6|LINK 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|6|PUNCT
+*S1:	okay that's the key .
+%mor:	co|okay pro:dem|that~cop|be&3S det:art|the n|key .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*S1:	now the big question is (.) knowing that (.) knowing Monty Hall
+	always &sh you know gives you the option (.) he always shows you the
+	one door and he asks you (.) do you wanna stay (.) or do you wanna
+	switch ?
+%mor:	adv|now det:art|the adj|big n|question aux|be&3S part|know-PRESP
+	adv|that part|know-PRESP n:prop|Monty n:prop|Hall adv|always
+	pro:per|you v|know v|give-3S pro:per|you det:art|the n|option
+	pro:sub|he adv|always v|show-3S pro:per|you det:art|the det:num|one
+	n|door coord|and pro:sub|he v|ask-3S pro:per|you v|do pro:per|you
+	v|want~inf|to v|stay coord|or v|do pro:per|you v|want~inf|to
+	v|switch ?
+%gra:	1|6|JCT 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|13|XJCT 7|6|JCT 8|6|XJCT
+	9|8|OBJ 10|13|SUBJ 11|13|JCT 12|13|SUBJ 13|0|ROOT 14|13|COMP 15|14|OBJ2
+	16|17|DET 17|14|OBJ 18|20|SUBJ 19|20|JCT 20|13|CJCT 21|20|OBJ 22|24|DET
+	23|24|QUANT 24|21|POBJ 25|27|LINK 26|27|SUBJ 27|24|CMOD 28|29|SUBJ
+	29|27|COMP 30|31|SUBJ 31|29|COMP 32|33|INF 33|31|COMP 34|33|CONJ 35|34|COORD
+	36|37|SUBJ 37|35|COMP 38|39|INF 39|37|COMP 40|13|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	now that's the big question (.) that's what we're gonna investigate
+	(.) whether it's better to stay or better to switch .
+%mor:	adv|now pro:dem|that~cop|be&3S det:art|the adj|big n|question
+	pro:rel|that~cop|be&3S pro:int|what pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to v|investigate comp|whether pro:per|it~cop|be&3S
+	adj|good&CP inf|to v|stay coord|or adj|good&CP inf|to v|switch .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|8|LINK 8|6|CMOD
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CPRED 13|14|INF 14|12|COMP 15|17|LINK
+	16|17|SUBJ 17|14|COMP 18|17|PRED 19|20|INF 20|18|XMOD 21|20|CONJ
+	22|21|COORD 23|24|INF 24|22|XMOD 25|3|PUNCT
+*S1:	now how many think that it doesn't really matter (.) that you get
+	no (.) there's no real difference if you stay or you switch .
+%mor:	adv|now pro:int|how qn|many v|think comp|that pro:per|it
+	mod|do&3S~neg|not adv|real&dadj-LY v|matter comp|that pro:per|you
+	v|get qn|no pro:exist|there~cop|be&3S qn|no adj|real n|difference
+	conj|if pro:per|you v|stay coord|or pro:per|you v|switch .
+%gra:	1|4|JCT 2|4|JCT 3|4|QUANT 4|0|ROOT 5|10|LINK 6|10|SUBJ 7|10|AUX 8|7|NEG
+	9|10|JCT 10|4|COMP 11|13|LINK 12|13|SUBJ 13|10|COMP 14|15|QUANT
+	15|16|SUBJ 16|13|COMP 17|19|QUANT 18|19|MOD 19|16|PRED 20|22|LINK 21|22|SUBJ
+	22|4|CJCT 23|25|LINK 24|25|SUBJ 25|22|CJCT 26|4|PUNCT
+*S1:	okay we got a couple .
+%mor:	co|okay pro:sub|we v|get&PAST det:art|a n|couple .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*S1:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	people are alive today .
+%mor:	n|person&PL cop|be&PRES adj|alive adv:tem|today .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|2|PUNCT
+*S1:	how many thinks it really does make a difference (.) that one is
+	(.) one gives you a greater probability than the other ?
+%mor:	pro:int|how qn|many v|think-3S pro:per|it adv|real&dadj-LY
+	mod|do&3S v|make det:art|a n|difference det:dem|that pro:indef|one
+	cop|be&3S pro:indef|one v|give-3S pro:per|you det:art|a adj|great-CP
+	n|probable&dadj-ITY prep|than det:art|the qn|other ?
+%gra:	1|3|LINK 2|3|QUANT 3|7|SUBJ 4|3|OBJ 5|3|JCT 6|7|AUX 7|12|JCT 8|9|DET
+	9|7|OBJ 10|11|DET 11|12|SUBJ 12|0|ROOT 13|14|SUBJ 14|12|CPRED 15|14|OBJ
+	16|18|DET 17|18|MOD 18|15|OBJ 19|18|NJCT 20|21|DET 21|19|POBJ 22|12|PUNCT
+*S1:	which one gives you the greater one do you think ?
+%mor:	pro:int|which pro:indef|one v|give-3S pro:per|you det:art|the
+	adj|great-CP det:num|one v|do pro:per|you v|think ?
+%gra:	1|2|LINK 2|3|SUBJ 3|0|ROOT 4|8|SUBJ 5|7|DET 6|7|MOD 7|8|SUBJ 8|3|COMP
+	9|10|SUBJ 10|8|COMP 11|3|PUNCT
+*SUF:	+, &-um if you switch .
+%mor:	conj|if pro:per|you v|switch .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S1:	+, you think switch ?
+%mor:	pro:per|you v|think n|switch ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*S1:	why ?
+%mor:	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	you don't know +/.
+%mor:	pro:per|you mod|do~neg|not v|know +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*SUF:	+, I don't +//.
+%mor:	pro:sub|I mod|do~neg|not +//.
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*SUF:	I'm just guessing .
+%mor:	pro:sub|I~aux|be&1S adv|just part|guess-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*S1:	+, we're gonna +//.
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to +//.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OM 5|3|PUNCT
+*S1:	yeah (.) we're gonna take a look at it (.) we're gonna investigate
+	it .
+%mor:	co|yeah pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|take
+	det:art|a v|look prep|at pro:per|it pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to v|investigate pro:per|it .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|8|JCT 10|9|POBJ 11|13|SUBJ 12|13|AUX 13|8|XJCT 14|15|INF 15|13|COMP
+	16|15|OBJ 17|4|PUNCT
+*S1:	&-um it's kind_of interesting if you read an article on the web
+	that &-uh +//.
+%mor:	pro:per|it~cop|be&3S adv|kind_of adj|interesting conj|if
+	pro:per|you v|read&ZERO det:art|a n|article prep|on det:art|the
+	n|web pro:rel|that +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|9|DET
+	9|7|OBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|12|OM 14|2|PUNCT
+*S1:	we'll talk about that later though .
+%mor:	pro:sub|we~mod|will v|talk prep|about pro:dem|that adv|later
+	adv|though .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|JCT 7|3|JCT 8|3|PUNCT
+*S1:	okay (.) it says &{l=READING note no matter what door you select at
+	least one of the doors will have a goat behind it .
+%mor:	co|okay pro:per|it v|say-3S n|note co|no v|matter det:int|what
+	n|door pro:per|you v|select prep|at n|least pro:indef|one prep|of
+	det:art|the n|door-PL mod|will v|have det:art|a n|goat adv|behind
+	pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|COM 6|3|COMP 7|8|DET 8|6|OBJ
+	9|10|SUBJ 10|6|COMP 11|10|JCT 12|11|POBJ 13|11|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|18|AUX 18|10|CJCT 19|20|DET 20|18|OBJ 21|18|JCT 22|21|POBJ
+	23|3|PUNCT
+*S1:	the host then gives you the option .
+%mor:	det:art|the n|host adv:tem|then v|give-3S pro:per|you det:art|the
+	n|option .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ2 6|7|DET 7|4|OBJ 8|4|PUNCT
+*S1:	stay with the door you originally chose (.) and get the prize
+	behind it (.) or switch (.) and get the &pri prize behind that .
+%mor:	v|stay prep|with det:art|the n|door pro:per|you
+	adv|origin&dadj-AL-LY v|choose&PAST coord|and v|get det:art|the
+	n|prize adv|behind pro:per|it coord|or n|switch coord|and v|get
+	det:art|the n|prize adv|behind pro:dem|that .
+%gra:	1|7|XJCT 2|1|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|CONJ
+	9|8|COORD 10|11|DET 11|9|OBJ 12|9|JCT 13|12|POBJ 14|13|CONJ 15|14|COORD
+	16|9|CONJ 17|16|COORD 18|19|DET 19|17|OBJ 20|17|JCT 21|20|POBJ 22|7|PUNCT
+*S1:	what is the probability of winning if you stay ?
+%mor:	pro:int|what cop|be&3S det:art|the n|probable&dadj-ITY prep|of
+	part|win-PRESP conj|if pro:per|you v|stay ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|9|LINK 8|9|SUBJ
+	9|2|CJCT 10|2|PUNCT
+*S1:	&}l=READING well (.) I think we can (.) almost guess that one but
+	(.) we'll get on to that later .
+%mor:	adv|well pro:sub|I v|think pro:sub|we mod|can adv|almost n|guess
+	det:dem|that pro:indef|one conj|but pro:sub|we~mod|will v|get adv|on
+	prep|to det:dem|that adv|later .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|JCT 7|3|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CMOD 14|13|JCT 15|13|JCT
+	16|17|DET 17|15|POBJ 18|3|PUNCT
+*S1:	what is the probability of winning when you switch ?
+%mor:	pro:int|what cop|be&3S det:art|the n|probable&dadj-ITY prep|of
+	part|win-PRESP conj|when pro:per|you v|switch ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|9|LINK 8|9|SUBJ
+	9|2|CJCT 10|2|PUNCT
+*S1:	does switching increase your chance of winning ?
+%mor:	mod|do&3S part|switch-PRESP n|increase det:poss|your n|chance
+	prep|of n:gerund|win-PRESP ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*S1:	does your neighbor agree with you ?
+%mor:	mod|do&3S det:poss|your n|neighbor v|agree prep|with pro:per|you ?
+%gra:	1|4|AUX 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*S1:	if the answer's not clear (.) we can carry out a simulation (.)
+	which is what we're gonna do .
+%mor:	comp|if det:art|the n|answer~cop|be&3S neg|not adj|clear pro:sub|we
+	mod|can v|carry prep|out det:art|a n|simulate&dv-TION pro:rel|which
+	cop|be&3S pro:int|what pro:sub|we~aux|be&PRES part|go-PRESP~inf|to
+	v|do .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|9|CJCT 5|4|NEG 6|4|PRED 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|14|LINK 14|12|CMOD 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|14|CPRED 19|20|INF 20|18|COMP 21|9|PUNCT
+*S1:	so each group (.) that's why I have you in groups of two (.) is
+	going to (.) get a set of three cards (.) which I'll hand out right
+	now .
+%mor:	adv|so qn|each n|group pro:rel|that~cop|be&3S pro:int|why pro:sub|I
+	v|have pro:per|you prep|in n|group-PL prep|of det:num|two aux|be&3S
+	part|go-PRESP inf|to v|get det:art|a n|set prep|of det:num|three
+	n|card-PL pro:int|which pro:sub|I~mod|will v|hand adv|out adv|right
+	adv|now .
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|8|LINK 7|8|SUBJ
+	8|5|CPRED 9|8|OBJ 10|8|JCT 11|10|POBJ 12|15|JCT 13|15|SUBJ 14|15|AUX
+	15|11|CMOD 16|17|INF 17|15|COMP 18|19|DET 19|17|OBJ 20|19|NJCT 21|22|QUANT
+	22|20|POBJ 23|26|LINK 24|26|SUBJ 25|26|AUX 26|17|COMP 27|26|JCT 28|29|JCT
+	29|26|JCT 30|3|PUNCT
+*S1:	again you're gonna get two red cards and one black card .
+%mor:	adv|again pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|get
+	det:num|two adj|red n|card-PL coord|and det:num|one n|black n|card .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|9|QUANT 8|9|MOD
+	9|6|OBJ 10|9|CONJ 11|13|QUANT 12|13|MOD 13|10|COORD 14|4|PUNCT
+*S1:	they're kind of big too (.) so let's see (.) and again the two red
+	cards are your (.) goats (.) and the one black card is your (.) car
+	.
+%mor:	pro:sub|they~cop|be&PRES n|kind prep|of adj|big post|too adv|so
+	v|let~pro:obj|us v|see coord|and adv|again det:art|the det:num|two
+	adj|red n|card-PL cop|be&PRES det:poss|your n|goat-PL coord|and
+	det:art|the det:num|one n|black n|card cop|be&3S det:poss|your n|car
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|4|POBJ 6|5|PQ 7|8|JCT 8|2|CPRED
+	9|10|SUBJ 10|8|COMP 11|10|CONJ 12|17|JCT 13|16|DET 14|16|QUANT 15|16|MOD
+	16|17|SUBJ 17|11|COORD 18|19|DET 19|17|PRED 20|25|LINK 21|24|DET
+	22|23|QUANT 23|24|MOD 24|25|SUBJ 25|17|CJCT 26|27|DET 27|25|PRED 28|2|PUNCT
+*S1:	so we're gonna carry out a simulation and see (.) which is +//.
+%mor:	co|so pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|carry prep|out
+	det:art|a n|simulate&dv-TION coord|and co|see pro:rel|which
+	cop|be&3S +//.
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|CONJ 11|13|COM 12|13|LINK 13|10|COORD 14|4|PUNCT
+*S1:	is it better to switch or is it better to stay ?
+%mor:	aux|be&3S pro:per|it adj|good&CP prep|to n|switch coord|or
+	cop|be&3S pro:per|it adj|good&CP inf|to v|stay ?
+%gra:	1|0|INCROOT 2|1|PRED 3|2|PRED 4|3|JCT 5|4|POBJ 6|3|CONJ 7|6|COORD
+	8|7|PRED 9|8|PRED 10|11|INF 11|9|XMOD 12|1|PUNCT
+*S1:	(0.5) I think (.) yeah .
+%mor:	pro:sub|I v|think co|yeah .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*S1:	let's see how many groups do we have today ?
+%mor:	v|let~pro:obj|us v|see pro:int|how qn|many n|group-PL mod|do
+	pro:sub|we v|have adv:tem|today ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|9|LINK 5|6|QUANT 6|9|JCT 7|9|AUX 8|9|SUBJ
+	9|3|COMP 10|9|JCT 11|1|PUNCT
+*S1:	we have one two three (.) nine .
+%mor:	pro:sub|we v|have det:num|one det:num|two det:num|three
+	det:num|nine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DATE 4|5|QUANT 5|6|DATE 6|2|OBJ 7|2|PUNCT
+*S1:	okay so we have nine groups .
+%mor:	co|okay conj|so pro:sub|we v|have det:num|nine n|group-PL .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*S1:	okay (.) <I need> [?] +...
+%mor:	adj|okay pro:sub|I v|need +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S1:	working with +//.
+%mor:	part|work-PRESP prep|with +//.
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*S1:	here's one way to simulate the game show .
+%mor:	pro:exist|here~cop|be&3S pro:indef|one adv|way inf|to v|simulate
+	det:art|the n|game n|show .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|JCT 5|6|INF 6|2|CPRED 7|9|DET 8|9|MOD
+	9|6|OBJ 10|2|PUNCT
+*S1:	which is the way we're gonna do it .
+%mor:	pro:rel|which cop|be&3S det:art|the n|way pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to v|do pro:per|it .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|7|SUBJ 6|7|AUX 7|4|CMOD 8|9|INF
+	9|7|COMP 10|9|OBJ 11|2|PUNCT
+*S1:	working with a partner designate one person to be the game show
+	host .
+%mor:	part|work-PRESP prep|with det:art|a n|partner n|designate
+	pro:indef|one n|person inf|to cop|be det:art|the n|game n|show
+	n|host .
+%gra:	1|0|INCROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|SUBJ 7|5|NJCT 8|9|INF
+	9|7|COMP 10|13|DET 11|13|MOD 12|13|MOD 13|9|PRED 14|1|PUNCT
+*S1:	the one person will be Monty Hall .
+%mor:	det:art|the det:num|one n|person mod|will cop|be n:prop|Monty
+	n:prop|Hall .
+%gra:	1|3|DET 2|3|QUANT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|NAME 7|5|PRED 8|5|PUNCT
+*S1:	and the other person will be the person &-uh who is gonna be the
+	contestant .
+%mor:	coord|and det:art|the qn|other n|person mod|will cop|be det:art|the
+	n|person pro:rel|who aux|be&3S part|go-PRESP~inf|to cop|be
+	det:art|the n|contestant .
+%gra:	1|6|LINK 2|4|DET 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|PRED
+	9|11|LINK 10|11|AUX 11|8|CMOD 12|13|INF 13|11|COMP 14|15|DET 15|13|PRED
+	16|6|PUNCT
+*S1:	if you remember the game show they always had everyone dress up as
+	you know (.) oranges or bananas or tomatoes (.) or something like
+	that (.) if you remember the game show .
+%mor:	conj|if pro:per|you v|remember det:art|the n|game n|show
+	pro:sub|they adv|always v|have&PAST pro:indef|everyone v|dress
+	adv|up prep|as pro:per|you v|know n|orange-PL coord|or n|banana-PL
+	coord|or n|tomato-PL coord|or pro:indef|something prep|like
+	pro:dem|that conj|if pro:per|you v|remember det:art|the n|game
+	n|show .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|9|SUBJ 8|9|JCT
+	9|6|CMOD 10|11|SUBJ 11|9|COMP 12|11|JCT 13|15|COORD 14|15|SUBJ 15|11|CJCT
+	16|15|OBJ 17|16|CONJ 18|17|COORD 19|15|CONJ 20|19|COORD 21|20|CONJ
+	22|21|COORD 23|22|NJCT 24|23|POBJ 25|27|LINK 26|27|SUBJ 27|15|CJCT 28|30|DET
+	29|30|MOD 30|27|OBJ 31|3|PUNCT
+*S1:	I loved that game show so I [/] &re I remember that .
+%mor:	pro:sub|I v|love-PAST det:dem|that n|game n|show co|so pro:sub|I
+	v|remember pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|8|COM 7|8|SUBJ 8|2|CJCT
+	9|8|OBJ 10|2|PUNCT
+*S1:	they always had people in costumes .
+%mor:	pro:sub|they adv|always part|have&PASTP n|person&PL prep|in
+	n|costume-PL .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|5|POBJ 7|3|PUNCT
+*S1:	that was funny &{l=READING designate one person to be the game show
+	host and the other to be the contestant .
+%mor:	pro:dem|that cop|be&PAST&13S adj|fun&dn-Y n|designate det:num|one
+	n|person inf|to cop|be det:art|the n|game n|show n|host coord|and
+	det:art|the qn|other inf|to cop|be det:art|the n|contestant .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|6|QUANT 6|2|PRED 7|8|INF 8|6|XMOD
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|PRED 13|12|CONJ 14|15|DET 15|13|COORD
+	16|17|INF 17|15|COMP 18|19|DET 19|17|PRED 20|2|PUNCT
+*S1:	you can switch roles halfway (.) through the simulation .
+%mor:	pro:per|you mod|can v|switch n|role-PL adv|+adj|half+n|way
+	adj|through det:art|the n|simulate&dv-TION .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|MOD 7|8|DET 8|3|OBJ
+	9|3|PUNCT
+*S1:	the game show host controls the three doors (.) represented by the
+	three index cards .
+%mor:	det:art|the n|game n|show n|host v|control-3S det:art|the
+	det:num|three n|door-PL v|represent-PAST prep|by det:art|the
+	det:num|three n|index n|card-PL .
+%gra:	1|4|DET 2|3|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|QUANT 8|9|SUBJ
+	9|5|COMP 10|9|JCT 11|14|DET 12|13|QUANT 13|14|MOD 14|10|POBJ 15|5|PUNCT
+*S1:	&}l=READING playing cards in this case .
+%mor:	part|play-PRESP n|card-PL prep|in det:dem|this n|case .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*S1:	and (.) what's gonna happen is (.) the [/] &s the contestant will
+	select a door .
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP~inf|to v|happen
+	aux|be&3S det:art|the n|contestant mod|will v|select det:art|a
+	n|door .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|11|SUBJ 7|11|AUX 8|9|DET
+	9|11|SUBJ 10|11|AUX 11|4|COMP 12|13|DET 13|11|OBJ 14|4|PUNCT
+*S1:	just from experience (.) it's faster to just point to a door (.)
+	rather than say one two or three (.) (be)cause (.) is it (.) is this
+	one or is this one (.) you know just say (.) I select this door .
+%mor:	adv|just prep|from n|experience pro:per|it~cop|be&3S adj|fast-CP
+	prep|to adj|just n|point prep|to det:art|a n|door adv|rather
+	prep|than co|say det:num|one det:num|two coord|or det:num|three
+	conj|because aux|be&3S pro:per|it cop|be&3S det:dem|this
+	pro:indef|one coord|or cop|be&3S det:dem|this pro:indef|one
+	pro:per|you v|know adv|just v|say pro:sub|I v|select det:dem|this
+	n|door .
+%gra:	1|2|JCT 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|6|JCT 14|13|JCT 15|17|COM
+	16|17|QUANT 17|14|POBJ 18|17|CONJ 19|18|COORD 20|23|LINK 21|23|AUX 22|23|SUBJ
+	23|5|CJCT 24|25|DET 25|23|PRED 26|27|LINK 27|35|CJCT 28|29|DET
+	29|27|PRED 30|31|SUBJ 31|29|CMOD 32|33|JCT 33|31|COMP 34|35|SUBJ 35|25|CMOD
+	36|37|DET 37|35|OBJ 38|5|PUNCT
+*S1:	okay (.) when you're the contestant .
+%mor:	co|okay conj|when pro:per|you~cop|be&PRES det:art|the n|contestant
+	.
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*S1:	I select this door .
+%mor:	pro:sub|I v|select det:dem|this n|door .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*S1:	and then the &g game show host is gonna show you a door with a goat
+	behind it .
+%mor:	coord|and adv:tem|then det:art|the n|game n|show n|host aux|be&3S
+	part|go-PRESP~inf|to v|show pro:per|you det:art|a n|door prep|with
+	det:art|a n|goat adv|behind pro:per|it .
+%gra:	1|8|LINK 2|8|JCT 3|6|DET 4|5|MOD 5|6|MOD 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|10|INF 10|8|COMP 11|10|OBJ2 12|13|DET 13|10|OBJ 14|10|JCT 15|16|DET
+	16|14|POBJ 17|10|JCT 18|17|POBJ 19|8|PUNCT
+*S1:	again (.) I showed you before (.) you can always find a door (.)
+	with a goat behind it .
+%mor:	adv|again pro:sub|I v|show-PAST pro:per|you prep|before pro:per|you
+	mod|can adv|always v|find det:art|a n|door prep|with det:art|a
+	n|goat adv|behind pro:per|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|9|SUBJ 4|3|OBJ 5|3|JCT 6|5|POBJ 7|9|AUX 8|9|JCT
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|9|JCT 13|14|DET 14|12|POBJ 15|9|JCT
+	16|15|POBJ 17|9|PUNCT
+*S1:	you show them (.) one of the doors they did not select that has a
+	goat behind it .
+%mor:	pro:per|you v|show pro:obj|them pro:indef|one prep|of det:art|the
+	n|door-PL pro:sub|they mod|do&PAST neg|not adj|select adv|that
+	v|have&3S det:art|a n|goat adv|behind pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|2|JCT 12|13|JCT 13|11|CMOD 14|15|DET 15|13|OBJ
+	16|13|JCT 17|16|POBJ 18|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so you would show them this door (.) <if they select it> [?] it has
+	a goat .
+%mor:	co|so pro:per|you mod|will&COND v|show pro:obj|them det:dem|this
+	n|door conj|if pro:sub|they v|select pro:per|it pro:per|it
+	aux|have&3S det:art|a n|goat .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|15|CJCT 11|10|OBJ 12|15|SUBJ 13|15|AUX 14|15|DET 15|4|OBJ
+	16|4|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and then the person will either switch or the person will stay (.)
+	and we're gonna tally and see <how many> [/] &chan how many times
+	(.) you're going to win .
+%mor:	coord|and adv:tem|then det:art|the n|person mod|will qn|either
+	n|switch coord|or det:art|the n|person mod|will v|stay coord|and
+	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|tally coord|and v|see
+	pro:int|how qn|many n|time-PL pro:per|you~aux|be&PRES part|go-PRESP
+	prep|to n|win .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|7|SUBJ 5|7|AUX 6|7|QUANT 7|12|SUBJ 8|7|CONJ
+	9|10|DET 10|8|COORD 11|12|AUX 12|0|ROOT 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|12|CJCT 17|18|INF 18|16|COMP 19|18|CONJ 20|19|COORD 21|26|LINK
+	22|23|QUANT 23|26|JCT 24|26|SUBJ 25|26|AUX 26|20|COMP 27|26|JCT 28|27|POBJ
+	29|12|PUNCT
+*S1:	mkay ?
+%mor:	co|mkay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	now this &is the host &clo you can either lay (th)em down (.) like
+	this like you know (.) do it like Three_Card Monte (.) you know that
+	but we don't (.) they're not bent so you really can't do it .
+%mor:	adv|now pro:dem|this det:art|the n|host pro:per|you mod|can
+	adv|either v|lay pro:obj|them adv|down prep|like pro:dem|this
+	prep|like pro:per|you v|know v|do pro:per|it v|like
+	n:prop|Three_Card n:prop|Monte pro:per|you v|know adv|that conj|but
+	pro:sub|we mod|do~neg|not pro:sub|they~aux|be&PRES neg|not
+	part|bend&PASTP conj|so pro:per|you adv|real&dadj-LY mod|can~neg|not
+	v|do pro:per|it .
+%gra:	1|2|JCT 2|15|SUBJ 3|4|DET 4|2|OBJ 5|8|SUBJ 6|8|AUX 7|8|JCT 8|4|CMOD
+	9|8|OBJ 10|2|JCT 11|2|JCT 12|11|POBJ 13|2|JCT 14|13|POBJ 15|0|ROOT
+	16|15|COMP 17|18|SUBJ 18|16|COMP 19|18|OBJ 20|18|OBJ 21|22|SUBJ 22|20|COMP
+	23|22|JCT 24|31|LINK 25|31|SUBJ 26|31|AUX 27|26|NEG 28|31|SUBJ 29|31|AUX
+	30|29|NEG 31|20|CJCT 32|37|LINK 33|37|SUBJ 34|37|JCT 35|37|AUX 36|35|NEG
+	37|31|COMP 38|37|OBJ 39|15|PUNCT
+*S1:	so it's probably easier just to (.) you know hold (th)em like this
+	and then have someone select .
+%mor:	adv|so pro:per|it~cop|be&3S adv|probable&dadj-LY adj|ease&dn-Y-CP
+	adv|just prep|to pro:per|you v|know v|hold pro:obj|them prep|like
+	pro:dem|this coord|and adv:tem|then v|have pro:indef|someone
+	adj|select .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|JCT 7|3|JCT 8|7|POBJ
+	9|3|ENUM 10|9|COMP 11|10|OBJ 12|10|JCT 13|12|POBJ 14|3|CONJ 15|16|JCT
+	16|14|COORD 17|16|OBJ 18|17|POSTMOD 19|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and (.) keep a record list of your &-uh results either staying or
+	switching (.) either winning a car or winning a goat (.) one should
+	perform any repetitions you can do you &re use the relative
+	frequencies to estimate it (.) corresponding probabilities .
+%mor:	coord|and v|keep det:art|a n|record n|list prep|of det:poss|your
+	n|result-PL coord|either part|stay-PRESP coord|or part|switch-PRESP
+	qn|either part|win-PRESP det:art|a n|car coord|or part|win-PRESP
+	det:art|a n|goat det:num|one mod|should v|perform qn|any
+	n|repetition-PL pro:per|you mod|can v|do pro:per|you v|use
+	det:art|the n|relative n|frequency-PL inf|to v|estimate pro:per|it
+	part|correspond-PRESP n|probable&dadj-ITY-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|2|CONJ 10|9|COORD 11|10|CONJ 12|11|COORD 13|14|QUANT 14|12|COMP 15|16|DET
+	16|14|OBJ 17|28|LINK 18|28|XJCT 19|20|DET 20|28|SUBJ 21|23|SUBJ
+	22|23|AUX 23|28|CJCT 24|25|QUANT 25|23|OBJ 26|28|SUBJ 27|28|AUX 28|14|CJCT
+	29|30|SUBJ 30|28|COMP 31|33|DET 32|33|MOD 33|30|OBJ 34|35|INF 35|30|XJCT
+	36|35|OBJ 37|36|XMOD 38|37|OBJ 39|2|PUNCT
+*S1:	you turn the page over and see (.) we have strategy win strategy
+	stay .
+%mor:	pro:per|you v|turn det:art|the n|page adv|over coord|and v|see
+	pro:sub|we v|have n|strategy n|win n|strategy v|stay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|CONJ 7|6|COORD 8|9|SUBJ
+	9|7|COMP 10|12|MOD 11|12|MOD 12|13|SUBJ 13|9|COMP 14|2|PUNCT
+*S1:	and we're gonna do this twenty times each .
+%mor:	coord|and pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|do
+	det:dem|this det:num|twenty n|time-PL qn|each .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|9|DET 8|9|QUANT
+	9|6|OBJ 10|6|JCT 11|4|PUNCT
+*S1:	so each group will do it twenty times .
+%mor:	adv|so qn|each n|group mod|will v|do pro:per|it det:num|twenty
+	n|time-PL .
+%gra:	1|2|JCT 2|3|QUANT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|QUANT 8|5|JCT
+	9|5|PUNCT
+*S1:	and (.) we're not gonna randomly select people of either &s you
+	know (.) you're gonna switch half the time stay half the time .
+%mor:	coord|and pro:sub|we~aux|be&PRES neg|not part|go-PRESP~inf|to
+	adv|random&dadj-LY adj|select n|person&PL prep|of coord|either
+	pro:per|you v|know pro:per|you~aux|be&PRES part|go-PRESP~inf|to
+	v|switch n|half det:art|the n|time v|stay n|half det:art|the n|time
+	.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|INF 7|8|JCT 8|9|MOD
+	9|5|OBJ 10|9|NJCT 11|13|LINK 12|13|SUBJ 13|10|POBJ 14|16|SUBJ 15|16|AUX
+	16|13|COMP 17|18|INF 18|16|COMP 19|18|OBJ 20|21|DET 21|22|SUBJ 22|19|CMOD
+	23|22|OBJ 24|25|DET 25|23|OBJ 26|5|PUNCT
+*S1:	what it's gonna do is (.) you guys are gonna stay [/] &-um stay [/]
+	stay and (.) stay .
+%mor:	pro:int|what pro:per|it~aux|be&3S part|go-PRESP~inf|to v|do
+	cop|be&3S pro:per|you n|guy-PL aux|be&PRES part|go-PRESP~inf|to
+	v|stay coord|and v|stay .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|7|PRED
+	9|11|SUBJ 10|11|AUX 11|8|COMP 12|13|INF 13|11|COMP 14|13|CONJ 15|14|COORD
+	16|4|PUNCT
+*S1:	and then <switch [/] switch> [/] switch [x 3] .
+%mor:	coord|and adv:tem|then v|switch .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*S1:	does everyone know who's staying ?
+%mor:	mod|do&3S pro:indef|everyone v|know pro:rel|who~aux|be&3S
+	part|stay-PRESP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|AUX 6|3|COMP 7|3|PUNCT
+*S1:	mkay (.) <stay [/] stay> [/] stay [/] stay (.) <switch [/] switch>
+	[/] switch [x 3] (.) okay ?
+%mor:	co|mkay v|stay n|switch adj|okay ?
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|3|POSTMOD 5|2|PUNCT
+*S1:	so you're gonna do this twenty times (.) mkay ?
+%mor:	adv|so pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|do
+	det:dem|this det:num|twenty n|time-PL co|mkay ?
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|9|DET 8|9|QUANT
+	9|6|JCT 10|4|COM 11|4|PUNCT
+*S1:	and again we can practice (.) one more time .
+%mor:	coord|and adv|again pro:sub|we mod|can n|practice det:num|one
+	adv|more n|time .
+%gra:	1|8|LINK 2|8|JCT 3|8|SUBJ 4|8|AUX 5|8|MOD 6|8|QUANT 7|8|JCT 8|0|INCROOT
+	9|8|PUNCT
+*S1:	so if you're staying (.) okay (.) select a door .
+%mor:	co|so comp|if pro:per|you~cop|be&PRES n:gerund|stay-PRESP adj|okay
+	v|select det:art|a n|door .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|JCT 7|5|COMP 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*S1:	okay so I'm gonna show you this (.) <you're staying> [/] you're
+	staying so you would've won .
+%mor:	co|okay adv|so pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|show
+	pro:per|you det:dem|this pro:per|you~cop|be&PRES n:gerund|stay-PRESP
+	adv|so pro:per|you mod|will&COND~aux|have v|win&PAST .
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|17|XJCT 8|7|OBJ
+	9|10|DET 10|11|SUBJ 11|17|SUBJ 12|11|PRED 13|17|JCT 14|17|SUBJ 15|17|AUX
+	16|17|AUX 17|5|COMP 18|5|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so you would've won .
+%mor:	co|so pro:per|you mod|will&COND~aux|have v|win&PAST .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*S1:	so (.) and we'll practice one if you're switching (.) okay ?
+%mor:	co|so coord|and pro:sub|we~mod|will n|practice det:num|one comp|if
+	pro:per|you~cop|be&PRES n:gerund|switch-PRESP co|okay ?
+%gra:	1|6|COM 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|MOD 6|0|ROOT 7|9|LINK 8|9|SUBJ
+	9|6|COMP 10|9|PRED 11|9|COM 12|6|PUNCT
+*S3:	+, okay (.) ⌈ two ⌉ +/.
+%mor:	co|okay det:num|two +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	+, ⌊ pick a ⌋ door .
+%mor:	v|pick det:art|a n|door .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*S3:	two .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	point (.) remember point .
+%mor:	n|point v|remember n|point .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*S3:	two (.) ⌈ sorry ⌉ .
+%mor:	det:num|two adj|sorry .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S1:	⌊ two ⌋ okay (.) I'm gonna show you this one (.) switch +/.
+%mor:	det:num|two adj|okay pro:sub|I~aux|be&1S part|go-PRESP~inf|to
+	v|show pro:per|you det:dem|this det:num|one n|switch +/.
+%gra:	1|2|QUANT 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|11|SUBJ
+	9|11|DET 10|11|QUANT 11|7|OBJ 12|5|PUNCT
+*S3:	switch +/.
+%mor:	n|switch +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, and you woulda won too .
+%mor:	coord|and pro:per|you mod|would~aux|have v|win&PAST adv|too .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*S1:	so look we've (.) got two winners in a row .
+%mor:	adv|so v|look pro:sub|we~aux|have part|get&PASTP det:num|two
+	n|win&dv-AGT-PL prep|in det:art|a n|row .
+%gra:	1|2|JCT 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|QUANT 7|5|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*S1:	and now we're just gonna do this .
+%mor:	coord|and adv|now pro:sub|we~aux|be&PRES adv|just
+	part|go-PRESP~inf|to v|do pro:dem|this .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|6|PUNCT
+*S1:	each group's gonna do it twenty times (.) either staying or
+	switching (.) people are starting already .
+%mor:	qn|each n|group~aux|be&3S part|go-PRESP~inf|to v|do pro:per|it
+	det:num|twenty n|time-PL coord|either part|stay-PRESP coord|or
+	n:gerund|switch-PRESP n|person&PL aux|be&PRES part|start-PRESP
+	adv|already .
+%gra:	1|2|QUANT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|9|QUANT
+	9|6|JCT 10|6|CONJ 11|10|COORD 12|11|CONJ 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|12|COORD 17|16|JCT 18|4|PUNCT
+*S1:	I'll be walking around if there's any questions .
+%mor:	pro:sub|I~mod|will cop|be part|walk-PRESP prep|around comp|if
+	pro:exist|there~cop|be&3S qn|any n|question-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|4|JCT 6|8|LINK 7|8|SUBJ 8|5|CPOBJ
+	9|10|QUANT 10|8|PRED 11|3|PUNCT
+*S1:	ready set go .
+%mor:	adj|ready n|set v|go .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S4:	and then switch (.) .
+%mor:	coord|and adv:tem|then v|switch .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*S3:	you win .
+%mor:	pro:per|you v|win .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S4:	I'll just have you point .
+%mor:	pro:sub|I~mod|will adv|just v|have pro:per|you v|point .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|4|PUNCT
+*S3:	yeah I have all (.) the other ones +...
+%mor:	co|yeah pro:sub|I v|have qn|all det:art|the qn|other
+	pro:indef|one-PL +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|DET 6|7|QUANT 7|3|OBJ 8|3|PUNCT
+*S3:	and then (.) .
+%mor:	coord|and adv:tem|then .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*S4:	switch .
+%mor:	n|switch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	you win +...
+%mor:	pro:per|you v|win +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S3:	&=laughs (0.6) .
+*S4:	switch .
+%mor:	n|switch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	you win .
+%mor:	pro:per|you v|win .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S4:	wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	so wait (.) if you switch it aren't you gonna win every time ?
+%mor:	adv|so v|wait conj|if pro:per|you v|switch pro:per|it
+	aux|be&PRES~neg|not pro:per|you part|go-PRESP~inf|to v|win qn|every
+	n|time ?
+%gra:	1|2|JCT 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|10|SUBJ 7|10|AUX 8|7|NEG
+	9|10|SUBJ 10|5|COMP 11|12|INF 12|10|COMP 13|14|QUANT 14|12|OBJ
+	15|2|PUNCT
+*S4:	I don't know (.) because not if no .
+%mor:	pro:sub|I mod|do~neg|not v|know conj|because neg|not conj|if co|no
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|LINK 6|7|NEG 7|4|COMP 8|7|COM
+	9|4|PUNCT
+*S4:	(be)cause if I pick .
+%mor:	conj|because conj|if pro:sub|I v|pick .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S3:	oh if you pick the +/.
+%mor:	co|oh conj|if pro:per|you v|pick det:art|the +/.
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PUNCT
+*S4:	the +/.
+%mor:	det:art|the +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	+, black ⌈ if you pick one ⌉ .
+%mor:	n|black conj|if pro:per|you v|pick det:num|one .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|OBJ 6|1|PUNCT
+*S4:	⌊ black one (.) right yeah ⌋ but you have a greater chance of
+	picking the red one +/.
+%mor:	n|black det:num|one n|right co|yeah conj|but pro:per|you v|have
+	det:art|a adj|great-CP n|chance prep|of n:gerund|pick-PRESP
+	det:art|the n|red pro:indef|one +/.
+%gra:	1|3|MOD 2|3|QUANT 3|0|INCROOT 4|3|COM 5|7|LINK 6|7|SUBJ 7|3|CJCT
+	8|10|DET 9|10|MOD 10|7|OBJ 11|10|NJCT 12|11|POBJ 13|14|DET 14|15|MOD 15|10|APP
+	16|3|PUNCT
+*S3:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	+, first +/.
+%mor:	adv|first +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	+, I don't know (.) okay .
+%mor:	pro:sub|I mod|do~neg|not v|know adj|okay .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*S4:	switch .
+%mor:	n|switch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	&=laughs:S3 that one .
+%mor:	det:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*S4:	switch .
+%mor:	n|switch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	(0.9) that one (.) the red one .
+%mor:	det:dem|that pro:indef|one det:art|the n|red pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*S3:	you win .
+%mor:	pro:per|you v|win .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S4:	wow +...
+%mor:	co|wow +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	that one (.) switch .
+%mor:	comp|that det:num|one n|switch .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*S3:	win .
+%mor:	n|win .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	I'm pretty good at this .
+%mor:	pro:sub|I~cop|be&1S adv|pretty adj|good prep|at pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*S3:	&=laughs you should be &on you shoulda been on the game show .
+%mor:	pro:per|you mod|should cop|be pro:per|you mod|should~aux|have
+	cop|be&PASTP prep|on det:art|the n|game n|show .
+%gra:	1|3|SUBJ 2|3|AUX 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|7|PUNCT
+*S4:	&=laughs &-um that one .
+%mor:	det:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*S3:	that must be a win .
+%mor:	adv|that mod|must cop|be det:art|a n|win .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*S4:	and that one .
+%mor:	coord|and det:dem|that pro:indef|one .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*S3:	the middle one ?
+%mor:	det:art|the n|middle pro:indef|one ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*S4:	yeah (.) that one .
+%mor:	co|yeah det:dem|that pro:indef|one .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*S3:	so you win .
+%mor:	co|so pro:per|you v|win .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S3:	yeah (.) so you ⌈ do have a greater chance of getting the goat
+	<with &so> [?] switching ⌉ .
+%mor:	co|yeah conj|so pro:per|you v|do v|have det:art|a adj|great-CP
+	n|chance prep|of n:gerund|get-PRESP det:art|the n|goat prep|with
+	n:gerund|switch-PRESP .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|9|POBJ 11|12|DET 12|10|OBJ 13|12|NJCT 14|13|POBJ 15|4|PUNCT
+*S4:	⌊ yeah [/] yeah ⌋ that one (.) and that one .
+%mor:	co|yeah adv|that pro:indef|one coord|and det:dem|that pro:indef|one
+	.
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|CONJ 5|6|DET 6|4|COORD 7|3|PUNCT
+*S3:	that's another win +/.
+%mor:	pro:dem|that~cop|be&3S qn|another n|win +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*S4:	alright +/.
+%mor:	co|alright +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	+, I'll probably be like the worst at this game &=laughs <or
+	something> [?] .
+%mor:	pro:sub|I~mod|will adv|probable&dadj-LY cop|be prep|like
+	det:art|the adj|bad&SP prep|at det:dem|this n|game coord|or
+	pro:indef|something .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|8|CONJ 12|11|COORD 13|4|PUNCT
+*S4:	see lose .
+%mor:	co|see v|lose .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*S3:	oh (.) okay .
+%mor:	co|oh co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S4:	&=laughs &-um which one ?
+%mor:	pro:int|which pro:indef|one ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*S3:	the middle one I'm sorry +/.
+%mor:	det:art|the n|middle det:num|one pro:sub|I~cop|be&1S adj|sorry +/.
+%gra:	1|2|DET 2|3|DATE 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*S4:	⌈ switch ⌉ +/.
+%mor:	n|switch +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	+, ⌊ switch ⌋ so win +...
+%mor:	n|switch co|so n|win +...
+%gra:	1|3|MOD 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*S3:	that one .
+%mor:	det:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*S4:	that one (.) but then you ⌈ so switch (.) so you lose ⌉ .
+%mor:	det:dem|that pro:indef|one conj|but adv:tem|then pro:per|you adv|so
+	n|switch co|so pro:per|you v|lose .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|7|JCT 5|7|SUBJ 6|7|JCT 7|3|COORD
+	8|10|COM 9|10|SUBJ 10|7|CMOD 11|2|PUNCT
+*S3:	⌊ switch (.) so I lose ⌋ &-uh that one .
+%mor:	n|switch co|so pro:sub|I v|lose det:dem|that pro:indef|one .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*S4:	so (.) this one ?
+%mor:	adv|so pro:dem|this pro:indef|one ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*S3:	right then switch so I lose .
+%mor:	co|right adv:tem|then n|switch co|so pro:sub|I v|lose .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|COM 5|6|SUBJ 6|3|CJCT 7|3|PUNCT
+*S4:	so you &lo &=laughs +/.
+%mor:	co|so pro:per|you +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S3:	+, oh see I told you I'm horrible .
+%mor:	co|oh v|see pro:sub|I v|tell&PAST pro:per|you pro:sub|I~cop|be&1S
+	adj|horrible .
+%gra:	1|2|COM 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|7|SUBJ 7|2|CJCT 8|7|PRED
+	9|2|PUNCT
+*S3:	&-uh middle one .
+%mor:	adj|middle pro:indef|one .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S4:	&-uh this one +/.
+%mor:	pro:dem|this pro:indef|one +/.
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*S3:	⌈ switch ⌉ +/.
+%mor:	n|switch +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	+, ⌊ switch ⌋ so you win +...
+%mor:	n|switch co|so pro:per|you v|win +...
+%gra:	1|0|INCROOT 2|4|COM 3|4|SUBJ 4|1|CMOD 5|1|PUNCT
+*S3:	middle one .
+%mor:	adj|middle pro:indef|one .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S4:	I'll show you this one (.) ⌈ so you switch ⌉ +/.
+%mor:	pro:sub|I~mod|will v|show pro:per|you det:dem|this pro:indef|one
+	conj|so pro:per|you v|switch +/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|DET 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|3|CJCT 10|3|PUNCT
+*S3:	⌊ and I switched ⌋ +/.
+%mor:	coord|and pro:sub|I v|switch-PAST +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S4:	+, and you win .
+%mor:	coord|and pro:per|you v|win .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S3:	&-um that one .
+%mor:	det:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*S4:	⌈ switch and you win ⌉ .
+%mor:	n|switch coord|and pro:per|you v|win .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|SUBJ 4|2|COORD 5|1|PUNCT
+*S3:	+, ⌊ switch so I win ⌋ +...
+%mor:	n|switch co|so pro:sub|I v|win +...
+%gra:	1|0|INCROOT 2|4|COM 3|4|SUBJ 4|1|CMOD 5|1|PUNCT
+*S3:	&-uh that one .
+%mor:	det:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*S4:	you win .
+%mor:	pro:per|you v|win .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S3:	I have two more (.) five six seven eight (.) yeah two more .
+%mor:	pro:sub|I v|have det:num|two adv|more det:num|five det:num|six
+	det:num|seven det:num|eight co|yeah det:num|two adv|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|QUANT 4|5|JCT 5|6|DATE 6|7|DATE 7|8|QUANT 8|2|OBJ
+	9|10|COM 10|11|QUANT 11|8|JCT 12|2|PUNCT
+*S3:	that one .
+%mor:	det:dem|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*S4:	you win .
+%mor:	pro:per|you v|win .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S4:	I can just (.) &=laughs:S3 do it from here &=laughs .
+%mor:	pro:sub|I mod|can adv|just v|do pro:per|it prep|from n|here .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*S3:	&-uh middle one .
+%mor:	adj|middle pro:indef|one .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S4:	you win .
+%mor:	pro:per|you v|win .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S3:	alright (.) so we have eight wins (.) two loss (.) or I mean (.)
+	+/.
+%mor:	co|alright co|so pro:sub|we v|have det:num|eight n|win-PL
+	det:num|two n|loss coord|or pro:sub|I v|mean +/.
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|8|QUANT 8|6|APP
+	9|11|LINK 10|11|SUBJ 11|4|CJCT 12|4|PUNCT
+*S4:	no we have +/.
+%mor:	co|no pro:sub|we v|have +/.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S3:	+, ⌈ oh ⌉ +/.
+%mor:	co|oh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	+, ⌊ eighteen ⌋ wins +/.
+%mor:	det:num|eighteen n|win-PL +/.
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S3:	+, I'm sorry I put these in the wrong one .
+%mor:	pro:sub|I~cop|be&1S adj|sorry pro:sub|I v|put&ZERO pro:dem|these
+	prep|in det:art|the n|wrong pro:indef|one .
+%gra:	1|2|SUBJ 2|5|CJCT 3|2|PRED 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|5|PUNCT
+*S3:	so it's half and half .
+%mor:	adv|so pro:per|it~cop|be&3S n|half coord|and n|half .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|CONJ 6|5|COORD 7|3|PUNCT
+*S4:	did you [/] you didn't get five a minute ago (.) did [/] &y did you
+	?
+%mor:	mod|do&PAST pro:per|you mod|do&PAST~neg|not v|get det:num|five
+	det:art|a n|minute post|ago mod|do&PAST pro:per|you ?
+%gra:	1|5|AUX 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|QUANT 7|8|DET 8|11|SUBJ
+	9|8|POSTMOD 10|11|AUX 11|5|OBJ 12|5|PUNCT
+*S3:	no (.) I didn't .
+%mor:	co|no pro:sub|I mod|do&PAST~neg|not .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|PUNCT
+*S4:	you got like (.) two or three I think .
+%mor:	pro:per|you v|get&PAST co|like det:num|two coord|or det:num|three
+	pro:sub|I v|think .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|7|QUANT 5|4|CONJ 6|5|COORD 7|8|SUBJ
+	8|2|CJCT 9|2|PUNCT
+*S4:	&=laughs oh_my_gosh .
+%mor:	co|oh_my_gosh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	I think you only got +//.
+%mor:	pro:sub|I v|think pro:per|you adv|only v|get&PAST +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|2|PUNCT
+*S4:	did you get three ?
+%mor:	mod|do&PAST pro:per|you v|get det:num|three ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S3:	yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	okay +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	+, yes because I +/.
+%mor:	co|yes conj|because pro:sub|I +/.
+%gra:	1|3|COM 2|3|LINK 3|0|INCROOT 4|3|PUNCT
+*S4:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	+, I put that one there when we did that .
+%mor:	pro:sub|I v|put&ZERO adv|that det:num|one adv|there conj|when
+	pro:sub|we mod|do&PAST pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|QUANT 5|2|JCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|2|CJCT 10|2|PUNCT
+*S4:	alright so three (.) .
+%mor:	co|alright co|so det:num|three .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|PUNCT
+*S3:	and you had all (.) ⌈ ten win ⌉ .
+%mor:	coord|and pro:per|you v|have&PAST qn|all det:num|ten n|win .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|QUANT 6|3|OBJ 7|3|PUNCT
+*S4:	⌊ I had ⌋ all wins so +...
+%mor:	pro:sub|I v|have&PAST qn|all n|win-PL adv|so +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*S4:	seven (.) so it was (.) how many +//.
+%mor:	det:num|seven conj|so pro:per|it cop|be&PAST&13S pro:int|how
+	qn|many +//.
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|6|JCT 6|4|PRED 7|1|PUNCT
+*S4:	seventeen out_of twenty wins ?
+%mor:	det:num|seventeen prep|out_of det:num|twenty n|win-PL ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|QUANT 4|2|POBJ 5|1|PUNCT
+*S3:	yup .
+%mor:	co|yup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	oh that's what it's (.) switching we're down here .
+%mor:	co|oh pro:dem|that~cop|be&3S pro:int|what pro:per|it~aux|be&3S
+	part|switch-PRESP pro:sub|we~cop|be&PRES prep|down n|here .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CPRED 8|9|SUBJ
+	9|7|COMP 10|9|JCT 11|10|POBJ 12|3|PUNCT
+*S4:	(0.5) .
+*S3:	that's (.) yeah that's the probability of winning when you switch
+	the door (.) oh I <get it> [?] .
+%mor:	pro:dem|that~cop|be&3S co|yeah pro:dem|that~cop|be&3S det:art|the
+	n|probable&dadj-ITY prep|of part|win-PRESP conj|when pro:per|you
+	v|switch det:art|the n|door co|oh pro:sub|I v|get pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|COM 4|5|SUBJ 5|2|PRED 6|7|DET 7|5|PRED 8|7|NJCT
+	9|8|POBJ 10|12|LINK 11|12|SUBJ 12|5|CJCT 13|14|DET 14|12|OBJ 15|17|COM
+	16|17|SUBJ 17|12|CJCT 18|17|OBJ 19|2|PUNCT
+*S4:	eighty five percent (0.6) it's really weird (be)cause in my (.)
+	like I took like in the philosophy class I mean it was just in high
+	school but (.) the philosophy class like they said like (.) each one
+	has like the same chance like (.) even if you switch to these two
+	it's still a .
+%mor:	det:num|eighty det:num|five n|percent pro:per|it~cop|be&3S
+	adv|real&dadj-LY adj|weird conj|because prep|in det:poss|my
+	conj|like pro:sub|I v|take&PAST prep|like prep|in det:art|the
+	n|philosophy n|class pro:sub|I v|mean pro:per|it cop|be&PAST&13S
+	adv|just prep|in adj|high n|school conj|but det:art|the n|philosophy
+	n|class co|like pro:sub|they v|say&PAST co|like qn|each det:num|one
+	aux|have&3S prep|like det:art|the adj|same n|chance prep|like
+	adj|even conj|if pro:per|you v|switch prep|to det:dem|these
+	det:num|two pro:per|it~cop|be&3S adv|still det:art|a .
+%gra:	1|3|QUANT 2|3|QUANT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED
+	8|13|LINK 9|13|JCT 10|11|DET 11|9|POBJ 12|13|SUBJ 13|5|CJCT 14|13|JCT 15|20|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|20|SUBJ 20|14|CPOBJ 21|22|SUBJ
+	22|20|COMP 23|22|JCT 24|22|JCT 25|26|MOD 26|24|POBJ 27|33|LINK 28|30|DET
+	29|30|MOD 30|33|OBJ 31|30|COM 32|33|SUBJ 33|46|CJCT 34|33|COM 35|36|QUANT
+	36|46|SUBJ 37|46|AUX 38|37|NJCT 39|41|DET 40|41|MOD 41|38|POBJ 42|41|NJCT
+	43|42|POBJ 44|46|LINK 45|46|SUBJ 46|13|CJCT 47|46|JCT 48|49|DET 49|47|POBJ
+	50|51|SUBJ 51|46|CJCT 52|53|JCT 53|51|PRED 54|5|PUNCT
+*S3:	oh really ?
+%mor:	co|oh adv|real&dadj-LY ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S3:	so they said that ⌈ it doesn't matter ⌉ .
+%mor:	co|so pro:sub|they v|say&PAST comp|that pro:per|it
+	mod|do&3S~neg|not v|matter .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|COMP
+	9|3|PUNCT
+*S4:	⌊ they were like ⌋ saying it's a_lot like (.) that each of these
+	was still a two third (.) one and <one thir> [//] one third chance
+	of being the car +/.
+%mor:	pro:sub|they cop|be&PAST co|like n:gerund|say-PRESP
+	pro:per|it~cop|be&3S adv|a_lot co|like adv|that qn|each prep|of
+	det:dem|these cop|be&PAST&13S adv|still det:art|a det:num|two
+	adj|third det:num|one coord|and det:num|one adj|third n|chance
+	prep|of n:gerund|be-PRESP det:art|the n|car +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PRED 5|6|SUBJ 6|4|CMOD 7|6|JCT 8|6|COM
+	9|18|JCT 10|18|QUANT 11|10|NJCT 12|13|DET 13|11|POBJ 14|16|JCT 15|16|DET
+	16|17|QUANT 17|18|MOD 18|6|PRED 19|18|CONJ 20|22|QUANT 21|22|MOD
+	22|19|COORD 23|22|NJCT 24|23|POBJ 25|26|DET 26|24|OBJ 27|2|PUNCT
+*S3:	yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	+, so that like it shouldn't change no matter what .
+%mor:	adv|so adv|that prep|like pro:per|it mod|should~neg|not v|change
+	qn|no n|matter pro:int|what .
+%gra:	1|2|JCT 2|7|JCT 3|2|JCT 4|3|POBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|9|QUANT
+	9|7|OBJ 10|7|PUNCT 11|10|PUNCT
+*S3:	+, yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	+, but it does .
+%mor:	conj|but pro:per|it mod|do&3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*S3:	but when you &s ⌈ think ⌉ +/.
+%mor:	conj|but conj|when pro:per|you v|think +/.
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S4:	⌊ yeah ⌋ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	+, about it (.) you have a better chance of getting ⌈ the goat ⌉
+	+/.
+%mor:	prep|about pro:per|it pro:per|you v|have det:art|a adj|good&CP
+	n|chance prep|of n:gerund|get-PRESP det:art|the n|goat +/.
+%gra:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|11|DET 11|9|OBJ 12|4|PUNCT
+*S4:	+, ⌊ exactly ⌋ +/.
+%mor:	adv|exact&dadj-LY +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	+, when you pick .
+%mor:	conj|when pro:per|you v|pick .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S4:	so then you have a better chance if you switch it .
+%mor:	adv|so adv:tem|then pro:per|you v|have det:art|a adj|good&CP
+	n|chance conj|if pro:per|you v|switch pro:per|it .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|10|LINK
+	9|10|SUBJ 10|4|CJCT 11|10|OBJ 12|4|PUNCT
+*S4:	yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	+, but they were saying like logic (.) like ⌈ is statistically but
+	like ⌉ +/.
+%mor:	conj|but pro:sub|they cop|be&PAST n:gerund|say-PRESP co|like
+	n|logic prep|like aux|be&3S adv|statistic&dadj-AL-LY conj|but
+	prep|like +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|COM 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|8|PRED 10|9|CONJ 11|10|COORD 12|3|PUNCT
+*S4:	+, ⌊ is the < <when you> [/] when you > [?] think about it ⌋ +/.
+%mor:	cop|be&3S det:art|the conj|when pro:per|you v|think prep|about
+	pro:per|it +/.
+%gra:	1|0|ROOT 2|5|DET 3|5|LINK 4|5|SUBJ 5|1|CPRED 6|5|JCT 7|6|POBJ 8|1|PUNCT
+*S4:	+, I think like (.) mathematicians and statisticians have like an
+	argument (.) I don't know .
+%mor:	pro:sub|I v|think prep|like n|mathematician-PL coord|and
+	n|statistician-PL v|have prep|like det:art|a n|argue&dv-MENT
+	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|14|SUBJ 12|14|AUX 13|12|NEG 14|7|CJCT 15|2|PUNCT
+*S4:	(0.6) .
+*S3:	oh this weather is horrible .
+%mor:	co|oh det:dem|this n|weather cop|be&3S adj|horrible .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*S4:	hm ?
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	+, this weather I hate it .
+%mor:	det:dem|this n|weather pro:sub|I v|hate pro:per|it .
+%gra:	1|2|DET 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*S4:	I know it's supposed to be summer .
+%mor:	pro:sub|I v|know pro:per|it~aux|be&3S part|suppose-PASTP inf|to
+	cop|be n|summer .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|INF 7|5|COMP 8|7|PRED
+	9|2|PUNCT
+*S3:	&=laughs I know (0.19) .
+%mor:	pro:sub|I v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S4:	are you staying here both +//.
+%mor:	cop|be&PRES pro:per|you part|stay-PRESP adv|here qn|both +//.
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|5|JCT 5|3|OM 6|1|PUNCT
+*S4:	for both spring and summer ⌈ semester ⌉ ?
+%mor:	prep|for qn|both n|spring coord|and n|summer n|semester ?
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|3|CONJ 5|6|MOD 6|4|COORD 7|1|PUNCT
+*S3:	⌊ no (.) just spring ⌋ I'm gonna go home at the end of June .
+%mor:	qn|no adj|just n|spring pro:sub|I~aux|be&1S part|go-PRESP~inf|to
+	v|go adv|home prep|at det:art|the n|end prep|of n:prop|June .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|8|INF
+	8|6|COMP 9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|13|POBJ 15|3|PUNCT
+*S4:	where do you live ?
+%mor:	pro:int|where mod|do pro:per|you adj|live ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S3:	I live (.) up in Traverse City .
+%mor:	pro:sub|I v|live adv|up prep|in n:prop|Traverse n:prop|City .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|NAME 6|4|POBJ 7|2|PUNCT
+*S3:	xxx .
+*S1:	okay (.) let's tally our results and see (.) empirically (.) what
+	the answers should be .
+%mor:	co|okay v|let~pro:obj|us v|tally det:poss|our n|result-PL coord|and
+	v|see adv|empirical&dadj-LY pro:int|what det:art|the n|answer-PL
+	mod|should cop|be .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|DET 6|4|OBJ 7|2|CONJ 8|7|COORD
+	9|8|JCT 10|14|LINK 11|12|DET 12|14|SUBJ 13|14|AUX 14|8|COMP 15|2|PUNCT
+*S1:	okay so groups that stayed (.) how many did you guys get (.) Anne
+	Marie (.) how many did you get ?
+%mor:	co|okay adv|so n|group-PL pro:rel|that part|stay-PASTP pro:int|how
+	qn|many mod|do&PAST pro:per|you n|guy-PL v|get n:prop|Anne
+	n:prop|Marie pro:rel|how qn|many mod|do&PAST pro:per|you v|get ?
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|11|LINK 7|11|SUBJ
+	8|11|AUX 9|11|SUBJ 10|11|SUBJ 11|5|COMP 12|13|NAME 13|11|OBJ 14|18|LINK
+	15|18|QUANT 16|18|AUX 17|18|SUBJ 18|13|CMOD 19|3|PUNCT
+*S2:	eight .
+%mor:	det:num|eight .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&=writes:board eight (.) five [/] five (.) six .
+%mor:	det:num|eight det:num|five det:num|six .
+%gra:	1|3|DATE 2|3|DATE 3|0|INCROOT 4|3|PUNCT
+*S1:	go .
+%mor:	v|go .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SUF:	twelve (.) or +//.
+%mor:	det:num|twelve coord|or +//.
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*SUF:	to stay (.) right ?
+%mor:	inf|to v|stay co|right ?
+%gra:	1|2|INF 2|0|ROOT 3|2|COM 4|2|PUNCT
+*S1:	okay (.) one (.) two (.) six (.) twelve +...
+%mor:	co|okay det:num|one det:num|two det:num|six det:num|twelve +...
+%gra:	1|4|COM 2|3|QUANT 3|4|QUANT 4|5|DATE 5|0|INCROOT 6|5|PUNCT
+*S1:	guys in the back .
+%mor:	n|guy-PL prep|in det:art|the n|back .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*SUF:	eight .
+%mor:	det:num|eight .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	eight .
+%mor:	det:num|eight .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	guys in front .
+%mor:	n|guy-PL prep|in n|front .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*SUF:	seven .
+%mor:	det:num|seven .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	seven (.) six seven .
+%mor:	det:num|seven det:num|six det:num|seven .
+%gra:	1|3|DATE 2|3|DATE 3|0|INCROOT 4|3|PUNCT
+*S1:	so we had (.) thirty five [/] thirty five wins .
+%mor:	co|so pro:sub|we v|have&PAST det:num|thirty det:num|thirty
+	det:num|five n|win-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|QUANT 5|6|DATE 6|7|QUANT 7|3|OBJ
+	8|3|PUNCT
+*S1:	this is (.) out_of there was four groups so it was out_of eighty
+	total .
+%mor:	pro:dem|this cop|be&3S prep|out_of n|there cop|be&PAST&13S
+	det:num|four n|group-PL conj|so pro:per|it cop|be&PAST&13S
+	prep|out_of det:num|eighty n|total .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|SUBJ 5|3|POBJ 6|7|QUANT 7|5|PRED
+	8|10|LINK 9|10|SUBJ 10|2|CJCT 11|10|JCT 12|13|QUANT 13|11|POBJ 14|2|PUNCT
+*S1:	now let's do switch .
+%mor:	adv|now v|let~pro:obj|us mod|do v|switch .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|5|AUX 5|2|COMP 6|2|PUNCT
+*S1:	&-uh what'd you guys get right there ?
+%mor:	pro:int|what~mod|genmod pro:per|you n|guy-PL v|get adv|right
+	adv|there ?
+%gra:	1|5|SUBJ 2|5|AUX 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|JCT 8|5|PUNCT
+*SUM:	right here ?
+%mor:	adv|right adv|here ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*S1:	+, Dave (.) yeah Dave .
+%mor:	n:prop|Dave co|yeah n:prop|Dave .
+%gra:	1|0|INCROOT 2|3|COM 3|1|APP 4|1|PUNCT
+*SUM:	eleven .
+%mor:	det:num|eleven .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	eleven +...
+%mor:	det:num|eleven +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	eleven (.) yeah .
+%mor:	det:num|eleven co|yeah .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S3:	seventeen .
+%mor:	det:num|seventeen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	seventeen (.) wow +...
+%mor:	det:num|seventeen co|wow +...
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S1:	seventeen (.) okay you guys .
+%mor:	det:num|seventeen adj|okay pro:per|you n|guy-PL .
+%gra:	1|4|QUANT 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*SUM:	eleven .
+%mor:	det:num|eleven .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	eleven .
+%mor:	det:num|eleven .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	one (.) two ⌈ three (.) eleven ⌉ .
+%mor:	det:num|one det:num|two det:num|three det:num|eleven .
+%gra:	1|4|DATE 2|3|QUANT 3|4|DATE 4|0|INCROOT 5|4|PUNCT
+*S3:	⌊ we're just very good at this game ⌋ &=laughs:S4 .
+%mor:	pro:sub|we~cop|be&PRES adv|just adv|very adj|good prep|at
+	det:dem|this n|game .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|PRED 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*SUF:	thirteen .
+%mor:	det:num|thirteen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	thirteen .
+%mor:	det:num|thirteen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	⌈ what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	bingo ⌉ .
+%mor:	n|bingo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	⌊ one (.) five ⌋ six (.) eight nine ten eleven (.) twelve thirteen
+	(.) and you guys .
+%mor:	det:num|one det:num|five det:num|six det:num|eight det:num|nine
+	det:num|ten det:num|eleven det:num|twelve det:num|thirteen coord|and
+	pro:per|you n|guy-PL .
+%gra:	1|9|DATE 2|3|DATE 3|4|DATE 4|5|DATE 5|6|DATE 6|7|DATE 7|8|DATE 8|9|DATE
+	9|0|ROOT 10|9|CONJ 11|12|SUBJ 12|10|COORD 13|9|PUNCT
+*SUF:	thirteen .
+%mor:	det:num|thirteen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	thirteen (.) one two oops (.) three four five six (.) seven eight
+	nine ten eleven twelve thirteen .
+%mor:	det:num|thirteen det:num|one det:num|two co|oops det:num|three
+	det:num|four det:num|five det:num|six det:num|seven det:num|eight
+	det:num|nine det:num|ten det:num|eleven det:num|twelve
+	det:num|thirteen .
+%gra:	1|2|ENUM 2|3|QUANT 3|0|INCROOT 4|3|COM 5|6|DATE 6|7|DATE 7|8|DATE
+	8|9|DATE 9|10|DATE 10|11|DATE 11|12|DATE 12|13|DATE 13|14|DATE 14|15|DATE
+	15|3|CJCT 16|3|PUNCT
+*S1:	is that everyone ?
+%mor:	cop|be&3S comp|that pro:indef|everyone ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*S1:	<looks like that's everyone> [?] five ten fifteen twenty (.) sixty
+	five .
+%mor:	v|look-3S prep|like pro:rel|that~cop|be&3S pro:indef|everyone
+	det:num|five det:num|ten det:num|fifteen det:num|twenty
+	det:num|sixty det:num|five .
+%gra:	1|0|ROOT 2|1|JCT 3|4|LINK 4|2|POBJ 5|11|DATE 6|7|QUANT 7|11|DATE
+	8|9|DATE 9|11|DATE 10|11|DATE 11|4|PRED 12|1|PUNCT
+*S1:	this is out_of a hundred (be)cause we have five groups .
+%mor:	pro:dem|this cop|be&3S prep|out_of det:art|a det:num|hundred
+	conj|because pro:sub|we v|have det:num|five n|group-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|10|QUANT 10|8|OBJ 11|2|PUNCT
+*S1:	okay so now we can calculate these (.) empirical probabilities .
+%mor:	co|okay adv|so adv|now pro:sub|we mod|can v|calculate det:dem|these
+	adj|empirical n|probable&dadj-ITY-PL .
+%gra:	1|3|COM 2|3|JCT 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|PUNCT
+*S1:	I can do the one in my head (.) I don't think I can do the other
+	one .
+%mor:	pro:sub|I mod|can v|do det:art|the det:num|one prep|in det:poss|my
+	n|head pro:sub|I mod|do~neg|not v|think pro:sub|I mod|can v|do
+	det:art|the qn|other pro:indef|one .
+%gra:	1|3|SUBJ 2|3|AUX 3|12|CJCT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|15|OBJ 13|15|SUBJ 14|15|AUX 15|0|ROOT
+	16|18|DET 17|18|QUANT 18|15|OBJ 19|15|PUNCT
+*S1:	let's see .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*S1:	so let's see we have (.) thirty five out_of eighty .
+%mor:	adv|so v|let~pro:obj|us v|see pro:sub|we v|have det:num|thirty
+	det:num|five prep|out_of det:num|eighty .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|SUBJ 6|4|COMP 7|8|QUANT 8|6|OBJ
+	9|8|JCT 10|9|POBJ 11|2|PUNCT
+*S1:	wow that's pretty good .
+%mor:	co|wow pro:dem|that~cop|be&3S adv|pretty adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*S1:	four thirty five (.) and this one I can guess is <four six five>
+	[?] .
+%mor:	det:num|four det:num|thirty det:num|five coord|and det:dem|this
+	pro:indef|one pro:sub|I n|can n|guess cop|be&3S det:num|four
+	det:num|six det:num|five .
+%gra:	1|3|DATE 2|3|DATE 3|9|QUANT 4|3|CONJ 5|6|DET 6|4|COORD 7|8|SUBJ 8|9|MOD
+	9|10|SUBJ 10|0|ROOT 11|13|DATE 12|13|DATE 13|10|PRED 14|10|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so now <if you> [/] if you listen to the numbers posted we had
+	a_lot_of (.) pretty big ones for switching .
+%mor:	co|so adv|now conj|if pro:per|you v|listen prep|to det:art|the
+	n|number-PL v|post-PAST pro:sub|we v|have&PAST qn|a_lot_of
+	adv|pretty adj|big pro:indef|one-PL prep|for n:gerund|switch-PRESP .
+%gra:	1|2|COM 2|9|JCT 3|5|LINK 4|5|SUBJ 5|9|CJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|0|ROOT 10|11|SUBJ 11|9|COMP 12|14|QUANT 13|14|JCT 14|11|JCT 15|14|ENUM
+	16|15|NJCT 17|16|POBJ 18|9|PUNCT
+*S1:	and actually it is (.) true .
+%mor:	coord|and adv|actual&dadj-LY pro:per|it cop|be&3S n|true .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*S1:	switching does help you win .
+%mor:	part|switch-PRESP mod|do&3S v|help pro:per|you v|win .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*S1:	you win (.) two thirds of the time (.) as opposed to one third of
+	the time (.) if you stay .
+%mor:	pro:per|you v|win det:num|two n|third-PL prep|of det:art|the n|time
+	prep|as part|oppose-PASTP prep|to det:num|one n|third prep|of
+	det:art|the n|time conj|if pro:per|you v|stay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|JCT
+	9|8|POBJ 10|9|JCT 11|12|QUANT 12|10|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|18|LINK 17|18|SUBJ 18|2|CJCT 19|2|PUNCT
+*S1:	and I'll just show you really fast why .
+%mor:	coord|and pro:sub|I~mod|will adj|just v|show pro:per|you
+	adv|real&dadj-LY adv|fast pro:rel|why .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|9|SUBJ 7|9|JCT 8|9|JCT
+	9|5|COMP 10|5|PUNCT
+*S1:	I think some of the groups figured it out (.) fairly quickly (.)
+	okay .
+%mor:	pro:sub|I v|think pro:indef|some prep|of det:art|the n|group-PL
+	v|figure-PAST pro:per|it adv|out adv|fair&dadj-LY adv|quick&dadj-LY
+	adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|ENUM 8|7|OBJ
+	9|7|JCT 10|7|JCT 11|12|JCT 12|7|JCT 13|2|PUNCT
+*S1:	so let's just say for instance (.) door one is the car (.) so goat
+	[/] goat .
+%mor:	co|so v|let~pro:obj|us adj|just co|say prep|for n|instance n|door
+	det:num|one cop|be&3S det:art|the n|car adv|so n|goat .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|JCT 5|10|COM 6|10|JCT 7|8|MOD 8|6|POBJ
+	9|10|SUBJ 10|4|CMOD 11|12|DET 12|10|PRED 13|14|JCT 14|12|ENUM 15|2|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	if [/] if you pick door one (.) and you stay (.) you would win .
+%mor:	conj|if pro:per|you v|pick n|door det:num|one coord|and pro:per|you
+	v|stay pro:per|you mod|will&COND v|win .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|11|SUBJ 10|11|AUX 11|8|COMP 12|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so if you stay (.) and you picked one (.) you picked door one (.)
+	you would win (.) you pick door two you'd lose (.) pick door three
+	you would lose .
+%mor:	adv|so conj|if pro:per|you v|stay coord|and pro:per|you v|pick-PAST
+	pro:indef|one pro:per|you v|pick-PAST n|door det:num|one pro:per|you
+	mod|will&COND v|win pro:per|you v|pick n|door det:num|two
+	pro:per|you~mod|genmod v|lose v|pick n|door det:num|three
+	pro:per|you mod|will&COND v|lose .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|7|OBJ
+	9|10|SUBJ 10|8|CMOD 11|10|OBJ 12|15|QUANT 13|15|SUBJ 14|15|AUX 15|10|COMP
+	16|17|SUBJ 17|15|COMP 18|17|OBJ 19|20|QUANT 20|22|SUBJ 21|22|AUX
+	22|17|COMP 23|22|OBJ 24|23|OBJ 25|28|QUANT 26|28|SUBJ 27|28|AUX 28|23|CJCT
+	29|4|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	now if you switch +...
+%mor:	adv|now conj|if pro:per|you v|switch +...
+%gra:	1|4|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S1:	and you pick door one (.) okay you pick door one .
+%mor:	coord|and pro:per|you v|pick n|door det:num|one adj|okay
+	pro:per|you v|pick n|door det:num|one .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|SUBJ 5|6|QUANT 6|8|JCT 7|8|SUBJ 8|3|COMP
+	9|10|MOD 10|8|OBJ 11|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&ga Monty Hall's gonna show you door two .
+%mor:	n:prop|Monty adj|Hall&dn-POSS part|go-PRESP~inf|to v|show
+	pro:per|you n|door det:num|two .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|7|SUBJ 7|8|MOD 8|5|OBJ
+	9|3|PUNCT
+*S1:	you're gonna switch over to door three (.) but you're gonna lose .
+%mor:	pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|switch adv|over
+	prep|to n|door det:num|three conj|but pro:per|you~aux|be&PRES
+	part|go-PRESP~inf|to v|lose .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|10|QUANT 10|5|CONJ 11|13|SUBJ 12|13|AUX 13|10|COORD 14|15|INF 15|13|COMP
+	16|3|PUNCT
+*S1:	you're gonna get a goat (.) so you'd lose .
+%mor:	pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|get det:art|a n|goat
+	conj|so pro:per|you~mod|genmod v|lose .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|3|CJCT 12|3|PUNCT
+*S1:	if you pick door two initially (.) pick door two Monty Hall's gonna
+	show you door three .
+%mor:	conj|if pro:per|you v|pick n|door det:num|two adv|initial&dadj-LY
+	v|pick n|door det:num|two n:prop|Monty adj|Hall&dn-POSS
+	part|go-PRESP~inf|to v|show pro:per|you n|door det:num|three .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|3|OBJ 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|OBJ
+	9|10|QUANT 10|8|APP 11|7|JCT 12|11|XMOD 13|14|INF 14|12|COMP 15|16|SUBJ
+	16|17|MOD 17|14|OBJ 18|7|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	(be)cause that's the losing one .
+%mor:	conj|because pro:rel|that~cop|be&3S det:art|the n:gerund|lose-PRESP
+	det:num|one .
+%gra:	1|3|LINK 2|3|LINK 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*S1:	you &ca and you're gonna switch over back to door one (.) so you're
+	gonna switch over to a win .
+%mor:	pro:per|you coord|and pro:per|you~aux|be&PRES part|go-PRESP~inf|to
+	v|switch adv|over adv|back prep|to n|door det:num|one adv|so
+	pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|switch adv|over
+	prep|to det:art|a n|win .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|7|INF 7|5|COMP 8|9|JCT
+	9|7|JCT 10|7|JCT 11|10|POBJ 12|16|QUANT 13|16|JCT 14|16|SUBJ 15|16|AUX
+	16|7|XJCT 17|18|INF 18|16|COMP 19|18|JCT 20|18|JCT 21|22|DET 22|20|POBJ
+	23|1|PUNCT
+*S1:	and if you pick door three (.) Monty Hall's gonna show you door two
+	(.) which is a loss (.) but you're gonna switch over (.) and you'll
+	win .
+%mor:	coord|and conj|if pro:per|you v|pick n|door det:num|three
+	n:prop|Monty adj|Hall&dn-POSS part|go-PRESP~inf|to v|show
+	pro:per|you n|door det:num|two pro:rel|which cop|be&3S det:art|a
+	n|loss conj|but pro:per|you~aux|be&PRES part|go-PRESP~inf|to
+	v|switch adv|over coord|and pro:per|you~mod|will n|win .
+%gra:	1|9|LINK 2|4|LINK 3|4|SUBJ 4|9|CJCT 5|4|OBJ 6|7|QUANT 7|9|SUBJ 8|9|JCT
+	9|0|ROOT 10|11|INF 11|9|COMP 12|13|SUBJ 13|11|OBJ 14|15|QUANT 15|16|LINK
+	16|13|CMOD 17|18|DET 18|16|PRED 19|22|LINK 20|22|SUBJ 21|22|AUX
+	22|9|CJCT 23|24|INF 24|22|COMP 25|24|JCT 26|24|CONJ 27|29|SUBJ 28|29|AUX
+	29|26|COORD 30|9|PUNCT
+*S1:	so (.) the actual probabilities (.) you're gonna win two thirds of
+	the time that you switch (.) and you're gonna win one third of the
+	time (.) if you stay .
+%mor:	co|so det:art|the adj|actual n|probable&dadj-ITY-PL
+	pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|win det:num|two
+	n|third-PL prep|of det:art|the n|time pro:rel|that pro:per|you
+	v|switch coord|and pro:per|you~aux|be&PRES part|go-PRESP~prep|to
+	n|win det:num|one n|third prep|of det:art|the n|time conj|if
+	pro:per|you v|stay .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|0|INCROOT 5|7|SUBJ 6|7|AUX 7|4|CMOD 8|9|INF
+	9|7|COMP 10|11|QUANT 11|9|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|17|LINK
+	16|17|SUBJ 17|14|CMOD 18|21|LINK 19|21|SUBJ 20|21|AUX 21|17|COMP
+	22|21|JCT 23|25|MOD 24|25|QUANT 25|22|POBJ 26|25|NJCT 27|28|DET 28|26|POBJ
+	29|31|LINK 30|31|SUBJ 31|21|CJCT 32|4|PUNCT
+*S1:	<that's the> [/] &empir that's the actual probabilities .
+%mor:	pro:dem|that~cop|be&3S det:art|the adj|actual
+	n|probable&dadj-ITY-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*S1:	empirically we can see (.) we're pretty close here (.) point six
+	five is really close to (.) two thirds .
+%mor:	adv|empirical&dadj-LY pro:sub|we mod|can v|see
+	pro:sub|we~cop|be&PRES adv|pretty adj|close adv|here v|point
+	det:num|six det:num|five aux|be&3S adv|real&dadj-LY adj|close
+	prep|to det:num|two n|third-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|JCT 8|6|PRED
+	9|10|JCT 10|8|CMOD 11|12|QUANT 12|15|SUBJ 13|15|AUX 14|15|JCT 15|10|COMP
+	16|15|JCT 17|18|QUANT 18|16|POBJ 19|4|PUNCT
+*S1:	&-um point four seven five (.) &i again it's kind_of big (.) but we
+	had one group that was really [/] really big (.) so that's why I
+	think (.) that [/] that happened to be (.) little bit higher than
+	[/] than it did .
+%mor:	n|point det:num|four det:num|seven det:num|five adv|again
+	pro:per|it~cop|be&3S adv|kind_of adj|big conj|but pro:sub|we
+	v|have&PAST det:num|one n|group pro:rel|that cop|be&PAST&13S
+	adv|real&dadj-LY adj|big co|so pro:dem|that~cop|be&3S pro:int|why
+	pro:sub|I v|think comp|that v|happen-PAST inf|to cop|be adj|little
+	n|bit adj|high-CP prep|than pro:per|it v|do&PAST .
+%gra:	1|3|DATE 2|3|QUANT 3|4|QUANT 4|7|JCT 5|4|JCT 6|7|SUBJ 7|0|ROOT 8|9|JCT
+	9|7|PRED 10|12|LINK 11|12|SUBJ 12|7|CJCT 13|14|QUANT 14|12|OBJ
+	15|16|LINK 16|14|CMOD 17|18|JCT 18|16|PRED 19|21|COM 20|21|SUBJ 21|16|CJCT
+	22|24|LINK 23|24|SUBJ 24|21|CPRED 25|26|SUBJ 26|24|COMP 27|28|INF 28|26|COMP
+	29|30|MOD 30|28|PRED 31|28|PRED 32|34|JCT 33|34|SUBJ 34|31|CMOD
+	35|7|PUNCT
+*S1:	if we did more repetitions obviously we only did eighty repetitions
+	if we did you know (.) two three thousand (.) we'd get numbers
+	really close to one third (.) and two thirds .
+%mor:	conj|if pro:sub|we v|do&PAST qn|more n|repetition-PL
+	adv|obvious&dadj-LY pro:sub|we adv|only v|do&PAST det:num|eighty
+	n|repetition-PL conj|if pro:sub|we mod|do&PAST pro:per|you v|know
+	det:num|two det:num|three det:num|thousand pro:sub|we~mod|genmod
+	aux|get n|number-PL adv|real&dadj-LY adj|close prep|to det:num|one
+	n|third coord|and det:num|two n|third-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|9|CJCT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|9|SUBJ 8|9|JCT
+	9|0|ROOT 10|11|QUANT 11|9|OBJ 12|16|LINK 13|16|SUBJ 14|16|AUX 15|16|SUBJ
+	16|9|CJCT 17|18|QUANT 18|19|QUANT 19|22|QUANT 20|22|SUBJ 21|22|AUX
+	22|16|COMP 23|22|PRED 24|25|JCT 25|23|POSTMOD 26|25|JCT 27|28|QUANT
+	28|26|POBJ 29|28|CONJ 30|31|QUANT 31|29|COORD 32|9|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so basically (.) does everyone see why (.) it pays to switch ?
+%mor:	adv|so adv|basic&dadj-AL-LY mod|do&3S pro:indef|everyone v|see
+	pro:int|why pro:per|it v|pay-3S prep|to n|switch ?
+%gra:	1|2|JCT 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|8|JCT 10|9|POBJ 11|5|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so if you're ever on the game show you know you should always
+	switch .
+%mor:	adv|so conj|if pro:per|you~cop|be&PRES adv|ever prep|on det:art|the
+	n|game n|show pro:per|you v|know pro:per|you mod|should adv|always
+	n|switch .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|11|CJCT 5|4|JCT 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|11|SUBJ 11|0|ROOT 12|15|SUBJ 13|15|AUX 14|15|JCT 15|11|COMP
+	16|11|PUNCT
+*S1:	basically the only way you win (.) if you stay (.) is if you happen
+	to guess correctly (.) initially (.) and get the car right away .
+%mor:	adv|basic&dadj-AL-LY det:art|the qn|only n|way pro:per|you v|win
+	conj|if pro:per|you v|stay aux|be&3S conj|if pro:per|you v|happen
+	inf|to v|guess adv|correct&dadj-LY adv|initial&dadj-LY coord|and
+	v|get det:art|the n|car adv|right adv|away .
+%gra:	1|6|JCT 2|4|DET 3|4|QUANT 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|13|LINK 8|9|SUBJ
+	9|13|SUBJ 10|13|AUX 11|13|LINK 12|13|SUBJ 13|6|CJCT 14|15|INF 15|13|COMP
+	16|15|JCT 17|15|JCT 18|15|CONJ 19|18|COORD 20|21|DET 21|19|OBJ
+	22|23|JCT 23|21|NJCT 24|6|PUNCT
+*S1:	if you're switching (.) the only way you lose is if you guess
+	correctly right away .
+%mor:	comp|if pro:per|you~aux|be&PRES part|switch-PRESP det:art|the
+	qn|only n|way pro:per|you v|lose aux|be&3S conj|if pro:per|you
+	v|guess adv|correct&dadj-LY adv|right adv|away .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|9|XJCT 5|7|DET 6|7|QUANT 7|4|OBJ 8|9|SUBJ
+	9|13|SUBJ 10|13|AUX 11|13|LINK 12|13|SUBJ 13|0|ROOT 14|13|JCT 15|16|JCT
+	16|14|JCT 17|13|PUNCT
+*S1:	so (.) <it's kinda> [/] it's kinda weird the way that [/] that
+	works .
+%mor:	adv|so pro:per|it~cop|be&3S adv|kinda v|weird det:art|the n|way
+	pro:rel|that v|work-3S .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|CPRED 6|7|DET 7|5|OBJ 8|9|LINK
+	9|7|CMOD 10|3|PUNCT
+*S1:	so (.) when you switch (.) when you when your strategy's switching
+	(.) you really wanna guess the wrong door (.) initially (.) then
+	you're gonna (.) win once you switch .
+%mor:	co|so conj|when pro:per|you n|switch conj|when pro:per|you
+	conj|when det:poss|your n|strategy~aux|be&3S part|switch-PRESP
+	pro:per|you adv|real&dadj-LY v|want~inf|to v|guess det:art|the
+	n|wrong n|door adv|initial&dadj-LY adv:tem|then
+	pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|win adv|once
+	pro:per|you v|switch .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|11|LINK
+	8|9|DET 9|11|SUBJ 10|11|AUX 11|6|CJCT 12|11|OBJ 13|14|JCT 14|11|COMP
+	15|16|INF 16|14|COMP 17|19|DET 18|19|MOD 19|16|OBJ 20|24|JCT 21|24|JCT
+	22|24|SUBJ 23|24|AUX 24|16|XJCT 25|26|INF 26|29|XJCT 27|26|JCT 28|29|SUBJ
+	29|24|COMP 30|4|PUNCT
+*S1:	so (.) and the thing is you've got a greater chance (.) of picking
+	the wrong door than picking the right door (.) initially (.) so
+	that's why (.) it's always better to have (.) switching rather than
+	staying .
+%mor:	adv|so coord|and det:art|the n|thing aux|be&3S pro:per|you~aux|have
+	part|get&PASTP det:art|a adj|great-CP n|chance prep|of
+	n:gerund|pick-PRESP det:art|the n|wrong n|door prep|than
+	n:gerund|pick-PRESP det:art|the adj|right n|door adv|initial&dadj-LY
+	conj|so pro:dem|that~cop|be&3S pro:int|why pro:per|it~cop|be&3S
+	adv|always adj|good&CP inf|to aux|have part|switch-PRESP adv|rather
+	prep|than n:gerund|stay-PRESP .
+%gra:	1|8|JCT 2|8|LINK 3|4|DET 4|8|SUBJ 5|8|AUX 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|11|DET 10|11|MOD 11|8|OBJ 12|11|NJCT 13|12|POBJ 14|16|DET 15|16|MOD
+	16|13|OBJ 17|11|NJCT 18|17|POBJ 19|21|DET 20|21|MOD 21|18|OBJ 22|8|JCT
+	23|25|LINK 24|25|SUBJ 25|8|CJCT 26|28|LINK 27|28|SUBJ 28|25|PRED 29|30|JCT
+	30|28|PRED 31|33|INF 32|33|AUX 33|30|XMOD 34|33|JCT 35|33|JCT 36|35|POBJ
+	37|8|PUNCT
+*S1:	let's see .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*S1:	what else do we have here ?
+%mor:	pro:int|what post|else mod|do pro:sub|we v|have adv|here ?
+%gra:	1|5|JCT 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*S1:	number of wins using this .
+%mor:	n|number prep|of n|win-PL part|use-PRESP pro:dem|this .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|XJCT 5|4|OBJ 6|1|PUNCT
+*S1:	what did you estimate the probability of this xxx what strategy
+	appears to be best again (.) switching is the best (.) just because
+	we can show empirically it's better (.) and we can [?] show actually
+	it's better .
+%mor:	pro:int|what mod|do&PAST pro:per|you v|estimate det:art|the
+	n|probable&dadj-ITY prep|of det:dem|this pro:int|what n|strategy
+	v|appear-3S inf|to cop|be v|best adv|again n:gerund|switch-PRESP
+	cop|be&3S det:art|the adj|good&SP adv|just conj|because pro:sub|we
+	mod|can v|show adv|empirical&dadj-LY pro:per|it~cop|be&3S
+	adv|good&CP coord|and pro:sub|we mod|can v|show adv|actual&dadj-LY
+	pro:per|it~cop|be&3S adj|good&CP .
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|11|DET
+	9|11|LINK 10|11|SUBJ 11|7|POBJ 12|13|INF 13|11|COMP 14|13|PRED 15|14|JCT
+	16|17|SUBJ 17|14|COMP 18|19|DET 19|17|PRED 20|21|JCT 21|24|LINK
+	22|24|SUBJ 23|24|AUX 24|19|CMOD 25|27|JCT 26|27|SUBJ 27|24|COMP 28|27|JCT
+	29|32|LINK 30|32|SUBJ 31|32|AUX 32|27|CJCT 33|35|JCT 34|35|SUBJ 35|32|COMP
+	36|35|PRED 37|4|PUNCT
+*S1:	now if you go on the web page (.) the Stat one hundred web page (.)
+	under I think other information (.) maybe (.) I think it's there .
+%mor:	adv|now conj|if pro:per|you v|go prep|on det:art|the n|web n|page
+	det:art|the n:prop|Stat det:num|one det:num|hundred n|web v|page
+	prep|under pro:sub|I v|think qn|other n|inform&dv-TION adv|maybe
+	pro:sub|I v|think pro:per|it~cop|be&3S adv|there .
+%gra:	1|14|JCT 2|4|LINK 3|4|SUBJ 4|14|CJCT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|13|DET 10|11|MOD 11|13|QUANT 12|13|QUANT 13|14|SUBJ 14|0|ROOT 15|17|JCT
+	16|17|SUBJ 17|14|COMP 18|19|QUANT 19|17|OBJ 20|17|JCT 21|22|SUBJ
+	22|14|CJCT 23|24|SUBJ 24|22|COMP 25|24|JCT 26|14|PUNCT
+*S1:	they have on there an actual article by (.) statisticians and
+	mathematicians arguing this exact problem .
+%mor:	pro:sub|they v|have prep|on n|there det:art|a adj|actual n|article
+	prep|by n|statistician-PL coord|and n|mathematician-PL
+	part|argue-PRESP det:dem|this adj|exact n|problem .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|7|DET 6|7|MOD 7|12|SUBJ 8|7|NJCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|2|XJCT 13|15|DET 14|15|MOD 15|12|OBJ
+	16|2|PUNCT
+*S1:	I mean they have nothing to do in their free time other than (.)
+	arguing this particular problem (.) but you [/] you get really you
+	know (.) well known statisticians actually arguing that it's better
+	to stay (.) rather than switch .
+%mor:	pro:sub|I v|mean pro:sub|they v|have pro:indef|nothing inf|to v|do
+	prep|in det:poss|their adj|free n|time qn|other prep|than
+	n:gerund|argue-PRESP det:dem|this adj|particular n|problem conj|but
+	pro:per|you v|get adv|real&dadj-LY pro:per|you v|know adv|well
+	part|know&PASTP n|statistician-PL adv|actual&dadj-LY
+	part|argue-PRESP comp|that pro:per|it~cop|be&3S adj|good&CP inf|to
+	v|stay adv|rather prep|than n|switch .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|7|INF 7|4|COMP 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|13|QUANT 13|11|NJCT 14|13|POBJ 15|17|DET
+	16|17|MOD 17|14|OBJ 18|20|LINK 19|20|SUBJ 20|23|CJCT 21|20|JCT 22|23|SUBJ
+	23|2|CJCT 24|23|JCT 25|23|XJCT 26|25|OBJ 27|23|JCT 28|23|XJCT
+	29|31|LINK 30|31|SUBJ 31|28|COMP 32|31|PRED 33|34|INF 34|32|XMOD 35|34|JCT
+	36|34|JCT 37|36|POBJ 38|2|PUNCT
+*S1:	and we could show right here (.) you know (.) within you know (.)
+	half an hour that it's [/] it's better to switch .
+%mor:	coord|and pro:sub|we mod|could v|show adv|right adv|here
+	pro:per|you v|know prep|within pro:per|you v|know n|half det:art|a
+	n|hour comp|that pro:per|it~cop|be&3S adj|good&CP inf|to v|switch .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|8|JCT 7|8|SUBJ 8|4|COMP
+	9|8|JCT 10|9|POBJ 11|8|ENUM 12|11|OBJ 13|14|DET 14|11|OBJ 15|17|LINK
+	16|17|SUBJ 17|14|CMOD 18|17|PRED 19|20|INF 20|18|XMOD 21|4|PUNCT
+*S1:	even just doing it empirically it's better to switch (.) than it is
+	to stay .
+%mor:	adv|even adv|just part|do-PRESP pro:per|it adv|empirical&dadj-LY
+	pro:per|it~cop|be&3S adj|good&CP prep|to n|switch prep|than
+	pro:per|it cop|be&3S inf|to v|stay .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|SUBJ 7|3|COMP 8|7|PRED
+	9|8|JCT 10|9|POBJ 11|10|NJCT 12|11|POBJ 13|7|PRED 14|15|INF 15|13|CPRED
+	16|3|PUNCT
+*S1:	you can show it (.) actually fairly easily in this problem .
+%mor:	pro:per|you mod|can v|show pro:per|it adv|actual&dadj-LY
+	adv|fair&dadj-LY adv|ease&dadj-Y-LY prep|in det:dem|this n|problem .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|JCT 7|3|JCT 8|3|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so (.) let's see what time we've got (.) any questions from the lab
+	?
+%mor:	adv|so v|let~pro:obj|us v|see pro:int|what v|time
+	pro:sub|we~aux|have part|get&PASTP qn|any n|question-PL prep|from
+	det:art|the n|lab ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|SUBJ 6|4|COMP 7|9|SUBJ 8|9|AUX
+	9|6|COMP 10|11|QUANT 11|9|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|2|PUNCT
+*S1:	any questions +..?
+%mor:	qn|any n|question-PL +..?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S1:	ah (.) let's do a homework problem .
+%mor:	co|ah v|let~pro:obj|us v|do det:art|a n|+n|home+n|work n|problem .
+%gra:	1|2|COM 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|2|PUNCT
+*S1:	someone pick a homework problem we'll do it +...
+%mor:	pro:indef|someone v|pick det:art|a n|+n|home+n|work n|problem
+	pro:sub|we~mod|will v|do pro:per|it +...
+%gra:	1|2|SUBJ 2|8|CJCT 3|5|DET 4|5|MOD 5|2|OBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|OBJ 10|8|PUNCT
+*S1:	just (be)cause (.) we have very little time left .
+%mor:	adv|just conj|because pro:sub|we v|have adv|very adj|little n|time
+	v|leave&PAST .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|7|MOD 7|8|SUBJ 8|4|COMP
+	9|4|PUNCT
+*S1:	(0.27) &{l=SINGING yo if there's a problem yo I'll solve it check
+	out the hook while my DJ revolves it &}l=SINGING &=laughs:multiple
+	alright (.) pick a problem +/.
+%mor:	co|yo conj|if pro:exist|there~cop|be&3S det:art|a n|problem co|yo
+	pro:sub|I~mod|will v|solve pro:per|it v|check prep|out det:art|the
+	n|hook conj|while det:poss|my n:prop|DJ v|revolve-3S pro:per|it
+	co|alright v|pick det:art|a n|problem +/.
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|10|COM 8|10|SUBJ
+	9|10|AUX 10|6|CMOD 11|12|SUBJ 12|10|COMP 13|12|JCT 14|15|DET 15|13|POBJ
+	16|19|LINK 17|18|DET 18|19|SUBJ 19|10|CJCT 20|19|OBJ 21|22|COM
+	22|19|COMP 23|24|DET 24|22|OBJ 25|4|PUNCT
+*SUM:	<you just freaked us out> [?] +/.
+%mor:	pro:per|you adv|just v|freak-PAST pro:obj|us adv|out +/.
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*S1:	+, I just have to do that at least once a semester (.) just to keep
+	my skills up (.) xxx back in my day I was +/.
+%mor:	pro:sub|I adv|just v|have inf|to v|do pro:dem|that prep|at n|least
+	adv|once det:art|a n|semester adv|just inf|to v|keep det:poss|my
+	n|skill-PL adv|up adv|back prep|in det:poss|my n|day pro:sub|I
+	cop|be&PAST&13S +/.
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|14|JCT 10|11|DET 11|14|SUBJ 12|14|JCT 13|14|INF 14|5|XJCT 15|16|DET
+	16|14|OBJ 17|14|JCT 18|14|JCT 19|14|JCT 20|21|DET 21|19|POBJ 22|23|SUBJ
+	23|14|CJCT 24|3|PUNCT
+*SUM:	+, that was the highlight of my day +/.
+%mor:	pro:dem|that cop|be&PAST&13S det:art|the n|highlight prep|of
+	det:poss|my n|day +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*S1:	+, yeah (.) <I was> [/] I was known as +/.
+%mor:	co|yeah pro:sub|I aux|be&PAST&13S part|know&PASTP adv|as +/.
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*SUM:	+, ⌈ white chocolate ⌉ +/.
+%mor:	adj|white n|chocolate +/.
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S1:	+, ⌊ you know ⌋ &Vanil Vanilla Dice (.) you know (be)cause my last
+	name is Dyson .
+%mor:	pro:per|you v|know n:prop|Vanilla n:prop|Dice pro:per|you v|know
+	conj|because det:poss|my adj|last n|name cop|be&3S n:prop|Dyson .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|LINK 5|6|SUBJ 6|2|COMP 7|11|LINK 8|10|DET
+	9|10|MOD 10|11|SUBJ 11|6|COMP 12|11|PRED 13|2|PUNCT
+*S1:	Vanilla +...
+%mor:	n:prop|Vanilla +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	+, Eminem now +/.
+%mor:	n:prop|Eminem adv|now +/.
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*S1:	+, okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	pick a problem someone (.) a problem .
+%mor:	v|pick det:art|a n|problem pro:indef|someone det:art|a n|problem .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|POSTMOD 5|6|DET 6|4|OBJ 7|1|PUNCT
+*S1:	anyone .
+%mor:	pro:indef|anyone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SU3:	eight thirty .
+%mor:	det:num|eight det:num|thirty .
+%gra:	1|2|DATE 2|0|INCROOT 3|2|PUNCT
+*S1:	eight thirty oh ?
+%mor:	det:num|eight det:num|thirty co|oh ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|COM 4|2|PUNCT
+*SU3:	thirty oh .
+%mor:	det:num|thirty co|oh .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S1:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*S1:	what page is that on ?
+%mor:	det:int|what n|page cop|be&3S pro:dem|that adv|on ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|3|PUNCT
+*SU3:	thirty ninety four .
+%mor:	det:num|thirty det:num|ninety det:num|four .
+%gra:	1|3|DATE 2|3|DATE 3|0|INCROOT 4|3|PUNCT
+*S1:	thirty ninety four .
+%mor:	det:num|thirty det:num|ninety det:num|four .
+%gra:	1|3|DATE 2|3|DATE 3|0|INCROOT 4|3|PUNCT
+*S1:	let's see .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*S1:	(0.6) .
+*SU3:	are we supposed to do that one ?
+%mor:	cop|be&PRES pro:sub|we v|suppose-PAST inf|to v|do det:dem|that
+	pro:indef|one ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*SU4:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, is [/] &tha is that assigned ?
+%mor:	aux|be&3S adv|that part|assign-PASTP ?
+%gra:	1|3|AUX 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*SU4:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SU3:	+, making sure .
+%mor:	part|make-PRESP adv|sure .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*SU4:	yeah it is +...
+%mor:	co|yeah pro:per|it cop|be&3S +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*SU4:	&=isolated_conversation which one is that ?
+%mor:	pro:int|which pro:indef|one cop|be&3S pro:dem|that ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*SU3:	it's the one with the random distribution .
+%mor:	pro:per|it~cop|be&3S det:art|the det:num|one prep|with det:art|the
+	adj|random n|distribute&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*SU3:	I just didn't know +/.
+%mor:	pro:sub|I adv|just mod|do&PAST~neg|not v|know +/.
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*SU4:	I know ⌈ I ⌉ +/.
+%mor:	pro:sub|I v|know pro:sub|I +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*SU3:	+, ⌊ if you ⌋ were supposed to do it the same (.) as like before .
+%mor:	conj|if pro:per|you aux|be&PAST part|suppose-PASTP inf|to v|do
+	pro:per|it det:art|the adj|same adv|as co|like adv|before .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|9|DET
+	9|6|JCT 10|11|COORD 11|9|ENUM 12|9|JCT 13|4|PUNCT
+*SU4:	well that's what I had a question on too (.) so (0.8) oh (.) I
+	don't wanna go to lecture .
+%mor:	co|well pro:dem|that~cop|be&3S pro:int|what pro:sub|I v|have&PAST
+	det:art|a n|question adv|on adv|too co|so co|oh pro:sub|I
+	mod|do~neg|not v|want~inf|to v|go prep|to n|lecture .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CPRED 7|8|DET 8|6|OBJ
+	9|6|JCT 10|6|JCT 11|16|COM 12|16|COM 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|6|CJCT 17|18|INF 18|16|COMP 19|18|JCT 20|19|POBJ 21|3|PUNCT
+*SU4:	but <I wanna get extra credit> [?] .
+%mor:	conj|but pro:sub|I v|want~inf|to v|get n|extra n|credit .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|MOD 7|5|OBJ 8|3|PUNCT
+*SU3:	yeah I know (.) like (.) <I can never pay attention> [?] .
+%mor:	co|yeah pro:sub|I v|know conj|like pro:sub|I mod|can adv|never
+	n|pay n|attention .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|JCT 8|9|MOD
+	9|3|COMP 10|3|PUNCT
+*SU4:	I know .
+%mor:	pro:sub|I v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S1:	okay (.) so it says &{l=READING suppose the time for an operator to
+	place a long distance call (.) is normally distributed with a mean
+	of twenty seconds and a standard deviation of five seconds .
+%mor:	co|okay conj|so pro:per|it v|say-3S v|suppose det:art|the n|time
+	prep|for det:art|a n|operator inf|to v|place det:art|a adj|long
+	n|distance n|call aux|be&3S adv|normal&dadj-LY part|distribute-PASTP
+	prep|with det:art|a adj|mean prep|of det:num|twenty n|second-PL
+	coord|and det:art|a adj|standard n|deviate&dv-TION prep|of
+	det:num|five n|second-PL .
+%gra:	1|5|COM 2|4|LINK 3|4|SUBJ 4|5|CJCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|12|INF 12|5|XJCT 13|15|DET 14|15|MOD 15|16|MOD
+	16|19|SUBJ 17|19|AUX 18|19|JCT 19|12|COMP 20|19|JCT 21|22|DET 22|20|POBJ
+	23|22|JCT 24|25|QUANT 25|23|POBJ 26|22|CONJ 27|29|DET 28|29|MOD 29|26|COORD
+	30|29|NJCT 31|32|QUANT 32|30|POBJ 33|5|PUNCT
+*S1:	&}l=READING so we're gonna call &=writes:board that variable (.) my
+	favorite letter (.) X &=laughs so it's distributed normally (.) mean
+	of twenty minutes (.) and a standard deviation of five (.) so again
+	(.) write it as five squared (.) make our lives so much easier .
+%mor:	adv|so pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|call
+	det:dem|that n|variable det:poss|my adj|favorite n|letter n:prop|X
+	conj|so pro:per|it~aux|be&3S part|distribute-PASTP
+	adv|normal&dadj-LY adj|mean prep|of det:num|twenty n|minute-PL
+	coord|and det:art|a adj|standard n|deviate&dv-TION prep|of
+	det:num|five adv|so adv|again v|write pro:per|it prep|as
+	det:num|five v|square-PAST v|make det:poss|our n|life-PL adv|so
+	qn|much adj|ease&dn-Y-CP .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|11|DET 10|11|MOD 11|12|MOD 12|8|APP 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|4|CJCT 17|18|JCT 18|16|PRED 19|18|JCT 20|21|QUANT 21|19|POBJ 22|18|CONJ
+	23|25|DET 24|25|MOD 25|22|COORD 26|25|NJCT 27|26|POBJ 28|30|JCT 29|28|JCT
+	30|18|CMOD 31|30|OBJ 32|33|COORD 33|34|QUANT 34|30|COMP 35|34|OBJ
+	36|37|DET 37|35|OBJ 38|39|JCT 39|40|QUANT 40|30|JCT 41|4|PUNCT
+*S1:	&{l=READING what is the probability that a long distance call will
+	go through in less than ten seconds ?
+%mor:	pro:int|what cop|be&3S det:art|the n|probable&dadj-ITY comp|that
+	det:art|a adj|long n|distance n|call mod|will v|go adv|through
+	prep|in adj|less prep|than det:num|ten n|second-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|11|LINK 6|8|DET 7|8|MOD 8|9|MOD
+	9|11|SUBJ 10|11|AUX 11|4|CMOD 12|11|JCT 13|11|JCT 14|13|POBJ 15|14|JCT
+	16|17|QUANT 17|15|POBJ 18|2|PUNCT
+*S1:	&}l=READING well we know the distribution of X (.) right ?
+%mor:	co|well pro:sub|we v|know det:art|the n|distribute&dv-TION prep|of
+	n:prop|X co|right ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|COM
+	9|3|PUNCT
+*S1:	normal .
+%mor:	adv|normal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	one e@l .
+%mor:	det:num|one n:let|e .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S1:	so this is X .
+%mor:	adv|so pro:dem|this cop|be&3S n:prop|X .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S1:	doesn't really look like this (.) it's really a straight line down
+	here .
+%mor:	mod|do&3S~neg|not adv|real&dadj-LY v|look co|like det:dem|this
+	pro:per|it~cop|be&3S adv|real&dadj-LY det:art|a adj|straight n|line
+	prep|down n|here .
+%gra:	1|4|AUX 2|1|NEG 3|4|JCT 4|0|ROOT 5|4|COM 6|8|DET 7|8|SUBJ 8|4|CJCT
+	9|12|JCT 10|12|DET 11|12|MOD 12|8|PRED 13|12|NJCT 14|13|POBJ 15|4|PUNCT
+*S1:	it's just (be)cause I can't draw straight .
+%mor:	pro:per|it~cop|be&3S adj|just conj|because pro:sub|I
+	mod|can~neg|not v|draw n|straight .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|2|CJCT
+	9|8|OBJ 10|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so we wanna find the probability (.) it'll go through in less than
+	ten seconds .
+%mor:	co|so pro:sub|we v|want~inf|to v|find det:art|the
+	n|probable&dadj-ITY pro:per|it~mod|will v|go adv|through prep|in
+	adj|less prep|than det:num|ten n|second-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|10|SUBJ
+	9|10|AUX 10|7|CMOD 11|10|JCT 12|10|JCT 13|12|POBJ 14|13|JCT 15|16|QUANT
+	16|14|POBJ 17|3|PUNCT
+*S1:	so (.) there's time .
+%mor:	adv|so pro:exist|there~cop|be&3S n|time .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S1:	we wanna find this area +...
+%mor:	pro:sub|we v|want~inf|to v|find det:dem|this n|area +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*S1:	correct ?
+%mor:	adj|correct ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	does everyone see that ?
+%mor:	mod|do&3S pro:indef|everyone v|see comp|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	okay (.) so again we just use normal CDF right ?
+%mor:	co|okay co|so adv|again pro:sub|we adj|just n|use adv|normal
+	n:prop|CDF adj|right ?
+%gra:	1|6|COM 2|6|COM 3|6|JCT 4|6|SUBJ 5|6|MOD 6|0|INCROOT 7|8|JCT 8|6|APP
+	9|8|PRED 10|6|PUNCT
+*S1:	normal CDF (.) lower bound is negative infinity (.) upper bound is
+	ten .
+%mor:	adv|normal n:prop|CDF v|lower n|bound cop|be&3S adj|negative
+	n|infinity adj|upper n|bound cop|be&3S det:num|ten .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|MOD 7|9|MOD 8|9|MOD
+	9|10|SUBJ 10|5|PRED 11|10|PRED 12|3|PUNCT
+*S1:	the mean$n is twenty (.) standard deviation is five (0.10) and it's
+	(.) negative E nine [/] nine ten count to twenty da@i [x 3] and we
+	get (.) nine (.) zero two [/] two eight .
+%mor:	det:art|the n|mean cop|be&3S det:num|twenty adj|standard
+	n|deviate&dv-TION cop|be&3S det:num|five coord|and
+	pro:per|it~cop|be&3S adj|negative n:prop|E det:num|nine det:num|ten
+	n|count prep|to det:num|twenty co|da coord|and pro:sub|we v|get
+	det:num|nine det:num|zero det:num|two det:num|eight .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|MOD 6|7|SUBJ 7|3|PRED 8|7|PRED
+	9|11|LINK 10|11|SUBJ 11|7|CJCT 12|16|MOD 13|16|MOD 14|16|QUANT
+	15|16|QUANT 16|11|PRED 17|16|JCT 18|19|QUANT 19|22|COM 20|22|LINK 21|22|SUBJ
+	22|17|CPOBJ 23|26|DATE 24|25|QUANT 25|26|DATE 26|22|OBJ 27|3|PUNCT
+*S1:	okay +..?
+%mor:	co|okay +..?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	what is the probability that it will take longer than thirty two
+	seconds for a long distance phone call to Australia ?
+%mor:	pro:int|what cop|be&3S det:art|the n|probable&dadj-ITY comp|that
+	pro:per|it mod|will v|take adj|long-CP prep|than det:num|thirty
+	det:num|two n|second-PL prep|for det:art|a adj|long n|distance
+	n|phone n|call prep|to n:prop|Australia ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD
+	9|8|JCT 10|9|JCT 11|13|QUANT 12|13|QUANT 13|10|POBJ 14|8|JCT 15|18|DET
+	16|17|MOD 17|18|MOD 18|19|MOD 19|14|POBJ 20|19|NJCT 21|20|POBJ 22|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	thirty two +...
+%mor:	det:num|thirty det:num|two +...
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S1:	there's thirty two .
+%mor:	pro:exist|there~cop|be&3S det:num|thirty det:num|two .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	again it's the same thing (.) normal CDF (.) the lower bound in
+	this case though is thirty two (.) the upper bound is positive
+	infinity (.) mean is still twenty (.) standard deviation is still
+	five (.) and we get (.) do [x 3] thirty two (.) okay +...
+%mor:	adv|again pro:per|it~cop|be&3S det:art|the adj|same n|thing
+	adv|normal n:prop|CDF det:art|the v|lower n|bound prep|in
+	det:dem|this n|case adv|though aux|be&3S det:num|thirty det:num|two
+	det:art|the adj|upper n|bound cop|be&3S adj|positive n|infinity
+	adj|mean cop|be&3S adv|still det:num|twenty adj|standard
+	n|deviate&dv-TION cop|be&3S adj|still det:num|five coord|and
+	pro:sub|we v|get v|do det:num|thirty det:num|two co|okay +...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|7|POBJ
+	9|11|DET 10|11|MOD 11|3|PRED 12|11|NJCT 13|14|DET 14|12|POBJ 15|17|JCT
+	16|17|AUX 17|18|QUANT 18|21|QUANT 19|21|DET 20|21|MOD 21|22|SUBJ 22|11|CMOD
+	23|24|MOD 24|22|PRED 25|22|PRED 26|31|JCT 27|26|JCT 28|30|QUANT
+	29|30|MOD 30|31|SUBJ 31|25|CMOD 32|31|PRED 33|31|PRED 34|33|CONJ 35|34|COORD
+	36|22|CPRED 37|36|COMP 38|39|QUANT 39|40|QUANT 40|37|OBJ 41|3|PUNCT
+*S1:	&-uh point zero [/] zero eight two .
+%mor:	n|point det:num|zero det:num|eight det:num|two .
+%gra:	1|4|DATE 2|3|QUANT 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	(0.6) what else you guys got ?
+%mor:	pro:int|what post|else pro:per|you n|guy-PL v|get&PAST ?
+%gra:	1|5|LINK 2|1|PQ 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*S1:	give me your best shot .
+%mor:	v|give pro:obj|me det:poss|your adj|good&SP n|shot .
+%gra:	1|0|ROOT 2|1|OBJ2 3|5|DET 4|5|MOD 5|1|OBJ 6|1|PUNCT
+*S1:	fire away (0.15) questions ?
+%mor:	n|fire adv|away n|question-PL ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*S1:	(0.12) .
+*S5:	how about a graphed one at the end ?
+%mor:	pro:int|how prep|about det:art|a part|graph-PASTP det:num|one
+	prep|at det:art|the n|end ?
+%gra:	1|5|LINK 2|5|JCT 3|5|DET 4|5|MOD 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*S1:	which one ?
+%mor:	pro:int|which pro:indef|one ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*S5:	one of those graphed ones at the end ?
+%mor:	det:num|one prep|of det:dem|those v|graph-PAST n|one-PL prep|at
+	det:art|the n|end ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|OBJ 6|1|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*S5:	it might have been in the next chapter .
+%mor:	pro:per|it mod|might aux|have cop|be&PASTP prep|in det:art|the
+	adj|next n|chapter .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*SU3:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	I'm not sure +//.
+%mor:	pro:sub|I~cop|be&1S neg|not adv|sure +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|JCT 5|2|PUNCT
+*S1:	graphed ?
+%mor:	part|graph-PASTP ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S5:	there's some (.) well reading graphs and stuff .
+%mor:	pro:exist|there~cop|be&3S qn|some n|well part|read-PRESP n|graph-PL
+	coord|and n|stuff .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|XMOD 6|5|OBJ 7|6|CONJ
+	8|7|COORD 9|2|PUNCT
+*S1:	oh (.) you mean like reading &-um let's see .
+%mor:	co|oh pro:per|you v|mean prep|like n:gerund|read-PRESP
+	v|let~pro:obj|us v|see .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|ENUM 7|6|OBJ 8|6|COMP
+	9|3|PUNCT
+*S5:	they're probably in like [/] like in nine [/] nine two or something
+	.
+%mor:	pro:sub|they~cop|be&PRES adv|probable&dadj-LY prep|in v|like
+	prep|in det:num|nine det:num|two coord|or pro:indef|something .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|8|CONJ 10|9|COORD 11|2|PUNCT
+*S5:	xxx (0.7) .
+*S1:	do you have a page number maybe on that ?
+%mor:	mod|do pro:per|you v|have det:art|a n|page n|number adv|maybe
+	prep|on pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|3|JCT
+	9|8|POBJ 10|3|PUNCT
+*S5:	&-uh it's four thirty [/] four thirty four +/.
+%mor:	pro:per|it~cop|be&3S det:num|four det:num|four det:num|thirty
+	det:num|four +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DATE 4|6|DATE 5|6|DATE 6|2|PRED 7|2|PUNCT
+*S5:	+, <I think> [?] exercise nine two .
+%mor:	pro:sub|I v|think n|exercise det:num|nine det:num|two .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*S1:	nine two .
+%mor:	det:num|nine det:num|two .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S1:	okay (.) we could do that .
+%mor:	adj|okay pro:sub|we mod|could v|do pro:dem|that .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*S1:	⌊ to &est ⌋ +/.
+%mor:	inf|to +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &{l=READING to estimate the parameter Theta from a given
+	population (.) three different estimators were proposed .
+%mor:	inf|to v|estimate det:art|the n|parameter n:prop|Theta prep|from
+	det:art|a part|give&PASTP n|populate&dv-TION det:num|three
+	adj|different n|estimator-PL aux|be&PAST part|propose-PASTP .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|APP 6|2|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|QUANT 11|12|MOD 12|14|SUBJ 13|14|AUX 14|2|CJCT 15|2|PUNCT
+*S1:	the graphs of the sampling distributions of the three estimators
+	are shown at the right (.) note that the (.) all three graphs have
+	the same scale .
+%mor:	det:art|the n|graph-PL prep|of det:art|the part|sample-PRESP
+	n|distribute&dv-TION-PL prep|of det:art|the det:num|three
+	n|estimator-PL aux|be&PRES part|show&PASTP prep|at det:art|the
+	adj|right n|note pro:rel|that det:art|the qn|all det:num|three
+	n|graph-PL v|have det:art|the adj|same n|scale .
+%gra:	1|2|DET 2|12|SUBJ 3|2|NJCT 4|6|DET 5|6|MOD 6|3|POBJ 7|6|NJCT 8|10|DET
+	9|10|QUANT 10|7|POBJ 11|12|AUX 12|0|ROOT 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|22|LINK 18|21|DET 19|20|QUANT 20|21|QUANT 21|22|SUBJ
+	22|16|CMOD 23|25|DET 24|25|MOD 25|22|OBJ 26|12|PUNCT
+*S1:	which estimators are unbiased ?
+%mor:	pro:int|which n|estimator-PL aux|be&PRES un#part|bias-PASTP ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*S1:	&}l=READING now unbiased means that (.) what is the &definit I [/]
+	I always like saying more often than not <you're getting at> [?] the
+	right answer but (.) .
+%mor:	adv|now un#part|bias-PASTP v|mean-3S pro:dem|that pro:int|what
+	cop|be&3S det:art|the pro:sub|I adv|always co|like part|say-PRESP
+	adv|more adv|often prep|than neg|not pro:per|you~aux|be&PRES
+	part|get-PRESP prep|at det:art|the adj|right n|answer conj|but .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|3|COMP 7|8|DET 8|6|PRED
+	9|11|JCT 10|11|COM 11|8|XMOD 12|18|JCT 13|18|JCT 14|18|JCT 15|14|NEG
+	16|18|SUBJ 17|18|AUX 18|11|COMP 19|18|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|18|JCT 24|3|PUNCT
+*S5:	you're doing nine two ?
+%mor:	pro:per|you~aux|be&PRES part|do-PRESP det:num|nine det:num|two ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*S1:	yeah nine point two (.) page &-uh thirty fifty four .
+%mor:	co|yeah det:num|nine n|point det:num|two n|page det:num|thirty
+	det:num|fifty det:num|four .
+%gra:	1|3|COM 2|3|QUANT 3|8|DATE 4|5|QUANT 5|8|DATE 6|8|QUANT 7|8|DATE
+	8|0|ROOT 9|8|PUNCT
+*S1:	I don't wanna give you guys the wrong answer (.) wrong &-uh
+	definition for biased (.) unbiased sorry +...
+%mor:	pro:sub|I mod|do~neg|not v|want~inf|to v|give pro:per|you n|guy-PL
+	det:art|the adj|wrong n|answer n|wrong n|definition prep|for
+	part|bias-PASTP un#part|bias-PASTP co|sorry +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|6|OBJ
+	9|13|DET 10|11|MOD 11|13|MOD 12|13|MOD 13|8|APP 14|6|JCT 15|14|POBJ
+	16|15|OBJ 17|16|OM 18|4|PUNCT
+*S1:	oh unbiased sure .
+%mor:	co|oh un#part|bias-PASTP adv|sure .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*S1:	&{l=READING a statistic is unbiased if the center of the sampling
+	distribution is equal to the corresponding population parameter
+	value .
+%mor:	det:art|a n|statistic aux|be&3S un#part|bias-PASTP comp|if
+	det:art|the n|center prep|of det:art|the part|sample-PRESP
+	n|distribute&dv-TION aux|be&3S adj|equal prep|to det:art|the
+	part|correspond-PRESP n|populate&dv-TION n|parameter n|value .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|13|LINK 6|7|DET 7|13|SUBJ 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|13|AUX 13|4|COMP 14|13|JCT 15|19|DET
+	16|19|MOD 17|19|MOD 18|19|MOD 19|14|POBJ 20|4|PUNCT
+*S1:	&}l=READING that's the book definition (.) like I say (.) more
+	often than not getting at the right answer .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|book n|definition v|like
+	pro:sub|I v|say adv|more adv|often prep|than neg|not part|get-PRESP
+	prep|at det:art|the adj|right n|answer .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|6|SUBJ 6|2|CPRED 7|8|SUBJ 8|6|COMP
+	9|13|JCT 10|13|JCT 11|13|JCT 12|11|POBJ 13|8|XJCT 14|13|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|2|PUNCT
+*S1:	that's what I (.) my definition of unbiased is .
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:sub|I det:poss|my
+	n|definition prep|of un#part|bias-PASTP cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|9|LINK 4|9|SUBJ 5|6|DET 6|9|SUBJ 7|6|NJCT 8|7|POBJ
+	9|2|PRED 10|2|PUNCT
+*S1:	know the book one though (.) practically (.) I [/] I practically
+	will use the one that I know but (.) book one's more important to
+	know .
+%mor:	v|know det:art|the n|book det:num|one adv|though
+	adv|practical&dadj-LY pro:sub|I adv|practical&dadj-LY mod|will v|use
+	det:art|the pro:indef|one pro:rel|that pro:sub|I v|know conj|but
+	n|book adj|one&dn-POSS adv|more adj|important inf|to v|know .
+%gra:	1|10|LINK 2|3|DET 3|10|SUBJ 4|5|QUANT 5|6|JCT 6|10|JCT 7|10|SUBJ
+	8|10|JCT 9|10|AUX 10|0|ROOT 11|12|DET 12|10|OBJ 13|15|LINK 14|15|SUBJ
+	15|12|CMOD 16|15|CONJ 17|16|COORD 18|17|POSTMOD 19|20|JCT 20|18|POSTMOD
+	21|22|INF 22|20|XMOD 23|10|PUNCT
+*S1:	estimator one (.) as you see the (.) centered right on the
+	parameter (.) so that is unbiased .
+%mor:	n|estimator det:num|one conj|as pro:per|you v|see det:art|the
+	part|center-PASTP adv|right prep|on det:art|the n|parameter adv|so
+	pro:rel|that aux|be&3S un#part|bias-PASTP .
+%gra:	1|2|MOD 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|ROOT 6|7|DET 7|5|OBJ 8|9|JCT
+	9|5|JCT 10|11|DET 11|9|POBJ 12|5|JCT 13|15|LINK 14|15|AUX 15|12|INCROOT
+	16|15|PUNCT
+*S1:	estimator two (.) more often than not (.) we're going to get the
+	right answer .
+%mor:	n|estimator det:num|two adv|more adv|often prep|than neg|not
+	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|get det:art|the
+	adj|right n|answer .
+%gra:	1|2|MOD 2|3|QUANT 3|4|JCT 4|9|JCT 5|9|JCT 6|5|NEG 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|11|INF 11|9|COMP 12|14|DET 13|14|MOD 14|11|OBJ 15|9|PUNCT
+*S1:	that's also unbiased .
+%mor:	pro:rel|that~aux|be&3S adv|also un#part|bias-PASTP .
+%gra:	1|4|LINK 2|4|AUX 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+*S1:	estimator three as you can see (.) the center is not even close to
+	Theta well (.) it's like a unit or two away so that's &un that is
+	biased .
+%mor:	n|estimator det:num|three prep|as pro:per|you mod|can v|see
+	det:art|the n|center cop|be&3S neg|not adv|even adj|close prep|to
+	n:prop|Theta adv|well pro:per|it~cop|be&3S conj|like det:art|a
+	n|unit coord|or det:num|two adv|away conj|so pro:dem|that~cop|be&3S
+	pro:rel|that aux|be&3S part|bias-PASTP .
+%gra:	1|2|MOD 2|6|SUBJ 3|2|JCT 4|3|POBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|9|SUBJ
+	9|6|COMP 10|9|NEG 11|12|JCT 12|9|PRED 13|12|JCT 14|13|POBJ 15|17|JCT
+	16|17|SUBJ 17|12|CMOD 18|17|JCT 19|20|DET 20|18|POBJ 21|20|CONJ 22|23|QUANT
+	23|21|COORD 24|26|LINK 25|26|SUBJ 26|20|CMOD 27|29|LINK 28|29|AUX
+	29|26|CPRED 30|6|PUNCT
+*S1:	so estimator three is biased (.) one and two are not biased .
+%mor:	co|so n|estimator det:num|three aux|be&3S part|bias-PASTP
+	det:num|one coord|and det:num|two aux|be&PRES neg|not
+	part|bias-PASTP .
+%gra:	1|3|COM 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|11|SUBJ 7|6|CONJ 8|7|COORD
+	9|11|AUX 10|9|NEG 11|5|COMP 12|5|PUNCT
+*S1:	of estimators one and two (.) which would you select and why +..?
+%mor:	prep|of n|estimator-PL det:num|one coord|and det:num|two
+	pro:rel|which mod|will&COND pro:per|you adj|select coord|and
+	pro:rel|why +..?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|3|CONJ 5|4|COORD 6|9|LINK 7|9|AUX
+	8|9|SUBJ 9|3|CMOD 10|9|CONJ 11|10|COORD 12|1|PUNCT
+*S1:	well we know they're both unbiased (.) so now we wanna probably
+	have to take the one with less variability .
+%mor:	co|well pro:sub|we v|know pro:sub|they~aux|be&PRES qn|both
+	un#part|bias-PASTP adv|so adv|now pro:sub|we v|want~inf|to
+	adv|probable&dadj-LY v|have inf|to v|take det:art|the det:num|one
+	prep|with adj|less n|vary&dadj-ABLE-ITY .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|QUANT 7|3|COMP 8|9|JCT
+	9|7|JCT 10|11|SUBJ 11|3|CJCT 12|14|INF 13|14|JCT 14|11|COMP 15|16|INF
+	16|14|COMP 17|18|DET 18|16|OBJ 19|18|JCT 20|21|MOD 21|19|POBJ 22|3|PUNCT
+*S1:	that would be (.) that's always the two key things we want in an
+	estimator .
+%mor:	pro:dem|that mod|will&COND cop|be pro:rel|that~cop|be&3S adv|always
+	det:art|the det:num|two n|key n|thing-PL pro:sub|we v|want prep|in
+	det:art|a n|estimator .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|LINK 5|3|PRED 6|5|JCT 7|10|DET 8|9|QUANT
+	9|10|MOD 10|6|POBJ 11|12|SUBJ 12|10|CMOD 13|12|JCT 14|15|DET 15|13|POBJ
+	16|3|PUNCT
+*S1:	we want it to be (.) &{l=WRITING unbiased and low variability +...
+%mor:	pro:sub|we v|want pro:per|it inf|to cop|be un#part|bias-PASTP
+	coord|and adj|low n|vary&dadj-ABLE-ITY +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|PRED 7|6|CONJ 8|9|MOD
+	9|7|COORD 10|2|PUNCT
+*S1:	&}l=WRITING that's the two &th key things in an estimator to have .
+%mor:	pro:dem|that~cop|be&3S det:art|the det:num|two n|key n|thing-PL
+	prep|in det:art|a n|estimator inf|to v|have .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|QUANT 5|6|MOD 6|2|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|11|INF 11|6|XMOD 12|2|PUNCT
+*S1:	now again we measured variability (.) as the standard deviation of
+	variance by how far away the [/] &-uh the all the &-uh parameter the
+	&-uh xxx all the &-uh estimates mkay (.) are away from the mean$n .
+%mor:	adv|now adv|again pro:sub|we v|measure-PAST n|vary&dadj-ABLE-ITY
+	prep|as det:art|the adj|standard n|deviate&dv-TION prep|of
+	n|variance prep|by pro:rel|how adj|far adv|away det:art|the adv|all
+	det:art|the n|parameter det:art|the adv|all det:art|the
+	n|estimate-PL co|mkay cop|be&PRES adv|away prep|from det:art|the
+	n|mean .
+%gra:	1|4|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|10|POBJ 12|4|JCT 13|14|JCT 14|19|MOD 15|19|JCT
+	16|19|DET 17|19|JCT 18|19|DET 19|12|POBJ 20|23|DET 21|23|JCT 22|23|DET 23|19|APP
+	24|25|COM 25|23|CMOD 26|25|JCT 27|25|JCT 28|29|DET 29|27|POBJ
+	30|4|PUNCT
+*S1:	so how far away is everything away from the mean$n ?
+%mor:	co|so pro:rel|how adj|far adv|away aux|be&3S pro:indef|everything
+	adv|away prep|from det:art|the n|mean ?
+%gra:	1|6|COM 2|3|JCT 3|6|SUBJ 4|3|JCT 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+*S1:	and in this case (.) as we see (.) for estimator one (.) which
+	looks like a normal curve +...
+%mor:	coord|and prep|in det:dem|this n|case conj|as pro:sub|we v|see
+	prep|for n|estimator det:num|one pro:rel|which v|look-3S prep|like
+	det:art|a adj|normal n|curve +...
+%gra:	1|10|LINK 2|10|JCT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|SUBJ 7|10|CJCT 8|7|JCT
+	9|8|POBJ 10|0|ROOT 11|12|LINK 12|10|CMOD 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|10|PUNCT
+*S1:	&=writes:board okay (.) and estimator two was like &=sound_effect
+	okay ?
+%mor:	co|okay coord|and n|estimator det:num|two aux|be&PAST&13S co|like
+	co|okay ?
+%gra:	1|5|COM 2|1|CONJ 3|2|COORD 4|5|QUANT 5|0|ROOT 6|5|COM 7|5|COM 8|5|PUNCT
+*S1:	which one has more values closer to the mean$n ?
+%mor:	pro:int|which pro:indef|one aux|have&3S qn|more n|value-PL
+	adj|close-CP prep|to det:art|the n|mean ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|QUANT 5|0|INCROOT 6|5|PRED 7|6|JCT
+	8|9|DET 9|7|POBJ 10|5|PUNCT
+*S1:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	which has less variability ?
+%mor:	pro:int|which aux|have&3S adj|less n|vary&dadj-ABLE-ITY ?
+%gra:	1|4|LINK 2|4|AUX 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*S1:	this guy does .
+%mor:	det:dem|this n|guy mod|do&3S .
+%gra:	1|2|DET 2|0|INCROOT 3|2|ENUM 4|2|PUNCT
+*S1:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	(be)cause here we have these guys spread far apart from the mean$n
+	and here we have a_lot centered (.) clustered right around the
+	mean$n .
+%mor:	conj|because adv|here pro:sub|we v|have det:dem|these n|guy-PL
+	v|spread&ZERO adv|far adv|apart prep|from det:art|the n|mean
+	coord|and adv|here pro:sub|we v|have adv|a_lot part|center-PASTP
+	v|cluster-PAST adv|right prep|around det:art|the n|mean .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|7|CJCT 5|6|DET 6|7|SUBJ 7|0|ROOT 8|9|JCT
+	9|7|JCT 10|7|JCT 11|12|DET 12|10|POBJ 13|7|CONJ 14|16|JCT 15|16|SUBJ
+	16|13|COORD 17|16|JCT 18|19|XJCT 19|16|COMP 20|21|JCT 21|19|JCT 22|23|DET
+	23|21|POBJ 24|7|PUNCT
+*S1:	so &s estimator one has less variability .
+%mor:	co|so n|estimator det:num|one aux|have&3S adj|less
+	n|vary&dadj-ABLE-ITY .
+%gra:	1|3|COM 2|3|MOD 3|6|SUBJ 4|6|AUX 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*S1:	therefore (.) it would probably be the one you would select .
+%mor:	adv|therefore pro:per|it mod|will&COND adv|probable&dadj-LY cop|be
+	det:art|the pro:indef|one pro:per|you mod|will&COND v|select .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|DET 7|5|PRED 8|10|SUBJ
+	9|10|AUX 10|7|CMOD 11|5|PUNCT
+*S1:	because it has less variability .
+%mor:	conj|because pro:per|it aux|have&3S adj|less n|vary&dadj-ABLE-ITY .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*S1:	part C .
+%mor:	n|part n:prop|C .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*S1:	which estimator has the smallest variability ?
+%mor:	pro:rel|which n|estimator v|have&3S det:art|the adj|small-SP
+	n|vary&dadj-ABLE-ITY ?
+%gra:	1|2|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*S1:	and that's the one where it's tightly &cru clustered around its
+	mean .
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|the pro:indef|one
+	pro:rel|where pro:per|it~aux|be&3S adv|tight&dadj-LY
+	part|cluster-PASTP prep|around det:poss|its adj|mean .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|10|LINK 7|10|SUBJ
+	8|10|AUX 9|10|JCT 10|5|CMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so in this case estimator three (.) as you can see (.) the values
+	even though it's not on target (.) it's tightly clustered around
+	where it is on target for .
+%mor:	adv|so prep|in det:dem|this n|case n|estimator det:num|three
+	prep|as pro:per|you mod|can v|see det:art|the n|value-PL adv|even
+	adv|though pro:per|it~cop|be&3S neg|not prep|on n|target
+	pro:per|it~aux|be&3S adv|tight&dadj-LY part|cluster-PASTP
+	prep|around pro:int|where pro:per|it cop|be&3S prep|on n|target
+	prep|for .
+%gra:	1|2|JCT 2|10|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|10|SUBJ 7|6|NJCT 8|7|POBJ
+	9|10|AUX 10|0|ROOT 11|12|DET 12|10|OBJ 13|14|JCT 14|16|JCT 15|16|SUBJ
+	16|10|COMP 17|16|NEG 18|16|JCT 19|18|POBJ 20|23|SUBJ 21|23|AUX 22|23|JCT
+	23|16|XJCT 24|23|JCT 25|27|LINK 26|27|SUBJ 27|24|CPOBJ 28|27|JCT
+	29|28|POBJ 30|27|JCT 31|10|PUNCT
+*S1:	so that estimator has the lowest variability .
+%mor:	adv|so det:dem|that n|estimator v|have&3S det:art|the adj|low-SP
+	n|vary&dadj-ABLE-ITY .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*S1:	(0.5) .
+*SUF:	is that C (.) wait was that C ?
+%mor:	cop|be&3S comp|that n:prop|C v|wait cop|be&PAST&13S pro:rel|that
+	n:prop|C ?
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|CPRED 5|4|COMP 6|7|LINK 7|5|PRED
+	8|1|PUNCT
+*S1:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	estimator three has the lowest (.) overall variability (.) even
+	though it might not be on target .
+%mor:	n|estimator det:num|three v|have&3S det:art|the adj|low-SP
+	adj|overall n|vary&dadj-ABLE-ITY adv|even adv|though pro:per|it
+	mod|might neg|not cop|be prep|on n|target .
+%gra:	1|3|SUBJ 2|3|QUANT 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|9|JCT
+	9|13|JCT 10|13|SUBJ 11|13|AUX 12|11|NEG 13|3|COMP 14|13|JCT 15|14|POBJ
+	16|3|PUNCT
+*S1:	or wholly on target .
+%mor:	coord|or adv|whole&dadj-LY prep|on n|target .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*S1:	&{l=READING based on the sampling distributions which estimator is
+	the best estimator of Theta ?
+%mor:	v|base-PAST prep|on det:art|the part|sample-PRESP
+	n|distribute&dv-TION-PL det:int|which n|estimator cop|be&3S
+	det:art|the adj|good&SP n|estimator prep|of n:prop|Theta ?
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|8|LINK 7|8|SUBJ 8|1|CJCT
+	9|11|DET 10|11|MOD 11|8|PRED 12|11|NJCT 13|12|POBJ 14|1|PUNCT
+*S1:	&}l=READING now (.) and again we want (.) an unbiased estimator and
+	we want low variability .
+%mor:	adv|now coord|and adv|again pro:sub|we v|want det:art|a
+	un#part|bias-PASTP n|estimator coord|and pro:sub|we v|want n|low
+	n|vary&dadj-ABLE-ITY .
+%gra:	1|5|JCT 2|1|CONJ 3|2|COORD 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|11|LINK 10|11|SUBJ 11|5|CJCT 12|13|MOD 13|11|OBJ 14|5|PUNCT
+*S1:	so (.) if we get to be really concerned about low variability (.)
+	we'd probably pick estimator three even though it's a little bit
+	biased .
+%mor:	adv|so conj|if pro:sub|we v|get inf|to cop|be adv|real&dadj-LY
+	v|concern-PAST prep|about n|low n|vary&dadj-ABLE-ITY
+	pro:sub|we~mod|genmod adv|probable&dadj-LY v|pick n|estimator
+	det:num|three adv|even adv|though pro:per|it~cop|be&3S det:art|a
+	adj|little n|bit part|bias-PASTP .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|JCT 8|6|PRED
+	9|8|JCT 10|11|MOD 11|9|POBJ 12|15|SUBJ 13|15|AUX 14|15|JCT 15|8|CJCT
+	16|17|MOD 17|15|OBJ 18|19|JCT 19|21|JCT 20|21|SUBJ 21|15|CJCT 22|24|DET
+	23|24|MOD 24|21|PRED 25|24|XMOD 26|4|PUNCT
+*S1:	but if we wanted unbiasedness (.) we'd probably pick estimator one
+	.
+%mor:	conj|but conj|if pro:sub|we v|want-PAST un#n|bias&dadj-PASTP-NESS
+	pro:sub|we~mod|genmod adv|probable&dadj-LY v|pick n|estimator
+	det:num|one .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CPOBJ 5|4|OBJ 6|9|SUBJ 7|9|AUX
+	8|9|JCT 9|5|CMOD 10|11|MOD 11|9|OBJ 12|1|PUNCT
+*S1:	because it's got +//.
+%mor:	conj|because pro:per|it~aux|be&3S part|get&PASTP +//.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*S1:	it's on target (.) it's unbiased but (.) although it has high
+	variability .
+%mor:	pro:per|it~aux|be&3S prep|on n|target pro:per|it~aux|be&3S
+	un#part|bias-PASTP conj|but conj|although pro:per|it aux|have&3S
+	adj|high n|vary&dadj-ABLE-ITY .
+%gra:	1|7|SUBJ 2|7|AUX 3|7|JCT 4|3|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|CONJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|13|MOD 13|8|COORD 14|7|PUNCT
+*S1:	so that's kind_of like a toss up question .
+%mor:	co|so pro:rel|that~cop|be&3S adv|kind_of co|like det:art|a n|toss
+	adv|up n|question .
+%gra:	1|3|COM 2|3|LINK 3|0|ROOT 4|3|JCT 5|3|COM 6|7|DET 7|3|PRED 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*S1:	which [/] which do you think is more important ?
+%mor:	pro:int|which mod|do pro:per|you v|think aux|be&3S adv|more
+	adj|important ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|JCT 7|5|PRED 8|4|PUNCT
+*S1:	to have low variability (.) or to have unbiasedness .
+%mor:	inf|to v|have n|low n|vary&dadj-ABLE-ITY coord|or inf|to v|have
+	un#n|bias&dadj-PASTP-NESS .
+%gra:	1|2|INF 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|CONJ 6|7|INF 7|5|COORD 8|7|COMP
+	9|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so (.) you can answer that question (.) any particular way you
+	choose .
+%mor:	co|so pro:per|you mod|can v|answer det:dem|that n|question qn|any
+	n|particular n|way pro:per|you v|choose .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|QUANT 8|9|MOD
+	9|11|JCT 10|11|SUBJ 11|6|CMOD 12|4|PUNCT
+*S1:	as long as you make a good (.) rational argument (.) for it .
+%mor:	prep|as adv|long prep|as pro:per|you v|make det:art|a adj|good
+	adj|ration&dn-AL n|argue&dv-MENT prep|for pro:per|it .
+%gra:	1|2|COORD 2|5|JCT 3|4|COORD 4|5|SUBJ 5|0|ROOT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|OBJ 10|5|JCT 11|10|POBJ 12|5|PUNCT
+*S1:	(0.6) okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	you guys have class now .
+%mor:	pro:per|you n|guy-PL v|have n|class adv|now .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*S1:	enjoy [/] enjoy lab (.) sure .
+%mor:	v|enjoy n|lab adv|sure .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*S1:	somehow I forgot almost everything .
+%mor:	adv|somehow pro:sub|I v|forget&PAST adv|almost pro:indef|everything
+	.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*S1:	xxx (0.6) I don't know I [/] I think I lost everything else .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:sub|I v|think pro:sub|I
+	v|lose&PAST pro:indef|everything post|else .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|SUBJ 8|4|CJCT
+	9|8|OBJ 10|9|PQ 11|4|PUNCT
+*S1:	I have everything else somewhere .
+%mor:	pro:sub|I v|have pro:indef|everything post|else adv|somewhere .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|PQ 5|2|JCT 6|2|PUNCT
+*S1:	I'll give it to you by Wednesday for your quiz .
+%mor:	pro:sub|I~mod|will v|give pro:per|it prep|to pro:per|you prep|by
+	n:prop|Wednesday prep|for det:poss|your n|quiz .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|JCT 8|7|POBJ
+	9|3|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*S1:	don't forget to turn your quizzes in to me (.) so that I know you
+	were here today .
+%mor:	mod|do~neg|not v|forget inf|to v|turn det:poss|your v|quiz-3S
+	adv|in inf|to pro:obj|me conj|so comp|that pro:sub|I v|know
+	pro:per|you cop|be&PAST adv|here adv:tem|today .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|COMP 8|7|JCT
+	9|10|INF 10|8|POBJ 11|3|JCT 12|14|LINK 13|14|SUBJ 14|11|CPOBJ 15|16|SUBJ
+	16|14|COMP 17|18|JCT 18|16|PRED 19|3|PUNCT
+*S1:	thank you .
+%mor:	v|thank pro:per|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*S1:	xxx .
+@End

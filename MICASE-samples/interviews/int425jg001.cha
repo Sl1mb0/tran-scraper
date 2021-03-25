@@ -1,0 +1,3311 @@
+@UTF8
+@PID:	11312/a-00010140-1
+@Begin
+@Languages:	eng
+@Participants:	S1 Interviewer Investigator, S2 Interviewee Participant, SS
+	Unknown Unidentified
+@ID:	eng|MICASE|S1|36;|female|NS||Investigator|JF||
+@ID:	eng|MICASE|S2|27;|male|NS||Participant|JG||
+@ID:	eng|MICASE|SS|||NS||Unidentified|UN||
+@Media:	int425jg001, audio, unlinked
+@Date:	25-APR-1997
+@Situation:	Interviewer's Office, English Language Institute
+*S2:	&=first_1:14_speech_not_transcribed I think he's getting more
+	comfortable +/.
+%mor:	pro:sub|I v|think pro:sub|he~aux|be&3S part|get-PRESP adv|more
+	adj|comfort&dv-ABLE +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|JCT 7|5|PRED 8|2|PUNCT
+*S1:	⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ talking ⌋ (be)cause he's talking +/.
+%mor:	part|talk-PRESP conj|because pro:sub|he~aux|be&3S part|talk-PRESP
+	+/.
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|1|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ more ⌋ &-uh certainly (.) with our group &-um +...
+%mor:	adv|more adv|certain&dadj-LY prep|with det:poss|our n|group +...
+%gra:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*S2:	but his phrasing (.) before he used to say sort_of (.) start
+	everything with for example +/.
+%mor:	conj|but det:poss|his n:gerund|phrase-PRESP conj|before pro:sub|he
+	v|use-PAST inf|to v|say adv|sort_of v|start pro:indef|everything
+	prep|with prep|for ex#adj|ample +/.
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|8|INF 8|6|COMP
+	9|10|JCT 10|8|COMP 11|10|OBJ 12|10|JCT 13|12|POBJ 14|13|POBJ 15|3|PUNCT
+*S1:	+, &=laughs uhuh ⌈ uhuh ⌉ +/.
+%mor:	co|uhuh co|uhuh +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	+, ⌊ and ⌋ and [/] and he stopped doing that +/.
+%mor:	coord|and coord|and pro:sub|he v|stop-PAST part|do-PRESP comp|that
+	+/.
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|OBJ 7|4|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	&=laughs &-um so (.) I think +...
+%mor:	co|so pro:sub|I v|think +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S2:	his responses are (.) to questions are getting &-um +...
+%mor:	det:poss|his n|response-PL cop|be&PRES prep|to n|question-PL
+	cop|be&PRES n:gerund|get-PRESP +...
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PRED 7|6|PRED 8|3|PUNCT
+*S2:	sort of +...
+%mor:	n|sort prep|of +...
+%gra:	1|0|INCROOT 2|1|NJCT 3|1|PUNCT
+*S2:	it sounds like they're coming easier to him +/.
+%mor:	pro:per|it v|sound-3S co|like pro:sub|they~aux|be&PRES
+	part|come-PRESP adj|ease&dn-Y-CP inf|to pro:obj|him +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|6|SUBJ 5|6|AUX 6|2|XJCT 7|6|JCT 8|9|INF
+	9|7|XMOD 10|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um he doesn't hafta +...
+%mor:	pro:sub|he mod|do&3S~neg|not mod|have~inf|to +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OM 6|4|PUNCT
+*S2:	sorta stop and think about what he hasta say +/.
+%mor:	adv|sorta n|stop coord|and v|think prep|about pro:int|what
+	pro:sub|he mod|have&3S~inf|to v|say +/.
+%gra:	1|2|JCT 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|4|JCT 6|10|LINK 7|10|SUBJ
+	8|10|AUX 9|10|INF 10|5|CPOBJ 11|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um it seems to flow a little bit (.) better +/.
+%mor:	pro:per|it cop|seem-3S inf|to v|flow det:art|a adj|little n|bit
+	adj|good&CP +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|DET 6|7|MOD 7|4|JCT 8|7|POSTMOD
+	9|2|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	I'm just trying to think back I took Spanish for four years in high
+	school +/.
+%mor:	pro:sub|I~aux|be&1S adv|just part|try-PRESP inf|to v|think adj|back
+	pro:sub|I v|take&PAST n:prop|Spanish prep|for det:num|four n|year-PL
+	prep|in adj|high n|school +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|SUBJ
+	9|4|CJCT 10|9|OBJ 11|9|JCT 12|13|QUANT 13|11|POBJ 14|13|NJCT 15|16|MOD
+	16|14|POBJ 17|4|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and (.) you know I'd certainly have to sit there (.) and think
+	of what I wanted to say (.) and then think of how to translate it
+	+/.
+%mor:	coord|and pro:per|you v|know pro:sub|I~mod|genmod
+	adv|certain&dadj-LY v|have inf|to v|sit adv|there coord|and v|think
+	prep|of pro:int|what pro:sub|I v|want-PAST inf|to v|say coord|and
+	adv:tem|then v|think prep|of pro:int|how inf|to v|translate
+	pro:per|it +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|JCT 7|3|COMP 8|9|INF
+	9|7|COMP 10|9|JCT 11|9|CONJ 12|11|COORD 13|12|JCT 14|16|LINK 15|16|SUBJ
+	16|13|CPOBJ 17|18|INF 18|16|COMP 19|18|CONJ 20|21|JCT 21|19|COORD
+	22|21|JCT 23|25|LINK 24|25|INF 25|22|CPOBJ 26|25|OBJ 27|3|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and then say it +/.
+%mor:	coord|and adv:tem|then v|say pro:per|it +/.
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and it seems +/.
+%mor:	coord|and pro:per|it cop|seem-3S +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, like (.) that process for him +...
+%mor:	prep|like pro:dem|that v|process prep|for pro:obj|him +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*S2:	is easier +/.
+%mor:	aux|be&3S adj|ease&dn-Y-CP +/.
+%gra:	1|0|INCROOT 2|1|PRED 3|1|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ &an ⌋ and faster now +/.
+%mor:	coord|and adj|fast-CP adv|now +/.
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|1|PUNCT
+*S1:	+, mhm +...
+%mor:	co|mhm=yes +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, I mean &an &an and I don't know if he's at the point where he
+	just talks and it just comes out +...
+%mor:	pro:sub|I v|mean coord|and pro:sub|I mod|do~neg|not v|know comp|if
+	pro:sub|he~cop|be&3S prep|at det:art|the n|point pro:rel|where
+	pro:sub|he adv|just n|talk-PL coord|and pro:per|it adv|just
+	v|come-3S adv|out +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|CJCT 8|10|LINK
+	9|10|SUBJ 10|7|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|17|LINK 15|17|SUBJ
+	16|17|JCT 17|13|CMOD 18|21|LINK 19|21|SUBJ 20|21|JCT 21|17|CMOD
+	22|21|JCT 23|2|PUNCT
+*S2:	in English (.) but (0.10) .
+%mor:	prep|in n:prop|English conj|but .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|POBJ 4|1|PUNCT
+*S1:	yeah &=possible_stop/RESTART_IN_AUDIO_TAPE
+	&=pause_while_playing_videotape .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	okay (.) &=video_stops .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	this [/] this is the topic +/.
+%mor:	pro:dem|this cop|be&3S det:art|the n|topic +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*S2:	okay (.) ⌈ yeah ⌉ +/.
+%mor:	co|okay co|yeah +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	+, ⌊ see ⌋ (.) this is the first time around xxx
+	&=pause_while_playing_videotape .
+%mor:	co|see det:dem|this cop|be&3S det:art|the adj|first n|time
+	adv|around .
+%gra:	1|3|COM 2|3|DET 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|3|PUNCT
+*S1:	sorry I didn't get the chance to grope around like +/.
+%mor:	adj|sorry pro:sub|I mod|do&PAST~neg|not v|get det:art|the n|chance
+	inf|to v|grope prep|around prep|like +/.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|INF
+	9|5|XJCT 10|9|JCT 11|9|JCT 12|5|PUNCT
+*S2:	⌈ no ⌉ +/.
+%mor:	co|no +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ this ⌋ on my time .
+%mor:	pro:dem|this prep|on det:poss|my n|time .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*S2:	no it's okay +...
+%mor:	co|no pro:per|it~cop|be&3S adj|okay +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S2:	it's +...
+%mor:	pro:per|it~cop|be&3S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S2:	I know for you it's a hectic time of the year +/.
+%mor:	pro:sub|I v|know prep|for pro:per|you pro:per|it~cop|be&3S
+	det:art|a adj|hectic n|time prep|of det:art|the n|year +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|6|SUBJ 6|2|CJCT 7|9|DET 8|9|MOD
+	9|6|PRED 10|9|NJCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*S2:	yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, (0.8) you had said at one point that we thought we'd take about
+	an hour and a half ?
+%mor:	pro:per|you aux|have&PAST part|say&PASTP prep|at det:num|one
+	n|point pro:rel|that pro:sub|we v|think&PAST pro:sub|we~mod|genmod
+	v|take prep|about det:art|a n|hour coord|and det:art|a n|half ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|12|SUBJ 11|12|AUX 12|9|COMP 13|12|JCT 14|15|DET 15|13|POBJ
+	16|15|CONJ 17|18|DET 18|16|COORD 19|3|PUNCT
+*S2:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um that [/] that would be good ⌈ xxx I [/] I ⌉ .
+%mor:	pro:dem|that mod|will&COND cop|be adj|good pro:sub|I .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PRED 6|3|PUNCT
+*S1:	⌊ xxx okay ⌋ ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	yeah &-um but (.) not &a certainly not any longer +/.
+%mor:	co|yeah conj|but neg|not adv|certain&dadj-LY neg|not qn|any
+	adv|long-CP +/.
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|NEG 4|6|JCT 5|4|NEG 6|7|QUANT 7|2|COORD
+	8|1|PUNCT
+*S1:	okay +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, I've gotta &-um +...
+%mor:	pro:sub|I~aux|have mod|got~inf|to +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OM 5|3|PUNCT
+*S2:	big project I have to turn in this afternoon xxx a little bit more
+	work to <go on it> [?] +/.
+%mor:	adj|big n|project pro:sub|I v|have prep|to n|turn prep|in
+	det:dem|this n|afternoon det:art|a adj|little n|bit qn|more n|work
+	inf|to v|go prep|on pro:per|it +/.
+%gra:	1|2|MOD 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|4|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|12|DET 11|12|MOD 12|4|JCT 13|14|QUANT 14|12|OBJ 15|16|INF
+	16|14|XMOD 17|16|JCT 18|17|POBJ 19|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &=pause_while_viewing_videotape .
+*S2:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	this is a definite second time +/.
+%mor:	pro:dem|this cop|be&3S det:art|a adj|definite adj|second n|time +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+*S1:	okay +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, (0.6) .
+*S1:	so (.) &y you wanted to make sure that he knew (.) that you were
+	(.) seriously considering not doing it .
+%mor:	co|so pro:per|you v|want-PAST inf|to v|make adv|sure pro:rel|that
+	pro:sub|he v|know&PAST comp|that pro:per|you aux|be&PAST
+	adv|serious&dadj-LY part|consider-PRESP neg|not part|do-PRESP
+	pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|14|LINK 11|14|SUBJ 12|14|AUX 13|14|JCT 14|9|COMP 15|14|NEG
+	16|14|XJCT 17|16|OBJ 18|3|PUNCT
+*S1:	⌈ or ⌉ .
+%mor:	coord|or .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	⌊ or ⌋ (.) or cutting it back +/.
+%mor:	coord|or coord|or part|cut-PRESP pro:per|it adv|back +/.
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|3|JCT 6|1|PUNCT
+*S1:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and I just wanted to make +/.
+%mor:	coord|and pro:sub|I adv|just part|want-PASTP inf|to v|make +/.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ sure ⌋ that he had the same sense of (.) scale <for their> [?]
+	education +/.
+%mor:	adj|sure comp|that pro:sub|he v|have&PAST det:art|the adj|same
+	n|sense prep|of n|scale prep|for det:poss|their n|educate&dv-TION
+	+/.
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|7|NJCT 11|12|DET 12|10|POBJ 13|1|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ that ⌋ the rest of us did +/.
+%mor:	comp|that det:art|the n|rest prep|of pro:obj|us v|do&PAST +/.
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|PUNCT
+*S1:	+, yeah [/] yeah okay +/.
+%mor:	co|yeah co|okay +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	(be)cause I [/] I +...
+%mor:	conj|because pro:sub|I +...
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*S2:	I was pretty sure that it [/] it was important to him but I didn't
+	know how important &i it [/] it was to him +/.
+%mor:	pro:sub|I cop|be&PAST&13S adv|pretty adj|sure comp|that pro:per|it
+	cop|be&PAST&13S adj|important prep|to pro:obj|him conj|but pro:sub|I
+	mod|do&PAST~neg|not v|know pro:int|how adj|important pro:per|it
+	cop|be&PAST&13S prep|to pro:obj|him +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|7|PRED
+	9|7|JCT 10|9|POBJ 11|15|LINK 12|15|SUBJ 13|15|AUX 14|13|NEG 15|2|CJCT
+	16|17|JCT 17|19|PRED 18|19|SUBJ 19|15|COMP 20|19|JCT 21|20|POBJ 22|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, yeah [/] yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, (0.8) .
+*S1:	okay &=video_tape_stops let's stop this for a minute and I'll &-um
+	ask you some questions +/.
+%mor:	co|okay v|let~pro:obj|us v|stop pro:dem|this prep|for det:art|a
+	n|minute coord|and pro:sub|I~mod|will v|ask pro:per|you qn|some
+	n|question-PL +/.
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|2|CJCT 13|12|OBJ2 14|15|QUANT 15|12|OBJ
+	16|2|PUNCT
+*S2:	⌈ okay ⌉ +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ and ⌋ then we can &-uh &w well we can talk a little bit about
+	your participation and (.) kinda role in [/] &th in these group
+	meetings +/.
+%mor:	coord|and adv:tem|then pro:sub|we mod|can adv|well pro:sub|we
+	mod|can v|talk det:art|a adj|little n|bit prep|about det:poss|your
+	n|participate&dv-TION coord|and adv|kinda n|role prep|in
+	det:dem|these n|group n:gerund|meet-PRESP-PL +/.
+%gra:	1|8|LINK 2|8|JCT 3|8|SUBJ 4|8|AUX 5|8|JCT 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|11|DET 10|11|MOD 11|8|OBJ 12|8|JCT 13|14|DET 14|12|POBJ 15|14|CONJ
+	16|17|JCT 17|15|COORD 18|17|NJCT 19|20|DET 20|18|POBJ 21|17|APP 22|8|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, and then maybe we could just (.) look at it a little bit from
+	that point of view +/.
+%mor:	coord|and adv:tem|then adv|maybe pro:sub|we mod|could adv|just
+	v|look prep|at pro:per|it det:art|a adj|little n|bit prep|from
+	det:dem|that n|point prep|of n|view +/.
+%gra:	1|7|LINK 2|7|JCT 3|7|JCT 4|7|SUBJ 5|7|AUX 6|7|JCT 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|12|DET 11|12|MOD 12|7|JCT 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|16|POBJ 18|7|PUNCT
+*S1:	+, okay +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, to see what it is that you're doing +/.
+%mor:	inf|to v|see pro:int|what pro:per|it cop|be&3S adv|that
+	pro:per|you~aux|be&PRES part|do-PRESP +/.
+%gra:	1|2|INF 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|9|JCT 7|9|SUBJ 8|9|AUX
+	9|5|CPRED 10|2|PUNCT
+*S1:	+, okay +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &-um it might be kinda interesting &=break_in_recording I [/] I
+	have a feeling you haven't seen yourself on video tape before is
+	that true ?
+%mor:	pro:per|it mod|might cop|be adv|kinda adj|interesting pro:sub|I
+	v|have det:art|a n:gerund|feel-PRESP pro:per|you aux|have~neg|not
+	part|see&PASTP pro:refl|yourself prep|on n|video n|tape conj|before
+	aux|be&3S adv|that n|true ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|PRED 6|7|SUBJ 7|3|CJCT 8|9|DET
+	9|21|SUBJ 10|13|SUBJ 11|13|AUX 12|11|NEG 13|21|XJCT 14|13|OBJ 15|13|JCT
+	16|17|MOD 17|15|POBJ 18|21|SUBJ 19|21|AUX 20|21|JCT 21|7|JCT 22|3|PUNCT
+*S1:	or (.) ⌈ or have you ⌉ ?
+%mor:	coord|or coord|or v|have pro:per|you ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|1|PUNCT
+*S2:	⌊ I ⌋ (.) not a_lot +/.
+%mor:	pro:sub|I neg|not adv|a_lot +/.
+%gra:	1|3|SUBJ 2|1|NEG 3|0|ROOT 4|3|PUNCT
+*S1:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and not recently +/.
+%mor:	coord|and neg|not adv|recent&dadj-LY +/.
+%gra:	1|3|LINK 2|3|NEG 3|0|INCROOT 4|3|PUNCT
+*S1:	+, yeah (.) ⌈ yeah ⌉ +/.
+%mor:	co|yeah co|yeah +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	+, ⌊ &-um ⌋ so and certainly not in [/] in this sort_of setting +/.
+%mor:	co|so coord|and adv|certain&dadj-LY neg|not adv|in det:dem|this
+	adv|sort_of part|set-PRESP +/.
+%gra:	1|8|COM 2|1|CONJ 3|5|JCT 4|3|NEG 5|2|COORD 6|8|DET 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &=laughs okay +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&-um yeah (.) tell me (.) where you're from .
+%mor:	co|yeah v|tell pro:obj|me pro:int|where pro:per|you~cop|be&PRES
+	prep|from .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|6|LINK 5|6|SUBJ 6|2|COMP 7|6|JCT 8|2|PUNCT
+*S2:	okay &-um I'm from Pennsylvania +/.
+%mor:	co|okay pro:sub|I~cop|be&1S prep|from n:prop|Pennsylvania +/.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*S1:	⌈ uhuh ⌉ +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ &outs ⌋ outside of Philadelphia +...
+%mor:	n|outside prep|of n:prop|Philadelphia +...
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*S2:	and &-um sorta (.) about &=40 miles outside of it it's rural (.)
+	relatively rural (.) sort_of area well it's +/.
+%mor:	coord|and adv|sorta prep|about n|mile-PL adv|outside prep|of
+	pro:per|it pro:per|it~cop|be&3S adj|rural adv|relative&dadj-LY
+	adj|rural adv|sort_of n|area adv|well pro:per|it~cop|be&3S +/.
+%gra:	1|9|LINK 2|9|JCT 3|5|JCT 4|3|POBJ 5|9|JCT 6|9|JCT 7|6|POBJ 8|9|SUBJ
+	9|0|ROOT 10|14|MOD 11|12|JCT 12|14|MOD 13|14|JCT 14|17|SUBJ 15|17|JCT
+	16|17|SUBJ 17|9|PRED 18|9|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, not +//.
+%mor:	neg|not +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	it used to be rural it's getting more (.) built up but &-um +/.
+%mor:	pro:per|it v|use-PAST inf|to cop|be adj|rural pro:per|it~aux|be&3S
+	part|get-PRESP adv|more part|build&PASTP adv|up conj|but +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|8|CJCT 5|4|PRED 6|8|SUBJ 7|8|AUX 8|2|COMP
+	9|10|JCT 10|8|COMP 11|10|JCT 12|2|OM 13|2|PUNCT
+*S2:	+, urbed@n$part +/.
+%mor:	part|urbed +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, yes &=laughs:S1 definitely &-um +/.
+%mor:	co|yes adv|definite&dadj-LY +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and I lived there +...
+%mor:	coord|and pro:sub|I v|live-PAST adv|there +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*S2:	pretty much for my whole life +/.
+%mor:	adv|pretty adv|much prep|for det:poss|my adj|whole n|life +/.
+%gra:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um I went to college in upstate New York +/.
+%mor:	pro:sub|I v|go&PAST prep|to n|college prep|in adv|upstate
+	n:prop|New n:prop|York +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|NJCT 6|8|JCT 7|8|NAME 8|5|POBJ
+	9|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um Saint Lawrence University +...
+%mor:	n:prop|Saint n:prop|Lawrence n:prop|University +...
+%gra:	1|2|NAME 2|3|NAME 3|0|INCROOT 4|3|PUNCT
+*S2:	and so did Jack I take it +/.
+%mor:	coord|and adv|so v|do&PAST n:prop|Jack pro:sub|I v|take pro:per|it
+	+/.
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|3|CJCT 7|6|OBJ 8|3|PUNCT
+*S1:	yes &-um +/.
+%mor:	co|yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, did you guys meet each_other there ?
+%mor:	mod|do&PAST pro:per|you n|guy-PL v|meet pro:refl|each_other
+	adv|there ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*S1:	yes actually it was pretty funny .
+%mor:	co|yes adv|actual&dadj-LY pro:per|it cop|be&PAST&13S adv|pretty
+	adj|fun&dn-Y .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+*S1:	&-um I was a year ahead of him +/.
+%mor:	pro:sub|I cop|be&PAST&13S det:art|a n|year adv|ahead prep|of
+	pro:obj|him +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*S2:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, and we were both in the environmental studies (.) program (.)
+	and (.) we took a land use planning class &-um it was my senior year
+	I guess his junior year +/.
+%mor:	coord|and pro:sub|we cop|be&PAST qn|both prep|in det:art|the
+	adj|environment&dn-AL v|study-3S n|program coord|and pro:sub|we
+	v|take&PAST det:art|a n|land n|use part|plan-PRESP n|class
+	pro:per|it cop|be&PAST&13S det:poss|my adj|senior n|year pro:sub|I
+	v|guess det:poss|his adj|junior n|year +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|ENUM
+	9|8|OBJ 10|12|LINK 11|12|SUBJ 12|7|CMOD 13|15|DET 14|15|MOD 15|12|OBJ
+	16|17|MOD 17|15|APP 18|19|SUBJ 19|17|CMOD 20|22|DET 21|22|MOD 22|24|JCT
+	23|24|SUBJ 24|19|PRED 25|27|DET 26|27|MOD 27|24|OBJ 28|3|PUNCT
+*S2:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, and (.) we ended up working on a project (.) together there +/.
+%mor:	coord|and pro:sub|we v|end-PAST adv|up part|work-PRESP prep|on
+	det:art|a n|project adv|together adv|there +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|XJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|5|JCT 11|3|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &-um and I didn't (.) there were two parts to the project and
+	(.) I didn't work with Jack (.) directly on that part &i &w we
+	worked on separate parts +/.
+%mor:	coord|and pro:sub|I mod|do&PAST~neg|not pro:exist|there cop|be&PAST
+	det:num|two n|part-PL prep|to det:art|the n|project coord|and
+	pro:sub|I mod|do&PAST~neg|not v|work prep|with n:prop|Jack
+	adv|direct&dadj-LY prep|on det:dem|that n|part pro:sub|we
+	v|work-PAST adv|on v|separate n|part-PL +/.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|6|SUBJ 6|0|ROOT 7|8|QUANT 8|6|PRED
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|16|LINK 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|6|CJCT 17|16|JCT 18|17|POBJ 19|20|JCT 20|18|NJCT 21|22|DET 22|20|POBJ
+	23|24|SUBJ 24|16|CJCT 25|24|JCT 26|24|ENUM 27|26|OBJ 28|6|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &-um but (.) we ended up writing our paper (.) there was five of
+	us on it and we wrote a paper +/.
+%mor:	conj|but pro:sub|we v|end-PAST adv|up part|write-PRESP det:poss|our
+	n|paper adv|there cop|be&PAST&13S det:num|five prep|of pro:obj|us
+	prep|on pro:per|it coord|and pro:sub|we v|write&PAST det:art|a
+	n|paper +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|XJCT 6|7|DET 7|5|OBJ 8|9|SUBJ
+	9|5|COMP 10|9|PRED 11|10|JCT 12|11|POBJ 13|10|JCT 14|13|POBJ 15|17|LINK
+	16|17|SUBJ 17|9|CJCT 18|19|DET 19|17|OBJ 20|3|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &-um and the school published it +/.
+%mor:	coord|and det:art|the n|school v|publish-PAST pro:per|it +/.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*S1:	+, wow +/.
+%mor:	co|wow +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &-um in sort_of their +//.
+%mor:	adv|in adv|sort_of det:poss|their +//.
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*S1:	it [?] was a community service report kinda thing so it wasn't +/.
+%mor:	pro:per|it cop|be&PAST&13S det:art|a n|community n|service n|report
+	adv|kinda n|thing conj|so pro:per|it cop|be&PAST&13S~neg|not +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|MOD 5|6|MOD 6|8|MOD 7|8|MOD 8|2|PRED
+	9|11|LINK 10|11|SUBJ 11|2|CJCT 12|11|NEG 13|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, like a peer review publication but it was +/.
+%mor:	prep|like det:art|a n|peer n|review n|publication conj|but
+	pro:per|it cop|be&PAST&13S +/.
+%gra:	1|8|JCT 2|5|DET 3|5|MOD 4|5|MOD 5|1|POBJ 6|8|LINK 7|8|SUBJ 8|0|ROOT
+	9|8|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌈ distributed to the community ⌉ .
+%mor:	v|distribute-PAST prep|to det:art|the n|community .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*S1:	⌊ so that's a really nice ⌋ experience for xxx &under as part of
+	your undergraduate education +/.
+%mor:	co|so pro:dem|that~cop|be&3S det:art|a adv|real&dadj-LY adj|nice
+	n|experience prep|for prep|as n|part prep|of det:poss|your
+	under#v|graduate n|educate&dv-TION +/.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|PRED 8|7|NJCT
+	9|8|JCT 10|9|POBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ 15|3|PUNCT
+*S2:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, that's great .
+%mor:	pro:dem|that~cop|be&3S adj|great .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S2:	yeah (.) so [/] so that was really neat +/.
+%mor:	co|yeah co|so pro:dem|that cop|be&PAST&13S adv|real&dadj-LY
+	adj|neat +/.
+%gra:	1|3|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+*S1:	⌈ okay ⌉ +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ &-um ⌋ (.) so that was about (.) the extent that I knew Jack
+	was +/.
+%mor:	adv|so pro:dem|that cop|be&PAST&13S prep|about det:art|the n|extent
+	pro:rel|that pro:sub|I v|know&PAST n:prop|Jack cop|be&PAST&13S +/.
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|11|SUBJ 11|9|COMP 12|3|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ just ⌋ working on [/] on that +/.
+%mor:	adv|just part|work-PRESP prep|on pro:dem|that +/.
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and then &-um I think ⌈ I had a ⌉ .
+%mor:	coord|and adv:tem|then pro:sub|I v|think pro:sub|I v|have&PAST
+	det:art|a .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*S1:	⌊ when did you ⌋ graduate ?
+%mor:	conj|when mod|do&PAST pro:per|you v|graduate ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S2:	nineteen ninety +/.
+%mor:	det:num|nineteen det:num|ninety +/.
+%gra:	1|2|DATE 2|0|INCROOT 3|2|PUNCT
+*S1:	uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and I think I [/] I had a &h couple other classes with him
+	too +/.
+%mor:	coord|and pro:sub|I v|think pro:sub|I v|have&PAST det:art|a
+	n|couple qn|other n|class-PL prep|with pro:obj|him adv|too +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ 8|9|QUANT
+	9|7|OBJ 10|9|NJCT 11|10|POBJ 12|5|JCT 13|3|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	and then I didn't see him (.) again until I showed up (.) for
+	orientation this year +/.
+%mor:	coord|and adv:tem|then pro:sub|I mod|do&PAST~neg|not v|see
+	pro:obj|him adv|again prep|until pro:sub|I v|show-PAST adv|up
+	prep|for n|orientate&dv-TION det:dem|this n|year +/.
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|11|LINK 10|11|SUBJ 11|6|CJCT 12|11|JCT 13|11|JCT 14|13|POBJ 15|16|DET
+	16|11|JCT 17|6|PUNCT
+*S1:	+, really ?
+%mor:	adv|real&dadj-LY ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and (.) I walk up to meet my advisor (.) and he introduces (.)
+	me to &-um Jack Ariadne_Kent +/.
+%mor:	coord|and pro:sub|I v|walk adv|up inf|to v|meet det:poss|my
+	n|advisor coord|and pro:sub|he v|introduce-3S pro:obj|me prep|to
+	n:prop|Jack n:prop|Ariadne_Kent +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|3|XJCT 7|8|DET 8|6|OBJ
+	9|11|LINK 10|11|SUBJ 11|6|CJCT 12|11|OBJ 13|11|JCT 14|15|NAME 15|13|POBJ
+	16|3|PUNCT
+*S1:	+, uhuh &=laughs +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and then to two other people (.) and &-um when I knew Jack his
+	name was Jack Kent +/.
+%mor:	coord|and adv:tem|then prep|to det:num|two qn|other n|person&PL
+	coord|and conj|when pro:sub|I v|know&PAST n:prop|Jack det:poss|his
+	n|name cop|be&PAST&13S n:prop|Jack n:prop|Kent +/.
+%gra:	1|14|LINK 2|14|JCT 3|14|JCT 4|6|QUANT 5|6|QUANT 6|3|POBJ 7|14|LINK
+	8|10|LINK 9|10|SUBJ 10|14|CJCT 11|10|OBJ 12|13|DET 13|14|SUBJ 14|0|ROOT
+	15|16|NAME 16|14|PRED 17|14|PUNCT
+*S1:	+, ⌈ how ⌉ ?
+%mor:	pro:rel|how ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ and ⌋ (.) he +//.
+%mor:	coord|and pro:sub|he +//.
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*S2:	he's taken on his wife's name +/.
+%mor:	pro:sub|he~aux|be&3S part|take&PASTP prep|on det:poss|his
+	adj|wife&dn-POSS n|name +/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*S1:	+, I see +/.
+%mor:	pro:sub|I v|see +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S2:	+, and (.) I just (.) I look at him and +/.
+%mor:	coord|and pro:sub|I adv|just pro:sub|I v|look prep|at pro:obj|him
+	coord|and +/.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|CONJ
+	9|8|COORD
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, he didn't have a beard then and I look at him I'm like +/.
+%mor:	pro:sub|he mod|do&PAST~neg|not v|have det:art|a n|beard
+	adv:tem|then coord|and pro:sub|I v|look prep|at pro:obj|him
+	pro:sub|I~cop|be&1S prep|like +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|10|LINK
+	9|10|SUBJ 10|7|CJCT 11|10|JCT 12|11|POBJ 13|14|SUBJ 14|10|CJCT 15|14|JCT
+	16|4|PUNCT
+*S2:	+, did you go to Saint Lawrence ?
+%mor:	mod|do&PAST pro:per|you v|go prep|to n:prop|Saint n:prop|Lawrence ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|NAME 6|4|POBJ 7|3|PUNCT
+*S2:	and +/.
+%mor:	coord|and +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌈ uhuh ⌉ +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ he's like ⌋ yes and I'm like (.) oh and it just hit +/.
+%mor:	pro:sub|he~cop|be&3S co|like co|yes coord|and pro:sub|I~cop|be&1S
+	co|like co|oh coord|and pro:per|it adv|just n|hit +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|COM 4|7|COM 5|7|LINK 6|7|SUBJ 7|2|PRED 8|7|COM
+	9|7|PRED 10|9|CONJ 11|13|SUBJ 12|13|JCT 13|10|COORD 14|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and (.) we're just so (.) like caught up in that we just
+	completely ignored my advisor like &-um &=laughs:S1 met once or
+	twice &-um Professor Whistler +/.
+%mor:	coord|and pro:sub|we~aux|be&PRES adv|just adv|so prep|like
+	part|catch&PASTP adv|up prep|in comp|that pro:sub|we adv|just
+	adv|complete&dadj-LY v|ignore-PAST det:poss|my n|advisor prep|like
+	v|meet&PAST adv|once coord|or adv|twice n:prop|Professor
+	n:prop|Whistler +/.
+%gra:	1|8|LINK 2|8|SUBJ 3|8|AUX 4|5|JCT 5|8|JCT 6|8|JCT 7|6|POBJ 8|0|ROOT
+	9|8|JCT 10|14|LINK 11|14|SUBJ 12|14|JCT 13|14|JCT 14|9|POBJ 15|16|DET
+	16|14|OBJ 17|18|JCT 18|14|COMP 19|18|JCT 20|19|CONJ 21|23|JCT 22|23|NAME
+	23|20|COORD 24|8|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and &-um it was just really funny (be)cause we &w just sorta
+	like catching up on (.) six years right there +/.
+%mor:	coord|and pro:per|it cop|be&PAST&13S adv|just adv|real&dadj-LY
+	adj|fun&dn-Y conj|because pro:sub|we adv|just adv|sorta co|like
+	part|catch-PRESP adv|up prep|on det:num|six n|year-PL adv|right
+	adv|there +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|6|JCT 6|3|PRED 7|12|LINK 8|12|SUBJ
+	9|12|JCT 10|12|JCT 11|12|COM 12|3|CJCT 13|12|JCT 14|12|JCT 15|16|QUANT
+	16|14|POBJ 17|18|JCT 18|12|JCT 19|3|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, so [/] so that was kinda kind_of a surprise .
+%mor:	adv|so pro:dem|that cop|be&PAST&13S adv|kinda adv|kind_of det:art|a
+	n|surprise .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|JCT 6|7|DET 7|3|PRED 8|3|PUNCT
+*S1:	that is amazing (.) I [/] &w I would have guessed that maybe you
+	had +...
+%mor:	pro:rel|that aux|be&3S part|amaze-PRESP pro:sub|I mod|will&COND
+	aux|have part|guess-PASTP comp|that adv|maybe pro:per|you
+	part|have&PASTP +...
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|AUX 7|3|COMP 8|11|LINK
+	9|11|JCT 10|11|SUBJ 11|7|COMP 12|3|PUNCT
+*S1:	sort of known each_other's plans +...
+%mor:	n|sort prep|of part|know&PASTP adj|each_other&dn-POSS n|plan-PL
+	+...
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|5|MOD 5|3|OBJ 6|1|PUNCT
+*S1:	before he came here but &=laughs:multiple .
+%mor:	conj|before pro:sub|he v|come&PAST adv|here conj|but .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*S2:	no it was just +/.
+%mor:	co|no pro:per|it cop|be&PAST&13S adv|just +/.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*S1:	a surprise +/.
+%mor:	det:art|a n|surprise +/.
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*S2:	+, just a coincidence and +/.
+%mor:	adv|just det:art|a co#n|incidence coord|and +/.
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|CONJ 5|3|PUNCT
+*S1:	+, that's quite funny +/.
+%mor:	pro:rel|that~cop|be&3S adv|quite adj|fun&dn-Y +/.
+%gra:	1|2|LINK 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*S2:	+, &-um yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	well what'd you do between +/.
+%mor:	co|well pro:int|what~mod|genmod pro:per|you v|do prep|between +/.
+%gra:	1|5|COM 2|5|OBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*S1:	+, nineteen ninety and +/.
+%mor:	det:num|nineteen det:num|ninety coord|and +/.
+%gra:	1|2|DATE 2|0|INCROOT 3|2|CONJ 4|2|PUNCT
+*S2:	+, I +/.
+%mor:	pro:sub|I +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, starting this program .
+%mor:	part|start-PRESP det:dem|this n|program .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*S2:	&-um actually I have a resume here I didn't +/.
+%mor:	adv|actual&dadj-LY pro:sub|I v|have det:art|a n|resume adv|here
+	pro:sub|I mod|do&PAST~neg|not +/.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|3|PUNCT
+*S1:	oh yeah ⌈ great ⌉ +/.
+%mor:	co|oh co|yeah adj|great +/.
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|PUNCT
+*S2:	+, ⌊ bring it ⌋ bring it for &tha this purpose it just happened to
+	be in here &-um (0.5) .
+%mor:	v|bring pro:per|it v|bring pro:per|it prep|for det:dem|this
+	n|purpose pro:per|it adv|just part|happen-PASTP inf|to cop|be
+	prep|in n|here .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|10|SUBJ
+	9|10|JCT 10|3|XJCT 11|12|INF 12|10|COMP 13|12|JCT 14|13|POBJ 15|1|PUNCT
+*S1:	can I have this ?
+%mor:	mod|can pro:sub|I v|have pro:dem|this ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S2:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	yeah ?
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	great .
+%mor:	adj|great .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	&-um I (.) worked for two different environmental consulting
+	companies .
+%mor:	pro:sub|I v|work-PAST prep|for det:num|two adj|different
+	adj|environment&dn-AL part|consult-PRESP n|company-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|QUANT 5|8|MOD 6|8|MOD 7|8|MOD 8|3|POBJ
+	9|2|PUNCT
+*S1:	uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um one was a (.) contractor to the EPA (.) and we (.)
+	evaluated &-um hazardous waste sites .
+%mor:	pro:indef|one cop|be&PAST&13S det:art|a n|contractor prep|to
+	det:art|the n:prop|EPA coord|and pro:sub|we v|evaluate-PAST
+	adj|hazardous n|waste n|site-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|4|CJCT 11|13|MOD 12|13|MOD 13|10|OBJ 14|2|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um to see if they would be (.) put onto the national
+	priorities list &-uh superfund list +/.
+%mor:	inf|to v|see conj|if pro:sub|they mod|will&COND aux|be
+	part|put&PASTP prep|onto det:art|the adj|nation&dn-AL n|priority-PL
+	v|list super#v|fund n|list +/.
+%gra:	1|2|INF 2|0|ROOT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|AUX 7|2|COMP 8|12|JCT
+	9|11|DET 10|11|MOD 11|12|SUBJ 12|7|CJCT 13|14|MOD 14|12|OBJ 15|2|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and then I did that for a year and a half and then I went
+	to this other company &-um the contract ended so I got laid off +/.
+%mor:	coord|and adv:tem|then pro:sub|I v|do&PAST adv|that prep|for
+	det:art|a n|year coord|and det:art|a n|half coord|and adv:tem|then
+	pro:sub|I v|go&PAST prep|to det:dem|this qn|other n|company
+	det:art|the n|contract part|end-PASTP adv|so pro:sub|I aux|get&PAST
+	part|lay&PASTP adv|off +/.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|8|CONJ 10|11|DET 11|9|COORD 12|4|CONJ 13|15|JCT 14|15|SUBJ 15|12|COORD
+	16|15|JCT 17|19|DET 18|19|QUANT 19|16|POBJ 20|21|DET 21|15|OBJ 22|21|XMOD
+	23|26|JCT 24|26|SUBJ 25|26|AUX 26|22|COMP 27|26|JCT 28|4|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, for a couple months (.) and then &-um I went over to this other
+	company it was a private (.) small consulting company and then I was
+	there for (.) three and a half years +...
+%mor:	prep|for det:art|a qn|couple n|month-PL coord|and adv:tem|then
+	pro:sub|I v|go&PAST adv|over prep|to det:dem|this qn|other n|company
+	pro:per|it cop|be&PAST&13S det:art|a n|private adj|small
+	n:gerund|consult-PRESP n|company coord|and adv:tem|then pro:sub|I
+	cop|be&PAST&13S adv|there prep|for det:num|three coord|and det:art|a
+	n|half n|year-PL +...
+%gra:	1|8|JCT 2|3|DET 3|4|QUANT 4|1|POBJ 5|4|CONJ 6|5|COORD 7|8|SUBJ
+	8|15|CJCT 9|8|JCT 10|8|JCT 11|13|DET 12|13|QUANT 13|10|POBJ 14|15|SUBJ 15|0|ROOT
+	16|17|DET 17|20|MOD 18|20|MOD 19|20|MOD 20|15|PRED 21|24|LINK 22|24|JCT
+	23|24|SUBJ 24|15|CJCT 25|24|JCT 26|24|JCT 27|31|QUANT 28|27|CONJ
+	29|30|DET 30|28|COORD 31|26|POBJ 32|15|PUNCT
+*S2:	three [/] three and a half years +/.
+%mor:	det:num|three coord|and det:art|a n|half n|year-PL +/.
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|DET 4|5|MOD 5|2|COORD 6|1|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and &-um did similar sorts of &-um chemical contamination
+	investigations +/.
+%mor:	coord|and v|do&PAST adj|similar n|sort-PL prep|of adj|chemical
+	n|contaminate&dv-TION n|investigate&dv-TION-PL +/.
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|NJCT 6|8|MOD 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-uh property audits or real estate transactions +/.
+%mor:	n|property n|audit-PL coord|or adj|real n|estate n|transaction-PL
+	+/.
+%gra:	1|2|MOD 2|0|ROOT 3|2|CONJ 4|6|MOD 5|6|MOD 6|3|COORD 7|2|PUNCT
+*S1:	+, mm +/.
+%mor:	co|mm +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, if like a company is gonna &-um buy a piece of property &-um lot
+	of times the banks will have them do (.) just an audit to see (.)
+	you know if they've buried drums +/.
+%mor:	conj|if prep|like det:art|a n|company aux|be&3S
+	part|go-PRESP~inf|to v|buy det:art|a n|piece prep|of n|property
+	n|lot prep|of n|time-PL det:art|the n|bank-PL mod|will v|have
+	pro:obj|them v|do adv|just det:art|a n|audit inf|to v|see
+	pro:per|you v|know comp|if pro:sub|they~aux|have part|bury-PASTP
+	n|drum-PL +/.
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|19|CJCT
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|17|DET 17|19|SUBJ 18|19|AUX 19|6|COMP 20|21|SUBJ 21|19|COMP 22|24|JCT
+	23|24|DET 24|21|OBJ 25|26|INF 26|21|XJCT 27|28|SUBJ 28|26|COMP 29|32|LINK
+	30|32|SUBJ 31|32|AUX 32|28|COMP 33|32|OBJ 34|6|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, out back kinda thing +/.
+%mor:	prep|out n|back adv|kinda n|thing +/.
+%gra:	1|4|JCT 2|1|POBJ 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, or you know if the company's had any (.) like records of &-um
+	violation for anything +/.
+%mor:	coord|or pro:per|you v|know comp|if det:art|the n|company~aux|be&3S
+	part|have&PASTP qn|any prep|like n|record-PL prep|of
+	n|violate&dv-TION prep|for pro:indef|anything +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|6|DET 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|8|OBJ 10|9|JCT 11|10|POBJ 12|11|NJCT 13|12|POBJ 14|9|JCT 15|14|POBJ
+	16|3|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um so I did that +/.
+%mor:	co|so pro:sub|I v|do&PAST comp|that +/.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um I also guided whitewater rafting trips +/.
+%mor:	pro:sub|I adv|also v|guide-PAST adj|whitewater n:gerund|raft-PRESP
+	n|trip-PL +/.
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um on weekends that was a_lot_of fun +/.
+%mor:	prep|on n|+n|week+n|end-PL pro:rel|that cop|be&PAST&13S qn|a_lot_of
+	n|fun +/.
+%gra:	1|0|INCROOT 2|1|POBJ 3|4|LINK 4|2|CMOD 5|6|QUANT 6|4|PRED 7|1|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and then (.) I've been (.) actually I applied to Michigan &-um
+	+...
+%mor:	coord|and adv:tem|then pro:sub|I~aux|have cop|be&PASTP
+	adv|actual&dadj-LY pro:sub|I v|apply-PAST prep|to n:prop|Michigan
+	+...
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|8|JCT 6|5|JCT 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|8|PUNCT
+*S2:	&in a year ago +/.
+%mor:	det:art|a n|year post|ago +/.
+%gra:	1|2|DET 2|0|INCROOT 3|2|POSTMOD 4|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and I didn't get in so I reapplied but my fiancee &-um got
+	in so we moved out here (.) and I was looking for a job (.) for a
+	year so I've been here a year before +/.
+%mor:	coord|and pro:sub|I mod|do&PAST~neg|not v|get adv|in co|so
+	pro:sub|I re#part|apply-PASTP conj|but det:poss|my n|fiancee
+	v|get&PAST prep|in co|so pro:sub|we v|move-PAST prep|out n|here
+	coord|and pro:sub|I aux|be&PAST&13S part|look-PRESP prep|for
+	det:art|a n|job prep|for det:art|a n|year adv|so pro:sub|I~aux|have
+	cop|be&PASTP adv|here det:art|a n|year adv|before +/.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|5|COM 8|9|SUBJ
+	9|5|CJCT 10|13|LINK 11|12|DET 12|13|SUBJ 13|17|CJCT 14|13|JCT 15|14|POBJ
+	16|17|SUBJ 17|9|CJCT 18|17|JCT 19|18|POBJ 20|23|LINK 21|23|SUBJ 22|23|AUX
+	23|17|CJCT 24|23|JCT 25|26|DET 26|24|POBJ 27|23|JCT 28|29|DET 29|27|POBJ
+	30|33|JCT 31|33|SUBJ 32|33|AUX 33|23|CJCT 34|33|JCT 35|36|DET
+	36|33|PRED 37|36|NJCT 38|5|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ school started ⌋ .
+%mor:	n|school v|start-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S1:	so &you're you were here and she was in school ?
+%mor:	co|so pro:per|you cop|be&PAST adv|here coord|and pro:sub|she
+	cop|be&PAST&13S prep|in n|school ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+*S1:	+, ⌊ were ⌋ you working ?
+%mor:	cop|be&PAST pro:per|you part|work-PRESP ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*S2:	I was looking for a job consulting and the market was pretty bad so
+	I didn't find anything so I ended up working in a bookstore +/.
+%mor:	pro:sub|I aux|be&PAST&13S part|look-PRESP prep|for det:art|a n|job
+	part|consult-PRESP coord|and det:art|the n|market cop|be&PAST&13S
+	adv|pretty adj|bad conj|so pro:sub|I mod|do&PAST~neg|not v|find
+	pro:indef|anything conj|so pro:sub|I v|end-PAST adv|up
+	part|work-PRESP prep|in det:art|a n|+n|book+n|store +/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|XJCT 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|7|COMP 12|13|JCT 13|11|PRED 14|18|LINK 15|18|SUBJ
+	16|18|AUX 17|16|NEG 18|3|CJCT 19|18|OBJ 20|22|LINK 21|22|SUBJ 22|18|CJCT
+	23|22|JCT 24|22|XJCT 25|24|JCT 26|27|DET 27|25|POBJ 28|3|PUNCT
+*S1:	uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and which was kinda fun actually it's something I've always
+	wanted to do +/.
+%mor:	coord|and pro:int|which cop|be&PAST&13S adv|kinda adj|fun
+	adv|actual&dadj-LY pro:per|it~cop|be&3S pro:indef|something
+	pro:sub|I~aux|have adv|always part|want-PASTP inf|to v|do +/.
+%gra:	1|3|LINK 2|3|LINK 3|0|ROOT 4|3|JCT 5|3|PRED 6|8|JCT 7|8|SUBJ 8|5|CMOD
+	9|8|PRED 10|13|SUBJ 11|13|AUX 12|13|JCT 13|9|CMOD 14|15|INF 15|13|COMP
+	16|3|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um it was neat to +...
+%mor:	pro:per|it cop|be&PAST&13S adj|neat inf|to +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+*S2:	to look at all the books as they come in +/.
+%mor:	inf|to v|look prep|at qn|all det:art|the n|book-PL conj|as
+	pro:sub|they v|come adv|in +/.
+%gra:	1|2|INF 2|0|ROOT 3|2|JCT 4|6|QUANT 5|6|DET 6|3|POBJ 7|9|LINK 8|9|SUBJ
+	9|2|CJCT 10|9|JCT 11|2|PUNCT
+*S1:	+, ⌈ oh yeah ⌉ +/.
+%mor:	co|oh co|yeah +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	+, ⌊ and see ⌋ the new ones +/.
+%mor:	coord|and v|see det:art|the adj|new pro:indef|one-PL +/.
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*S1:	+, oh yeah +/.
+%mor:	co|oh co|yeah +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	+, and I (.) get a pretty good discount on stuff so .
+%mor:	coord|and pro:sub|I v|get det:art|a adj|pretty adj|good n|discount
+	prep|on n|stuff co|so .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|OBJ 8|3|JCT
+	9|8|POBJ 10|3|COM 11|3|PUNCT
+*S1:	well (.) that's great &=laughs:multiple .
+%mor:	co|well pro:dem|that~cop|be&3S adj|great .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S2:	yeah (.) it certainly helps I can (.) get some of my textbooks
+	there .
+%mor:	co|yeah pro:per|it adv|certain&dadj-LY v|help-3S pro:sub|I mod|can
+	v|get qn|some prep|of det:poss|my n|textbook-PL adv|there .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|7|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|7|JCT 13|4|PUNCT
+*S1:	yeah [/] yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so where did you work &sh &-uh .
+%mor:	adv|so pro:int|where mod|do&PAST pro:per|you v|work .
+%gra:	1|5|JCT 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*S2:	&-um Webster's Books it's +/.
+%mor:	adj|Webster&dn-POSS n:prop|Books pro:per|it~cop|be&3S +/.
+%gra:	1|2|MOD 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S1:	uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um up by north campus .
+%mor:	adv|up prep|by adj|north n|campus .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*S1:	yeah [/] yeah that's xxx .
+%mor:	co|yeah pro:dem|that~cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S2:	Plymouth Road .
+%mor:	n:prop|Plymouth n:prop|Road .
+%gra:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*S1:	Traver +/.
+%mor:	n:prop|Traver +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	yes +/.
+%mor:	co|yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, Village xxx .
+%mor:	n:prop|Village .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	yeah (.) so I live right behind that +/.
+%mor:	co|yeah conj|so pro:sub|I v|live adv|right prep|behind pro:dem|that
+	+/.
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*S1:	mhm hm +/.
+%mor:	co|mhm=yes co|hm +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	+, so I could walk to work +/.
+%mor:	co|so pro:sub|I mod|could v|walk prep|to n|work +/.
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, so it was great .
+%mor:	co|so pro:per|it cop|be&PAST&13S adj|great .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S1:	mhm good .
+%mor:	co|mhm=yes adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	well &-um +...
+%mor:	co|well +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	what [/] &-uh what prompted you to (.) come to graduate school ?
+%mor:	pro:int|what v|prompt-PAST pro:per|you inf|to v|come prep|to
+	n|graduate n|school ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|COMP 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|2|PUNCT
+*S2:	&-um it's something I [/] I +...
+%mor:	pro:per|it~cop|be&3S pro:indef|something pro:sub|I +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|2|PUNCT
+*S2:	kinda always wanted to do &-um or had been thinking about and then
+	sciences &-um my degree is in biology and environmental studies +/.
+%mor:	adv|kinda adv|always part|want-PASTP inf|to v|do coord|or
+	v|have&PAST aux|be&PASTP part|think-PRESP adv|about coord|and
+	adv:tem|then n|science-PL det:poss|my n|degree cop|be&3S prep|in
+	n|biology coord|and adj|environment&dn-AL n|study-PL +/.
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|5|CONJ 7|6|COORD 8|9|AUX
+	9|7|COMP 10|16|JCT 11|16|LINK 12|16|JCT 13|16|SUBJ 14|15|DET 15|16|SUBJ
+	16|9|COMP 17|16|JCT 18|17|POBJ 19|16|CONJ 20|21|MOD 21|19|COORD 22|3|PUNCT
+*S1:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and &-um there's only so far you can go with a Bachelor's and
+	+/.
+%mor:	coord|and pro:exist|there~cop|be&3S adv|only adv|so adj|far
+	pro:per|you mod|can v|go prep|with det:art|a adj|Bachelor&dn-POSS
+	coord|and +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|PUNCT 7|9|SUBJ 8|9|AUX
+	9|6|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|12|CONJ 14|13|COORD
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um you know a (.) Master's &-um or a PhD is [/] is usually
+	+...
+%mor:	pro:per|you v|know det:art|a adj|Master&dn-POSS coord|or det:art|a
+	n:prop|PhD cop|be&3S adv|usual&dadj-LY +...
+%gra:	1|2|SUBJ 2|8|LINK 3|4|DET 4|8|SUBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|0|ROOT
+	9|8|JCT 10|8|PUNCT
+*S2:	a_lot [/] lot more +...
+%mor:	n|lot adv|more +...
+%gra:	1|0|INCROOT 2|1|NJCT 3|1|PUNCT
+*S2:	useful +/.
+%mor:	adj|use&dn-FULL +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and +...
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	I didn't really want to get into the hazardous waste (.) area but
+	it +/.
+%mor:	pro:sub|I mod|do&PAST~neg|not adv|real&dadj-LY v|want inf|to v|get
+	prep|into det:art|the adj|hazardous n|waste n|area conj|but
+	pro:per|it +/.
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|POBJ 13|5|CONJ 14|13|COORD 15|5|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ was ⌋ something I just sorta fell into +/.
+%mor:	cop|be&PAST&13S pro:indef|something pro:sub|I adv|just adv|sorta
+	v|fall&PAST prep|into +/.
+%gra:	1|0|ROOT 2|6|LINK 3|6|SUBJ 4|6|JCT 5|6|JCT 6|1|CPRED 7|6|JCT 8|1|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ and ⌋ (.) so I was looking at graduate school as one &s &-uh
+	as a transition for kind_of a career (.) (be)cause I (.) didn't have
+	much success getting into an area that I wanted to &-um +...
+%mor:	coord|and co|so pro:sub|I aux|be&PAST&13S part|look-PRESP prep|at
+	n|graduate n|school prep|as pro:indef|one prep|as det:art|a
+	n|transition prep|for adv|kind_of det:art|a n|career conj|because
+	pro:sub|I mod|do&PAST~neg|not v|have qn|much n|success
+	part|get-PRESP prep|into det:art|a n|area pro:rel|that pro:sub|I
+	v|want-PAST prep|to +...
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|10|COORD 10|5|CJCT 11|10|NJCT 12|13|DET 13|11|POBJ 14|10|JCT 15|14|JCT
+	16|17|DET 17|15|POBJ 18|22|LINK 19|22|SUBJ 20|22|AUX 21|20|NEG 22|14|CPOBJ
+	23|24|QUANT 24|22|OBJ 25|24|XMOD 26|25|JCT 27|28|DET 28|26|POBJ
+	29|31|LINK 30|31|SUBJ 31|28|CMOD 32|31|JCT 33|5|PUNCT
+*S2:	sort of aquatic biology that sort of thing &-um +/.
+%mor:	n|sort prep|of adj|aquatic n|biology det:dem|that n|sort prep|of
+	n|thing +/.
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|MOD 4|2|POBJ 5|6|DET 6|1|ENUM 7|6|NJCT
+	8|7|POBJ 9|1|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and so I looked at it as a sort_of a transition +/.
+%mor:	coord|and co|so pro:sub|I v|look-PAST prep|at pro:per|it prep|as
+	det:art|a adv|sort_of det:art|a n|transition +/.
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|DET
+	9|11|JCT 10|11|DET 11|7|POBJ 12|4|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and [/] and to go back for more [/] &m more education .
+%mor:	coord|and inf|to v|go adv|back prep|for adv|more n|educate&dv-TION
+	.
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|JCT 7|5|POBJ 8|3|PUNCT
+*S1:	right [/] right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so the project that you're +//.
+%mor:	co|so det:art|the n|project pro:rel|that pro:per|you~cop|be&PRES
+	+//.
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|3|PUNCT
+*S1:	that you guys are (.) embarking on now is more in line with the
+	kinds of things you (.) it sounds like maybe (.) &tha the kind of
+	direction you'd like to be moving in +/.
+%mor:	comp|that pro:per|you n|guy-PL aux|be&PRES part|embark-PRESP adv|on
+	adv|now cop|be&3S adv|more prep|in n|line prep|with det:art|the
+	n|kind-PL prep|of n|thing-PL pro:per|you pro:per|it v|sound-3S
+	prep|like adv|maybe det:art|the n|kind prep|of n|direction
+	pro:per|you~mod|genmod v|like inf|to aux|be part|move-PRESP adv|in
+	+/.
+%gra:	1|5|LINK 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|5|JCT
+	9|8|JCT 10|8|JCT 11|10|POBJ 12|8|JCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|8|PRED 18|19|SUBJ 19|17|CMOD 20|19|JCT 21|20|JCT 22|23|DET
+	23|21|POBJ 24|23|NJCT 25|24|POBJ 26|28|SUBJ 27|28|AUX 28|23|CMOD 29|31|INF
+	30|31|AUX 31|28|COMP 32|31|JCT 33|5|PUNCT
+*S2:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, and what you were doing before ?
+%mor:	coord|and pro:int|what pro:per|you aux|be&PAST part|do-PRESP
+	adv|before ?
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*S2:	I think so &-um I mean I certainly (.) learned a_lot and I think
+	a_lot_of it's useful &-um +...
+%mor:	pro:sub|I v|think conj|so pro:sub|I adj|mean pro:sub|I
+	adv|certain&dadj-LY v|learn-PAST adv|a_lot coord|and pro:sub|I
+	v|think qn|a_lot_of pro:per|it~cop|be&3S adj|use&dn-FULL +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|LINK 4|8|SUBJ 5|8|LINK 6|8|SUBJ 7|8|JCT 8|2|CJCT
+	9|8|JCT 10|12|LINK 11|12|SUBJ 12|8|CJCT 13|15|QUANT 14|15|SUBJ
+	15|12|COMP 16|15|PRED 17|2|PUNCT
+*S2:	xxx what [/] what I'd learned from consulting .
+%mor:	pro:int|what pro:sub|I~mod|genmod v|learn-PAST prep|from
+	n:gerund|consult-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*S1:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	I'd like to (.) not necessarily restoration but just looking at
+	sort of big picture +/.
+%mor:	pro:sub|I~mod|genmod v|like inf|to neg|not adv|necessary&dadj-LY
+	n|restore&dv-TION conj|but adv|just part|look-PRESP prep|at n|sort
+	prep|of adj|big n|picture +/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|7|NEG 6|7|MOD 7|3|OM 8|7|CONJ
+	9|10|JCT 10|8|COORD 11|10|JCT 12|11|POBJ 13|12|NJCT 14|15|MOD 15|13|POBJ
+	16|3|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ &-um ⌋ (.) projects (.) that +/.
+%mor:	n|project-PL pro:rel|that +/.
+%gra:	1|0|INCROOT 2|1|OM 3|1|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um instead of (.) you know looking at this one acre plot and
+	seeing where (.) you know (.) butterflies move around kinda thing .
+%mor:	adv|instead prep|of pro:per|you v|know part|look-PRESP prep|at
+	det:dem|this qn|one n|acre n|plot coord|and part|see-PRESP
+	pro:rel|where pro:per|you v|know n|+n|butter+n|fly-PL v|move
+	adv|around adv|kinda n|thing .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|10|DET 8|9|QUANT
+	9|10|MOD 10|6|POBJ 11|5|CONJ 12|11|COORD 13|15|LINK 14|15|SUBJ 15|12|CMOD
+	16|17|SUBJ 17|15|COMP 18|17|JCT 19|17|JCT 20|19|POBJ 21|4|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um I'm +//.
+%mor:	pro:sub|I~cop|be&1S +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S2:	I mean I kinda always have had (.) I &k was never really interested
+	in just one thing or +/.
+%mor:	pro:sub|I v|mean pro:sub|I adv|kinda adv|always v|have v|have&PAST
+	pro:sub|I aux|be&PAST&13S adv|never adv|real&dadj-LY
+	part|interest-PASTP adv|in adv|just det:num|one n|thing coord|or +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|3|JCT 5|6|JCT 6|2|ROOT 7|6|COMP 8|12|SUBJ
+	9|12|AUX 10|12|JCT 11|12|JCT 12|6|COMP 13|12|JCT 14|15|JCT 15|16|QUANT
+	16|12|OBJ 17|16|CONJ 18|17|COORD
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ one ⌋ area +/.
+%mor:	det:num|one n|area +/.
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S1:	+, mm +/.
+%mor:	co|mm +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um so I think (.) looking at big (.) picture problems I mean
+	it involves tying a_lot_of different things together +/.
+%mor:	co|so pro:sub|I v|think part|look-PRESP prep|at adj|big n|picture
+	n|problem-PL pro:sub|I v|mean pro:per|it v|involve-3S part|tie-PRESP
+	qn|a_lot_of adj|different n|thing-PL adv|together +/.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|8|MOD 7|8|MOD 8|5|POBJ
+	9|10|SUBJ 10|3|CJCT 11|12|SUBJ 12|3|CJCT 13|12|COMP 14|16|QUANT 15|16|MOD
+	16|13|OBJ 17|13|JCT 18|3|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ which ⌋ I really like .
+%mor:	pro:int|which pro:sub|I adv|real&dadj-LY co|like .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+*S1:	yeah (.) seems like more and more modern &-um land use (.)
+	questions are gonna be like that .
+%mor:	co|yeah cop|seem-3S conj|like adv|more coord|and adv|more
+	adj|modern n|land n|use n|question-PL aux|be&PRES
+	part|go-PRESP~inf|to cop|be prep|like pro:dem|that .
+%gra:	1|2|COM 2|0|ROOT 3|12|LINK 4|11|JCT 5|4|CONJ 6|7|JCT 7|10|MOD 8|10|MOD
+	9|10|MOD 10|5|COORD 11|12|AUX 12|2|CJCT 13|14|INF 14|12|COMP 15|14|JCT
+	16|15|POBJ 17|2|PUNCT
+*S2:	mhm (.) I think so .
+%mor:	co|mhm=yes pro:sub|I v|think co|so .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	already have been for a long time (.) and not in (.) other more
+	intensely populated places but for us that feeling that (.) we're
+	kinda running out_of room to just +/.
+%mor:	adv|already v|have aux|be&PASTP prep|for det:art|a adj|long n|time
+	coord|and neg|not prep|in qn|other qn|more adv|intense&dadj-LY
+	v|populate-PAST n|place-PL conj|but prep|for pro:obj|us pro:rel|that
+	part|feel-PRESP comp|that pro:sub|we~aux|be&PRES adv|kinda
+	part|run-PRESP prep|out_of n|room prep|to adj|just +/.
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|7|DET 6|7|MOD 7|4|POBJ 8|7|CONJ
+	9|10|NEG 10|8|COORD 11|12|QUANT 12|10|POBJ 13|14|JCT 14|10|CPOBJ 15|14|OBJ
+	16|14|CONJ 17|16|COORD 18|17|POBJ 19|20|LINK 20|18|CMOD 21|25|LINK
+	22|25|SUBJ 23|25|AUX 24|25|JCT 25|20|COMP 26|25|JCT 27|26|POBJ 28|27|NJCT
+	29|28|POBJ 30|2|PUNCT
+*S2:	just (.) ⌈ yeah ⌉ +/.
+%mor:	adv|just co|yeah +/.
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*S1:	⌊ I don't know ⌋ find more pristine wilderness or +/.
+%mor:	pro:sub|I mod|do~neg|not v|know v|find adv|more adj|pristine
+	n|wilderness coord|or +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|COMP 6|8|JCT 7|8|MOD 8|5|OBJ
+	9|8|CONJ 10|4|PUNCT
+*S2:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &th it's more like +...
+%mor:	pro:per|it~cop|be&3S adv|more prep|like +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|PUNCT
+*S1:	&c competition among uses or accommodation +/.
+%mor:	n|competition prep|among n|use-PL coord|or n|accommodation +/.
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*S2:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, among uses and stuff .
+%mor:	prep|among n|use-PL coord|and n|stuff .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*S2:	yeah before you could xxx things could just (.) grow until +/.
+%mor:	co|yeah prep|before pro:per|you mod|could n|thing-PL mod|could
+	adv|just v|grow prep|until +/.
+%gra:	1|8|COM 2|8|LINK 3|8|SUBJ 4|8|AUX 5|8|SUBJ 6|8|AUX 7|8|JCT 8|0|ROOT
+	9|8|JCT 10|8|PUNCT
+*S1:	uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, just &k and just keep moving out and now +/.
+%mor:	adv|just coord|and adv|just v|keep part|move-PRESP adv|out
+	coord|and adv|now +/.
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|JCT 4|2|COORD 5|4|COMP 6|5|JCT 7|5|CONJ
+	8|7|COORD 9|1|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ they ⌋ sort_of hit boundaries +/.
+%mor:	pro:sub|they adv|sort_of n|hit n|boundary-PL +/.
+%gra:	1|4|SUBJ 2|4|JCT 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, you have to look at (.) sort_of what you've got and work with
+	that .
+%mor:	pro:per|you v|have inf|to v|look prep|at adv|sort_of pro:int|what
+	pro:per|you~aux|have part|get&PASTP coord|and n|work prep|with
+	pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|5|POBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|CPOBJ 11|10|CONJ 12|11|COORD 13|12|NJCT 14|13|POBJ
+	15|2|PUNCT
+*S1:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	yeah (.) .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&-um how do you feel about your educational experience at Michigan
+	&-um so far .
+%mor:	pro:int|how mod|do pro:per|you v|feel prep|about det:poss|your
+	adj|educate&dn-TION-AL n|experience prep|at n:prop|Michigan adv|so
+	adv|far .
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|9|POBJ 11|12|JCT 12|8|NJCT 13|4|PUNCT
+*S1:	&-uh .
+*S2:	I think there's [/] there's some good things and there's some
+	things that you know I wish were a little different .
+%mor:	pro:sub|I v|think pro:exist|there~cop|be&3S qn|some adj|good
+	n|thing-PL coord|and pro:exist|there~cop|be&3S qn|some n|thing-PL
+	comp|that pro:per|you v|know pro:sub|I n|wish cop|be&PAST det:art|a
+	adj|little adj|different .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|7|QUANT 6|7|MOD 7|4|PRED
+	8|10|LINK 9|10|SUBJ 10|7|CMOD 11|12|QUANT 12|10|PRED 13|15|LINK 14|15|SUBJ
+	15|12|CMOD 16|18|SUBJ 17|18|SUBJ 18|15|COMP 19|21|DET 20|21|MOD 21|18|PRED
+	22|2|PUNCT
+*S1:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	it's (.) Saint Lawrence was a really small school there's two
+	thousand people .
+%mor:	pro:per|it~cop|be&3S n:prop|Saint n:prop|Lawrence cop|be&PAST&13S
+	det:art|a adv|real&dadj-LY adj|small n|school
+	pro:exist|there~cop|be&3S det:num|two det:num|thousand n|person&PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|NAME 4|5|SUBJ 5|2|PRED 6|9|DET 7|8|JCT 8|9|MOD
+	9|5|PRED 10|11|SUBJ 11|9|CMOD 12|14|QUANT 13|14|QUANT 14|11|PRED
+	15|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and their main focus was (.) educating people +/.
+%mor:	coord|and det:poss|their adj|main n|focus cop|be&PAST&13S
+	n:gerund|educate-PRESP n|person&PL +/.
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|MOD 7|5|PRED 8|5|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and not +//.
+%mor:	coord|and neg|not +//.
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PUNCT
+*S2:	and research and publishing took &-uh was secondary .
+%mor:	coord|and n|research coord|and part|publish-PRESP v|take&PAST
+	cop|be&PAST&13S adj|secondary .
+%gra:	1|5|LINK 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|0|ROOT 6|5|OBJ 7|6|PRED
+	8|5|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and coming &-um so at Saint Lawrence &-um I think people
+	+//.
+%mor:	coord|and part|come-PRESP adv|so prep|at n:prop|Saint
+	n:prop|Lawrence pro:sub|I v|think n|person&PL +//.
+%gra:	1|2|LINK 2|0|ROOT 3|8|JCT 4|8|JCT 5|4|POBJ 6|4|POBJ 7|8|SUBJ 8|2|COMP
+	9|8|OBJ 10|2|PUNCT
+*S2:	the professors' &-um experience was conveying information to people
+	.
+%mor:	det:art|the adj|professor&dn-PL-POSS n|experience aux|be&PAST&13S
+	part|convey-PRESP n|inform&dv-TION prep|to n|person&PL .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|6|NJCT 8|7|POBJ
+	9|5|PUNCT
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and on a more on a really personal [/] &pers personal level (.)
+	+/.
+%mor:	coord|and prep|on det:art|a adv|more prep|on det:art|a
+	adv|real&dadj-LY adj|personal n|level +/.
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|JCT 6|9|DET 7|8|JCT 8|9|MOD
+	9|5|POBJ 10|1|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and &-um +...
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	here it just seems like &-um you know their [/] their &fo they [/]
+	they do great work they're really intelligent +/.
+%mor:	adv|here pro:per|it adv|just cop|seem-3S conj|like pro:per|you
+	v|know det:poss|their pro:sub|they v|do adj|great n|work
+	pro:sub|they~cop|be&PRES adv|real&dadj-LY adj|intelligent +/.
+%gra:	1|2|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CPRED 8|9|DET
+	9|10|SUBJ 10|7|COMP 11|12|MOD 12|10|OBJ 13|14|SUBJ 14|12|CMOD 15|16|JCT
+	16|14|PRED 17|4|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, they're just not as polished (.) at presenting +//.
+%mor:	pro:sub|they~aux|be&PRES adv|just neg|not prep|as part|polish-PASTP
+	prep|at part|present-PRESP +//.
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|6|NEG 5|6|COORD 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*S2:	conveying +/.
+%mor:	part|convey-PRESP +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, information it seemed +/.
+%mor:	n|inform&dv-TION pro:per|it cop|seem-PAST +/.
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|CMOD 4|1|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, <and that> [/] and that was a big shock +/.
+%mor:	coord|and pro:dem|that cop|be&PAST&13S det:art|a adj|big n|shock
+	+/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ and ⌋ and also I mean it could be that you know I was out_of
+	school for +...
+%mor:	coord|and coord|and adv|also pro:sub|I v|mean pro:per|it mod|could
+	cop|be comp|that pro:per|you v|know pro:sub|I cop|be&PAST&13S
+	prep|out_of n|school prep|for +...
+%gra:	1|5|LINK 2|1|CONJ 3|2|COORD 4|5|SUBJ 5|8|SUBJ 6|5|OBJ 7|8|AUX 8|0|ROOT
+	9|11|LINK 10|11|SUBJ 11|8|CPRED 12|13|SUBJ 13|11|COMP 14|13|JCT
+	15|14|POBJ 16|13|JCT 17|8|PUNCT
+*S2:	six seven years and (.) you know it sort of glorified (.)
+	&=laughs:S1 school a little bit .
+%mor:	det:num|six det:num|seven n|year-PL coord|and pro:per|you v|know
+	pro:per|it v|sort prep|of part|glorify-PASTP n|school det:art|a
+	adj|little n|bit .
+%gra:	1|2|DATE 2|3|QUANT 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|8|SUBJ
+	8|6|COMP 9|8|JCT 10|9|POBJ 11|10|OBJ 12|14|DET 13|14|MOD 14|10|JCT 15|6|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	the xxx could also be that it's so expensive and [/] and I'm paying
+	for it this time &=laughs:multiple instead of my parents and &-um
+	that can make [/] make a big difference too .
+%mor:	det:art|the mod|could adv|also cop|be comp|that
+	pro:per|it~cop|be&3S adv|so adj|expensive coord|and
+	pro:sub|I~aux|be&1S part|pay-PRESP prep|for pro:per|it det:dem|this
+	n|time adv|instead prep|of det:poss|my n|parent-PL coord|and
+	pro:dem|that mod|can v|make det:art|a adj|big n|difference adv|too .
+%gra:	1|4|DET 2|4|AUX 3|4|JCT 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|PRED 8|9|JCT
+	9|7|PRED 10|13|LINK 11|13|SUBJ 12|13|AUX 13|7|CJCT 14|13|JCT 15|14|POBJ
+	16|17|DET 17|13|JCT 18|17|NJCT 19|18|JCT 20|21|DET 21|19|POBJ 22|25|LINK
+	23|25|SUBJ 24|25|AUX 25|18|CJCT 26|28|DET 27|28|MOD 28|25|OBJ 29|25|JCT
+	30|4|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um so I think that's kinda the [/] the biggest thing .
+%mor:	co|so pro:sub|I v|think comp|that~aux|be&3S adv|kinda det:art|the
+	adj|big-SP n|thing .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|9|SUBJ 5|9|AUX 6|9|JCT 7|9|DET 8|9|MOD
+	9|3|COMP 10|3|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um .
+*S1:	what's been most valuable to you ?
+%mor:	pro:int|what~cop|be&3S aux|be&PASTP qn|most n|valuable prep|to
+	pro:per|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|AUX 4|5|QUANT 5|2|PRED 6|5|NJCT 7|6|POBJ
+	8|2|PUNCT
+*S2:	&-um (0.11) &-uh I don't know +/.
+%mor:	pro:sub|I mod|do~neg|not v|know +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*S1:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um (0.9) probably &-um +...
+%mor:	adv|probable&dadj-LY +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	just (.) talking to different people in the program I've I mean
+	I've +/.
+%mor:	adv|just part|talk-PRESP prep|to adj|different n|person&PL prep|in
+	det:art|the n|program pro:sub|I~aux|have pro:sub|I v|mean
+	pro:sub|I~aux|have +/.
+%gra:	1|2|JCT 2|12|XJCT 3|2|JCT 4|5|MOD 5|3|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|12|SUBJ 10|12|AUX 11|12|SUBJ 12|0|ROOT 13|14|SUBJ 14|12|COMP 15|12|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, feel like I've picked up a_lot_of information from +...
+%mor:	v|feel prep|like pro:sub|I~aux|have part|pick-PASTP adv|up
+	qn|a_lot_of n|inform&dv-TION prep|from +...
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|COMP 6|5|JCT 7|8|QUANT 8|5|OBJ
+	9|5|JCT 10|1|PUNCT
+*S2:	from people (.) just other students &-um but also +...
+%mor:	prep|from n|person&PL adj|just qn|other n|student-PL conj|but
+	adv|also +...
+%gra:	1|0|INCROOT 2|5|MOD 3|5|MOD 4|5|QUANT 5|1|POBJ 6|1|CONJ 7|6|COORD
+	8|1|PUNCT
+*S2:	&-um one of the professors &-um I'm taking a class with him now
+	&-um Rob Buford has started +//.
+%mor:	det:num|one prep|of det:art|the n|professor-PL pro:sub|I~aux|be&1S
+	part|take-PRESP det:art|a n|class prep|with pro:obj|him adv|now
+	n:prop|Rob n:prop|Buford aux|have&3S part|start-PASTP +//.
+%gra:	1|7|LINK 2|1|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|16|JCT 8|9|DET
+	9|7|OBJ 10|7|JCT 11|10|POBJ 12|7|JCT 13|14|NAME 14|16|SUBJ 15|16|AUX
+	16|0|ROOT 17|16|PUNCT
+*S2:	&h has &-um been looking at a_lot_of stuff &-um and he works a_lot
+	with Bob Seyfarth +/.
+%mor:	aux|have&3S aux|be&PASTP part|look-PRESP prep|at qn|a_lot_of
+	n|stuff coord|and pro:sub|he n|work-PL adv|a_lot prep|with
+	n:prop|Bob n:prop|Seyfarth +/.
+%gra:	1|3|AUX 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|CONJ 8|9|SUBJ
+	9|7|COORD 10|9|NJCT 11|10|JCT 12|13|NAME 13|11|POBJ 14|3|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um their +//.
+%mor:	det:poss|their +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	I guess their approach for looking at rivers and streams is (.)
+	that (.) more from like a geomorphological point of view +/.
+%mor:	pro:sub|I v|guess det:poss|their n|approach prep|for
+	n:gerund|look-PRESP prep|at n|river-PL coord|and v|stream-3S
+	cop|be&3S comp|that qn|more prep|from co|like det:art|a
+	adj|geomorphological n|point prep|of n|view +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|5|CPOBJ 7|6|JCT 8|7|POBJ
+	9|2|CONJ 10|9|COORD 11|10|COMP 12|11|PRED 13|12|OM 14|13|JCT 15|18|COM
+	16|18|DET 17|18|MOD 18|14|POBJ 19|18|NJCT 20|19|POBJ 21|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, that like the geology &-um was here first and then &th the
+	biology of the streams and the chemistry all came after that and so
+	that (.) shapes everything +/.
+%mor:	pro:dem|that prep|like det:art|the n|geology cop|be&PAST&13S
+	adv|here adv|first coord|and adv:tem|then det:art|the n|biology
+	prep|of det:art|the n|stream-PL coord|and det:art|the n|chemistry
+	post|all v|come&PAST prep|after pro:dem|that coord|and adv|so
+	pro:rel|that v|shape-3S pro:indef|everything +/.
+%gra:	1|5|SUBJ 2|5|JCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|5|JCT 7|19|JCT 8|19|LINK
+	9|19|JCT 10|11|DET 11|19|SUBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|11|CONJ
+	16|17|DET 17|15|COORD 18|17|PQ 19|5|CPRED 20|19|JCT 21|20|POBJ
+	22|19|CONJ 23|22|COORD 24|25|LINK 25|23|CMOD 26|25|OBJ 27|5|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um just because it was here first and it's older and [/] and
+	there's some interactions that go on after that [/] that just
+	looking at it from that perspective &-um I think is really neat &-um
+	&an <and that's> [/] and that's I think unique to the +//.
+%mor:	adv|just conj|because pro:per|it cop|be&PAST&13S adv|here adv|first
+	coord|and pro:per|it~cop|be&3S adj|old-CP coord|and
+	pro:exist|there~cop|be&3S qn|some inter#n|action-PL pro:rel|that
+	v|go adv|on prep|after adv|that adv|just part|look-PRESP prep|at
+	pro:per|it prep|from det:dem|that n|perspective pro:sub|I v|think
+	aux|be&3S adv|real&dadj-LY adj|neat coord|and pro:dem|that~cop|be&3S
+	pro:sub|I v|think adj|unique prep|to det:art|the +//.
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|9|LINK 8|9|SUBJ
+	9|4|ROOT 10|9|PRED 11|13|LINK 12|13|SUBJ 13|9|ROOT 14|15|QUANT 15|13|PRED
+	16|17|LINK 17|15|ROOT 18|17|JCT 19|17|JCT 20|22|JCT 21|22|JCT
+	22|19|CPOBJ 23|22|JCT 24|23|POBJ 25|22|JCT 26|27|DET 27|25|POBJ 28|29|SUBJ
+	29|17|ROOT 30|32|AUX 31|32|JCT 32|37|JCT 33|32|CONJ 34|33|COORD 35|37|AUX
+	36|37|SUBJ 37|29|ROOT 38|37|JCT 39|38|JCT 40|41|DET 41|39|POBJ
+*S2:	to the school +/.
+%mor:	prep|to det:art|the n|school +/.
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ there's ⌋ not very many people that look at it +/.
+%mor:	pro:exist|there~cop|be&3S neg|not adv|very qn|many n|person&PL
+	pro:rel|that v|look prep|at pro:per|it +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|6|QUANT 6|2|PRED 7|8|LINK 8|6|CMOD
+	9|8|JCT 10|9|POBJ 11|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, from that viewpoint +/.
+%mor:	prep|from det:dem|that n|viewpoint +/.
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um so I think (.) that's probably one of the more +//.
+%mor:	co|so pro:sub|I v|think comp|that~aux|be&3S adv|probable&dadj-LY
+	pro:indef|one prep|of det:art|the adv|more +//.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT 5|4|INCROOT 6|5|JCT 7|6|POBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|5|PUNCT
+*S2:	the good experiences I've had +/.
+%mor:	det:art|the adj|good n|experience-PL pro:sub|I~aux|have
+	part|have&PASTP +/.
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|3|PUNCT
+*S1:	+, ⌈ uhuh [/] uhuh ⌉ +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ here too ⌋ and my fiancee &-um is [/] &-uh is one of Rob
+	Buford's students +/.
+%mor:	adv|here adv|too coord|and det:poss|my n|fiancee cop|be&3S
+	pro:indef|one prep|of n:prop|Rob adj|Buford&dn-POSS n|student-PL +/.
+%gra:	1|2|JCT 2|6|JCT 3|2|CONJ 4|5|DET 5|3|COORD 6|0|ROOT 7|6|PRED 8|7|NJCT
+	9|11|MOD 10|11|MOD 11|8|POBJ 12|6|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and [/] &-um and she's working with Rob and Bill Redmond (.) and
+	(.) on [/] on &-um modeling the +//.
+%mor:	coord|and pro:sub|she~aux|be&3S part|work-PRESP prep|with
+	n:prop|Rob coord|and n:prop|Bill n:prop|Redmond coord|and adv|on
+	part|model-PRESP det:art|the +//.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|9|SUBJ 7|6|CONJ 8|7|COORD
+	9|5|POBJ 10|9|CONJ 11|12|JCT 12|10|COORD 13|14|DET 14|4|PUNCT
+*S2:	all the watersheds in Michigan +/.
+%mor:	qn|all det:art|the n|watershed-PL prep|in n:prop|Michigan +/.
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um based on geology and seeing how that &-um affects the
+	different types of streams and [/] and the different fish that [/]
+	that live here +/.
+%mor:	v|base-PAST prep|on n|geology coord|and part|see-PRESP pro:rel|how
+	adv|that v|affect-3S det:art|the adj|different n|type-PL prep|of
+	n|stream-PL coord|and det:art|the adj|different n|fish pro:rel|that
+	adj|live adv|here +/.
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|CONJ 5|4|COORD 6|8|LINK 7|8|JCT 8|5|CMOD
+	9|11|DET 10|11|MOD 11|8|OBJ 12|11|NJCT 13|12|POBJ 14|8|CONJ 15|17|DET
+	16|17|MOD 17|14|COORD 18|19|LINK 19|17|CMOD 20|19|JCT 21|1|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, so I +//.
+%mor:	co|so pro:sub|I +//.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	I've picked up a_lot through that too +/.
+%mor:	pro:sub|I~aux|have part|pick-PASTP adv|up adv|a_lot adv|through
+	adv|that adv|too +/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|JCT 7|3|JCT 8|3|JCT
+	9|3|PUNCT
+*S1:	+, yeah [/] yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, neat +/.
+%mor:	adj|neat +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	it's the kind of insight that could really affect your thinking
+	through your whole career and +/.
+%mor:	pro:per|it~cop|be&3S det:art|the n|kind prep|of n|insight
+	pro:rel|that mod|could adv|real&dadj-LY v|affect det:poss|your
+	n:gerund|think-PRESP adv|through det:poss|your adj|whole n|career
+	coord|and +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|10|LINK 8|10|AUX
+	9|10|JCT 10|6|CMOD 11|12|DET 12|10|OBJ 13|10|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|16|CONJ 18|2|PUNCT
+*S2:	I +//.
+%mor:	pro:sub|I +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, things [?] that will (.) shift and perspective .
+%mor:	n|thing-PL pro:rel|that mod|will v|shift coord|and n|perspective .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|AUX 4|1|CMOD 5|4|CONJ 6|5|COORD 7|1|PUNCT
+*S2:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	and I just +//.
+%mor:	coord|and pro:sub|I adv|just +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*S2:	I was thinking about it the other day .
+%mor:	pro:sub|I aux|be&PAST&13S part|think-PRESP prep|about pro:per|it
+	det:art|the qn|other n|day .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|8|DET 7|8|QUANT 8|3|JCT
+	9|3|PUNCT
+*S2:	&-um at Saint Lawrence I took a course on fluvial geology .
+%mor:	prep|at n:prop|Saint n:prop|Lawrence pro:sub|I v|take&PAST
+	det:art|a n|course prep|on adj|fluvial n|geology .
+%gra:	1|5|JCT 2|1|POBJ 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|MOD 10|8|POBJ 11|5|PUNCT
+*S1:	uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and it's how water moves &thr through the streams and &-um when
+	it goes around the corner it picks up (.) it cuts the bank and makes
+	a hole and then it +/.
+%mor:	coord|and pro:per|it~cop|be&3S pro:rel|how n|water v|move-3S
+	prep|through det:art|the n|stream-PL coord|and conj|when pro:per|it
+	v|go-3S prep|around det:art|the n|corner pro:per|it v|pick-3S adv|up
+	pro:per|it v|cut-3S det:art|the n|bank coord|and v|make-3S det:art|a
+	n|hole coord|and adv:tem|then pro:per|it +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CPRED 7|6|JCT 8|9|DET
+	9|7|POBJ 10|18|LINK 11|13|LINK 12|13|SUBJ 13|18|CJCT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|18|SUBJ 18|6|CJCT 19|18|JCT 20|21|SUBJ 21|18|COMP
+	22|23|DET 23|21|OBJ 24|21|CONJ 25|24|COORD 26|27|DET 27|25|OBJ 28|25|CONJ
+	29|30|JCT 30|28|COORD 31|3|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ gets ⌋ it's sort_of how the water shapes the channel kinda
+	thing .
+%mor:	v|get-3S pro:per|it~cop|be&3S adv|sort_of pro:int|how det:art|the
+	n|water v|shape-3S det:art|the n|channel adv|kinda n|thing .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|JCT 5|8|LINK 6|7|DET 7|8|SUBJ 8|3|CPRED
+	9|10|DET 10|12|MOD 11|12|MOD 12|8|OBJ 13|1|PUNCT
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and when I took that I took all these &-um freshwater biology
+	courses and I never made the connection +/.
+%mor:	coord|and conj|when pro:sub|I v|take&PAST comp|that pro:sub|I
+	v|take&PAST qn|all det:dem|these adj|+adj|fresh+n|water n|biology
+	n|course-PL coord|and pro:sub|I adv|never v|make&PAST det:art|the
+	n|connection +/.
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP
+	8|12|QUANT 9|12|DET 10|12|MOD 11|12|MOD 12|7|OBJ 13|16|LINK 14|16|SUBJ 15|16|JCT
+	16|7|CJCT 17|18|DET 18|16|OBJ 19|4|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and I don't think anyone at school made the connection +/.
+%mor:	coord|and pro:sub|I mod|do~neg|not v|think pro:indef|anyone prep|at
+	n|school v|make&PAST det:art|the n|connection +/.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|9|SUBJ 7|6|NJCT 8|7|POBJ
+	9|5|COMP 10|11|DET 11|9|OBJ 12|5|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and I'm like you know it's just (.) you think about it and it's
+	so obvious +/.
+%mor:	coord|and pro:sub|I~cop|be&1S prep|like pro:per|you v|know
+	pro:per|it~cop|be&3S adj|just pro:per|you v|think prep|about
+	pro:per|it coord|and pro:per|it~cop|be&3S adv|so adj|obvious +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|SUBJ 6|3|CPRED 7|8|SUBJ 8|6|COMP
+	9|8|PRED 10|11|SUBJ 11|8|CPRED 12|16|JCT 13|16|SUBJ 14|16|LINK
+	15|16|SUBJ 16|11|COMP 17|18|JCT 18|16|PRED 19|3|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, but if you never make the connection &-um +/.
+%mor:	conj|but conj|if pro:per|you adv|never v|make det:art|the
+	n|connection +/.
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, it's so +//.
+%mor:	pro:per|it~cop|be&3S adv|so +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S2:	I was kinda like wondering why you know I never did it but +...
+%mor:	pro:sub|I cop|be&PAST&13S adv|kinda co|like part|wonder-PRESP
+	pro:int|why pro:per|you v|know pro:sub|I adv|never mod|do&PAST
+	pro:per|it conj|but +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|COM 5|12|XJCT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|12|SUBJ 10|12|JCT 11|12|AUX 12|2|PRED 13|12|OM 14|2|PUNCT
+*S2:	but then again no one else ever made the connection too +/.
+%mor:	conj|but adv:tem|then adv|again qn|no pro:indef|one post|else
+	adv|ever v|make&PAST det:art|the n|connection adv|too +/.
+%gra:	1|4|LINK 2|4|JCT 3|4|JCT 4|5|QUANT 5|8|SUBJ 6|5|PQ 7|8|JCT 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|8|JCT 12|8|PUNCT
+*S1:	+, ⌈ right ⌉ +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ so ⌋ +/.
+%mor:	co|so +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um so that was kind_of a neat realization .
+%mor:	adv|so pro:dem|that cop|be&PAST&13S adv|kind_of det:art|a adj|neat
+	n|realize&dv-TION .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|7|JCT 5|7|DET 6|7|MOD 7|3|PRED 8|3|PUNCT
+*S1:	yeah (.) it is (.) and [/] and also how &-um +...
+%mor:	co|yeah pro:per|it cop|be&3S coord|and adv|also pro:rel|how +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|6|JCT 6|4|COORD 7|3|PUNCT
+*S1:	how inexplicable in a way it is when somebody manages to really
+	like shift the (.) thinking in a whole field +/.
+%mor:	pro:int|how adj|inexplicable prep|in det:art|a n|way pro:per|it
+	cop|be&3S pro:rel|when pro:indef|somebody v|manage-3S inf|to
+	adv|real&dadj-LY co|like v|shift det:art|the n:gerund|think-PRESP
+	prep|in det:art|a adj|whole n|field +/.
+%gra:	1|2|JCT 2|6|CSUBJ 3|2|JCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|10|LINK
+	9|10|SUBJ 10|7|CPRED 11|12|INF 12|14|JCT 13|12|COM 14|10|COMP 15|16|DET
+	16|14|OBJ 17|14|JCT 18|20|DET 19|20|MOD 20|17|POBJ 21|7|PUNCT
+*S2:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, and then you think well of_course &=laughs +/.
+%mor:	coord|and adv:tem|then pro:per|you v|think adv|well co|of_course
+	+/.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|COM 7|4|PUNCT
+*S2:	+, ⌈ right ⌉ +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ you know ⌋ that's been there all along but &i it wasn't just
+	difficult for you to see it was difficult for +/.
+%mor:	pro:per|you v|know comp|that~aux|be&3S cop|be&PASTP adv|there
+	adv|all adv|along conj|but pro:per|it cop|be&PAST&13S~neg|not
+	adv|just adj|difficult prep|for pro:per|you inf|to v|see pro:per|it
+	cop|be&PAST&13S adj|difficult prep|for +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|AUX 5|2|COMP 6|5|JCT 7|8|JCT 8|5|JCT
+	9|11|LINK 10|11|SUBJ 11|2|CJCT 12|11|NEG 13|14|JCT 14|11|PRED 15|11|JCT
+	16|18|SUBJ 17|18|INF 18|15|CPOBJ 19|20|SUBJ 20|18|COMP 21|20|PRED 22|20|JCT
+	23|2|PUNCT
+*S2:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, you know difficult for everyone to actually get it in
+	perspective or +/.
+%mor:	pro:per|you v|know adj|difficult prep|for pro:indef|everyone inf|to
+	adv|actual&dadj-LY v|get pro:per|it prep|in n|perspective coord|or
+	+/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT 4|3|JCT 5|4|POBJ 6|8|INF 7|8|JCT 8|5|ROOT
+	9|8|OBJ 10|8|JCT 11|10|POBJ 12|8|CONJ 13|12|COORD
+*S2:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, or to see that it had consequences or you know something like
+	that .
+%mor:	coord|or inf|to v|see comp|that pro:per|it v|have&PAST
+	n|consequence-PL coord|or pro:per|you v|know pro:indef|something
+	prep|like pro:dem|that .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|OBJ 8|10|LINK
+	9|10|SUBJ 10|6|CJCT 11|10|OBJ 12|11|NJCT 13|12|POBJ 14|3|PUNCT
+*S2:	yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and &-um I was talking to &-um another student +/.
+%mor:	coord|and pro:sub|I aux|be&PAST&13S part|talk-PRESP prep|to
+	qn|another n|student +/.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|4|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and she said that +...
+%mor:	coord|and pro:sub|she v|say&PAST comp|that +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OM 5|3|PUNCT
+*S2:	&-um you know &i it's sort_of (.) everybody talks about it and
+	you're like everybody thinks kind of the same way that this had some
+	sort of contact with Rob Buford and Bill Redmond on their +//.
+%mor:	pro:per|you v|know pro:per|it~cop|be&3S adv|sort_of
+	pro:indef|everybody n|talk-PL prep|about pro:per|it coord|and
+	pro:per|you~cop|be&PRES prep|like pro:indef|everybody v|think-3S
+	n|kind prep|of det:art|the adj|same adv|way adv|that det:dem|this
+	v|have&PAST qn|some n|sort prep|of n|contact prep|with n:prop|Rob
+	n:prop|Buford coord|and n:prop|Bill n:prop|Redmond prep|on
+	det:poss|their +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|7|JCT 6|7|MOD 7|2|OBJ 8|7|NJCT
+	9|8|POBJ 10|12|LINK 11|12|SUBJ 12|9|CJCT 13|15|LINK 14|15|SUBJ 15|12|CPRED
+	16|15|OBJ 17|16|NJCT 18|21|DET 19|21|MOD 20|19|JCT 21|17|POBJ 22|23|DET
+	23|15|JCT 24|25|QUANT 25|23|OBJ 26|25|NJCT 27|26|POBJ 28|23|JCT
+	29|30|NAME 30|28|POBJ 31|30|CONJ 32|31|COORD 33|28|POBJ 34|33|NJCT 35|34|POBJ
+	36|2|PUNCT
+*S2:	this idea and she was &-um she went to Notre Dame and she was down
+	talking to some people there and you know &th she was talking to
+	them and [/] and they're like no one thinks this you know +/.
+%mor:	det:dem|this n|idea coord|and pro:sub|she cop|be&PAST&13S
+	pro:sub|she v|go&PAST prep|to n:prop|Notre n:prop|Dame coord|and
+	pro:sub|she aux|be&PAST&13S adv|down part|talk-PRESP prep|to qn|some
+	n|person&PL adv|there coord|and pro:per|you v|know pro:sub|she
+	aux|be&PAST&13S part|talk-PRESP prep|to pro:obj|them coord|and
+	pro:sub|they~cop|be&PRES co|like qn|no pro:indef|one v|think-3S
+	det:dem|this pro:per|you v|know +/.
+%gra:	1|2|DET 2|7|JCT 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|NAME 10|8|POBJ 11|15|LINK 12|15|SUBJ 13|15|AUX 14|15|JCT 15|7|CJCT
+	16|15|JCT 17|18|QUANT 18|16|POBJ 19|18|NJCT 20|22|LINK 21|22|SUBJ
+	22|7|CJCT 23|25|SUBJ 24|25|AUX 25|22|COMP 26|25|JCT 27|26|POBJ 28|30|LINK
+	29|30|SUBJ 30|34|CJCT 31|30|COM 32|33|QUANT 33|34|SUBJ 34|7|CJCT 35|37|DET
+	36|37|SUBJ 37|34|COMP 38|7|PUNCT
+*S2:	+, it's only people there and +/.
+%mor:	pro:per|it~cop|be&3S adv|only n|person&PL adv|there coord|and +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|NJCT 6|4|CONJ 7|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, just step back and realize that not everybody thinks that way
+	+/.
+%mor:	adv|just n|step adv|back coord|and v|realize comp|that neg|not
+	pro:indef|everybody v|think-3S adv|that adv|way +/.
+%gra:	1|2|JCT 2|0|INCROOT 3|2|NJCT 4|2|CONJ 5|4|COORD 6|9|LINK 7|6|NEG
+	8|9|SUBJ 9|5|COMP 10|9|JCT 11|9|JCT 12|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, you know it's just those people with this sphere of influence
+	+/.
+%mor:	pro:per|you v|know pro:per|it~cop|be&3S adj|just det:dem|those
+	n|person&PL prep|with det:dem|this n|sphere prep|of n|influence +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|7|MOD 6|7|DET 7|4|PRED 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|2|PUNCT
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and you know so that could be expanding +/.
+%mor:	coord|and pro:per|you v|know conj|so pro:rel|that mod|could aux|be
+	part|expand-PRESP +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|LINK 6|8|AUX 7|8|AUX 8|3|CJCT
+	9|3|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ until ⌋ it sort of gets (.) chopped down +/.
+%mor:	conj|until pro:per|it v|sort prep|of v|get-3S v|chop-PAST adv|down
+	+/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|OBJ 7|3|JCT 8|3|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ but ⌋ &-um it's kinda neat .
+%mor:	conj|but pro:per|it~cop|be&3S adv|kinda adj|neat .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*S1:	yeah then you also sort_of recognize a role for yourself in your
+	profession then +/.
+%mor:	co|yeah adv:tem|then pro:per|you adv|also adv|sort_of v|recognize
+	det:art|a n|role prep|for pro:refl|yourself prep|in det:poss|your
+	n|profession adv:tem|then +/.
+%gra:	1|6|COM 2|6|JCT 3|6|SUBJ 4|6|JCT 5|6|JCT 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|9|POBJ 11|6|JCT 12|13|DET 13|11|POBJ 14|6|JCT 15|6|PUNCT
+*S2:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, to try to &-um push what seems like (.) &a an obvious or [/] or
+	a really productive sort_of idea so that other people can &-um get
+	it +/.
+%mor:	inf|to v|try inf|to v|push pro:int|what cop|seem-3S conj|like
+	det:art|a adj|obvious coord|or det:art|a adv|real&dadj-LY
+	adj|productive adv|sort_of n|idea adv|so adv|that qn|other
+	n|person&PL mod|can v|get pro:per|it +/.
+%gra:	1|2|INF 2|0|ROOT 3|4|INF 4|2|COMP 5|6|SUBJ 6|4|COMP 7|6|CONJ 8|9|DET
+	9|7|COORD 10|9|CONJ 11|15|DET 12|13|JCT 13|15|MOD 14|15|JCT 15|10|COORD
+	16|18|JCT 17|18|JCT 18|19|QUANT 19|21|SUBJ 20|21|AUX 21|15|CMOD 22|21|OBJ
+	23|2|PUNCT
+*S2:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, and that adds that other [/] other dimension to [/] to +/.
+%mor:	coord|and pro:dem|that v|add-3S comp|that qn|other n|dimension
+	prep|to +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|6|QUANT 6|7|JCT 7|3|JCT 8|7|POBJ
+*S2:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ work ⌋ which I think is quite nice +/.
+%mor:	n|work pro:int|which pro:sub|I v|think aux|be&3S adv|quite adj|nice
+	+/.
+%gra:	1|5|SUBJ 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|PUNCT
+*S2:	+, yes +/.
+%mor:	co|yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, sort_of a [/] a different community you find yourself belonging
+	to .
+%mor:	adv|sort_of det:art|a adj|different n|community pro:per|you v|find
+	pro:refl|yourself part|belong-PRESP prep|to .
+%gra:	1|4|JCT 2|4|DET 3|4|MOD 4|0|INCROOT 5|6|SUBJ 6|4|CMOD 7|6|OBJ 8|6|XJCT
+	9|8|JCT 10|4|PUNCT
+*S2:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, sometimes (be)cause of shared views and sometimes (be)cause of
+	&=laughs +/.
+%mor:	adv|sometimes conj|because prep|of v|share-PAST n|view-PL coord|and
+	adv|sometimes conj|because prep|of +/.
+%gra:	1|0|INCROOT 2|4|LINK 3|4|JCT 4|1|CPOBJ 5|4|OBJ 6|4|CONJ 7|9|JCT
+	8|9|LINK 9|6|COORD 10|1|PUNCT
+*S2:	+, xxx yes +/.
+%mor:	co|yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, you don't share views +/.
+%mor:	pro:per|you mod|do~neg|not v|share n|view-PL +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*S2:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	how did the Matonka river project come up ?
+%mor:	pro:rel|how mod|do&PAST det:art|the n:prop|Matonka n|river
+	n|project v|come adv|up ?
+%gra:	1|7|LINK 2|7|AUX 3|6|DET 4|5|MOD 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+*S2:	&-um &-uh I guess &-um Nell my fiancee +/.
+%mor:	pro:sub|I v|guess n:prop|Nell det:poss|my n|fiancee +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|3|OBJ 6|2|PUNCT
+*S1:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um was +//.
+%mor:	cop|be&PAST&13S +//.
+%gra:	1|0|ROOT 2|1|PUNCT
+*S2:	gave a presentation on the [/] the QCON modeling +//.
+%mor:	v|give&PAST det:art|a n|present&dv-TION prep|on det:art|the
+	n:prop|QCON part|model-PRESP +//.
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|XJCT 8|1|PUNCT
+*S2:	stream segment modeling (.) program that she's (.) working on with
+	Bill and Rob &-um to the American Fisheries Society (.) Michigan
+	chapter meeting &-um last +...
+%mor:	n|stream n|segment part|model-PRESP n|program pro:rel|that
+	pro:sub|she~aux|be&3S part|work-PRESP adv|on prep|with n:prop|Bill
+	coord|and n:prop|Rob prep|to det:art|the n:prop|American
+	n:prop|Fisheries n:prop|Society n:prop|Michigan n|chapter
+	part|meet-PRESP adv|last +...
+%gra:	1|2|MOD 2|4|MOD 3|4|MOD 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD
+	9|8|JCT 10|8|JCT 11|10|POBJ 12|11|CONJ 13|12|COORD 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|18|NAME 18|8|CJCT 19|20|MOD 20|18|OBJ 21|20|XMOD 22|21|JCT
+	23|4|PUNCT
+*S2:	must have been (.) September or October .
+%mor:	mod|must aux|have cop|be&PASTP n:prop|September coord|or
+	n:prop|October .
+%gra:	1|3|AUX 2|3|AUX 3|0|ROOT 4|3|PRED 5|4|CONJ 6|5|COORD 7|3|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and [/] and Lou &-um Peters was there and he was +//.
+%mor:	coord|and n:prop|Lou n:prop|Peters cop|be&PAST&13S adv|there
+	coord|and pro:sub|he cop|be&PAST&13S +//.
+%gra:	1|4|LINK 2|3|NAME 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|4|PUNCT
+*S2:	he graduated from Michigan SNRE last year +/.
+%mor:	pro:sub|he v|graduate-PAST prep|from n:prop|Michigan n:prop|SNRE
+	adj|last n|year +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|7|MOD 6|7|MOD 7|2|JCT 8|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and he was there giving a presentation on (.) the Matonka +/.
+%mor:	coord|and pro:sub|he aux|be&PAST&13S adv|there part|give-PRESP
+	det:art|a n|present&dv-TION prep|on det:art|the n:prop|Matonka +/.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and she heard his talk and thought hey that would be (.) a
+	really good idea &-um for a project and so she mentioned it to +/.
+%mor:	coord|and pro:sub|she v|hear&PAST det:poss|his n|talk coord|and
+	v|think&PAST co|hey pro:dem|that mod|will&COND cop|be det:art|a
+	adv|real&dadj-LY adj|good n|idea prep|for det:art|a n|project
+	coord|and co|so pro:sub|she v|mention-PAST pro:per|it prep|to +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|11|COM
+	9|11|SUBJ 10|11|AUX 11|7|COMP 12|15|DET 13|14|JCT 14|15|MOD 15|11|PRED
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|22|LINK 20|22|COM 21|22|SUBJ
+	22|11|CJCT 23|22|OBJ 24|22|JCT 25|3|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, to myself and I mentioned it to Jack and &-um so he started
+	talking to them and just came out +/.
+%mor:	prep|to pro:refl|myself coord|and pro:sub|I v|mention-PAST
+	pro:per|it prep|to n:prop|Jack coord|and co|so pro:sub|he
+	v|start-PAST part|talk-PRESP prep|to pro:obj|them coord|and adv|just
+	v|come&PAST adv|out +/.
+%gra:	1|0|INCROOT 2|1|POBJ 3|5|LINK 4|5|SUBJ 5|1|CPOBJ 6|5|OBJ 7|5|JCT
+	8|7|POBJ 9|12|LINK 10|12|COM 11|12|SUBJ 12|5|CJCT 13|12|COMP 14|13|JCT
+	15|14|POBJ 16|13|CONJ 17|18|JCT 18|16|COORD 19|18|JCT 20|1|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, about that way &-um (0.4) so that's +/.
+%mor:	prep|about det:dem|that n|way conj|so pro:dem|that~cop|be&3S +/.
+%gra:	1|6|JCT 2|3|DET 3|1|POBJ 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, kind_of +...
+%mor:	adv|kind_of +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	how that came about +/.
+%mor:	pro:rel|how adv|that v|come&PAST adv|about +/.
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um oh also about (.) the [/] &-um the [/] &proj the master's
+	project was one of the reasons why (.) I came here +/.
+%mor:	co|oh adv|also prep|about det:art|the adj|master&dn-POSS n|project
+	cop|be&PAST&13S det:num|one prep|of det:art|the n|reason-PL
+	pro:rel|why pro:sub|I v|come&PAST adv|here +/.
+%gra:	1|7|COM 2|7|JCT 3|7|JCT 4|6|DET 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|PRED
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|14|JCT
+	16|7|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um because I think it's unique it's [/] it's practical +/.
+%mor:	conj|because pro:sub|I v|think pro:per|it~cop|be&3S adj|unique
+	pro:per|it~cop|be&3S adj|practical +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|PRED 7|8|SUBJ 8|5|PRED
+	9|8|PRED 10|3|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ experience ⌋ and I think a thesis can be good but &-um I don't
+	want to go into research (.) I wanna you know I wanna do something
+	+/.
+%mor:	n|experience coord|and pro:sub|I v|think det:art|a n|thesis mod|can
+	cop|be adj|good conj|but pro:sub|I mod|do~neg|not v|want inf|to v|go
+	prep|into n|research pro:sub|I v|want~inf|to pro:per|you v|know
+	pro:sub|I v|want~inf|to v|do pro:indef|something +/.
+%gra:	1|20|SUBJ 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|6|DET 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|8|PRED 10|14|LINK 11|14|SUBJ 12|14|AUX 13|12|NEG 14|20|CJCT 15|16|INF
+	16|14|COMP 17|16|JCT 18|17|POBJ 19|20|SUBJ 20|0|ROOT 21|23|INF
+	22|23|SUBJ 23|20|COMP 24|25|SUBJ 25|20|CJCT 26|27|INF 27|25|COMP 28|27|OBJ
+	29|20|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, that's more applied so +/.
+%mor:	pro:rel|that~aux|be&3S adv|more part|apply-PASTP adv|so +/.
+%gra:	1|4|LINK 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ I think ⌋ +/.
+%mor:	pro:sub|I v|think +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, that was good experience +/.
+%mor:	pro:dem|that cop|be&PAST&13S adj|good n|experience +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	yeah <I think it's> [/] &a I think it's really rich +/.
+%mor:	co|yeah pro:sub|I v|think pro:per|it~cop|be&3S adv|real&dadj-LY
+	adj|rich +/.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|JCT 7|5|PRED 8|3|PUNCT
+*S2:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, I mean just as a (.) kind_of educational opportunity looking
+	around different (.) programs and stuff on campus .
+%mor:	pro:sub|I v|mean adv|just conj|as det:art|a adv|kind_of
+	adj|educate&dn-TION-AL n|opportunity part|look-PRESP adv|around
+	adj|different n|program-PL coord|and n|stuff prep|on n|campus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|8|COORD 5|8|DET 6|7|JCT 7|8|MOD 8|2|CJCT
+	9|8|XMOD 10|9|JCT 11|12|MOD 12|9|OBJ 13|12|CONJ 14|13|COORD 15|14|NJCT
+	16|15|POBJ 17|2|PUNCT
+*S2:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, this getting xxx you know &get really getting into a project (.)
+	that &-um other people +...
+%mor:	pro:dem|this part|get-PRESP pro:per|you v|know adv|real&dadj-LY
+	part|get-PRESP prep|into det:art|a n|project pro:rel|that qn|other
+	n|person&PL +...
+%gra:	1|0|INCROOT 2|1|XJCT 3|4|SUBJ 4|2|COMP 5|6|JCT 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|12|LINK 11|12|QUANT 12|9|CMOD 13|1|PUNCT
+*S1:	are wanting to do +/.
+%mor:	aux|be&PRES part|want-PRESP inf|to v|do +/.
+%gra:	1|2|AUX 2|0|ROOT 3|4|INF 4|2|COMP 5|2|PUNCT
+*S2:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &-um and you know can use your help and so there's real direct
+	issues about &-um its usefulness and also the negotiating to make it
+	useful it's +/.
+%mor:	coord|and pro:per|you v|know mod|can v|use det:poss|your n|help
+	coord|and adv|so pro:exist|there~cop|be&3S adj|real adv|direct
+	n|issue-PL prep|about det:poss|its n|use-FUL-NESS coord|and adv|also
+	det:art|the n:gerund|negotiate-PRESP inf|to v|make pro:per|it
+	n|use-FUL pro:per|it~cop|be&3S +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|AUX 5|3|COMP 6|7|DET 7|5|OBJ 8|11|LINK
+	9|11|JCT 10|11|SUBJ 11|3|CJCT 12|14|MOD 13|14|JCT 14|11|PRED 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|11|CONJ 19|21|JCT 20|21|DET 21|18|COORD 22|23|INF
+	23|21|XJCT 24|27|SUBJ 25|27|JCT 26|27|SUBJ 27|23|COMP 28|3|PUNCT
+*S2:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌈ <I think it's really pretty neat> [?] ⌉ .
+%mor:	pro:sub|I v|think pro:per|it~cop|be&3S adv|real&dadj-LY adv|pretty
+	adj|neat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|JCT 6|7|JCT 7|4|PRED 8|2|PUNCT
+*S2:	⌊ that &f yeah and the ⌋ group interactions +/.
+%mor:	comp|that co|yeah coord|and det:art|the n|group inter#n|action-PL
+	+/.
+%gra:	1|2|LINK 2|0|INCROOT 3|2|CONJ 4|5|DET 5|6|SUBJ 6|3|COORD 7|2|PUNCT
+*S1:	yeah ⌈ yeah ⌉ +/.
+%mor:	co|yeah co|yeah +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	+, ⌊ yeah ⌋ I think that's +//.
+%mor:	co|yeah pro:sub|I v|think comp|that~aux|be&3S +//.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|PUNCT
+*S2:	that was a big &-um +...
+%mor:	pro:dem|that cop|be&PAST&13S det:art|a adj|big +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*S2:	realization for this school +/.
+%mor:	n|realize&dv-TION prep|for det:dem|this n|school +/.
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, that you know to realize that (.) you know we're not here to
+	just to educate people to go +//.
+%mor:	comp|that pro:per|you v|know inf|to v|realize comp|that pro:per|you
+	v|know pro:sub|we~cop|be&PRES neg|not adv|here prep|to adj|just
+	inf|to v|educate n|person&PL inf|to v|go +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|10|SUBJ 10|3|CJCT 11|10|NEG 12|10|JCT 13|10|JCT 14|13|POBJ 15|16|INF
+	16|14|XMOD 17|16|OBJ 18|19|INF 19|17|XMOD 20|3|PUNCT
+*S2:	to [/] &commun to continue on in education research +/.
+%mor:	inf|to v|continue adv|on prep|in n|educate&dv-TION n|research +/.
+%gra:	1|2|INF 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, that people go out excuse_me and [/] and do other things +/.
+%mor:	det:dem|that n|person&PL v|go adv|out co|excuse_me coord|and v|do
+	qn|other n|thing-PL +/.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|COM 6|3|CONJ 7|6|COORD 8|9|QUANT
+	9|7|OBJ 10|3|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and you know it's +//.
+%mor:	coord|and pro:per|you v|know pro:per|it~cop|be&3S +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*S2:	we need to support that too +/.
+%mor:	pro:sub|we v|need inf|to v|support pro:dem|that adv|too +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, (be)cause I think sometimes &educa educators can get (.) I mean
+	just research and just too +/.
+%mor:	conj|because pro:sub|I v|think adv|sometimes n|educator-PL mod|can
+	v|get pro:sub|I v|mean adj|just n|research coord|and adv|just
+	adv|too +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|3|JCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|SUBJ
+	9|7|COMP 10|11|MOD 11|9|OBJ 12|11|CONJ 13|14|JCT 14|12|COORD 15|7|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ focused ⌋ on [/] on xxx .
+%mor:	v|focus-PAST adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*S1:	yeah [/] yeah so you get kind_of a closed loop .
+%mor:	co|yeah conj|so pro:per|you v|get adv|kind_of det:art|a
+	part|close-PASTP n|loop .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*S2:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, (.) so that's sounds like how you came to &-um be in the group
+	was that &-uh Nell told you about it and you [/] &cou you got Jack
+	involved in it (.) and then how about Pedro (.) and (.) Satosh ?
+%mor:	co|so pro:dem|that~cop|be&3S n|sound-PL prep|like pro:int|how
+	pro:per|you v|come&PAST inf|to cop|be prep|in det:art|the n|group
+	cop|be&PAST&13S pro:rel|that n:prop|Nell v|tell&PAST pro:per|you
+	prep|about pro:per|it coord|and pro:per|you v|get&PAST n:prop|Jack
+	v|involve-PAST prep|in pro:per|it coord|and adv:tem|then pro:int|how
+	prep|about n:prop|Pedro coord|and n:prop|Satosh ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|8|LINK 7|8|SUBJ 8|5|CPOBJ
+	9|10|INF 10|8|COMP 11|10|JCT 12|13|DET 13|14|SUBJ 14|11|POBJ 15|17|LINK
+	16|17|SUBJ 17|14|CMOD 18|17|OBJ 19|17|JCT 20|19|POBJ 21|23|LINK
+	22|23|SUBJ 23|20|CJCT 24|25|SUBJ 25|23|COMP 26|25|JCT 27|26|POBJ 28|25|CONJ
+	29|28|COORD 30|32|LINK 31|32|JCT 32|29|COBJ 33|32|CONJ 34|33|COORD
+	35|3|PUNCT
+*S2:	&-um I think we just [/] just through the master's &-um planning
+	course +/.
+%mor:	pro:sub|I v|think pro:sub|we adv|just prep|through det:art|the
+	n|master~aux|be&3S part|plan-PRESP n|course +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|9|SUBJ 4|9|JCT 5|9|JCT 6|7|DET 7|5|POBJ 8|9|AUX
+	9|2|COMP 10|9|OBJ 11|2|PUNCT
+*S1:	⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ project ⌋ and process &-um +...
+%mor:	n|project coord|and n|process +...
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S2:	we +...
+%mor:	pro:sub|we +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	I guess we had started talking before Christmas &-um we had +...
+%mor:	pro:sub|I v|guess pro:sub|we aux|have&PAST part|start-PASTP
+	part|talk-PRESP conj|before n:prop|Christmas pro:sub|we v|have&PAST
+	+...
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|XJCT 7|6|JCT 8|7|POBJ
+	9|10|SUBJ 10|8|CMOD 11|2|PUNCT
+*S2:	I guess I sent around &s an [/] an email summarizing (.) sort_of
+	(.) we were &sen people were sending back and forth potential topics
+	+/.
+%mor:	pro:sub|I v|guess pro:sub|I v|send&PAST prep|around det:art|a
+	n|email n:gerund|summary-IZE-PRESP adv|sort_of pro:sub|we
+	aux|be&PAST n|person&PL aux|be&PAST part|send-PRESP adv|back
+	coord|and adv|forth n|potential n|topic-PL +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|14|JCT
+	9|8|JCT 10|14|SUBJ 11|14|AUX 12|14|SUBJ 13|14|AUX 14|4|XJCT 15|14|JCT
+	16|14|CONJ 17|18|JCT 18|19|MOD 19|16|COORD 20|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, projects &-um we sent that around and I think we had &-um +...
+%mor:	n|project-PL pro:sub|we v|send&PAST adv|that adv|around coord|and
+	pro:sub|I v|think pro:sub|we part|have&PASTP +...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|10|SUBJ 10|8|COMP 11|3|PUNCT
+*S2:	that was (.) kinda informal +/.
+%mor:	pro:dem|that cop|be&PAST&13S adv|kinda in#adj|form&dn-AL +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ and that ⌋ started like in November +/.
+%mor:	coord|and adv|that part|start-PASTP co|like prep|in n:prop|November
+	+/.
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|COM 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and then &-um +...
+%mor:	coord|and adv:tem|then +...
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*S2:	and I think I posted some information on it and then +...
+%mor:	coord|and pro:sub|I v|think pro:sub|I v|post-PAST qn|some
+	n|inform&dv-TION prep|on pro:per|it coord|and adv:tem|then +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|QUANT 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|3|PUNCT
+*S2:	I guess just <in the> [/] <in the> [/] &-um in the class we (.) Lou
+	came in and [/] and gave a (.) talk on it and [/] &s and &-um showed
+	some aerial footage +/.
+%mor:	pro:sub|I v|guess adv|just prep|in det:art|the n|class pro:sub|we
+	n:prop|Lou v|come&PAST adv|in coord|and v|give&PAST det:art|a n|talk
+	prep|on pro:per|it coord|and v|show-PAST qn|some adj|aerial
+	n|footage +/.
+%gra:	1|2|SUBJ 2|9|CJCT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|9|SUBJ 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|9|CONJ 12|11|COORD 13|14|DET 14|12|OBJ 15|12|JCT
+	16|15|POBJ 17|9|CONJ 18|17|COORD 19|21|QUANT 20|21|MOD 21|18|OBJ 22|9|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um of the river (.) and (.) so I just (.) I think through [/]
+	through that whole process +/.
+%mor:	prep|of det:art|the n|river coord|and co|so pro:sub|I adv|just
+	pro:sub|I v|think adv|through det:dem|that adj|whole n|process +/.
+%gra:	1|9|JCT 2|3|DET 3|1|POBJ 4|9|LINK 5|9|COM 6|9|SUBJ 7|9|JCT 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|13|DET 12|13|MOD 13|9|JCT 14|9|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ and ⌋ they just seemed interested in it .
+%mor:	coord|and pro:sub|they adv|just cop|seem-PAST v|interest-PAST
+	prep|in pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*S1:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&-um a &w &-uh at this what do you think you can contribute to the
+	group ?
+%mor:	det:art|a prep|at det:dem|this pro:int|what mod|do pro:per|you
+	v|think pro:per|you mod|can v|contribute prep|to det:art|the n|group
+	?
+%gra:	1|10|DET 2|10|JCT 3|7|DET 4|7|SUBJ 5|7|AUX 6|7|SUBJ 7|2|POBJ 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|10|JCT 12|13|DET 13|11|POBJ 14|10|PUNCT
+*S2:	I think +...
+%mor:	pro:sub|I v|think +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S2:	I have &-um besides my (.) sorta biology background &-um I mean I
+	can certainly contribute that but [?] (.) my work experience &-um
+	+/.
+%mor:	pro:sub|I v|have adv|besides co|my adv|sorta n|biology n|background
+	pro:sub|I adj|mean pro:sub|I mod|can adv|certain&dadj-LY
+	v|contribute comp|that conj|but det:poss|my n|work n|experience +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|COM 5|2|JCT 6|7|MOD 7|5|POBJ 8|7|NJCT
+	9|8|PRED 10|13|SUBJ 11|13|AUX 12|13|JCT 13|9|CMOD 14|13|OBJ 15|14|CONJ
+	16|18|DET 17|18|MOD 18|15|COORD 19|2|PUNCT
+*S1:	yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, I managed a_lot_of projects &-um +/.
+%mor:	pro:sub|I part|manage-PASTP qn|a_lot_of n|project-PL +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, I think that's (.) certainly (.) can be useful +/.
+%mor:	pro:sub|I v|think comp|that~aux|be&3S adv|certain&dadj-LY mod|can
+	cop|be adj|use&dn-FULL +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|SUBJ 4|7|AUX 5|7|JCT 6|7|AUX 7|2|COMP 8|7|PRED
+	9|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and +...
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, I tend [/] &t tend to be an organizer +/.
+%mor:	pro:sub|I v|tend inf|to cop|be det:art|a n|organize&dv-AGT +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|PRED 7|2|PUNCT
+*S1:	+, yeah [/] yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &=laughs &-um you may have noticed +/.
+%mor:	pro:per|you mod|may aux|have part|notice-PASTP +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um I think (.) that [/] that can be useful &-um if it doesn't
+	get [/] get out_of control &=laughs:multiple &-um +...
+%mor:	pro:sub|I v|think adv|that mod|can cop|be n|use-FUL conj|if
+	pro:per|it mod|do&3S~neg|not v|get prep|out_of n|control +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|AUX 5|2|COMP 6|5|PRED 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|2|CJCT 12|11|JCT 13|12|POBJ 14|2|PUNCT
+*S1:	so how's that working out so far ?
+%mor:	co|so pro:rel|how~aux|be&3S adv|that part|work-PRESP adv|out adv|so
+	adj|far ?
+%gra:	1|5|COM 2|5|LINK 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|JCT 8|5|JCT
+	9|5|PUNCT
+*S2:	&-um pretty well &-um +...
+%mor:	adv|pretty adv|well +...
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*S2:	they think at [/] at times +...
+%mor:	pro:sub|they v|think prep|at n|time-PL +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*S2:	I don't know I mean I think it it's helping the group .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:sub|I adj|mean pro:sub|I
+	v|think pro:per|it pro:per|it~aux|be&3S part|help-PRESP det:art|the
+	n|group .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|SUBJ 6|8|JCT 7|8|SUBJ 8|4|COMP
+	9|8|OBJ 10|12|SUBJ 11|12|AUX 12|8|COMP 13|14|DET 14|12|OBJ 15|4|PUNCT
+*S2:	I [x 3] hope it's not frustrating people .
+%mor:	pro:sub|I v|hope pro:per|it~cop|be&3S neg|not
+	n:gerund|frustrate-PRESP n|person&PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|NEG 6|7|MOD 7|4|PRED 8|2|PUNCT
+*S2:	&-um I get &frustrate frustrated sometimes a little at +/.
+%mor:	pro:sub|I aux|get part|frustrate-PASTP adv|sometimes det:art|a
+	adj|little prep|at +/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|JCT 5|7|DET 6|7|MOD 7|3|JCT 8|3|PUNCT
+*S1:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, at some of the disorganization but [/] but that's just sort of a
+	group (.) situation .
+%mor:	prep|at pro:indef|some prep|of det:art|the dis#n|organize&dv-TION
+	conj|but pro:rel|that~cop|be&3S adj|just n|sort prep|of det:art|a
+	n|group n|situate&dv-TION .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|1|CONJ 7|8|LINK
+	8|6|COORD 9|10|MOD 10|8|PRED 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|1|PUNCT
+*S2:	we decided to [/] to have a facilitator &-uh to facilitate meetings
+	+/.
+%mor:	pro:sub|we v|decide-PAST inf|to v|have det:art|a n|facilitator
+	inf|to v|facilitate n:gerund|meet-PRESP-PL +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|8|INF 8|6|XMOD
+	9|8|OBJ 10|2|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and I don't remember if you were there (.) but <I was not>
+	[?] .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|remember conj|if pro:per|you
+	cop|be&PAST adv|there conj|but pro:sub|I cop|be&PAST&13S neg|not .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|8|JCT 10|12|LINK 11|12|SUBJ 12|8|CJCT 13|12|NEG 14|5|PUNCT
+*S1:	&-um I know you +...
+%mor:	pro:sub|I v|know pro:per|you +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*S1:	&-uh &y you sent a message +/.
+%mor:	pro:per|you v|send&PAST det:art|a n|message +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*S2:	⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ about it ⌋ (.) and I think at this meeting where Pedro wasn't
+	there the one we were just looking at +/.
+%mor:	prep|about pro:per|it coord|and pro:sub|I v|think prep|at
+	det:dem|this part|meet-PRESP pro:int|where n:prop|Pedro
+	cop|be&PAST&13S~neg|not adv|there det:art|the det:num|one pro:sub|we
+	aux|be&PAST adv|just part|look-PRESP prep|at +/.
+%gra:	1|0|INCROOT 2|1|POBJ 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|5|JCT 7|8|DET
+	8|6|POBJ 9|11|LINK 10|11|SUBJ 11|8|COMP 12|11|NEG 13|15|JCT 14|15|DET
+	15|11|PRED 16|19|SUBJ 17|19|AUX 18|19|JCT 19|15|CMOD 20|19|JCT 21|1|PUNCT
+*S2:	+, ⌈ uhuh ⌉ +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ it came up ⌋ to talk about and it seemed like a good idea +/.
+%mor:	pro:per|it v|come&PAST adv|up prep|to n|talk adv|about coord|and
+	pro:per|it cop|seem-PAST prep|like det:art|a adj|good n|idea +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|JCT 7|9|LINK 8|9|SUBJ
+	9|2|CJCT 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|2|PUNCT
+*S2:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, among the three of you +/.
+%mor:	prep|among det:art|the det:num|three prep|of pro:per|you +/.
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*S2:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &-um .
+*S2:	okay (.) and then we talked about it with Pedro the next time we
+	met and +/.
+%mor:	co|okay coord|and adv:tem|then pro:sub|we v|talk-PAST prep|about
+	pro:per|it prep|with n:prop|Pedro det:art|the adj|next n|time
+	pro:sub|we v|meet&PAST coord|and +/.
+%gra:	1|5|COM 2|1|CONJ 3|2|COORD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|8|POBJ 10|12|DET 11|12|MOD 12|5|PUNCT 13|14|SUBJ 14|12|ROOT 15|14|CONJ
+	16|15|COORD
+*S1:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, that (.) he seemed to think <that was> [/] &a that was okay .
+%mor:	comp|that pro:sub|he cop|seem-PAST inf|to v|think pro:dem|that
+	cop|be&PAST&13S adj|okay .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XJCT 6|7|SUBJ 7|5|COMP 8|7|PRED
+	9|3|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and then I know that he thought it was like absolutely
+	necessary +/.
+%mor:	coord|and adv:tem|then pro:sub|I v|know comp|that pro:sub|he
+	v|think&PAST pro:per|it cop|be&PAST&13S prep|like
+	adv|absolute&dadj-LY adj|necessary +/.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|9|SUBJ
+	9|7|COMP 10|9|JCT 11|12|JCT 12|10|POBJ 13|4|PUNCT
+*S1:	+, ⌈ uhuh ⌉ +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ but ⌋ &-um +...
+%mor:	conj|but +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	so we [/] we decided that it would be +//.
+%mor:	co|so pro:sub|we v|decide-PAST comp|that pro:per|it mod|will&COND
+	cop|be +//.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|3|PUNCT
+*S2:	we'd each take a turn doing it for a month +/.
+%mor:	pro:sub|we~mod|genmod qn|each v|take det:art|a n|turn part|do-PRESP
+	pro:per|it prep|for det:art|a n|month +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|4|QUANT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|XJCT 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and I said that I'd take it for April +/.
+%mor:	coord|and pro:sub|I v|say&PAST comp|that pro:sub|I~mod|genmod
+	v|take pro:per|it prep|for n:prop|April +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|OBJ
+	9|7|JCT 10|9|POBJ 11|3|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and then I think (.) Satosh is gonna take it for May &-um
+	+...
+%mor:	coord|and adv:tem|then pro:sub|I v|think n:prop|Satosh aux|be&3S
+	part|go-PRESP~inf|to v|take pro:per|it prep|for n:prop|May +...
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|9|INF
+	9|7|COMP 10|9|OBJ 11|9|JCT 12|11|POBJ 13|4|PUNCT
+*S2:	I mean sorta figure out who &would +/.
+%mor:	pro:sub|I v|mean adv|sorta v|figure prep|out pro:rel|who +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|COMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ the ⌋ first four months +/.
+%mor:	det:art|the adj|first det:num|four n|month-PL +/.
+%gra:	1|4|DET 2|4|MOD 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and then we just keep rotating +/.
+%mor:	coord|and adv:tem|then pro:sub|we adv|just v|keep part|rotate-PRESP
+	+/.
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|COMP 7|5|PUNCT
+*S1:	+, right [/] right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, so but just &-um sort_of +/.
+%mor:	adv|so conj|but adv|just adv|sort_of +/.
+%gra:	1|2|JCT 2|0|INCROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ making ⌋ sure that we have a room &-um letting people know
+	when we're gonna meet next that sort of thing +/.
+%mor:	part|make-PRESP adj|sure comp|that pro:sub|we v|have det:art|a
+	n|room n:gerund|let-PRESP n|person&PL v|know pro:int|when
+	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|meet adj|next adv|that
+	n|sort prep|of n|thing +/.
+%gra:	1|0|INCROOT 2|1|PRED 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|7|DET 7|5|OBJ
+	8|10|LINK 9|10|SUBJ 10|7|CMOD 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|COMP
+	15|16|INF 16|14|COMP 17|16|PRED 18|17|JCT 19|18|POBJ 20|19|NJCT 21|20|POBJ
+	22|1|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um trying to keep the meetings a little bit on track so we
+	don't go off talking about (.) you know the hockey game or something
+	for forty minutes <if we> [/] if we've got a limited amount of time
+	to ⌈ work in ⌉ .
+%mor:	part|try-PRESP inf|to v|keep det:art|the n:gerund|meet-PRESP-PL
+	det:art|a adj|little n|bit prep|on n|track co|so pro:sub|we
+	mod|do~neg|not v|go adv|off part|talk-PRESP prep|about pro:per|you
+	v|know det:art|the n|hockey n|game coord|or pro:indef|something
+	prep|for det:num|forty n|minute-PL comp|if pro:sub|we~aux|have
+	part|get&PASTP det:art|a part|limit-PASTP n|amount prep|of n|time
+	inf|to v|work adv|in .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|9|POBJ 11|15|COM 12|15|SUBJ 13|15|AUX 14|13|NEG 15|8|XMOD
+	16|15|JCT 17|15|XJCT 18|20|JCT 19|20|SUBJ 20|17|CJCT 21|23|DET 22|23|MOD
+	23|20|OBJ 24|23|CONJ 25|24|COORD 26|25|NJCT 27|28|QUANT 28|26|POBJ
+	29|32|LINK 30|32|SUBJ 31|32|AUX 32|28|CMOD 33|35|DET 34|35|MOD 35|32|OBJ
+	36|35|NJCT 37|36|POBJ 38|39|INF 39|32|XJCT 40|39|JCT 41|1|PUNCT
+*S1:	⌊ yeah ⌋ yeah .
+%mor:	co|yeah co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	do you feel like the &-uh group so far has been &-uh relatively
+	disorganized ?
+%mor:	mod|do pro:per|you v|feel prep|like det:art|the n|group adv|so
+	adj|far aux|have&3S aux|be&PASTP adj|relative&dn-LY
+	dis#part|organize-PASTP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|JCT 8|3|JCT
+	9|12|SUBJ 10|12|AUX 11|12|MOD 12|8|CMOD 13|3|PUNCT
+*S1:	maybe has &-um wasted time ?
+%mor:	adv|maybe aux|have&3S part|waste-PASTP n|time ?
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S2:	I don't think so I mean and there's (.) you know every time you get
+	people together you're gonna go off on a tangent +/.
+%mor:	pro:sub|I mod|do~neg|not v|think co|so pro:sub|I adj|mean coord|and
+	pro:exist|there~cop|be&3S pro:per|you v|know qn|every n|time
+	pro:per|you v|get n|person&PL adv|together pro:per|you~aux|be&PRES
+	part|go-PRESP~inf|to v|go adv|off prep|on det:art|a n|tangent +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|10|COM 6|10|SUBJ 7|10|MOD 8|7|CONJ
+	9|8|COORD 10|4|COMP 11|12|SUBJ 12|10|CPRED 13|14|QUANT 14|12|OBJ
+	15|16|SUBJ 16|14|CMOD 17|16|OBJ 18|16|JCT 19|21|SUBJ 20|21|AUX 21|16|XJCT
+	22|23|INF 23|21|COMP 24|23|JCT 25|23|JCT 26|27|DET 27|25|POBJ 28|4|PUNCT
+*S1:	⌈ yes [/] yes ⌉ +/.
+%mor:	co|yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ every once ⌋ in a while and that's +//.
+%mor:	qn|every adv|once prep|in det:art|a n|while coord|and
+	pro:dem|that~cop|be&3S +//.
+%gra:	1|2|QUANT 2|8|JCT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|0|ROOT
+	9|8|PUNCT
+*S2:	I certainly understand that and that's fine +/.
+%mor:	pro:sub|I adv|certain&dadj-LY v|understand pro:dem|that coord|and
+	pro:dem|that~cop|be&3S adj|fine +/.
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|PRED
+	9|3|PUNCT
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	so I don't think we've wasted I mean I don't think we've +/.
+%mor:	co|so pro:sub|I mod|do~neg|not v|think pro:sub|we~aux|have
+	part|waste-PASTP pro:sub|I adj|mean pro:sub|I mod|do~neg|not v|think
+	pro:sub|we~aux|have +/.
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|SUBJ 7|8|AUX 8|5|COMP
+	9|16|SUBJ 10|16|JCT 11|14|SUBJ 12|14|AUX 13|12|NEG 14|10|CMOD 15|16|SUBJ
+	16|5|CJCT 17|5|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ wasted ⌋ lots_of time +/.
+%mor:	part|waste-PASTP qn|lots_of n|time +/.
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ <at all> [?] ⌋ .
+%mor:	prep|at pro:indef|all .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*S1:	yeah (.) how about the burden to you because you have been (.)
+	kind_of the &-um +...
+%mor:	co|yeah pro:rel|how prep|about det:art|the n|burden prep|to
+	pro:per|you conj|because pro:per|you v|have aux|be&PASTP adv|kind_of
+	det:art|the +...
+%gra:	1|0|INCROOT 2|5|LINK 3|5|JCT 4|5|DET 5|1|PUNCT 6|5|NJCT 7|6|POBJ
+	8|10|LINK 9|10|SUBJ 10|5|ROOT 11|13|AUX 12|13|JCT 13|14|DET 14|10|ROOT
+*S1:	the +//.
+%mor:	det:art|the +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&y you've been the +/.
+%mor:	pro:per|you~aux|have cop|be&PASTP det:art|the +/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S2:	⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ organizer ⌋ as you say +/.
+%mor:	n|organize&dv-AGT prep|as pro:per|you v|say +/.
+%gra:	1|0|INCROOT 2|4|COORD 3|4|SUBJ 4|1|ENUM 5|1|PUNCT
+*S2:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ you've ⌋ been the person who sent the messages and (.) made
+	the suggestions +/.
+%mor:	pro:per|you~aux|have cop|be&PASTP det:art|the n|person pro:rel|who
+	v|send&PAST det:art|the n|message-PL coord|and v|make&PAST
+	det:art|the n|suggestion-PL +/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|PRED 6|7|LINK 7|5|CMOD 8|9|DET
+	9|7|OBJ 10|3|CONJ 11|10|COORD 12|13|DET 13|11|OBJ 14|3|PUNCT
+*S2:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ and kind of ⌋ &-um +/.
+%mor:	coord|and adj|kind prep|of +/.
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|1|PUNCT
+*S1:	+, ⌊ kept ⌋ things going .
+%mor:	v|keep&PAST n|thing-PL part|go-PRESP .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|1|PUNCT
+*S2:	I &don it hasn't been (.) a burden really +/.
+%mor:	pro:sub|I pro:per|it aux|have&3S~neg|not aux|be&PASTP det:art|a
+	n|burden adv|real&dadj-LY +/.
+%gra:	1|7|SUBJ 2|7|SUBJ 3|7|AUX 4|3|NEG 5|7|AUX 6|7|DET 7|0|INCROOT 8|7|NJCT
+	9|7|PUNCT
+*S1:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, I mean it's [/] it's kind_of it's my turn to have things the way
+	I'd like them +/.
+%mor:	pro:sub|I v|mean pro:per|it~cop|be&3S adv|kind_of
+	pro:per|it~cop|be&3S det:poss|my n|turn inf|to v|have n|thing-PL
+	det:art|the n|way pro:sub|I~mod|genmod v|like pro:obj|them +/.
+%gra:	1|2|SUBJ 2|7|SUBJ 3|2|OBJ 4|7|AUX 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|PRED 10|11|INF 11|9|XMOD 12|11|OBJ 13|14|DET 14|12|APP 15|17|SUBJ
+	16|17|AUX 17|14|CMOD 18|17|OBJ 19|7|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ to be ⌋ so [/] so I don't really see that as a burden +/.
+%mor:	inf|to cop|be conj|so pro:sub|I mod|do~neg|not adv|real&dadj-LY
+	v|see comp|that prep|as det:art|a n|burden +/.
+%gra:	1|2|INF 2|0|ROOT 3|8|LINK 4|8|SUBJ 5|8|AUX 6|5|NEG 7|8|JCT 8|2|CJCT
+	9|8|OBJ 10|9|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*S1:	+, yeah ⌈ yeah ⌉ +/.
+%mor:	co|yeah co|yeah +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	+, ⌊ &-um ⌋ and [/] and I also look at it as maybe it sets some
+	precedents +/.
+%mor:	coord|and pro:sub|I adv|also v|look prep|at pro:per|it prep|as
+	adv|maybe pro:per|it v|set-3S qn|some n|precedent-PL +/.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|10|JCT
+	9|10|SUBJ 10|7|CPOBJ 11|12|QUANT 12|10|OBJ 13|4|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um which +/.
+%mor:	pro:int|which +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ would ⌋ be good for me I don't know +/.
+%mor:	mod|will&COND cop|be adj|good prep|for pro:obj|me pro:sub|I
+	mod|do~neg|not v|know +/.
+%gra:	1|2|AUX 2|9|CJCT 3|2|PRED 4|3|JCT 5|4|POBJ 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|0|ROOT 10|9|PUNCT
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, about anyone else +/.
+%mor:	adv|about pro:indef|anyone post|else +/.
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PQ 4|2|PUNCT
+*S1:	+, ⌈ right ⌉ +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ &-um ⌋ .
+*S1:	yeah (.) okay &-um &ho how about the &-uh roles of other people in
+	the group ?
+%mor:	co|yeah co|okay pro:int|how adv|about det:art|the n|role-PL prep|of
+	qn|other n|person&PL prep|in det:art|the n|group ?
+%gra:	1|3|COM 2|3|COM 3|6|LINK 4|6|JCT 5|6|DET 6|0|INCROOT 7|6|NJCT 8|9|QUANT
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|6|PUNCT
+*S1:	(be)cause you've been kind of the &-uh minder +/.
+%mor:	conj|because pro:per|you~aux|have cop|be&PASTP n|kind prep|of
+	det:art|the n|mind&dv-AGT +/.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*S1:	⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ in a way ⌋ &-um keeping tabs on things and [/] and keeping
+	things going what do you see other people contributing ?
+%mor:	prep|in det:art|a n|way part|keep-PRESP n|tab-PL prep|on n|thing-PL
+	coord|and part|keep-PRESP n|thing-PL part|go-PRESP pro:int|what
+	mod|do pro:per|you co|see qn|other n|person&PL part|contribute-PRESP
+	?
+%gra:	1|4|JCT 2|3|DET 3|1|POBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|CONJ
+	9|8|COORD 10|9|OBJ 11|9|XJCT 12|17|DET 13|17|AUX 14|17|SUBJ 15|17|COM
+	16|17|QUANT 17|11|OBJ 18|17|XMOD 19|4|PUNCT
+*S2:	&-um I think (.) Jack and I have been sharing sort_of that little
+	+/.
+%mor:	pro:sub|I v|think n:prop|Jack coord|and pro:sub|I aux|have
+	aux|be&PASTP part|share-PRESP adv|sort_of det:dem|that adj|little
+	+/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|AUX 8|2|CJCT
+	9|11|JCT 10|11|DET 11|8|JCT 12|2|PUNCT
+*S1:	uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	&-um I mean up until a point where we had a facilitator &a and even
+	still I mean I'll +//.
+%mor:	pro:sub|I v|mean adv|up prep|until det:art|a n|point pro:rel|where
+	pro:sub|we v|have&PAST det:art|a n|facilitator coord|and adv|even
+	adv|still pro:sub|I v|mean pro:sub|I~mod|will +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|11|DET 11|9|OBJ 12|9|CONJ 13|14|JCT 14|16|JCT 15|16|SUBJ
+	16|12|COORD 17|18|SUBJ 18|16|COMP 19|2|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ I think ⌋ we all take turns sort_of getting everybody back on
+	track +/.
+%mor:	pro:sub|I v|think pro:sub|we post|all v|take n|turn-PL adv|sort_of
+	part|get-PRESP pro:indef|everybody adv|back prep|on n|track +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|3|PQ 5|2|COMP 6|5|OBJ 7|5|JCT 8|5|XJCT
+	9|8|OBJ 10|5|JCT 11|5|JCT 12|11|POBJ 13|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	I forget the question sorry .
+%mor:	pro:sub|I v|forget det:art|the n|question adj|sorry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|POSTMOD 6|2|PUNCT
+*S1:	it was about the roles of the other people in the group .
+%mor:	pro:per|it cop|be&PAST&13S prep|about det:art|the n|role-PL prep|of
+	det:art|the qn|other n|person&PL prep|in det:art|the n|group .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*S2:	okay +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um (0.7) hm .
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so what do you see so far what do you see their contributions as ?
+%mor:	co|so pro:int|what mod|do pro:per|you co|see adv|so adj|far
+	pro:int|what mod|do pro:per|you co|see det:poss|their
+	n|contribute&dv-TION-PL adv|as ?
+%gra:	1|5|COM 2|5|OBJ 3|5|AUX 4|5|SUBJ 5|7|COM 6|7|JCT 7|0|ROOT 8|13|DET
+	9|13|AUX 10|13|SUBJ 11|13|COM 12|13|DET 13|7|CMOD 14|13|NJCT 15|7|PUNCT
+*S1:	what kinds of contributions have they been making ?
+%mor:	pro:int|what n|kind-PL prep|of n|contribute&dv-TION-PL v|have
+	pro:sub|they aux|be&PASTP part|make-PRESP ?
+%gra:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|8|SUBJ 7|8|AUX 8|5|COMP
+	9|5|PUNCT
+*S2:	&-um <I think> [/] I think everybody's been making (.) good
+	contributions +/.
+%mor:	pro:sub|I v|think adj|everybody&dn-POSS aux|be&PASTP
+	part|make-PRESP adj|good n|contribute&dv-TION-PL +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|MOD 7|5|OBJ 8|2|PUNCT
+*S1:	⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ &-um ⌋ I mean our proposal was due yesterday +/.
+%mor:	pro:sub|I v|mean det:poss|our n|proposal cop|be&PAST&13S adj|due
+	adv:tem|yesterday +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|PRED 7|5|JCT 8|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and I couldn't work on it so Pedro &-um worked on it +/.
+%mor:	coord|and pro:sub|I mod|could~neg|not v|work prep|on pro:per|it
+	adv|so n:prop|Pedro v|work-PAST prep|on pro:per|it +/.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|6|POBJ 8|10|JCT
+	9|10|SUBJ 10|5|CJCT 11|10|JCT 12|11|POBJ 13|5|PUNCT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ and ⌋ turned it in +/.
+%mor:	coord|and v|turn-PAST pro:per|it adv|in +/.
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-uh that was good and you know Satosh &-um was working with &Pe
+	Pedro was working for Satosh a couple times +/.
+%mor:	pro:dem|that cop|be&PAST&13S adj|good coord|and pro:per|you v|know
+	n:prop|Satosh aux|be&PAST&13S part|work-PRESP prep|with n:prop|Pedro
+	aux|be&PAST&13S part|work-PRESP prep|for n:prop|Satosh det:art|a
+	qn|couple n|time-PL +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|9|SUBJ 8|9|AUX
+	9|6|COMP 10|9|JCT 11|13|SUBJ 12|13|AUX 13|10|CPOBJ 14|13|JCT 15|14|POBJ
+	16|18|DET 17|18|QUANT 18|13|JCT 19|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um during &co the last couple meetings that we've [/] we've
+	been working on the tasks for +/.
+%mor:	prep|during det:art|the n|last n|couple n:gerund|meet-PRESP-PL
+	adv|that pro:sub|we~aux|have aux|be&PASTP part|work-PRESP prep|on
+	det:art|the n|task-PL prep|for +/.
+%gra:	1|5|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|10|CJCT 6|5|JCT 7|10|SUBJ 8|10|AUX
+	9|10|AUX 10|0|ROOT 11|10|JCT 12|13|DET 13|11|POBJ 14|10|JCT 15|10|PUNCT
+*S1:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ our ⌋ proposal and they've been working together and I think
+	that's +/.
+%mor:	det:poss|our n|proposal coord|and pro:sub|they~aux|have
+	aux|be&PASTP part|work-PRESP adv|together coord|and pro:sub|I
+	v|think comp|that~aux|be&3S +/.
+%gra:	1|2|DET 2|8|SUBJ 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|AUX 7|2|CJCT 8|0|ROOT
+	9|11|LINK 10|11|SUBJ 11|8|ROOT 12|14|SUBJ 13|14|AUX 14|11|ROOT
+*S1:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ good ⌋ +/.
+%mor:	adj|good +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and [/] and I think we'd all like to take turns (.) working
+	with Satosh I think he +/.
+%mor:	coord|and pro:sub|I v|think pro:sub|we~mod|genmod adv|all v|like
+	inf|to v|take n|turn-PL part|work-PRESP prep|with n:prop|Satosh
+	pro:sub|I v|think pro:sub|he +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|JCT 7|3|COMP 8|9|INF
+	9|7|COMP 10|9|OBJ 11|10|XMOD 12|11|JCT 13|12|POBJ 14|15|SUBJ 15|3|PUNCT
+	16|15|INCROOT 17|16|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, he doesn't +//.
+%mor:	pro:sub|he mod|do&3S~neg|not +//.
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*S2:	I don't think he feels (.) completely comfortable to work (.) on
+	his own yet +/.
+%mor:	pro:sub|I mod|do~neg|not v|think pro:sub|he v|feel-3S
+	adv|complete&dadj-LY adj|comfort&dv-ABLE prep|to n|work prep|on
+	det:poss|his adj|own adv|yet +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|JCT 8|6|JCT
+	9|8|JCT 10|9|POBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|8|JCT 15|4|PUNCT
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	and I think that's &-uh for a couple reasons &-um one maybe it's
+	his language (.) skills +/.
+%mor:	coord|and pro:sub|I v|think comp|that~aux|be&3S prep|for det:art|a
+	n|couple n|reason-PL det:num|one adv|maybe pro:per|it~cop|be&3S
+	det:poss|his n|language n|skill-PL +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|13|SUBJ 5|13|AUX 6|13|JCT 7|8|DET 8|9|MOD
+	9|13|SUBJ 10|11|QUANT 11|13|JCT 12|13|SUBJ 13|3|COMP 14|16|DET 15|16|MOD
+	16|13|PRED 17|3|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um but two he's not familiar with the way things (.) work in
+	the country +/.
+%mor:	conj|but det:num|two pro:sub|he~cop|be&3S neg|not adj|familiar
+	prep|with det:art|the n|way n|thing-PL n|work prep|in det:art|the
+	n|country +/.
+%gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PRED 7|6|JCT 8|11|DET
+	9|11|MOD 10|11|MOD 11|7|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|4|PUNCT
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and (.) Pedro's a little bit more comfortable I think he's
+	(.) not really sure how long he's lived in the States +/.
+%mor:	coord|and adj|Pedro&dn-POSS det:art|a adj|little n|bit adv|more
+	adj|comfort&dv-ABLE pro:sub|I v|think pro:sub|he~cop|be&3S neg|not
+	adv|real&dadj-LY adv|sure pro:int|how adj|long pro:sub|he~aux|be&3S
+	part|live-PASTP prep|in det:art|the n:prop|States +/.
+%gra:	1|11|LINK 2|5|MOD 3|5|DET 4|5|MOD 5|11|JCT 6|7|JCT 7|5|POSTMOD 8|9|SUBJ
+	9|7|CMOD 10|11|SUBJ 11|19|CJCT 12|11|NEG 13|16|JCT 14|16|JCT 15|16|JCT
+	16|11|PRED 17|19|SUBJ 18|19|AUX 19|0|ROOT 20|19|JCT 21|22|DET 22|20|POBJ
+	23|19|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, but I get the impression it's about two years +/.
+%mor:	conj|but pro:sub|I v|get det:art|the n|impression
+	pro:per|it~cop|be&3S adv|about det:num|two n|year-PL +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|5|DET 5|3|OBJ 6|7|SUBJ 7|0|ROOT 8|9|JCT
+	9|10|QUANT 10|7|PRED 11|7|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um xxx and I don't think he really spoke English before he
+	came here +/.
+%mor:	coord|and pro:sub|I mod|do~neg|not v|think pro:sub|he
+	adv|real&dadj-LY v|speak&PAST n:prop|English conj|before pro:sub|he
+	v|come&PAST adv|here +/.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|SUBJ 7|8|JCT 8|5|COMP
+	9|8|OBJ 10|12|LINK 11|12|SUBJ 12|5|CJCT 13|12|JCT 14|5|PUNCT
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	but I think +/.
+%mor:	conj|but pro:sub|I v|think +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S1:	+, ⌈ right ⌉ +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ Satosh ⌋ has [/] has definitely started to contribute &-um
+	&-um and [/] and he's definitely going through more of a learning
+	curve than the rest of us &-um but I think +/.
+%mor:	n:prop|Satosh aux|have&3S adv|definite&dadj-LY part|start-PASTP
+	inf|to v|contribute coord|and pro:sub|he~aux|be&3S
+	adv|definite&dadj-LY part|go-PRESP prep|through qn|more prep|of
+	det:art|a part|learn-PRESP n|curve prep|than det:art|the n|rest
+	prep|of pro:obj|us conj|but pro:sub|I v|think +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|11|JCT 11|6|COMP 12|11|JCT 13|12|POBJ 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|20|NJCT
+	22|21|POBJ 23|25|LINK 24|25|SUBJ 25|4|CJCT 26|4|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, I think he's doing a good job +/.
+%mor:	pro:sub|I v|think pro:sub|he~aux|be&3S part|do-PRESP det:art|a
+	adj|good n|job +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|8|DET 7|8|MOD 8|5|OBJ
+	9|2|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, (0.6) .
+*S1:	he's really thrown himself into the thick of it hasn't he ?
+%mor:	pro:sub|he~aux|be&3S adv|real&dadj-LY part|throw&PASTP
+	pro:refl|himself prep|into det:art|the n|thick prep|of pro:per|it
+	aux|have&3S~neg|not pro:sub|he ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|13|SUBJ 11|13|AUX 12|11|NEG 13|9|POBJ 14|4|PUNCT
+*S2:	⌈ well ⌉ +/.
+%mor:	co|well +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ it's ⌋ impressive +/.
+%mor:	pro:per|it~cop|be&3S adj|impressive +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S2:	+, ⌈ yeah ⌉ +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ how ⌋ much stuff he has taken on .
+%mor:	pro:int|how qn|much n|stuff pro:sub|he aux|have&3S part|take&PASTP
+	adv|on .
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|6|JCT
+	8|3|PUNCT
+*S2:	I [/] I can't imagine he's (.) taking he's taking six classes this
+	semester +/.
+%mor:	pro:sub|I mod|can~neg|not v|imagine pro:sub|he~aux|be&3S
+	part|take-PRESP pro:sub|he~aux|be&3S part|take-PRESP det:num|six
+	n|class-PL det:dem|this n|semester +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|10|SUBJ
+	9|10|AUX 10|7|COMP 11|12|QUANT 12|10|OBJ 13|14|DET 14|12|APP 15|4|PUNCT
+*S1:	yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um I +//.
+%mor:	pro:sub|I +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	I'm taking four and it's +/.
+%mor:	pro:sub|I~aux|be&1S part|take-PRESP det:num|four coord|and
+	pro:per|it~cop|be&3S +/.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|3|PUNCT
+*S1:	+, ⌈ uhuh ⌉ +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ only ⌋ ten credits +/.
+%mor:	adv|only det:num|ten n|credit-PL +/.
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*S1:	+, uhuh +/.
+%mor:	co|uhuh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and I'm just swamped +/.
+%mor:	coord|and pro:sub|I~aux|be&1S adv|just part|swamp-PASTP +/.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*S1:	+, yeah ⌈ yeah ⌉ +/.
+%mor:	co|yeah co|yeah +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	+, ⌊ &-um ⌋ &=laughs:S1 and [x 3] having a family too +/.
+%mor:	coord|and part|have-PRESP det:art|a n|family post|too +/.
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, I don't know (.) I don't know how much time he spends with his
+	family +/.
+%mor:	pro:sub|I mod|do~neg|not v|know pro:sub|I mod|do~neg|not v|know
+	pro:int|how qn|much n|time pro:sub|he v|spend-3S prep|with
+	det:poss|his n|family +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|COMP
+	9|10|JCT 10|11|QUANT 11|8|OBJ 12|13|SUBJ 13|4|CJCT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|4|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, but &-um that's [/] that's amazing .
+%mor:	conj|but pro:dem|that~aux|be&3S part|amaze-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*S1:	yeah right (.) it is (.) .
+%mor:	co|yeah n|right pro:per|it cop|be&3S .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S2:	he does all that .
+%mor:	pro:sub|he v|do&3S qn|all pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*S1:	and &-um with &a kind_of a (.) spirit of adventure (.) I mean he's
+	+//.
+%mor:	coord|and prep|with adv|kind_of det:art|a n|spirit prep|of
+	n|adventure pro:sub|I v|mean pro:sub|he~cop|be&3S +//.
+%gra:	1|9|LINK 2|9|JCT 3|2|POBJ 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ 8|9|SUBJ
+	9|0|ROOT 10|11|SUBJ 11|9|COMP 12|9|PUNCT
+*S1:	he doesn't seem beleaguered you know +/.
+%mor:	pro:sub|he mod|do&3S~neg|not cop|seem v|beleaguer-PAST pro:per|you
+	v|know +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PRED 6|7|SUBJ 7|5|COMP 8|4|PUNCT
+*S2:	mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, really weighed down by all that he's &-um responsible for +/.
+%mor:	adv|real&dadj-LY v|weigh-PAST adv|down prep|by adv|all adv|that
+	pro:sub|he~cop|be&3S adj|responsible prep|for +/.
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|JCT 6|8|JCT 7|8|SUBJ 8|4|CPOBJ
+	9|8|PRED 10|8|JCT 11|2|PUNCT
+*S2:	+, ⌈ mhm ⌉ +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ I know ⌋ he's nervous about it but I don't think he's &-um +/.
+%mor:	pro:sub|I v|know pro:sub|he~cop|be&3S adj|nervous prep|about
+	pro:per|it conj|but pro:sub|I mod|do~neg|not v|think
+	pro:sub|he~cop|be&3S +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|4|JCT 7|6|POBJ 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|2|CJCT 13|14|SUBJ 14|12|COMP
+	15|2|PUNCT
+*S2:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, feeling like he's just a drudge I think he's having a good time
+	&=laughs .
+%mor:	part|feel-PRESP conj|like pro:sub|he~cop|be&3S adv|just det:art|a
+	n|drudge pro:sub|I v|think pro:sub|he~aux|be&3S part|have-PRESP
+	det:art|a adj|good n|time .
+%gra:	1|9|XJCT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|7|JCT 6|7|DET 7|4|PRED 8|9|SUBJ
+	9|0|ROOT 10|12|SUBJ 11|12|AUX 12|9|COMP 13|15|DET 14|15|MOD 15|12|OBJ
+	16|9|PUNCT
+*S2:	oh that's [/] that's great +/.
+%mor:	co|oh pro:dem|that~cop|be&3S adj|great +/.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S1:	yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, I don't (.) I know that Satosh is the [/] the first Japanese
+	person that I've really +/.
+%mor:	pro:sub|I mod|do~neg|not pro:sub|I v|know comp|that n:prop|Satosh
+	cop|be&3S det:art|the adj|first n:prop|Japanese n|person
+	pro:rel|that pro:sub|I~aux|have adv|real&dadj-LY +/.
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|ROOT
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|PRED 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|17|JCT 17|12|ROOT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, met and (.) I mean there's a_lot_of stereotypes out there +/.
+%mor:	v|meet&PAST coord|and pro:sub|I v|mean pro:exist|there~cop|be&3S
+	qn|a_lot_of n|stereotype-PL prep|out n|there +/.
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|6|SUBJ 6|4|COMP 7|8|QUANT
+	8|6|PRED 9|6|JCT 10|9|POBJ 11|1|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and I don't know (.) if (.) you know (.) he's just used to that
+	sort of work ethic .
+%mor:	coord|and pro:sub|I mod|do~neg|not v|know comp|if pro:per|you
+	v|know pro:sub|he~aux|be&3S adv|just part|use-PASTP prep|to
+	det:dem|that n|sort prep|of n|work n|ethic .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|8|COMP 13|12|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|18|MOD 18|16|POBJ 19|5|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, or (.) you know +...
+%mor:	coord|or pro:per|you v|know +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S2:	&i it's that he needs to work that much or you know his [/] his (.)
+	+/.
+%mor:	pro:per|it~cop|be&3S comp|that pro:sub|he v|need-3S prep|to n|work
+	pro:rel|that adv|much coord|or pro:per|you v|know det:poss|his +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CPRED 6|5|JCT 7|6|POBJ
+	8|12|LINK 9|12|JCT 10|12|LINK 11|12|SUBJ 12|7|CMOD 13|12|OBJ 14|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, the organization that he works for .
+%mor:	det:art|the n|organize&dv-TION comp|that pro:sub|he v|work-3S
+	prep|for .
+%gra:	1|2|DET 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|5|JCT 7|2|PUNCT
+*S1:	⌈ uhuh ⌉ .
+%mor:	co|uhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	⌊ &-um ⌋ I mean they're [/] they're I [/] I think they're
+	supporting him +/.
+%mor:	pro:sub|I v|mean pro:sub|they~cop|be&PRES pro:sub|I v|think
+	pro:sub|they~aux|be&PRES part|support-PRESP pro:obj|him +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|SUBJ 6|2|CJCT 7|9|SUBJ 8|9|AUX
+	9|6|COMP 10|9|OBJ 11|2|PUNCT
+*S1:	⌈ right ⌉ +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, ⌊ &-um ⌋ so he's just sort of (.) doing as much as he can +/.
+%mor:	co|so pro:sub|he~cop|be&3S adv|just n|sort prep|of
+	n:gerund|do-PRESP adv|as adv|much prep|as pro:sub|he mod|can +/.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|NJCT 7|6|POBJ 8|9|COORD
+	9|7|JCT 10|12|COORD 11|12|SUBJ 12|9|ENUM 13|3|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, to get as many experiences and the grades really don't matter
+	&-um +/.
+%mor:	inf|to v|get prep|as qn|many n|experience-PL coord|and det:art|the
+	n|grade-PL adv|real&dadj-LY mod|do~neg|not v|matter +/.
+%gra:	1|2|INF 2|0|ROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|12|LINK 7|8|DET 8|12|SUBJ
+	9|12|JCT 10|12|AUX 11|10|NEG 12|2|CJCT 13|2|PUNCT
+*S1:	+, mhm +/.
+%mor:	co|mhm=yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, and then I think if [/] if that's the case that's great +/.
+%mor:	coord|and adv:tem|then pro:sub|I v|think comp|if
+	pro:dem|that~cop|be&3S det:art|the n|case pro:rel|that~cop|be&3S
+	adj|great +/.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|9|DET
+	9|7|PRED 10|11|LINK 11|9|CMOD 12|11|PRED 13|4|PUNCT
+*S1:	+, yeah ⌈ yeah ⌉ +/.
+%mor:	co|yeah co|yeah +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	+, ⌊ &-uh ⌋ it's a fabulous experience for him and +/.
+%mor:	pro:per|it~cop|be&3S det:art|a adj|fabulous n|experience prep|for
+	pro:obj|him coord|and +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|POBJ 8|2|CONJ
+	9|8|COORD
+*S1:	+, right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	+, &-um and what he can bring back with him .
+%mor:	coord|and pro:int|what pro:sub|he mod|can v|bring adv|back
+	prep|with pro:obj|him .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*S1:	yeah [/] yeah it is .
+%mor:	co|yeah pro:per|it cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@End

@@ -1,0 +1,3136 @@
+@UTF8
+@PID:	11312/a-00010163-1
+@Begin
+@Languages:	eng
+@Participants:	S1 Instructor Teacher, SS Students Student
+@ID:	eng|MICASE|S1|60;|female|NS||Teacher|JF||
+@ID:	eng|MICASE|SS|20;||NS||Student|JU||
+@Media:	lel200ju105, audio, unlinked
+@Date:	19-SEP-2000
+@Situation:	Lecture Hall, Chemistry Building
+*S1:	and so (.) between the lecture (.) the lab (.) and your discussions
+	for Chem one twenty five (.) that should (.) be sufficient for you
+	to do well (.) in Chemistry one twenty five <the advanced> [?] .
+%mor:	coord|and co|so prep|between det:art|the n|lecture det:art|the
+	n|lab coord|and det:poss|your n|discussion-PL prep|for n:prop|Chem
+	det:num|one det:num|twenty det:num|five adv|that mod|should cop|be
+	adj|sufficient prep|for pro:per|you inf|to v|do adv|well prep|in
+	n:prop|Chemistry det:num|one det:num|twenty det:num|five det:art|the
+	part|advance-PASTP .
+%gra:	1|7|LINK 2|7|COM 3|7|JCT 4|5|DET 5|3|POBJ 6|7|DET 7|0|INCROOT 8|7|CONJ
+	9|10|DET 10|8|COORD 11|18|LINK 12|18|SUBJ 13|15|DATE 14|15|DATE
+	15|18|QUANT 16|18|JCT 17|18|AUX 18|7|CJCT 19|18|PRED 20|18|JCT 21|23|SUBJ
+	22|23|INF 23|20|CPOBJ 24|23|JCT 25|23|JCT 26|25|POBJ 27|31|QUANT 28|29|DATE
+	29|31|QUANT 30|31|DET 31|23|XJCT 32|7|PUNCT
+*S1:	the difference probably comes to some degree in your backgrounds .
+%mor:	det:art|the n|difference adv|probable&dadj-LY v|come-3S prep|to
+	qn|some n|degree prep|in det:poss|your n|background-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*S1:	the purpose of the lecture is to (.) cover the background material
+	that you need (.) to get acquainted with to perform satisfactorily
+	in the lab .
+%mor:	det:art|the n|purpose prep|of det:art|the n|lecture cop|be&3S
+	inf|to v|cover det:art|the n|background n|material pro:rel|that
+	pro:per|you v|need inf|to aux|get part|acquaint-PASTP prep|with
+	inf|to v|perform adv|satisfactory&dadj-LY prep|in det:art|the n|lab
+	.
+%gra:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|8|INF 8|6|CPRED
+	9|11|DET 10|11|MOD 11|8|OBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|17|INF
+	16|17|AUX 17|14|COMP 18|17|JCT 19|20|INF 20|18|POBJ 21|20|JCT 22|20|JCT
+	23|24|DET 24|22|POBJ 25|6|PUNCT
+*S1:	however (.) typically there's fifty minute time intervals to do
+	that .
+%mor:	co|however adv|typical&dadj-LY pro:exist|there~cop|be&3S
+	det:num|fifty adj|minute n|time n|interval-PL inf|to v|do
+	pro:dem|that .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|8|QUANT 6|8|MOD 7|8|MOD 8|4|PRED
+	9|10|INF 10|8|XMOD 11|10|OBJ 12|4|PUNCT
+*S1:	and so (.) you're going to hafta decide &-uh after you leave the
+	lecture whether you need to do additional reading on (.) a
+	particular topic .
+%mor:	coord|and co|so pro:per|you~aux|be&PRES part|go-PRESP inf|to
+	mod|have~inf|to v|decide prep|after pro:per|you v|leave det:art|the
+	n|lecture conj|whether pro:per|you v|need inf|to v|do
+	adj|addition&dn-AL part|read-PRESP prep|on det:art|a adj|particular
+	n|topic .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|9|INF 7|9|AUX 8|9|INF
+	9|5|COMP 10|12|JCT 11|12|SUBJ 12|9|COMP 13|14|DET 14|12|OBJ 15|17|LINK
+	16|17|SUBJ 17|5|CJCT 18|19|INF 19|17|COMP 20|19|PRED 21|20|XMOD 22|21|JCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|5|PUNCT
+*S1:	because I'm just kind_of reaching for some kind of common
+	denominator (.) in terms of how I approach the material .
+%mor:	conj|because pro:sub|I~aux|be&1S adv|just adv|kind_of
+	part|reach-PRESP prep|for qn|some n|kind prep|of adj|common
+	n|denominator prep|in n|term-PL prep|of pro:int|how pro:sub|I
+	v|approach det:art|the n|material .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|5|JCT 5|6|JCT 6|0|ROOT 7|6|JCT 8|9|QUANT
+	9|7|POBJ 10|9|NJCT 11|12|MOD 12|10|POBJ 13|12|NJCT 14|13|POBJ 15|14|NJCT
+	16|18|LINK 17|18|SUBJ 18|15|CPOBJ 19|20|DET 20|18|OBJ 21|6|PUNCT
+*S1:	and I'm also &-uh covering it based on the feedback I get from you
+	.
+%mor:	coord|and pro:sub|I~aux|be&1S adv|also part|cover-PRESP pro:per|it
+	v|base-PAST prep|on det:art|the n|feedback pro:sub|I v|get prep|from
+	pro:per|you .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|12|XJCT 6|7|SUBJ 7|5|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|12|SUBJ 12|0|ROOT 13|12|JCT 14|13|POBJ 15|12|PUNCT
+*S1:	so therefore it is important before we discuss topics (.) that you
+	email me (.) with questions that you have (.) on that particular
+	topic .
+%mor:	adv|so adv|therefore pro:per|it cop|be&3S adj|important prep|before
+	pro:sub|we v|discuss n|topic-PL pro:rel|that pro:per|you n|email
+	pro:obj|me prep|with n|question-PL pro:rel|that pro:per|you v|have
+	prep|on det:dem|that adj|particular n|topic .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|8|JCT 7|8|SUBJ 8|4|CJCT
+	9|8|OBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|OBJ 14|13|JCT 15|14|POBJ
+	16|18|LINK 17|18|SUBJ 18|15|CMOD 19|18|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|4|PUNCT
+*S1:	so that I can maybe address them here in the lecture (.) okay as
+	best I can or I will tell you (.) that it is not going to be
+	addressed in the lecture because you are to discover that in the lab
+	(.) and it will be discussed in your discussion itself .
+%mor:	adv|so pro:rel|that pro:sub|I mod|can adv|maybe v|address
+	pro:obj|them adv|here prep|in det:art|the n|lecture adj|okay prep|as
+	adj|good&SP pro:sub|I mod|can coord|or pro:sub|I mod|will v|tell
+	pro:per|you comp|that pro:per|it aux|be&3S neg|not part|go-PRESP
+	inf|to aux|be part|address-PASTP prep|in det:art|the n|lecture
+	conj|because pro:per|you cop|be&PRES inf|to v|discover pro:dem|that
+	prep|in det:art|the n|lab coord|and pro:per|it mod|will aux|be
+	part|discuss-PASTP prep|in det:poss|your n|discussion
+	pro:refl|itself .
+%gra:	1|20|JCT 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|JCT 6|20|CJCT 7|6|OBJ 8|6|JCT
+	9|6|JCT 10|11|DET 11|9|POBJ 12|11|POSTMOD 13|14|COORD 14|12|ENUM
+	15|20|SUBJ 16|20|AUX 17|20|LINK 18|20|SUBJ 19|20|AUX 20|0|ROOT 21|20|OBJ
+	22|26|LINK 23|26|SUBJ 24|26|AUX 25|24|NEG 26|20|COMP 27|29|INF 28|29|AUX
+	29|26|COMP 30|29|JCT 31|32|DET 32|30|POBJ 33|35|LINK 34|35|SUBJ 35|20|CJCT
+	36|37|INF 37|35|CPRED 38|37|OBJ 39|37|JCT 40|41|DET 41|39|POBJ 42|46|LINK
+	43|46|SUBJ 44|46|AUX 45|46|AUX 46|37|CJCT 47|46|JCT 48|49|DET 49|47|POBJ
+	50|46|ENUM 51|20|PUNCT
+*S1:	it is really the discussion is really important (.) that is where
+	you share and discuss the results of the lab (.) and (.) really (.)
+	focus on the implications of the results .
+%mor:	pro:per|it cop|be&3S adv|real&dadj-LY det:art|the n|discussion
+	cop|be&3S adv|real&dadj-LY adj|important adv|that aux|be&3S
+	pro:rel|where pro:per|you v|share coord|and v|discuss det:art|the
+	n|result-PL prep|of det:art|the n|lab coord|and adv|real&dadj-LY
+	v|focus prep|on det:art|the n|implicate&dv-TION-PL prep|of
+	det:art|the n|result-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|DET 5|6|SUBJ 6|2|PRED 7|8|JCT 8|6|PRED
+	9|13|JCT 10|13|AUX 11|13|LINK 12|13|SUBJ 13|6|CPRED 14|13|CONJ 15|14|COORD
+	16|17|DET 17|15|OBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|13|CONJ
+	22|23|JCT 23|21|COORD 24|23|JCT 25|26|DET 26|24|POBJ 27|26|NJCT 28|29|DET
+	29|27|POBJ 30|2|PUNCT
+*S1:	and that is what the exams focus on .
+%mor:	coord|and pro:dem|that cop|be&3S pro:int|what det:art|the n|exam-PL
+	v|focus adv|on .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|CPRED 8|7|JCT
+	9|3|PUNCT
+*S1:	now in some cases you're going to have a discussion and you don't
+	have one yet that's graded that's officially on material that we did
+	on the exam (.) (un)til you finish experiment two .
+%mor:	adv|now prep|in qn|some n|case-PL pro:per|you~aux|be&PRES
+	part|go-PRESP inf|to v|have det:art|a n|discussion coord|and
+	pro:per|you mod|do~neg|not v|have det:num|one adv|yet
+	pro:rel|that~aux|be&3S part|grade-PASTP pro:rel|that~cop|be&3S
+	adv|official&dadj-LY adv|on adj|material comp|that pro:sub|we
+	v|do&PAST prep|on det:art|the n|exam conj|until pro:per|you v|finish
+	n|experiment det:num|two .
+%gra:	1|7|JCT 2|7|JCT 3|4|QUANT 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|INF
+	9|7|COMP 10|11|DET 11|9|OBJ 12|16|LINK 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|7|CJCT 17|16|OBJ 18|17|JCT 19|21|LINK 20|21|AUX 21|18|CMOD 22|23|LINK
+	23|21|COMP 24|23|JCT 25|26|JCT 26|23|PRED 27|29|LINK 28|29|SUBJ 29|26|CMOD
+	30|29|JCT 31|32|DET 32|30|POBJ 33|35|LINK 34|35|SUBJ 35|37|CJCT
+	36|35|OBJ 37|23|CJCT 38|7|PUNCT
+*S1:	and you may find that (.) your peer presentations (.) left you in
+	some cases (.) xxx &-uh feeling (.) well I'm not sure (.) about what
+	those results were .
+%mor:	coord|and pro:per|you mod|may v|find comp|that det:poss|your n|peer
+	n|present&dv-TION-PL v|leave&PAST pro:per|you prep|in qn|some
+	n|case-PL part|feel-PRESP adv|well pro:sub|I~cop|be&1S neg|not
+	adv|sure prep|about pro:int|what det:dem|those n|result-PL
+	cop|be&PAST .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|9|LINK 6|8|DET 7|8|MOD 8|9|SUBJ
+	9|4|COMP 10|9|OBJ 11|9|JCT 12|13|QUANT 13|11|POBJ 14|17|XJCT 15|14|JCT
+	16|17|SUBJ 17|9|CJCT 18|17|NEG 19|17|JCT 20|19|JCT 21|24|LINK 22|23|DET
+	23|24|SUBJ 24|20|CPOBJ 25|4|PUNCT
+*S1:	it is really important to follow up on that (.) and in terms of
+	even dropping in on another discussion (.) going to office hours (.)
+	talking with your instructor about what happened there .
+%mor:	pro:per|it cop|be&3S adv|real&dadj-LY adj|important inf|to v|follow
+	adv|up prep|on pro:dem|that coord|and prep|in n|term-PL prep|of
+	adv|even part|drop-PRESP adv|in prep|on qn|another n|discussion
+	part|go-PRESP prep|to n|office n|hour-PL part|talk-PRESP prep|with
+	det:poss|your n|instructor prep|about pro:int|what v|happen-PAST
+	adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|6|INF 6|4|XMOD 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|2|CONJ 11|15|JCT 12|11|POBJ 13|12|NJCT 14|13|POBJ 15|10|COORD
+	16|15|JCT 17|15|JCT 18|19|QUANT 19|17|POBJ 20|15|XJCT 21|20|JCT 22|23|MOD
+	23|21|POBJ 24|15|XJCT 25|24|JCT 26|27|DET 27|25|POBJ 28|30|JCT
+	29|30|SUBJ 30|24|CJCT 31|30|JCT 32|2|PUNCT
+*S1:	also you will see on the syllabus that (.) just before exams occur
+	(.) there will be a review session that I will do and some others
+	will do (.) where I will highlight what the major findings were for
+	the labs (.) to make sure that we are all in agreement .
+%mor:	adv|also pro:per|you mod|will v|see prep|on det:art|the n|syllabus
+	pro:rel|that adv|just conj|before n|exam-PL v|occur adv|there
+	mod|will cop|be det:art|a n|review n|session pro:rel|that pro:sub|I
+	mod|will v|do coord|and qn|some n:pt|others mod|will v|do
+	pro:int|where pro:sub|I mod|will n|highlight pro:int|what
+	det:art|the n|major n:gerund|find-PRESP-PL cop|be&PAST prep|for
+	det:art|the n|lab-PL inf|to v|make adv|sure pro:rel|that pro:sub|we
+	cop|be&PRES pro:indef|all prep|in n|agree&dv-MENT .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|15|LINK 6|7|DET 7|15|SUBJ 8|10|LINK
+	9|10|JCT 10|12|LINK 11|12|SUBJ 12|15|CJCT 13|12|JCT 14|15|AUX 15|4|ROOT
+	16|18|DET 17|18|MOD 18|15|PRED 19|22|LINK 20|22|SUBJ 21|22|AUX
+	22|18|CMOD 23|27|LINK 24|25|QUANT 25|27|SUBJ 26|27|AUX 27|22|ROOT 28|31|LINK
+	29|31|SUBJ 30|31|AUX 31|27|OBJ 32|31|INCROOT 33|34|DET 34|32|OBJ 35|36|SUBJ
+	36|34|CMOD 37|36|JCT 38|39|DET 39|37|POBJ 40|41|INF 41|39|XMOD
+	42|41|JCT 43|45|LINK 44|45|SUBJ 45|42|CMOD 46|45|PRED 47|46|NJCT 48|47|POBJ
+	49|32|PUNCT
+*S1:	you don't hafta come to the review session (.) I'll also put that
+	up on the web .
+%mor:	pro:per|you mod|do~neg|not mod|have~inf|to v|come prep|to
+	det:art|the n|review n|session pro:sub|I~mod|will adv|also
+	v|put&ZERO pro:dem|that adv|up prep|on det:art|the n|web .
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|14|CJCT 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|14|SUBJ 12|14|AUX 13|14|JCT 14|0|ROOT 15|14|OBJ
+	16|14|JCT 17|14|JCT 18|19|DET 19|17|POBJ 20|14|PUNCT
+*S1:	okay (.) so you have that to look at if you are uncertain about
+	what the data was saying .
+%mor:	co|okay conj|so pro:per|you v|have adv|that inf|to v|look prep|at
+	conj|if pro:per|you cop|be&PRES un#adj|certain prep|about
+	pro:int|what det:art|the n|data aux|be&PAST&13S part|say-PRESP .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|INF 7|4|XJCT 8|7|JCT
+	9|11|LINK 10|11|SUBJ 11|8|POBJ 12|11|PRED 13|12|JCT 14|18|LINK 15|16|DET
+	16|18|SUBJ 17|18|AUX 18|13|CPOBJ 19|4|PUNCT
+*S1:	okay (.) we'll address this term's (.) data .
+%mor:	co|okay pro:sub|we~mod|will v|address det:dem|this adj|term&dn-POSS
+	n|data .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*S1:	but between all those things you should be directing [?] xxx <this
+	course> [?] yourself (.) to &-uh to do well on those examinations .
+%mor:	conj|but prep|between qn|all det:dem|those n|thing-PL pro:per|you
+	mod|should aux|be part|direct-PRESP det:dem|this n|course
+	pro:refl|yourself inf|to inf|to v|do adv|well prep|on det:dem|those
+	n|examine&dv-TION-PL .
+%gra:	1|9|LINK 2|9|JCT 3|5|QUANT 4|5|DET 5|2|POBJ 6|9|SUBJ 7|9|AUX 8|9|AUX
+	9|12|CJCT 10|11|DET 11|12|SUBJ 12|0|ROOT 13|15|INF 14|15|INF 15|12|COMP
+	16|15|JCT 17|15|JCT 18|19|DET 19|17|POBJ 20|12|PUNCT
+*S1:	okay so keep those questions coming .
+%mor:	co|okay adv|so v|keep det:dem|those n|question-PL part|come-PRESP .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|XMOD 7|3|PUNCT
+*S1:	the topic for your (.) upcoming lab you're starting your first
+	officially graded lab they start on a two (.) it's called &-uh water
+	purity .
+%mor:	det:art|the n|topic prep|for det:poss|your up#part|come-PRESP n|lab
+	pro:per|you~aux|be&PRES part|start-PRESP det:poss|your adj|first
+	adv|official&dadj-LY part|grade-PASTP n|lab pro:sub|they v|start
+	prep|on det:art|a det:num|two pro:per|it~aux|be&3S part|call-PASTP
+	n|water n|purity .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|6|DET 5|6|MOD 6|3|POBJ 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|11|DET 11|9|PRED 12|13|JCT 13|16|XJCT 14|13|OBJ 15|16|SUBJ
+	16|11|CMOD 17|16|JCT 18|19|DET 19|17|POBJ 20|22|SUBJ 21|22|AUX 22|19|CMOD
+	23|24|MOD 24|22|OBJ 25|2|PUNCT
+*S1:	and to illustrate that I have a cover of Chemical Engineer News (.)
+	on the left screen (.) which has a picture of Venice Italy .
+%mor:	coord|and inf|to v|illustrate comp|that pro:sub|I v|have det:art|a
+	n|cover prep|of n:prop|Chemical n:prop|Engineer n:prop|News prep|on
+	det:art|the adj|left n|screen pro:rel|which v|have&3S det:art|a
+	n|picture prep|of n:prop|Venice n:prop|Italy .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|12|NAME 12|8|APP 13|6|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|18|LINK 18|16|CMOD 19|20|DET 20|18|OBJ 21|20|NJCT 22|21|POBJ
+	23|20|APP 24|3|PUNCT
+*S1:	and in Venice Italy &-uh there is a big concern with the water
+	purity (.) there are many industrial plants surrounding Venice that
+	in particular discharge (.) heavy metals (.) into those waters .
+%mor:	coord|and prep|in n:prop|Venice n:prop|Italy adv|there cop|be&3S
+	det:art|a adj|big n|concern prep|with det:art|the n|water n|purity
+	adv|there cop|be&PRES qn|many adj|industrial n|plant-PL
+	part|surround-PRESP n:prop|Venice adv|that adv|in adj|particular
+	n|discharge adj|heavy n|metal-PL prep|into det:dem|those n|water-PL
+	.
+%gra:	1|6|LINK 2|6|JCT 3|2|POBJ 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|PRED 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|15|SUBJ 15|9|CMOD
+	16|18|QUANT 17|18|MOD 18|15|PRED 19|18|XMOD 20|19|OBJ 21|22|JCT 22|26|JCT
+	23|24|MOD 24|26|MOD 25|26|MOD 26|19|OBJ 27|26|NJCT 28|29|DET 29|27|POBJ
+	30|6|PUNCT
+*S1:	and those heavy metals in particular cause a_lot_of environmental
+	damage .
+%mor:	coord|and det:dem|those adj|heavy n|metal-PL prep|in n|particular
+	n|cause qn|a_lot_of adj|environment&dn-AL n|damage .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|7|MOD 7|5|POBJ
+	8|10|QUANT 9|10|MOD 10|4|APP 11|4|PUNCT
+*S1:	they're not only toxic (.) but they tend to get involved in many
+	reactions including the type that you are studying in experiment two
+	precipitation (.) reactions .
+%mor:	pro:sub|they~cop|be&PRES neg|not adv|only adj|toxic conj|but
+	pro:sub|they v|tend inf|to aux|get part|involve-PASTP prep|in
+	qn|many n|reaction-PL part|include-PRESP det:art|the n|type
+	pro:rel|that pro:per|you aux|be&PRES part|study-PRESP prep|in
+	n|experiment det:num|two n|precipitate&dv-TION n|reaction-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|11|INF 10|11|AUX 11|8|COMP 12|11|JCT 13|14|QUANT 14|12|POBJ 15|11|XJCT
+	16|17|DET 17|15|OBJ 18|21|LINK 19|21|SUBJ 20|21|AUX 21|17|CMOD 22|21|JCT
+	23|26|MOD 24|25|QUANT 25|26|MOD 26|22|POBJ 27|2|PUNCT
+*S1:	now (.) when I say heavy metals I don't mean just the atomic form
+	of metals (.) and I'm talking about (.) the metal that have higher
+	masses so that they're (.) over here in the right of the Periodic
+	Table and down into what we call the Transition and Post_Transition
+	Area .
+%mor:	adv|now conj|when pro:sub|I v|say adj|heavy n|metal-PL pro:sub|I
+	mod|do~neg|not adj|mean adv|just det:art|the adj|atomic n|form
+	prep|of n|metal-PL coord|and pro:sub|I~aux|be&1S part|talk-PRESP
+	prep|about det:art|the n|metal pro:rel|that v|have adj|high-CP
+	n|mass-PL conj|so comp|that pro:sub|they~cop|be&PRES prep|over
+	n|here prep|in det:art|the adj|right prep|of det:art|the
+	n:prop|Periodic n:prop|Table coord|and adv|down prep|into
+	pro:int|what pro:sub|we v|call det:art|the n:prop|Transition
+	coord|and n:prop|Post_Transition n:prop|Area .
+%gra:	1|10|JCT 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|6|MOD 6|4|OBJ 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|0|ROOT 11|14|JCT 12|14|DET 13|14|MOD 14|10|APP 15|14|NJCT
+	16|15|POBJ 17|20|LINK 18|20|SUBJ 19|20|AUX 20|14|CMOD 21|20|JCT 22|23|DET
+	23|21|POBJ 24|25|LINK 25|23|CMOD 26|27|MOD 27|25|OBJ 28|31|LINK
+	29|31|LINK 30|31|SUBJ 31|10|CJCT 32|31|JCT 33|32|POBJ 34|33|NJCT 35|40|DET
+	36|40|MOD 37|36|JCT 38|39|DET 39|37|POBJ 40|34|POBJ 41|31|CONJ 42|41|COORD
+	43|42|JCT 44|46|LINK 45|46|SUBJ 46|51|PRED 47|48|DET 48|51|SUBJ 49|48|CONJ
+	50|49|COORD 51|43|POBJ 52|10|PUNCT
+*S1:	and there in particular there's one culprit we're very concerned
+	with mercury .
+%mor:	coord|and adv|there prep|in n|particular pro:exist|there~cop|be&3S
+	det:num|one n|culprit pro:sub|we~aux|be&PRES adv|very
+	part|concern-PASTP prep|with n|mercury .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|3|POBJ 5|6|SUBJ 6|0|ROOT 7|8|QUANT 8|6|PRED
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|8|CMOD 13|12|JCT 14|13|POBJ 15|6|PUNCT
+*S1:	okay and I'm going to be doing an illustration with mercury HG &-uh
+	in a moment (.) but it is not the metal that actually is in the
+	water that's the concern it's the metal ions .
+%mor:	co|okay coord|and pro:sub|I~aux|be&1S part|go-PRESP inf|to aux|be
+	part|do-PRESP det:art|a n|illustrate&dv-TION prep|with n|mercury
+	n:prop|HG prep|in det:art|a n|moment conj|but pro:per|it cop|be&3S
+	neg|not det:art|the n|metal pro:rel|that adv|actual&dadj-LY
+	aux|be&3S prep|in det:art|the n|water pro:rel|that~cop|be&3S
+	det:art|the n|concern pro:per|it~cop|be&3S det:art|the n|metal
+	n|ion-PL .
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|INF 7|8|AUX 8|5|COMP
+	9|10|DET 10|8|OBJ 11|8|JCT 12|13|MOD 13|11|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|19|LINK 18|19|SUBJ 19|5|ROOT 20|19|NEG 21|22|DET 22|19|PRED
+	23|22|INCROOT 24|23|JCT 25|24|POBJ 26|25|NJCT 27|28|DET 28|26|POBJ
+	29|30|LINK 30|28|CMOD 31|32|DET 32|30|PRED 33|34|SUBJ 34|32|CMOD 35|37|DET
+	36|37|MOD 37|34|PRED 38|23|PUNCT
+*S1:	and an ion is a charged form of the metal .
+%mor:	coord|and det:art|a n|ion aux|be&3S det:art|a part|charge-PASTP
+	n|form prep|of det:art|the n|metal .
+%gra:	1|7|LINK 2|3|DET 3|7|SUBJ 4|7|AUX 5|7|DET 6|7|MOD 7|0|INCROOT 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|7|PUNCT
+*S1:	actually they charge (.) positively (.) and all our metals that go
+	into solution (.) are positively charged they're called cations .
+%mor:	adv|actual&dadj-LY pro:sub|they v|charge adv|positive&dadj-LY
+	coord|and qn|all det:poss|our n|metal-PL pro:rel|that v|go prep|into
+	n|solution aux|be&PRES adv|positive&dadj-LY part|charge-PASTP
+	pro:sub|they~aux|be&PRES part|call-PASTP n|cation-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|8|QUANT 7|8|DET 8|15|SUBJ
+	9|10|LINK 10|8|CMOD 11|10|JCT 12|11|POBJ 13|15|AUX 14|15|JCT 15|5|COORD
+	16|18|SUBJ 17|18|AUX 18|15|COMP 19|18|OBJ 20|3|PUNCT
+*S1:	and these cations tend to associate with negatively charged (.)
+	species (.) called anions .
+%mor:	coord|and det:dem|these n|cation-PL v|tend prep|to n|associate
+	prep|with adv|negative&dadj-LY part|charge-PASTP n|species
+	v|call-PAST n|anion-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|JCT
+	9|7|POBJ 10|11|SUBJ 11|9|COMP 12|11|OBJ 13|4|PUNCT
+*S1:	and in our oceans in particular we have (.) a_lot_of (.) the salt
+	sodium chloride (.) that contains NA (.) that's the (.) symbol for
+	sodium (.) and (.) CL (.) the symbol for chlorine (.) and in
+	solution we find we have the positively charged sodium atom called
+	sodium cation (.) and it (.) tends to get attracted and (.) combine
+	with chloride ion .
+%mor:	coord|and prep|in det:poss|our n|ocean-PL prep|in n|particular
+	pro:sub|we v|have qn|a_lot_of det:art|the n|salt n|sodium n|chloride
+	pro:rel|that v|contain-3S n:prop|NA pro:dem|that~cop|be&3S
+	det:art|the n|symbol prep|for n|sodium coord|and n:prop|CL
+	det:art|the n|symbol prep|for n|chlorine coord|and prep|in
+	n|solution pro:sub|we v|find pro:sub|we v|have det:art|the
+	adv|positive&dadj-LY part|charge-PASTP n|sodium n|atom v|call-PAST
+	n|sodium n|cation coord|and pro:per|it v|tend-3S inf|to aux|get
+	part|attract-PASTP coord|and n|combine prep|with n|chloride n|ion .
+%gra:	1|8|LINK 2|8|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|13|QUANT 10|13|DET 11|12|MOD 12|13|MOD 13|18|SUBJ 14|15|LINK 15|13|CMOD
+	16|15|OBJ 17|18|SUBJ 18|8|COMP 19|20|DET 20|18|PRED 21|20|NJCT
+	22|21|POBJ 23|20|CONJ 24|23|COORD 25|26|DET 26|24|OBJ 27|26|NJCT 28|27|POBJ
+	29|26|CONJ 30|29|COORD 31|30|POBJ 32|33|SUBJ 33|8|CJCT 34|35|SUBJ 35|33|COMP
+	36|40|DET 37|38|JCT 38|39|XMOD 39|40|MOD 40|41|SUBJ 41|35|COMP
+	42|43|MOD 43|41|OBJ 44|46|LINK 45|46|SUBJ 46|41|CJCT 47|49|INF 48|49|AUX
+	49|46|COMP 50|49|CONJ 51|50|COORD 52|51|NJCT 53|54|MOD 54|52|POBJ 55|8|PUNCT
+*S1:	and this is an artist's rendition of what is the most common salt
+	in our oceans (.) sodium (.) chloride .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|a adj|art&dn-IST-POSS
+	n|rendition prep|of pro:int|what cop|be&3S det:art|the qn|most
+	adj|common n|salt prep|in det:poss|our n|ocean-PL n|sodium
+	n|chloride .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|9|LINK
+	9|7|CPOBJ 10|13|DET 11|13|QUANT 12|13|MOD 13|9|PRED 14|13|NJCT 15|18|DET
+	16|18|MOD 17|18|MOD 18|14|POBJ 19|3|PUNCT
+*S1:	all you'll be dealing with in this lab important (.) to keep in
+	mind are salts .
+%mor:	post|all pro:per|you~mod|will aux|be part|deal-PRESP prep|with
+	prep|in det:dem|this n|lab adj|important inf|to v|keep prep|in
+	n|mind cop|be&PRES n|salt-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|JCT 11|12|INF 12|10|XMOD 13|12|JCT 14|15|SUBJ 15|13|POBJ
+	16|15|PRED 17|5|PUNCT
+*S1:	salts contain (.) positively charged ions called cations (.) and
+	negatively charged ions (.) called anions .
+%mor:	n|salt-PL v|contain adv|positive&dadj-LY v|charge-PAST n|ion-PL
+	v|call-PAST n|cation-PL coord|and adv|negative&dadj-LY v|charge-PAST
+	n|ion-PL v|call-PAST n|anion-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|ENUM 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|2|CONJ
+	9|10|JCT 10|8|COORD 11|12|SUBJ 12|10|COMP 13|12|OBJ 14|2|PUNCT
+*S1:	the way I think of cations is I picture a cat (.) two round circles
+	for the eyes with (.) two (.) positive charges (.) which [?] by
+	positive charge meaning eye .
+%mor:	det:art|the n|way pro:sub|I v|think prep|of n|cation-PL cop|be&3S
+	pro:sub|I v|picture det:art|a n|cat det:num|two n|round v|circle-3S
+	prep|for det:art|the n|eye-PL prep|with det:num|two adj|positive
+	n|charge-PL pro:rel|which adv|by adj|positive n|charge
+	part|mean-PRESP n|eye .
+%gra:	1|2|DET 2|7|SUBJ 3|4|SUBJ 4|2|CMOD 5|4|JCT 6|5|POBJ 7|0|ROOT 8|9|SUBJ
+	9|7|CPRED 10|11|DET 11|9|OBJ 12|13|QUANT 13|14|SUBJ 14|11|CMOD 15|14|JCT
+	16|17|DET 17|15|POBJ 18|14|JCT 19|21|QUANT 20|21|MOD 21|18|POBJ
+	22|25|LINK 23|25|JCT 24|25|MOD 25|21|CMOD 26|25|XMOD 27|26|OBJ 28|7|PUNCT
+*S1:	whatever you can use to remember (.) what a cation is versus an
+	anion that works for you (.) great .
+%mor:	pro:int|whatever pro:per|you mod|can v|use inf|to v|remember
+	pro:int|what det:art|a n|cation cop|be&3S prep|versus det:art|a
+	n|anion pro:rel|that v|work-3S prep|for pro:per|you adj|great .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|15|LINK 15|13|CMOD
+	16|15|JCT 17|18|SUBJ 18|16|POBJ 19|4|PUNCT
+*S1:	there's a_lot_of terminology in these labs and we need to find (.)
+	methods for (.) learning (.) the language .
+%mor:	pro:exist|there~cop|be&3S qn|a_lot_of n|terminology prep|in
+	det:dem|these n|lab-PL coord|and pro:sub|we v|need inf|to v|find
+	n|method-PL prep|for n:gerund|learn-PRESP det:art|the n|language .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|2|CJCT 11|12|INF 12|10|COMP 13|12|OBJ 14|12|JCT 15|14|POBJ
+	16|17|DET 17|15|OBJ 18|2|PUNCT
+*S1:	so here we are all these compounds will contain (.) cations and
+	anions (.) and we will call them salts .
+%mor:	adv|so adv|here pro:sub|we cop|be&PRES adv|all det:dem|these
+	n|compound-PL mod|will v|contain n|cation-PL coord|and n|anion-PL
+	coord|and pro:sub|we mod|will v|call pro:obj|them n|salt-PL .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|9|JCT 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|4|PRED 10|9|OBJ 11|10|CONJ 12|11|COORD 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|9|CJCT 17|18|SUBJ 18|16|COMP 19|4|PUNCT
+*S1:	the exception to calling them salts (.) is the following (.) if the
+	cation is a hydrogen ion h@l plus (.) then we'll be calling it an
+	acid if it's got OH minus we call it a base (.) and if it's got
+	oxygen o@l two minus (.) we call it an acid anhydride .
+%mor:	det:art|the n|exception prep|to n:gerund|call-PRESP pro:obj|them
+	n|salt-PL cop|be&3S det:art|the n:gerund|follow-PRESP comp|if
+	det:art|the n|cation cop|be&3S det:art|a n|hydrogen n|ion n:let|h
+	adv|plus adv:tem|then pro:sub|we~mod|will aux|be part|call-PRESP
+	pro:per|it det:art|a n|acid conj|if pro:per|it~aux|be&3S
+	part|get&PASTP n:prop|OH n|minus pro:sub|we v|call pro:per|it
+	det:art|a n|base coord|and conj|if pro:per|it~aux|be&3S
+	part|get&PASTP n|oxygen n:let|o det:num|two n|minus pro:sub|we
+	v|call pro:per|it det:art|a adj|acid n|anhydride .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|7|LINK 5|6|MOD 6|7|SUBJ 7|3|POBJ 8|9|DET
+	9|7|PRED 10|13|LINK 11|12|DET 12|13|SUBJ 13|9|CMOD 14|16|DET 15|16|MOD
+	16|13|PRED 17|23|LINK 18|19|JCT 19|23|JCT 20|23|SUBJ 21|23|AUX 22|23|AUX
+	23|16|XMOD 24|23|OBJ 25|26|DET 26|24|OBJ 27|30|LINK 28|30|SUBJ
+	29|30|AUX 30|34|CJCT 31|32|MOD 32|30|OBJ 33|34|SUBJ 34|26|CMOD 35|34|OBJ
+	36|37|DET 37|35|OBJ 38|48|LINK 39|42|LINK 40|42|SUBJ 41|42|AUX 42|48|CJCT
+	43|48|SUBJ 44|48|AUX 45|46|QUANT 46|48|JCT 47|48|SUBJ 48|37|CMOD 49|48|OBJ
+	50|52|DET 51|52|MOD 52|49|OBJ 53|2|PUNCT
+*S1:	don't worry I'm not going to examine you now on (.) which are salts
+	acids and bases (.) I just want you to know that for a fact .
+%mor:	mod|do~neg|not v|worry pro:sub|I~aux|be&1S neg|not part|go-PRESP
+	inf|to v|examine pro:per|you adv|now prep|on pro:int|which
+	cop|be&PRES n|salt-PL n|acid-PL coord|and v|base-3S pro:sub|I
+	adv|just v|want pro:per|you inf|to v|know pro:dem|that prep|for
+	det:art|a n|fact .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|3|COMP 8|9|INF
+	9|7|COMP 10|9|OBJ 11|9|JCT 12|9|JCT 13|14|LINK 14|12|CPOBJ 15|16|MOD
+	16|14|PRED 17|9|CONJ 18|17|COORD 19|21|SUBJ 20|21|JCT 21|18|COMP 22|24|SUBJ
+	23|24|INF 24|21|COMP 25|24|OBJ 26|24|JCT 27|28|DET 28|26|POBJ 29|3|PUNCT
+*S1:	and another important fact is when these ions combine they combine
+	in such a way that they neutralize each_other's charges (.) so that
+	the total positive and negative charge (.) is neutral .
+%mor:	coord|and qn|another adj|important n|fact cop|be&3S pro:rel|when
+	det:dem|these n|ion-PL n|combine pro:sub|they v|combine prep|in
+	qn|such det:art|a n|way pro:rel|that pro:sub|they v|neutral&dadj-IZE
+	adj|each_other&dn-POSS n|charge-PL adv|so comp|that det:art|the
+	n|total n|positive coord|and adj|negative n|charge cop|be&3S
+	adj|neutral .
+%gra:	1|5|LINK 2|4|QUANT 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|9|LINK 7|9|DET 8|9|MOD
+	9|29|SUBJ 10|11|SUBJ 11|9|CMOD 12|11|JCT 13|15|QUANT 14|15|DET 15|12|POBJ
+	16|18|LINK 17|18|SUBJ 18|15|CMOD 19|20|MOD 20|18|OBJ 21|29|JCT
+	22|29|LINK 23|25|DET 24|25|MOD 25|29|SUBJ 26|25|CONJ 27|28|MOD 28|26|COORD
+	29|5|PRED 30|29|PRED 31|5|PUNCT
+*S1:	(0.6) and in the diagram that I will put back on over here I want
+	you to note (.) that there's really no beginning and end to these
+	compounds .
+%mor:	coord|and prep|in det:art|the n|diagram pro:rel|that pro:sub|I
+	mod|will v|put&ZERO adv|back adv|on prep|over adv|here pro:sub|I
+	v|want pro:per|you inf|to v|note comp|that pro:exist|there~cop|be&3S
+	adv|real&dadj-LY co|no n|beginning coord|and n|end prep|to
+	det:dem|these n|compound-PL .
+%gra:	1|14|LINK 2|14|JCT 3|4|DET 4|2|POBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD
+	9|8|JCT 10|8|JCT 11|8|JCT 12|14|JCT 13|14|SUBJ 14|0|ROOT 15|17|SUBJ
+	16|17|INF 17|14|COMP 18|20|LINK 19|20|SUBJ 20|17|COMP 21|23|JCT 22|23|COM
+	23|20|PRED 24|23|CONJ 25|24|COORD 26|25|NJCT 27|28|DET 28|26|POBJ
+	29|14|PUNCT
+*S1:	they go on and on and you cannot find a finite piece that's just
+	one NA and one CL .
+%mor:	pro:sub|they v|go adv|on coord|and adv|on coord|and pro:per|you
+	mod|can~neg|not v|find det:art|a adj|finite n|piece
+	pro:rel|that~cop|be&3S adj|just pro:indef|one n:prop|NA coord|and
+	det:num|one n:prop|CL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|10|LINK 5|10|JCT 6|10|LINK 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|2|CJCT 11|13|DET 12|13|MOD 13|10|OBJ 14|15|LINK 15|13|CMOD
+	16|15|PRED 17|16|CONJ 18|17|COORD 19|18|CONJ 20|21|QUANT 21|19|COORD
+	22|2|PUNCT
+*S1:	the NA pluses are surrounded by (.) anions above it and below it
+	and to the side .
+%mor:	det:art|the n:prop|NA n|plus-PL aux|be&PRES part|surround-PASTP
+	prep|by n|anion-PL prep|above pro:per|it coord|and prep|below
+	pro:per|it coord|and prep|to det:art|the n|side .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|11|POBJ 13|12|CONJ 14|13|COORD 15|16|DET
+	16|14|POBJ 17|5|PUNCT
+*S1:	and this is the only thing we can say about it is , it is a one to
+	one ratio .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|the qn|only n|thing
+	pro:sub|we mod|can v|say prep|about pro:per|it cop|be&3S cm|cm
+	pro:per|it cop|be&3S det:art|a det:num|one prep|to det:num|one
+	n|ratio .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|PRED 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|12|JCT 11|12|SUBJ 12|9|COMP 13|12|LP 14|15|SUBJ 15|12|PRED
+	16|17|DET 17|15|PRED 18|17|NJCT 19|20|QUANT 20|18|POBJ 21|3|PUNCT
+*S1:	so [?] there may be a billion sodium ions to a billion chloride
+	ions when we write NACL we're really writing what we call an
+	empirical formula just to give you the basic ratio of one ion to (.)
+	another .
+%mor:	adv|so adv|there mod|may cop|be det:art|a det:num|billion n|sodium
+	n|ion-PL prep|to det:art|a det:num|billion n|chloride n|ion-PL
+	conj|when pro:sub|we v|write n:prop|NACL pro:sub|we~aux|be&PRES
+	adv|real&dadj-LY part|write-PRESP pro:int|what pro:sub|we v|call
+	det:art|a adj|empirical n|formula adv|just inf|to v|give pro:per|you
+	det:art|the adj|basic n|ratio prep|of det:num|one n|ion prep|to
+	qn|another .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|DET 6|7|QUANT 7|8|MOD 8|4|PRED
+	9|8|NJCT 10|13|DET 11|12|QUANT 12|13|MOD 13|9|POBJ 14|16|LINK 15|16|SUBJ
+	16|4|CJCT 17|16|OBJ 18|21|SUBJ 19|21|AUX 20|21|JCT 21|16|XJCT 22|24|LINK
+	23|24|SUBJ 24|21|COMP 25|27|DET 26|27|MOD 27|24|OBJ 28|24|JCT 29|30|INF
+	30|28|COMP 31|30|OBJ2 32|34|DET 33|34|MOD 34|30|OBJ 35|34|NJCT
+	36|37|QUANT 37|35|POBJ 38|34|NJCT 39|38|POBJ 40|4|PUNCT
+*S1:	one of the things that characterizes these compounds is that (.)
+	they are held together very strongly in place through electrostatic
+	forces .
+%mor:	det:num|one prep|of det:art|the n|thing-PL pro:rel|that
+	v|character&dadj-IZE-3S det:dem|these n|compound-PL cop|be&3S
+	comp|that pro:sub|they aux|be&PRES part|hold&PASTP adv|together
+	adv|very adv|strong&dadj-LY prep|in n|place prep|through
+	electro#n|static n|force-PL .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|6|LINK 6|4|CMOD 7|8|DET 8|9|SUBJ
+	9|6|COMP 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CPRED 14|13|JCT 15|16|JCT
+	16|13|JCT 17|13|JCT 18|17|POBJ 19|13|JCT 20|21|MOD 21|19|POBJ
+	22|1|PUNCT
+*S1:	so that if you take a typical salt and you put it in [/] in on your
+	kitchen stove (.) and you turn the heat up all the way (.) the most
+	it's going to do is pop around (.) in that pan (.) make (.) perhaps
+	some noise (.) but it's not going to liquefy .
+%mor:	co|so adv|that conj|if pro:per|you v|take det:art|a adj|typical
+	n|salt coord|and pro:per|you v|put&ZERO pro:per|it adv|in prep|on
+	det:poss|your n|kitchen n|stove coord|and pro:per|you v|turn
+	det:art|the n|heat adv|up adv|all det:art|the n|way det:art|the
+	qn|most pro:per|it~aux|be&3S part|go-PRESP inf|to v|do cop|be&3S
+	n|pop adv|around prep|in det:dem|that n|pan v|make adv|perhaps
+	qn|some n|noise conj|but pro:per|it~aux|be&3S neg|not part|go-PRESP
+	inf|to v|liquefy .
+%gra:	1|5|COM 2|3|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|11|LINK 10|11|SUBJ 11|5|CJCT 12|11|OBJ 13|11|JCT 14|11|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|20|LINK 19|20|SUBJ 20|11|CJCT 21|22|DET 22|20|OBJ
+	23|20|JCT 24|26|JCT 25|26|DET 26|20|OBJ 27|28|DET 28|31|QUANT 29|31|SUBJ
+	30|31|AUX 31|26|CMOD 32|33|INF 33|31|COMP 34|33|OBJ 35|34|PRED 36|35|NJCT
+	37|35|NJCT 38|39|DET 39|37|POBJ 40|35|ENUM 41|40|JCT 42|43|QUANT
+	43|40|OBJ 44|48|LINK 45|48|SUBJ 46|48|AUX 47|46|NEG 48|26|CJCT 49|50|INF
+	50|48|COMP 51|5|PUNCT
+*S1:	not with the source of heat that we have in our (.) typical
+	kitchens (.) why ?
+%mor:	neg|not prep|with det:art|the n|source prep|of n|heat pro:rel|that
+	pro:sub|we v|have prep|in det:poss|our adj|typical n|kitchen-PL
+	pro:rel|why ?
+%gra:	1|2|NEG 2|0|INCROOT 3|4|DET 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|9|LINK
+	8|9|SUBJ 9|6|CMOD 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|13|OM 15|2|PUNCT
+*S1:	because it takes about a thousand degrees centigrade of a heat
+	source to get these ions flowing past one another .
+%mor:	conj|because pro:per|it v|take-3S adv|about det:art|a
+	det:num|thousand n|degree-PL n|centigrade prep|of det:art|a n|heat
+	n|source inf|to v|get det:dem|these n|ion-PL part|flow-PRESP
+	adj|past det:num|one qn|another .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|14|JCT 5|8|DET 6|7|QUANT 7|8|MOD 8|14|SUBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|14|INF 14|3|COMP 15|16|DET
+	16|14|OBJ 17|16|XMOD 18|19|MOD 19|20|QUANT 20|17|COMP 21|3|PUNCT
+*S1:	so one of the things you should begin to suspect when you go into a
+	lab and see a bottle containing a solid at room temperature is that
+	it may be (.) an ionic (.) compound .
+%mor:	adv|so pro:indef|one prep|of det:art|the n|thing-PL pro:per|you
+	mod|should v|begin inf|to v|suspect conj|when pro:per|you v|go
+	prep|into det:art|a n|lab coord|and v|see det:art|a n|bottle
+	part|contain-PRESP det:art|a n|solid prep|at n|room n|temperature
+	cop|be&3S comp|that pro:per|it mod|may cop|be det:art|a adj|ionic
+	n|compound .
+%gra:	1|6|JCT 2|1|POBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|10|INF 10|8|COMP 11|13|LINK 12|13|SUBJ 13|10|COMP 14|13|JCT 15|16|DET
+	16|14|POBJ 17|13|CONJ 18|17|COORD 19|20|DET 20|18|OBJ 21|20|XMOD 22|23|DET
+	23|21|OBJ 24|21|JCT 25|26|MOD 26|24|POBJ 27|18|COMP 28|31|LINK
+	29|31|SUBJ 30|31|AUX 31|27|COMP 32|34|DET 33|34|MOD 34|31|PRED 35|8|PUNCT
+*S1:	it's one of the characteristics (.) of ionic compounds (.) that
+	they tend to be solids at room (.) temperature .
+%mor:	pro:per|it~cop|be&3S pro:indef|one prep|of det:art|the
+	n|characteristic-PL prep|of adj|ionic n|compound-PL pro:rel|that
+	pro:sub|they v|tend inf|to cop|be n|solid-PL prep|at n|room
+	n|temperature .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|14|INF 14|12|COMP 15|14|PRED
+	16|15|NJCT 17|18|MOD 18|16|POBJ 19|2|PUNCT
+*S1:	now one of the things you need to do and this is on that worksheet
+	that &-uh you may have picked up .
+%mor:	adv|now pro:indef|one prep|of det:art|the n|thing-PL pro:per|you
+	v|need inf|to v|do coord|and pro:dem|this cop|be&3S prep|on
+	det:dem|that n|worksheet pro:rel|that pro:per|you mod|may aux|have
+	part|pick-PASTP adv|up .
+%gra:	1|7|JCT 2|1|POBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|9|INF
+	9|7|COMP 10|12|LINK 11|12|SUBJ 12|9|COMP 13|12|JCT 14|15|DET 15|13|POBJ
+	16|20|LINK 17|20|SUBJ 18|20|AUX 19|20|AUX 20|15|CMOD 21|20|JCT 22|7|PUNCT
+*S1:	again I will put the worksheets for the new topics (.) at the
+	beginning of lecture on a stool (.) in each of the aisles .
+%mor:	adv|again pro:sub|I mod|will v|put&ZERO det:art|the n|worksheet-PL
+	prep|for det:art|the adj|new n|topic-PL prep|at det:art|the
+	n|beginning prep|of n|lecture prep|on det:art|a n|stool prep|in
+	qn|each prep|of det:art|the n|aisle-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|4|JCT 17|18|DET 18|16|POBJ 19|4|JCT 20|19|POBJ 21|20|NJCT 22|23|DET
+	23|21|POBJ 24|4|PUNCT
+*S1:	you can also download the lecture handout from the web page .
+%mor:	pro:per|you mod|can adv|also v|download det:art|the n|lecture
+	n|+v|hand+prep|out prep|from det:art|the n|web n|page .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|4|PUNCT
+*S1:	and also when we give a completed lecture on a given topic you can
+	go to the web and find my lecture notes (.) up there and comments .
+%mor:	coord|and adv|also conj|when pro:sub|we v|give det:art|a
+	part|complete-PASTP n|lecture prep|on det:art|a part|give&PASTP
+	n|topic pro:per|you mod|can v|go prep|to det:art|the n|web coord|and
+	v|find det:poss|my n|lecture v|note-3S prep|up n|there coord|and
+	n|comment-PL .
+%gra:	1|15|LINK 2|15|JCT 3|5|LINK 4|5|SUBJ 5|15|CJCT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|SUBJ 14|15|AUX 15|0|ROOT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|15|CONJ 20|19|COORD 21|22|DET 22|23|SUBJ
+	23|20|COMP 24|23|JCT 25|24|POBJ 26|23|CONJ 27|26|COORD 28|15|PUNCT
+*S1:	one of the things you need to be able to do is pick the right
+	formulas for ionic (.) compounds .
+%mor:	det:num|one prep|of det:art|the n|thing-PL pro:per|you v|need
+	inf|to cop|be adj|able inf|to v|do cop|be&3S v|pick det:art|the
+	adj|right n|formula-PL prep|for adj|ionic n|compound-PL .
+%gra:	1|6|LINK 2|1|NJCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|PRED 10|11|INF 11|9|XMOD 12|11|COMP 13|12|CPRED 14|16|DET 15|16|MOD
+	16|13|OBJ 17|16|NJCT 18|19|MOD 19|17|POBJ 20|6|PUNCT
+*S1:	because you're going to be combining cations and &ani anions in
+	solution (.) so we need to be able to know how to use the Periodic
+	Table to predict their charges .
+%mor:	conj|because pro:per|you~aux|be&PRES part|go-PRESP inf|to aux|be
+	part|combine-PRESP n|cation-PL coord|and n|anion-PL prep|in
+	n|solution conj|so pro:sub|we v|need inf|to cop|be adj|able inf|to
+	v|know pro:int|how inf|to v|use det:art|the n:prop|Periodic
+	n:prop|Table inf|to v|predict det:poss|their n|charge-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|INF 6|7|AUX 7|4|COMP 8|7|OBJ
+	9|8|CONJ 10|9|COORD 11|10|NJCT 12|11|POBJ 13|15|LINK 14|15|SUBJ 15|4|CJCT
+	16|17|INF 17|15|COMP 18|17|PRED 19|20|INF 20|18|XMOD 21|23|LINK 22|23|INF
+	23|20|COMP 24|25|DET 25|23|OBJ 26|23|OBJ 27|28|INF 28|26|XMOD 29|30|DET
+	30|28|OBJ 31|4|PUNCT
+*S1:	so we're going to discuss the most common (.) charges that they
+	have .
+%mor:	adv|so pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|discuss
+	det:art|the qn|most adj|common n|charge-PL pro:rel|that pro:sub|they
+	v|have .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|10|DET 8|10|QUANT
+	9|10|MOD 10|6|OBJ 11|13|LINK 12|13|SUBJ 13|10|CMOD 14|4|PUNCT
+*S1:	to begin with (.) you need to know (.) your metals and your
+	nonmetals so let me just take this off momentarily and put my other
+	chart back on (.) you know most of our elements (.) are (.) metals
+	&-uh they are (.) to the left of the stepladder here on the Periodic
+	Table and they're represented in blue on this &-uh chart .
+%mor:	inf|to v|begin prep|with pro:per|you v|need inf|to v|know
+	det:poss|your n|metal-PL coord|and det:poss|your non#n|metal-PL
+	adv|so v|let&ZERO pro:obj|me adv|just v|take det:dem|this adv|off
+	adv|momentary&dadj-LY coord|and v|put&ZERO det:poss|my qn|other
+	n|chart adv|back prep|on pro:per|you v|know pro:indef|most prep|of
+	det:poss|our n|element-PL cop|be&PRES n|metal-PL pro:sub|they
+	cop|be&PRES prep|to det:art|the adj|left prep|of det:art|the
+	n|+n|step+n|ladder adv|here prep|on det:art|the n:prop|Periodic
+	n:prop|Table coord|and pro:sub|they~aux|be&PRES part|represent-PASTP
+	prep|in adj|blue prep|on det:dem|this n|chart .
+%gra:	1|2|INF 2|0|ROOT 3|2|JCT 4|5|SUBJ 5|3|POBJ 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|14|LINK 11|12|DET 12|14|SUBJ 13|14|JCT 14|7|CJCT 15|14|OBJ
+	16|17|JCT 17|14|COMP 18|19|DET 19|17|JCT 20|17|JCT 21|17|CONJ 22|21|COORD
+	23|25|DET 24|25|QUANT 25|22|OBJ 26|22|JCT 27|22|JCT 28|27|POBJ 29|22|XJCT
+	30|34|SUBJ 31|30|NJCT 32|33|DET 33|31|POBJ 34|29|COMP 35|34|PRED
+	36|37|SUBJ 37|35|CMOD 38|37|JCT 39|40|DET 40|38|POBJ 41|40|NJCT 42|43|DET
+	43|41|POBJ 44|45|JCT 45|40|JCT 46|47|DET 47|48|NAME 48|45|POBJ 49|52|LINK
+	50|52|SUBJ 51|52|AUX 52|40|XMOD 53|52|JCT 54|53|POBJ 55|54|JCT 56|57|DET
+	57|55|POBJ 58|2|PUNCT
+*S1:	and the elements in yellow are our nonmetals (.) and then we have
+	just in that intermediate area what we call metalloids they're not
+	particularly nonmetallic they're not particularly metal .
+%mor:	coord|and det:art|the n|element-PL prep|in n|yellow cop|be&PRES
+	det:poss|our non#n|metal-PL coord|and adv:tem|then pro:sub|we
+	aux|have adv|just prep|in adv|that adj|intermediate n|area
+	pro:int|what pro:sub|we v|call n|metalloid-PL
+	pro:sub|they~cop|be&PRES neg|not adv|particular&dadj-LY
+	non#adj|metallic pro:sub|they~cop|be&PRES neg|not
+	adv|particular&dadj-LY n|metal .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|CONJ 10|9|COORD 11|8|INCROOT 12|11|INCROOT 13|14|JCT 14|12|JCT
+	15|16|JCT 16|17|MOD 17|14|POBJ 18|20|LINK 19|20|SUBJ 20|14|CPOBJ 21|20|OBJ
+	22|23|SUBJ 23|20|CJCT 24|23|NEG 25|26|JCT 26|23|PRED 27|28|SUBJ 28|26|CMOD
+	29|28|NEG 30|31|JCT 31|28|PRED 32|12|PUNCT
+*S1:	but the important thing for determining charge (.) is the family
+	(.) that the element is in and whether it's a metal or a nonmetal .
+%mor:	conj|but det:art|the adj|important n|thing prep|for
+	n:gerund|determine-PRESP n|charge cop|be&3S det:art|the n|family
+	pro:rel|that det:art|the n|element cop|be&3S adv|in coord|and
+	conj|whether pro:per|it~cop|be&3S det:art|a n|metal coord|or
+	det:art|a non#n|metal .
+%gra:	1|8|LINK 2|4|DET 3|4|MOD 4|8|SUBJ 5|4|NJCT 6|7|MOD 7|5|POBJ 8|0|ROOT
+	9|10|DET 10|8|PRED 11|14|LINK 12|13|DET 13|14|SUBJ 14|10|CMOD 15|14|JCT
+	16|14|CONJ 17|19|LINK 18|19|SUBJ 19|16|COORD 20|21|DET 21|19|PRED
+	22|21|CONJ 23|24|DET 24|22|COORD 25|8|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so (.) let's look at the metals (.) no let's look at the nonmetals
+	(.) to begin with the yellow those elements in yellow .
+%mor:	adv|so v|let~pro:obj|us v|look prep|at det:art|the n|metal-PL co|no
+	v|let~pro:obj|us v|look prep|at det:art|the non#n|metal-PL inf|to
+	v|begin prep|with det:art|the n|yellow det:dem|those n|element-PL
+	prep|in n|yellow .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|9|COM
+	9|4|CJCT 10|9|OBJ 11|9|COMP 12|11|JCT 13|14|DET 14|12|POBJ 15|16|INF
+	16|11|XJCT 17|16|JCT 18|19|DET 19|17|POBJ 20|21|DET 21|16|JCT 22|21|NJCT
+	23|22|POBJ 24|2|PUNCT
+*S1:	you'll see that those (.) nonmetals are informally [?] families
+	four a@l five a@l six a@l seven a@l eight a@l .
+%mor:	pro:per|you~mod|will v|see comp|that pro:dem|those non#n|metal-PL
+	cop|be&PRES in#adv|form&dadj-AL-LY n|family-PL det:num|four n:let|a
+	det:num|five n:let|a det:num|six n:let|a det:num|seven n:let|a
+	det:num|eight n:let|a .
+%gra:	1|2|SUBJ 2|3|AUX 3|0|ROOT 4|7|LINK 5|7|LINK 6|7|SUBJ 7|3|COMP 8|7|PRED
+	9|10|MOD 10|11|QUANT 11|8|COORD 12|13|QUANT 13|11|CONJ 14|15|QUANT
+	15|13|COORD 16|18|QUANT 17|18|DATE 18|19|QUANT 19|15|COMP 20|3|PUNCT
+*S1:	and the families (.) are the columns of the Periodic Table .
+%mor:	coord|and det:art|the n|family-PL cop|be&PRES det:art|the
+	n|column-PL prep|of det:art|the n:prop|Periodic n:prop|Table .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+*S1:	those family numbers describe the number of (.) electrons in the
+	outermost (.) shell of the element (.) and it's those &{l=SIC
+	electron &}l=SIC that determine the chemical properties the chemical
+	behavior of the element .
+%mor:	det:dem|those n|family v|number-3S v|describe det:art|the n|number
+	prep|of n|electron-PL prep|in det:art|the adj|outermost n|shell
+	prep|of det:art|the n|element coord|and pro:per|it~cop|be&3S
+	det:dem|those n|electron pro:rel|that v|determine det:art|the
+	n|chemical n|property-PL det:art|the adj|chemical n|behavior prep|of
+	det:art|the n|element .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|18|LINK 17|18|SUBJ 18|3|CJCT 19|20|DET 20|18|PRED 21|22|LINK 22|20|CMOD
+	23|25|DET 24|25|MOD 25|22|OBJ 26|28|DET 27|28|MOD 28|25|APP 29|28|NJCT
+	30|31|DET 31|29|POBJ 32|3|PUNCT
+*S1:	and for some magic reason elements like to have a complete shell of
+	electrons (.) which means (.) if they have less than eight (.) they
+	will attempt to gain electrons to get eight if they're a nonmetal .
+%mor:	coord|and prep|for qn|some adj|magic n|reason n|element-PL co|like
+	inf|to v|have det:art|a adj|complete n|shell prep|of n|electron-PL
+	pro:int|which v|mean-3S conj|if pro:sub|they v|have adj|less
+	prep|than det:num|eight pro:sub|they mod|will v|attempt inf|to
+	v|gain n|electron-PL inf|to v|get det:num|eight comp|if
+	pro:sub|they~cop|be&PRES det:art|a non#n|metal .
+%gra:	1|9|LINK 2|9|JCT 3|6|QUANT 4|6|MOD 5|6|MOD 6|2|POBJ 7|9|COM 8|9|INF
+	9|0|ROOT 10|12|DET 11|12|MOD 12|9|OBJ 13|12|NJCT 14|13|POBJ 15|16|LINK
+	16|12|CMOD 17|19|LINK 18|19|SUBJ 19|16|CJCT 20|19|PRED 21|20|JCT 22|25|LINK
+	23|25|SUBJ 24|25|AUX 25|21|CPOBJ 26|27|INF 27|25|COMP 28|27|OBJ
+	29|30|INF 30|27|XJCT 31|32|QUANT 32|34|LINK 33|34|SUBJ 34|30|COMP 35|36|DET
+	36|34|PRED 37|9|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	now some of you I can see are smiling and saying well probably I
+	know this stuff already but fine be patient (.) this is the
+	difference in background here too (.) gotta know this stuff .
+%mor:	adv|now pro:indef|some prep|of pro:per|you pro:sub|I mod|can v|see
+	aux|be&PRES part|smile-PRESP coord|and part|say-PRESP adv|well
+	adv|probable&dadj-LY pro:sub|I v|know det:dem|this n|stuff
+	adv|already conj|but adv|fine cop|be n|patient pro:dem|this
+	cop|be&3S det:art|the n|difference prep|in n|background adv|here
+	adv|too mod|got~inf|to v|know det:dem|this n|stuff .
+%gra:	1|7|JCT 2|1|POBJ 3|2|NJCT 4|3|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|AUX
+	9|7|COMP 10|15|LINK 11|15|XJCT 12|11|JCT 13|11|JCT 14|15|SUBJ 15|9|COMP
+	16|17|DET 17|15|OBJ 18|17|NJCT 19|24|LINK 20|21|JCT 21|24|CJCT 22|21|PRED
+	23|24|SUBJ 24|33|CJCT 25|26|DET 26|33|SUBJ 27|26|NJCT 28|27|POBJ
+	29|33|JCT 30|33|JCT 31|33|AUX 32|33|INF 33|7|COMP 34|35|DET 35|33|OBJ
+	36|7|PUNCT
+*S1:	okay so if I'm an element in family seven a@l (.) like F (.) which
+	is fluorine has seven outer electrons (.) I'm going to gain one
+	that's going to upset my electrical &nu neutrality by giving me a
+	negative one (.) charge (.) and I'm going to be an anion with
+	negative one charge and that's true for everything in family seven .
+%mor:	co|okay adv|so comp|if pro:sub|I~cop|be&1S det:art|a n|element
+	prep|in n|family det:num|seven n:let|a v|like n:prop|F pro:rel|which
+	cop|be&3S n|fluorine v|have&3S det:num|seven adj|outer n|electron-PL
+	pro:sub|I~aux|be&1S part|go-PRESP prep|to n|gain pro:indef|one
+	pro:rel|that~aux|be&3S part|go-PRESP inf|to v|upset det:poss|my
+	adj|electric&dn-AL n|neutral&dadj-ITY adv|by part|give-PRESP
+	pro:obj|me det:art|a n|negative det:num|one n|charge coord|and
+	pro:sub|I~aux|be&1S part|go-PRESP inf|to cop|be det:art|a n|anion
+	prep|with n|negative det:num|one n|charge coord|and
+	pro:dem|that~cop|be&3S n|true prep|for pro:indef|everything prep|in
+	n|family det:num|seven .
+%gra:	1|3|COM 2|3|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|7|NJCT
+	9|8|POBJ 10|11|QUANT 11|7|XMOD 12|11|COM 13|12|OBJ 14|15|LINK 15|13|CMOD
+	16|17|SUBJ 17|15|CPRED 18|20|QUANT 19|20|MOD 20|17|OBJ 21|23|SUBJ
+	22|23|AUX 23|20|CMOD 24|23|JCT 25|24|POBJ 26|23|JCT 27|29|LINK 28|29|AUX
+	29|26|CMOD 30|31|INF 31|29|COMP 32|34|DET 33|34|MOD 34|31|OBJ 35|31|JCT
+	36|31|XJCT 37|36|OBJ2 38|41|DET 39|41|MOD 40|41|QUANT 41|36|OBJ 42|45|LINK
+	43|45|SUBJ 44|45|AUX 45|41|CMOD 46|47|INF 47|45|COMP 48|49|DET 49|47|PRED
+	50|56|LINK 51|53|MOD 52|53|QUANT 53|56|SUBJ 54|53|CONJ 55|54|COORD
+	56|49|CMOD 57|56|PRED 58|57|NJCT 59|58|POBJ 60|59|NJCT 61|60|POBJ 62|57|ENUM
+	63|5|PUNCT
+*S1:	same thing works [?] in family six except for family six starting
+	with O at the top oxygen on down (.) I have six outer electrons
+	which if [?] I can gain two (.) that's going to give me a charge of
+	minus two .
+%mor:	adj|same n|thing n|work-PL prep|in n|family det:num|six prep|except
+	prep|for n|family det:num|six part|start-PRESP prep|with n:prop|O
+	prep|at det:art|the n|top n|oxygen adv|on prep|down pro:sub|I v|have
+	det:num|six adj|outer n|electron-PL pro:rel|which conj|if pro:sub|I
+	mod|can v|gain det:num|two pro:rel|that~aux|be&3S part|go-PRESP
+	inf|to v|give pro:obj|me det:art|a n|charge prep|of n|minus
+	det:num|two .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|6|MOD 6|4|POBJ 7|3|JCT 8|11|JCT
+	9|8|POBJ 10|11|QUANT 11|7|CPOBJ 12|11|JCT 13|12|POBJ 14|13|NJCT
+	15|17|DET 16|17|MOD 17|14|POBJ 18|11|JCT 19|11|JCT 20|21|SUBJ 21|19|POBJ
+	22|24|QUANT 23|24|MOD 24|21|OBJ 25|29|LINK 26|29|LINK 27|29|SUBJ 28|29|AUX
+	29|24|CMOD 30|29|OBJ 31|33|LINK 32|33|AUX 33|30|CMOD 34|35|INF 35|33|COMP
+	36|35|OBJ2 37|38|DET 38|35|OBJ 39|38|NJCT 40|39|POBJ 41|38|ENUM 42|3|PUNCT
+*S1:	and (.) that formula that recipe works for all the nonmetals so
+	essentially you're taking the family number and you're subtracting
+	eight (.) to get the charge .
+%mor:	coord|and det:dem|that n|formula det:dem|that n|recipe v|work-3S
+	prep|for qn|all det:art|the non#n|metal-PL adv|so
+	adv|essential&dadj-LY pro:per|you~aux|be&PRES part|take-PRESP
+	det:art|the n|family n|number coord|and pro:per|you~cop|be&PRES
+	n:gerund|subtract-PRESP det:num|eight inf|to v|get det:art|the
+	n|charge .
+%gra:	1|6|LINK 2|3|DET 3|6|OBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|10|QUANT
+	9|10|DET 10|7|POBJ 11|12|JCT 12|15|JCT 13|15|SUBJ 14|15|AUX 15|10|CMOD
+	16|18|DET 17|18|MOD 18|15|OBJ 19|21|LINK 20|21|SUBJ 21|15|CJCT 22|21|PRED
+	23|22|OBJ 24|25|INF 25|23|COMP 26|27|DET 27|25|OBJ 28|6|PUNCT
+*S1:	they are the simplest ones (.) and they generally do not in any way
+	&-uh do anything differently (.) than either F minus four three two
+	or one .
+%mor:	pro:sub|they cop|be&PRES det:art|the adj|simple-SP n|one-PL
+	coord|and pro:sub|they adv|general&dadj-LY v|do neg|not prep|in
+	qn|any n|way v|do pro:indef|anything adv|different&dadj-LY prep|than
+	adv|either n:prop|F n|minus det:num|four det:num|three det:num|two
+	coord|or det:num|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|9|LINK 7|9|SUBJ 8|9|JCT
+	9|5|ROOT 10|9|NEG 11|9|JCT 12|13|QUANT 13|11|POBJ 14|9|ROOT 15|14|OBJ
+	16|14|JCT 17|16|INCROOT 18|17|NJCT 19|18|POBJ 20|21|MOD 21|22|QUANT
+	22|23|QUANT 23|19|COORD 24|23|CONJ 25|24|COORD 26|17|PUNCT
+*S1:	now when we delve into the metals it gets (.) more (.) complex .
+%mor:	adv|now conj|when pro:sub|we v|delve prep|into det:art|the
+	n|metal-PL pro:per|it v|get-3S qn|more n|complex .
+%gra:	1|9|JCT 2|4|LINK 3|4|SUBJ 4|9|CJCT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|0|ROOT 10|11|QUANT 11|9|OBJ 12|9|PUNCT
+*S1:	and I'm going to go back to (.) your (.) chart that you have in
+	your handout &-uh to talk about the metals .
+%mor:	coord|and pro:sub|I~aux|be&1S part|go-PRESP inf|to v|go adv|back
+	prep|to det:poss|your n|chart pro:rel|that pro:per|you v|have
+	prep|in det:poss|your n|+v|hand+prep|out prep|to n|talk prep|about
+	det:art|the n|metal-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|13|LINK 12|13|SUBJ 13|10|CMOD 14|13|JCT 15|16|DET
+	16|14|POBJ 17|13|JCT 18|17|POBJ 19|18|NJCT 20|21|DET 21|19|POBJ 22|4|PUNCT
+*S1:	and I'm going to look at family one a@l (.) that's the first column
+	(.) far left family two a@l (.) skip this whole midsection (.) for
+	now which is the transition families (.) and go to over to the far
+	right family three a@l and four a@l and five a@l (.) all of which
+	contains (.) &met some metals .
+%mor:	coord|and pro:sub|I~aux|be&1S part|go-PRESP inf|to v|look prep|at
+	n|family det:num|one n:let|a pro:dem|that~cop|be&3S det:art|the
+	adj|first n|column adv|far v|leave&PAST n|family det:num|two n:let|a
+	v|skip det:dem|this n|whole mid#n|section prep|for adv|now
+	pro:rel|which cop|be&3S det:art|the n|transition n|family-PL
+	coord|and v|go prep|to adv|over prep|to det:art|the adj|far
+	adj|right n|family det:num|three n:let|a coord|and det:num|four
+	n:let|a coord|and det:num|five n:let|a pro:indef|all prep|of
+	pro:rel|which v|contain-3S qn|some n|metal-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|10|QUANT 10|12|COM 11|12|SUBJ 12|6|COMP 13|15|DET 14|15|MOD 15|21|SUBJ
+	16|17|JCT 17|21|CJCT 18|17|OBJ 19|20|QUANT 20|21|SUBJ 21|12|CPRED
+	22|23|DET 23|21|OBJ 24|23|POSTMOD 25|24|JCT 26|25|POBJ 27|28|LINK 28|26|CMOD
+	29|31|DET 30|31|MOD 31|28|PRED 32|31|CONJ 33|32|COORD 34|33|JCT 35|34|POBJ
+	36|35|JCT 37|40|DET 38|40|MOD 39|40|MOD 40|36|POBJ 41|42|QUANT
+	42|40|CMOD 43|42|CONJ 44|45|QUANT 45|43|COORD 46|42|CONJ 47|48|QUANT 48|46|COORD
+	49|48|OBJ 50|49|NJCT 51|52|LINK 52|50|POBJ 53|54|QUANT 54|52|OBJ
+	55|4|PUNCT
+*S1:	the metals (.) in those families have either one two three four or
+	five outer electrons (.) and tend to lose those electrons (.) why ?
+%mor:	det:art|the n|metal-PL prep|in det:dem|those n|family-PL v|have
+	adv|either det:num|one det:num|two det:num|three det:num|four
+	coord|or det:num|five adj|outer n|electron-PL coord|and v|tend
+	inf|to v|lose det:dem|those n|electron-PL pro:rel|why ?
+%gra:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|11|JCT 8|11|DATE
+	9|11|DATE 10|11|DATE 11|15|QUANT 12|11|CONJ 13|12|COORD 14|15|MOD
+	15|6|OBJ 16|6|CONJ 17|16|COORD 18|19|INF 19|17|COMP 20|21|DET 21|19|OBJ
+	22|21|OM 23|6|PUNCT
+*S1:	because when they do (.) then they expose the next inner shell of
+	electrons which are complete (.) and they &so &u &-uh tend to be
+	stable .
+%mor:	conj|because conj|when pro:sub|they v|do adv:tem|then pro:sub|they
+	v|expose det:art|the adj|next adj|inner n|shell prep|of
+	n|electron-PL pro:rel|which cop|be&PRES adj|complete coord|and
+	pro:sub|they v|tend inf|to cop|be adj|stable .
+%gra:	1|7|LINK 2|4|LINK 3|4|SUBJ 4|7|CJCT 5|4|JCT 6|7|SUBJ 7|0|ROOT 8|11|DET
+	9|11|MOD 10|11|MOD 11|7|OBJ 12|11|NJCT 13|12|POBJ 14|15|LINK 15|13|CMOD
+	16|15|PRED 17|19|LINK 18|19|SUBJ 19|7|CJCT 20|21|INF 21|19|COMP
+	22|21|PRED 23|7|PUNCT
+*S1:	so in that case (.) the (.) charge will be the same as the family
+	number (.) okay ?
+%mor:	adv|so prep|in det:dem|that n|case det:art|the n|charge mod|will
+	cop|be det:art|the adj|same prep|as det:art|the n|family n|number
+	adj|okay ?
+%gra:	1|2|JCT 2|8|JCT 3|4|DET 4|2|POBJ 5|6|DET 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|10|DET 10|8|PRED 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|14|POSTMOD
+	16|8|PUNCT
+*S1:	so family one a@l there's one outer electron we lose one (.)
+	negative charge now you're positively charged by one .
+%mor:	co|so n|family det:num|one n:let|a pro:exist|there~cop|be&3S
+	det:num|one adj|outer n|electron pro:sub|we v|lose det:num|one
+	adj|negative n|charge adv|now pro:per|you~aux|be&PRES
+	adv|positive&dadj-LY part|charge-PASTP adv|by det:num|one .
+%gra:	1|3|COM 2|3|MOD 3|4|QUANT 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|9|QUANT 8|9|MOD
+	9|6|PRED 10|11|SUBJ 11|9|CMOD 12|14|QUANT 13|14|MOD 14|11|OBJ 15|11|JCT
+	16|19|SUBJ 17|19|AUX 18|19|JCT 19|11|XJCT 20|21|JCT 21|19|OBJ 22|4|PUNCT
+*S1:	family two [/] two outer electrons you lose them (.) you end up
+	positively charged two .
+%mor:	n|family det:num|two adj|outer n|electron-PL pro:per|you v|lose
+	pro:obj|them pro:per|you v|end adv|up adv|positive&dadj-LY
+	part|charge-PASTP det:num|two .
+%gra:	1|4|MOD 2|3|QUANT 3|4|MOD 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|9|SUBJ
+	9|6|COMP 10|9|JCT 11|12|JCT 12|9|XJCT 13|12|OBJ 14|6|PUNCT
+*S1:	same thing over in family three (.) when it loses electrons (.)
+	positive three family four positive four family five positive five .
+%mor:	adj|same n|thing adv|over prep|in n|family det:num|three conj|when
+	pro:per|it v|lose-3S n|electron-PL n|positive det:num|three n|family
+	det:num|four adj|positive det:num|four n|family det:num|five
+	adj|positive det:num|five .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|JCT 4|2|NJCT 5|4|POBJ 6|7|QUANT 7|9|LINK
+	8|9|SUBJ 9|2|CJCT 10|11|MOD 11|20|DATE 12|13|QUANT 13|20|MOD 14|17|QUANT
+	15|17|MOD 16|17|QUANT 17|20|MOD 18|19|QUANT 19|20|MOD 20|9|OBJ 21|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	now I'm giving you their primary (.) oxidation states there are
+	always exceptions in chemistry (.) however (.) ninety five percent
+	of the time these will work (.) for you .
+%mor:	adv|now pro:sub|I~aux|be&1S part|give-PRESP pro:per|you
+	det:poss|their adj|primary n|oxidate&dv-TION n|state-PL adv|there
+	cop|be&PRES adv|always n|exception-PL prep|in n|chemistry
+	adv|however det:num|ninety det:num|five n|percent prep|of
+	det:art|the n|time det:dem|these mod|will v|work prep|for
+	pro:per|you .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|11|SUBJ 6|9|DET 7|9|MOD 8|9|MOD
+	9|11|SUBJ 10|9|NJCT 11|4|COMP 12|13|JCT 13|11|PRED 14|13|NJCT 15|14|POBJ
+	16|13|NJCT 17|19|QUANT 18|19|QUANT 19|16|POBJ 20|19|NJCT 21|22|DET
+	22|20|POBJ 23|25|DET 24|25|AUX 25|13|ENUM 26|25|JCT 27|26|POBJ 28|4|PUNCT
+*S1:	now when we get into the transition groups (.) it is more complex
+	except for family (.) one b@l and two b@l all the &transcript
+	transition elements are labeled family &-uh [x 3] family B (.) those
+	in (.) one b@l at one outer electron and two b@l (.) two outer
+	electrons (.) so they either have a plus one or a plus two .
+%mor:	adv|now conj|when pro:sub|we v|get prep|into det:art|the
+	n|transition v|group-3S pro:per|it cop|be&3S adv|more n|complex
+	conj|except prep|for n|family det:num|one n:let|b coord|and
+	det:num|two n:let|b adv|all det:art|the n|transition n|element-PL
+	aux|be&PRES part|label-PASTP n|family n|family n:prop|B
+	det:dem|those adv|in det:num|one n:let|b prep|at det:num|one
+	adj|outer n|electron coord|and det:num|two n:let|b det:num|two
+	adj|outer n|electron-PL conj|so pro:sub|they adv|either v|have
+	det:art|a adv|plus det:num|one coord|or det:art|a adv|plus
+	det:num|two .
+%gra:	1|4|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CJCT
+	9|10|SUBJ 10|8|COMP 11|12|JCT 12|10|PRED 13|17|LINK 14|16|JCT 15|14|POBJ
+	16|17|QUANT 17|8|CJCT 18|17|CONJ 19|20|QUANT 20|18|COORD 21|26|JCT
+	22|24|DET 23|24|MOD 24|26|SUBJ 25|26|AUX 26|20|COMP 27|28|MOD 28|26|OBJ
+	29|28|APP 30|32|DET 31|32|JCT 32|33|QUANT 33|29|COMP 34|33|JCT 35|37|QUANT
+	36|37|MOD 37|34|POBJ 38|37|CONJ 39|40|QUANT 40|38|COORD 41|43|QUANT
+	42|43|MOD 43|33|APP 44|47|LINK 45|47|SUBJ 46|47|JCT 47|17|CJCT 48|50|DET
+	49|50|JCT 50|47|OBJ 51|50|CONJ 52|54|DET 53|54|JCT 54|51|COORD 55|4|PUNCT
+*S1:	they're the simplest (.) to learn .
+%mor:	pro:sub|they~cop|be&PRES det:art|the adj|simple-SP inf|to v|learn .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|INF 6|4|XMOD 7|2|PUNCT
+*S1:	there is an exception in that (.) copper (.) CU here in one b@l (.)
+	tends to (.) also show &-uh quite normally a plus two .
+%mor:	pro:exist|there cop|be&3S det:art|a n|exception prep|in
+	det:dem|that n|copper n:prop|CU adv|here prep|in pro:indef|one
+	n:let|b v|tend-3S inf|to adv|also v|show adv|quite
+	adv|normal&dadj-LY det:art|a n|plus det:num|two .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|13|SUBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|4|APP
+	9|13|JCT 10|9|JCT 11|10|POBJ 12|13|SUBJ 13|2|CPRED 14|16|INF 15|16|JCT
+	16|13|COMP 17|16|JCT 18|21|JCT 19|20|DET 20|21|MOD 21|16|OBJ 22|2|PUNCT
+*S1:	that is the exception to [x 3] the general simplistic rule that I'm
+	giving you .
+%mor:	pro:dem|that cop|be&3S det:art|the n|exception prep|to det:art|the
+	n|general adj|simplistic n|rule pro:rel|that pro:sub|I~aux|be&1S
+	part|give-PRESP pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CMOD 14|13|OBJ 15|2|PUNCT
+*S1:	now (.) I'd like you to look at families three b@l four b@l five
+	b@l six b@l and seven b@l (.) so the only one we wouldn't have is
+	just the family eight (.) there .
+%mor:	adv|now pro:sub|I~mod|genmod v|like pro:per|you inf|to v|look
+	prep|at n|family-PL det:num|three n:let|b det:num|four n:let|b
+	det:num|five n:let|b det:num|six n:let|b coord|and det:num|seven
+	n:let|b conj|so det:art|the qn|only pro:indef|one pro:sub|we
+	mod|will&COND~neg|not aux|have cop|be&3S adv|just det:art|the
+	n|family det:num|eight adv|there .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|XJCT 8|7|JCT
+	9|8|POBJ 10|12|QUANT 11|12|DATE 12|13|QUANT 13|7|JCT 14|15|QUANT 15|13|POBJ
+	16|17|QUANT 17|15|OBJ 18|17|CONJ 19|18|COORD 20|17|ENUM 21|20|NJCT
+	22|24|DET 23|24|QUANT 24|21|POBJ 25|29|SUBJ 26|29|AUX 27|26|NEG 28|29|AUX
+	29|24|CMOD 30|32|JCT 31|32|DET 32|29|PRED 33|32|XMOD 34|33|JCT 35|4|PUNCT
+*S1:	there (.) you're going to have (.) a primary oxidation state or
+	charge these are synonyms (.) I've brought in another term now (.)
+	the charge of an ion is also called its oxidation state we will
+	learn .
+%mor:	adv|there pro:per|you~aux|be&PRES part|go-PRESP inf|to v|have
+	det:art|a adj|primary n|oxidate&dv-TION n|state coord|or v|charge
+	pro:dem|these cop|be&PRES n|synonym-PL pro:sub|I~aux|have
+	part|bring&PASTP prep|in qn|another n|term adv|now det:art|the
+	n|charge prep|of det:art|a n|ion aux|be&3S adv|also part|call-PASTP
+	det:poss|its n|oxidate&dv-TION n|state pro:sub|we mod|will v|learn .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|10|DET 8|9|MOD
+	9|10|MOD 10|6|OBJ 11|6|CONJ 12|11|COORD 13|14|SUBJ 14|12|COMP 15|14|PRED
+	16|18|SUBJ 17|18|AUX 18|15|CMOD 19|18|JCT 20|21|QUANT 21|19|POBJ 22|30|JCT
+	23|24|DET 24|30|SUBJ 25|24|NJCT 26|27|DET 27|25|POBJ 28|30|AUX
+	29|30|JCT 30|36|XJCT 31|33|DET 32|33|MOD 33|30|OBJ 34|36|SUBJ 35|36|AUX
+	36|18|CJCT 37|4|PUNCT
+*S1:	the primary charge is typically plus two .
+%mor:	det:art|the n|primary n|charge cop|be&3S adv|typical&dadj-LY
+	prep|plus det:num|two .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*S1:	the plus two comes from the fact (.) that all these transition
+	elements start with these two electrons (.) just by adding electrons
+	(.) across the series so you start with the one for example of K and
+	the two of CA and they add the electrons to it .
+%mor:	det:art|the adv|plus det:num|two v|come-3S prep|from det:art|the
+	n|fact comp|that qn|all det:dem|these n|transition n|element-PL
+	v|start prep|with det:dem|these det:num|two n|electron-PL adj|just
+	adv|by part|add-PRESP n|electron-PL prep|across det:art|the n|series
+	adv|so pro:per|you v|start prep|with det:art|the pro:indef|one
+	prep|for ex#adj|ample prep|of n:prop|K coord|and det:art|the
+	det:num|two prep|of n:prop|CA coord|and pro:sub|they v|add
+	det:art|the n|electron-PL prep|to pro:per|it .
+%gra:	1|4|DET 2|4|JCT 3|4|QUANT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|13|LINK
+	9|12|QUANT 10|12|DET 11|12|MOD 12|13|SUBJ 13|7|CMOD 14|13|JCT 15|17|DET
+	16|17|QUANT 17|14|POBJ 18|20|JCT 19|18|JCT 20|17|CMOD 21|20|OBJ 22|20|JCT
+	23|24|DET 24|22|POBJ 25|27|JCT 26|27|SUBJ 27|4|CJCT 28|27|JCT 29|30|DET
+	30|28|POBJ 31|27|JCT 32|31|POBJ 33|32|NJCT 34|33|POBJ 35|32|CONJ
+	36|37|DET 37|35|COORD 38|37|NJCT 39|38|POBJ 40|42|LINK 41|42|SUBJ 42|27|CJCT
+	43|44|DET 44|42|OBJ 45|42|JCT 46|45|POBJ 47|4|PUNCT
+*S1:	but (.) you don't hafta worry about that and I'm not going to ask
+	you about electron structure <where denominators> [?] come from .
+%mor:	conj|but pro:per|you mod|do~neg|not mod|have~inf|to v|worry
+	prep|about pro:dem|that coord|and pro:sub|I~aux|be&1S neg|not
+	part|go-PRESP inf|to v|ask pro:per|you prep|about n|electron
+	n|structure pro:int|where n|denominator-PL v|come prep|from .
+%gra:	1|7|LINK 2|7|SUBJ 3|7|AUX 4|3|NEG 5|7|AUX 6|7|INF 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|14|LINK 11|14|SUBJ 12|14|AUX 13|12|NEG 14|7|CJCT 15|16|INF
+	16|14|COMP 17|16|OBJ 18|16|JCT 19|20|MOD 20|18|POBJ 21|23|LINK 22|23|SUBJ
+	23|20|CMOD 24|23|JCT 25|7|PUNCT
+*S1:	simply (.) they all have oxidation states of plus two (.) but they
+	also have charges that are the same (.) go up to their family number
+	.
+%mor:	adv|simple&dadj-LY pro:sub|they post|all v|have n|oxidate&dv-TION
+	n|state-PL prep|of prep|plus det:num|two conj|but pro:sub|they
+	adv|also v|have n|charge-PL pro:rel|that cop|be&PRES det:art|the
+	adj|same v|go adv|up prep|to det:poss|their n|family v|number .
+%gra:	1|4|JCT 2|4|SUBJ 3|2|PQ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|8|POBJ 10|13|LINK 11|13|SUBJ 12|13|JCT 13|4|CJCT 14|13|OBJ 15|16|LINK
+	16|14|CMOD 17|19|DET 18|19|MOD 19|16|PRED 20|19|JCT 21|24|JCT 22|23|DET
+	23|21|POBJ 24|19|CJCT 25|4|PUNCT
+*S1:	to be explicit (.) in family three b@l (.) if I am SC which is
+	scandium (.) I will have an oxidation state of plus two (.) or three
+	.
+%mor:	inf|to cop|be adj|explicit prep|in n|family det:num|three n:let|b
+	conj|if pro:sub|I cop|be&1S n:prop|SC pro:rel|which cop|be&3S
+	n|scandium pro:sub|I mod|will v|have det:art|a n|oxidate&dv-TION
+	n|state prep|of prep|plus det:num|two coord|or det:num|three .
+%gra:	1|2|INF 2|0|ROOT 3|2|PRED 4|2|JCT 5|4|POBJ 6|7|QUANT 7|2|PRED 8|10|LINK
+	9|10|SUBJ 10|2|CJCT 11|10|PRED 12|13|LINK 13|11|CMOD 14|13|PRED
+	15|17|SUBJ 16|17|AUX 17|14|CMOD 18|20|DET 19|20|MOD 20|17|OBJ 21|20|NJCT
+	22|21|POBJ 23|22|POBJ 24|23|CONJ 25|24|COORD 26|2|PUNCT
+*S1:	these all have multicharges that's what makes them complicated .
+%mor:	pro:dem|these post|all v|have multi#n|charge-PL
+	pro:rel|that~cop|be&3S pro:int|what v|make-3S pro:obj|them
+	v|complicate-PAST .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|OBJ 5|6|LINK 6|4|CMOD 7|8|LINK 8|6|CPRED
+	9|8|OBJ 10|8|COMP 11|3|PUNCT
+*S1:	if I am (.) in family four b@l (.) TI for example titanium (.) I
+	would be plus two (.) plus three or plus four (.) maximum charge the
+	same as the family number .
+%mor:	conj|if pro:sub|I cop|be&1S prep|in n|family det:num|four n:let|b
+	n:prop|TI prep|for ex#adj|ample n|titanium pro:sub|I mod|will&COND
+	cop|be prep|plus det:num|two adv|plus det:num|three coord|or
+	prep|plus det:num|four adj|maximum n|charge det:art|the adj|same
+	prep|as det:art|the n|family v|number .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|JCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|COMP 15|14|JCT
+	16|17|QUANT 17|18|JCT 18|25|QUANT 19|18|CONJ 20|19|COORD 21|23|QUANT
+	22|23|MOD 23|20|POBJ 24|25|DET 25|15|POBJ 26|28|COORD 27|28|DET 28|29|SUBJ
+	29|25|CMOD 30|3|PUNCT
+*S1:	and that is true of all these elements (.) in families three b@l to
+	seven b@l (.) plus two (.) all the way up to the family number .
+%mor:	coord|and pro:dem|that cop|be&3S adj|true prep|of qn|all
+	det:dem|these n|element-PL prep|in n|family-PL det:num|three n:let|b
+	prep|to det:num|seven n:let|b prep|plus det:num|two qn|all
+	det:art|the n|way adv|up prep|to det:art|the n|family v|number .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|8|QUANT 7|8|DET 8|5|POBJ
+	9|8|NJCT 10|9|POBJ 11|12|QUANT 12|4|XMOD 13|12|JCT 14|15|QUANT
+	15|13|POBJ 16|15|NJCT 17|18|QUANT 18|20|QUANT 19|20|DET 20|16|POBJ 21|20|NJCT
+	22|20|NJCT 23|24|DET 24|25|SUBJ 25|22|POBJ 26|3|PUNCT
+*S1:	so we do one more MN manganese in family seven b@l can be (.) plus
+	two three four five six or seven (.) okay .
+%mor:	co|so pro:sub|we v|do pro:indef|one adv|more n:prop|MN n|manganese
+	prep|in n|family det:num|seven n:let|b mod|can cop|be prep|plus
+	det:num|two det:num|three det:num|four det:num|five det:num|six
+	coord|or det:num|seven adj|okay .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|JCT 6|7|MOD 7|3|OBJ 8|7|NJCT
+	9|8|POBJ 10|11|QUANT 11|13|SUBJ 12|13|AUX 13|7|CMOD 14|13|JCT 15|17|QUANT
+	16|17|DATE 17|22|QUANT 18|19|DATE 19|22|QUANT 20|19|CONJ 21|20|COORD
+	22|14|POBJ 23|3|PUNCT
+*S1:	now (.) the eight b@l group +...
+%mor:	adv|now det:art|the det:num|eight n:let|b n|group +...
+%gra:	1|5|JCT 2|5|DET 3|4|QUANT 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*S1:	I don't want to get into but I will say (.) ninety percent of the
+	time if you pick plus two (.) it's going to be correct .
+%mor:	pro:sub|I mod|do~neg|not v|want inf|to v|get prep|into conj|but
+	pro:sub|I mod|will v|say det:num|ninety n|percent prep|of
+	det:art|the n|time conj|if pro:per|you v|pick adv|plus det:num|two
+	pro:per|it~aux|be&3S part|go-PRESP inf|to cop|be adj|correct .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|POBJ 12|13|QUANT 13|11|OBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|19|LINK 18|19|SUBJ 19|24|CJCT 20|19|JCT 21|22|QUANT
+	22|24|SUBJ 23|24|AUX 24|4|XJCT 25|26|INF 26|24|COMP 27|26|PRED 28|4|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	you will get into details of that when you ask questions about
+	those details and the things you want heard [?] but not in this
+	course .
+%mor:	pro:per|you mod|will v|get prep|into n|detail-PL prep|of
+	pro:dem|that conj|when pro:per|you v|ask n|question-PL prep|about
+	det:dem|those n|detail-PL coord|and det:art|the n|thing-PL
+	pro:per|you v|want v|hear&PAST conj|but neg|not prep|in det:dem|this
+	n|course .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|6|POBJ 8|10|LINK
+	9|10|SUBJ 10|3|CJCT 11|10|OBJ 12|10|JCT 13|14|DET 14|12|POBJ 15|20|LINK
+	16|17|DET 17|20|SUBJ 18|19|SUBJ 19|17|CMOD 20|10|CJCT 21|20|CONJ
+	22|21|NEG 23|21|COORD 24|25|DET 25|23|POBJ 26|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	now (.) sometimes you're going to have a cation (.) combined (.)
+	with other than (.) an element (.) as a nonmetal .
+%mor:	adv|now adv|sometimes pro:per|you~aux|be&PRES part|go-PRESP inf|to
+	v|have det:art|a n|cation v|combine-PAST prep|with pro:indef|other
+	prep|than det:art|a n|element prep|as det:art|a non#n|metal .
+%gra:	1|5|JCT 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|9|DET
+	9|10|SUBJ 10|7|COMP 11|10|JCT 12|11|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|10|JCT 17|18|DET 18|16|POBJ 19|5|PUNCT
+*S1:	so for example (.) the usual thing is a metal (.) for example &w
+	&-uh we just saw sodium ion (.) family one a@l plus one (.) with CL
+	(.) in family seven a@l (.) so this is minus one .
+%mor:	adv|so prep|for ex#adj|ample det:art|the adj|usual n|thing
+	cop|be&3S det:art|a n|metal prep|for ex#adj|ample pro:sub|we
+	adv|just v|see&PAST n|sodium n|ion n|family det:num|one n:let|a
+	prep|plus pro:indef|one prep|with n:prop|CL prep|in n|family
+	det:num|seven n:let|a adv|so pro:dem|this cop|be&3S prep|minus
+	pro:indef|one .
+%gra:	1|2|JCT 2|0|INCROOT 3|7|LINK 4|6|DET 5|6|MOD 6|7|SUBJ 7|2|CPOBJ 8|9|DET
+	9|7|PRED 10|9|NJCT 11|10|POBJ 12|14|SUBJ 13|14|JCT 14|9|CMOD 15|17|MOD
+	16|17|MOD 17|14|OBJ 18|19|QUANT 19|30|SUBJ 20|19|JCT 21|20|POBJ
+	22|19|JCT 23|22|POBJ 24|23|NJCT 25|24|POBJ 26|27|QUANT 27|30|JCT 28|29|JCT
+	29|30|SUBJ 30|17|CMOD 31|30|JCT 32|31|POBJ 33|2|PUNCT
+*S1:	so we simply write NACL (.) and the typical names (.) of salts (.)
+	are taking the name of the metal (.) sodium (.) the name of the
+	nonmetal but change the ending of the nonmetal (.) to IDE .
+%mor:	co|so pro:sub|we adv|simple&dadj-LY v|write n:prop|NACL coord|and
+	det:art|the adj|typical n|name-PL prep|of n|salt-PL aux|be&PRES
+	part|take-PRESP det:art|the n|name prep|of det:art|the n|metal
+	n|sodium det:art|the n|name prep|of det:art|the non#n|metal conj|but
+	v|change det:art|the n|ending prep|of det:art|the non#n|metal
+	prep|to n:prop|IDE .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|13|LINK 7|9|DET 8|9|MOD
+	9|13|SUBJ 10|9|NJCT 11|10|POBJ 12|13|AUX 13|4|CJCT 14|15|DET 15|13|OBJ
+	16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|21|DET 21|15|APP 22|21|NJCT
+	23|24|DET 24|22|POBJ 25|21|CONJ 26|25|COORD 27|28|DET 28|26|OBJ 29|28|NJCT
+	30|31|DET 31|29|POBJ 32|31|NJCT 33|32|POBJ 34|4|PUNCT
+*S1:	so instead of chlorine it becomes chloride (.) sodium chloride .
+%mor:	adv|so adv|instead prep|of n|chlorine pro:per|it cop|become-3S
+	n|chloride n|sodium n|chloride .
+%gra:	1|2|JCT 2|6|JCT 3|2|JCT 4|3|POBJ 5|6|SUBJ 6|0|ROOT 7|9|MOD 8|9|MOD
+	9|6|PRED 10|6|PUNCT
+*S1:	occasionally you're going to see (.) a (.) cation combined with (.)
+	an anion (.) where the anion has more than one (.) level .
+%mor:	adv|occasion&dadj-AL-LY pro:per|you~aux|be&PRES part|go-PRESP
+	inf|to v|see det:art|a n|cation v|combine-PAST prep|with det:art|a
+	n|anion pro:rel|where det:art|the n|anion aux|have&3S qn|more
+	prep|than det:num|one n|level .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|9|SUBJ
+	9|6|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|17|LINK 14|15|DET 15|17|SUBJ
+	16|17|AUX 17|12|CMOD 18|17|JCT 19|20|QUANT 20|18|POBJ 21|4|PUNCT
+*S1:	you are to assume (.) that when you see a group of nonmetals
+	clumped together (.) that they are an ion (.) themselves and the
+	nonmetals are bonded together (.) okay (.) and they exist as one
+	unit .
+%mor:	pro:per|you cop|be&PRES inf|to v|assume adv|that conj|when
+	pro:per|you v|see det:art|a n|group prep|of non#n|metal-PL
+	part|clump-PASTP adv|together comp|that pro:sub|they cop|be&PRES
+	det:art|a n|ion pro:refl|themselves coord|and det:art|the
+	non#n|metal-PL aux|be&PRES part|bond-PASTP adv|together adj|okay
+	coord|and pro:sub|they v|exist conj|as det:num|one n|unit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|10|XMOD 14|13|JCT 15|17|LINK
+	16|17|SUBJ 17|13|COMP 18|19|DET 19|17|PRED 20|25|SUBJ 21|20|CONJ
+	22|23|DET 23|21|COORD 24|25|AUX 25|19|CMOD 26|25|JCT 27|25|JCT 28|30|LINK
+	29|30|SUBJ 30|25|CJCT 31|33|COORD 32|33|QUANT 33|30|OBJ 34|2|PUNCT
+*S1:	you can (.) figure out the charge of something like NO three by
+	simply going again to the Periodic Table .
+%mor:	pro:per|you mod|can v|figure adv|out det:art|the n|charge prep|of
+	pro:indef|something co|like n:prop|NO det:num|three adv|by
+	adv|simple&dadj-LY part|go-PRESP adv|again prep|to det:art|the
+	n:prop|Periodic n:prop|Table .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|6|COM 10|11|MOD 11|14|QUANT 12|11|JCT 13|14|JCT 14|6|XMOD 15|14|JCT
+	16|14|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|3|PUNCT
+*S1:	nitrogen is in family five .
+%mor:	n|nitrogen cop|be&3S prep|in n|family det:num|five .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*S1:	now because it is bonded to oxygen we put it in the metal row so
+	<your old> [?] family five is a positive charge plus five .
+%mor:	adv|now conj|because pro:per|it aux|be&3S part|bond-PASTP prep|to
+	n|oxygen pro:sub|we v|put&ZERO pro:per|it prep|in det:art|the
+	n|metal n|row co|so det:poss|your adj|old n|family det:num|five
+	cop|be&3S det:art|a n|positive n|charge prep|plus det:num|five .
+%gra:	1|9|JCT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|9|CJCT 6|5|JCT 7|6|POBJ 8|9|SUBJ
+	9|0|ROOT 10|9|OBJ 11|9|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|19|COM
+	16|18|DET 17|18|MOD 18|19|MOD 19|20|SUBJ 20|9|CJCT 21|23|DET 22|23|MOD
+	23|20|PRED 24|23|NJCT 25|24|POBJ 26|9|PUNCT
+*S1:	oxygen is in family six .
+%mor:	n|oxygen cop|be&3S prep|in n|family det:num|six .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*S1:	it's acting as the nonmetal so (.) it is minus two .
+%mor:	pro:per|it~aux|be&3S part|act-PRESP conj|as det:art|the non#n|metal
+	conj|so pro:per|it cop|be&3S prep|minus det:num|two .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|COORD 5|6|DET 6|3|CJCT 7|9|LINK 8|9|SUBJ
+	9|6|COMP 10|9|JCT 11|10|POBJ 12|3|PUNCT
+*S1:	so if we have (.) plus five for nitrogen (.) minus two for oxygen
+	there's three of them that's minus six (.) plus five and minus six
+	gives us negative one .
+%mor:	adv|so conj|if pro:sub|we v|have prep|plus det:num|five prep|for
+	n|nitrogen prep|minus det:num|two prep|for n|oxygen
+	pro:exist|there~cop|be&3S det:num|three prep|of pro:obj|them
+	pro:rel|that~cop|be&3S prep|minus det:num|six adv|plus det:num|five
+	coord|and prep|minus det:num|six v|give-3S pro:obj|us adj|negative
+	pro:indef|one .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|14|CJCT 5|4|JCT 6|5|POBJ 7|4|JCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|10|NJCT 12|11|POBJ 13|14|SUBJ 14|0|ROOT 15|14|PRED
+	16|15|NJCT 17|16|POBJ 18|19|LINK 19|15|CMOD 20|19|JCT 21|23|QUANT
+	22|23|JCT 23|20|POBJ 24|23|CONJ 25|24|COORD 26|27|QUANT 27|25|POBJ 28|27|OBJ
+	29|30|MOD 30|27|OBJ 31|14|PUNCT
+*S1:	you can figure them out using the Periodic Table (.) but it's up to
+	you to [/] to practice (.) these &-uh arrangements okay ?
+%mor:	pro:per|you mod|can v|figure pro:obj|them adv|out part|use-PRESP
+	det:art|the n:prop|Periodic n:prop|Table conj|but
+	pro:per|it~cop|be&3S adv|up prep|to pro:per|you inf|to v|practice
+	det:dem|these n|arrange&dv-MENT-PL co|okay ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|XJCT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|12|LINK 11|12|SUBJ 12|6|CJCT 13|12|JCT 14|12|JCT 15|17|SUBJ
+	16|17|INF 17|14|CPOBJ 18|19|DET 19|17|OBJ 20|19|COM 21|3|PUNCT
+*S1:	and in this case it will have a different ending than ide@q (.) and
+	typically when you see oxygen it's gonna be ate@q (.) a@l t@l e@l
+	(.) but (.) again that's not the purpose of &Inorgan [?] Chem one
+	twenty five (.) to make these compounds but you do need to know how
+	to write a &-uh formula .
+%mor:	coord|and prep|in det:dem|this n|case pro:per|it mod|will v|have
+	det:art|a adj|different n|ending prep|than meta|ide coord|and
+	adv|typical&dadj-LY conj|when pro:per|you co|see n|oxygen
+	pro:per|it~aux|be&3S part|go-PRESP~inf|to cop|be meta|ate n:let|a
+	n:let|t n:let|e conj|but adv|again pro:dem|that~cop|be&3S neg|not
+	det:art|the n|purpose prep|of n:prop|Chem det:num|one det:num|twenty
+	det:num|five inf|to v|make det:dem|these n|compound-PL conj|but
+	pro:per|you v|do v|need inf|to v|know pro:int|how inf|to v|write
+	det:art|a n|formula .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|10|DET
+	9|10|MOD 10|7|OBJ 11|10|NJCT 12|11|POBJ 13|12|CONJ 14|15|JCT 15|13|COORD
+	16|15|POBJ 17|18|COM 18|16|OBJ 19|21|SUBJ 20|21|AUX 21|18|CMOD 22|23|INF
+	23|21|COMP 24|23|PRED 25|24|POBJ 26|31|LINK 27|31|SUBJ 28|27|CONJ
+	29|30|JCT 30|28|COORD 31|25|CMOD 32|31|NEG 33|34|DET 34|31|PRED 35|34|NJCT
+	36|35|POBJ 37|39|QUANT 38|39|DATE 39|46|QUANT 40|41|INF 41|39|COMP
+	42|43|DET 43|41|OBJ 44|39|CONJ 45|44|COORD 46|34|CMOD 47|46|OBJ 48|49|INF
+	49|46|XJCT 50|52|LINK 51|52|INF 52|49|COMP 53|54|DET 54|52|OBJ 55|7|PUNCT
+*S1:	oh and we have on camera some formulas .
+%mor:	co|oh coord|and pro:sub|we v|have prep|on n|camera qn|some
+	n|formula-PL .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|MOD 7|8|QUANT 8|5|POBJ
+	9|4|PUNCT
+*S1:	for example &-uh here's your NACL and these are all chloride salts
+	.
+%mor:	prep|for ex#adj|ample pro:exist|here~cop|be&3S det:poss|your
+	n:prop|NACL coord|and pro:dem|these cop|be&PRES qn|all n|chloride
+	n|salt-PL .
+%gra:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|6|DET 6|9|SUBJ 7|6|CONJ 8|7|COORD
+	9|4|PRED 10|11|QUANT 11|12|MOD 12|9|PRED 13|4|PUNCT
+*S1:	so you want to be able to (.) figure out what the formula for
+	barium chloride would be .
+%mor:	co|so pro:per|you v|want inf|to cop|be adj|able inf|to v|figure
+	adv|out pro:int|what det:art|the n|formula prep|for n|barium
+	n|chloride mod|will&COND cop|be .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|PRED 7|8|INF 8|6|XMOD
+	9|8|JCT 10|17|LINK 11|12|DET 12|17|SUBJ 13|12|NJCT 14|15|MOD 15|13|POBJ
+	16|17|AUX 17|8|COMP 18|3|PUNCT
+*S1:	you hafta find it on the Periodic Table first .
+%mor:	pro:per|you mod|have~inf|to v|find pro:per|it prep|on det:art|the
+	n:prop|Periodic n:prop|Table adv|first .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|9|NAME
+	9|6|POBJ 10|9|JCT 11|4|PUNCT
+*S1:	barium (.) is here in family two a@l .
+%mor:	n|barium cop|be&3S adv|here prep|in n|family det:num|two n:let|a .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|7|QUANT 7|2|PRED 8|2|PUNCT
+*S1:	that means it's plus two .
+%mor:	pro:dem|that v|mean-3S pro:per|it~cop|be&3S prep|plus det:num|two .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*S1:	so if it's a chloride we're going to need two (.) of those (.) CLs
+	(.) to balance that plus two charge .
+%mor:	adv|so conj|if pro:per|it~cop|be&3S det:art|a n|chloride
+	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|need det:num|two
+	prep|of det:dem|those n:prop|CLs prep|to n|balance pro:rel|that
+	prep|plus det:num|two n|charge .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|9|SUBJ 8|9|AUX
+	9|6|ROOT 10|11|INF 11|9|COMP 12|11|OBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|16|POBJ 18|17|INCROOT 19|18|JCT 20|21|QUANT 21|19|POBJ
+	22|18|PUNCT
+*S1:	and there's the BACL two .
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|the n:prop|BACL
+	det:num|two .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*S1:	and we always put a subscript beneath the element to indicate the
+	number of ions (.) that are in that compound .
+%mor:	coord|and pro:sub|we adv|always v|put&ZERO det:art|a sub#n|script
+	prep|beneath det:art|the n|element inf|to v|indicate det:art|the
+	n|number prep|of n|ion-PL pro:rel|that cop|be&PRES prep|in
+	det:dem|that n|compound .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|11|INF 11|4|XJCT 12|13|DET 13|11|OBJ 14|13|NJCT 15|14|POBJ
+	16|17|LINK 17|15|CMOD 18|17|JCT 19|20|DET 20|18|POBJ 21|4|PUNCT
+*S1:	so here the ratio would be (.) two CLs for every one BA .
+%mor:	adv|so adv|here det:art|the n|ratio mod|will&COND cop|be
+	det:num|two n:prop|CLs prep|for qn|every det:num|one n:prop|BA .
+%gra:	1|2|JCT 2|6|JCT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|QUANT 8|6|PRED
+	9|8|NJCT 10|11|QUANT 11|12|QUANT 12|9|POBJ 13|6|PUNCT
+*S1:	so specifically there're two CL minuses for every one BA two plus .
+%mor:	adv|so adv|specific&dadj-AL-LY pro:exist|there~cop|be&PRES
+	det:num|two n:prop|CL n|minus-PL prep|for qn|every det:num|one
+	n:prop|BA det:num|two adv|plus .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|QUANT 6|7|MOD 7|4|PRED 8|4|JCT
+	9|10|QUANT 10|11|QUANT 11|8|POBJ 12|13|QUANT 13|11|JCT 14|4|PUNCT
+*S1:	and be careful when you start to write your prelabs and your lab
+	&-uh reports that you say chloride ion rather than chlorine or just
+	chloride you'll lose points on the exam (.) if you do not
+	distinguish between atoms and ions .
+%mor:	coord|and cop|be co|careful conj|when pro:per|you v|start inf|to
+	v|write det:poss|your pre#n|lab-PL coord|and det:poss|your n|lab
+	v|report-3S comp|that pro:per|you v|say n|chloride n|ion adv|rather
+	prep|than n|chlorine coord|or adj|just n|chloride
+	pro:per|you~mod|will v|lose n|point-PL prep|on det:art|the n|exam
+	conj|if pro:per|you v|do neg|not v|distinguish prep|between
+	n|atom-PL coord|and n|ion-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|2|COM 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|8|INF 8|6|COMP
+	9|10|DET 10|14|SUBJ 11|10|CONJ 12|13|DET 13|11|COORD 14|8|COMP 15|17|LINK
+	16|17|SUBJ 17|14|COMP 18|19|MOD 19|17|OBJ 20|17|JCT 21|20|JCT
+	22|21|POBJ 23|21|CONJ 24|25|MOD 25|23|COORD 26|28|SUBJ 27|28|AUX 28|25|CMOD
+	29|28|OBJ 30|28|JCT 31|32|DET 32|30|POBJ 33|35|LINK 34|35|SUBJ 35|21|CPOBJ
+	36|35|NEG 37|35|OBJ 38|37|JCT 39|38|POBJ 40|39|CONJ 41|40|COORD 42|2|PUNCT
+*S1:	to a chemist it is a big difference between lead and the lead ion .
+%mor:	prep|to det:art|a n|chemist pro:per|it cop|be&3S det:art|a adj|big
+	n|difference prep|between n|lead coord|and det:art|the n|lead n|ion
+	.
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|8|NJCT 10|9|POBJ 11|10|CONJ 12|14|DET 13|14|MOD 14|11|COORD 15|5|PUNCT
+*S1:	they're totally different species .
+%mor:	pro:sub|they~cop|be&PRES adv|total&dadj-LY adj|different n|species
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|MOD 5|2|PRED 6|2|PUNCT
+*S1:	okay and this one here aluminum (.) you have to know where it is on
+	the Periodic Table (.) and on exams you'll always get a Periodic
+	Table .
+%mor:	co|okay coord|and det:dem|this pro:indef|one adv|here n|aluminum
+	pro:per|you v|have inf|to v|know pro:int|where pro:per|it cop|be&3S
+	prep|on det:art|the n:prop|Periodic n:prop|Table coord|and prep|on
+	n|exam-PL pro:per|you~mod|will adv|always v|get det:art|a
+	n:prop|Periodic n:prop|Table .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|6|JCT 6|4|PRED 7|8|SUBJ
+	8|6|CMOD 9|10|INF 10|8|COMP 11|13|LINK 12|13|SUBJ 13|10|COMP 14|13|JCT
+	15|16|DET 16|14|POBJ 17|24|XJCT 18|17|CONJ 19|18|COORD 20|19|POBJ 21|24|SUBJ
+	22|24|AUX 23|24|JCT 24|13|CJCT 25|27|DET 26|27|MOD 27|24|OBJ 28|1|PUNCT
+*S1:	here is aluminum (.) over in group three a@l (.) so it's plus three
+	(.) the formula hasta be ALCL three to be electrically (.) neutral .
+%mor:	pro:exist|here cop|be&3S n|aluminum prep|over prep|in n|group
+	det:num|three n:let|a adv|so pro:per|it~cop|be&3S prep|plus
+	det:num|three det:art|the n|formula mod|have&3S~inf|to cop|be
+	n:prop|ALCL det:num|three inf|to cop|be adv|electric&dadj-AL-LY
+	adj|neutral .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|11|JCT 6|7|MOD 7|8|QUANT 8|5|POBJ
+	9|11|JCT 10|11|SUBJ 11|4|POBJ 12|11|JCT 13|15|QUANT 14|15|DET 15|18|SUBJ
+	16|18|AUX 17|18|INF 18|12|CPOBJ 19|20|DATE 20|18|PRED 21|22|INF
+	22|20|COMP 23|24|JCT 24|22|PRED 25|2|PUNCT
+*S1:	alright if you look on your worksheet you'll see we're gonna do a
+	little demonstration that hasta do with the lab .
+%mor:	adj|alright conj|if pro:per|you v|look prep|on det:poss|your
+	n|worksheet pro:per|you~mod|will co|see pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to v|do det:art|a adj|little n|demonstrate&dv-TION
+	comp|that mod|have&3S~inf|to v|do prep|with det:art|the n|lab .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|10|SUBJ 9|10|AUX 10|13|COM 11|13|SUBJ 12|13|AUX 13|1|CMOD 14|15|INF
+	15|13|COMP 16|18|DET 17|18|MOD 18|15|OBJ 19|22|SUBJ 20|22|AUX 21|22|INF
+	22|15|COMP 23|22|JCT 24|25|DET 25|23|POBJ 26|1|PUNCT
+*S1:	(0.4) and that involves +...
+%mor:	coord|and pro:dem|that v|involve-3S +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S1:	taking &-uh a water source so this could be &-uh water in Venice
+	(.) and we're going to put (.) a (.) salt of a heavy metal (.) into
+	that water source .
+%mor:	part|take-PRESP det:art|a n|water n|source adv|so pro:dem|this
+	mod|could cop|be n|water prep|in n:prop|Venice coord|and
+	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|put&ZERO det:art|a
+	n|salt prep|of det:art|a adj|heavy n|metal prep|into det:dem|that
+	n|water n|source .
+%gra:	1|8|XJCT 2|4|DET 3|4|MOD 4|1|OBJ 5|6|JCT 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|PRED 10|9|NJCT 11|10|POBJ 12|15|LINK 13|15|SUBJ 14|15|AUX 15|8|CJCT
+	16|17|INF 17|15|COMP 18|19|DET 19|17|OBJ 20|19|NJCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|17|JCT 25|27|DET 26|27|MOD 27|24|POBJ 28|8|PUNCT
+*S1:	so there goes a little mercury chloride (.) on one side of that (.)
+	pond or lake or whatever it is of_course it's a petri dish so it's
+	an [/] an artificial (.) environment (.) and on the other side we're
+	going to put some (.) potassium iodide .
+%mor:	co|so adv|there v|go-3S det:art|a adj|little n|mercury n|chloride
+	prep|on det:num|one n|side prep|of det:dem|that n|pond coord|or
+	n|lake coord|or pro:int|whatever pro:per|it cop|be&3S co|of_course
+	pro:per|it~cop|be&3S det:art|a n|petri n|dish co|so
+	pro:per|it~cop|be&3S det:art|a adj|artificial n|environment
+	coord|and prep|on det:art|the qn|other n|side pro:sub|we~aux|be&PRES
+	part|go-PRESP inf|to v|put&ZERO qn|some n|potassium n|iodide .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|3|JCT
+	9|10|QUANT 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|CONJ 15|14|COORD
+	16|15|CONJ 17|19|LINK 18|19|SUBJ 19|16|COORD 20|22|COM 21|22|SUBJ
+	22|19|PRED 23|25|DET 24|25|MOD 25|39|SUBJ 26|28|COM 27|28|SUBJ 28|39|AUX
+	29|31|DET 30|31|MOD 31|39|JCT 32|31|CONJ 33|32|COORD 34|36|DET 35|36|QUANT
+	36|33|POBJ 37|39|SUBJ 38|39|AUX 39|22|PRED 40|41|INF 41|39|COMP 42|43|QUANT
+	43|44|MOD 44|41|OBJ 45|3|PUNCT
+*S1:	the amazing thing that occurs in water is that these (.) salts (.)
+	that take a thousand degree minimum of heat (.) to start melting (.)
+	immediately start actually coming apart and going into solution .
+%mor:	det:art|the part|amaze-PRESP n|thing pro:rel|that v|occur-3S adv|in
+	n|water cop|be&3S adv|that det:dem|these n|salt-PL pro:rel|that
+	v|take det:art|a det:num|thousand n|degree n|minimum prep|of n|heat
+	inf|to v|start part|melt-PRESP adv|immediate&dadj-LY v|start
+	adv|actual&dadj-LY part|come-PRESP adv|apart coord|and part|go-PRESP
+	prep|into n|solution .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|8|JCT 7|8|SUBJ 8|5|COMP
+	9|11|JCT 10|11|DET 11|8|PRED 12|13|LINK 13|11|CMOD 14|17|DET
+	15|16|QUANT 16|17|MOD 17|13|OBJ 18|17|NJCT 19|18|POBJ 20|21|INF 21|13|XJCT
+	22|13|XJCT 23|24|JCT 24|22|COMP 25|26|JCT 26|24|COMP 27|26|JCT 28|26|CONJ
+	29|28|COORD 30|29|JCT 31|30|POBJ 32|3|PUNCT
+*S1:	so what happens is the [/] the actual ionic crystal (.) the ions
+	start to dissociate from each_other .
+%mor:	adv|so pro:int|what v|happen-3S cop|be&3S det:art|the adj|actual
+	adj|ionic n|crystal det:art|the n|ion-PL v|start inf|to v|dissociate
+	prep|from pro:refl|each_other .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|8|DET 6|8|MOD 7|8|MOD 8|4|PRED
+	9|10|DET 10|11|SUBJ 11|8|CMOD 12|13|INF 13|11|COMP 14|13|JCT 15|14|POBJ
+	16|3|PUNCT
+*S1:	and what is happening is the same kind of thing that might happen
+	in Venice .
+%mor:	coord|and pro:int|what cop|be&3S n:gerund|happen-PRESP cop|be&3S
+	det:art|the adj|same n|kind prep|of n|thing pro:rel|that mod|might
+	v|happen prep|in n:prop|Venice .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|PRED 6|8|DET 7|8|MOD 8|5|PRED
+	9|8|NJCT 10|9|POBJ 11|13|LINK 12|13|AUX 13|10|CMOD 14|13|JCT 15|14|POBJ
+	16|3|PUNCT
+*S1:	&-uh and Ed (.) Burton our demonstrator is pointing to it .
+%mor:	coord|and n:prop|Ed n:prop|Burton det:poss|our n|demonstrator
+	aux|be&3S part|point-PRESP prep|to pro:per|it .
+%gra:	1|3|LINK 2|3|NAME 3|7|LINK 4|5|DET 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|PUNCT
+*S1:	we're getting &-uh this sludge (.) forming (.) right in the middle
+	of (.) our lake .
+%mor:	pro:sub|we~aux|be&PRES part|get-PRESP det:dem|this n|sludge
+	part|form-PRESP adv|right prep|in det:art|the n|middle prep|of
+	det:poss|our n|lake .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|XMOD 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*S1:	&-uh and this is a solid coming out_of solution (.) it's because
+	these ions actually can migrate this is the demonstration of the
+	fact that these cations and anions actually migrate (.) in water and
+	move .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|a n|solid part|come-PRESP
+	prep|out_of n|solution pro:per|it~cop|be&3S conj|because
+	det:dem|these n|ion-PL adv|actual&dadj-LY mod|can v|migrate
+	det:dem|this cop|be&3S det:art|the n|demonstrate&dv-TION prep|of
+	det:art|the n|fact adv|that det:dem|these n|cation-PL coord|and
+	n|anion-PL adv|actual&dadj-LY v|migrate prep|in n|water coord|and
+	n|move .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|10|JCT 6|5|XMOD 7|6|JCT 8|7|POBJ
+	9|10|SUBJ 10|3|PRED 11|16|LINK 12|13|DET 13|16|SUBJ 14|16|JCT 15|16|AUX
+	16|3|CJCT 17|18|DET 18|16|COMP 19|20|DET 20|30|SUBJ 21|20|NJCT 22|23|DET
+	23|21|POBJ 24|20|NJCT 25|26|DET 26|24|POBJ 27|26|CONJ 28|27|COORD
+	29|30|JCT 30|18|CPRED 31|30|JCT 32|31|POBJ 33|32|CONJ 34|33|COORD 35|3|PUNCT
+*S1:	they can go upstream downstream whatever (.) and you can get the
+	positive charges the new combinations to the negative charges and
+	(.) so on (.) so that in particular the mercury two ion (.) in
+	addition to being attracted to the chloride ion is also attracted to
+	this iodide ion .
+%mor:	pro:sub|they mod|can v|go adv|upstream adv|downstream
+	pro:int|whatever coord|and pro:per|you mod|can v|get det:art|the
+	n|positive v|charge-3S det:art|the adj|new n|combine&dv-TION-PL
+	prep|to det:art|the n|negative n|charge-PL coord|and co|so adv|on
+	conj|so adv|that adv|in adj|particular det:art|the n|mercury
+	det:num|two n|ion prep|in n|addition prep|to n|being v|attract-PAST
+	prep|to det:art|the n|chloride n|ion aux|be&3S adv|also
+	part|attract-PASTP prep|to det:dem|this n|iodide n|ion .
+%gra:	1|3|SUBJ 2|3|AUX 3|10|CJCT 4|3|JCT 5|3|JCT 6|10|SUBJ 7|6|CONJ 8|7|COORD
+	9|10|AUX 10|0|ROOT 11|12|DET 12|13|SUBJ 13|10|COMP 14|16|DET 15|16|MOD
+	16|13|OBJ 17|16|NJCT 18|20|DET 19|20|MOD 20|17|POBJ 21|13|CONJ 22|23|COM
+	23|21|COORD 24|23|POBJ 25|26|JCT 26|27|JCT 27|24|CPOBJ 28|29|DET
+	29|27|OBJ 30|31|QUANT 31|36|SUBJ 32|31|JCT 33|32|POBJ 34|31|NJCT 35|34|POBJ
+	36|29|CMOD 37|36|JCT 38|40|DET 39|40|MOD 40|43|SUBJ 41|43|AUX 42|43|JCT
+	43|37|CPOBJ 44|43|JCT 45|47|DET 46|47|MOD 47|44|POBJ 48|10|PUNCT
+*S1:	so we started at mercury two chloride but now we have this new
+	possibility (.) of forming an iodide compound (.) with mercury (.)
+	and indeed that's what that orange kind of sludge is in the middle
+	of the (.) petri dish .
+%mor:	co|so pro:sub|we v|start-PAST prep|at n|mercury det:num|two
+	n|chloride conj|but adv|now pro:sub|we v|have det:dem|this adj|new
+	n|possible&dadj-ITY prep|of n:gerund|form-PRESP det:art|a n|iodide
+	n|compound prep|with n|mercury coord|and co|indeed
+	pro:dem|that~cop|be&3S pro:int|what det:dem|that adj|orange n|kind
+	prep|of n|sludge cop|be&3S prep|in det:art|the n|middle prep|of
+	det:art|the n|petri n|dish .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|QUANT 7|11|JCT 8|7|CONJ
+	9|8|COORD 10|11|SUBJ 11|3|CJCT 12|14|DET 13|14|MOD 14|11|OBJ 15|14|NJCT
+	16|15|POBJ 17|19|DET 18|19|MOD 19|16|OBJ 20|19|NJCT 21|20|POBJ
+	22|25|LINK 23|25|COM 24|25|SUBJ 25|19|CMOD 26|32|LINK 27|29|DET 28|29|MOD
+	29|32|SUBJ 30|29|NJCT 31|30|POBJ 32|25|COMP 33|32|JCT 34|35|DET 35|33|POBJ
+	36|35|NJCT 37|39|DET 38|39|MOD 39|36|POBJ 40|3|PUNCT
+*S1:	&-uh similarly the potassium ions (.) will be &-uh both attracted
+	to the iodide ions and (.) the (.) chloride ions .
+%mor:	adv|similar&dadj-LY det:art|the n|potassium n|ion-PL mod|will
+	cop|be post|both v|attract-PAST prep|to det:art|the n|iodide
+	n|ion-PL coord|and det:art|the n|chloride n|ion-PL .
+%gra:	1|8|JCT 2|4|DET 3|4|MOD 4|8|SUBJ 5|6|AUX 6|4|CMOD 7|6|PQ 8|0|ROOT
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|12|CONJ 14|16|DET 15|16|MOD
+	16|13|COORD 17|8|PUNCT
+*S1:	so any positive ion will be attracted to a negative ion negative to
+	(.) positive .
+%mor:	co|so qn|any adj|positive n|ion mod|will aux|be part|attract-PASTP
+	prep|to det:art|a adj|negative n|ion n|negative prep|to n|positive .
+%gra:	1|7|COM 2|4|QUANT 3|4|MOD 4|7|JCT 5|7|AUX 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|12|DET 10|11|MOD 11|12|MOD 12|8|POBJ 13|12|NJCT 14|13|POBJ 15|7|PUNCT
+*S1:	and what really happens here is that each of the ion combinations
+	have (.) specific solubilities (.) in &-uh a water solution .
+%mor:	coord|and pro:int|what adv|real&dadj-LY v|happen-3S adv|here
+	cop|be&3S comp|that qn|each prep|of det:art|the n|ion
+	n|combine&dv-TION-PL v|have adj|specific n|soluble&dadj-ITY-PL
+	prep|in det:art|a n|water n|solution .
+%gra:	1|4|LINK 2|4|LINK 3|4|JCT 4|0|ROOT 5|4|JCT 6|4|COMP 7|13|LINK
+	8|13|QUANT 9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|6|CPRED 14|15|MOD 15|13|OBJ
+	16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|4|PUNCT
+*S1:	for example there is a tremendous difference in solubility between
+	potassium iodide and mercury two iodide (.) and this is given in
+	terms of the number of moles required moles that it can &-uh
+	dissolve in a liter of water .
+%mor:	prep|for ex#adj|ample pro:exist|there cop|be&3S det:art|a
+	adj|tremendous n|difference prep|in n|soluble&dadj-ITY adv|between
+	n|potassium n|iodide coord|and n|mercury det:num|two n|iodide
+	coord|and pro:dem|this aux|be&3S part|give&PASTP prep|in n|term-PL
+	prep|of det:art|the n|number prep|of n|mole-PL v|require-PAST
+	n|mole-PL comp|that pro:per|it mod|can v|dissolve prep|in det:art|a
+	n|liter prep|of n|water .
+%gra:	1|4|JCT 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|8|POBJ 10|12|JCT 11|12|MOD 12|20|SUBJ 13|12|CONJ 14|16|MOD 15|16|QUANT
+	16|13|COORD 17|12|CONJ 18|17|COORD 19|20|AUX 20|7|XMOD 21|20|JCT
+	22|21|POBJ 23|22|NJCT 24|25|DET 25|23|POBJ 26|25|NJCT 27|26|POBJ 28|20|XJCT
+	29|28|OBJ 30|33|LINK 31|33|SUBJ 32|33|AUX 33|28|COMP 34|33|JCT 35|36|DET
+	36|34|POBJ 37|36|NJCT 38|37|POBJ 39|4|PUNCT
+*S1:	but if you look at this one [?] a very [/] very small number of
+	moles of mercury two iodide specifically two point two times ten to
+	the minus four moles (.) that can stay in solution (.) but if it's
+	potassium iodide seven point seven moles (.) can stay in solution in
+	a liter .
+%mor:	conj|but conj|if pro:per|you v|look prep|at det:dem|this
+	pro:indef|one det:art|a adv|very adj|small n|number prep|of
+	n|mole-PL prep|of n|mercury det:num|two n|iodide
+	adv|specific&dadj-AL-LY det:num|two v|point det:num|two n|time-PL
+	det:num|ten prep|to det:art|the n|minus det:num|four n|mole-PL
+	pro:rel|that n|can v|stay prep|in n|solution conj|but conj|if
+	pro:per|it~cop|be&3S n|potassium n|iodide det:num|seven v|point
+	det:num|seven n|mole-PL n|can v|stay prep|in n|solution prep|in
+	det:art|a n|liter .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|20|CJCT 5|4|JCT 6|7|DET 7|5|POBJ 8|11|DET
+	9|10|JCT 10|11|MOD 11|20|SUBJ 12|11|NJCT 13|12|POBJ 14|13|NJCT
+	15|14|POBJ 16|17|QUANT 17|11|APP 18|20|JCT 19|20|QUANT 20|0|ROOT 21|22|QUANT
+	22|20|OBJ 23|22|NJCT 24|23|JCT 25|28|DET 26|28|MOD 27|28|QUANT 28|24|POBJ
+	29|31|LINK 30|31|SUBJ 31|28|CMOD 32|31|JCT 33|32|POBJ 34|31|CONJ
+	35|37|LINK 36|37|SUBJ 37|34|COORD 38|39|MOD 39|37|PRED 40|41|QUANT 41|37|CPRED
+	42|43|QUANT 43|44|MOD 44|45|SUBJ 45|41|COMP 46|45|JCT 47|46|POBJ 48|45|JCT
+	49|50|DET 50|48|POBJ 51|20|PUNCT
+*S1:	so as soon as the iodide ion makes contact with mercury (.) we
+	cannot keep as much in solution that comes out_of solution (.) and
+	of_course the quicker they make contact the faster it comes out_of
+	solution .
+%mor:	adv|so adv|as adv|soon conj|as det:art|the n|iodide n|ion v|make-3S
+	n|contact prep|with n|mercury pro:sub|we mod|can~neg|not v|keep
+	adv|as adv|much prep|in n|solution pro:rel|that v|come-3S
+	prep|out_of n|solution coord|and co|of_course det:art|the
+	adj|quick-CP pro:sub|they v|make v|contact det:art|the adj|fast-CP
+	pro:per|it v|come-3S prep|out_of n|solution .
+%gra:	1|2|JCT 2|3|COORD 3|15|JCT 4|8|LINK 5|7|DET 6|7|MOD 7|8|SUBJ 8|15|CJCT
+	9|8|OBJ 10|8|JCT 11|10|POBJ 12|15|SUBJ 13|15|AUX 14|13|NEG 15|0|ROOT
+	16|17|COORD 17|15|JCT 18|15|JCT 19|18|POBJ 20|21|LINK 21|19|CMOD 22|21|JCT
+	23|22|POBJ 24|30|LINK 25|30|COM 26|27|DET 27|30|SUBJ 28|29|SUBJ
+	29|27|CMOD 30|21|CJCT 31|32|DET 32|30|OBJ 33|34|SUBJ 34|32|CMOD 35|34|JCT
+	36|35|POBJ 37|15|PUNCT
+*S1:	and so right now &-uh on camera we have that same reaction where
+	we're giving them very quick contact the mercury chloride and
+	potassium iodide (.) and (.) this is what you tend to do in the lab
+	you pour them together in direct contact and we get this &-uh orange
+	colored precipitate (.) that's the same stuff we saw in (.) the pond
+	.
+%mor:	coord|and adv|so adv|right adv|now prep|on n|camera pro:sub|we
+	v|have adv|that adj|same n|reaction pro:rel|where
+	pro:sub|we~aux|be&PRES part|give-PRESP pro:obj|them adv|very
+	adj|quick v|contact det:art|the n|mercury n|chloride coord|and
+	n|potassium n|iodide coord|and pro:dem|this cop|be&3S pro:int|what
+	pro:per|you v|tend inf|to v|do prep|in det:art|the n|lab pro:per|you
+	v|pour pro:obj|them adv|together prep|in adj|direct n|contact
+	coord|and pro:sub|we v|get det:dem|this adj|orange part|color-PASTP
+	n|precipitate pro:rel|that~cop|be&3S det:art|the adj|same n|stuff
+	pro:sub|we v|see&PAST prep|in det:art|the n|pond .
+%gra:	1|4|LINK 2|4|JCT 3|4|JCT 4|8|JCT 5|4|JCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|10|JCT 10|11|MOD 11|8|OBJ 12|15|LINK 13|15|SUBJ 14|15|AUX 15|11|CMOD
+	16|15|OBJ 17|19|JCT 18|19|JCT 19|15|COMP 20|22|DET 21|22|MOD 22|19|OBJ
+	23|22|CONJ 24|25|MOD 25|23|COORD 26|28|LINK 27|28|SUBJ 28|19|CJCT 29|31|LINK
+	30|31|SUBJ 31|28|CPRED 32|33|INF 33|31|COMP 34|33|JCT 35|36|DET
+	36|34|POBJ 37|38|SUBJ 38|33|CJCT 39|38|OBJ 40|38|JCT 41|38|JCT 42|43|MOD
+	43|41|POBJ 44|46|LINK 45|46|SUBJ 46|38|CJCT 47|50|DET 48|50|MOD 49|50|MOD
+	50|46|OBJ 51|52|LINK 52|50|CMOD 53|55|DET 54|55|MOD 55|52|PRED 56|57|SUBJ
+	57|55|CMOD 58|57|JCT 59|60|DET 60|58|POBJ 61|8|PUNCT
+*S1:	and so (.) we say that what has happened (.) to this ion
+	interaction (.) is (.) precipitation .
+%mor:	coord|and conj|so pro:sub|we v|say adv|that pro:int|what
+	aux|have&3S part|happen-PASTP prep|to det:dem|this n|ion
+	inter#n|action cop|be&3S n|precipitate&dv-TION .
+%gra:	1|8|LINK 2|4|LINK 3|4|SUBJ 4|8|CJCT 5|4|JCT 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|13|SUBJ 13|8|CJCT 14|13|PRED 15|8|PUNCT
+*S1:	and (.) when we (.) write that chemically (.) we have different
+	ways we can symbolize it &-uh we can write PPT (.) rather than
+	spelling out that long precipitation word (.) or you can put next to
+	HGI two which is the precipitate an arrow pointing down showing it's
+	coming out_of solution (.) or also another synonym (.) is to put
+	next to the HGI two (.) brackets S (.) close the brackets meaning a
+	solid is being formed .
+%mor:	coord|and conj|when pro:sub|we v|write comp|that
+	adv|chemical&dadj-LY pro:sub|we v|have adj|different n|way-PL
+	pro:sub|we mod|can v|symbol&dadj-IZE pro:per|it pro:sub|we mod|can
+	v|write n:prop|PPT adv|rather prep|than n:gerund|spell-PRESP
+	prep|out adv|that adj|long n|precipitate&dv-TION n|word coord|or
+	pro:per|you mod|can part|put&PASTP adj|next prep|to n:prop|HGI
+	det:num|two pro:rel|which cop|be&3S det:art|the n|precipitate
+	det:art|a n|arrow part|point-PRESP adv|down n:gerund|show-PRESP
+	pro:per|it~aux|be&3S part|come-PRESP prep|out_of n|solution coord|or
+	adv|also qn|another n|synonym cop|be&3S inf|to v|put&ZERO adj|next
+	prep|to det:art|the n:prop|HGI det:num|two n|bracket-PL n:prop|S
+	v|close det:art|the n|bracket-PL n|meaning det:art|a n|solid
+	aux|be&3S aux|be-PRESP part|form-PASTP .
+%gra:	1|13|LINK 2|4|LINK 3|4|SUBJ 4|13|CJCT 5|8|LINK 6|8|JCT 7|8|SUBJ
+	8|4|COMP 9|10|MOD 10|8|OBJ 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|13|OBJ 15|17|SUBJ
+	16|17|AUX 17|13|COMP 18|17|OBJ 19|17|JCT 20|19|JCT 21|20|POBJ 22|21|JCT
+	23|24|JCT 24|26|MOD 25|26|MOD 26|22|POBJ 27|30|LINK 28|30|SUBJ 29|30|AUX
+	30|21|CJCT 31|34|MOD 32|31|JCT 33|32|POBJ 34|30|OBJ 35|36|LINK
+	36|34|CMOD 37|38|DET 38|36|PRED 39|40|DET 40|38|OBJ 41|40|XMOD 42|41|JCT
+	43|40|XMOD 44|46|SUBJ 45|46|AUX 46|43|COMP 47|46|JCT 48|47|POBJ 49|53|LINK
+	50|52|JCT 51|52|QUANT 52|53|SUBJ 53|46|CJCT 54|55|INF 55|53|CPRED 56|63|XJCT
+	57|56|JCT 58|61|DET 59|61|MOD 60|61|QUANT 61|57|POBJ 62|63|SUBJ
+	63|55|COMP 64|66|DET 65|66|MOD 66|63|OBJ 67|68|DET 68|71|SUBJ 69|71|AUX
+	70|71|AUX 71|66|CMOD 72|13|PUNCT
+*S1:	any solid coming out_of solution is precipitation doesn't matter
+	what it is a metal a salt or whatever (.) in this case it happens to
+	be a salt .
+%mor:	qn|any n|solid part|come-PRESP prep|out_of n|solution cop|be&3S
+	n|precipitate&dv-TION mod|do&3S~neg|not v|matter pro:int|what
+	pro:per|it cop|be&3S det:art|a n|metal det:art|a n|salt coord|or
+	pro:int|whatever prep|in det:dem|this n|case pro:per|it v|happen-3S
+	inf|to cop|be det:art|a n|salt .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|XMOD 4|6|JCT 5|6|SUBJ 6|10|CJCT 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|3|COMP 11|13|LINK 12|13|SUBJ 13|10|COMP 14|15|DET
+	15|13|PRED 16|17|DET 17|15|OBJ 18|17|CONJ 19|24|LINK 20|24|JCT 21|22|DET
+	22|20|POBJ 23|24|SUBJ 24|18|COORD 25|26|INF 26|24|COMP 27|28|DET 28|26|PRED
+	29|2|PUNCT
+*S1:	and the opposite of precipitation of_course is something going into
+	solution (.) because it's soluble .
+%mor:	coord|and det:art|the adj|opposite prep|of n|precipitate&dv-TION
+	co|of_course aux|be&3S pro:indef|something part|go-PRESP prep|into
+	n|solution conj|because pro:per|it~cop|be&3S adj|soluble .
+%gra:	1|9|LINK 2|3|DET 3|9|JCT 4|3|JCT 5|4|POBJ 6|9|COM 7|9|AUX 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|9|CJCT 15|14|PRED
+	16|9|PUNCT
+*S1:	and &-uh you can see on camera over here (.) that &-uh this is an
+	example here in the test tube (.) of that &mixt same mixture that's
+	been allowed to sit for a period of time .
+%mor:	coord|and pro:per|you mod|can v|see prep|on n|camera prep|over
+	n|here comp|that pro:dem|this cop|be&3S det:art|a n|example adv|here
+	prep|in det:art|the n|test n|tube prep|of pro:dem|that adj|same
+	n|mixture pro:rel|that~aux|be&3S aux|be&PASTP part|allow-PASTP
+	inf|to v|sit prep|for det:art|a n|period prep|of n|time .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|7|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|13|DET 13|11|PRED 14|13|NJCT 15|13|NJCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|18|NJCT 20|19|POBJ 21|22|MOD 22|18|APP
+	23|26|LINK 24|26|AUX 25|26|AUX 26|18|CMOD 27|28|INF 28|26|COMP
+	29|28|JCT 30|31|DET 31|29|POBJ 32|31|NJCT 33|32|POBJ 34|4|PUNCT
+*S1:	and what happens is that precipitate will actually fall to the
+	bottom creating a sludge (.) and then we get a liquid above it and
+	that liquid above is called supernatant .
+%mor:	coord|and pro:int|what v|happen-3S cop|be&3S det:dem|that
+	n|precipitate mod|will adv|actual&dadj-LY v|fall prep|to det:art|the
+	n|bottom part|create-PRESP det:art|a n|sludge coord|and adv:tem|then
+	pro:sub|we v|get det:art|a n|liquid prep|above pro:per|it coord|and
+	det:dem|that n|liquid prep|above aux|be&3S part|call-PASTP
+	n|supernatant .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|9|SUBJ 7|9|AUX 8|9|JCT
+	9|4|CPRED 10|9|JCT 11|12|DET 12|10|POBJ 13|9|XJCT 14|15|DET 15|13|OBJ
+	16|19|LINK 17|19|JCT 18|19|SUBJ 19|13|CJCT 20|21|DET 21|19|OBJ 22|19|JCT
+	23|22|POBJ 24|19|CONJ 25|26|DET 26|24|COORD 27|26|NJCT 28|29|AUX 29|27|POBJ
+	30|29|OBJ 31|3|PUNCT
+*S1:	you'll get two phases supernatant (.) and the precipitate &-uh form
+	.
+%mor:	pro:per|you~mod|will v|get det:num|two n|phase-PL n|supernatant
+	coord|and det:art|the n|precipitate n|form .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|6|MOD 6|3|OBJ 7|6|CONJ 8|10|DET
+	9|10|MOD 10|7|COORD 11|3|PUNCT
+*S1:	so now we come to very <first part> [/] first part of the lab
+	that's the background .
+%mor:	adv|so adv|now pro:sub|we v|come inf|to adv|very adj|first n|part
+	prep|of det:art|the n|lab pro:rel|that~cop|be&3S det:art|the
+	n|background .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|INF 6|7|JCT 7|8|MOD 8|4|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|13|LINK 13|11|CMOD 14|15|DET 15|13|PRED
+	16|4|PUNCT
+*S1:	some terminology and stuff to get ready for .
+%mor:	qn|some n|terminology coord|and n|stuff inf|to v|get adj|ready
+	prep|for .
+%gra:	1|2|QUANT 2|6|SUBJ 3|2|CONJ 4|3|COORD 5|6|INF 6|0|ROOT 7|6|PRED 8|6|JCT
+	9|6|PUNCT
+*S1:	and I will say this &-uh we're not aiming this week to get that far
+	in this lab .
+%mor:	coord|and pro:sub|I mod|will v|say det:dem|this
+	pro:sub|we~aux|be&PRES neg|not part|aim-PRESP det:dem|this n|week
+	inf|to v|get adv|that adv|far prep|in det:dem|this n|lab .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|5|CMOD 10|11|DET 11|9|OBJ 12|13|INF 13|11|XMOD 14|15|JCT 15|13|JCT
+	16|13|JCT 17|18|DET 18|16|POBJ 19|4|PUNCT
+*S1:	just parts one and two .
+%mor:	adv|just v|part-3S det:num|one coord|and det:num|two .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|CONJ 5|4|COORD 6|2|PUNCT
+*S1:	why ?
+%mor:	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	well (.) as you know it's been very confusing and hectic so far .
+%mor:	co|well prep|as pro:per|you v|know pro:per|it~cop|be&3S
+	cop|be&PASTP adv|very part|confuse-PRESP coord|and adj|hectic adv|so
+	adj|far .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|AUX 7|4|JCT 8|9|JCT
+	9|4|COMP 10|9|CONJ 11|13|MOD 12|13|JCT 13|10|COORD 14|4|PUNCT
+*S1:	why ?
+%mor:	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	because the university starts classes in the middle of the week .
+%mor:	conj|because det:art|the n|university v|start-3S n|class-PL prep|in
+	det:art|the n|middle prep|of det:art|the n|week .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*S1:	and so &-uh we had some labs meeting &-uh during our first half
+	week of school and getting an early start and others that didn't
+	start &-uh (un)til that first full (.) second week of school .
+%mor:	coord|and co|so pro:sub|we v|have&PAST qn|some n|lab-PL
+	part|meet-PRESP prep|during det:poss|our adj|first qn|half n|week
+	prep|of n|school coord|and part|get-PRESP det:art|a adv|early
+	v|start coord|and n:pt|others adv|that mod|do&PAST~neg|not v|start
+	prep|until adv|that adv|first adj|full adj|second n|week prep|of
+	n|school .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|XMOD 8|7|JCT
+	9|12|DET 10|12|MOD 11|12|QUANT 12|8|POBJ 13|12|NJCT 14|13|POBJ 15|12|CONJ
+	16|15|COORD 17|19|DET 18|19|JCT 19|16|COMP 20|25|LINK 21|25|SUBJ
+	22|25|JCT 23|25|AUX 24|23|NEG 25|19|COMP 26|25|JCT 27|29|JCT 28|29|JCT
+	29|31|MOD 30|31|MOD 31|26|POBJ 32|31|NJCT 33|32|POBJ 34|4|PUNCT
+*S1:	so (.) therefore &-uh we're gonna give you some time this week for
+	all the labs to catch up so we'll be together .
+%mor:	co|so adv|therefore pro:sub|we~aux|be&PRES part|go-PRESP~inf|to
+	v|give pro:per|you qn|some n|time det:dem|this n|week prep|for
+	qn|all det:art|the n|lab-PL inf|to v|catch adv|up adv|so
+	pro:sub|we~mod|will cop|be adv|together .
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ2
+	9|10|QUANT 10|7|OBJ 11|12|DET 12|10|ENUM 13|12|NJCT 14|16|QUANT 15|16|DET
+	16|13|POBJ 17|18|INF 18|16|XMOD 19|18|JCT 20|23|JCT 21|23|SUBJ 22|23|AUX
+	23|18|COMP 24|23|PRED 25|5|PUNCT
+*S1:	so we want you to get through parts one and two of this (.) but
+	that means that (.) you should also practice preparing (.) for
+	discussion which will not be held (.) for &-uh another week .
+%mor:	co|so pro:sub|we v|want pro:per|you inf|to v|get prep|through
+	n|part-PL det:num|one coord|and det:num|two prep|of pro:dem|this
+	conj|but pro:dem|that v|mean-3S comp|that pro:per|you mod|should
+	adv|also n|practice part|prepare-PRESP prep|for n|discussion
+	pro:rel|which mod|will neg|not aux|be part|hold&PASTP prep|for
+	qn|another n|week .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|JCT 8|7|POBJ
+	9|16|SUBJ 10|9|CONJ 11|10|COORD 12|11|NJCT 13|12|POBJ 14|9|CONJ
+	15|14|COORD 16|6|CJCT 17|21|LINK 18|21|SUBJ 19|21|AUX 20|21|JCT 21|16|COMP
+	22|21|XMOD 23|22|JCT 24|23|POBJ 25|29|LINK 26|29|AUX 27|26|NEG 28|29|AUX
+	29|24|CMOD 30|29|JCT 31|32|QUANT 32|30|POBJ 33|3|PUNCT
+*S1:	don't worry about it .
+%mor:	mod|do~neg|not v|worry prep|about pro:per|it .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*S1:	you're not doing the discussion .
+%mor:	pro:per|you~aux|be&PRES neg|not part|do-PRESP det:art|the
+	n|discussion .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*S1:	but (.) each team is going to be assigned to question one two or
+	three .
+%mor:	conj|but qn|each n|team aux|be&3S part|go-PRESP inf|to aux|be
+	part|assign-PASTP prep|to n|question det:num|one det:num|two
+	coord|or det:num|three .
+%gra:	1|5|LINK 2|3|QUANT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|INF 7|8|AUX 8|5|COMP
+	9|8|JCT 10|9|POBJ 11|12|QUANT 12|13|QUANT 13|10|CONJ 14|13|COORD
+	15|5|PUNCT
+*S1:	and questions one two or three are based on parts one or two (.)
+	which you will complete .
+%mor:	coord|and v|question-3S det:num|one det:num|two coord|or
+	det:num|three aux|be&PRES part|base-PASTP prep|on n|part-PL
+	det:num|one coord|or det:num|two pro:rel|which pro:per|you mod|will
+	v|complete .
+%gra:	1|2|LINK 2|0|ROOT 3|4|QUANT 4|8|SUBJ 5|4|CONJ 6|5|COORD 7|8|AUX
+	8|2|COMP 9|17|JCT 10|17|SUBJ 11|17|XJCT 12|11|CONJ 13|12|COORD 14|15|LINK
+	15|17|SUBJ 16|17|AUX 17|8|CJCT 18|2|PUNCT
+*S1:	so as soon as you complete parts one and two (.) try a hand at your
+	discussion question prepare it which means manipulate the data (.)
+	show it to your &-uh instructor get some feedback on it &-uh and
+	then (.) if you have some free time fine .
+%mor:	adv|so adv|as adv|soon conj|as pro:per|you v|complete n|part-PL
+	det:num|one coord|and det:num|two v|try det:art|a n|hand prep|at
+	det:poss|your n|discussion n|question v|prepare pro:per|it
+	pro:rel|which v|mean-3S v|manipulate det:art|the n|data n|show
+	pro:per|it prep|to det:poss|your n|instructor v|get qn|some
+	n|feedback prep|on pro:per|it coord|and adv:tem|then conj|if
+	pro:per|you v|have qn|some adj|free n|time adj|fine .
+%gra:	1|2|JCT 2|3|COORD 3|11|JCT 4|6|LINK 5|6|SUBJ 6|11|CJCT 7|8|MOD
+	8|11|SUBJ 9|8|CONJ 10|9|COORD 11|0|ROOT 12|13|DET 13|11|OBJ 14|11|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|11|CJCT 19|18|OBJ 20|21|LINK 21|18|COMP
+	22|21|OBJ 23|25|DET 24|25|MOD 25|22|OBJ 26|30|SUBJ 27|26|JCT 28|29|DET
+	29|27|POBJ 30|25|CMOD 31|32|QUANT 32|30|OBJ 33|21|JCT 34|33|POBJ 35|21|CONJ
+	36|35|COORD 37|39|LINK 38|39|SUBJ 39|36|CMOD 40|42|QUANT 41|42|MOD 42|39|OBJ
+	43|42|POSTMOD 44|11|PUNCT
+*S1:	okay there will be some labs that will be going (.) the full time
+	so catch up .
+%mor:	co|okay adv|there mod|will aux|be qn|some n|lab-PL pro:rel|that
+	mod|will aux|be part|go-PRESP det:art|the adj|full n|time co|so
+	v|catch adv|up .
+%gra:	1|6|COM 2|6|JCT 3|6|AUX 4|6|AUX 5|6|QUANT 6|0|INCROOT 7|10|LINK
+	8|10|AUX 9|10|AUX 10|6|CMOD 11|13|DET 12|13|MOD 13|10|OBJ 14|15|COM 15|6|CMOD
+	16|15|JCT 17|6|PUNCT
+*S1:	okay so what is part one ?
+%mor:	co|okay adv|so pro:int|what cop|be&3S adj|part pro:indef|one ?
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|PRED 7|4|PUNCT
+*S1:	in part one &-uh you look at a reaction (.) where there's
+	precipitate being formed (.) and you have to experimentally prove
+	what is the precipitate .
+%mor:	prep|in n|part pro:indef|one pro:per|you v|look prep|at det:art|a
+	n|reaction pro:rel|where pro:exist|there~cop|be&3S n|precipitate
+	part|be-PRESP part|form-PASTP coord|and pro:per|you v|have prep|to
+	adv|experiment&dadj-AL-LY v|prove pro:int|what cop|be&3S det:art|the
+	n|precipitate .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|POBJ 4|5|SUBJ 5|3|CMOD 6|5|JCT 7|8|DET
+	8|6|POBJ 9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|PRED 13|11|XJCT 14|13|PRED
+	15|17|LINK 16|17|SUBJ 17|14|COMP 18|17|JCT 19|20|JCT 20|18|POBJ 21|22|SUBJ
+	22|17|COMP 23|24|DET 24|22|PRED 25|1|PUNCT
+*S1:	now in_order_to answer that question (.) you really need to pay
+	attention to the information provided at the beginning of (.) the
+	experiment .
+%mor:	adv|now inf|in_order_to v|answer det:dem|that n|question
+	pro:per|you adv|real&dadj-LY v|need prep|to n|pay n|attention
+	prep|to det:art|the n|inform&dv-TION v|provide-PAST prep|at
+	det:art|the n|beginning prep|of det:art|the n|experiment .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|15|SUBJ 6|8|SUBJ 7|8|JCT 8|5|CMOD
+	9|8|JCT 10|11|MOD 11|9|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|3|COMP
+	16|15|JCT 17|18|DET 18|16|POBJ 19|18|NJCT 20|21|DET 21|19|POBJ 22|3|PUNCT
+*S1:	and that is that potassium ions and sodium ions (.) are highly
+	soluble .
+%mor:	coord|and pro:dem|that cop|be&3S comp|that n|potassium n|ion-PL
+	coord|and n|sodium n|ion-PL cop|be&PRES adv|high&dadj-LY adj|soluble
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|10|LINK 5|6|MOD 6|10|SUBJ 7|6|CONJ 8|9|MOD
+	9|7|COORD 10|3|COMP 11|12|JCT 12|10|PRED 13|3|PUNCT
+*S1:	we just saw that with the potassium iodide in the demonstration
+	potassium ions &-uh have quite a high solubility in terms of moles
+	per liter that stay in solution .
+%mor:	pro:sub|we adv|just v|see&PAST comp|that prep|with det:art|the
+	n|potassium n|iodide prep|in det:art|the n|demonstrate&dv-TION
+	n|potassium n|ion-PL v|have adv|quite det:art|a n|high
+	n|soluble&dadj-ITY prep|in n|term-PL prep|of n|mole-PL prep|per
+	n|liter pro:rel|that v|stay prep|in n|solution .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|14|SUBJ 14|8|CMOD 15|14|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|18|NJCT 20|19|POBJ 21|20|NJCT 22|21|POBJ
+	23|18|NJCT 24|23|POBJ 25|26|LINK 26|24|CMOD 27|26|JCT 28|27|POBJ 29|3|PUNCT
+*S1:	both potassium ions and sodium ions are in family one .
+%mor:	post|both n|potassium n|ion-PL coord|and n|sodium n|ion-PL
+	cop|be&PRES prep|in n|family det:num|one .
+%gra:	1|0|INCROOT 2|3|MOD 3|7|SUBJ 4|3|CONJ 5|6|MOD 6|4|COORD 7|1|COMP
+	8|7|JCT 9|10|MOD 10|8|POBJ 11|1|PUNCT
+*S1:	indeed family one (.) as a family tends to be highly soluble
+	cations +...
+%mor:	co|indeed n|family det:num|one prep|as det:art|a n|family v|tend-3S
+	inf|to cop|be adv|high&dadj-LY adj|soluble n|cation-PL +...
+%gra:	1|3|COM 2|3|MOD 3|7|SUBJ 4|7|JCT 5|6|DET 6|7|SUBJ 7|0|ROOT 8|9|INF
+	9|7|COMP 10|11|JCT 11|9|PRED 12|9|PRED 13|7|PUNCT
+*S1:	we use that information to (.) design reference blanks .
+%mor:	pro:sub|we v|use comp|that n|inform&dv-TION prep|to n|design
+	n|reference v|blank-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|LINK 4|8|SUBJ 5|4|NJCT 6|7|MOD 7|5|POBJ 8|2|COMP
+	9|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	a reference blank (.) to be specific is a sample (.) that has all
+	the components of your reaction mixture except for one species that
+	you take out .
+%mor:	det:art|a n|reference adj|blank inf|to cop|be adj|specific
+	aux|be&3S det:art|a n|sample pro:rel|that v|have&3S qn|all
+	det:art|the n|component-PL prep|of det:poss|your n|reaction
+	n|mixture conj|except prep|for pro:indef|one n|species pro:rel|that
+	pro:per|you v|take adv|out .
+%gra:	1|2|DET 2|0|INCROOT 3|2|POSTMOD 4|5|INF 5|3|XMOD 6|5|PRED 7|9|AUX
+	8|9|DET 9|5|PRED 10|11|LINK 11|9|CMOD 12|14|QUANT 13|14|DET 14|11|OBJ
+	15|14|NJCT 16|18|DET 17|18|MOD 18|15|POBJ 19|2|XMOD 20|19|JCT 21|20|POBJ
+	22|21|NJCT 23|25|LINK 24|25|SUBJ 25|22|CMOD 26|25|JCT 27|2|PUNCT
+*S1:	okay so when I'm doing a piece of research (.) involving
+	precipitation (.) I take out a species and I replace it with a
+	species whose behavior I know .
+%mor:	co|okay co|so conj|when pro:sub|I~aux|be&1S part|do-PRESP det:art|a
+	n|piece prep|of n|research part|involve-PRESP n|precipitate&dv-TION
+	pro:sub|I v|take prep|out det:art|a n|species coord|and pro:sub|I
+	re#n|place pro:per|it prep|with det:art|a n|species pro:rel|whose
+	n|behavior pro:sub|I v|know .
+%gra:	1|6|COM 2|6|COM 3|6|LINK 4|6|SUBJ 5|6|AUX 6|14|LINK 7|8|DET 8|14|SUBJ
+	9|8|NJCT 10|9|POBJ 11|14|XJCT 12|11|OBJ 13|14|SUBJ 14|0|ROOT 15|14|JCT
+	16|17|DET 17|15|POBJ 18|20|LINK 19|20|SUBJ 20|14|PUNCT 21|20|OBJ
+	22|21|NJCT 23|24|DET 24|22|POBJ 25|24|INCROOT 26|25|OBJ 27|28|SUBJ 28|26|CMOD
+	29|25|PUNCT
+*S1:	for example (.) I can (.) put into that reaction mission mixture a
+	potassium ion because I know (.) what it does (.) it tends to be
+	highly soluble and will not (.) precipitate .
+%mor:	prep|for ex#adj|ample pro:sub|I mod|can v|put&ZERO prep|into
+	det:dem|that n|reaction n|mission n|mixture det:art|a n|potassium
+	n|ion conj|because pro:sub|I v|know pro:int|what pro:per|it
+	mod|do&3S pro:per|it v|tend-3S inf|to cop|be adv|high&dadj-LY
+	adj|soluble coord|and mod|will neg|not v|precipitate .
+%gra:	1|5|JCT 2|1|POBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|10|DET 8|10|MOD
+	9|10|MOD 10|13|MOD 11|13|DET 12|13|MOD 13|6|POBJ 14|16|LINK 15|16|SUBJ
+	16|5|CJCT 17|21|LINK 18|21|SUBJ 19|21|AUX 20|21|SUBJ 21|16|COMP 22|23|INF
+	23|21|COMP 24|25|JCT 25|23|PRED 26|23|CONJ 27|29|AUX 28|27|NEG
+	29|26|COORD 30|5|PUNCT
+*S1:	and it helps me to figure out what is going on in the reaction .
+%mor:	coord|and pro:per|it v|help-3S pro:obj|me inf|to v|figure adv|out
+	pro:int|what aux|be&3S part|go-PRESP adv|on prep|in det:art|the
+	n|reaction .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|JCT 8|10|SUBJ
+	9|10|AUX 10|6|COMP 11|10|JCT 12|10|JCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*S1:	here's an example of a blank for this reaction (.) that we would
+	look at mercury chloride and potassium iodide .
+%mor:	pro:exist|here~cop|be&3S det:art|a n|example prep|of det:art|a
+	adj|blank prep|for det:dem|this n|reaction pro:rel|that pro:sub|we
+	mod|will&COND v|look prep|at n|mercury n|chloride coord|and
+	n|potassium n|iodide .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|4|NJCT
+	9|10|DET 10|8|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD 15|14|JCT
+	16|17|MOD 17|15|POBJ 18|14|CONJ 19|20|MOD 20|18|COORD 21|2|PUNCT
+*S1:	an example of a blank here would be mercury chloride and potassium
+	nitrate we're not gonna demonstrate this one to you (be)cause it's
+	just an example .
+%mor:	det:art|a n|example prep|of det:art|a adj|blank adv|here
+	mod|will&COND cop|be n|mercury n|chloride coord|and n|potassium
+	n|nitrate pro:sub|we~aux|be&PRES neg|not part|go-PRESP~inf|to
+	v|demonstrate det:dem|this det:num|one inf|to pro:per|you
+	conj|because pro:per|it~cop|be&3S adj|just det:art|a n|example .
+%gra:	1|2|DET 2|8|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|8|JCT 7|8|AUX 8|0|ROOT
+	9|10|MOD 10|8|PRED 11|8|CONJ 12|13|MOD 13|11|COORD 14|17|SUBJ 15|17|AUX
+	16|15|NEG 17|8|CJCT 18|19|INF 19|17|COMP 20|21|DET 21|19|OBJ 22|23|INF
+	23|26|SUBJ 24|26|LINK 25|26|SUBJ 26|21|CMOD 27|29|MOD 28|29|DET 29|26|PRED
+	30|8|PUNCT
+*S1:	and what have I done ?
+%mor:	coord|and pro:int|what v|have pro:sub|I part|do&PASTP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*S1:	I've taken out the i@l minus ion (.) okay and I've replaced it with
+	a nitrate ion .
+%mor:	pro:sub|I~aux|have part|take&PASTP adv|out det:art|the n:let|i
+	n|minus n|ion adj|okay coord|and pro:sub|I~aux|have
+	re#part|place-PASTP pro:per|it prep|with det:art|a n|nitrate n|ion .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|8|DET 6|8|MOD 7|8|MOD 8|3|OBJ
+	9|8|POSTMOD 10|13|LINK 11|13|SUBJ 12|13|AUX 13|8|CMOD 14|13|OBJ 15|14|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|3|PUNCT
+*S1:	this would be an example of a blank that I would use to determine
+	what the role of the i@l minus ion is .
+%mor:	pro:dem|this mod|will&COND cop|be det:art|a n|example prep|of
+	det:art|a adj|blank comp|that pro:sub|I mod|will&COND v|use inf|to
+	v|determine pro:int|what det:art|the n|role prep|of det:art|the
+	n:let|i n|minus n|ion cop|be&3S .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CMOD 13|14|INF 14|12|COMP 15|23|LINK
+	16|17|DET 17|23|SUBJ 18|17|NJCT 19|22|DET 20|22|MOD 21|22|MOD 22|18|POBJ
+	23|14|COMP 24|3|PUNCT
+*S1:	in other words (.) what happens when I take it out ?
+%mor:	prep|in qn|other n|word-PL pro:int|what v|happen-3S conj|when
+	pro:sub|I v|take pro:per|it adv|out ?
+%gra:	1|5|JCT 2|3|QUANT 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|8|OBJ 10|8|JCT 11|5|PUNCT
+*S1:	will I still have a precipitate ?
+%mor:	mod|will pro:sub|I adv|still v|have det:art|a n|precipitate ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*S1:	or will I not get a precipitate ?
+%mor:	coord|or mod|will pro:sub|I neg|not v|get det:art|a n|precipitate ?
+%gra:	1|5|LINK 2|5|AUX 3|5|SUBJ 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*S1:	it determines for me the role of the i@l minus whether it's
+	critical to the reaction or not .
+%mor:	pro:per|it v|determine-3S prep|for pro:obj|me det:art|the n|role
+	prep|of det:art|the n:let|i n|minus conj|whether
+	pro:per|it~cop|be&3S adj|critical prep|to det:art|the n|reaction
+	coord|or neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|6|DET 6|2|OBJ 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|13|LINK 12|13|SUBJ 13|2|CJCT 14|13|PRED 15|13|JCT
+	16|17|DET 17|15|POBJ 18|17|CONJ 19|18|COORD 20|2|PUNCT
+*S1:	I know that the nitrate ions and that's those NO thirty minus
+	anions that are highly soluble &-uh will not precipitate .
+%mor:	pro:sub|I v|know comp|that det:art|the n|nitrate n|ion-PL coord|and
+	pro:dem|that~cop|be&3S det:dem|those n:prop|NO det:num|thirty
+	prep|minus n|anion-PL pro:rel|that cop|be&PRES adv|high&dadj-LY
+	adj|soluble mod|will neg|not v|precipitate .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|DET 5|6|MOD 6|9|SUBJ 7|6|CONJ 8|7|COORD
+	9|2|COMP 10|11|DET 11|9|PRED 12|11|OBJ 13|12|JCT 14|13|POBJ 15|16|LINK
+	16|14|CMOD 17|21|JCT 18|21|SUBJ 19|21|AUX 20|19|NEG 21|16|PRED 22|2|PUNCT
+*S1:	okay so if you look at question number one &-uh in your handout
+	(0.5) we have that reaction (.) and we are (.) going to repeat it
+	when we perform a reference blank test .
+%mor:	co|okay adv|so conj|if pro:per|you v|look prep|at n|question
+	n|number det:num|one prep|in det:poss|your n|+v|hand+prep|out
+	pro:sub|we v|have det:dem|that n|reaction coord|and pro:sub|we
+	aux|be&PRES part|go-PRESP inf|to v|repeat pro:per|it conj|when
+	pro:sub|we v|perform det:art|a n|reference adj|blank n|test .
+%gra:	1|14|COM 2|3|JCT 3|5|LINK 4|5|SUBJ 5|14|CJCT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|14|XJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|14|SUBJ 14|0|ROOT 15|16|DET
+	16|14|OBJ 17|20|LINK 18|20|SUBJ 19|20|AUX 20|16|CMOD 21|22|INF 22|20|COMP
+	23|22|OBJ 24|26|LINK 25|26|SUBJ 26|20|CJCT 27|28|DET 28|30|MOD 29|30|MOD
+	30|26|OBJ 31|14|PUNCT
+*S1:	and there is what we do in the labs so I have some NACL instead of
+	HGCL two and we mix it with potassium iodide .
+%mor:	coord|and adv|there cop|be&3S pro:int|what pro:sub|we v|do prep|in
+	det:art|the n|lab-PL conj|so pro:sub|I v|have qn|some n:prop|NACL
+	adv|instead prep|of n:prop|HGCL det:num|two coord|and pro:sub|we
+	v|mix pro:per|it prep|with n|potassium n|iodide .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CPRED 7|6|JCT 8|9|DET
+	9|7|POBJ 10|12|LINK 11|12|SUBJ 12|3|CJCT 13|14|QUANT 14|12|OBJ
+	15|14|NJCT 16|15|JCT 17|16|POBJ 18|21|QUANT 19|21|LINK 20|21|SUBJ 21|16|CPOBJ
+	22|21|OBJ 23|21|JCT 24|25|MOD 25|23|POBJ 26|3|PUNCT
+*S1:	the potassium iodide is common to both reaction mixtures (.)
+	however (.) we have replaced the HG two plus (.) with NA plus (.)
+	and to determine what will happen when it's not there .
+%mor:	det:art|the n|potassium n|iodide cop|be&3S adj|common inf|to
+	post|both n|reaction n|mixture-PL adv|however pro:sub|we v|have
+	re#part|place-PASTP det:art|the n:prop|HG det:num|two adv|plus
+	prep|with n:prop|NA adv|plus coord|and inf|to v|determine
+	pro:int|what mod|will v|happen pro:int|when pro:per|it~cop|be&3S
+	neg|not adv|there .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|INF 7|5|XMOD 8|9|MOD
+	9|7|PRED 10|12|JCT 11|12|SUBJ 12|9|CMOD 13|12|OBJ 14|15|DET 15|16|SUBJ
+	16|17|QUANT 17|13|JCT 18|17|JCT 19|18|POBJ 20|18|POBJ 21|20|CONJ 22|23|INF
+	23|21|COORD 24|26|SUBJ 25|26|AUX 26|23|COMP 27|29|LINK 28|29|SUBJ
+	29|26|COMP 30|29|NEG 31|29|JCT 32|4|PUNCT
+*S1:	what we get is we get no reaction .
+%mor:	pro:int|what pro:sub|we v|get cop|be&3S pro:sub|we v|get qn|no
+	n|reaction .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|CJCT 4|3|COMP 5|6|SUBJ 6|0|ROOT 7|8|QUANT 8|6|OBJ
+	9|6|PUNCT
+*S1:	and that's one of two possible outcomes either we're going to get
+	the same reaction hopefully or no reaction .
+%mor:	coord|and pro:dem|that~cop|be&3S pro:indef|one prep|of det:num|two
+	adj|possible n|outcome-PL coord|either pro:sub|we~aux|be&PRES
+	part|go-PRESP inf|to v|get det:art|the adj|same n|reaction
+	adv|hope&dadj-FULL-LY coord|or qn|no n|reaction .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|8|QUANT 7|8|MOD 8|5|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|3|CJCT 13|14|INF 14|12|COMP 15|17|DET
+	16|17|MOD 17|14|OBJ 18|14|JCT 19|18|CONJ 20|21|QUANT 21|19|COORD
+	22|3|PUNCT
+*S1:	and since we have no reaction now we know that without the mercury
+	two plus (.) we will not get a precipitate .
+%mor:	coord|and conj|since pro:sub|we v|have qn|no n|reaction adv|now
+	pro:sub|we v|know pro:dem|that prep|without det:art|the n|mercury
+	det:num|two adv|plus pro:sub|we mod|will neg|not v|get det:art|a
+	n|precipitate .
+%gra:	1|9|LINK 2|4|LINK 3|4|SUBJ 4|9|CJCT 5|6|QUANT 6|4|OBJ 7|4|JCT 8|9|SUBJ
+	9|0|ROOT 10|9|OBJ 11|9|JCT 12|13|DET 13|11|POBJ 14|15|QUANT 15|9|JCT
+	16|19|SUBJ 17|19|AUX 18|17|NEG 19|9|COMP 20|21|DET 21|19|OBJ 22|9|PUNCT
+*S1:	or another way of saying &-uh responding to this was we know (.)
+	mercury two plus is critical to precipitate formation .
+%mor:	coord|or qn|another n|way prep|of part|say-PRESP part|respond-PRESP
+	prep|to pro:dem|this cop|be&PAST&13S pro:sub|we v|know n|mercury
+	det:num|two adv|plus cop|be&3S adj|critical prep|to n|precipitate
+	n|form&dv-TION .
+%gra:	1|6|LINK 2|3|QUANT 3|6|JCT 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|JCT 8|9|SUBJ
+	9|7|POBJ 10|11|SUBJ 11|6|CJCT 12|11|OBJ 13|14|QUANT 14|11|JCT 15|11|COMP
+	16|15|PRED 17|16|JCT 18|19|MOD 19|17|POBJ 20|6|PUNCT
+*S1:	and you'll see on your prelab for the lab coming up experiment two
+	(.) questions like this on the use of reference blanks .
+%mor:	coord|and pro:per|you~mod|will v|see prep|on det:poss|your
+	pre#n|lab prep|for det:art|the n|lab part|come-PRESP adv|up
+	v|experiment det:num|two n|question-PL prep|like pro:dem|this
+	prep|on det:art|the n|use prep|of n|reference v|blank-3S .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|23|XJCT 12|11|JCT 13|23|XJCT 14|15|QUANT 15|13|OBJ
+	16|13|JCT 17|16|POBJ 18|13|JCT 19|20|DET 20|18|POBJ 21|20|NJCT 22|21|POBJ
+	23|4|CJCT 24|4|PUNCT
+*S1:	and by the way that prelab is due when you show up at your
+	laboratory .
+%mor:	coord|and prep|by det:art|the n|way adv|that pre#n|lab cop|be&3S
+	adj|due conj|when pro:per|you v|show adv|up prep|at det:poss|your
+	n|laboratory .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|6|JCT 6|7|SUBJ 7|0|ROOT 8|7|PRED
+	9|11|LINK 10|11|SUBJ 11|7|CJCT 12|11|JCT 13|11|JCT 14|15|DET 15|13|POBJ
+	16|7|PUNCT
+*S1:	your GSI has the right to (.) let you (.) stay out_of the lab (.)
+	(un)til you complete that (.) prelab .
+%mor:	det:poss|your n:prop|GSI v|have&3S det:art|the adj|right inf|to
+	v|let&ZERO pro:per|you v|stay prep|out_of det:art|the n|lab
+	conj|until pro:per|you adj|complete comp|that pre#n|lab .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|5|XMOD 8|9|SUBJ
+	9|7|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|5|CONJ 14|13|COORD 15|14|POSTMOD
+	16|17|LINK 17|15|CMOD 18|3|PUNCT
+*S1:	okay to go on (.) <here is> [?] from an exam .
+%mor:	co|okay inf|to v|go prep|on n|here cop|be&3S prep|from det:art|a
+	n|exam .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XMOD 4|3|JCT 5|4|POBJ 6|3|XJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*S1:	same reaction mixture (.) HGCL two and potassium iodide (.) now you
+	will pick one of these three reference blank tests (.) that you
+	could use to directly test the hypothesis that chloride ions are
+	critical to (.) the reaction mixture .
+%mor:	adj|same n|reaction n|mixture n:prop|HGCL det:num|two coord|and
+	n|potassium n|iodide adv|now pro:per|you mod|will v|pick det:num|one
+	prep|of det:dem|these det:num|three n|reference adj|blank n|test-PL
+	pro:rel|that pro:per|you mod|could v|use inf|to adv|direct&dadj-LY
+	v|test det:art|the n|hypothesis det:dem|that n|chloride n|ion-PL
+	cop|be&PRES adj|critical prep|to det:art|the n|reaction n|mixture .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|APP 5|8|QUANT 6|5|CONJ 7|6|COORD
+	8|3|APP 9|8|NJCT 10|12|SUBJ 11|12|AUX 12|8|CMOD 13|19|QUANT 14|13|JCT
+	15|17|DET 16|17|QUANT 17|14|POBJ 18|19|MOD 19|12|OBJ 20|23|LINK 21|23|SUBJ
+	22|23|AUX 23|19|CMOD 24|26|INF 25|26|JCT 26|23|COMP 27|28|DET 28|26|OBJ
+	29|31|DET 30|31|MOD 31|32|SUBJ 32|28|CMOD 33|32|PRED 34|32|JCT 35|37|DET
+	36|37|MOD 37|34|POBJ 38|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so we want to look at a mixture (.) where we have removed (.) the
+	chloride ions .
+%mor:	co|so pro:sub|we v|want inf|to v|look prep|at det:art|a n|mixture
+	pro:rel|where pro:sub|we aux|have part|remove-PASTP det:art|the
+	n|chloride n|ion-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CMOD 13|15|DET 14|15|MOD 15|12|OBJ
+	16|3|PUNCT
+*S1:	(0.5) okay and (.) that means that it's not this one here because
+	you still have HGCL two in there (.) and it's not this one because
+	you have replaced and removed the mercury ions with potassium ions .
+%mor:	adj|okay coord|and comp|that v|mean-3S adv|that
+	pro:per|it~cop|be&3S neg|not det:dem|this pro:indef|one adv|here
+	conj|because pro:per|you adj|still v|have n:prop|HGCL det:num|two
+	prep|in n|there coord|and pro:per|it~cop|be&3S neg|not det:dem|this
+	pro:indef|one conj|because pro:per|you v|have re#part|place-PASTP
+	coord|and v|remove-PAST det:art|the n|mercury n|ion-PL prep|with
+	n|potassium n|ion-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|LINK 4|2|COORD 5|7|JCT 6|7|SUBJ 7|4|COMP
+	8|7|NEG 9|10|DET 10|7|PRED 11|10|NJCT 12|15|LINK 13|15|SUBJ 14|15|JCT
+	15|1|CJCT 16|22|SUBJ 17|22|QUANT 18|17|JCT 19|18|POBJ 20|17|CONJ 21|20|COORD
+	22|15|COMP 23|22|NEG 24|25|DET 25|22|PRED 26|28|LINK 27|28|SUBJ 28|15|CJCT
+	29|28|OBJ 30|28|CONJ 31|30|COORD 32|34|DET 33|34|MOD 34|31|OBJ
+	35|34|NJCT 36|37|MOD 37|35|POBJ 38|1|PUNCT
+*S1:	so the correct (.) reference blank if you're going to be designing
+	these for part one (.) would be this reaction mixture .
+%mor:	co|so det:art|the adj|correct n|reference adj|blank comp|if
+	pro:per|you~aux|be&PRES part|go-PRESP inf|to aux|be
+	part|design-PRESP det:dem|these prep|for adj|part det:num|one
+	mod|will&COND cop|be det:dem|this n|reaction n|mixture .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|POSTMOD 6|9|LINK 7|9|SUBJ
+	8|9|AUX 9|5|CMOD 10|12|INF 11|12|AUX 12|9|COMP 13|18|DET 14|18|LINK 15|16|MOD
+	16|18|SUBJ 17|18|AUX 18|12|COMP 19|21|DET 20|21|MOD 21|18|PRED
+	22|4|PUNCT
+*S1:	okay so (.) this is assuming that my hypothesis is chloride ions
+	are needed for this precipitation reaction (.) so that when I take
+	them out (.) and in fact when you do that (0.7) you still get the
+	original reaction in other words you see the same thing here an
+	orange precipitate .
+%mor:	co|okay adv|so pro:dem|this aux|be&3S part|assume-PRESP comp|that
+	det:poss|my n|hypothesis aux|be&3S n|chloride n|ion-PL aux|be&PRES
+	part|need-PASTP prep|for det:dem|this n|precipitate&dv-TION
+	n|reaction adv|so adv|that conj|when pro:sub|I v|take pro:obj|them
+	adv|out coord|and prep|in n|fact conj|when pro:per|you v|do
+	comp|that pro:per|you adj|still v|get det:art|the adj|origin&dn-AL
+	n|reaction prep|in qn|other n|word-PL pro:per|you v|see det:art|the
+	adj|same n|thing adv|here det:art|a adj|orange n|precipitate .
+%gra:	1|3|COM 2|3|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|13|LINK 7|8|DET 8|11|SUBJ
+	9|11|AUX 10|11|MOD 11|13|SUBJ 12|13|AUX 13|5|COMP 14|13|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|13|JCT 19|18|JCT 20|22|LINK 21|22|SUBJ 22|19|CPOBJ
+	23|22|OBJ 24|22|JCT 25|24|CONJ 26|25|COORD 27|26|POBJ 28|30|LINK
+	29|30|SUBJ 30|22|CJCT 31|34|LINK 32|34|SUBJ 33|34|JCT 34|30|COMP 35|37|DET
+	36|37|MOD 37|34|OBJ 38|34|JCT 39|40|QUANT 40|38|POBJ 41|42|SUBJ 42|34|CJCT
+	43|45|DET 44|45|MOD 45|42|OBJ 46|45|NJCT 47|49|DET 48|49|MOD 49|46|POBJ
+	50|5|PUNCT
+*S1:	and so my hypothesis turns out to be false (.) and this question
+	asks you well my hypothesis is false what would you observe ?
+%mor:	coord|and co|so det:poss|my n|hypothesis v|turn-3S adv|out inf|to
+	cop|be adv|false coord|and det:dem|this n|question v|ask-3S
+	pro:per|you adv|well det:poss|my n|hypothesis cop|be&3S adv|false
+	pro:int|what mod|will&COND pro:per|you v|observe ?
+%gra:	1|5|LINK 2|5|COM 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|INF 8|5|XJCT
+	9|8|JCT 10|13|LINK 11|12|DET 12|13|SUBJ 13|8|CJCT 14|18|SUBJ 15|18|JCT
+	16|17|DET 17|18|SUBJ 18|13|COMP 19|23|JCT 20|23|SUBJ 21|23|AUX 22|23|SUBJ
+	23|18|CPRED 24|5|PUNCT
+*S1:	well you should still have the reaction occurring (.) because those
+	particular ions you just removed are not the critical species for
+	that precipitation reaction to (.) occur .
+%mor:	n|well pro:per|you mod|should adj|still v|have det:art|the
+	n|reaction part|occur-PRESP conj|because det:dem|those
+	adj|particular n|ion-PL pro:per|you adv|just v|remove-PAST
+	aux|be&PRES neg|not det:art|the adj|critical n|species prep|for
+	det:dem|that n|precipitate&dv-TION n|reaction inf|to v|occur .
+%gra:	1|9|SUBJ 2|5|SUBJ 3|5|AUX 4|5|JCT 5|1|CMOD 6|7|DET 7|5|OBJ 8|7|XMOD
+	9|20|LINK 10|12|DET 11|12|MOD 12|20|SUBJ 13|15|SUBJ 14|15|JCT 15|12|CMOD
+	16|20|AUX 17|16|NEG 18|20|DET 19|20|MOD 20|0|INCROOT 21|20|NJCT 22|24|DET
+	23|24|MOD 24|21|POBJ 25|26|INF 26|20|XJCT 27|20|PUNCT
+*S1:	very important concepts there will be (.) some false reference
+	blanks that will be designed (.) by you .
+%mor:	adv|very adj|important n|concept-PL adv|there mod|will cop|be
+	pro:indef|some adj|false n|reference v|blank-3S comp|that mod|will
+	aux|be part|design-PASTP prep|by pro:per|you .
+%gra:	1|2|JCT 2|3|MOD 3|6|SUBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PRED 8|9|MOD
+	9|10|SUBJ 10|7|CMOD 11|10|OBJ 12|14|AUX 13|14|AUX 14|11|COMP 15|14|JCT
+	16|15|POBJ 17|6|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	what is a false reference blank ?
+%mor:	pro:int|what cop|be&3S det:art|a adj|false n|reference adj|blank ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|POSTMOD 7|2|PUNCT
+*S1:	okay that is any reference blank that [/] that is incorrectly
+	designed and it happens in research all the time that's why they
+	make the wrong conclusion about the impact of decaffeinated coffee
+	on our lives (.) or the impact of aspirin versus &-uh Bufferin .
+%mor:	adj|okay adv|that aux|be&3S qn|any n|reference adj|blank adv|that
+	aux|be&3S in#adv|correct&dadj-LY v|design-PAST coord|and pro:per|it
+	v|happen-3S adv|in n|research adv|all det:art|the n|time
+	pro:rel|that~cop|be&3S pro:int|why pro:sub|they v|make det:art|the
+	n|wrong n|conclusion prep|about det:art|the n|impact prep|of
+	de#part|caffeinate-PASTP n|coffee prep|on det:poss|our n|life-PL
+	coord|or det:art|the n|impact prep|of n|aspirin prep|versus
+	n:prop|Bufferin .
+%gra:	1|5|MOD 2|5|JCT 3|5|AUX 4|5|QUANT 5|10|SUBJ 6|10|JCT 7|10|SUBJ 8|10|AUX
+	9|10|SUBJ 10|0|ROOT 11|13|LINK 12|13|SUBJ 13|10|CJCT 14|13|JCT
+	15|18|MOD 16|18|JCT 17|18|DET 18|14|POBJ 19|20|LINK 20|18|CMOD 21|23|LINK
+	22|23|SUBJ 23|20|CPRED 24|26|DET 25|26|MOD 26|23|OBJ 27|23|JCT 28|29|DET
+	29|27|POBJ 30|29|NJCT 31|30|POBJ 32|31|OBJ 33|32|NJCT 34|35|DET 35|33|POBJ
+	36|32|CONJ 37|38|DET 38|36|COORD 39|38|NJCT 40|39|POBJ 41|38|NJCT
+	42|41|POBJ 43|10|PUNCT
+*S1:	because generally they have a test that's incorrectly designed [?]
+	and they leave some variables in it that skew the outcome .
+%mor:	conj|because adv|general&dadj-LY pro:sub|they v|have det:art|a
+	n|test pro:rel|that~aux|be&3S in#adv|correct&dadj-LY
+	part|design-PASTP coord|and pro:sub|they v|leave qn|some
+	n|variable-PL prep|in pro:per|it pro:rel|that v|skew det:art|the
+	n|outcome .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|LINK 8|10|AUX
+	9|10|AUX 10|6|CMOD 11|13|LINK 12|13|SUBJ 13|10|CJCT 14|15|QUANT 15|13|OBJ
+	16|13|JCT 17|16|POBJ 18|19|LINK 19|17|CMOD 20|21|DET 21|19|OBJ
+	22|4|PUNCT
+*S1:	if you are testing precipitation reactions you have to again use a
+	reference blank that includes a good testing species one that
+	doesn't participate in precipitation reactions .
+%mor:	conj|if pro:per|you aux|be&PRES part|test-PRESP
+	n|precipitate&dv-TION n|reaction-PL pro:per|you v|have inf|to
+	adv|again v|use det:art|a n|reference adj|blank adv|that
+	v|include-3S det:art|a adj|good n:gerund|test-PRESP n|species
+	det:num|one adv|that mod|do&3S~neg|not v|participate prep|in
+	n|precipitate&dv-TION n|reaction-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|8|CJCT 5|6|MOD 6|4|OBJ 7|8|SUBJ 8|0|ROOT
+	9|11|INF 10|11|JCT 11|8|COMP 12|13|DET 13|11|OBJ 14|13|POSTMOD 15|16|JCT
+	16|11|COMP 17|20|DET 18|20|MOD 19|20|MOD 20|16|OBJ 21|25|SUBJ 22|25|JCT
+	23|25|AUX 24|23|NEG 25|16|CJCT 26|25|JCT 27|28|MOD 28|26|POBJ 29|8|PUNCT
+*S1:	if you're trying to see what sees &-uh &-uh causes a cancerous
+	tumor to grow (.) and you're taking some component of that molecular
+	substance of the tumor and altering it you can't put something into
+	it that's gonna contribute to the reactions (.) okay ?
+%mor:	comp|if pro:per|you~aux|be&PRES part|try-PRESP inf|to v|see
+	pro:int|what v|see-3S v|cause-3S det:art|a adj|cancerous n|tumor
+	inf|to v|grow coord|and pro:per|you~aux|be&PRES part|take-PRESP
+	qn|some n|component prep|of det:dem|that adj|molecular n|substance
+	prep|of det:art|the n|tumor coord|and part|alter-PRESP pro:per|it
+	pro:per|you mod|can~neg|not v|put&ZERO pro:indef|something prep|into
+	pro:per|it pro:rel|that~aux|be&3S part|go-PRESP~inf|to v|contribute
+	prep|to det:art|the n|reaction-PL co|okay ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|6|COMP
+	9|8|COMP 10|12|DET 11|12|MOD 12|9|OBJ 13|14|INF 14|12|XMOD 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|14|COMP 19|20|QUANT 20|18|OBJ 21|20|NJCT 22|24|DET
+	23|24|MOD 24|21|POBJ 25|24|NJCT 26|27|DET 27|25|POBJ 28|34|LINK
+	29|34|XJCT 30|29|OBJ 31|34|SUBJ 32|34|AUX 33|32|NEG 34|18|CJCT 35|34|OBJ
+	36|34|JCT 37|36|POBJ 38|40|LINK 39|40|AUX 40|37|CMOD 41|42|INF 42|40|COMP
+	43|42|JCT 44|45|DET 45|43|POBJ 46|40|COM 47|4|PUNCT
+*S1:	it hasta be something you know is a solid little species in there
+	that's going to act in a controlled manner and not (.) produce other
+	reactions in other words it's not going to cause that cancerous
+	tumor to grow you absolutely know (.) okay ?
+%mor:	pro:per|it mod|have&3S~inf|to cop|be pro:indef|something
+	pro:per|you v|know aux|be&3S det:art|a n|solid adj|little n|species
+	prep|in n|there pro:rel|that~aux|be&3S part|go-PRESP inf|to v|act
+	prep|in det:art|a part|control-PASTP n|manner coord|and neg|not
+	v|produce qn|other n|reaction-PL prep|in qn|other n|word-PL
+	pro:per|it~aux|be&3S neg|not part|go-PRESP inf|to v|cause
+	det:dem|that adj|cancerous n|tumor inf|to v|grow pro:per|you
+	adv|absolute&dadj-LY v|know co|okay ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|PRED 6|7|SUBJ 7|5|CMOD 8|12|AUX
+	9|10|DET 10|12|SUBJ 11|12|MOD 12|26|SUBJ 13|12|NJCT 14|13|POBJ 15|17|LINK
+	16|17|AUX 17|14|CMOD 18|19|INF 19|17|COMP 20|19|JCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|12|CONJ 25|24|COORD 26|7|COMP 27|28|QUANT 28|26|OBJ
+	29|26|JCT 30|31|QUANT 31|29|POBJ 32|35|SUBJ 33|35|AUX 34|33|NEG 35|26|XJCT
+	36|37|INF 37|35|COMP 38|40|DET 39|40|MOD 40|37|OBJ 41|42|INF 42|40|XMOD
+	43|42|OBJ 44|42|JCT 45|42|JCT 46|45|OBJ 47|4|PUNCT
+*S1:	so &-uh a incorrectly designed blank test is going to (.) get
+	involved and start producing other side reactions (.) okay ?
+%mor:	co|so det:art|a in#adv|correct&dadj-LY part|design-PASTP adj|blank
+	n|test aux|be&3S part|go-PRESP inf|to aux|get part|involve-PASTP
+	coord|and v|start part|produce-PRESP qn|other adj|side n|reaction-PL
+	co|okay ?
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|XMOD 5|6|MOD 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|11|INF 10|11|AUX 11|8|COMP 12|11|CONJ 13|12|COORD 14|13|COMP
+	15|17|QUANT 16|17|MOD 17|14|OBJ 18|17|COM 19|3|PUNCT
+*S1:	a good reference blank test is going to &produ produce either no
+	reaction (.) okay because it (.) doesn't get involved in
+	precipitation reactions (.) or (.) you're going to get the same
+	reaction that you originally saw in our case an orange precipitate .
+%mor:	det:art|a adj|good n|reference adj|blank n|test aux|be&3S
+	part|go-PRESP inf|to v|produce adv|either qn|no n|reaction adj|okay
+	conj|because pro:per|it mod|do&3S~neg|not aux|get part|involve-PASTP
+	adv|in n|precipitate&dv-TION n|reaction-PL coord|or
+	pro:per|you~aux|be&PRES part|go-PRESP inf|to v|get det:art|the
+	adj|same n|reaction pro:rel|that pro:per|you adv|origin&dadj-AL-LY
+	n|saw prep|in det:poss|our n|case det:art|a adj|orange n|precipitate
+	.
+%gra:	1|3|DET 2|3|MOD 3|7|JCT 4|5|MOD 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|JCT 11|12|QUANT 12|10|POBJ 13|12|POSTMOD 14|7|PUNCT 15|19|SUBJ
+	16|19|AUX 17|16|NEG 18|19|AUX 19|14|ROOT 20|19|JCT 21|22|MOD 22|20|POBJ
+	23|26|LINK 24|26|SUBJ 25|26|AUX 26|22|CJCT 27|28|INF 28|26|COMP
+	29|31|DET 30|31|MOD 31|28|OBJ 32|35|LINK 33|35|SUBJ 34|35|JCT 35|31|CMOD
+	36|35|NJCT 37|38|DET 38|36|POBJ 39|41|DET 40|41|MOD 41|35|APP 42|19|PUNCT
+*S1:	but if you start seeing something new you've got a false reference
+	blank test .
+%mor:	conj|but conj|if pro:per|you v|start part|see-PRESP
+	pro:indef|something adj|new pro:per|you~aux|have part|get&PASTP
+	det:art|a adj|false n|reference adj|blank n|test .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|4|COMP 6|5|OBJ 7|6|POSTMOD
+	8|10|SUBJ 9|10|AUX 10|7|CMOD 11|13|DET 12|13|MOD 13|15|MOD 14|15|MOD
+	15|10|OBJ 16|1|PUNCT
+*S1:	we're going to show you an example of that &-uh this is instead of
+	(.) mercury chloride it's copper chloride .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|show pro:per|you
+	det:art|a n|example prep|of adv|that pro:dem|this cop|be&3S
+	adv|instead prep|of n|mercury n|chloride pro:per|it~cop|be&3S
+	n|copper n|chloride .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|12|SUBJ 7|8|DET 8|12|SUBJ
+	9|8|NJCT 10|9|POBJ 11|12|SUBJ 12|5|COMP 13|18|JCT 14|18|JCT 15|16|MOD
+	16|14|POBJ 17|18|SUBJ 18|12|PRED 19|20|MOD 20|18|PRED 21|3|PUNCT
+*S1:	we're going to add potassium iodide to it .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|add n|potassium
+	n|iodide prep|to pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|MOD 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|3|PUNCT
+*S1:	so we've replaced the mercury (.) with copper (.) and what we get
+	+//.
+%mor:	adv|so pro:sub|we~aux|have re#part|place-PASTP det:art|the
+	n|mercury prep|with n|copper coord|and pro:int|what pro:sub|we v|get
+	+//.
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|8|CONJ 10|12|LINK 11|12|SUBJ 12|9|COORD 13|4|PUNCT
+*S1:	just let it stand there's <it's fine> [/] it's fine <like that> [?]
+	.
+%mor:	adv|just v|let&ZERO pro:per|it v|stand pro:exist|there~cop|be&3S
+	pro:per|it~cop|be&3S adv|fine prep|like pro:dem|that .
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|SUBJ 6|4|COMP 7|8|SUBJ 8|6|PRED
+	9|8|JCT 10|8|JCT 11|10|POBJ 12|2|PUNCT
+*S1:	what you get is a slow reaction you'll get this murky muddy looking
+	stuff that looks quite different than our beautiful orange &-uh
+	precipitate here .
+%mor:	pro:int|what pro:per|you v|get cop|be&3S det:art|a adj|slow
+	n|reaction pro:per|you~mod|will v|get det:dem|this adj|murky
+	adj|mud&dn-Y part|look-PRESP n|stuff adv|that v|look-3S adv|quite
+	adj|different prep|than det:poss|our adj|beautiful adj|orange
+	n|precipitate adv|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|7|DET 6|7|MOD 7|4|PRED 8|10|SUBJ
+	9|10|AUX 10|7|CMOD 11|15|DET 12|15|MOD 13|15|MOD 14|15|MOD 15|10|OBJ
+	16|17|JCT 17|10|CJCT 18|19|JCT 19|17|COMP 20|19|JCT 21|24|DET 22|24|MOD
+	23|24|MOD 24|20|POBJ 25|24|NJCT 26|3|PUNCT
+*S1:	so what we've done by replacing the mercury ion with copper ion (.)
+	is simply put in a species that's producing all kinds of other
+	reactions .
+%mor:	adv|so pro:int|what pro:sub|we~aux|have part|do&PASTP prep|by
+	re#n:gerund|place-PRESP det:art|the n|mercury n|ion prep|with
+	n|copper n|ion aux|be&3S adv|simple&dadj-LY part|put&PASTP prep|in
+	det:art|a n|species pro:rel|that~aux|be&3S part|produce-PRESP qn|all
+	n|kind-PL prep|of qn|other n|reaction-PL .
+%gra:	1|5|JCT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|16|JCT 8|10|DET
+	9|10|MOD 10|16|SUBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|16|AUX 15|16|JCT
+	16|6|POBJ 17|16|JCT 18|19|DET 19|17|POBJ 20|22|LINK 21|22|AUX 22|19|CMOD
+	23|24|QUANT 24|22|OBJ 25|24|NJCT 26|27|QUANT 27|25|POBJ 28|5|PUNCT
+*S1:	okay (.) what we have to see is either no reaction or the same
+	orange (.) colored precipitate .
+%mor:	co|okay pro:int|what pro:sub|we v|have inf|to v|see cop|be&3S
+	adv|either qn|no n|reaction coord|or det:art|the adj|same n|orange
+	v|color-PAST n|precipitate .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|COMP 8|10|JCT
+	9|10|QUANT 10|7|PRED 11|15|LINK 12|14|DET 13|14|MOD 14|15|SUBJ 15|10|CMOD
+	16|15|OBJ 17|4|PUNCT
+*S1:	students mess this up on exams (.) all the time (.) and if it
+	happens in lab when you're running your reference blank tests (.)
+	all kinds of reactions (.) you've got to see no reaction or the same
+	outcome of the initial (.) reaction that you are studying .
+%mor:	n|student-PL v|mess det:dem|this adv|up prep|on n|exam-PL adv|all
+	det:art|the n|time coord|and conj|if pro:per|it v|happen-3S adv|in
+	n|lab pro:rel|when pro:per|you~aux|be&PRES part|run-PRESP
+	det:poss|your n|reference adj|blank n|test-PL adv|all n|kind-PL
+	prep|of n|reaction-PL pro:per|you~aux|have part|get&PASTP inf|to
+	v|see qn|no n|reaction coord|or det:art|the adj|same n|outcome
+	prep|of det:art|the adj|initial n|reaction pro:rel|that pro:per|you
+	aux|be&PRES part|study-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|JCT 5|2|JCT 6|5|POBJ 7|9|JCT 8|9|DET
+	9|2|OBJ 10|9|CONJ 11|13|LINK 12|13|SUBJ 13|10|COORD 14|13|JCT 15|14|POBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|15|CMOD 20|21|DET 21|19|OBJ 22|23|MOD
+	23|21|NJCT 24|25|JCT 25|23|POBJ 26|25|NJCT 27|26|POBJ 28|30|SUBJ 29|30|AUX
+	30|27|CMOD 31|32|INF 32|30|COMP 33|34|QUANT 34|32|OBJ 35|34|CONJ
+	36|38|DET 37|38|MOD 38|35|COORD 39|38|NJCT 40|42|DET 41|42|MOD 42|39|POBJ
+	43|46|LINK 44|46|SUBJ 45|46|AUX 46|42|CMOD 47|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and &-uh +...
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&-um you will see on your handout question two (.) you should try
+	that on your own it involves false reference blank tests .
+%mor:	pro:per|you mod|will v|see prep|on det:poss|your n|+v|hand+prep|out
+	n|question det:num|two pro:per|you mod|should v|try pro:dem|that
+	prep|on det:poss|your adj|own pro:per|it v|involve-3S adj|false
+	n|reference adj|blank n|test-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|11|CJCT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|9|QUANT
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|11|OBJ 13|11|JCT 14|15|DET 15|13|POBJ
+	16|17|SUBJ 17|11|CJCT 18|19|MOD 19|21|MOD 20|21|MOD 21|17|OBJ 22|11|PUNCT
+*S1:	try it on your own (.) and then when you're ready (.) go up to the
+	web (.) the Chem one twenty five site (.) go under lecture handouts
+	(.) and you'll find the key (.) to question two posted (.) and you
+	can check your reasoning .
+%mor:	v|try pro:per|it prep|on det:poss|your adj|own coord|and
+	adv:tem|then conj|when pro:per|you~cop|be&PRES adj|ready v|go adv|up
+	prep|to det:art|the n|web det:art|the n:prop|Chem det:num|one
+	det:num|twenty det:num|five n|site v|go prep|under n|lecture
+	n|+v|hand+prep|out-PL coord|and pro:per|you~mod|will v|find
+	det:art|the n|key prep|to n|question det:num|two v|post-PAST
+	coord|and pro:per|you mod|can v|check det:poss|your
+	part|reason-PRESP .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|CONJ 7|12|JCT 8|10|LINK
+	9|10|SUBJ 10|12|CJCT 11|10|PRED 12|6|COORD 13|12|JCT 14|12|JCT 15|16|DET
+	16|14|POBJ 17|19|DET 18|19|MOD 19|12|OBJ 20|21|DATE 21|22|QUANT
+	22|23|SUBJ 23|19|COMP 24|23|JCT 25|26|MOD 26|24|POBJ 27|30|LINK 28|30|SUBJ
+	29|30|AUX 30|23|CJCT 31|32|DET 32|30|OBJ 33|32|NJCT 34|33|POBJ 35|36|QUANT
+	36|30|CJCT 37|40|LINK 38|40|SUBJ 39|40|AUX 40|36|CJCT 41|42|DET 42|40|OBJ
+	43|1|PUNCT
+*S1:	&-uh and that question is from &-uh old exams .
+%mor:	coord|and det:dem|that n|question cop|be&3S prep|from adj|old
+	n|exam-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+*S1:	when you furthermore when you're analyzing these reactions you can
+	compare the properties of the precipitate with samples of known
+	identity (.) to determine what the precipitate is and verify what it
+	is .
+%mor:	conj|when pro:per|you adv|furthermore conj|when
+	pro:per|you~aux|be&PRES part|analyze-PRESP det:dem|these
+	n|reaction-PL pro:per|you mod|can v|compare det:art|the
+	n|property-PL prep|of det:art|the n|precipitate prep|with
+	n|sample-PL prep|of part|know&PASTP n|identity inf|to v|determine
+	pro:int|what det:art|the n|precipitate cop|be&3S coord|and v|verify
+	pro:int|what pro:per|it cop|be&3S .
+%gra:	1|12|LINK 2|12|SUBJ 3|2|JCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|12|CJCT 8|9|DET
+	9|7|OBJ 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|14|DET 14|12|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|12|JCT 19|18|POBJ 20|19|NJCT 21|22|MOD 22|20|POBJ
+	23|24|INF 24|12|XJCT 25|28|LINK 26|27|DET 27|28|SUBJ 28|24|COMP
+	29|28|CONJ 30|29|COORD 31|33|LINK 32|33|SUBJ 33|30|COMP 34|12|PUNCT
+*S1:	one of things that is very useful (.) you will find in our
+	instrument room (.) and sometimes in the labs (.) CRC handbook .
+%mor:	det:num|one prep|of n|thing-PL pro:rel|that cop|be&3S adv|very
+	adj|use&dn-FULL pro:per|you mod|will v|find prep|in det:poss|our
+	n|instrument n|room coord|and adv|sometimes prep|in det:art|the
+	n|lab-PL n:prop|CRC n|handbook .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|5|LINK 5|3|CMOD 6|7|JCT 7|5|PRED
+	8|10|SUBJ 9|10|AUX 10|5|CPRED 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|10|CONJ 16|15|COORD 17|16|JCT 18|19|DET 19|21|MOD 20|21|MOD 21|17|POBJ
+	22|1|PUNCT
+*S1:	there're lots_of handbooks where you can look up the physical
+	constants (.) of inorganic compounds all these salts are inorganic
+	compounds .
+%mor:	pro:exist|there~cop|be&PRES qn|lots_of n|handbook-PL pro:rel|where
+	pro:per|you mod|can co|look prep|up det:art|the adj|physical
+	n|constant-PL prep|of in#adj|organic n|compound-PL adv|all
+	det:dem|these n|salt-PL cop|be&PRES in#adj|organic n|compound-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|18|LINK 6|18|SUBJ 7|18|AUX
+	8|18|COM 9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|12|NJCT 14|15|MOD
+	15|13|POBJ 16|18|JCT 17|18|DET 18|19|SUBJ 19|4|CMOD 20|21|MOD 21|19|PRED
+	22|2|PUNCT
+*S1:	you will find an alphabetical listing (.) for example this is a
+	listing for mercury compounds &-uh starting with where the anion is
+	with F (.) and here's your iodides (.) right here .
+%mor:	pro:per|you mod|will v|find det:art|a adj|alphabetic-AL
+	part|list-PRESP prep|for ex#adj|ample pro:dem|this cop|be&3S
+	det:art|a n:gerund|list-PRESP prep|for n|mercury n|compound-PL
+	part|start-PRESP prep|with pro:int|where det:art|the n|anion
+	cop|be&3S prep|with n:prop|F coord|and pro:exist|here~cop|be&3S
+	det:poss|your n|iodide-PL adv|right adv|here .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|XMOD 7|6|JCT 8|7|POBJ
+	9|10|SUBJ 10|5|CMOD 11|12|DET 12|10|PRED 13|12|JCT 14|15|MOD 15|13|POBJ
+	16|12|XJCT 17|16|JCT 18|21|LINK 19|20|DET 20|21|SUBJ 21|26|CSUBJ 22|21|JCT
+	23|22|POBJ 24|23|CONJ 25|24|COORD 26|17|CPOBJ 27|28|DET 28|26|PRED
+	29|30|JCT 30|28|NJCT 31|3|PUNCT
+*S1:	I've xxx precipitate of mercury iodide .
+%mor:	pro:sub|I~aux|have n|precipitate prep|of n|mercury n|iodide .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|NJCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*S1:	note that there are three different forms of the precipitate of
+	mercury iodide and they included an alpha and a beta two form .
+%mor:	v|note comp|that adv|there cop|be&PRES det:num|three adj|different
+	n|form-PL prep|of det:art|the n|precipitate prep|of n|mercury
+	n|iodide coord|and pro:sub|they v|include-PAST det:art|a n|alpha
+	coord|and det:art|a n|beta det:num|two n|form .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|7|QUANT 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|16|LINK
+	15|16|SUBJ 16|1|CJCT 17|18|DET 18|16|OBJ 19|18|CONJ 20|21|DET 21|23|MOD
+	22|23|QUANT 23|19|COORD 24|1|PUNCT
+*S1:	and you can find out what the color of these forms are .
+%mor:	coord|and pro:per|you mod|can v|find adv|out pro:int|what
+	det:art|the n|color prep|of det:dem|these n|form-PL cop|be&PRES .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|12|LINK 7|8|DET 8|12|SUBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|4|COMP 13|4|PUNCT
+*S1:	for example (.) mercury &-uh HG two i@l two is yellow .
+%mor:	prep|for ex#adj|ample n|mercury n:prop|HG det:num|two n:let|i
+	det:num|two cop|be&3S adj|yellow .
+%gra:	1|0|INCROOT 2|1|POBJ 3|5|MOD 4|5|MOD 5|6|QUANT 6|2|COORD 7|8|QUANT
+	8|6|COMP 9|8|PRED 10|1|PUNCT
+*S1:	and we have an HGI two which is red (.) and another one here that's
+	yellow .
+%mor:	coord|and pro:sub|we v|have det:art|a n:prop|HGI det:num|two
+	pro:rel|which cop|be&3S adj|red coord|and qn|another pro:indef|one
+	adv|here pro:dem|that~cop|be&3S adj|yellow .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|QUANT 7|8|LINK 8|5|CMOD
+	9|8|PRED 10|15|LINK 11|12|QUANT 12|15|SUBJ 13|15|JCT 14|15|SUBJ
+	15|8|CJCT 16|15|PRED 17|3|PUNCT
+*S1:	and it'll give you things like density (.) boiling point (.)
+	solubility in different solvents .
+%mor:	coord|and pro:per|it~mod|will v|give pro:per|you n|thing-PL
+	prep|like n|density part|boil-PRESP n|point n|soluble&dadj-ITY
+	prep|in adj|different n|solvent-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ2 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|6|XMOD 10|11|MOD 11|9|OBJ 12|9|JCT 13|14|MOD 14|12|POBJ 15|4|PUNCT
+*S1:	so as the course goes on you'll be using this handbook to reverify
+	what you're producing in your reactions .
+%mor:	adv|so prep|as det:art|the n|course v|go-3S prep|on
+	pro:per|you~mod|will aux|be part|use-PRESP det:dem|this n|handbook
+	inf|to re#v|verify pro:int|what pro:per|you~aux|be&PRES
+	part|produce-PRESP prep|in det:poss|your n|reaction-PL .
+%gra:	1|2|JCT 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|10|LINK 7|10|SUBJ 8|10|AUX
+	9|10|AUX 10|5|CJCT 11|12|DET 12|10|OBJ 13|14|INF 14|12|XMOD 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|14|COMP 19|18|JCT 20|21|DET 21|19|POBJ
+	22|5|PUNCT
+*S1:	okay part two (0.9) chemists use models all the time to make
+	predictions (.) and so in that beaker (.) drawing is an artist's
+	rendition of what precipitation is all about .
+%mor:	co|okay n|part det:num|two n|chemist-PL n|use v|model-3S qn|all
+	det:art|the n|time inf|to v|make n|prediction-PL coord|and adv|so
+	prep|in det:dem|that n|beaker n|drawing cop|be&3S det:art|a
+	adj|art&dn-IST-POSS n|rendition prep|of pro:int|what
+	n|precipitate&dv-TION cop|be&3S adv|all adv|about .
+%gra:	1|2|COM 2|5|MOD 3|4|QUANT 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|9|QUANT 8|9|DET
+	9|6|OBJ 10|11|INF 11|9|XMOD 12|11|OBJ 13|11|CONJ 14|15|JCT 15|13|COORD
+	16|18|DET 17|18|MOD 18|15|POBJ 19|15|ENUM 20|22|DET 21|22|MOD 22|19|PRED
+	23|26|JCT 24|25|DET 25|26|SUBJ 26|22|CMOD 27|28|JCT 28|26|JCT 29|6|PUNCT
+*S1:	and an attempt to explain how it can be (.) that you can put a salt
+	into water (.) and the salt that's so tightly bound together (.)
+	goes right into solution and apparently liquefies (.) yet it will
+	not do so if you put it on a stove and give it a big source of heat
+	.
+%mor:	coord|and det:art|a n|attempt inf|to v|explain pro:rel|how
+	pro:per|it mod|can cop|be comp|that pro:per|you mod|can v|put&ZERO
+	det:art|a n|salt prep|into n|water coord|and det:art|the n|salt
+	pro:rel|that~cop|be&3S adv|so adv|tight&dadj-LY n|bound adv|together
+	v|go-3S adv|right prep|into n|solution coord|and
+	adv|apparent&dadj-LY v|liquefy-3S adv|yet pro:per|it mod|will
+	neg|not v|do adv|so conj|if pro:per|you v|put&ZERO pro:per|it
+	prep|on det:art|a n|stove coord|and v|give pro:per|it det:art|a
+	adj|big n|source prep|of n|heat .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|5|INF 5|3|XMOD 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CPRED 14|15|DET 15|13|OBJ
+	16|13|JCT 17|16|POBJ 18|27|LINK 19|20|DET 20|27|SUBJ 21|22|LINK
+	22|20|CMOD 23|24|JCT 24|25|JCT 25|22|PRED 26|27|JCT 27|13|CJCT 28|29|JCT
+	29|27|JCT 30|29|POBJ 31|27|CONJ 32|33|JCT 33|31|COORD 34|33|JCT 35|38|SUBJ
+	36|38|AUX 37|36|NEG 38|33|COMP 39|38|JCT 40|42|LINK 41|42|SUBJ 42|38|CJCT
+	43|42|OBJ 44|42|JCT 45|46|DET 46|44|POBJ 47|42|CONJ 48|47|COORD 49|48|OBJ
+	50|52|DET 51|52|MOD 52|49|OBJ 53|52|NJCT 54|53|POBJ 55|3|PUNCT
+*S1:	okay and so in the diagram here (.) you have a salt crystal at the
+	bottom (.) showing all these anions and cations that are adhering
+	together (.) and the water molecule (.) which is also charged and
+	has a negative end by the oxygen part of the water and two positive
+	poles those on hydrogen ends of the water molecule (.) approaches it
+	so that the negative end of the water approaches a cation .
+%mor:	adj|okay coord|and co|so prep|in det:art|the n|diagram adv|here
+	pro:per|you v|have det:art|a n|salt n|crystal prep|at det:art|the
+	n|bottom part|show-PRESP adv|all det:dem|these n|anion-PL coord|and
+	n|cation-PL pro:rel|that aux|be&PRES part|adhere-PRESP adv|together
+	coord|and det:art|the n|water n|molecule pro:rel|which aux|be&3S
+	adv|also part|charge-PASTP coord|and v|have&3S det:art|a
+	adj|negative n|end prep|by det:art|the n|oxygen n|part prep|of
+	det:art|the n|water coord|and det:num|two adj|positive n|pole-PL
+	pro:dem|those prep|on n|hydrogen n|end-PL prep|of det:art|the
+	n|water n|molecule v|approach-3S pro:per|it adv|so comp|that
+	det:art|the adj|negative n|end prep|of det:art|the n|water
+	v|approach-3S det:art|a n|cation .
+%gra:	1|0|INCROOT 2|9|LINK 3|9|COM 4|9|JCT 5|6|DET 6|4|POBJ 7|9|JCT 8|9|SUBJ
+	9|1|CJCT 10|12|DET 11|12|MOD 12|9|OBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|12|XMOD 17|19|JCT 18|19|DET 19|16|OBJ 20|19|CONJ 21|20|COORD 22|24|LINK
+	23|24|AUX 24|19|CMOD 25|24|JCT 26|24|CONJ 27|29|DET 28|29|MOD
+	29|26|COORD 30|33|LINK 31|33|AUX 32|33|JCT 33|29|CMOD 34|33|CONJ 35|34|COORD
+	36|38|DET 37|38|MOD 38|35|OBJ 39|35|JCT 40|42|DET 41|42|MOD 42|39|POBJ
+	43|42|NJCT 44|45|DET 45|43|POBJ 46|58|LINK 47|49|QUANT 48|49|MOD 49|58|JCT
+	50|58|SUBJ 51|50|JCT 52|53|MOD 53|51|POBJ 54|53|NJCT 55|57|DET 56|57|MOD
+	57|54|POBJ 58|42|CJCT 59|58|OBJ 60|68|JCT 61|68|LINK 62|64|DET 63|64|MOD
+	64|68|SUBJ 65|64|NJCT 66|67|DET 67|65|POBJ 68|58|COMP 69|70|DET
+	70|68|OBJ 71|1|PUNCT
+*S1:	and what it effectively does is neutralize the charge of the cation
+	.
+%mor:	coord|and pro:int|what pro:per|it adv|effective&dadj-LY mod|do&3S
+	aux|be&3S v|neutral&dadj-IZE det:art|the n|charge prep|of
+	det:art|the n|cation .
+%gra:	1|7|LINK 2|7|LINK 3|7|SUBJ 4|7|JCT 5|7|AUX 6|7|AUX 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|7|PUNCT
+*S1:	as the charge is neutralized that ion can slip away from the
+	crystal (.) then go into solution (.) once it's in solution the ion
+	(.) then gets surrounded by water molecules .
+%mor:	prep|as det:art|the n|charge aux|be&3S part|neutral-IZE-PASTP
+	det:dem|that n|ion mod|can v|slip adv|away prep|from det:art|the
+	n|crystal adv:tem|then v|go prep|into n|solution conj|once
+	pro:per|it~cop|be&3S prep|in n|solution det:art|the n|ion
+	adv:tem|then v|get-3S v|surround-PAST prep|by n|water n|molecule-PL
+	.
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|9|CJCT 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|9|JCT 12|13|DET 13|11|POBJ 14|15|JCT 15|9|CJCT
+	16|15|JCT 17|16|POBJ 18|20|LINK 19|20|SUBJ 20|15|CJCT 21|20|JCT 22|21|POBJ
+	23|24|DET 24|20|PRED 25|26|JCT 26|24|CMOD 27|26|COMP 28|27|JCT 29|30|MOD
+	30|28|POBJ 31|9|PUNCT
+*S1:	once that happens the ion charge is insulated from any other
+	surrounding ion (.) charge .
+%mor:	adv|once pro:rel|that v|happen-3S det:art|the n|ion n|charge
+	aux|be&3S part|insulate-PASTP prep|from qn|any qn|other
+	n:gerund|surround-PRESP n|ion n|charge .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|6|DET 5|6|MOD 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|8|JCT 10|11|QUANT 11|14|QUANT 12|14|MOD 13|14|MOD 14|9|POBJ
+	15|1|PUNCT
+*S1:	those (.) that process has terms you get more terms (.) here (.)
+	there's lots_o(f) terms .
+%mor:	pro:dem|those det:dem|that n|process aux|have&3S v|term-3S
+	pro:per|you v|get qn|more n|term-PL adv|here
+	pro:exist|there~cop|be&3S qn|lots_of n|term-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|9|QUANT
+	9|7|OBJ 10|12|JCT 11|12|SUBJ 12|7|COMP 13|14|QUANT 14|12|PRED 15|5|PUNCT
+*S1:	the process whereby (.) the (.) salt crystal goes into solution is
+	called dissolution (.) and so here we say NACL solid (.) goes to NA
+	plus and we put a cube (.) that means surrounded by water molecules
+	(.) plus CL minus a cube surrounded by water molecules .
+%mor:	det:art|the n|process pro:rel|whereby det:art|the n|salt n|crystal
+	v|go-3S prep|into n|solution aux|be&3S part|call-PASTP n|dissolution
+	coord|and adv|so adv|here pro:sub|we v|say n:prop|NACL adj|solid
+	v|go-3S prep|to n:prop|NA adv|plus coord|and pro:sub|we v|put&ZERO
+	det:art|a n|cube pro:rel|that v|mean-3S v|surround-PAST prep|by
+	n|water n|molecule-PL adv|plus n:prop|CL n|minus det:art|a n|cube
+	v|surround-PAST prep|by n|water n|molecule-PL .
+%gra:	1|2|DET 2|11|SUBJ 3|7|LINK 4|6|DET 5|6|MOD 6|7|SUBJ 7|2|CMOD 8|7|JCT
+	9|8|POBJ 10|11|AUX 11|0|ROOT 12|11|OBJ 13|11|CONJ 14|15|JCT 15|17|JCT
+	16|17|SUBJ 17|13|COORD 18|17|OBJ 19|20|JCT 20|17|OBJ 21|20|JCT 22|21|POBJ
+	23|20|JCT 24|26|LINK 25|26|SUBJ 26|20|CJCT 27|28|DET 28|26|OBJ 29|30|LINK
+	30|28|CMOD 31|30|OBJ 32|31|JCT 33|34|MOD 34|32|POBJ 35|40|JCT 36|37|MOD
+	37|40|JCT 38|39|DET 39|40|SUBJ 40|31|CJCT 41|40|JCT 42|43|MOD 43|41|POBJ
+	44|11|PUNCT
+*S1:	that surrounding of the ion by water molecules also (.) is
+	specifically called hydration .
+%mor:	comp|that part|surround-PRESP prep|of det:art|the n|ion prep|by
+	n|water n|molecule-PL adv|also cop|be&3S adv|specific&dadj-AL-LY
+	v|call-PAST n|hydrate&dv-TION .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|8|MOD 8|6|POBJ
+	9|10|JCT 10|2|CJCT 11|12|JCT 12|10|CPRED 13|12|OBJ 14|2|PUNCT
+*S1:	so it's the binding of the species to one or more water &mo
+	molecules and it's signified by brackets A cube .
+%mor:	adv|so pro:per|it~cop|be&3S det:art|the n:gerund|bind-PRESP prep|of
+	det:art|the n|species prep|to det:num|one coord|or qn|more n|water
+	n|molecule-PL coord|and pro:per|it~aux|be&3S part|signify-PASTP
+	prep|by n|bracket-PL n:prop|A n|cube .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|9|POBJ 11|10|CONJ 12|13|QUANT 13|14|MOD 14|11|COORD 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|5|CJCT 19|18|JCT 20|22|MOD 21|22|MOD 22|19|POBJ
+	23|3|PUNCT
+*S1:	very important concept .
+%mor:	adv|very adj|important n|concept .
+%gra:	1|2|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S1:	I think we know it (.) but maybe not in the whole context of
+	chemistry .
+%mor:	pro:sub|I v|think pro:sub|we v|know pro:per|it conj|but adv|maybe
+	neg|not prep|in det:art|the adj|whole n|context prep|of n|chemistry
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|CONJ 7|9|JCT 8|7|NEG
+	9|6|COORD 10|12|DET 11|12|MOD 12|9|POBJ 13|12|NJCT 14|13|POBJ 15|2|PUNCT
+*S1:	dissolving is the opposite of precipitation .
+%mor:	n:gerund|dissolve-PRESP cop|be&3S det:art|the adj|opposite prep|of
+	n|precipitate&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*S1:	okay the (.) salt can go into solution and dissolve (.) but it can
+	also come out_of solution and precipitate .
+%mor:	co|okay det:art|the n|salt mod|can v|go prep|into n|solution
+	coord|and n|dissolve conj|but pro:per|it mod|can adv|also v|come
+	prep|out_of n|solution coord|and n|precipitate .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|CONJ
+	9|8|COORD 10|14|LINK 11|14|SUBJ 12|14|AUX 13|14|JCT 14|5|CJCT 15|14|JCT
+	16|15|POBJ 17|16|CONJ 18|17|COORD 19|5|PUNCT
+*S1:	because that is (.) a two way street (.) it is called an
+	equilibrium process .
+%mor:	conj|because pro:dem|that cop|be&3S det:art|a det:num|two n|way
+	n|street pro:per|it aux|be&3S part|call-PASTP det:art|a
+	n|equilibrium n|process .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|QUANT 6|7|MOD 7|3|PRED 8|10|SUBJ
+	9|10|AUX 10|7|CMOD 11|13|DET 12|13|MOD 13|10|OBJ 14|3|PUNCT
+*S1:	really important .
+%mor:	adv|real&dadj-LY adj|important .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*S1:	this is so important that I can't emphasize it enough .
+%mor:	pro:dem|this cop|be&3S adv|so adj|important comp|that pro:sub|I
+	mod|can~neg|not v|emphasize pro:per|it adv|enough .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|9|LINK 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|4|CMOD 10|9|OBJ 11|9|JCT 12|2|PUNCT
+*S1:	so precipitation is an equilibrium +...
+%mor:	co|so n|precipitate&dv-TION cop|be&3S det:art|a n|equilibrium +...
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*S1:	system .
+%mor:	n|system .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	we go either way (.) noticed here we have equal it can go either
+	into solution or out_of solution as (.) a (.) solid .
+%mor:	pro:sub|we v|go qn|either n|way v|notice-PAST adv|here pro:sub|we
+	v|have v|equal pro:per|it mod|can v|go adv|either prep|into
+	n|solution coord|or prep|out_of n|solution prep|as det:art|a n|solid
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|5|JCT 5|2|COMP 6|5|JCT 7|8|SUBJ 8|2|CJCT
+	9|8|COMP 10|9|OBJ 11|12|AUX 12|9|COMP 13|12|JCT 14|12|JCT 15|14|POBJ
+	16|12|CONJ 17|16|COORD 18|17|POBJ 19|17|JCT 20|21|DET 21|19|POBJ 22|2|PUNCT
+*S1:	and it seems to make more (.) a_lot_of sense doesn't it ?
+%mor:	coord|and pro:per|it cop|seem-3S inf|to v|make adv|more qn|a_lot_of
+	n|sense mod|do&3S~neg|not pro:per|it ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|CPRED 6|11|JCT 7|8|QUANT
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|5|OBJ 12|3|PUNCT
+*S1:	that if something is not very soluble (.) it precipitates quite
+	readily .
+%mor:	pro:dem|that comp|if pro:indef|something cop|be&3S neg|not adv|very
+	adj|soluble pro:per|it n|precipitate-PL adv|quite adv|ready&dadj-LY
+	.
+%gra:	1|4|SUBJ 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|JCT 7|9|MOD 8|9|MOD
+	9|4|PRED 10|11|JCT 11|9|NJCT 12|4|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	if something does not precipitate very readily it must be highly
+	soluble .
+%mor:	conj|if pro:indef|something mod|do&3S neg|not v|precipitate
+	adv|very adv|ready&dadj-LY pro:per|it mod|must cop|be
+	adv|high&dadj-LY adj|soluble .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|JCT 7|10|JCT 8|10|SUBJ
+	9|10|AUX 10|5|COMP 11|12|JCT 12|10|PRED 13|5|PUNCT
+*S1:	so the point of equilibrium varies for different substances (.)
+	because their solubility varies .
+%mor:	co|so det:art|the n|point prep|of n|equilibrium v|vary-3S prep|for
+	adj|different n|substance-PL conj|because det:poss|their
+	n|soluble&dadj-ITY v|vary-3S .
+%gra:	1|6|COM 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|13|LINK 11|12|DET 12|13|SUBJ 13|6|CJCT 14|6|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	now if you looked at this model this is the question you're asked
+	before you do part two in the lab .
+%mor:	adv|now conj|if pro:per|you part|look-PASTP prep|at det:dem|this
+	n|model pro:dem|this cop|be&3S det:art|the n|question
+	pro:per|you~aux|be&PRES part|ask-PASTP conj|before pro:per|you v|do
+	adj|part det:num|two prep|in det:art|the n|lab .
+%gra:	1|9|JCT 2|4|LINK 3|4|SUBJ 4|9|CJCT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|0|ROOT 10|11|DET 11|9|PRED 12|14|SUBJ 13|14|AUX 14|11|CMOD 15|17|LINK
+	16|17|SUBJ 17|9|CJCT 18|19|MOD 19|17|OBJ 20|19|JCT 21|22|DET 22|20|POBJ
+	23|9|PUNCT
+*S1:	you're asked to write down the hypothesis (.) which asks you to
+	predict (.) how the cations you'll be testing in lab are going to
+	behave .
+%mor:	pro:per|you~aux|be&PRES part|ask-PASTP inf|to v|write adv|down
+	det:art|the n|hypothesis pro:rel|which v|ask-3S pro:per|you inf|to
+	v|predict pro:int|how det:art|the n|cation-PL pro:per|you~mod|will
+	aux|be part|test-PRESP prep|in n|lab aux|be&PRES part|go-PRESP
+	inf|to v|behave .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|5|OBJ
+	9|10|LINK 10|8|CMOD 11|10|OBJ 12|13|INF 13|10|COMP 14|20|LINK 15|16|DET
+	16|20|JCT 17|20|SUBJ 18|20|AUX 19|20|AUX 20|24|CSUBJ 21|20|JCT 22|21|POBJ
+	23|24|AUX 24|13|COMP 25|26|INF 26|24|COMP 27|3|PUNCT
+*S1:	in other words can you predict which cations (.) will dissolve well
+	or not dissolve well (.) or precipitate well or not precipitate well
+	?
+%mor:	prep|in qn|other n|word-PL mod|can pro:per|you v|predict
+	pro:int|which n|cation-PL mod|will v|dissolve n|well coord|or
+	neg|not v|dissolve n|well coord|or n|precipitate n|well coord|or
+	neg|not v|precipitate adv|well ?
+%gra:	1|6|LINK 2|3|QUANT 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|COMP 11|10|OBJ 12|10|CONJ 13|14|NEG 14|12|COORD
+	15|18|MOD 16|15|CONJ 17|16|COORD 18|14|OBJ 19|21|LINK 20|21|NEG 21|18|CMOD
+	22|21|JCT 23|6|PUNCT
+*S1:	if you're looking model what would a chemist say ?
+%mor:	comp|if pro:per|you~aux|be&PRES part|look-PRESP v|model
+	pro:int|what mod|will&COND det:art|a n|chemist v|say ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|5|SUBJ 5|0|ROOT 6|10|SUBJ 7|10|AUX 8|9|DET
+	9|10|SUBJ 10|5|COMP 11|5|PUNCT
+*S1:	I would say that (.) the size of the cation is going to affect
+	solubility .
+%mor:	pro:sub|I mod|will&COND v|say comp|that det:art|the n|size prep|of
+	det:art|the n|cation aux|be&3S part|go-PRESP inf|to v|affect
+	n|soluble&dadj-ITY .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|11|LINK 5|6|DET 6|11|SUBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|11|AUX 11|3|COMP 12|13|INF 13|11|COMP 14|13|OBJ 15|3|PUNCT
+*S1:	you know and how well does it +//.
+%mor:	pro:per|you v|know coord|and pro:rel|how n|well mod|do&3S
+	pro:per|it +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|5|LINK 5|7|SUBJ 6|7|AUX 7|2|OBJ 8|2|PUNCT
+*S1:	and what water molecules can get around it ?
+%mor:	coord|and pro:int|what n|water n|molecule-PL mod|can v|get
+	prep|around pro:per|it ?
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*S1:	what about the charge of the cation ?
+%mor:	pro:int|what adv|about det:art|the n|charge prep|of det:art|the
+	n|cation ?
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*S1:	well (.) remember that the water molecule hasta neutralize the
+	charge if the salt crystal is to dissolve .
+%mor:	n|well v|remember comp|that det:art|the n|water n|molecule
+	mod|have&3S~inf|to v|neutral&dadj-IZE det:art|the n|charge comp|if
+	det:art|the n|salt n|crystal cop|be&3S inf|to v|dissolve .
+%gra:	1|2|SUBJ 2|0|ROOT 3|9|LINK 4|6|DET 5|6|MOD 6|9|SUBJ 7|9|AUX 8|9|INF
+	9|2|COMP 10|11|DET 11|9|OBJ 12|16|LINK 13|15|DET 14|15|MOD 15|16|SUBJ
+	16|11|CMOD 17|18|INF 18|16|CPRED 19|2|PUNCT
+*S1:	so (.) you would (.) on that basis see (.) that the higher the
+	charge (.) perhaps the more difficult it would be (.) to get into
+	(.) solution .
+%mor:	co|so pro:per|you mod|will&COND prep|on det:dem|that n|basis v|see
+	comp|that det:art|the adj|high-CP det:art|the n|charge adv|perhaps
+	det:art|the adv|more adj|difficult pro:per|it mod|will&COND cop|be
+	inf|to v|get prep|into n|solution .
+%gra:	1|7|COM 2|7|SUBJ 3|7|AUX 4|3|JCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|7|OBJ
+	9|12|DET 10|12|MOD 11|12|DET 12|8|OBJ 13|12|NJCT 14|16|DET 15|16|JCT
+	16|13|POBJ 17|19|SUBJ 18|19|AUX 19|16|CMOD 20|21|INF 21|19|COMP 22|21|JCT
+	23|22|POBJ 24|7|PUNCT
+*S1:	with that in mind I want to point out (.) that in the back of your
+	lab manual there is a Periodic Table of ion size (.) relevant ion
+	size and you should be familiar with that pattern (.) because then
+	some of these results will make more sense (.) to you .
+%mor:	prep|with pro:dem|that prep|in n|mind pro:sub|I v|want inf|to
+	v|point adv|out pro:dem|that prep|in det:art|the adv|back prep|of
+	det:poss|your n|lab adj|manual pro:exist|there cop|be&3S det:art|a
+	n:prop|Periodic n:prop|Table prep|of n|ion n|size adj|relevant n|ion
+	n|size coord|and pro:per|you mod|should cop|be adj|familiar
+	prep|with det:dem|that n|pattern conj|because adv:tem|then qn|some
+	prep|of det:dem|these n|result-PL mod|will v|make adv|more n|sense
+	prep|to pro:per|you .
+%gra:	1|6|JCT 2|1|POBJ 3|2|NJCT 4|3|POBJ 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|JCT 10|9|POBJ 11|10|NJCT 12|13|DET 13|19|JCT 14|19|JCT 15|16|DET
+	16|14|POBJ 17|19|JCT 18|19|SUBJ 19|11|POBJ 20|21|DET 21|8|OBJ 22|21|APP
+	23|22|NJCT 24|25|MOD 25|23|POBJ 26|28|MOD 27|28|MOD 28|22|APP 29|32|LINK
+	30|32|SUBJ 31|32|AUX 32|8|CJCT 33|32|PRED 34|33|JCT 35|36|DET 36|34|POBJ
+	37|44|LINK 38|44|JCT 39|44|QUANT 40|44|JCT 41|42|DET 42|40|POBJ 43|44|AUX
+	44|32|CJCT 45|44|JCT 46|45|POBJ 47|46|NJCT 48|47|POBJ 49|6|PUNCT
+*S1:	notice that as you go down any family (.) the size of the elements
+	or the size of the ion they're both the same increases +...
+%mor:	n|notice pro:rel|that prep|as pro:per|you v|go adv|down qn|any
+	n|family det:art|the n|size prep|of det:art|the n|element-PL
+	coord|or det:art|the n|size prep|of det:art|the n|ion
+	pro:sub|they~cop|be&PRES qn|both det:art|the adj|same n|increase-PL
+	+...
+%gra:	1|0|INCROOT 2|5|LINK 3|5|LINK 4|5|SUBJ 5|1|CMOD 6|5|JCT 7|8|QUANT
+	8|5|OBJ 9|10|DET 10|8|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|10|CONJ
+	15|16|DET 16|14|COORD 17|16|NJCT 18|19|DET 19|17|POBJ 20|21|SUBJ 21|16|CMOD
+	22|25|QUANT 23|25|DET 24|25|MOD 25|21|PRED 26|1|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so if there is any (.) &i impact of size on solubility you should
+	see differences within the family (.) even though the charge is (.)
+	the same .
+%mor:	adv|so conj|if adv|there cop|be&3S qn|any n|impact prep|of n|size
+	prep|on n|soluble&dadj-ITY pro:per|you mod|should v|see
+	n|difference-PL prep|within det:art|the n|family adv|even adv|though
+	det:art|the n|charge cop|be&3S det:art|the adj|same .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|13|CJCT 5|6|QUANT 6|4|PRED 7|6|NJCT
+	8|7|POBJ 9|4|JCT 10|9|POBJ 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|13|OBJ 15|13|JCT
+	16|17|DET 17|15|POBJ 18|19|JCT 19|22|JCT 20|21|DET 21|22|SUBJ 22|13|CJCT
+	23|24|DET 24|22|PRED 25|13|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and if we go across a row that's a period (.) I want you to notice
+	that the size of the ions are getting smaller (.) opposite .
+%mor:	coord|and conj|if pro:sub|we v|go prep|across det:art|a n|row
+	pro:rel|that~cop|be&3S det:art|a n|period pro:sub|I v|want
+	pro:per|you inf|to v|notice comp|that det:art|the n|size prep|of
+	det:art|the n|ion-PL aux|be&PRES part|get-PRESP adj|small-CP
+	adv|opposite .
+%gra:	1|13|LINK 2|4|LINK 3|4|SUBJ 4|13|CJCT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|LINK
+	9|7|CMOD 10|11|DET 11|9|PRED 12|13|SUBJ 13|0|ROOT 14|16|SUBJ 15|16|INF
+	16|13|COMP 17|24|LINK 18|19|DET 19|24|SUBJ 20|19|NJCT 21|22|DET
+	22|20|POBJ 23|24|AUX 24|16|COMP 25|24|PRED 26|25|JCT 27|13|PUNCT
+*S1:	finally I'm going to point out for your prelab for part two (.) and
+	briefly state in this last minute what you're doing in part two .
+%mor:	adv|final&dadj-LY pro:sub|I~aux|be&1S part|go-PRESP inf|to v|point
+	adv|out prep|for det:poss|your pre#n|lab prep|for n|part det:num|two
+	coord|and adv|brief&dadj-LY n|state adv|in det:dem|this adj|last
+	adj|minute pro:int|what pro:per|you~aux|be&PRES part|do-PRESP
+	prep|in n|part det:num|two .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|JCT 12|11|POBJ 13|17|QUANT 14|13|CONJ 15|16|JCT
+	16|14|COORD 17|6|JCT 18|27|DET 19|27|MOD 20|27|MOD 21|24|LINK 22|24|SUBJ
+	23|24|AUX 24|27|CSUBJ 25|24|JCT 26|25|POBJ 27|6|OBJ 28|4|PUNCT
+*S1:	for your prelab (.) you are told to prepare a grid .
+%mor:	prep|for det:poss|your pre#n|lab pro:per|you aux|be&PRES
+	part|tell&PASTP inf|to v|prepare det:art|a n|grid .
+%gra:	1|6|JCT 2|3|DET 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|6|PUNCT
+*S1:	and the grid is pictured in the lab manual under part two (.) tells
+	you exactly what to do .
+%mor:	coord|and det:art|the n|grid aux|be&3S part|picture-PASTP prep|in
+	det:art|the n|lab n|manual adv|under n|part det:num|two v|tell-3S
+	pro:per|you adv|exact&dadj-LY pro:int|what inf|to v|do .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|10|POBJ 12|13|QUANT 13|5|CJCT 14|13|OBJ 15|13|JCT
+	16|18|LINK 17|18|INF 18|15|CPOBJ 19|5|PUNCT
+*S1:	prepare this grid as directed (.) and you're going to be assigned
+	with [?] specific cations to investigate by your lab instructor .
+%mor:	v|prepare det:dem|this n|grid prep|as part|direct-PASTP coord|and
+	pro:per|you~aux|be&PRES part|go-PRESP inf|to aux|be
+	part|assign-PASTP prep|with adj|specific n|cation-PL inf|to
+	v|investigate prep|by det:poss|your n|lab n|instructor .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|COORD 5|1|ENUM 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|1|CJCT 10|12|INF 11|12|AUX 12|9|COMP 13|12|JCT 14|15|MOD 15|13|POBJ
+	16|17|INF 17|12|XJCT 18|17|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|1|PUNCT
+*S1:	once you're assigned to a group of cations you're going to fill in
+	this first column (.) with the cations you're assigned .
+%mor:	adv|once pro:per|you~aux|be&PRES part|assign-PASTP prep|to
+	det:art|a n|group prep|of n|cation-PL pro:per|you~aux|be&PRES
+	part|go-PRESP prep|to n|fill prep|in det:dem|this adj|first n|column
+	prep|with det:art|the n|cation-PL pro:per|you~aux|be&PRES
+	part|assign-PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|12|SUBJ 11|12|AUX 12|7|CMOD 13|12|JCT 14|13|POBJ 15|14|NJCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|12|JCT 20|21|DET 21|19|POBJ 22|24|SUBJ
+	23|24|AUX 24|21|CMOD 25|4|PUNCT
+*S1:	so <let's say> [/] let's say these are the cations you're assigned
+	(.) you do that at the last minute .
+%mor:	adv|so v|let~pro:obj|us co|say det:dem|these cop|be&PRES
+	det:art|the n|cation-PL pro:per|you~aux|be&PRES part|assign-PASTP
+	pro:per|you v|do pro:dem|that prep|at det:art|the adj|last n|minute
+	.
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|6|COM 5|6|DET 6|2|COMP 7|8|DET 8|6|PRED
+	9|11|SUBJ 10|11|AUX 11|8|CMOD 12|13|SUBJ 13|11|COMP 14|13|OBJ 15|13|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|2|PUNCT
+*S1:	so you have this section on a piece of paper .
+%mor:	co|so pro:per|you v|have det:dem|this n|section prep|on det:art|a
+	n|piece prep|of n|paper .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|9|POBJ 11|3|PUNCT
+*S1:	and when you get into lab (.) you cover it with a transparency (.)
+	like I have here .
+%mor:	coord|and conj|when pro:per|you v|get prep|into n|lab pro:per|you
+	v|cover pro:per|it prep|with det:art|a n|transparency v|like
+	pro:sub|I v|have adv|here .
+%gra:	1|8|LINK 2|4|LINK 3|4|SUBJ 4|8|CJCT 5|4|JCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|12|DET 12|10|POBJ 13|8|ENUM 14|15|SUBJ 15|13|COMP
+	16|15|JCT 17|8|PUNCT
+*S1:	that allows you then (.) to take drops of (.) your sample that
+	you're testing and put them in each of the grids .
+%mor:	pro:dem|that v|allow-3S pro:per|you adv:tem|then inf|to v|take
+	n|drop-PL prep|of det:poss|your n|sample pro:rel|that
+	pro:per|you~aux|be&PRES part|test-PRESP coord|and v|put&ZERO
+	pro:obj|them prep|in qn|each prep|of det:art|the n|grid-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|JCT 5|6|INF 6|4|COMP 7|6|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD 15|14|CONJ
+	16|15|COORD 17|16|OBJ 18|16|JCT 19|18|POBJ 20|19|NJCT 21|22|DET
+	22|20|POBJ 23|2|PUNCT
+*S1:	for example if I was assigned sodium ions (.) and all these will be
+	in the form of nitrates why ?
+%mor:	prep|for ex#adj|ample conj|if pro:sub|I aux|be&PAST&13S
+	part|assign-PASTP n|sodium n|ion-PL coord|and qn|all det:dem|these
+	mod|will cop|be prep|in det:art|the n|form prep|of n|nitrate-PL
+	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|1|CPOBJ 7|8|MOD
+	8|6|OBJ 9|13|LINK 10|13|QUANT 11|13|DET 12|13|AUX 13|8|CMOD 14|13|JCT
+	15|16|DET 16|14|POBJ 17|16|NJCT 18|17|POBJ 19|18|OM 20|1|PUNCT
+*S1:	because they're nitrates are very soluble so any difference in (.)
+	precipitation tendencies will be due to the cation .
+%mor:	conj|because pro:sub|they~cop|be&PRES n|nitrate-PL cop|be&PRES
+	adv|very adj|soluble adv|so qn|any n|difference prep|in
+	n|precipitate&dv-TION n|tendency-PL mod|will cop|be n|due prep|to
+	det:art|the n|cation .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|9|JCT
+	9|10|QUANT 10|15|JCT 11|10|NJCT 12|13|MOD 13|11|POBJ 14|15|AUX 15|5|CJCT
+	16|15|PRED 17|16|NJCT 18|19|DET 19|17|POBJ 20|5|PUNCT
+*S1:	so I put sodium nitrate one drop here and then in the next little
+	(.) grid and so on all the way across (.) I'm not doing it (.) okay
+	(.) and if you have the right side of the transparency there it will
+	not fall off it will stick to it .
+%mor:	co|so pro:sub|I v|put&ZERO n|sodium n|nitrate det:num|one n|drop
+	adv|here coord|and adv:tem|then prep|in det:art|the adj|next
+	adj|little n|grid coord|and adv|so prep|on qn|all det:art|the n|way
+	prep|across pro:sub|I~aux|be&1S neg|not part|do-PRESP pro:per|it
+	co|okay coord|and conj|if pro:per|you v|have det:art|the adj|right
+	n|side prep|of det:art|the n|transparency adv|there pro:per|it
+	mod|will neg|not v|fall prep|off pro:per|it mod|will v|stick prep|to
+	pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|7|QUANT 7|5|APP 8|3|JCT
+	9|3|CONJ 10|9|COORD 11|10|JCT 12|15|DET 13|15|MOD 14|15|MOD 15|11|POBJ
+	16|11|CONJ 17|18|JCT 18|16|COORD 19|21|QUANT 20|21|DET 21|18|POBJ 22|26|LINK
+	23|26|SUBJ 24|26|AUX 25|24|NEG 26|21|CMOD 27|26|OBJ 28|43|COM
+	29|43|LINK 30|32|LINK 31|32|SUBJ 32|43|CJCT 33|35|DET 34|35|MOD 35|32|OBJ
+	36|35|NJCT 37|38|DET 38|36|POBJ 39|32|JCT 40|43|SUBJ 41|43|AUX 42|41|NEG
+	43|26|COMP 44|43|JCT 45|44|POBJ 46|47|AUX 47|43|CJCT 48|47|JCT 49|48|POBJ
+	50|3|PUNCT
+*S1:	one side it falls off the other side sticks .
+%mor:	det:num|one n|side pro:per|it v|fall-3S prep|off det:art|the
+	qn|other adj|side n|stick-PL .
+%gra:	1|2|QUANT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|9|DET 7|9|QUANT 8|9|MOD
+	9|5|POBJ 10|4|PUNCT
+*S1:	so test it before .
+%mor:	co|so v|test pro:per|it adv|before .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*S1:	and then you're gonna take a dropping pipette (.) and you're going
+	to add the anion (.) and all the anions will be attached to
+	potassium or sodium .
+%mor:	coord|and adv:tem|then pro:per|you~aux|be&PRES part|go-PRESP~inf|to
+	v|take det:art|a part|drop-PRESP n|pipette coord|and
+	pro:per|you~aux|be&PRES part|go-PRESP inf|to v|add det:art|the
+	n|anion coord|and qn|all det:art|the n|anion-PL mod|will aux|be
+	part|attach-PASTP prep|to n|potassium coord|or n|sodium .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|10|DET
+	9|10|MOD 10|7|OBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|5|CJCT 15|16|INF
+	16|14|COMP 17|18|DET 18|16|OBJ 19|25|LINK 20|22|QUANT 21|22|DET 22|25|SUBJ
+	23|25|AUX 24|25|AUX 25|16|CJCT 26|25|JCT 27|26|POBJ 28|27|CONJ
+	29|28|COORD 30|5|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and you're going to just mix two drops together and you're gonna
+	look at the drops to see (.) &wh when you're getting a precipitate
+	and whether [?] they're colored or not .
+%mor:	coord|and pro:per|you~aux|be&PRES part|go-PRESP prep|to adj|just
+	n|mix det:num|two n|drop-PL adv|together coord|and
+	pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|look prep|at
+	det:art|the n|drop-PL inf|to v|see pro:rel|when
+	pro:per|you~aux|be&PRES part|get-PRESP det:art|a n|precipitate
+	coord|and conj|whether pro:sub|they~aux|be&PRES part|color-PASTP
+	coord|or neg|not .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|9|MOD 7|9|MOD 8|9|QUANT
+	9|5|POBJ 10|4|JCT 11|14|LINK 12|14|SUBJ 13|14|AUX 14|4|CJCT 15|16|INF
+	16|14|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|21|INF 21|16|XJCT 22|25|LINK
+	23|25|SUBJ 24|25|AUX 25|21|COMP 26|27|DET 27|25|OBJ 28|25|CONJ 29|32|LINK
+	30|32|SUBJ 31|32|AUX 32|28|COORD 33|32|CONJ 34|33|COORD 35|4|PUNCT
+*S1:	and you're going to put your results into the computer (.) and
+	voila (.) when you put your results into <the computer> [/] the
+	computer's gonna spit out (.) a great big piece of data with lots_of
+	numbers on how your precipitates were observed and whether they were
+	colored this is a year old yours is gonna have different results (.)
+	and that's where your [?] work begins (.) <what does it mean> [?] ?
+%mor:	coord|and pro:per|you~aux|be&PRES part|go-PRESP inf|to v|put&ZERO
+	det:poss|your n|result-PL prep|into det:art|the n|compute&dv-AGT
+	coord|and co|voila conj|when pro:per|you v|put&ZERO det:poss|your
+	n|result-PL prep|into det:art|the adj|compute&dn-AGT-POSS
+	part|go-PRESP~inf|to v|spit prep|out det:art|a adj|great adj|big
+	n|piece prep|of n|data prep|with qn|lots_of n|number-PL prep|on
+	pro:int|how det:poss|your n|precipitate-PL aux|be&PAST
+	part|observe-PASTP coord|and conj|whether pro:sub|they aux|be&PAST
+	part|color-PASTP det:dem|this cop|be&3S det:art|a n|year adj|old
+	pro:poss|yours aux|be&3S part|go-PRESP~inf|to v|have adj|different
+	n|result-PL coord|and pro:dem|that~cop|be&3S pro:int|where
+	det:poss|your n|work v|begin-3S pro:int|what mod|do&3S pro:per|it
+	adj|mean ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|4|CONJ 13|12|COORD 14|16|LINK 15|16|SUBJ
+	16|4|CJCT 17|18|DET 18|16|OBJ 19|16|JCT 20|21|DET 21|19|POBJ 22|16|XJCT
+	23|24|INF 24|22|COMP 25|24|JCT 26|29|DET 27|29|MOD 28|29|MOD 29|25|POBJ
+	30|29|NJCT 31|30|POBJ 32|24|JCT 33|34|QUANT 34|32|POBJ 35|24|JCT 36|40|LINK
+	37|38|DET 38|40|SUBJ 39|40|AUX 40|35|CPOBJ 41|40|CONJ 42|45|LINK
+	43|45|SUBJ 44|45|AUX 45|41|COORD 46|47|DET 47|45|COMP 48|49|DET 49|47|PRED
+	50|53|JCT 51|53|SUBJ 52|53|AUX 53|49|CMOD 54|55|INF 55|53|COMP 56|57|MOD
+	57|60|SUBJ 58|57|CONJ 59|58|COORD 60|55|COMP 61|64|LINK 62|63|DET
+	63|64|SUBJ 64|60|CPRED 65|68|OBJ 66|68|AUX 67|68|SUBJ 68|64|JCT 69|4|PUNCT
+*S1:	good luck .
+%mor:	adj|good n|luck .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

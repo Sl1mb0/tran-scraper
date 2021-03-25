@@ -1,0 +1,3292 @@
+@UTF8
+@PID:	11312/a-00010192-1
+@Begin
+@Languages:	eng
+@Participants:	S1 Instructor Teacher, S2 Student Student, S3 Student
+	Student, S4 Student Student, S5 Student Student, S6 Student
+	Student, S7 Student Student, S8 Student Student, S9 Student
+	Student, SUF Student Student, SUM Student Student, SS
+	Student Student
+@ID:	eng|MICASE|S1|36;|male|NNS||Teacher|SF||
+@ID:	eng|MICASE|S2|20;|female|NS||Student|SU||
+@ID:	eng|MICASE|S3|20;|female|NS||Student|SU||
+@ID:	eng|MICASE|S4|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|S5|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|S6|20;|male|NNS||Student|JU||
+@ID:	eng|MICASE|S7|20;|male|NS||Student|SU||
+@ID:	eng|MICASE|S8|20;|female|NS||Student|SU||
+@ID:	eng|MICASE|S9|20;|female|NS||Student|SU||
+@ID:	eng|MICASE|SUF|20;|female|NS||Student|SU||
+@ID:	eng|MICASE|SUM|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|SS|20;||NS||Student|UN||
+@Media:	les305mu108, audio, unlinked
+@Date:	26-SEP-2000
+@Situation:	Small Classroom, C_C Little Building
+*S1:	okay everybody have a (.) copy of this (.) handout ?
+%mor:	co|okay pro:indef|everybody v|have det:art|a n|copy prep|of
+	det:dem|this n|+v|hand+prep|out ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*S1:	okay &-um excuse_me .
+%mor:	co|okay co|excuse_me .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	I was going to &-um once again make an attempt to &-um &-uh place
+	names to faces but &-uh seeing that we're a couple minutes behind
+	(.) I may have to wait and do that on Thursday .
+%mor:	pro:sub|I aux|be&PAST&13S part|go-PRESP prep|to adv|once adv|again
+	v|make det:art|a n|attempt prep|to n|place v|name-3S prep|to
+	n|face-PL conj|but n:gerund|see-PRESP comp|that
+	pro:sub|we~cop|be&PRES det:art|a n|couple n|minute-PL prep|behind
+	pro:sub|I mod|may v|have inf|to v|wait coord|and v|do pro:dem|that
+	prep|on n:prop|Thursday .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|JCT 6|5|JCT 7|4|POBJ 8|9|DET
+	9|7|OBJ 10|7|JCT 11|10|POBJ 12|7|XJCT 13|12|JCT 14|13|POBJ 15|12|CONJ
+	16|15|COORD 17|19|LINK 18|19|SUBJ 19|16|COMP 20|21|DET 21|22|MOD 22|19|PRED
+	23|19|JCT 24|26|SUBJ 25|26|AUX 26|23|CPOBJ 27|28|INF 28|26|COMP 29|28|CONJ
+	30|29|COORD 31|30|OBJ 32|30|JCT 33|32|POBJ 34|3|PUNCT
+*S1:	so again to xxx assist me what I would like you to do is &-uh &-uh
+	keep more or less the same seats you had &-uh a_couple_of weeks ago
+	or a week and a half ago last time we met &-uh to assist me to &-uh
+	make a correlation with what I wrote down .
+%mor:	adv|so adv|again inf|to v|assist pro:obj|me pro:int|what pro:sub|I
+	mod|will&COND prep|like pro:per|you inf|to v|do cop|be&3S v|keep
+	adv|more coord|or adj|less det:art|the adj|same v|seat-3S
+	pro:per|you part|have&PASTP qn|a_couple_of n|week-PL post|ago
+	coord|or det:art|a n|week coord|and det:art|a n|half post|ago
+	adj|last n|time pro:sub|we v|meet&PAST inf|to v|assist pro:obj|me
+	inf|to v|make det:art|a n|correlate&dv-TION prep|with pro:int|what
+	pro:sub|I v|write&PAST adv|down .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|14|LINK 7|14|SUBJ
+	8|14|AUX 9|14|JCT 10|9|POBJ 11|12|INF 12|14|SUBJ 13|14|AUX 14|4|COMP 15|14|JCT
+	16|36|LINK 17|36|JCT 18|19|DET 19|36|SUBJ 20|36|XJCT 21|22|SUBJ
+	22|20|COMP 23|24|QUANT 24|22|OBJ 25|24|POSTMOD 26|22|CONJ 27|28|DET 28|26|COORD
+	29|28|CONJ 30|31|DET 31|34|MOD 32|31|POSTMOD 33|34|MOD 34|29|COORD
+	35|36|SUBJ 36|14|CJCT 37|38|INF 38|36|COMP 39|38|OBJ 40|41|INF 41|38|COMP
+	42|43|DET 43|41|OBJ 44|41|JCT 45|47|LINK 46|47|SUBJ 47|44|CPOBJ 48|47|JCT
+	49|2|PUNCT
+*S1:	okay what I would like to do today &-uh is (.) continue the
+	discussion about time (.) and in doing so (.) what I'd like to do is
+	to make sure that you have &-uh a good understanding of the
+	difference between absolute time and relative time a topic that I
+	think you discussed with &-uh &-uh Professor Lohman last week .
+%mor:	adj|okay pro:int|what pro:sub|I mod|will&COND co|like inf|to v|do
+	adv:tem|today cop|be&3S v|continue det:art|the n|discussion
+	prep|about n|time coord|and prep|in part|do-PRESP adv|so
+	pro:int|what pro:sub|I~mod|genmod co|like inf|to v|do cop|be&3S
+	inf|to v|make adj|sure comp|that pro:per|you v|have det:art|a
+	adj|good n:gerund|understand-PRESP prep|of det:art|the n|difference
+	prep|between adj|absolute n|time coord|and adj|relative n|time
+	det:art|a n|topic pro:rel|that pro:sub|I v|think pro:per|you
+	v|discuss-PAST prep|with n:prop|Professor n:prop|Lohman adj|last
+	n|week .
+%gra:	1|10|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|10|COM 6|7|INF 7|10|SUBJ 8|7|JCT
+	9|10|AUX 10|0|ROOT 11|12|DET 12|10|OBJ 13|10|JCT 14|13|POBJ 15|14|CONJ
+	16|15|COORD 17|16|POBJ 18|16|POBJ 19|22|LINK 20|22|SUBJ 21|22|AUX
+	22|18|CPOBJ 23|24|INF 24|22|COMP 25|24|OBJ 26|27|INF 27|24|XJCT 28|27|PRED
+	29|31|LINK 30|31|SUBJ 31|28|CMOD 32|34|DET 33|34|MOD 34|31|OBJ 35|34|JCT
+	36|37|DET 37|35|POBJ 38|34|JCT 39|40|MOD 40|38|POBJ 41|34|CONJ 42|43|MOD
+	43|41|COORD 44|45|DET 45|43|OBJ 46|48|LINK 47|48|SUBJ 48|45|CMOD
+	49|50|SUBJ 50|48|COMP 51|50|JCT 52|55|MOD 53|55|MOD 54|55|MOD 55|51|POBJ
+	56|10|PUNCT
+*S1:	&-uh so to (.) lead off today's lecture we're going to be I'm going
+	to be asking you questions about these terms and what they mean to
+	you (.) and then very quickly review &-uh the Geologic Time Scale .
+%mor:	adv|so prep|to v|lead prep|off adv:tem|today~aux|be&3S n|lecture
+	pro:sub|we~aux|be&PRES part|go-PRESP inf|to cop|be
+	pro:sub|I~aux|be&1S part|go-PRESP inf|to aux|be part|ask-PRESP
+	pro:per|you v|question-3S prep|about det:dem|these n|term-PL
+	coord|and pro:int|what pro:sub|they adj|mean prep|to pro:per|you
+	coord|and adv:tem|then adv|very adv|quick&dadj-LY v|review
+	det:art|the n:prop|Geologic n:prop|Time n:prop|Scale .
+%gra:	1|10|JCT 2|1|JCT 3|2|POBJ 4|1|JCT 5|7|SUBJ 6|7|AUX 7|4|POBJ 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|12|INF 12|10|COMP 13|15|SUBJ 14|15|AUX 15|10|PUNCT
+	16|18|INF 17|18|AUX 18|15|COMP 19|20|SUBJ 20|18|ROOT 21|20|JCT 22|23|DET
+	23|21|POBJ 24|20|CONJ 25|24|COORD 26|25|INCROOT 27|26|PRED 28|27|JCT
+	29|28|POBJ 30|27|CONJ 31|30|COORD 32|33|JCT 33|34|JCT 34|27|CMOD 35|36|DET
+	36|34|OBJ 37|38|NAME 38|36|APP 39|26|PUNCT
+*S1:	&-uh the handout I just gave you (.) has a summary of the Geologic
+	Time Scale .
+%mor:	det:art|the n|+v|hand+prep|out pro:sub|I adv|just v|give&PAST
+	pro:per|you aux|have&3S det:art|a n|summary prep|of det:art|the
+	n:prop|Geologic n:prop|Time n:prop|Scale .
+%gra:	1|2|DET 2|0|INCROOT 3|5|SUBJ 4|5|JCT 5|2|CMOD 6|9|SUBJ 7|9|AUX 8|9|DET
+	9|5|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|14|NAME 14|9|APP 15|2|PUNCT
+*S1:	it looks like it's a very (.) involved &-uh list of names and so on
+	but there are a few basic concepts I'm going to point out (.) that
+	you should remember (.) in_order_to facilitate future discussions .
+%mor:	pro:per|it v|look-3S conj|like pro:per|it~aux|be&3S det:art|a
+	adv|very part|involve-PASTP n|list prep|of n|name-PL coord|and
+	adv|so adv|on conj|but pro:exist|there cop|be&PRES det:art|a n|few
+	adj|basic n|concept-PL pro:sub|I~aux|be&1S part|go-PRESP inf|to
+	v|point adv|out comp|that pro:per|you mod|should v|remember
+	inf|in_order_to v|facilitate n|future n|discussion-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|9|LINK 4|9|SUBJ 5|9|AUX 6|9|DET 7|8|JCT 8|9|XMOD
+	9|2|OBJ 10|9|NJCT 11|10|POBJ 12|9|CONJ 13|14|JCT 14|12|COORD 15|17|LINK
+	16|17|SUBJ 17|2|CJCT 18|21|DET 19|21|MOD 20|21|MOD 21|17|PRED 22|24|SUBJ
+	23|24|AUX 24|21|CMOD 25|26|INF 26|24|COMP 27|26|JCT 28|31|LINK 29|31|SUBJ
+	30|31|AUX 31|27|CPOBJ 32|33|INF 33|31|COMP 34|35|MOD 35|33|OBJ
+	36|2|PUNCT
+*S1:	you're not going to hafta memorize all the names you see on there .
+%mor:	pro:per|you~aux|be&PRES neg|not part|go-PRESP inf|to
+	mod|have~inf|to v|memory&dadj-IZE qn|all det:art|the n|name-PL
+	pro:per|you v|see prep|on n|there .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|INF 6|8|AUX 7|8|INF 8|13|JCT
+	9|11|QUANT 10|11|DET 11|8|OBJ 12|13|SUBJ 13|4|COMP 14|13|JCT 15|14|POBJ
+	16|4|PUNCT
+*S1:	I'm just going to point out the important &-uh items in a minute .
+%mor:	pro:sub|I~aux|be&1S adv|just part|go-PRESP inf|to v|point prep|out
+	det:art|the adj|important n|item-PL prep|in det:art|a n|minute .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+*S1:	&-uh after we've done that (.) I am going to again ask you some
+	questions about &-uh &-uh sedimentary units (.) how they become so
+	extensive as to cover an entire state or perhaps even &-uh a large
+	section of a continent (.) and (.) partly (.) to answer the
+	questions we're going to ask about stratigraphic correlations (.) we
+	will (.) go into what are known as transgressions and regressions .
+%mor:	adv:tem|after pro:sub|we~aux|have part|do&PASTP adv|that pro:sub|I
+	aux|be&1S part|go-PRESP inf|to adv|again v|ask pro:per|you qn|some
+	n|question-PL adv|about adj|sedimentary n|unit-PL pro:rel|how
+	pro:sub|they part|become&PASTP adv|so adj|extensive prep|as inf|to
+	v|cover det:art|a adj|entire n|state coord|or co|perhaps adv|even
+	det:art|a adj|large n|section prep|of det:art|a n|continent
+	coord|and adv|part&dadj-LY inf|to v|answer det:art|the n|question-PL
+	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|ask prep|about
+	adj|stratigraphic n|correlate&dv-TION-PL pro:sub|we mod|will v|go
+	prep|into pro:int|what aux|be&PRES part|know&PASTP prep|as
+	n|transgression-PL coord|and n|regression-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|SUBJ 7|8|AUX 8|4|PUNCT
+	9|11|INF 10|11|JCT 11|8|COMP 12|11|OBJ2 13|14|QUANT 14|11|OBJ 15|16|JCT
+	16|17|MOD 17|14|INCROOT 18|17|ROOT 19|18|INCROOT 20|19|XMOD 21|22|JCT
+	22|20|JCT 23|22|JCT 24|25|INF 25|23|CPOBJ 26|28|DET 27|28|MOD 28|25|OBJ
+	29|25|CONJ 30|29|COORD 31|30|JCT 32|34|DET 33|34|MOD 34|31|POBJ 35|34|NJCT
+	36|37|DET 37|35|POBJ 38|34|CONJ 39|38|COORD 40|41|INF 41|39|COMP
+	42|43|DET 43|41|OBJ 44|46|SUBJ 45|46|AUX 46|54|XJCT 47|48|INF 48|46|COMP
+	49|48|JCT 50|51|MOD 51|49|POBJ 52|54|SUBJ 53|54|AUX 54|41|COMP 55|54|JCT
+	56|58|SUBJ 57|58|AUX 58|55|CPOBJ 59|58|JCT 60|59|POBJ 61|60|CONJ 62|61|COORD
+	63|19|PUNCT
+*S1:	so number four (.) is really the answer to number three .
+%mor:	adv|so v|number det:num|four aux|be&3S adv|real&dadj-LY det:art|the
+	n|answer prep|to n|number det:num|three .
+%gra:	1|2|JCT 2|0|ROOT 3|7|SUBJ 4|7|AUX 5|7|JCT 6|7|DET 7|2|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|2|PUNCT
+*S1:	and then if time allows at the very end I will introduce &-uh
+	radioactivity .
+%mor:	coord|and adv:tem|then conj|if n|time v|allow-3S prep|at
+	det:art|the adv|very n|end pro:sub|I mod|will v|introduce
+	n|radioactive&dadj-ITY .
+%gra:	1|12|LINK 2|12|JCT 3|5|LINK 4|5|SUBJ 5|12|CJCT 6|5|JCT 7|9|DET 8|9|JCT
+	9|6|POBJ 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|OBJ 14|12|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so let's begin (.) by revisiting &-uh this issue (.) of relative
+	time versus (.) absolute time .
+%mor:	adv|so v|let~pro:obj|us v|begin prep|by re#n:gerund|visit-PRESP
+	det:dem|this n|issue prep|of n|relative n|time prep|versus
+	n|absolute n|time .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|JCT 6|5|POBJ 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|8|NJCT 13|14|MOD 14|12|POBJ 15|2|PUNCT
+*S1:	anybody else (.) need a handout ?
+%mor:	pro:indef|anybody post|else v|need det:art|a n|+v|hand+prep|out ?
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*S1:	you need one as well ?
+%mor:	pro:per|you v|need pro:indef|one prep|as adv|well ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|COORD 5|2|JCT 6|2|PUNCT
+*S1:	okay (0.7) okay &-uh Professor Lohman (.) told me this morning that
+	he talked about (.) relative dating &-uh versus absolute dating &-uh
+	and &=writes:board very quickly I would like somebody to (.) remind
+	us of what relative dating is and actually what it is that it
+	accomplishes .
+%mor:	co|okay adj|okay n:prop|Professor n:prop|Lohman v|tell&PAST
+	pro:obj|me det:dem|this n|morning comp|that pro:sub|he v|talk-PAST
+	prep|about adj|relative part|date-PRESP prep|versus n|absolute
+	part|date-PRESP coord|and adv|very adv|quick&dadj-LY pro:sub|I
+	mod|will&COND prep|like pro:indef|somebody inf|to v|remind
+	pro:obj|us prep|of pro:int|what adj|relative n:gerund|date-PRESP
+	cop|be&3S coord|and adv|actual&dadj-LY pro:int|what pro:per|it
+	cop|be&3S comp|that pro:per|it v|accomplish-3S .
+%gra:	1|3|COM 2|3|MOD 3|4|NAME 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|8|DET 8|5|OBJ
+	9|11|LINK 10|11|SUBJ 11|5|COMP 12|11|JCT 13|12|POBJ 14|13|XMOD 15|14|JCT
+	16|15|POBJ 17|14|XJCT 18|17|CONJ 19|20|JCT 20|26|JCT 21|26|SUBJ 22|26|AUX
+	23|22|JCT 24|23|POBJ 25|26|INF 26|18|COORD 27|26|OBJ 28|32|JCT 29|31|DET
+	30|31|MOD 31|32|SUBJ 32|26|COMP 33|37|LINK 34|37|JCT 35|37|LINK
+	36|37|SUBJ 37|32|PRED 38|40|LINK 39|40|SUBJ 40|37|CPRED 41|5|PUNCT
+*S1:	what is relative dating ?
+%mor:	pro:int|what cop|be&3S adj|relative part|date-PRESP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|CPRED 5|2|PUNCT
+*S1:	this is a course about the evolution of the earth right so that
+	means that we're gonna hafta put things or events in their proper
+	sequence (.) and you can do this (.) either by actually putting a
+	number on the event that this happened (.) five hundred million
+	years ago .
+%mor:	pro:dem|this cop|be&3S det:art|a n|course prep|about det:art|the
+	n|evolution prep|of det:art|the n|earth adj|right adv|so adv|that
+	v|mean-3S comp|that pro:sub|we~aux|be&PRES part|go-PRESP~inf|to
+	mod|have~inf|to part|put&PASTP n|thing-PL coord|or n|event-PL
+	prep|in det:poss|their adj|proper n|sequence coord|and pro:per|you
+	mod|can v|do pro:dem|this adv|either adv|by adv|actual&dadj-LY
+	part|put-PRESP det:art|a n|number prep|on det:art|the n|event
+	comp|that pro:dem|this part|happen-PASTP det:num|five
+	det:num|hundred det:num|million n|year-PL post|ago .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|12|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|12|JCT 12|14|JCT 13|14|JCT 14|4|CMOD 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|14|COMP 19|22|INF 20|22|AUX 21|22|INF 22|18|COMP
+	23|22|OBJ 24|23|CONJ 25|24|COORD 26|22|JCT 27|29|DET 28|29|MOD 29|26|POBJ
+	30|33|LINK 31|33|SUBJ 32|33|AUX 33|18|CJCT 34|33|OBJ 35|38|JCT 36|38|JCT
+	37|38|JCT 38|33|XJCT 39|40|DET 40|38|OBJ 41|38|JCT 42|43|DET 43|41|POBJ
+	44|43|NJCT 45|44|OBJ 46|45|XMOD 47|50|QUANT 48|49|DATE 49|50|QUANT
+	50|46|OBJ 51|50|POSTMOD 52|2|PUNCT
+*S1:	or we can do it (.) by using relative dating techniques .
+%mor:	coord|or pro:sub|we mod|can v|do pro:per|it adv|by part|use-PRESP
+	adj|relative part|date-PRESP n|technique-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|XJCT 8|10|MOD
+	9|10|MOD 10|7|OBJ 11|4|PUNCT
+*S1:	so what is relative dating ?
+%mor:	adv|so pro:int|what cop|be&3S adj|relative part|date-PRESP ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|CPRED 6|3|PUNCT
+*S2:	saying something is older or younger than something (.) ⌈ <else of
+	the same> [?] ⌉ .
+%mor:	part|say-PRESP pro:indef|something cop|be&3S adj|old-CP coord|or
+	adj|young-CP prep|than pro:indef|something post|else prep|of
+	det:art|the adj|same .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|CONJ 6|5|COORD 7|6|JCT 8|7|POBJ
+	9|8|PQ 10|8|NJCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*S1:	⌊ okay so this ⌋ is simply to place (.) events in their proper
+	sequence .
+%mor:	co|okay co|so pro:dem|this cop|be&3S adv|simple&dadj-LY prep|to
+	n|place n|event-PL prep|in det:poss|their adj|proper n|sequence .
+%gra:	1|3|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|MOD 8|6|POBJ
+	9|8|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|4|PUNCT
+*S1:	&=writes:board okay all we are doing (.) is putting events in their
+	proper sequence (.) without necessarily (.) saying exactly when
+	those events took place .
+%mor:	co|okay adv|all pro:sub|we cop|be&PRES n:gerund|do-PRESP aux|be&3S
+	part|put-PRESP n|event-PL prep|in det:poss|their adj|proper
+	n|sequence prep|without adv|necessary&dadj-LY part|say-PRESP
+	adv|exact&dadj-LY pro:rel|when det:dem|those n|event-PL v|take&PAST
+	n|place .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|AUX 7|5|COMP 8|7|OBJ
+	9|7|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|12|NJCT 14|15|JCT 15|13|POBJ
+	16|15|JCT 17|20|LINK 18|19|DET 19|20|SUBJ 20|16|CMOD 21|20|OBJ 22|4|PUNCT
+*S1:	and one example we could use here &-uh is a cross sectional view
+	&-uh of let's say (.) a road cut .
+%mor:	coord|and det:num|one ex#adj|ample pro:sub|we mod|could n|use
+	pro:exist|here cop|be&3S det:art|a n|cross adj|section&dn-AL n|view
+	prep|of v|let~pro:obj|us v|say det:art|a n|road part|cut&PASTP .
+%gra:	1|3|LINK 2|3|QUANT 3|8|LINK 4|8|SUBJ 5|8|AUX 6|8|JCT 7|8|SUBJ 8|0|ROOT
+	9|10|DET 10|8|PRED 11|12|MOD 12|10|PRED 13|12|NJCT 14|13|POBJ 15|16|SUBJ
+	16|12|CMOD 17|18|DET 18|16|OBJ 19|16|XJCT 20|8|PUNCT
+*S1:	&-uh and you may identify in this road cut that there is some sort
+	of an undulating line that we call an unconformity .
+%mor:	coord|and pro:per|you mod|may v|identify prep|in det:dem|this
+	n|road n|cut adv|that pro:exist|there cop|be&3S qn|some n|sort
+	prep|of det:art|a part|undulate-PRESP n|line comp|that pro:sub|we
+	v|call det:art|a un#n|conformity .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|11|JCT 10|11|SUBJ 11|4|CJCT 12|13|QUANT 13|11|PRED 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|20|LINK 19|20|SUBJ 20|13|CMOD 21|22|DET 22|20|OBJ
+	23|4|PUNCT
+*S1:	(0.4) okay this is a line (.) along which there's been some erosion
+	&-uh take place .
+%mor:	co|okay pro:dem|this cop|be&3S det:art|a n|line prep|along
+	pro:int|which pro:exist|there~cop|be&3S aux|be&PASTP qn|some
+	n|erosion v|take n|place .
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|13|JCT 7|9|LINK 8|9|SUBJ
+	9|13|SUBJ 10|13|AUX 11|12|QUANT 12|13|SUBJ 13|5|CMOD 14|13|OBJ 15|3|PUNCT
+*S1:	&-uh you may find (.) that &-uh immediately below an unconformity
+	like so &-uh there are series of intrusions we call dikes .
+%mor:	pro:per|you mod|may v|find adv|that adv|immediate&dadj-LY
+	prep|below det:art|a un#n|conformity co|like co|so pro:exist|there
+	cop|be&PRES n|series prep|of n|intrusion-PL pro:sub|we v|call
+	n|dike-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|COM 10|12|COM 11|12|SUBJ 12|3|COMP 13|12|PRED 14|13|NJCT 15|14|POBJ
+	16|17|SUBJ 17|3|CJCT 18|17|OBJ 19|3|PUNCT
+*S1:	and let's have them represent several different &-uh &-uh
+	generations (.) okay so let's call this one dike A (.) and this one
+	is going to be dike B &-uh and to make it interesting let's put in
+	(.) a [?] third one .
+%mor:	coord|and v|let~pro:obj|us v|have pro:obj|them v|represent
+	qn|several adj|different n|generate&dv-TION-PL adj|okay adv|so
+	v|let~pro:obj|us v|call det:dem|this det:num|one n|dike n:prop|A
+	coord|and det:dem|this pro:indef|one aux|be&3S part|go-PRESP inf|to
+	cop|be n|dike n:prop|B coord|and inf|to v|make pro:per|it
+	adj|interesting v|let~pro:obj|us part|put&PASTP prep|in det:art|a
+	n|third pro:indef|one .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|SUBJ 6|4|COMP 7|9|QUANT 8|9|MOD
+	9|6|OBJ 10|9|POSTMOD 11|12|JCT 12|4|CJCT 13|12|OBJ 14|12|COMP 15|17|DET
+	16|17|QUANT 17|23|SUBJ 18|17|APP 19|17|CONJ 20|21|DET 21|19|COORD
+	22|23|AUX 23|14|COMP 24|25|INF 25|23|COMP 26|27|MOD 27|25|PRED 28|23|CONJ
+	29|30|INF 30|28|COORD 31|30|OBJ 32|30|JCT 33|32|CMOD 34|33|OBJ 35|33|COMP
+	36|35|JCT 37|38|DET 38|36|POBJ 39|36|POBJ 40|2|PUNCT
+*S1:	okay so this is cross sectional view &-uh we're looking at a road
+	cut (.) and we see sedimentary layers (.) that are horizontal like
+	so (0.4) okay and these sedimentary units have been cut &-uh by
+	these intrusions that I'm calling &-uh dikes .
+%mor:	co|okay adv|so pro:dem|this cop|be&3S adj|cross adj|section&dn-AL
+	n|view pro:sub|we~aux|be&PRES part|look-PRESP prep|at det:art|a
+	n|road part|cut&PASTP coord|and pro:sub|we v|see adj|sedimentary
+	n|layer-PL pro:rel|that cop|be&PRES adj|horizontal co|like adv|so
+	adj|okay coord|and det:dem|these adj|sedimentary n|unit-PL v|have
+	aux|be&PASTP v|cut&ZERO prep|by det:dem|these n|intrusion-PL
+	pro:rel|that pro:sub|I~aux|be&1S part|call-PRESP n|dike-PL .
+%gra:	1|3|COM 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|MOD 7|4|PRED 8|10|SUBJ
+	9|10|AUX 10|7|CMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|10|XJCT 15|17|LINK
+	16|17|SUBJ 17|14|CJCT 18|19|MOD 19|17|OBJ 20|21|LINK 21|19|CMOD
+	22|21|PRED 23|21|COM 24|25|JCT 25|21|PRED 26|25|CONJ 27|29|DET 28|29|MOD
+	29|26|COORD 30|21|CPRED 31|32|AUX 32|30|COMP 33|32|JCT 34|35|DET 35|33|POBJ
+	36|39|LINK 37|39|SUBJ 38|39|AUX 39|35|CMOD 40|39|OBJ 41|4|PUNCT
+*S1:	okay so sedimentary layers would look like this .
+%mor:	adj|okay adv|so adj|sedimentary n|layer-PL mod|will&COND co|look
+	co|like pro:dem|this .
+%gra:	1|4|MOD 2|3|JCT 3|4|MOD 4|8|SUBJ 5|8|AUX 6|8|COM 7|8|COM 8|0|ROOT
+	9|8|PUNCT
+*S1:	this would be say unit one two (.) three and four .
+%mor:	pro:dem|this mod|will&COND cop|be v|say n|unit det:num|one
+	det:num|two det:num|three coord|and det:num|four .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|CPRED 5|4|OBJ 6|7|QUANT 7|8|QUANT
+	8|5|POSTMOD 9|8|CONJ 10|9|COORD 11|3|PUNCT
+*S1:	and in fact you may find that on top of that (.) there are other
+	sediments deposited .
+%mor:	coord|and prep|in n|fact pro:per|you mod|may v|find adv|that adv|on
+	n|top prep|of adv|that adv|there cop|be&PRES qn|other n|sediment-PL
+	v|deposit-PAST .
+%gra:	1|6|LINK 2|6|JCT 3|2|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|9|NJCT 11|10|POBJ 12|6|JCT 13|16|AUX 14|15|QUANT 15|16|SUBJ
+	16|6|CJCT 17|6|PUNCT
+*S1:	let's call this unit six (.) seven and eight .
+%mor:	v|let~pro:obj|us v|call det:dem|this n|unit det:num|six
+	det:num|seven coord|and det:num|eight .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|7|QUANT 7|5|CMOD 8|7|CONJ
+	9|8|COORD 10|1|PUNCT
+*S1:	okay (.) so relative dating (.) is the exercise (.) of placing
+	geologic events in their proper sequence .
+%mor:	adj|okay adv|so adj|relative n:gerund|date-PRESP cop|be&3S
+	det:art|the n|exercise prep|of part|place-PRESP adj|geologic
+	n|event-PL prep|in det:poss|their adj|proper n|sequence .
+%gra:	1|4|MOD 2|3|JCT 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|7|NJCT
+	9|8|POBJ 10|11|MOD 11|9|OBJ 12|9|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|5|PUNCT
+*S1:	and (.) if you came across a cross section like this in a road cut
+	as you traveled to Arizona or New Mexico (.) or a place like that
+	(.) would you be able to tell me what happened first and what
+	happened second and third and so on ?
+%mor:	coord|and conj|if pro:per|you v|come&PAST prep|across det:art|a
+	n|cross n|section prep|like pro:dem|this prep|in det:art|a n|road
+	part|cut&PASTP prep|as pro:per|you v|travel-PAST prep|to
+	n:prop|Arizona coord|or n:prop|New n:prop|Mexico coord|or det:art|a
+	n|place prep|like pro:dem|that mod|will&COND pro:per|you cop|be
+	adj|able inf|to v|tell pro:obj|me pro:int|what v|happen-PAST
+	adv|first coord|and pro:int|what v|happen-PAST n|second coord|and
+	adj|third coord|and adv|so adv|on ?
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|9|POBJ 11|10|JCT 12|13|DET 13|11|POBJ 14|4|XJCT 15|17|COORD
+	16|17|SUBJ 17|30|CJCT 18|17|JCT 19|18|POBJ 20|19|CONJ 21|20|COORD
+	22|30|SUBJ 23|22|CONJ 24|25|DET 25|23|COORD 26|30|JCT 27|26|POBJ 28|30|AUX
+	29|30|SUBJ 30|14|COMP 31|30|PRED 32|33|INF 33|31|XMOD 34|33|OBJ 35|36|LINK
+	36|33|COMP 37|36|JCT 38|36|CONJ 39|40|SUBJ 40|38|COORD 41|40|OBJ
+	42|41|CONJ 43|42|COORD 44|40|CONJ 45|46|JCT 46|44|COORD 47|4|PUNCT
+*S1:	this is a cross section (.) that has sedimentary units one through
+	eight &-uh those sediments have been cut by (.) these features we
+	call dikes .
+%mor:	pro:dem|this cop|be&3S det:art|a n|cross n|section pro:rel|that
+	v|have&3S adj|sedimentary n|unit-PL det:num|one adj|through
+	det:num|eight det:dem|those n|sediment-PL v|have aux|be&PASTP
+	v|cut&ZERO prep|by det:dem|these n|feature-PL pro:sub|we v|call
+	n|dike-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|7|LINK 7|5|CMOD 8|9|MOD
+	9|17|JCT 10|11|QUANT 11|12|MOD 12|14|QUANT 13|14|DET 14|9|APP 15|17|SUBJ
+	16|17|AUX 17|7|COMP 18|17|JCT 19|20|DET 20|18|POBJ 21|22|SUBJ 22|7|CJCT
+	23|22|OBJ 24|2|PUNCT
+*S1:	they are basically igneous material (.) that came up and solidified
+	(.) in features that we call dike and it happens to be in this case
+	(.) that we have three of them A B and C (.) we have an unconformity
+	(.) and we have sedimentary layers on top of that .
+%mor:	pro:sub|they cop|be&PRES adv|basic&dadj-AL-LY adj|igneous
+	adj|material adv|that v|come&PAST adv|up coord|and v|solidify-PAST
+	prep|in n|feature-PL comp|that pro:sub|we n|call n|dike coord|and
+	pro:per|it v|happen-3S inf|to cop|be prep|in det:dem|this n|case
+	comp|that pro:sub|we v|have det:num|three prep|of pro:obj|them
+	n:prop|A n:prop|B coord|and n:prop|C pro:sub|we v|have det:art|a
+	un#n|conformity coord|and pro:sub|we v|have adj|sedimentary
+	n|layer-PL prep|on n|top prep|of pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PRED 5|4|PRED 6|7|JCT 7|5|CMOD 8|7|JCT
+	9|7|CONJ 10|9|COORD 11|10|JCT 12|11|POBJ 13|15|LINK 14|15|SUBJ 15|16|MOD
+	16|10|OBJ 17|19|LINK 18|19|SUBJ 19|16|CMOD 20|21|INF 21|19|COMP 22|21|JCT
+	23|24|DET 24|22|POBJ 25|27|LINK 26|27|SUBJ 27|21|CJCT 28|31|QUANT
+	29|28|NJCT 30|29|POBJ 31|27|COMP 32|31|APP 33|36|LINK 34|36|JCT 35|36|SUBJ
+	36|27|CJCT 37|38|DET 38|36|OBJ 39|41|LINK 40|41|SUBJ 41|38|CJCT 42|43|MOD
+	43|41|OBJ 44|43|NJCT 45|44|POBJ 46|45|NJCT 47|46|POBJ 48|2|PUNCT
+*S1:	what we would like to do therefore (.) is put a history together
+	(.) and in doing so (.) we are going to be carrying out the exercise
+	of relative dating (.) placing geologic events (.) in their proper
+	sequence (.) ⌈ yes ⌉ ?
+%mor:	pro:int|what pro:sub|we mod|will&COND co|like inf|to v|do
+	adv|therefore aux|be&3S v|put&ZERO det:art|a n|history adv|together
+	coord|and prep|in n:gerund|do-PRESP adv|so pro:sub|we aux|be&PRES
+	part|go-PRESP inf|to aux|be part|carry-PRESP prep|out det:art|the
+	n|exercise prep|of n|relative part|date-PRESP part|place-PRESP
+	adj|geologic n|event-PL prep|in det:poss|their adj|proper n|sequence
+	co|yes ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|6|COM 5|6|INF 6|9|SUBJ 7|6|JCT 8|9|AUX
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|9|JCT 13|9|CONJ 14|19|JCT 15|14|POBJ
+	16|19|JCT 17|19|SUBJ 18|19|AUX 19|13|COORD 20|22|INF 21|22|AUX 22|19|COMP
+	23|22|JCT 24|25|DET 25|23|POBJ 26|25|NJCT 27|26|POBJ 28|22|XJCT 29|28|XJCT
+	30|31|MOD 31|29|OBJ 32|29|JCT 33|35|DET 34|35|MOD 35|32|POBJ 36|35|COM
+	37|9|PUNCT
+*S3:	⌊ what happened ⌋ to five or is the unconformity ⌈ considered five
+	⌉ ?
+%mor:	pro:int|what v|happen-PAST prep|to det:num|five coord|or aux|be&3S
+	det:art|the un#n|conformity part|consider-PASTP det:num|five ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|CONJ 6|8|AUX 7|8|DET 8|5|COORD
+	9|8|XMOD 10|9|OBJ 11|2|PUNCT
+*S1:	⌊ well that's ⌋ part of the story .
+%mor:	co|well pro:dem|that~cop|be&3S adj|part prep|of det:art|the n|story
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*S3:	⌈ oh ⌉ +/.
+%mor:	co|oh +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ I ⌋ purposely omitted number five &-uh because as we put the
+	history (.) the geologic history of this cross section together (.)
+	you'll have to tell me what happened to number five +/.
+%mor:	pro:sub|I adv|purpose&dn-LY part|omit-PASTP n|number det:num|five
+	conj|because prep|as pro:sub|we v|put&ZERO det:art|the n|history
+	det:art|the adj|geologic n|history prep|of det:dem|this n|cross
+	n|section adv|together pro:per|you~mod|will v|have inf|to v|tell
+	pro:obj|me pro:int|what v|happen-PAST inf|to v|number det:num|five
+	+/.
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|9|LINK 8|9|SUBJ
+	9|6|CPOBJ 10|11|DET 11|9|OBJ 12|14|DET 13|14|MOD 14|22|SUBJ 15|14|NJCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|22|JCT 20|22|SUBJ 21|22|AUX 22|11|CMOD
+	23|24|INF 24|22|COMP 25|24|OBJ 26|27|SUBJ 27|24|COMP 28|29|INF 29|27|COMP
+	30|29|OBJ 31|3|PUNCT
+*S3:	+, alright +/.
+%mor:	co|alright +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so what do you think happened first (.) in (.) yes Cliff ?
+%mor:	adv|so pro:int|what mod|do pro:per|you v|think part|happen-PASTP
+	adv|first prep|in co|yes n:prop|Cliff ?
+%gra:	1|5|JCT 2|5|OBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|COMP 7|6|JCT 8|6|JCT
+	9|10|COM 10|8|POBJ 11|5|PUNCT
+*S4:	&-uh I think like that layer one sediment was deposited +/.
+%mor:	pro:sub|I v|think prep|like pro:dem|that v|layer det:num|one
+	n|sediment aux|be&PAST&13S part|deposit-PASTP +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|7|QUANT 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|2|PUNCT
+*S1:	⌈ okay ⌉ +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	+, ⌊ one [/] one ⌋ through four was deposited .
+%mor:	det:num|one prep|through det:num|four aux|be&PAST&13S
+	part|deposit-PASTP .
+%gra:	1|0|INCROOT 2|1|JCT 3|5|SUBJ 4|5|AUX 5|2|POBJ 6|1|PUNCT
+*S1:	okay (.) so the first thing that happened .
+%mor:	co|okay conj|so det:art|the adj|first n|thing pro:rel|that
+	v|happen-PAST .
+%gra:	1|2|COM 2|0|ROOT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|LINK 7|5|CMOD 8|2|PUNCT
+*S4:	one through five was deposited ⌈ one [?] ⌉ .
+%mor:	det:num|one adj|through det:num|five aux|be&PAST&13S
+	part|deposit-PASTP pro:indef|one .
+%gra:	1|5|LINK 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*S1:	⌊ first ⌋ thing that happened (.) was the deposition
+	&=writing:board of sedimentary layers one through four .
+%mor:	adv|first n|thing pro:rel|that v|happen-PAST cop|be&PAST&13S
+	det:art|the n|deposition prep|of adj|sedimentary n|layer-PL
+	pro:indef|one prep|through det:num|four .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|COMP 6|7|DET 7|5|PRED
+	8|7|NJCT 9|10|MOD 10|8|POBJ 11|7|XMOD 12|11|NJCT 13|12|POBJ 14|2|PUNCT
+*S1:	now (.) we can't be absolutely sure (.) that unit five was
+	deposited .
+%mor:	adv|now pro:sub|we mod|can~neg|not cop|be adv|absolute&dadj-LY
+	adj|sure det:dem|that n|unit det:num|five aux|be&PAST&13S
+	part|deposit-PASTP .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|9|MOD 8|9|DET
+	9|5|PRED 10|12|SUBJ 11|12|AUX 12|9|CMOD 13|5|PUNCT
+*S1:	and that is an issue I'm going to come back to (.) after we've
+	discussed what this unconformity is .
+%mor:	coord|and pro:dem|that cop|be&3S det:art|a n|issue
+	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|come adv|back prep|to
+	prep|after pro:sub|we~aux|have part|discuss-PASTP pro:int|what
+	det:dem|this un#n|conformity cop|be&3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|8|SUBJ 7|8|AUX 8|5|CMOD
+	9|10|INF 10|8|COMP 11|10|JCT 12|10|JCT 13|12|POBJ 14|16|SUBJ 15|16|AUX
+	16|13|CPOBJ 17|20|LINK 18|19|DET 19|20|SUBJ 20|16|COMP 21|3|PUNCT
+*S1:	so unit five (.) may have been deposited &-uh more or less around
+	the same time that one through four (.) were deposited .
+%mor:	co|so n|unit det:num|five mod|may aux|have aux|be&PASTP
+	part|deposit-PASTP adv|more coord|or adj|less prep|around
+	det:art|the adj|same n|time comp|that det:num|one prep|through
+	det:num|four aux|be&PAST part|deposit-PASTP .
+%gra:	1|7|COM 2|7|AUX 3|7|QUANT 4|7|AUX 5|7|AUX 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|8|CONJ 10|9|COORD 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|16|DATE
+	16|14|CMOD 17|16|JCT 18|20|SUBJ 19|20|AUX 20|17|POBJ 21|7|PUNCT
+*S1:	&-uh but there are some other (.) possibilities that we should
+	consider .
+%mor:	conj|but pro:exist|there cop|be&PRES qn|some qn|other
+	n|possible&dadj-ITY-PL comp|that pro:sub|we mod|should v|consider .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|QUANT 6|3|PRED 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|CMOD 11|3|PUNCT
+*S1:	but before we do that (.) what would you say happened (.) next &-uh
+	yes .
+%mor:	conj|but prep|before pro:sub|we v|do pro:dem|that pro:int|what
+	mod|will&COND pro:per|you v|say v|happen-PAST adv|next co|yes .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|9|OBJ 7|9|AUX 8|9|SUBJ
+	9|4|COMP 10|9|OBJ 11|9|JCT 12|9|COM 13|4|PUNCT
+*S5:	&-um the dikes C B then ⌈ A ⌉ .
+%mor:	det:art|the n|dike-PL n:prop|C n:prop|B adv:tem|then n:prop|A .
+%gra:	1|2|DET 2|0|INCROOT 3|4|NAME 4|2|CMOD 5|6|JCT 6|4|APP 7|2|PUNCT
+*S1:	⌊ are ⌋ you Jerry ?
+%mor:	cop|be&PRES pro:per|you n:prop|Jerry ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*S5:	Drew .
+%mor:	n:prop|Drew .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	Drew (.) excuse_me (.) Drew (.) dikes .
+%mor:	n:prop|Drew co|excuse_me n:prop|Drew n|dike-PL .
+%gra:	1|4|MOD 2|4|COM 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*S5:	C B then A .
+%mor:	n:prop|C n:prop|B adv:tem|then n:prop|A .
+%gra:	1|2|NAME 2|0|ROOT 3|4|JCT 4|2|APP 5|2|PUNCT
+*S1:	okay dikes were then emplaced in that order (.) C B and then A .
+%mor:	co|okay n|dike-PL cop|be&PAST adv:tem|then v|emplace-PAST prep|in
+	det:dem|that n|order n:prop|C n:prop|B coord|and adv:tem|then
+	n:prop|A .
+%gra:	1|2|COM 2|3|SUBJ 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|10|NAME 10|5|CJCT 11|10|CONJ 12|13|JCT 13|11|COORD 14|5|PUNCT
+*S1:	&=writes:board okay so we can say that it was the placement +...
+%mor:	co|okay conj|so pro:sub|we mod|can v|say comp|that pro:per|it
+	cop|be&PAST&13S det:art|the n|place&dv-MENT +...
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|10|DET 10|8|PRED 11|5|PUNCT
+*S4:	&ha how do you know they're in that order ?
+%mor:	pro:int|how mod|do pro:per|you v|know pro:sub|they~cop|be&PRES
+	prep|in det:dem|that n|order ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|6|PRED 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*S1:	+, of dikes +//.
+%mor:	prep|of n|dike-PL +//.
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*S1:	maybe Drew can (.) tell us (.) how he knows it's that order C (.) B
+	(.) and then A in that order .
+%mor:	adv|maybe n:prop|Drew mod|can v|tell pro:obj|us pro:int|how
+	pro:sub|he v|know-3S pro:per|it~cop|be&3S det:dem|that n|order
+	n:prop|C n:prop|B coord|and adv:tem|then n:prop|A prep|in
+	det:dem|that n|order .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|10|PRED
+	9|10|SUBJ 10|4|COMP 11|12|DET 12|10|PRED 13|14|NAME 14|12|CMOD 15|14|CONJ
+	16|15|COORD 17|16|POBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|4|PUNCT
+*S1:	okay how do you know they were emplaced in that order Drew ?
+%mor:	co|okay pro:int|how mod|do pro:per|you v|know pro:sub|they
+	aux|be&PAST part|emplace-PASTP prep|in det:dem|that n|order
+	n:prop|Drew ?
+%gra:	1|5|COM 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|8|SUBJ 7|8|AUX 8|5|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|APP 13|5|PUNCT
+*S5:	because B overlaps C and then A overlaps B .
+%mor:	conj|because n:prop|B over#v|lap-3S n:prop|C coord|and adv:tem|then
+	n:prop|A over#v|lap-3S n:prop|B .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|8|LINK 6|8|JCT 7|8|SUBJ 8|4|CJCT
+	9|8|OBJ 10|3|PUNCT
+*S1:	okay it is because of the concept known as (.) crosscutting
+	relations (.) okay so this is cross (.) cutting &=writing:board
+	relations you can see (.) that &-uh dike C must have been in place
+	already before dike B was emplaced after all it's truncated by it or
+	it's cut by it (.) and you can also see that dike B (.) is cut by
+	dike A .
+%mor:	co|okay pro:per|it cop|be&3S conj|because prep|of det:art|the
+	n|concept part|know&PASTP prep|as cross#n:gerund|cut-PRESP
+	n|relate&dv-TION-PL adj|okay adv|so pro:dem|this aux|be&3S n|cross
+	part|cut-PRESP n|relate&dv-TION-PL pro:per|you mod|can v|see
+	comp|that n|dike n:prop|C mod|must aux|have cop|be&PASTP prep|in
+	n|place adv|already prep|before n|dike n:prop|B aux|be&PAST&13S
+	part|emplace-PASTP prep|after pro:indef|all pro:per|it~aux|be&3S
+	part|truncate-PASTP prep|by pro:per|it coord|or pro:per|it~cop|be&3S
+	v|cut&ZERO prep|by pro:per|it coord|and pro:per|you mod|can adv|also
+	v|see comp|that n|dike n:prop|B cop|be&3S v|cut&ZERO prep|by n|dike
+	n:prop|A .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|21|LINK 5|21|JCT 6|7|DET 7|5|POBJ 8|21|XJCT
+	9|8|JCT 10|11|MOD 11|9|POBJ 12|11|POSTMOD 13|14|JCT 14|21|SUBJ
+	15|21|AUX 16|21|SUBJ 17|21|XJCT 18|17|OBJ 19|21|SUBJ 20|21|AUX 21|3|CJCT
+	22|27|LINK 23|27|LINK 24|27|SUBJ 25|27|AUX 26|27|AUX 27|35|CJCT 28|27|JCT
+	29|28|POBJ 30|27|JCT 31|27|JCT 32|31|POBJ 33|35|SUBJ 34|35|AUX 35|21|COMP
+	36|46|JCT 37|40|LINK 38|40|SUBJ 39|40|AUX 40|46|SUBJ 41|40|JCT 42|41|POBJ
+	43|42|CONJ 44|43|COORD 45|46|AUX 46|35|CJCT 47|46|JCT 48|47|POBJ
+	49|53|LINK 50|53|SUBJ 51|53|AUX 52|53|JCT 53|48|CJCT 54|57|LINK 55|56|MOD
+	56|57|SUBJ 57|53|COMP 58|57|CPRED 59|58|JCT 60|61|MOD 61|59|POBJ 62|3|PUNCT
+*S1:	so of the three of them C hasta be the oldest one (.) it was here
+	(.) when this one came in to cut it (.) and likewise B must have
+	been in place (.) before A was emplaced because it's cut by A .
+%mor:	adv|so prep|of det:art|the det:num|three prep|of pro:obj|them
+	n:prop|C mod|have&3S~inf|to cop|be det:art|the adj|old-SP
+	pro:indef|one pro:per|it cop|be&PAST&13S adv|here conj|when
+	det:dem|this pro:indef|one v|come&PAST adv|in inf|to v|cut&ZERO
+	pro:per|it coord|and adv|likewise n:prop|B mod|must aux|have
+	cop|be&PASTP prep|in n|place prep|before n:prop|A aux|be&PAST&13S
+	part|emplace-PASTP conj|because pro:per|it~cop|be&3S n|cut prep|by
+	n:prop|A .
+%gra:	1|10|JCT 2|10|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|10|SUBJ 8|10|AUX
+	9|10|INF 10|36|LINK 11|13|DET 12|13|MOD 13|36|SUBJ 14|15|SUBJ 15|36|AUX
+	16|15|JCT 17|20|LINK 18|19|DET 19|20|SUBJ 20|36|CJCT 21|20|JCT
+	22|23|INF 23|20|XJCT 24|23|OBJ 25|30|LINK 26|30|JCT 27|30|SUBJ 28|30|AUX
+	29|30|AUX 30|36|AUX 31|30|JCT 32|31|POBJ 33|30|JCT 34|33|POBJ 35|36|AUX
+	36|0|ROOT 37|39|LINK 38|39|SUBJ 39|36|CJCT 40|39|PRED 41|40|NJCT 42|41|POBJ
+	43|36|PUNCT
+*S1:	so A (.) hasta be the youngest one .
+%mor:	co|so n:prop|A mod|have&3S~inf|to cop|be det:art|the adj|young-SP
+	pro:indef|one .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|5|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	alright (.) then what happens +...
+%mor:	co|alright adv:tem|then pro:int|what v|happen-3S +...
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S1:	after these dikes have been emplaced in this sedimentary sequence
+	(.) something very dramatic happens .
+%mor:	prep|after det:dem|these n|dike-PL v|have aux|be&PASTP
+	part|emplace-PASTP prep|in det:dem|this adj|sedimentary n|sequence
+	pro:indef|something adv|very adj|dramatic v|happen-3S .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|ENUM 5|6|AUX 6|14|XJCT 7|6|JCT
+	8|10|DET 9|10|MOD 10|7|POBJ 11|14|SUBJ 12|14|JCT 13|14|MOD 14|4|COMP 15|1|PUNCT
+*S1:	what do you think it is (.) from the evidence you can see ?
+%mor:	pro:int|what mod|do pro:per|you v|think pro:per|it cop|be&3S
+	prep|from det:art|the n|evidence pro:per|you mod|can v|see ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|6|PRED 5|6|SUBJ 6|12|CJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|PUNCT
+*S1:	Emmanuel .
+%mor:	n:prop|Emmanuel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S6:	sedimentary rock &-um layer C &-um &-uh is placed on top of the (.)
+	.
+%mor:	adj|sedimentary n|rock n|layer n:prop|C aux|be&3S part|place-PASTP
+	prep|on n|top prep|of det:art|the .
+%gra:	1|3|MOD 2|3|MOD 3|6|SUBJ 4|3|APP 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|6|PUNCT
+*S1:	you mean most sediments were [/] were deposited ?
+%mor:	pro:per|you v|mean qn|most n|sediment-PL aux|be&PAST
+	part|deposit-PASTP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|2|COMP 7|2|PUNCT
+*S6:	the sediment (.) after one (.) two four (.) ⌈ six ⌉ +/.
+%mor:	det:art|the n|sediment prep|after det:num|one det:num|two
+	det:num|four det:num|six +/.
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|7|DATE 5|6|QUANT 6|7|DATE 7|3|POBJ
+	8|2|PUNCT
+*S1:	⌊ yes ⌋ +/.
+%mor:	co|yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S6:	+, was placed (.) ⌈ so ⌉ .
+%mor:	aux|be&PAST&13S part|place-PASTP adv|so .
+%gra:	1|2|AUX 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*S1:	⌊ okay you're ⌋ saying that number six is then placed on top of
+	this ?
+%mor:	co|okay pro:per|you~aux|be&PRES part|say-PRESP adv|that v|number
+	det:num|six cop|be&3S adv:tem|then v|place-PAST prep|on n|top
+	prep|of pro:dem|this ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|COMP 7|8|QUANT 8|6|COMP
+	9|10|JCT 10|8|CPRED 11|10|JCT 12|11|POBJ 13|12|NJCT 14|13|POBJ 15|4|PUNCT
+*S6:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	well that will happen at some stage (.) but before we worry about
+	the deposition of unit six what I would like us to worry about (.)
+	is what happened (.) along this unconformity .
+%mor:	co|well pro:rel|that mod|will v|happen prep|at qn|some n|stage
+	conj|but prep|before pro:sub|we v|worry prep|about det:art|the
+	n|deposition prep|of n|unit det:num|six pro:int|what pro:sub|I
+	mod|will&COND v|like pro:obj|us prep|to n|worry prep|about cop|be&3S
+	pro:int|what v|happen-PAST prep|along det:dem|this un#n|conformity .
+%gra:	1|4|COM 2|4|LINK 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|11|LINK
+	9|11|JCT 10|11|SUBJ 11|4|CJCT 12|11|JCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|18|QUANT 18|21|LINK 19|21|SUBJ 20|21|AUX 21|14|CMOD
+	22|21|OBJ 23|21|JCT 24|23|POBJ 25|21|JCT 26|25|POBJ 27|28|SUBJ 28|21|CJCT
+	29|28|JCT 30|31|DET 31|29|POBJ 32|4|PUNCT
+*S1:	an unconformity being (.) really (.) a surface of discontinuity in
+	other words it's a surface along which there has been (.) erosion .
+%mor:	det:art|a un#n|conformity n|being adv|real&dadj-LY det:art|a
+	n|surface prep|of dis#n|continuity prep|in qn|other n|word-PL
+	pro:per|it~cop|be&3S det:art|a n|surface prep|along pro:int|which
+	pro:exist|there aux|have&3S aux|be&PASTP n|erosion .
+%gra:	1|3|DET 2|3|MOD 3|13|JCT 4|3|NJCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|8|NJCT 10|11|QUANT 11|9|POBJ 12|13|SUBJ 13|0|ROOT 14|15|DET 15|13|PRED
+	16|15|NJCT 17|21|LINK 18|21|SUBJ 19|21|AUX 20|21|MOD 21|16|POBJ
+	22|13|PUNCT
+*S1:	but before erosion can take place (.) okay let's revisit the issue
+	of deposition .
+%mor:	conj|but prep|before n|erosion mod|can v|take n|place co|okay
+	v|let~pro:obj|us re#n|visit det:art|the n|issue prep|of n|deposition
+	.
+%gra:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|AUX 5|8|CJCT 6|5|OBJ 7|8|COM 8|0|ROOT
+	9|10|SUBJ 10|8|COMP 11|12|DET 12|10|OBJ 13|12|NJCT 14|13|POBJ 15|8|PUNCT
+*S1:	units one through four (.) were deposited let's say in the ocean
+	(.) this is a marine sequence if I didn't mention it already .
+%mor:	n|unit-PL pro:indef|one prep|through det:num|four aux|be&PAST
+	part|deposit-PASTP v|let~pro:obj|us v|say prep|in det:art|the
+	n|ocean pro:dem|this cop|be&3S det:art|a n|marine n|sequence conj|if
+	pro:sub|I mod|do&PAST~neg|not v|mention pro:per|it adv|already .
+%gra:	1|2|MOD 2|6|SUBJ 3|2|NJCT 4|3|POBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|7|OBJ
+	9|7|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|14|SUBJ 14|9|CJCT 15|17|DET
+	16|17|MOD 17|14|PRED 18|22|LINK 19|22|SUBJ 20|22|AUX 21|20|NEG 22|14|CJCT
+	23|22|OBJ 24|22|JCT 25|6|PUNCT
+*S1:	&-uh can we (.) erode (.) units that are still underwater ?
+%mor:	mod|can pro:sub|we v|erode n|unit-PL pro:rel|that cop|be&PRES
+	adj|still adj|underwater ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|LINK 6|4|CMOD 7|8|MOD 8|6|PRED
+	9|3|PUNCT
+*S1:	can sediments that happen to be (.) underwater (.) be eroded ?
+%mor:	mod|can n|sediment-PL pro:rel|that v|happen inf|to cop|be
+	adv|underwater aux|be part|erode-PASTP ?
+%gra:	1|2|AUX 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|6|INF 6|4|COMP 7|9|JCT 8|9|AUX
+	9|6|PRED 10|2|PUNCT
+*S3:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	they can ?
+%mor:	pro:sub|they mod|can ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S4:	<a hurricane> [?] .
+%mor:	det:art|a n|hurricane .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*S7:	there's a movement of water +/.
+%mor:	pro:exist|there~cop|be&3S det:art|a n|movement prep|of n|water +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*S1:	okay +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S7:	+, yeah they can be eroded .
+%mor:	co|yeah pro:sub|they mod|can aux|be part|erode-PASTP .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*S1:	okay now (.) if we have (.) significant currents in the oceans (.)
+	yes sediment can be (.) moved around .
+%mor:	co|okay adv|now conj|if pro:sub|we v|have adj|significant
+	n|current-PL prep|in det:art|the n|ocean-PL co|yes n|sediment
+	mod|can aux|be part|move-PASTP prep|around .
+%gra:	1|2|COM 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|MOD 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|15|COM 12|15|SUBJ 13|15|AUX 14|15|AUX 15|5|XJCT
+	16|15|JCT 17|2|PUNCT
+*S1:	but when it is moved around (.) it goes from one place to the other
+	.
+%mor:	conj|but conj|when pro:per|it aux|be&3S part|move-PASTP prep|around
+	pro:per|it v|go-3S prep|from det:num|one n|place prep|to det:art|the
+	qn|other .
+%gra:	1|8|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|8|CJCT 6|5|JCT 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|11|QUANT 11|9|POBJ 12|8|JCT 13|14|DET 14|12|POBJ 15|8|PUNCT
+*S1:	alright (.) and we still have deposition taking place .
+%mor:	co|alright coord|and pro:sub|we adv|still v|have n|deposition
+	part|take-PRESP n|place .
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|6|XMOD 8|7|OBJ
+	9|5|PUNCT
+*S1:	so in other words if my ocean basin is like so (.) &=writes:board
+	and you and I are looking at a cross section that developed &-uh for
+	sediments that sit right here &-uh if we have strong currents there
+	is sea level &-uh the currents could indeed (.) move some of this
+	sediment from right there (.) and deposit it someplace else (.)
+	where &-uh currents are not as &-uh strong .
+%mor:	co|so prep|in qn|other n|word-PL comp|if det:poss|my n|ocean
+	n|basin cop|be&3S co|like adv|so coord|and pro:per|you coord|and
+	pro:sub|I aux|be&PRES part|look-PRESP prep|at det:art|a n|cross
+	n|section pro:rel|that v|develop-PAST prep|for n|sediment-PL
+	pro:rel|that v|sit adv|right adv|here conj|if pro:sub|we v|have
+	adj|strong n|current-PL pro:exist|there cop|be&3S n|sea v|level
+	det:art|the n|current-PL mod|could adv|indeed n|move qn|some prep|of
+	det:dem|this n|sediment prep|from adv|right adv|there coord|and
+	v|deposit pro:per|it adv|someplace post|else pro:rel|where
+	n|current-PL cop|be&PRES neg|not prep|as adj|strong .
+%gra:	1|2|COM 2|17|JCT 3|4|QUANT 4|2|POBJ 5|9|LINK 6|7|DET 7|8|MOD 8|9|SUBJ
+	9|4|CMOD 10|9|COM 11|17|JCT 12|11|CONJ 13|12|COORD 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|0|ROOT 18|17|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|23|LINK
+	23|21|CMOD 24|23|JCT 25|24|POBJ 26|27|LINK 27|25|CMOD 28|29|JCT
+	29|27|JCT 30|32|LINK 31|32|SUBJ 32|27|CJCT 33|34|MOD 34|32|OBJ 35|36|SUBJ
+	36|34|CMOD 37|38|SUBJ 38|36|CPRED 39|40|DET 40|38|OBJ 41|43|AUX 42|43|JCT
+	43|40|CMOD 44|43|NJCT 45|44|JCT 46|47|DET 47|45|POBJ 48|44|JCT 49|50|JCT
+	50|48|POBJ 51|44|CONJ 52|51|COORD 53|52|OBJ 54|52|JCT 55|54|POBJ 56|58|LINK
+	57|58|SUBJ 58|55|CMOD 59|58|NEG 60|61|COORD 61|58|PRED 62|17|PUNCT
+*S1:	but to have (.) a very profound erosion or surface develop (.) is
+	our mountain or our pile of sediments (.) going to be underwater or
+	exposed to the elements ?
+%mor:	conj|but prep|to v|have det:art|a adv|very adj|profound n|erosion
+	coord|or n|surface v|develop aux|be&3S det:poss|our n|mountain
+	coord|or det:poss|our n|pile prep|of n|sediment-PL part|go-PRESP
+	inf|to cop|be adj|underwater coord|or v|expose-PAST prep|to
+	det:art|the n|element-PL ?
+%gra:	1|3|LINK 2|3|JCT 3|10|CJCT 4|7|DET 5|6|JCT 6|7|MOD 7|10|SUBJ 8|7|CONJ
+	9|8|COORD 10|0|ROOT 11|13|AUX 12|13|DET 13|10|OBJ 14|19|LINK 15|16|DET
+	16|19|SUBJ 17|16|NJCT 18|17|POBJ 19|13|CMOD 20|21|INF 21|19|COMP
+	22|21|PRED 23|21|CONJ 24|23|COORD 25|24|JCT 26|27|DET 27|25|POBJ 28|10|PUNCT
+*S3:	exposed .
+%mor:	part|expose-PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	it hasta be exposed (.) right ?
+%mor:	pro:per|it mod|have&3S~inf|to aux|be part|expose-PASTP co|right ?
+%gra:	1|5|SUBJ 2|5|AUX 3|5|INF 4|5|AUX 5|0|ROOT 6|5|COM 7|5|PUNCT
+*S1:	in_order_to develop a significant erosion or surface (.) our
+	sediments hafta be exposed to the elements .
+%mor:	inf|in_order_to v|develop det:art|a adj|significant n|erosion
+	coord|or v|surface det:poss|our n|sediment-PL mod|have~inf|to aux|be
+	part|expose-PASTP prep|to det:art|the n|element-PL .
+%gra:	1|2|INF 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|CONJ 7|6|COORD 8|9|DET
+	9|13|SUBJ 10|13|AUX 11|13|INF 12|13|AUX 13|7|COMP 14|13|JCT 15|16|DET
+	16|14|POBJ 17|2|PUNCT
+*S1:	in other words (.) we need rain (.) we need rivers (.) we need &-uh
+	wind (.) all of those &-uh factors that are going to &-uh help
+	weather down or erode the surface &-uh so that &-uh we develop what
+	is known as an unconformity .
+%mor:	prep|in qn|other n|word-PL pro:sub|we mod|need n|rain pro:sub|we
+	v|need n|river-PL pro:sub|we v|need n|wind adv|all prep|of
+	det:dem|those n|factor-PL pro:rel|that aux|be&PRES part|go-PRESP
+	inf|to v|help n|weather adv|down coord|or v|erode det:art|the
+	n|surface adv|so comp|that pro:sub|we v|develop pro:int|what
+	aux|be&3S part|know&PASTP prep|as det:art|a un#n|conformity .
+%gra:	1|6|JCT 2|3|QUANT 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|8|CJCT 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|11|SUBJ 11|8|CJCT 12|11|OBJ 13|14|JCT 14|12|NJCT 15|16|DET
+	16|14|POBJ 17|19|LINK 18|19|AUX 19|16|CMOD 20|21|INF 21|19|COMP 22|21|OBJ
+	23|21|JCT 24|21|CONJ 25|24|COORD 26|27|DET 27|25|OBJ 28|25|JCT
+	29|31|LINK 30|31|SUBJ 31|28|CPOBJ 32|34|SUBJ 33|34|AUX 34|31|COMP 35|34|JCT
+	36|37|DET 37|35|POBJ 38|8|PUNCT
+*S1:	so that brings us to the point of what happened to number five .
+%mor:	adv|so pro:rel|that v|bring-3S pro:obj|us prep|to det:art|the
+	n|point prep|of pro:int|what v|happen-PAST inf|to v|number
+	det:num|five .
+%gra:	1|3|JCT 2|3|LINK 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|SUBJ 10|8|CPOBJ 11|12|INF 12|10|COMP 13|12|OBJ 14|3|PUNCT
+*S1:	it could very well be (.) that unit five had been deposited along
+	the surface right on top of number four .
+%mor:	pro:per|it mod|could adv|very adv|well cop|be det:dem|that n|unit
+	det:num|five aux|have&PAST aux|be&PASTP part|deposit-PASTP
+	prep|along det:art|the n|surface adv|right prep|on n|top prep|of
+	n|number det:num|four .
+%gra:	1|5|SUBJ 2|5|AUX 3|4|JCT 4|5|JCT 5|0|ROOT 6|7|DET 7|5|PRED 8|11|SUBJ
+	9|11|AUX 10|11|AUX 11|7|CMOD 12|11|JCT 13|14|DET 14|12|POBJ 15|16|JCT
+	16|11|JCT 17|16|POBJ 18|17|NJCT 19|20|MOD 20|18|POBJ 21|5|PUNCT
+*S1:	but (.) because of the erosion that occurred (.) unit five was
+	removed .
+%mor:	conj|but conj|because prep|of det:art|the n|erosion pro:rel|that
+	v|occur-PAST n|unit det:num|five aux|be&PAST&13S part|remove-PASTP .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|JCT 4|5|DET 5|3|POBJ 6|7|LINK 7|5|CMOD 8|7|OBJ
+	9|11|SUBJ 10|11|AUX 11|8|CMOD 12|1|PUNCT
+*S1:	but it is also possible (.) that unit five was never deposited in
+	the first place .
+%mor:	conj|but pro:per|it cop|be&3S adv|also adj|possible comp|that
+	n|unit det:num|five aux|be&PAST&13S adv|never part|deposit-PASTP
+	prep|in det:art|the adj|first n|place .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|11|LINK 7|8|MOD 8|11|SUBJ
+	9|11|AUX 10|11|JCT 11|5|CMOD 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|3|PUNCT
+*S1:	how would we know then that unit five (.) ever existed if it wasn't
+	deposited right here +..?
+%mor:	pro:int|how mod|will&COND pro:sub|we v|know adv:tem|then comp|that
+	n|unit det:num|five adv|ever part|exist-PASTP conj|if pro:per|it
+	aux|be&PAST&13S~neg|not part|deposit-PASTP adv|right adv|here +..?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|10|JCT 6|8|LINK 7|8|MOD 8|10|QUANT
+	9|8|JCT 10|4|COMP 11|15|LINK 12|15|SUBJ 13|15|AUX 14|13|NEG 15|4|CJCT
+	16|17|JCT 17|15|JCT 18|4|PUNCT
+*S1:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S7:	it wouldn't be if [/] if it was ever deposited it wouldn't
+	completely (.) erode it away right ?
+%mor:	pro:per|it mod|will&COND~neg|not aux|be conj|if pro:per|it
+	aux|be&PAST&13S adv|ever part|deposit-PASTP pro:per|it
+	mod|will&COND~neg|not adv|complete&dadj-LY v|erode pro:per|it
+	adv|away co|right ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|9|LINK 6|9|SUBJ 7|9|AUX 8|9|JCT
+	9|4|PRED 10|14|SUBJ 11|14|AUX 12|11|NEG 13|14|JCT 14|9|COMP 15|14|OBJ
+	16|14|JCT 17|14|COM 18|4|PUNCT
+*S1:	okay &w &w what we're (.) saying here really (.) is that &-uh we
+	would be comparing (.) the cross section we are looking at right
+	here (.) to a cross section we might be able to see in another cliff
+	let's say a hundred kilometers away .
+%mor:	co|okay pro:int|what pro:sub|we~aux|be&PRES part|say-PRESP adv|here
+	adv|real&dadj-LY cop|be&3S comp|that pro:sub|we mod|will&COND aux|be
+	part|compare-PRESP det:art|the n|cross n|section pro:sub|we
+	aux|be&PRES part|look-PRESP prep|at adv|right adv|here prep|to
+	det:art|a n|cross n|section pro:sub|we mod|might cop|be adj|able
+	inf|to v|see prep|in qn|another n|cliff v|let~pro:obj|us v|say
+	det:art|a det:num|hundred n|kilometer-PL adv|away .
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|JCT 8|5|COMP
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|13|AUX 13|8|CPRED 14|16|DET 15|16|MOD
+	16|13|OBJ 17|19|SUBJ 18|19|AUX 19|16|CMOD 20|19|JCT 21|22|JCT 22|29|JCT
+	23|22|JCT 24|26|DET 25|26|MOD 26|23|POBJ 27|29|SUBJ 28|29|AUX 29|20|POBJ
+	30|19|JCT 31|32|INF 32|19|XJCT 33|32|JCT 34|35|QUANT 35|33|POBJ 36|32|XJCT
+	37|38|SUBJ 38|36|COMP 39|41|DET 40|41|QUANT 41|38|OBJ 42|38|JCT
+	43|5|PUNCT
+*S1:	so a hundred kilometers away (.) and by the way that's where we're
+	going to start talking about stratigraphic correlations (.) we may
+	be able to observe a hundred kilometers away (.) units one two three
+	four five and then six .
+%mor:	adv|so det:art|a det:num|hundred n|kilometer-PL adv|away coord|and
+	prep|by det:art|the n|way pro:rel|that~cop|be&3S pro:rel|where
+	pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|start part|talk-PRESP
+	prep|about adj|stratigraphic n|correlate&dv-TION-PL pro:sub|we
+	mod|may cop|be adj|able inf|to v|observe det:art|a det:num|hundred
+	n|kilometer-PL adv|away n|unit-PL det:num|one det:num|two
+	det:num|three det:num|four det:num|five coord|and adv:tem|then
+	det:num|six .
+%gra:	1|4|JCT 2|4|DET 3|4|QUANT 4|0|INCROOT 5|4|JCT 6|4|CONJ 7|6|COORD
+	8|9|DET 9|7|POBJ 10|11|LINK 11|9|CMOD 12|15|LINK 13|15|SUBJ 14|15|AUX
+	15|11|CPRED 16|17|INF 17|15|COMP 18|17|COMP 19|18|JCT 20|21|MOD 21|19|POBJ
+	22|24|SUBJ 23|24|AUX 24|15|CJCT 25|24|PRED 26|27|INF 27|25|XMOD 28|30|DET
+	29|30|QUANT 30|27|OBJ 31|33|JCT 32|33|MOD 33|37|DATE 34|36|DATE 35|36|DATE
+	36|37|DATE 37|30|XMOD 38|37|CONJ 39|40|JCT 40|38|COORD 41|4|PUNCT
+*S1:	that's how we infer (.) that a unit five ever existed .
+%mor:	pro:dem|that~cop|be&3S pro:int|how pro:sub|we v|infer comp|that
+	det:art|a n|unit det:num|five adv|ever part|exist-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CPRED 6|11|LINK 7|8|DET
+	8|11|SUBJ 9|10|QUANT 10|11|JCT 11|5|COMP 12|2|PUNCT
+*S1:	(be)cause we see it some other place where it was not eroded away .
+%mor:	conj|because pro:sub|we v|see pro:per|it qn|some qn|other n|place
+	pro:rel|where pro:per|it aux|be&PAST&13S neg|not part|erode-PASTP
+	adv|away .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|QUANT 6|7|QUANT 7|3|OBJ
+	8|12|LINK 9|12|SUBJ 10|12|AUX 11|10|NEG 12|7|CMOD 13|12|JCT 14|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	that's how we know (.) that unit five existed but in this
+	particular location &-uh it has been eroded away .
+%mor:	pro:dem|that~cop|be&3S pro:int|how pro:sub|we v|know comp|that
+	n|unit det:num|five v|exist-PAST conj|but prep|in det:dem|this
+	adj|particular n|locate&dv-TION pro:per|it aux|have&3S aux|be&PASTP
+	part|erode-PASTP adv|away .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CPRED 6|9|LINK 7|8|MOD
+	8|9|QUANT 9|5|COMP 10|18|LINK 11|18|JCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|18|SUBJ 16|18|AUX 17|18|AUX 18|5|CJCT 19|18|JCT 20|2|PUNCT
+*S1:	okay (.) so having said (.) that &-uh you know profound amounts of
+	erosion will take place only if these rocks are exposed to the
+	elements (.) what would you say then happens (.) after the
+	emplacement of dikes A B and C .
+%mor:	co|okay adv|so n:gerund|have-PRESP v|say&PAST comp|that pro:per|you
+	v|know adj|profound n|amount-PL prep|of n|erosion mod|will v|take
+	v|place adv|only comp|if det:dem|these n|rock-PL aux|be&PRES
+	part|expose-PASTP prep|to det:art|the n|element-PL pro:int|what
+	mod|will&COND pro:per|you co|say adv:tem|then v|happen-3S prep|after
+	det:art|the n|emplace&dv-MENT prep|of n|dike-PL n:prop|A n:prop|B
+	coord|and n:prop|C .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|9|MOD
+	9|7|OBJ 10|9|NJCT 11|10|POBJ 12|13|AUX 13|7|COMP 14|13|OBJ 15|13|JCT
+	16|20|LINK 17|18|DET 18|20|SUBJ 19|20|AUX 20|13|COMP 21|20|JCT 22|23|DET
+	23|21|POBJ 24|29|LINK 25|26|AUX 26|29|SUBJ 27|29|COM 28|29|JCT 29|20|CJCT
+	30|29|JCT 31|32|DET 32|30|POBJ 33|32|NJCT 34|36|MOD 35|36|NAME 36|33|POBJ
+	37|29|CONJ 38|37|COORD 39|4|PUNCT
+*S1:	what must happen Cliff ?
+%mor:	pro:int|what mod|must v|happen n:prop|Cliff ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S4:	like the sea comes back or &wha it (.) gets deposited under water
+	again ?
+%mor:	prep|like det:art|the n|sea v|come-3S adv|back coord|or pro:per|it
+	v|get-3S part|deposit-PASTP prep|under n|water adv|again ?
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|8|COMP 10|9|JCT 11|10|POBJ 12|9|JCT 13|4|PUNCT
+*S1:	okay we need sea level to do something don't we (.) right ?
+%mor:	adj|okay pro:sub|we v|need n|sea n|level inf|to v|do
+	pro:indef|something mod|do~neg|not pro:sub|we adj|right ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|7|INF 7|5|XMOD 8|12|SUBJ
+	9|12|AUX 10|9|NEG 11|12|SUBJ 12|7|JCT 13|3|PUNCT
+*S1:	in [x 3] other words if these rocks are initially under water (.)
+	but now we want (.) them to experience a period of erosion (.) that
+	means that either sea level drops &=writing:board sea level drop is
+	one possibility (.) what's the other possibility ?
+%mor:	prep|in qn|other n|word-PL conj|if det:dem|these n|rock-PL
+	cop|be&PRES adv|initial&dadj-LY adv|under n|water conj|but adv|now
+	pro:sub|we v|want pro:obj|them inf|to v|experience det:art|a
+	n|period prep|of n|erosion pro:rel|that v|mean-3S adv|that
+	adv|either n|sea adj|level n|drop-PL n|sea adj|level n|drop
+	cop|be&3S det:num|one n|possible&dadj-ITY pro:int|what~cop|be&3S
+	det:art|the qn|other n|possible&dadj-ITY ?
+%gra:	1|14|JCT 2|3|QUANT 3|1|POBJ 4|7|LINK 5|6|DET 6|7|SUBJ 7|14|CJCT 8|7|JCT
+	9|14|JCT 10|14|JCT 11|10|CONJ 12|11|COORD 13|14|SUBJ 14|0|ROOT
+	15|14|OBJ 16|17|INF 17|14|COMP 18|19|DET 19|17|OBJ 20|19|NJCT 21|20|POBJ
+	22|23|LINK 23|21|CMOD 24|23|JCT 25|32|JCT 26|29|MOD 27|29|MOD 28|29|MOD
+	29|31|MOD 30|31|MOD 31|32|SUBJ 32|23|COMP 33|34|QUANT 34|32|PRED 35|36|SUBJ
+	36|34|CMOD 37|39|DET 38|39|QUANT 39|36|PRED 40|14|PUNCT
+*S6:	weathered away ?
+%mor:	v|weather-PAST adv|away ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*S1:	what's that ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S6:	it's weathered away ?
+%mor:	pro:per|it~aux|be&3S part|weather-PASTP adv|away ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*S6:	eroded ?
+%mor:	part|erode-PASTP ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &e what's that ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S6:	it's eroded by .
+%mor:	pro:per|it~aux|be&3S part|erode-PASTP adv|by .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*S1:	by (.) currents is that what you're saying ?
+%mor:	prep|by n|current-PL cop|be&3S pro:dem|that pro:int|what
+	pro:per|you~aux|be&PRES part|say-PRESP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|3|PUNCT
+*S1:	no look either sea level can drop so that my rocks become exposed
+	to the surface (.) so that wind and rain and so on are going to
+	start working on those rocks and erode them away (.) or what else
+	can happen (.) mountain building processes ?
+%mor:	co|no co|look adv|either n|sea n|level n|can n|drop adv|so adv|that
+	det:poss|my n|rock-PL part|become&PASTP part|expose-PASTP prep|to
+	det:art|the n|surface adv|so det:dem|that n|wind coord|and n|rain
+	coord|and co|so adv|on aux|be&PRES part|go-PRESP inf|to v|start
+	part|work-PRESP prep|on det:dem|those n|rock-PL coord|and v|erode
+	pro:obj|them adv|away coord|or pro:int|what post|else mod|can
+	v|happen n|mountain n|building n|process-PL ?
+%gra:	1|7|COM 2|7|COM 3|7|JCT 4|7|MOD 5|7|MOD 6|7|MOD 7|0|ROOT 8|12|JCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|7|ROOT 13|12|COMP 14|13|JCT 15|16|DET
+	16|14|POBJ 17|19|JCT 18|19|DET 19|13|INCROOT 20|19|CONJ 21|20|COORD 22|19|CONJ
+	23|26|COM 24|26|JCT 25|26|AUX 26|22|COORD 27|28|INF 28|19|ROOT 29|28|COMP
+	30|29|JCT 31|32|DET 32|30|POBJ 33|29|CONJ 34|33|COORD 35|34|OBJ
+	36|34|JCT 37|34|CONJ 38|37|COORD 39|38|PQ 40|41|AUX 41|39|ROOT 42|44|MOD
+	43|44|MOD 44|41|OBJ 45|41|PUNCT
+*S8:	couldn't that part get pushed up ?
+%mor:	mod|could~neg|not det:dem|that n|part aux|get part|push-PASTP
+	adv|up ?
+%gra:	1|6|AUX 2|1|NEG 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*S1:	okay we can have tectonic deformation exactly .
+%mor:	adj|okay pro:sub|we mod|can v|have adj|tectonic de#n|form&dv-TION
+	adv|exact&dadj-LY .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|ENUM 7|6|JCT 8|4|PUNCT
+*S1:	the sediments themselves (.) can be uplifted .
+%mor:	det:art|the n|sediment-PL pro:refl|themselves mod|can cop|be
+	part|uplift-PASTP .
+%gra:	1|2|DET 2|3|SUBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*S1:	and that's what we can summarize as &=writes:board tectonic (.)
+	deformation +...
+%mor:	coord|and pro:dem|that~cop|be&3S pro:int|what pro:sub|we mod|can
+	v|summary&dadj-IZE adv|as adj|tectonic de#n|form&dv-TION +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CPRED 8|9|JCT
+	9|7|JCT 10|9|OM 11|3|PUNCT
+*S1:	okay so we either have sea level (.) change (.) sea level drop (.)
+	or the land itself came up by tectonic deformation .
+%mor:	co|okay co|so pro:sub|we adv|either v|have n|sea adj|level n|change
+	n|sea adj|level n|drop coord|or det:art|the n|land pro:refl|itself
+	v|come&PAST adv|up prep|by adj|tectonic de#n|form&dv-TION .
+%gra:	1|3|COM 2|3|COM 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|9|MOD 7|9|MOD 8|9|MOD
+	9|16|SUBJ 10|11|MOD 11|16|JCT 12|11|CONJ 13|14|DET 14|12|COORD 15|16|SUBJ
+	16|5|COMP 17|16|JCT 18|16|JCT 19|20|MOD 20|18|POBJ 21|5|PUNCT
+*S1:	either one (.) is going to accomplish the same thing .
+%mor:	qn|either pro:indef|one aux|be&3S part|go-PRESP inf|to v|accomplish
+	det:art|the adj|same n|thing .
+%gra:	1|2|QUANT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|4|PUNCT
+*S1:	okay &-um then (.) it looks like (.) in order for (.) more marine
+	sediments to be deposited so let's call these &=writes:board marine
+	sediments +...
+%mor:	co|okay adv:tem|then pro:per|it v|look-3S conj|like prep|in n|order
+	prep|for adv|more n|marine n|sediment-PL inf|to aux|be
+	part|deposit-PASTP adv|so v|let~pro:obj|us v|call det:dem|these
+	adj|marine n|sediment-PL +...
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|6|POBJ 8|6|JCT
+	9|10|JCT 10|11|MOD 11|8|POBJ 12|14|INF 13|14|AUX 14|11|XMOD 15|16|JCT
+	16|14|COMP 17|16|OBJ 18|6|ENUM 19|21|DET 20|21|MOD 21|18|OBJ 22|4|PUNCT
+*S1:	and these as well (.) are marine sediments (.) okay so what happens
+	then in order for us to be able to deposit units six through eight ?
+%mor:	coord|and pro:dem|these prep|as n|well cop|be&PRES n|marine
+	n|sediment-PL adj|okay adv|so pro:int|what v|happen-3S adv:tem|then
+	prep|in n|order prep|for pro:obj|us inf|to cop|be adj|able inf|to
+	v|deposit n|unit-PL det:num|six prep|through det:num|eight ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|MOD 7|5|PRED 8|7|PRED
+	9|11|JCT 10|11|SUBJ 11|8|CMOD 12|11|JCT 13|11|JCT 14|13|POBJ 15|11|JCT
+	16|15|POBJ 17|18|INF 18|11|COMP 19|18|PRED 20|21|INF 21|19|XMOD 22|21|OBJ
+	23|22|POSTMOD 24|23|JCT 25|24|POBJ 26|5|PUNCT
+*S1:	after this surface has been exposed to the elements and (.)
+	weathering erosion and so on have taken place (.) then we have (.)
+	what happening ?
+%mor:	prep|after det:dem|this n|surface aux|have&3S aux|be&PASTP
+	part|expose-PASTP prep|to det:art|the n|element-PL coord|and
+	part|weather-PRESP n|erosion coord|and adv|so adv|on v|have
+	part|take&PASTP n|place adv:tem|then pro:sub|we v|have pro:int|what
+	n:gerund|happen-PRESP ?
+%gra:	1|6|JCT 2|3|DET 3|1|POBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|12|MOD 12|10|COORD 13|6|CONJ 14|16|JCT 15|16|JCT
+	16|13|COORD 17|16|COMP 18|21|SUBJ 19|21|JCT 20|21|SUBJ 21|17|COMP 22|23|DET
+	23|21|OBJ 24|6|PUNCT
+*S6:	sediments from (.) other areas ?
+%mor:	n|sediment-PL prep|from qn|other n|area-PL ?
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|QUANT 4|2|POBJ 5|1|PUNCT
+*S1:	well (.) yeah sediments will eventually come into a basin but I'm
+	telling you that these are marine sediments (.) &=writes:board so we
+	really just have to reverse (.) what we're talking about here (.) so
+	we either have &-uh sea level (.) rise (.) okay (.) or we are going
+	to have (.) tectonic deformation in this case by the way created
+	uplift (.) and in this case (.) tectonic deformation is going to
+	create &-uh subsidence (.) in other words (.) sinking .
+%mor:	co|well co|yeah n|sediment-PL mod|will adv|eventual&dadj-LY v|come
+	prep|into det:art|a n|basin conj|but pro:sub|I~aux|be&1S
+	part|tell-PRESP pro:per|you comp|that pro:dem|these cop|be&PRES
+	n|marine n|sediment-PL conj|so pro:sub|we adv|real&dadj-LY adv|just
+	v|have inf|to v|reverse pro:int|what pro:sub|we~aux|be&PRES
+	part|talk-PRESP prep|about n|here conj|so pro:sub|we adv|either
+	v|have n|sea n|level v|rise adj|okay coord|or pro:sub|we aux|be&PRES
+	part|go-PRESP inf|to v|have adj|tectonic de#n|form&dv-TION prep|in
+	det:dem|this n|case prep|by det:art|the n|way v|create-PAST n|uplift
+	coord|and prep|in det:dem|this n|case adj|tectonic de#n|form&dv-TION
+	aux|be&3S part|go-PRESP inf|to v|create n|subsidence prep|in
+	qn|other n|word-PL part|sink-PRESP .
+%gra:	1|6|COM 2|3|COM 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|6|CJCT 14|13|OBJ 15|17|LINK
+	16|17|SUBJ 17|13|COMP 18|19|MOD 19|17|PRED 20|24|LINK 21|24|SUBJ 22|24|JCT
+	23|24|JCT 24|13|CJCT 25|26|INF 26|24|COMP 27|30|LINK 28|30|SUBJ 29|30|AUX
+	30|26|COMP 31|30|JCT 32|31|POBJ 33|36|LINK 34|36|SUBJ 35|36|JCT
+	36|24|CJCT 37|38|MOD 38|39|SUBJ 39|36|COMP 40|39|PRED 41|44|LINK 42|44|SUBJ
+	43|44|AUX 44|40|CMOD 45|46|INF 46|44|COMP 47|46|PRED 48|47|XMOD 49|48|JCT
+	50|51|DET 51|49|POBJ 52|48|JCT 53|54|DET 54|55|SUBJ 55|52|POBJ 56|55|OBJ
+	57|64|LINK 58|64|JCT 59|60|DET 60|58|POBJ 61|64|JCT 62|64|SUBJ 63|64|AUX
+	64|55|CJCT 65|66|INF 66|64|COMP 67|66|OBJ 68|66|JCT 69|70|QUANT
+	70|68|POBJ 71|66|XJCT 72|6|PUNCT
+*S1:	the ground sinks (.) and it goes below sea level yet again (.) and
+	(.) therefore we can start depositing new sediments &-uh on top of
+	the original units one through four .
+%mor:	det:art|the n|ground n|sink-PL coord|and pro:per|it v|go-3S
+	prep|below n|sea n|level adv|yet adv|again coord|and adv|therefore
+	pro:sub|we mod|can v|start part|deposit-PRESP adj|new n|sediment-PL
+	prep|on n|top prep|of det:art|the adj|origin&dn-AL n|unit-PL
+	pro:indef|one prep|through det:num|four .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|6|JCT 11|6|JCT 12|6|CONJ 13|16|JCT 14|16|SUBJ 15|16|AUX
+	16|12|COORD 17|16|COMP 18|19|MOD 19|17|OBJ 20|17|JCT 21|20|POBJ 22|21|NJCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|25|POSTMOD 27|26|NJCT 28|27|POBJ
+	29|3|PUNCT
+*S1:	so number five (.) is we have finally &-uh the deposition (.) of
+	units six (.) through eight .
+%mor:	adv|so v|number det:num|five cop|be&3S pro:sub|we v|have
+	adv|final&dadj-LY det:art|the n|deposition prep|of n|unit-PL
+	det:num|six prep|through det:num|eight .
+%gra:	1|2|JCT 2|6|CJCT 3|4|QUANT 4|2|COMP 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|9|XMOD 13|12|JCT 14|13|POBJ 15|6|PUNCT
+*S1:	okay so the exercise we just went through (.) is one of placing (.)
+	geologic events in their proper sequence but I haven't really told
+	you exactly when &-uh units one through four &-uh were &-uh
+	deposited (.) okay that (.) is something we can do (.) through what
+	is known as absolute dating (.) okay so what is absolute dating
+	again ?
+%mor:	adj|okay co|so det:art|the n|exercise pro:sub|we adv|just v|go&PAST
+	prep|through aux|be&3S det:num|one prep|of part|place-PRESP
+	adj|geologic n|event-PL prep|in det:poss|their adj|proper n|sequence
+	conj|but pro:sub|I aux|have~neg|not adv|real&dadj-LY part|tell&PASTP
+	pro:per|you adv|exact&dadj-LY pro:rel|when n|unit-PL det:num|one
+	adj|through det:num|four aux|be&PAST part|deposit-PASTP adj|okay
+	adv|that aux|be&3S pro:indef|something pro:sub|we mod|can v|do
+	adj|through pro:int|what aux|be&3S part|know&PASTP prep|as
+	adj|absolute part|date-PRESP adj|okay adv|so pro:int|what cop|be&3S
+	adj|absolute part|date-PRESP adv|again ?
+%gra:	1|4|MOD 2|1|COM 3|4|DET 4|0|INCROOT 5|7|SUBJ 6|7|JCT 7|4|CMOD 8|7|JCT
+	9|8|POBJ 10|9|PRED 11|10|NJCT 12|11|POBJ 13|14|MOD 14|12|OBJ 15|12|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|24|LINK 20|24|SUBJ 21|24|AUX 22|21|NEG
+	23|24|JCT 24|4|CJCT 25|24|OBJ 26|24|JCT 27|29|LINK 28|29|MOD 29|24|CJCT
+	30|31|MOD 31|33|SUBJ 32|33|AUX 33|29|COMP 34|33|JCT 35|37|JCT 36|37|AUX
+	37|34|CMOD 38|40|SUBJ 39|40|AUX 40|37|CMOD 41|40|PRED 42|44|SUBJ
+	43|44|AUX 44|41|CMOD 45|44|JCT 46|45|POBJ 47|46|XMOD 48|47|PRED 49|51|JCT
+	50|51|SUBJ 51|48|CMOD 52|51|PRED 53|51|XJCT 54|53|JCT 55|4|PUNCT
+*S1:	from what Professor Lohman (.) told you last week ?
+%mor:	prep|from pro:int|what n:prop|Professor n:prop|Lohman v|tell&PAST
+	pro:per|you adj|last n|week ?
+%gra:	1|0|INCROOT 2|5|LINK 3|4|NAME 4|5|SUBJ 5|1|CPOBJ 6|8|SUBJ 7|8|MOD
+	8|5|OBJ 9|1|PUNCT
+*SUF:	putting in (.) <time on it> [?] .
+%mor:	part|put-PRESP prep|in n|time prep|on pro:per|it .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|JCT 5|4|POBJ 6|1|PUNCT
+*S1:	okay so putting in numerical value (.) to (.) a geologic event .
+%mor:	co|okay adv|so part|put-PRESP prep|in adj|numeric-AL n|value
+	prep|to det:art|a adj|geologic n|event .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*S1:	how can we put a numerical value (.) to a geologic event that this
+	must have happened fifty three million years ago .
+%mor:	pro:int|how mod|can pro:sub|we v|put&ZERO det:art|a adj|numeric-AL
+	n|value prep|to det:art|a adj|geologic n|event comp|that
+	pro:dem|this mod|must aux|have part|happen-PASTP det:num|fifty
+	det:num|three det:num|million n|year-PL post|ago .
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|16|LINK 13|16|SUBJ 14|16|AUX 15|16|AUX
+	16|11|CMOD 17|20|QUANT 18|19|DATE 19|20|QUANT 20|16|OBJ 21|20|POSTMOD
+	22|4|PUNCT
+*S1:	how do we get that number ?
+%mor:	pro:int|how mod|do pro:sub|we v|get adv|that v|number ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|COMP 7|4|PUNCT
+*S9:	looking ⌈ at (.) radioactive decay ⌉ ?
+%mor:	part|look-PRESP prep|at adj|radioactive n|decay ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*S7:	radioactive decay ⌋ ?
+%mor:	adj|radioactive n|decay ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S1:	okay radioactive decay alright so this absolute dating (.) as we
+	shall see at the end of today (.) or beginning of next hour (.) is
+	going to be based on (.) this is (.) a numerical value (.) and the
+	numerical value's going to be based on &-uh radioactivity .
+%mor:	co|okay adj|radioactive n|decay adj|alright conj|so det:dem|this
+	adj|absolute part|date-PRESP conj|as pro:sub|we mod|shall v|see
+	prep|at det:art|the n|end prep|of adv:tem|today coord|or n|beginning
+	prep|of adj|next n|hour aux|be&3S part|go-PRESP inf|to aux|be
+	part|base-PASTP prep|on pro:dem|this cop|be&3S det:art|a
+	adj|numeric-AL n|value coord|and det:art|the adj|numeric-AL
+	n|value~aux|be&3S part|go-PRESP inf|to aux|be part|base-PASTP
+	prep|on n|radioactive&dadj-ITY .
+%gra:	1|4|COM 2|3|MOD 3|4|MOD 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|CPOBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CJCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|16|POBJ 18|24|LINK 19|18|COORD 20|19|NJCT 21|22|MOD 22|20|POBJ
+	23|24|AUX 24|17|CJCT 25|27|INF 26|27|AUX 27|24|COMP 28|30|JCT
+	29|30|SUBJ 30|27|COMP 31|33|DET 32|33|MOD 33|30|PRED 34|39|LINK 35|37|DET
+	36|37|MOD 37|39|SUBJ 38|39|AUX 39|33|CMOD 40|42|INF 41|42|AUX 42|39|COMP
+	43|42|JCT 44|43|POBJ 45|4|PUNCT
+*S1:	now well before radioactivity was discovered (.) anybody know when
+	radioactivity was discovered ?
+%mor:	adv|now adv|well prep|before n|radioactive&dadj-ITY aux|be&PAST&13S
+	part|discover-PASTP pro:indef|anybody v|know pro:int|when
+	n|radioactive&dadj-ITY aux|be&PAST&13S part|discover-PASTP ?
+%gra:	1|2|JCT 2|6|JCT 3|2|JCT 4|3|POBJ 5|6|AUX 6|0|ROOT 7|8|SUBJ 8|6|COMP
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|COMP 13|6|PUNCT
+*S4:	⌈ eighteen ⌉ +/.
+%mor:	det:num|eighteen +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ how ⌋ long ago was that ?
+%mor:	pro:int|how adj|long post|ago cop|be&PAST&13S pro:dem|that ?
+%gra:	1|4|LINK 2|4|JCT 3|2|PQ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*S4:	eighteen ninety six .
+%mor:	det:num|eighteen det:num|ninety det:num|six .
+%gra:	1|3|DATE 2|3|DATE 3|0|INCROOT 4|3|PUNCT
+*S1:	eighteen ninety six (.) right eighteen ninety six was when
+	radioactivity was discovered (.) but by that time &-uh geologic
+	mapping had been going on (.) for probably two hundred three hundred
+	years (.) okay two hundred or three hundred years .
+%mor:	det:num|eighteen det:num|ninety det:num|six n|right
+	det:num|eighteen det:num|ninety det:num|six aux|be&PAST&13S
+	pro:rel|when n|radioactive&dadj-ITY aux|be&PAST&13S
+	part|discover-PASTP conj|but prep|by det:dem|that n|time
+	adj|geologic n:gerund|map-PRESP aux|have&PAST aux|be&PASTP
+	part|go-PRESP adv|on prep|for adv|probable&dadj-LY det:num|two
+	det:num|hundred det:num|three det:num|hundred n|year-PL adj|okay
+	det:num|two det:num|hundred coord|or det:num|three det:num|hundred
+	n|year-PL .
+%gra:	1|3|DATE 2|3|DATE 3|12|LINK 4|5|MOD 5|6|DATE 6|7|DATE 7|12|SUBJ
+	8|12|AUX 9|12|LINK 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|21|LINK 14|18|JCT
+	15|16|DET 16|14|POBJ 17|18|MOD 18|21|SUBJ 19|21|AUX 20|21|AUX 21|12|CJCT
+	22|21|JCT 23|21|JCT 24|26|JCT 25|26|QUANT 26|29|QUANT 27|28|DATE 28|29|QUANT
+	29|36|MOD 30|32|MOD 31|32|QUANT 32|36|QUANT 33|32|CONJ 34|35|DATE
+	35|33|COORD 36|23|POBJ 37|12|PUNCT
+*S1:	and the geologic mapping that was done early (.) used concepts of
+	(.) relative dating (.) to come up with divisions and this is where
+	I'm going to mention what I think you should remember .
+%mor:	coord|and det:art|the adj|geologic n:gerund|map-PRESP adv|that
+	aux|be&PAST&13S part|do&PASTP adv|early part|use-PASTP n|concept-PL
+	prep|of n|relative part|date-PRESP inf|to v|come adv|up prep|with
+	n|division-PL coord|and pro:dem|this cop|be&3S pro:rel|where
+	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|mention pro:int|what
+	pro:sub|I v|think pro:per|you mod|should v|remember .
+%gra:	1|7|LINK 2|4|DET 3|4|MOD 4|7|SUBJ 5|4|JCT 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|XJCT 10|9|OBJ 11|10|NJCT 12|11|POBJ 13|7|XJCT 14|15|INF 15|13|COMP
+	16|15|JCT 17|15|JCT 18|17|POBJ 19|18|CONJ 20|19|COORD 21|15|COMP 22|25|LINK
+	23|25|SUBJ 24|25|AUX 25|21|CPRED 26|27|INF 27|25|COMP 28|30|LINK
+	29|30|SUBJ 30|27|COMP 31|33|SUBJ 32|33|AUX 33|30|COMP 34|7|PUNCT
+*S1:	divisions of time (.) that we can cut into sections like there is a
+	section right in here (.) known as the Cenozoic (.)
+	&=points_to_overhead a section in here known as the Mesozoic (.) a
+	section in here known as the Paleozoic (.) and the earliest time (.)
+	for the earth (.) known as the Precambrian .
+%mor:	n|division-PL prep|of n|time comp|that pro:sub|we mod|can
+	v|cut&ZERO prep|into n|section-PL co|like pro:exist|there cop|be&3S
+	det:art|a n|section adj|right prep|in n|here part|know&PASTP prep|as
+	det:art|the n:prop|Cenozoic det:art|a n|section prep|in n|here
+	part|know&PASTP prep|as det:art|the n:prop|Mesozoic det:art|a
+	n|section prep|in n|here part|know&PASTP prep|as det:art|the
+	n:prop|Paleozoic coord|and det:art|the adj|early-SP n|time prep|for
+	det:art|the n|earth part|know&PASTP prep|as det:art|the
+	n:prop|Precambrian .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CMOD
+	8|7|JCT 9|8|POBJ 10|12|COM 11|12|SUBJ 12|7|CJCT 13|14|DET 14|12|PRED 15|18|MOD
+	16|15|JCT 17|16|POBJ 18|14|XMOD 19|18|JCT 20|21|DET 21|19|POBJ
+	22|23|DET 23|21|OBJ 24|23|NJCT 25|24|POBJ 26|23|XMOD 27|26|JCT 28|29|DET
+	29|27|POBJ 30|31|DET 31|29|OBJ 32|31|NJCT 33|32|POBJ 34|31|XJCT 35|34|JCT
+	36|37|DET 37|35|POBJ 38|37|CONJ 39|41|DET 40|41|MOD 41|38|COORD 42|34|JCT
+	43|44|DET 44|42|POBJ 45|31|XMOD 46|45|JCT 47|48|DET 48|46|POBJ 49|1|PUNCT
+*S1:	where is the word Precambrian ?
+%mor:	pro:int|where cop|be&3S det:art|the n|word n:prop|Precambrian ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|APP 6|2|PUNCT
+*S1:	right there (.) the Precambrian .
+%mor:	adv|right adv|there det:art|the n:prop|Precambrian .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|2|PUNCT
+*S1:	now (.) it was much [/] much later (.) after radioactivity had been
+	discovered (.) that the values that you see here were added to the
+	Geologic Time Scale .
+%mor:	adv|now pro:per|it cop|be&PAST&13S qn|much adv|later prep|after
+	n|radioactive&dadj-ITY aux|have&PAST aux|be&PASTP
+	part|discover-PASTP comp|that det:art|the n|value-PL comp|that
+	pro:per|you co|see adv|here aux|be&PAST v|add-PAST prep|to
+	det:art|the n:prop|Geologic n:prop|Time n:prop|Scale .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|JCT 6|10|JCT 7|10|SUBJ 8|10|AUX
+	9|10|AUX 10|3|CJCT 11|10|OBJ 12|13|DET 13|11|OBJ 14|19|LINK 15|19|SUBJ
+	16|19|COM 17|19|JCT 18|19|AUX 19|13|CMOD 20|19|JCT 21|22|DET 22|24|NAME
+	23|24|NAME 24|20|POBJ 25|3|PUNCT
+*S1:	okay so this is the recent addition (.) to the time scale but prior
+	to that (.) we already knew about the Precambrian (.) the Paleozoic
+	(.) the Mesozoic and the Cenozoic .
+%mor:	co|okay adv|so pro:dem|this cop|be&3S det:art|the adj|recent
+	n|addition prep|to det:art|the n|time n|scale conj|but adj|prior
+	inf|to adv|that pro:sub|we adv|already v|know&PAST prep|about
+	det:art|the n:prop|Precambrian det:art|the n:prop|Paleozoic
+	det:art|the n:prop|Mesozoic coord|and det:art|the n:prop|Cenozoic .
+%gra:	1|3|COM 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|7|CONJ 13|12|COORD 14|15|INF 15|18|JCT
+	16|18|SUBJ 17|18|JCT 18|13|CMOD 19|18|JCT 20|21|DET 21|19|POBJ 22|23|DET
+	23|19|POBJ 24|25|DET 25|23|OBJ 26|25|CONJ 27|28|DET 28|26|COORD 29|4|PUNCT
+*S1:	how were these divisions (.) put in place ?
+%mor:	pro:rel|how cop|be&PAST det:dem|these n|division-PL part|put&PASTP
+	prep|in n|place ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*S1:	okay that's the question (.) we should ask ourselves now .
+%mor:	co|okay pro:dem|that~cop|be&3S det:art|the n|question pro:sub|we
+	mod|should v|ask pro:refl|ourselves adv|now .
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|8|SUBJ 7|8|AUX 8|5|CMOD
+	9|8|OBJ 10|8|JCT 11|3|PUNCT
+*S1:	well (.) the Geologic Time Scale (.) okay the most important thing
+	I can tell you about the Geologic Time Scale (.) is based on
+	profound changes in life+forms .
+%mor:	co|well det:art|the n:prop|Geologic n:prop|Time n:prop|Scale
+	adj|okay det:art|the qn|most adj|important n|thing pro:sub|I mod|can
+	v|tell pro:per|you prep|about det:art|the n:prop|Geologic
+	n:prop|Time n:prop|Scale aux|be&3S part|base-PASTP adv|on
+	adj|profound n|change-PL prep|in n|+n|life+n|form-PL .
+%gra:	1|3|COM 2|3|DET 3|5|NAME 4|5|NAME 5|13|JCT 6|10|MOD 7|10|DET 8|10|QUANT
+	9|10|MOD 10|5|APP 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|13|OBJ 15|21|LINK
+	16|17|DET 17|21|SUBJ 18|19|NAME 19|17|APP 20|21|AUX 21|13|CJCT 22|21|JCT
+	23|24|MOD 24|21|OBJ 25|24|NJCT 26|25|POBJ 27|13|PUNCT
+*S1:	if you (.) walk your way from (.) the Colorado River (.) at this
+	section of the Grand Canyon (.) you will discover that (.) close to
+	the river (.) you're seeing very primitive life+forms .
+%mor:	conj|if pro:per|you v|walk det:poss|your n|way prep|from
+	det:art|the n:prop|Colorado n:prop|River prep|at det:dem|this
+	n|section prep|of det:art|the n:prop|Grand n:prop|Canyon pro:per|you
+	mod|will v|discover adv|that adj|close prep|to det:art|the n|river
+	pro:per|you~aux|be&PRES part|see-PRESP adv|very n|primitive
+	n|+n|life+n|form-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|9|NAME
+	9|6|POBJ 10|3|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|10|POBJ 17|19|SUBJ 18|19|AUX 19|16|COMP 20|21|JCT 21|19|JCT 22|21|JCT
+	23|24|DET 24|22|POBJ 25|27|SUBJ 26|27|AUX 27|21|CMOD 28|29|JCT 29|30|MOD
+	30|27|OBJ 31|3|PUNCT
+*S1:	halfway up the section (.) as you come out_of the canyon you will
+	discover that you begin to see things that you recognize in today's
+	life+forms .
+%mor:	adv|+adj|half+n|way prep|up det:art|the n|section prep|as
+	pro:per|you v|come prep|out_of det:art|the n|canyon pro:per|you
+	mod|will v|discover comp|that pro:per|you v|begin inf|to v|see
+	n|thing-PL pro:rel|that pro:per|you v|recognize prep|in
+	adv:tem|today~aux|be&3S n|+n|life+n|form-PL .
+%gra:	1|2|JCT 2|13|JCT 3|4|DET 4|2|POBJ 5|7|COORD 6|7|SUBJ 7|13|CJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|16|LINK 15|16|SUBJ
+	16|13|COMP 17|18|INF 18|16|COMP 19|18|OBJ 20|22|LINK 21|22|SUBJ
+	22|19|CMOD 23|22|JCT 24|26|SUBJ 25|26|AUX 26|23|POBJ 27|13|PUNCT
+*S1:	and then near the very top (.) just about everything you see (.) is
+	something that still exists today .
+%mor:	coord|and adv:tem|then prep|near det:art|the adv|very adj|top
+	adv|just prep|about pro:indef|everything pro:per|you v|see aux|be&3S
+	pro:indef|something pro:rel|that adv|still v|exist-3S adv:tem|today
+	.
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|6|DET 5|6|JCT 6|3|POBJ 7|11|JCT
+	8|11|JCT 9|8|POBJ 10|11|SUBJ 11|6|CMOD 12|11|OBJ 13|12|PRED 14|16|LINK
+	15|16|JCT 16|13|CMOD 17|16|JCT 18|1|PUNCT
+*S1:	for that reason (.) the Paleozoic is known as early life (.) okay
+	the word Paleozoic means early life (.) and among the creatures of
+	the Paleozoic can anybody think of (.) one what was the dominant
+	life form of the Paleozoic ?
+%mor:	prep|for det:dem|that n|reason det:art|the n:prop|Paleozoic
+	aux|be&3S part|know&PASTP prep|as adj|early n|life co|okay
+	det:art|the n|word n:prop|Paleozoic v|mean-3S adj|early n|life
+	coord|and prep|among det:art|the n|creature-PL prep|of det:art|the
+	n:prop|Paleozoic n|can pro:indef|anybody v|think prep|of det:num|one
+	pro:int|what cop|be&PAST&13S det:art|the adj|dominant n|life n|form
+	prep|of det:art|the n:prop|Paleozoic ?
+%gra:	1|7|JCT 2|3|DET 3|1|POBJ 4|5|DET 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|13|COM 12|13|DET 13|7|JCT 14|15|SUBJ 15|13|CMOD
+	16|17|MOD 17|15|OBJ 18|27|LINK 19|27|JCT 20|21|DET 21|19|POBJ 22|21|NJCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|27|SUBJ 27|15|CJCT 28|27|JCT 29|28|POBJ
+	30|31|SUBJ 31|27|CJCT 32|35|DET 33|35|MOD 34|35|MOD 35|31|PRED 36|35|NJCT
+	37|38|DET 38|36|POBJ 39|7|PUNCT
+*S1:	this would have been five hundred and thirty to (.) two hundred and
+	forty four forty five million years ago .
+%mor:	pro:dem|this mod|will&COND aux|have cop|be&PASTP det:num|five
+	det:num|hundred coord|and det:num|thirty prep|to det:num|two
+	det:num|hundred coord|and det:num|forty det:num|four det:num|forty
+	det:num|five det:num|million n|year-PL post|ago .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|PRED 7|4|CONJ 8|7|COORD
+	9|8|JCT 10|11|QUANT 11|18|QUANT 12|11|CONJ 13|17|DATE 14|15|DATE
+	15|16|DATE 16|17|DATE 17|12|COORD 18|9|POBJ 19|18|POSTMOD 20|4|PUNCT
+*S1:	what was the dominant life back then ?
+%mor:	pro:int|what cop|be&PAST&13S det:art|the adj|dominant n|life
+	adv|back adv:tem|then ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|5|NJCT 8|2|PUNCT
+*S1:	there were a few fish in the oceans but the dominant life+form (.)
+	was actually amphibians .
+%mor:	pro:exist|there cop|be&PAST det:art|a n|few n|fish prep|in
+	det:art|the n|ocean-PL conj|but det:art|the adj|dominant
+	n|+n|life+n|form cop|be&PAST&13S adv|actual&dadj-LY n|amphibian-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|13|LINK 10|12|DET 11|12|MOD 12|13|SUBJ 13|2|CJCT 14|15|JCT 15|13|PRED
+	16|2|PUNCT
+*S1:	okay this is before (.) the emergence of reptiles (.) so this time
+	(.) segment in here is dominated by amphibians .
+%mor:	co|okay pro:dem|this cop|be&3S prep|before det:art|the n|emergence
+	prep|of n|reptile-PL conj|so det:dem|this n|time n|segment prep|in
+	n|here aux|be&3S part|dominate-PASTP prep|by n|amphibian-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|16|LINK 10|12|DET 11|12|MOD 12|16|SUBJ 13|12|NJCT 14|13|POBJ 15|16|AUX
+	16|3|CJCT 17|16|JCT 18|17|POBJ 19|3|PUNCT
+*S1:	Mesozoic everybody has seen Jurassic Park (.) okay so from that you
+	would be able to tell me (.) that (.) this time horizon in here is
+	dominated by reptiles (.) and Cenozoic which means recent life is
+	dominated by marmal [//] &-uh mammals (.) like you and me okay ?
+%mor:	n:prop|Mesozoic pro:indef|everybody aux|have&3S part|see&PASTP
+	n:prop|Jurassic n:prop|Park adj|okay adv|so prep|from comp|that
+	pro:per|you mod|will&COND cop|be adj|able inf|to v|tell pro:obj|me
+	adv|that det:dem|this n|time n|horizon prep|in n|here aux|be&3S
+	part|dominate-PASTP prep|by n|reptile-PL coord|and n:prop|Cenozoic
+	pro:int|which v|mean-3S adj|recent n|life aux|be&3S
+	part|dominate-PASTP prep|by n|mammal-PL prep|like pro:per|you
+	coord|and pro:obj|me co|okay ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|NAME 6|4|OBJ 7|6|PRED 8|7|JCT
+	9|7|JCT 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CPOBJ 14|13|PRED 15|16|INF
+	16|14|XMOD 17|16|OBJ 18|25|JCT 19|21|DET 20|21|MOD 21|25|SUBJ 22|21|NJCT
+	23|22|POBJ 24|25|AUX 25|16|COMP 26|25|JCT 27|26|POBJ 28|27|CONJ
+	29|28|COORD 30|31|LINK 31|25|CJCT 32|33|MOD 33|35|SUBJ 34|35|AUX 35|31|COMP
+	36|35|JCT 37|36|POBJ 38|37|NJCT 39|38|POBJ 40|39|CONJ 41|40|COORD 42|31|COM
+	43|4|PUNCT
+*S1:	now (.) I would like you to remember those three terms (.)
+	Paleozoic Mesozoic and Cenozoic the reason being that &-uh later on
+	in our discussions we will need to know what they are I'll simply
+	tell you life+forms of the Mesozoic and you should know what
+	Mesozoic means .
+%mor:	adv|now pro:sub|I mod|will&COND v|like pro:per|you inf|to
+	v|remember det:dem|those det:num|three n|term-PL n:prop|Paleozoic
+	n:prop|Mesozoic coord|and n:prop|Cenozoic det:art|the n|reason
+	aux|be-PRESP adv|that adv|later adv|on prep|in det:poss|our
+	n|discussion-PL pro:sub|we mod|will v|need inf|to v|know
+	pro:int|what pro:sub|they cop|be&PRES pro:sub|I~mod|will
+	adv|simple&dadj-LY v|tell pro:per|you n|+n|life+n|form-PL prep|of
+	det:art|the n:prop|Mesozoic coord|and pro:per|you mod|should v|know
+	pro:int|what n:prop|Mesozoic v|mean-3S .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|SUBJ 6|7|INF 7|4|COMP 8|10|DET
+	9|10|QUANT 10|26|SUBJ 11|10|APP 12|26|XJCT 13|12|CONJ 14|13|COORD
+	15|16|DET 16|26|SUBJ 17|26|AUX 18|17|PRED 19|17|JCT 20|17|JCT 21|17|JCT
+	22|23|DET 23|21|POBJ 24|26|SUBJ 25|26|AUX 26|7|COMP 27|28|INF 28|26|COMP
+	29|31|LINK 30|31|SUBJ 31|28|COMP 32|35|SUBJ 33|35|AUX 34|35|JCT 35|26|CJCT
+	36|35|OBJ 37|36|OBJ 38|37|NJCT 39|40|DET 40|38|POBJ 41|44|LINK 42|44|SUBJ
+	43|44|AUX 44|37|CJCT 45|47|LINK 46|47|SUBJ 47|44|COMP 48|4|PUNCT
+*S1:	<if you> [/] if you want to you can remember &-uh exactly when each
+	one of these ends but it's not absolutely necessary &-uh the
+	Paleozoic begins five hundred and thirty million years ago ends two
+	hundred and forty five million years ago (.) and everybody has
+	probably seen these &-uh &-uh doomsday (.) movies about asteroids
+	bombarding the earth and so on .
+%mor:	conj|if pro:per|you v|want prep|to pro:per|you mod|can v|remember
+	adv|exact&dadj-LY conj|when qn|each pro:indef|one prep|of
+	det:dem|these n|end-PL conj|but pro:per|it~cop|be&3S neg|not
+	adv|absolute&dadj-LY adj|necessary det:art|the n:prop|Paleozoic
+	v|begin-3S det:num|five det:num|hundred coord|and det:num|thirty
+	det:num|million n|year-PL post|ago v|end-3S det:num|two
+	det:num|hundred coord|and det:num|forty det:num|five det:num|million
+	n|year-PL post|ago coord|and pro:indef|everybody aux|have&3S
+	adv|probable&dadj-LY part|see&PASTP det:dem|these n|doomsday
+	n|movie-PL prep|about n|asteroid-PL part|bombard-PRESP det:art|the
+	n|earth coord|and adv|so adv|on .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|3|JCT 5|4|POBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|11|LINK 10|11|QUANT 11|8|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|17|LINK
+	16|17|SUBJ 17|11|CJCT 18|17|NEG 19|20|JCT 20|17|PRED 21|22|DET
+	22|23|SUBJ 23|20|CMOD 24|25|QUANT 25|29|QUANT 26|25|CONJ 27|28|DATE 28|26|COORD
+	29|31|SUBJ 30|29|POSTMOD 31|23|COMP 32|33|QUANT 33|38|QUANT 34|33|CONJ
+	35|37|DATE 36|37|DATE 37|34|COORD 38|31|OBJ 39|38|POSTMOD 40|44|LINK
+	41|44|SUBJ 42|44|AUX 43|44|JCT 44|31|CJCT 45|47|DET 46|47|MOD 47|44|OBJ
+	48|47|NJCT 49|48|POBJ 50|47|XJCT 51|52|DET 52|50|OBJ 53|50|CONJ 54|55|JCT
+	55|53|COORD 56|7|PUNCT
+*S1:	well we think that one may have happened sixty six million years
+	ago (.) when the dinosaurs go extinct .
+%mor:	co|well pro:sub|we v|think comp|that det:num|one mod|may aux|have
+	part|happen-PASTP det:num|sixty det:num|six det:num|million
+	n|year-PL post|ago conj|when det:art|the n|dinosaur-PL v|go
+	adj|extinct .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|AUX 8|3|COMP
+	9|11|DATE 10|11|DATE 11|12|QUANT 12|8|OBJ 13|12|POSTMOD 14|17|LINK
+	15|16|DET 16|17|SUBJ 17|3|CJCT 18|17|PRED 19|3|PUNCT
+*S1:	in other words reptiles &-uh many reptiles go extinct at this
+	particular time (.) and mammals become the dominant life+form &-uh
+	subsequently .
+%mor:	prep|in qn|other n|word-PL n|reptile-PL qn|many n|reptile-PL v|go
+	adj|extinct prep|at det:dem|this adj|particular n|time coord|and
+	n|mammal-PL cop|become det:art|the adj|dominant n|+n|life+n|form
+	adv|subsequent&dadj-LY .
+%gra:	1|0|INCROOT 2|3|QUANT 3|4|MOD 4|1|POBJ 5|6|QUANT 6|7|SUBJ 7|4|CMOD
+	8|7|JCT 9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|LINK 14|15|SUBJ
+	15|7|CJCT 16|18|DET 17|18|MOD 18|15|PRED 19|18|NJCT 20|1|PUNCT
+*S1:	the only other thing I'd like you to remember about the Geologic
+	Time Scale (.) is that (.) ninety percent of geologic time (.) is
+	actually squeezed into (.) just the bottom right here .
+%mor:	det:art|the qn|only qn|other n|thing pro:sub|I~mod|genmod prep|like
+	pro:per|you inf|to v|remember prep|about det:art|the n:prop|Geologic
+	n:prop|Time n:prop|Scale cop|be&3S comp|that det:num|ninety
+	n|percent prep|of adj|geologic n|time aux|be&3S adv|actual&dadj-LY
+	part|squeeze-PASTP prep|into adj|just det:art|the n|bottom adv|right
+	adv|here .
+%gra:	1|4|DET 2|3|QUANT 3|4|QUANT 4|0|INCROOT 5|10|SUBJ 6|10|AUX 7|6|NJCT
+	8|7|POBJ 9|10|INF 10|4|CMOD 11|16|JCT 12|13|DET 13|16|SUBJ 14|15|NAME
+	15|16|SUBJ 16|10|COMP 17|25|LINK 18|19|QUANT 19|25|SUBJ 20|19|NJCT 21|22|MOD
+	22|20|POBJ 23|25|AUX 24|25|JCT 25|16|CPRED 26|25|JCT 27|29|MOD 28|29|DET
+	29|26|POBJ 30|31|JCT 31|29|NJCT 32|4|PUNCT
+*S1:	okay so ninety percent of geologic time (.) keep in mind that the
+	earth is four point six (.) billion years old (.) four point six
+	billion years old (.) but ninety percent of the existence of the
+	earth (.) or time for the existence of the earth (.) is something
+	that we don't know very much about .
+%mor:	co|okay co|so det:num|ninety n|percent prep|of adj|geologic n|time
+	v|keep prep|in n|mind pro:rel|that det:art|the n|earth cop|be&3S
+	det:num|four n|point det:num|six det:num|billion n|year-PL adj|old
+	det:num|four n|point det:num|six det:num|billion n|year-PL adj|old
+	conj|but det:num|ninety n|percent prep|of det:art|the n|existence
+	prep|of det:art|the n|earth coord|or n|time prep|for det:art|the
+	n|existence prep|of det:art|the n|earth cop|be&3S
+	pro:indef|something pro:rel|that pro:sub|we mod|do~neg|not v|know
+	adv|very adv|much adv|about .
+%gra:	1|4|COM 2|4|COM 3|4|QUANT 4|8|SUBJ 5|4|NJCT 6|7|MOD 7|5|POBJ 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|14|LINK 12|13|DET 13|14|SUBJ 14|10|CMOD 15|16|QUANT
+	16|26|MOD 17|19|QUANT 18|19|QUANT 19|22|MOD 20|22|MOD 21|22|QUANT
+	22|26|MOD 23|25|QUANT 24|25|QUANT 25|26|MOD 26|14|PRED 27|44|LINK 28|29|QUANT
+	29|44|SUBJ 30|29|NJCT 31|32|DET 32|30|POBJ 33|32|NJCT 34|35|DET
+	35|33|POBJ 36|29|CONJ 37|36|COORD 38|29|NJCT 39|40|DET 40|38|POBJ 41|40|NJCT
+	42|43|DET 43|41|POBJ 44|8|CJCT 45|44|PRED 46|50|LINK 47|50|SUBJ 48|50|AUX
+	49|48|NEG 50|45|CMOD 51|52|JCT 52|50|JCT 53|52|JCT 54|8|PUNCT
+*S1:	and so we put it more or less (.) under the rug (.) way down here
+	(.) and most of what we know (.) about evolution and so on (.) is
+	since five hundred and thirty million years ago .
+%mor:	coord|and conj|so pro:sub|we v|put&ZERO pro:per|it adv|more
+	coord|or adj|less prep|under det:art|the n|rug adv|way prep|down
+	n|here coord|and qn|most prep|of pro:int|what pro:sub|we v|know
+	prep|about n|evolution coord|and co|so adv|on aux|be&3S prep|since
+	det:num|five det:num|hundred coord|and det:num|thirty
+	det:num|million n|year-PL post|ago .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|CONJ 8|7|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|JCT 13|8|JCT 14|13|POBJ 15|8|CONJ
+	16|15|COORD 17|16|JCT 18|20|LINK 19|20|SUBJ 20|17|CPOBJ 21|20|JCT 22|21|POBJ
+	23|4|CONJ 24|23|COORD 25|24|JCT 26|25|POBJ 27|26|NJCT 28|29|QUANT
+	29|27|POBJ 30|29|CONJ 31|33|QUANT 32|33|QUANT 33|30|COORD 34|33|POSTMOD
+	35|4|PUNCT
+*S1:	now has anybody worried about (.) how we know the age of the earth
+	?
+%mor:	adv|now aux|have&3S pro:indef|anybody v|worry-PAST prep|about
+	pro:int|how pro:sub|we v|know det:art|the n|age prep|of det:art|the
+	n|earth ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|LINK 7|8|SUBJ 8|5|CPOBJ
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+*S1:	how do we know that the earth is actually four point six billion
+	years old (.) yes .
+%mor:	pro:int|how mod|do pro:sub|we v|know comp|that det:art|the n|earth
+	cop|be&3S adv|actual&dadj-LY det:num|four n|point det:num|six
+	det:num|billion n|year-PL adj|old co|yes .
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|8|LINK 6|7|DET 7|8|SUBJ 8|4|COMP
+	9|10|JCT 10|11|QUANT 11|8|PRED 12|14|QUANT 13|14|QUANT 14|15|MOD
+	15|11|POSTMOD 16|15|COM 17|4|PUNCT
+*S2:	don't they [/] &-um they assume that all (.) the whole universe is
+	(.) or (.) all the other (.) space were (.) made at the same time
+	and then they (.) find the age of the rocks then .
+%mor:	mod|do~neg|not pro:sub|they v|assume comp|that qn|all det:art|the
+	adj|whole n|universe cop|be&3S coord|or qn|all det:art|the qn|other
+	n|space aux|be&PAST part|make&PASTP prep|at det:art|the adj|same
+	n|time coord|and adv:tem|then pro:sub|they v|find det:art|the n|age
+	prep|of det:art|the n|rock-PL adv:tem|then .
+%gra:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|10|LINK 6|9|QUANT 7|9|DET 8|9|MOD
+	9|10|SUBJ 10|4|COMP 11|17|LINK 12|15|QUANT 13|15|DET 14|15|QUANT
+	15|17|SUBJ 16|17|AUX 17|25|XJCT 18|17|JCT 19|21|DET 20|21|MOD 21|18|POBJ
+	22|21|CONJ 23|22|COORD 24|25|SUBJ 25|10|CPRED 26|27|DET 27|25|OBJ 28|27|NJCT
+	29|30|DET 30|28|POBJ 31|27|ENUM 32|4|PUNCT
+*S1:	okay so this is an assumption that &-uh she's pointing out that
+	we'll come back to a little bit later .
+%mor:	co|okay co|so pro:dem|this cop|be&3S det:art|a n|assumption
+	pro:rel|that pro:sub|she~aux|be&3S part|point-PRESP adv|out
+	comp|that pro:sub|we~mod|will v|come adv|back prep|to det:art|a
+	adj|little n|bit adv|later .
+%gra:	1|3|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|CMOD 11|10|JCT 12|15|LINK 13|15|SUBJ 14|15|AUX 15|10|COMP
+	16|15|JCT 17|15|JCT 18|20|DET 19|20|MOD 20|17|POBJ 21|20|NJCT 22|4|PUNCT
+*S1:	we have to make an assumption about (.) the age of all the objects
+	in the solar system .
+%mor:	pro:sub|we v|have inf|to v|make det:art|a n|assumption prep|about
+	det:art|the n|age prep|of qn|all det:art|the n|object-PL prep|in
+	det:art|the adj|solar n|system .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|13|QUANT 12|13|DET 13|10|POBJ 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|2|PUNCT
+*S1:	our earth has been churned around (.) so that the rocks that (.)
+	existed on its surface initially are no longer there .
+%mor:	det:poss|our n|earth aux|have&3S aux|be&PASTP part|churn-PASTP
+	adv|around conj|so comp|that det:art|the n|rock-PL pro:rel|that
+	v|exist-PAST prep|on det:poss|its adj|surface adv|initial&dadj-LY
+	cop|be&PRES qn|no adj|long-CP adv|there .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT 8|7|INCROOT
+	9|10|DET 10|8|OBJ 11|12|LINK 12|10|CMOD 13|12|JCT 14|15|DET 15|13|POBJ
+	16|17|JCT 17|12|COMP 18|19|QUANT 19|17|PRED 20|17|JCT 21|8|PUNCT
+*S1:	okay those rocks have disappeared (.) they've gone inside the
+	interior of the earth (.) so that we have to make the assumption (.)
+	that all the other bodies in the solar system that haven't undergone
+	this churning of the surface (.) formed at the same time (.) as the
+	earth did .
+%mor:	co|okay det:dem|those n|rock-PL v|have dis#part|appear-PASTP
+	pro:sub|they~aux|have part|go&PASTP adj|inside det:art|the
+	n|interior prep|of det:art|the n|earth adv|so comp|that pro:sub|we
+	v|have inf|to v|make det:art|the n|assumption comp|that qn|all
+	det:art|the qn|other n|body-PL prep|in det:art|the adj|solar
+	n|system pro:rel|that v|have~neg|not under#part|go&PASTP
+	det:dem|this part|churn-PRESP prep|of det:art|the n|surface
+	v|form-PAST prep|at det:art|the adj|same n|time prep|as det:art|the
+	n|earth v|do&PAST .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT 6|8|SUBJ 7|8|AUX 8|5|ROOT
+	9|18|JCT 10|11|DET 11|18|SUBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|18|JCT
+	16|18|LINK 17|18|SUBJ 18|8|ROOT 19|20|INF 20|18|COMP 21|22|DET 22|20|OBJ
+	23|27|LINK 24|27|QUANT 25|27|DET 26|27|QUANT 27|22|ROOT 28|27|NJCT
+	29|31|DET 30|31|MOD 31|28|POBJ 32|33|LINK 33|31|CMOD 34|33|NEG 35|33|INCROOT
+	36|35|INCROOT 37|36|XMOD 38|37|JCT 39|40|DET 40|38|POBJ 41|37|XJCT
+	42|41|JCT 43|45|DET 44|45|MOD 45|42|POBJ 46|49|COORD 47|48|DET 48|49|SUBJ
+	49|45|ENUM 50|36|PUNCT
+*S1:	and we'll be evaluating that assumption when we come to that &-uh
+	&-uh discussion in another &-uh few lectures from now .
+%mor:	coord|and pro:sub|we~mod|will aux|be part|evaluate-PRESP
+	det:dem|that n|assumption conj|when pro:sub|we v|come prep|to
+	det:dem|that n|discussion prep|in qn|another n|few n|lecture-PL
+	prep|from adv|now .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|5|CJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|10|JCT 15|16|QUANT
+	16|17|MOD 17|14|POBJ 18|17|NJCT 19|18|POBJ 20|5|PUNCT
+*S1:	okay so (.) this age for the earth four point six billion years (.)
+	is really based on dating meteorites .
+%mor:	co|okay co|so det:dem|this n|age prep|for det:art|the n|earth
+	det:num|four n|point det:num|six det:num|billion n|year-PL aux|be&3S
+	adv|real&dadj-LY part|base-PASTP adv|on part|date-PRESP
+	n|meteorite-PL .
+%gra:	1|4|COM 2|4|COM 3|4|DET 4|0|INCROOT 5|4|NJCT 6|9|DET 7|9|MOD 8|9|QUANT
+	9|5|POBJ 10|11|DATE 11|12|QUANT 12|15|SUBJ 13|15|AUX 14|15|JCT 15|9|XMOD
+	16|15|JCT 17|15|XJCT 18|17|OBJ 19|4|PUNCT
+*S1:	okay these objects that (.) come flying through space and fall
+	right here on [/] on earth (.) are the ones we use to date the earth
+	or dating the solar system in general (.) and we'll be &re
+	evaluating that (.) a little bit later on .
+%mor:	co|okay det:dem|these n|object-PL pro:rel|that v|come
+	part|fly-PRESP prep|through n|space coord|and v|fall adv|right
+	adv|here prep|on n|earth cop|be&PRES det:art|the pro:indef|one-PL
+	pro:sub|we v|use inf|to v|date det:art|the n|earth coord|or
+	part|date-PRESP det:art|the adj|solar n|system prep|in n|general
+	coord|and pro:sub|we~mod|will aux|be part|evaluate-PRESP comp|that
+	det:art|a adj|little n|bit adv|later adv|on .
+%gra:	1|3|COM 2|3|DET 3|15|SUBJ 4|5|LINK 5|3|CMOD 6|5|OBJ 7|6|JCT 8|7|POBJ
+	9|5|CONJ 10|9|COORD 11|12|JCT 12|10|JCT 13|10|JCT 14|13|POBJ 15|0|ROOT
+	16|17|DET 17|15|PRED 18|19|SUBJ 19|17|CMOD 20|21|INF 21|19|COMP 22|23|DET
+	23|21|OBJ 24|21|CONJ 25|24|COORD 26|28|DET 27|28|MOD 28|25|OBJ 29|28|NJCT
+	30|29|POBJ 31|35|LINK 32|35|SUBJ 33|35|AUX 34|35|AUX 35|25|CJCT
+	36|35|OBJ 37|39|DET 38|39|MOD 39|36|OBJ 40|39|NJCT 41|40|JCT 42|15|PUNCT
+*S1:	so (.) most of what we know (.) about geologic time (.) comprises
+	only about ten percent (.) of the entire history of the earth .
+%mor:	adv|so qn|most prep|of pro:int|what pro:sub|we v|know prep|about
+	adj|geologic n|time v|comprise-3S adv|only prep|about det:num|ten
+	n|percent prep|of det:art|the adj|entire n|history prep|of
+	det:art|the n|earth .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|6|LINK 5|6|SUBJ 6|3|CPOBJ 7|8|JCT 8|9|MOD
+	9|10|SUBJ 10|6|COMP 11|10|JCT 12|10|JCT 13|14|QUANT 14|12|POBJ
+	15|14|NJCT 16|18|DET 17|18|MOD 18|15|POBJ 19|18|NJCT 20|21|DET 21|19|POBJ
+	22|2|PUNCT
+*S1:	that's (.) very [/] very important .
+%mor:	pro:dem|that~cop|be&3S adv|very adj|important .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*S1:	any questions about this (.) yes .
+%mor:	qn|any n|question-PL prep|about det:dem|this co|yes .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*S6:	I read that &-uh the rock found in (.) on the moon ?
+%mor:	pro:sub|I v|read&ZERO comp|that det:art|the n|rock v|found adv|in
+	prep|on det:art|the n|moon ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*S1:	yes +/.
+%mor:	co|yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S6:	+, it's used to &-uh help date the [/] &-uh the age of the .
+%mor:	pro:per|it~aux|be&3S part|use-PASTP inf|to v|help v|date
+	det:art|the n|age prep|of det:art|the .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|COMP 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|3|PUNCT
+*S1:	right [/] right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S6:	⌈ I mean ⌉ +/.
+%mor:	pro:sub|I v|mean +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S1:	+, ⌊ <no [/] no> [?] ⌋ this churning I'm talking about (.) where
+	the surface of the earth renews itself &-uh probably every two
+	hundred million years or thereabouts (.) every rock on the surface
+	have pretty much &-uh disappeared .
+%mor:	qn|no det:dem|this n:gerund|churn-PRESP pro:sub|I~aux|be&1S
+	part|talk-PRESP prep|about pro:int|where det:art|the n|surface
+	prep|of det:art|the n|earth v|renew-3S pro:refl|itself
+	adv|probable&dadj-LY qn|every det:num|two det:num|hundred
+	det:num|million n|year-PL coord|or adv|thereabouts qn|every n|rock
+	prep|on det:art|the n|surface aux|have adv|pretty adv|much
+	dis#part|appear-PASTP .
+%gra:	1|3|QUANT 2|3|DET 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|14|LINK
+	9|10|DET 10|14|SUBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|7|CPOBJ 15|14|OBJ
+	16|32|JCT 17|18|QUANT 18|19|QUANT 19|21|QUANT 20|21|QUANT 21|32|SUBJ
+	22|21|CONJ 23|25|JCT 24|25|QUANT 25|22|COORD 26|25|NJCT 27|28|DET
+	28|26|POBJ 29|32|AUX 30|31|JCT 31|32|JCT 32|14|CJCT 33|6|PUNCT
+*S1:	in the ocean basins that is .
+%mor:	prep|in det:art|the n|ocean n|basin-PL pro:rel|that cop|be&3S .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|6|LINK 6|4|CMOD 7|1|PUNCT
+*S1:	on the moon on the other hand &-uh there is absolutely no movement
+	(.) of any crustal blocks (.) so that the earliest rocks to form on
+	the moon (.) are still on its surface .
+%mor:	prep|on det:art|the n|moon prep|on det:art|the qn|other n|hand
+	adv|there cop|be&3S adv|absolute&dadj-LY qn|no n|movement prep|of
+	qn|any adj|crust&dn-AL n|block-PL conj|so comp|that det:art|the
+	adj|early-SP n|rock-PL inf|to v|form prep|on det:art|the n|moon
+	cop|be&PRES adv|still prep|on det:poss|its adj|surface .
+%gra:	1|9|JCT 2|3|DET 3|1|POBJ 4|9|JCT 5|7|DET 6|7|QUANT 7|4|POBJ 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|12|QUANT 12|10|POBJ 13|12|NJCT 14|16|QUANT 15|16|MOD
+	16|13|POBJ 17|9|PRED 18|23|LINK 19|21|DET 20|21|MOD 21|23|SUBJ 22|23|INF
+	23|17|COMP 24|23|JCT 25|26|DET 26|24|POBJ 27|23|XJCT 28|27|JCT
+	29|27|JCT 30|31|DET 31|29|POBJ 32|9|PUNCT
+*S1:	and when you date rocks on the moon (.) the oldest ones are about
+	four point four (.) billion years old .
+%mor:	coord|and conj|when pro:per|you n|date n|rock-PL prep|on
+	det:art|the n|moon det:art|the adj|old-SP n|one-PL cop|be&PRES
+	prep|about det:num|four v|point det:num|four det:num|billion
+	n|year-PL adj|old .
+%gra:	1|5|LINK 2|4|LINK 3|4|SUBJ 4|5|MOD 5|12|SUBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|11|DET 10|11|MOD 11|5|APP 12|0|ROOT 13|12|JCT 14|15|QUANT 15|13|CPOBJ
+	16|18|QUANT 17|18|QUANT 18|15|OBJ 19|18|POSTMOD 20|12|PUNCT
+*S1:	so they're not exactly four point six which is what we are claiming
+	the age of the earth to be (.) but they are awfully close (.) to the
+	age of the earth .
+%mor:	adv|so pro:sub|they~cop|be&PRES neg|not adv|exact&dadj-LY
+	det:num|four n|point det:num|six pro:rel|which cop|be&3S
+	pro:int|what pro:sub|we aux|be&PRES part|claim-PRESP det:art|the
+	n|age prep|of det:art|the n|earth inf|to cop|be conj|but
+	pro:sub|they cop|be&PRES adv|awful&dadj-LY adj|close prep|to
+	det:art|the n|age prep|of det:art|the n|earth .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|JCT 6|7|QUANT 7|3|PRED 8|9|QUANT
+	9|10|LINK 10|7|CMOD 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CPRED
+	15|16|DET 16|21|SUBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|21|INF 21|14|COMP
+	22|24|LINK 23|24|SUBJ 24|10|CJCT 25|26|JCT 26|24|PRED 27|26|JCT 28|29|DET
+	29|27|POBJ 30|29|NJCT 31|32|DET 32|30|POBJ 33|3|PUNCT
+*S1:	so the oldest &-uh rocks on the moon are about four point four
+	billion years .
+%mor:	co|so det:art|the adj|old-SP n|rock-PL prep|on det:art|the n|moon
+	cop|be&PRES prep|about det:num|four n|point det:num|four
+	det:num|billion n|year-PL .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|8|SUBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|0|ROOT
+	9|8|JCT 10|11|QUANT 11|14|MOD 12|14|QUANT 13|14|QUANT 14|9|POBJ 15|8|PUNCT
+*S1:	and in fact if you look at our syllabus (.) you'll discover that
+	&-uh we're going to talk about the origin of the moon (.) and one of
+	the issues we're going to be addressing at that time is why the moon
+	is slightly younger (.) than what we think the age of the solar
+	system to be .
+%mor:	coord|and prep|in n|fact conj|if pro:per|you v|look prep|at
+	det:poss|our n|syllabus pro:per|you~mod|will v|discover comp|that
+	pro:sub|we~aux|be&PRES part|go-PRESP prep|to n|talk prep|about
+	det:art|the n|origin prep|of det:art|the n|moon coord|and
+	det:num|one prep|of det:art|the n|issue-PL pro:sub|we~aux|be&PRES
+	part|go-PRESP inf|to aux|be part|address-PRESP prep|at det:dem|that
+	n|time cop|be&3S pro:int|why det:art|the n|moon cop|be&3S
+	adv|slight&dadj-LY adj|young-CP prep|than pro:int|what pro:sub|we
+	v|think det:art|the n|age prep|of det:art|the adj|solar n|system
+	inf|to cop|be .
+%gra:	1|12|LINK 2|12|JCT 3|2|POBJ 4|6|LINK 5|6|SUBJ 6|12|CJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|12|COMP 17|16|JCT 18|17|POBJ 19|16|JCT 20|21|DET 21|19|POBJ
+	22|21|NJCT 23|24|DET 24|22|POBJ 25|21|CONJ 26|25|COORD 27|26|NJCT 28|29|DET
+	29|27|POBJ 30|32|SUBJ 31|32|AUX 32|12|CJCT 33|35|INF 34|35|AUX 35|32|COMP
+	36|35|JCT 37|38|DET 38|36|POBJ 39|35|XJCT 40|43|LINK 41|42|DET 42|43|SUBJ
+	43|39|CPRED 44|45|JCT 45|43|PRED 46|45|JCT 47|49|LINK 48|49|SUBJ
+	49|46|CPOBJ 50|51|DET 51|46|CPOBJ 52|51|NJCT 53|55|DET 54|55|MOD 55|52|POBJ
+	56|57|INF 57|55|XMOD 58|12|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	another comment (.) ⌈ yes ⌉ ?
+%mor:	qn|another n|comment co|yes ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|COM 4|2|PUNCT
+*S6:	⌊ how ⌋ do we know that the moon hasn't been <changing since> [?]
+	(.) its formation ?
+%mor:	pro:int|how mod|do pro:sub|we v|know comp|that det:art|the n|moon
+	aux|have&3S~neg|not aux|be&PASTP part|change-PRESP conj|since
+	det:poss|its n|form&dv-TION ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|11|LINK 6|7|DET 7|11|SUBJ 8|11|AUX
+	9|8|NEG 10|11|AUX 11|4|COMP 12|4|JCT 13|14|DET 14|12|POBJ 15|4|PUNCT
+*S1:	that it hasn't been churning its surface ?
+%mor:	comp|that pro:per|it aux|have&3S~neg|not aux|be&PASTP
+	part|churn-PRESP det:poss|its adj|surface ?
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*S1:	well partly (.) because we find very old (.) rocks on its surface
+	(.) but also because it's so small (.) okay because it is so small
+	(.) it is not able to sustain &-um convection in its interior (.) to
+	be able to destroy (.) its original crust .
+%mor:	adv|well adv|part&dadj-LY conj|because pro:sub|we v|find adv|very
+	adj|old n|rock-PL prep|on det:poss|its adj|surface conj|but adv|also
+	conj|because pro:per|it~cop|be&3S adv|so adj|small adj|okay
+	conj|because pro:per|it cop|be&3S adv|so adj|small pro:per|it
+	cop|be&3S neg|not adj|able inf|to v|sustain n|convection prep|in
+	det:poss|its n|interior inf|to cop|be adj|able inf|to v|destroy
+	det:poss|its adj|origin&dn-AL n|crust .
+%gra:	1|2|JCT 2|16|JCT 3|5|LINK 4|5|SUBJ 5|2|CPOBJ 6|7|JCT 7|8|MOD 8|5|OBJ
+	9|5|JCT 10|11|DET 11|9|POBJ 12|2|CONJ 13|12|COORD 14|16|LINK 15|16|SUBJ
+	16|0|ROOT 17|18|JCT 18|19|MOD 19|16|PRED 20|22|LINK 21|22|SUBJ 22|26|CJCT
+	23|24|JCT 24|22|PRED 25|26|SUBJ 26|16|CJCT 27|26|NEG 28|26|PRED
+	29|30|INF 30|28|XMOD 31|30|OBJ 32|30|JCT 33|34|DET 34|32|POBJ 35|36|INF
+	36|30|XJCT 37|36|PRED 38|39|INF 39|37|XMOD 40|42|DET 41|42|MOD 42|39|OBJ
+	43|16|PUNCT
+*S1:	so its original crust is [/] is still there (.) still preserved .
+%mor:	adv|so det:poss|its adj|origin&dn-AL n|crust aux|be&3S adv|still
+	adv|there adv|still part|preserve-PASTP .
+%gra:	1|4|JCT 2|4|DET 3|4|MOD 4|9|SUBJ 5|9|AUX 6|9|JCT 7|9|JCT 8|9|JCT
+	9|0|ROOT 10|9|PUNCT
+*S1:	and that is a topic that &-uh we're going to address in detail (.)
+	when we talk about the origin of the moon &-uh in another few
+	lectures .
+%mor:	coord|and pro:dem|that cop|be&3S det:art|a n|topic comp|that
+	pro:sub|we~aux|be&PRES part|go-PRESP prep|to n|address prep|in
+	n|detail conj|when pro:sub|we v|talk prep|about det:art|the n|origin
+	prep|of det:art|the n|moon prep|in qn|another n|few n|lecture-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CMOD 10|9|JCT 11|10|POBJ 12|11|NJCT 13|12|POBJ 14|16|LINK 15|16|SUBJ
+	16|9|CJCT 17|16|JCT 18|19|DET 19|17|POBJ 20|19|NJCT 21|22|DET 22|20|POBJ
+	23|22|NJCT 24|25|QUANT 25|26|MOD 26|23|POBJ 27|3|PUNCT
+*S1:	now (.) another topic I would like to bring up &-uh which as I said
+	a moment ago was very influential (.) in putting the Geologic Time
+	Scale together (.) okay remember that in identifying recent life (.)
+	middle life and early life (.) correlations were being made over
+	very large distances .
+%mor:	adv|now qn|another n|topic pro:sub|I mod|will&COND co|like inf|to
+	v|bring adv|up pro:rel|which conj|as pro:sub|I v|say&PAST det:art|a
+	n|moment post|ago cop|be&PAST&13S adv|very adj|influential prep|in
+	part|put-PRESP det:art|the n:prop|Geologic n:prop|Time n:prop|Scale
+	adv|together adj|okay v|remember adv|that adv|in
+	n:gerund|identify-PRESP adj|recent n|life adj|middle n|life
+	coord|and adj|early n|life n|correlate&dv-TION-PL aux|be&PAST
+	n|being part|make&PASTP adv|over adv|very adj|large n|distance-PL .
+%gra:	1|8|JCT 2|3|QUANT 3|8|SUBJ 4|6|SUBJ 5|6|AUX 6|3|COM 7|8|INF 8|0|ROOT
+	9|8|JCT 10|13|LINK 11|13|LINK 12|13|SUBJ 13|8|COMP 14|15|DET 15|17|SUBJ
+	16|15|POSTMOD 17|13|COMP 18|19|JCT 19|17|PRED 20|17|JCT 21|20|POBJ
+	22|23|DET 23|21|OBJ 24|25|NAME 25|28|SUBJ 26|28|JCT 27|28|JCT 28|23|CMOD
+	29|28|JCT 30|28|JCT 31|30|POBJ 32|33|MOD 33|35|MOD 34|35|MOD 35|31|OBJ
+	36|35|CONJ 37|39|MOD 38|39|MOD 39|36|COORD 40|35|ENUM 41|40|PRED 42|41|XMOD
+	43|42|JCT 44|45|JCT 45|46|MOD 46|42|OBJ 47|8|PUNCT
+*S1:	and (.) on the handout I gave you (.) the example I would like to
+	use (.) is of sedimentary layers very much like the ones we drew in
+	our cross sections over there (.) but in this case we are looking at
+	northern Colorado .
+%mor:	coord|and prep|on det:art|the n|+v|hand+prep|out pro:sub|I
+	v|give&PAST pro:per|you det:art|the n|example pro:sub|I
+	mod|will&COND co|like prep|to n|use cop|be&3S prep|of
+	adj|sedimentary n|layer-PL adv|very adv|much prep|like det:art|the
+	pro:indef|one-PL pro:sub|we v|draw&PAST prep|in det:poss|our
+	adj|cross n|section-PL prep|over n|there conj|but prep|in
+	det:dem|this n|case pro:sub|we aux|be&PRES part|look-PRESP prep|at
+	adj|northern n:prop|Colorado .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|12|CJCT 7|6|OBJ2 8|9|DET
+	9|6|OBJ 10|12|SUBJ 11|12|AUX 12|25|COM 13|25|JCT 14|25|SUBJ 15|25|AUX
+	16|15|JCT 17|18|MOD 18|16|POBJ 19|20|JCT 20|15|JCT 21|15|JCT 22|23|DET
+	23|21|POBJ 24|25|SUBJ 25|0|ROOT 26|25|JCT 27|29|DET 28|29|MOD 29|26|POBJ
+	30|25|JCT 31|30|POBJ 32|25|CONJ 33|38|JCT 34|35|DET 35|33|POBJ 36|38|SUBJ
+	37|38|AUX 38|32|COORD 39|38|JCT 40|41|MOD 41|39|POBJ 42|25|PUNCT
+*S1:	&-uh I found this convenient to show you because (.) an oil company
+	went and drilled five holes (.) right here in northern Colorado &-uh
+	over a distance of about a hundred and fifty kilometers (.) they put
+	in five different holes (.) and discovered the following .
+%mor:	pro:sub|I v|find&PAST det:dem|this adj|convenient inf|to v|show
+	pro:per|you conj|because det:art|a n|oil n|company v|go&PAST
+	coord|and part|drill-PASTP det:num|five n|hole-PL adv|right adv|here
+	prep|in adj|northern n:prop|Colorado prep|over det:art|a n|distance
+	prep|of adv|about det:art|a det:num|hundred coord|and det:num|fifty
+	n|kilometer-PL pro:sub|they v|put&ZERO prep|in det:num|five
+	adj|different n|hole-PL coord|and v|discover-PAST det:art|the
+	n:gerund|follow-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|JCT 5|6|INF 6|4|XMOD 7|6|OBJ 8|12|LINK
+	9|11|DET 10|11|MOD 11|12|SUBJ 12|2|CJCT 13|33|LINK 14|33|XJCT 15|16|QUANT
+	16|14|OBJ 17|18|JCT 18|14|JCT 19|14|JCT 20|21|MOD 21|19|POBJ 22|14|JCT
+	23|24|DET 24|22|POBJ 25|24|NJCT 26|28|JCT 27|28|DET 28|31|QUANT
+	29|28|CONJ 30|29|COORD 31|25|POBJ 32|33|SUBJ 33|12|CJCT 34|33|JCT 35|37|QUANT
+	36|37|MOD 37|34|POBJ 38|12|CONJ 39|38|COORD 40|41|DET 41|39|OBJ 42|2|PUNCT
+*S1:	there's hole number one (.) they went all the way down to whatever
+	that is &-um a hundred meters or so (.) perhaps deeper than that (.)
+	and they found (.) a sandstone layer there (.) they found a shale
+	right there (.) and they found this &-uh formation that I colored in
+	yellow right there .
+%mor:	pro:exist|there~cop|be&3S n|hole n|number det:num|one pro:sub|they
+	v|go&PAST qn|all det:art|the n|way adv|down prep|to pro:int|whatever
+	adv|that cop|be&3S det:art|a det:num|hundred n|meter-PL coord|or
+	co|so adv|perhaps adj|deep-CP prep|than pro:dem|that coord|and
+	pro:sub|they v|find&PAST det:art|a n|+n|sand+n|stone n|layer
+	adv|there pro:sub|they v|find&PAST det:art|a n|shale adv|right
+	adv|there coord|and pro:sub|they v|find&PAST det:dem|this
+	n|form&dv-TION comp|that pro:sub|I v|color-PAST prep|in n|yellow
+	adv|right adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PRED 6|7|SUBJ 7|5|CMOD
+	8|10|QUANT 9|10|DET 10|7|OBJ 11|7|JCT 12|7|JCT 13|15|LINK 14|15|JCT 15|12|CPOBJ
+	16|18|DET 17|18|QUANT 18|15|PRED 19|18|CONJ 20|22|COM 21|22|JCT
+	22|19|COORD 23|22|JCT 24|23|POBJ 25|27|LINK 26|27|SUBJ 27|18|CJCT 28|30|DET
+	29|30|MOD 30|27|OBJ 31|27|JCT 32|33|SUBJ 33|27|CJCT 34|35|DET 35|33|OBJ
+	36|37|JCT 37|35|NJCT 38|40|LINK 39|40|SUBJ 40|37|CJCT 41|42|DET 42|40|OBJ
+	43|45|LINK 44|45|SUBJ 45|42|CMOD 46|45|JCT 47|46|POBJ 48|49|JCT 49|45|JCT
+	50|2|PUNCT
+*S1:	then they moved about what &-uh thirty forty kilometers away (.)
+	put another hole in the ground and discovered exactly the same
+	relationships they had seen over here (.) and repeated that five
+	times (.) and (.) you can see this &-uh orange unit appears in all
+	five holes (.) and the yellow unit likewise (.) appears in all five
+	holes .
+%mor:	adv:tem|then pro:sub|they v|move-PAST prep|about pro:int|what
+	det:num|thirty det:num|forty n|kilometer-PL adv|away v|put&ZERO
+	qn|another n|hole prep|in det:art|the n|ground coord|and
+	v|discover-PAST adv|exact&dadj-LY det:art|the adj|same
+	n|relate&dv-TION-SHIP-PL pro:sub|they aux|have&PAST part|see&PASTP
+	prep|over n|here coord|and v|repeat-PAST comp|that det:num|five
+	n|time-PL coord|and pro:per|you mod|can v|see det:dem|this
+	adj|orange n|unit v|appear-3S adv|in qn|all det:num|five n|hole-PL
+	coord|and det:art|the n|yellow n|unit adv|likewise v|appear-3S
+	adv|in qn|all det:num|five n|hole-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|10|LINK 6|8|QUANT 7|8|QUANT
+	8|10|SUBJ 9|10|JCT 10|4|CPOBJ 11|12|QUANT 12|10|OBJ 13|10|JCT 14|15|DET
+	15|13|POBJ 16|3|CONJ 17|16|COORD 18|17|JCT 19|21|DET 20|21|MOD 21|18|POBJ
+	22|24|SUBJ 23|24|AUX 24|21|CMOD 25|24|JCT 26|25|POBJ 27|21|CONJ 28|27|COORD
+	29|28|OBJ 30|31|QUANT 31|29|OBJ 32|35|LINK 33|35|SUBJ 34|35|AUX
+	35|31|CJCT 36|38|DET 37|38|MOD 38|39|SUBJ 39|35|COMP 40|39|JCT 41|43|QUANT
+	42|43|QUANT 43|40|POBJ 44|43|CONJ 45|47|DET 46|47|MOD 47|44|COORD 48|49|JCT
+	49|39|COMP 50|49|JCT 51|53|QUANT 52|53|QUANT 53|50|POBJ 54|3|PUNCT
+*S1:	does that bother anybody ?
+%mor:	mod|do&3S adv|that v|bother pro:indef|anybody ?
+%gra:	1|3|AUX 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	that you can actually find a unit like a sandstone (.) shown in
+	orange (.) over a distance of (.) a hundred and fifty (.) two
+	hundred (.) perhaps even a thousand kilometers ?
+%mor:	comp|that pro:per|you mod|can adv|actual&dadj-LY v|find det:art|a
+	n|unit prep|like det:art|a n|+n|sand+n|stone part|show&PASTP prep|in
+	n|orange prep|over det:art|a n|distance prep|of det:art|a
+	det:num|hundred coord|and det:num|fifty det:num|two det:num|hundred
+	adv|perhaps adv|even det:art|a det:num|thousand n|kilometer-PL ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|XJCT 12|11|JCT 13|12|POBJ 14|11|JCT 15|16|DET
+	16|14|POBJ 17|16|NJCT 18|19|DET 19|28|QUANT 20|19|CONJ 21|20|COORD 22|23|DATE
+	23|28|QUANT 24|23|JCT 25|28|JCT 26|28|DET 27|28|QUANT 28|17|POBJ
+	29|5|PUNCT
+*S1:	the reason I ask you (.) &wha whether it bothers you or not is the
+	following +...
+%mor:	det:art|the n|reason pro:sub|I v|ask pro:per|you conj|whether
+	pro:per|it v|bother-3S pro:per|you coord|or neg|not cop|be&3S
+	det:art|the n:gerund|follow-PRESP +...
+%gra:	1|2|DET 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|4|OBJ 6|8|LINK 7|8|SUBJ
+	8|2|CMOD 9|8|OBJ 10|12|LINK 11|12|NEG 12|8|CJCT 13|14|DET 14|12|PRED 15|2|PUNCT
+*S1:	okay this is something I've given you (.) as_well .
+%mor:	co|okay pro:dem|this cop|be&3S pro:indef|something
+	pro:sub|I~aux|have part|give&PASTP pro:per|you adv|as_well .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|7|SUBJ 6|7|AUX 7|4|CMOD 8|7|OBJ
+	9|7|JCT 10|3|PUNCT
+*S1:	if you ever stood (.) at the waterfront at the beach (.) where
+	sediment comes into a standing body of water like the ocean (.) you
+	would be the first one to tell me (.) that right next to the beach
+	here &-um it is not a terribly wide zone over which we're depositing
+	very coarse grains of sand and (.) pebbles and cobbles and so on .
+%mor:	conj|if pro:per|you adv|ever v|stand&PAST prep|at det:art|the
+	n|+n|water+n|front prep|at det:art|the n|beach pro:rel|where
+	n|sediment v|come-3S prep|into det:art|a part|stand-PRESP n|body
+	prep|of n|water prep|like det:art|the n|ocean pro:per|you
+	mod|will&COND cop|be det:art|the adj|first det:num|one inf|to v|tell
+	pro:obj|me pro:rel|that adj|right adj|next prep|to det:art|the
+	n|beach adv|here pro:per|it cop|be&3S neg|not det:art|a
+	adv|terrible&dadj-LY adj|wide n|zone adv|over pro:rel|which
+	pro:sub|we~aux|be&PRES part|deposit-PRESP adv|very co#n|arse
+	n|grain-PL prep|of n|sand coord|and n|pebble-PL coord|and
+	n|cobble-PL coord|and co|so adv|on .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|13|LINK 12|13|SUBJ 13|10|CMOD 14|13|JCT 15|17|DET
+	16|17|MOD 17|13|OBJ 18|17|NJCT 19|18|POBJ 20|17|NJCT 21|22|DET 22|20|POBJ
+	23|25|SUBJ 24|25|AUX 25|17|CMOD 26|28|DET 27|28|MOD 28|25|PRED 29|30|INF
+	30|28|XMOD 31|30|OBJ2 32|34|LINK 33|34|JCT 34|30|COMP 35|34|JCT
+	36|37|DET 37|35|POBJ 38|40|JCT 39|40|SUBJ 40|34|CMOD 41|40|NEG 42|45|DET
+	43|44|JCT 44|45|MOD 45|40|PRED 46|45|NJCT 47|50|LINK 48|50|SUBJ 49|50|AUX
+	50|45|CMOD 51|52|JCT 52|50|COMP 53|52|OBJ 54|53|NJCT 55|54|POBJ 56|53|CONJ
+	57|56|COORD 58|53|CONJ 59|58|COORD 60|53|CONJ 61|62|COM 62|60|COORD
+	63|4|PUNCT
+*S1:	okay so (.) if we take a picture (.) that is an instant in time (.)
+	what we'd discover (.) is that in areas where sediments are
+	deposited (.) we have a very narrow zone over which coarse sediment
+	is going to be deposited .
+%mor:	co|okay adv|so conj|if pro:sub|we v|take det:art|a n|picture
+	pro:rel|that cop|be&3S det:art|a n|instant prep|in n|time
+	pro:int|what pro:sub|we~mod|genmod v|discover aux|be&3S pro:dem|that
+	prep|in n|area-PL pro:rel|where n|sediment-PL aux|be&PRES
+	part|deposit-PASTP pro:sub|we v|have det:art|a adv|very adj|narrow
+	n|zone adv|over pro:rel|which adj|coarse n|sediment aux|be&3S
+	part|go-PRESP inf|to aux|be part|deposit-PASTP .
+%gra:	1|3|COM 2|3|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|LINK
+	9|7|CMOD 10|11|DET 11|9|PRED 12|11|NJCT 13|12|POBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|11|CMOD 18|19|AUX 19|17|OBJ 20|19|JCT 21|20|POBJ 22|25|LINK
+	23|25|SUBJ 24|25|AUX 25|21|CMOD 26|27|SUBJ 27|25|COMP 28|31|DET 29|30|JCT
+	30|31|MOD 31|27|OBJ 32|31|NJCT 33|37|LINK 34|35|MOD 35|37|SUBJ
+	36|37|AUX 37|31|CMOD 38|40|INF 39|40|AUX 40|37|COMP 41|5|PUNCT
+*S1:	and if we go in slightly deeper waters it's a very narrow zone over
+	which sand is being deposited (.) and in deeper waters (.) a very
+	narrow zone over which mud or mud stone eventually (.) is being
+	deposited .
+%mor:	coord|and conj|if pro:sub|we v|go prep|in adv|slight&dadj-LY
+	adj|deep-CP n|water-PL pro:per|it~cop|be&3S det:art|a adv|very
+	adj|narrow n|zone adv|over pro:rel|which n|sand aux|be&3S
+	aux|be-PRESP part|deposit-PASTP coord|and prep|in adj|deep-CP
+	n|water-PL det:art|a adv|very adj|narrow n|zone adv|over
+	pro:rel|which n|mud coord|or n|mud n|stone adv|eventual&dadj-LY
+	aux|be&3S aux|be-PRESP part|deposit-PASTP .
+%gra:	1|10|LINK 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|4|JCT 6|8|JCT 7|8|MOD 8|5|POBJ
+	9|10|SUBJ 10|0|ROOT 11|14|DET 12|13|JCT 13|14|MOD 14|10|PRED 15|14|NJCT
+	16|20|LINK 17|20|SUBJ 18|20|AUX 19|20|AUX 20|14|CMOD 21|20|CONJ
+	22|21|COORD 23|24|MOD 24|22|POBJ 25|28|DET 26|27|JCT 27|28|MOD 28|22|POBJ
+	29|28|NJCT 30|31|LINK 31|34|MOD 32|31|CONJ 33|32|COORD 34|28|CMOD 35|38|JCT
+	36|38|AUX 37|38|AUX 38|34|CMOD 39|10|PUNCT
+*S1:	so the question I'm asking you (.) is how do we go from (.) very
+	local deposition (.) of sediments (.) in a zone that's no more than
+	(.) a kilometer or so in width (.) to having such a unit actually
+	cover an entire state .
+%mor:	co|so det:art|the n|question pro:sub|I~aux|be&1S part|ask-PRESP
+	pro:per|you cop|be&3S pro:int|how mod|do pro:sub|we v|go prep|from
+	adv|very adj|local n|deposition prep|of n|sediment-PL prep|in
+	det:art|a n|zone pro:rel|that~cop|be&3S co|no adv|more prep|than
+	det:art|a n|kilometer coord|or co|so prep|in n|width inf|to
+	n:gerund|have-PRESP qn|such det:art|a n|unit adv|actual&dadj-LY
+	v|cover det:art|a adj|entire n|state .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|8|SUBJ 8|3|CMOD
+	9|12|JCT 10|12|AUX 11|12|SUBJ 12|8|CPRED 13|12|JCT 14|15|JCT 15|16|MOD
+	16|13|POBJ 17|16|NJCT 18|17|POBJ 19|18|NJCT 20|21|DET 21|19|POBJ
+	22|23|LINK 23|21|CMOD 24|39|COM 25|39|JCT 26|39|JCT 27|28|DET 28|26|POBJ
+	29|39|LINK 30|39|COM 31|39|JCT 32|31|POBJ 33|34|INF 34|39|SUBJ 35|37|QUANT
+	36|37|DET 37|34|OBJ 38|34|JCT 39|23|CPRED 40|42|DET 41|42|MOD 42|39|OBJ
+	43|3|PUNCT
+*S1:	everybody see what the problem is here ?
+%mor:	pro:indef|everybody v|see pro:int|what det:art|the n|problem
+	cop|be&3S adv|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|COMP 7|6|JCT 8|2|PUNCT
+*S1:	okay the (.) oil wells that we just drilled in northern Colorado
+	show us that a sandstone unit can actually exist all the way from
+	the Utah border (.) to the Nebraska border .
+%mor:	co|okay det:art|the n|oil n|well-PL pro:rel|that pro:sub|we
+	adv|just part|drill-PASTP prep|in adj|northern n:prop|Colorado
+	v|show pro:obj|us comp|that det:art|a n|+n|sand+n|stone n|unit
+	mod|can adv|actual&dadj-LY v|exist qn|all det:art|the n|way
+	prep|from det:art|the n:prop|Utah n|border prep|to det:art|the
+	n:prop|Nebraska n|border .
+%gra:	1|12|COM 2|4|DET 3|4|MOD 4|12|SUBJ 5|8|LINK 6|8|SUBJ 7|8|JCT 8|4|CMOD
+	9|8|JCT 10|11|MOD 11|9|POBJ 12|0|ROOT 13|12|OBJ 14|20|LINK 15|17|DET
+	16|17|MOD 17|20|SUBJ 18|20|AUX 19|20|JCT 20|12|COMP 21|23|QUANT 22|23|DET
+	23|20|OBJ 24|20|JCT 25|27|DET 26|27|MOD 27|24|POBJ 28|20|JCT 29|31|DET
+	30|31|MOD 31|28|POBJ 32|12|PUNCT
+*S1:	this is (.) a very [/] very wide area (.) and yet when we look at
+	environments in which sediments are being deposited today (.) we see
+	that (.) any given unit like a sandstone or a conglomerate (.) is
+	being deposited over just a very narrow belt and my question to you
+	is (.) how do we go from (.) having sediments deposited in a very
+	narrow area (.) to having that particular sediment cover (.) an
+	entire state .
+%mor:	pro:dem|this cop|be&3S det:art|a adv|very adj|wide n|area coord|and
+	adv|yet conj|when pro:sub|we v|look prep|at n|environment-PL prep|in
+	pro:rel|which n|sediment-PL aux|be&PRES aux|be-PRESP
+	part|deposit-PASTP adv:tem|today pro:sub|we v|see comp|that qn|any
+	part|give&PASTP n|unit prep|like det:art|a n|+n|sand+n|stone
+	coord|or det:art|a n|conglomerate aux|be&3S n|being
+	part|deposit-PASTP adv|over adv|just det:art|a adv|very adj|narrow
+	n|belt coord|and det:poss|my n|question prep|to pro:per|you
+	cop|be&3S pro:int|how mod|do pro:sub|we v|go prep|from
+	n:gerund|have-PRESP n|sediment-PL v|deposit-PAST prep|in det:art|a
+	adv|very adj|narrow n|area prep|to n:gerund|have-PRESP det:dem|that
+	adj|particular n|sediment n|cover det:art|a adj|entire n|state .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|JCT 5|6|MOD 6|2|PRED 7|6|CONJ 8|7|COORD
+	9|11|LINK 10|11|SUBJ 11|2|CJCT 12|11|JCT 13|12|POBJ 14|11|JCT 15|19|LINK
+	16|19|SUBJ 17|19|AUX 18|19|AUX 19|14|POBJ 20|19|JCT 21|22|SUBJ
+	22|19|CJCT 23|22|OBJ 24|25|QUANT 25|23|COMP 26|25|OBJ 27|26|NJCT 28|29|DET
+	29|27|POBJ 30|47|LINK 31|32|DET 32|47|SUBJ 33|47|AUX 34|47|SUBJ 35|47|XJCT
+	36|35|JCT 37|41|JCT 38|41|DET 39|40|JCT 40|41|MOD 41|47|SUBJ 42|41|CONJ
+	43|44|DET 44|42|COORD 45|44|NJCT 46|45|POBJ 47|25|CJCT 48|51|JCT 49|51|AUX
+	50|51|SUBJ 51|47|CPRED 52|51|JCT 53|55|LINK 54|55|SUBJ 55|52|POBJ
+	56|55|JCT 57|60|DET 58|59|JCT 59|60|MOD 60|56|POBJ 61|60|NJCT 62|61|POBJ
+	63|66|DET 64|66|MOD 65|66|MOD 66|62|OBJ 67|69|DET 68|69|MOD 69|66|APP
+	70|2|PUNCT
+*S1:	how does that happen ?
+%mor:	pro:int|how mod|do&3S adv|that v|happen ?
+%gra:	1|4|JCT 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*S1:	+, yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	conditions were different ?
+%mor:	n|condition-PL cop|be&PAST adj|different ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S1:	&-uh in what sense (.) it's gonna hafta do with conditions yes
+	you're right (.) .
+%mor:	prep|in det:int|what n|sense pro:per|it~aux|be&3S
+	part|go-PRESP~inf|to mod|have~inf|to v|do prep|with n|condition-PL
+	co|yes pro:per|you~cop|be&PRES co|right .
+%gra:	1|6|JCT 2|3|DET 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|10|INF 8|10|AUX
+	9|10|INF 10|6|COMP 11|10|JCT 12|11|POBJ 13|15|COM 14|15|SUBJ 15|6|CJCT
+	16|15|PRED 17|6|PUNCT
+*S3:	as far as like (.) well &-um .
+%mor:	prep|as adv|far conj|as v|like adv|well .
+%gra:	1|2|COORD 2|0|INCROOT 3|4|LINK 4|2|ENUM 5|4|JCT 6|2|PUNCT
+*S1:	conditions are changing (.) but in what way ?
+%mor:	n|condition-PL aux|be&PRES part|change-PRESP conj|but prep|in
+	pro:int|what adv|way ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|POBJ 7|6|JCT 8|3|PUNCT
+*S1:	Drew .
+%mor:	n:prop|Drew .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S5:	&-um maybe it was all covered by ocean before .
+%mor:	adv|maybe pro:per|it aux|be&PAST&13S adv|all part|cover-PASTP
+	prep|by n|ocean adv|before .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|5|PUNCT
+*S1:	okay what did the ocean do ?
+%mor:	co|okay pro:int|what mod|do&PAST det:art|the n|ocean v|do ?
+%gra:	1|6|COM 2|6|SUBJ 3|6|AUX 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*S1:	+, so (.) I mean (.) what you're saying is if [/] &-uh if we have
+	an ocean that's rather extensive (.) okay it will still have a beach
+	somewhere .
+%mor:	adv|so pro:sub|I v|mean pro:int|what pro:per|you~cop|be&PRES
+	n:gerund|say-PRESP cop|be&3S conj|if pro:sub|we v|have det:art|a
+	n|ocean pro:rel|that~cop|be&3S adv|rather adj|extensive adj|okay
+	pro:per|it mod|will adj|still v|have det:art|a n|beach adv|somewhere
+	.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|PRED 8|7|OBJ
+	9|11|LINK 10|11|SUBJ 11|8|CPRED 12|13|DET 13|11|OBJ 14|15|LINK 15|13|CMOD
+	16|17|JCT 17|15|PRED 18|22|JCT 19|22|SUBJ 20|22|AUX 21|22|JCT
+	22|17|CMOD 23|24|DET 24|22|OBJ 25|22|JCT 26|3|PUNCT
+*S1:	and what I'm pointing out is (.) well let's take the example of
+	&-uh the eastern seaboard of the United States .
+%mor:	coord|and pro:int|what pro:sub|I~aux|be&1S part|point-PRESP adv|out
+	aux|be&3S adv|well v|let~pro:obj|us v|take det:art|the n|example
+	prep|of det:art|the adj|eastern n|seaboard prep|of det:art|the
+	n:prop|United n:prop|States .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|9|SUBJ 6|5|JCT 7|9|AUX 8|9|JCT
+	9|0|ROOT 10|11|SUBJ 11|9|COMP 12|13|DET 13|11|OBJ 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|11|ENUM 22|9|PUNCT
+*S1:	okay there's Florida (.) New York City is over here somewhere (.)
+	Long Island (.) what I'm pointing out here (.) is that we are
+	depositing sand (.) over a very narrow strip (.) if we assume that
+	all of this is beach (.) from New York to Florida .
+%mor:	co|okay pro:exist|there~cop|be&3S n:prop|Florida n:prop|New
+	n:prop|York n:prop|City cop|be&3S prep|over n|here adv|somewhere
+	n:prop|Long n:prop|Island pro:int|what pro:sub|I~aux|be&1S
+	part|point-PRESP prep|out n|here cop|be&3S comp|that pro:sub|we
+	cop|be&PRES n:gerund|deposit-PRESP n|sand adv|over det:art|a
+	adv|very adj|narrow n|strip conj|if pro:sub|we v|assume adv|that
+	adv|all prep|of det:dem|this cop|be&3S v|beach prep|from n:prop|New
+	n:prop|York prep|to n:prop|Florida .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|NAME 6|20|SUBJ 7|8|SUBJ 8|6|CMOD
+	9|8|JCT 10|9|POBJ 11|10|NJCT 12|13|NAME 13|10|CMOD 14|17|LINK
+	15|17|SUBJ 16|17|AUX 17|13|CMOD 18|17|JCT 19|18|POBJ 20|3|CJCT 21|23|LINK
+	22|23|SUBJ 23|20|PRED 24|23|PRED 25|24|OBJ 26|25|NJCT 27|30|DET 28|29|JCT
+	29|30|MOD 30|25|APP 31|33|LINK 32|33|SUBJ 33|23|CJCT 34|33|JCT 35|36|JCT
+	36|34|JCT 37|38|DET 38|36|POBJ 39|36|POBJ 40|39|JCT 41|40|POBJ 42|40|POBJ
+	43|42|NJCT 44|43|POBJ 45|3|PUNCT
+*S1:	so it's a very [/] very narrow belt (.) how do we go from having
+	sediments deposited over such a narrow belt (.) to actually covering
+	(.) &=writes:board several states (.) like so (.) as I showed you in
+	the example of Colorado ?
+%mor:	co|so pro:per|it~cop|be&3S det:art|a adv|very adj|narrow n|belt
+	pro:int|how mod|do pro:sub|we v|go prep|from n:gerund|have-PRESP
+	n|sediment-PL v|deposit-PAST adv|over qn|such det:art|a adj|narrow
+	n|belt inf|to adv|actual&dadj-LY part|cover-PRESP qn|several
+	n|state-PL prep|like adv|so conj|as pro:sub|I v|show-PAST
+	pro:per|you prep|in det:art|the n|example prep|of n:prop|Colorado ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|PRED 8|11|JCT
+	9|11|AUX 10|11|SUBJ 11|7|CMOD 12|11|JCT 13|15|LINK 14|15|SUBJ 15|12|POBJ
+	16|15|JCT 17|20|QUANT 18|20|DET 19|20|MOD 20|15|OBJ 21|23|INF 22|23|JCT
+	23|20|XMOD 24|25|QUANT 25|23|OBJ 26|23|JCT 27|11|JCT 28|30|LINK 29|30|SUBJ
+	30|11|CJCT 31|30|OBJ 32|30|JCT 33|34|DET 34|32|POBJ 35|34|NJCT
+	36|35|POBJ 37|3|PUNCT
+*S1:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S7:	glaciers ?
+%mor:	n|glacier-PL ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	what did the glaciers do ?
+%mor:	pro:int|what mod|do&PAST det:art|the n|glacier-PL v|do ?
+%gra:	1|5|SUBJ 2|5|AUX 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*S7:	they carried sediments ?
+%mor:	pro:sub|they v|carry-PAST n|sediment-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*S1:	&-uh they're going to do it (.) locally okay they are going to do
+	it locally .
+%mor:	pro:sub|they~aux|be&PRES part|go-PRESP inf|to v|do pro:per|it
+	adv|local&dadj-LY adj|okay pro:sub|they aux|be&PRES part|go-PRESP
+	inf|to v|do pro:per|it adv|local&dadj-LY .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|5|JCT
+	9|11|SUBJ 10|11|AUX 11|8|CMOD 12|13|INF 13|11|COMP 14|13|OBJ 15|13|JCT
+	16|3|PUNCT
+*S1:	when we talk about (.) the sediments you find (.) in let's say the
+	Grand Canyon (.) &=writes you know if this is a (.) map of the
+	United States (.) the four corners area &-uh New Mexico Arizona
+	Colorado and Utah (.) are all covered (.) by (.) more or less the
+	same sediments .
+%mor:	conj|when pro:sub|we v|talk prep|about det:art|the n|sediment-PL
+	pro:per|you v|find prep|in v|let~pro:obj|us v|say det:art|the
+	n:prop|Grand n:prop|Canyon pro:per|you v|know comp|if pro:dem|this
+	cop|be&3S det:art|a n|map prep|of det:art|the n:prop|United
+	n:prop|States det:art|the det:num|four n|corner-PL n|area n:prop|New
+	n:prop|Mexico n:prop|Arizona n:prop|Colorado coord|and n:prop|Utah
+	aux|be&PRES adv|all part|cover-PASTP adv|by adv|more coord|or
+	adj|less det:art|the adj|same n|sediment-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|12|SUBJ 12|8|COMP 13|14|DET 14|12|OBJ 15|14|APP
+	16|17|SUBJ 17|12|CJCT 18|20|LINK 19|20|SUBJ 20|17|COMP 21|22|DET 22|20|PRED
+	23|22|NJCT 24|25|DET 25|26|NAME 26|23|POBJ 27|30|DET 28|29|QUANT
+	29|30|MOD 30|26|APP 31|32|NAME 32|33|NAME 33|34|NAME 34|30|APP 35|39|LINK
+	36|39|SUBJ 37|39|AUX 38|39|JCT 39|17|CJCT 40|39|JCT 41|39|JCT 42|39|CONJ
+	43|46|MOD 44|46|DET 45|46|MOD 46|42|COORD 47|8|PUNCT
+*S1:	okay it's a very [/] very large area .
+%mor:	co|okay pro:per|it~cop|be&3S det:art|a adv|very adj|large n|area .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|PRED 8|3|PUNCT
+*S1:	and glaciation had nothing to do with it .
+%mor:	coord|and n|glaciate&dv-TION v|have&PAST pro:indef|nothing inf|to
+	v|do prep|with pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|4|XMOD 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*S1:	so (.) you're kind of beating around the bush you say conditions
+	will change (.) the oceans you're all mentioning the right things
+	(.) but in what way specifically (.) did the ocean change ?
+%mor:	adv|so pro:per|you~aux|be&PRES n|kind prep|of part|beat-PRESP
+	prep|around det:art|the n|bush pro:per|you v|say n|condition-PL
+	mod|will v|change det:art|the n|ocean-PL pro:per|you~cop|be&PRES
+	post|all part|mention-PRESP det:art|the adj|right n|thing-PL
+	conj|but prep|in det:int|what n|way adv|specific&dadj-AL-LY
+	v|do&PAST det:art|the n|ocean n|change ?
+%gra:	1|2|JCT 2|4|SUBJ 3|4|AUX 4|14|SUBJ 5|4|NJCT 6|5|POBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|SUBJ 11|14|JCT 12|11|OBJ 13|14|AUX 14|0|ROOT 15|16|DET
+	16|14|OBJ 17|16|ROOT 18|17|ROOT 19|18|PRED 20|19|XMOD 21|23|DET 22|23|MOD
+	23|20|OBJ 24|29|LINK 25|29|JCT 26|27|DET 27|25|POBJ 28|29|JCT 29|23|CMOD
+	30|32|DET 31|32|MOD 32|29|OBJ 33|20|PUNCT
+*S1:	if you want to cheat a little bit you can look on the next page
+	that I handed you +...
+%mor:	conj|if pro:per|you v|want inf|to v|cheat det:art|a adj|little
+	n|bit pro:per|you mod|can v|look prep|on det:art|the adj|next n|page
+	pro:rel|that pro:sub|I v|hand-PAST pro:per|you +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|8|DET 7|8|MOD 8|11|JCT
+	9|11|SUBJ 10|11|AUX 11|5|COMP 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|18|LINK 17|18|SUBJ 18|15|CMOD 19|18|OBJ 20|3|PUNCT
+*S1:	okay (.) the (.) answer to this question (.) or the answer to this
+	riddle (.) hasta do with the fact (.) that sea level +...
+%mor:	co|okay det:art|the n|answer prep|to det:dem|this n|question
+	coord|or det:art|the n|answer prep|to det:dem|this n|riddle
+	mod|have&3S~inf|to v|do prep|with det:art|the n|fact det:dem|that
+	n|sea n|level +...
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|15|LINK 8|9|DET
+	9|15|SUBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|15|AUX 14|15|INF 15|3|CJCT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|21|DET 20|21|MOD 21|18|APP 22|3|PUNCT
+*S1:	is not invariant .
+%mor:	aux|be&3S neg|not in#n|variant .
+%gra:	1|3|AUX 2|1|NEG 3|0|INCROOT 4|3|PUNCT
+*S1:	it actually changes through time .
+%mor:	pro:per|it adv|actual&dadj-LY v|change-3S prep|through n|time .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*S1:	okay so the image I just showed you a moment ago (.) of having a
+	beach along which we're depositing sand this image right here (.) is
+	just a snapshot if you came back a thousand years from now (.) sea
+	level would not be (.) where you see it today .
+%mor:	adj|okay co|so det:art|the n|image pro:sub|I adv|just v|show-PAST
+	pro:per|you det:art|a n|moment post|ago prep|of part|have-PRESP
+	det:art|a n|beach prep|along pro:rel|which pro:sub|we~cop|be&PRES
+	n:gerund|deposit-PRESP n|sand det:dem|this n|image adv|right
+	adv|here cop|be&3S adv|just det:art|a n|+n|snap+n|shot conj|if
+	pro:per|you v|come&PAST adv|back det:art|a det:num|thousand
+	n|year-PL prep|from adv|now n|sea n|level mod|will&COND neg|not
+	cop|be pro:int|where pro:per|you v|see pro:per|it adv:tem|today .
+%gra:	1|4|MOD 2|4|COM 3|4|DET 4|0|INCROOT 5|7|SUBJ 6|7|JCT 7|4|CMOD 8|7|OBJ2
+	9|10|DET 10|7|OBJ 11|10|POSTMOD 12|11|NJCT 13|12|POBJ 14|15|DET
+	15|13|OBJ 16|13|JCT 17|19|LINK 18|19|SUBJ 19|16|CPOBJ 20|19|PRED 21|26|COM
+	22|23|DET 23|26|SUBJ 24|25|JCT 25|26|JCT 26|20|COMP 27|29|JCT 28|29|DET
+	29|26|PRED 30|32|LINK 31|32|SUBJ 32|26|CJCT 33|32|JCT 34|36|DET 35|36|QUANT
+	36|32|OBJ 37|36|NJCT 38|43|JCT 39|40|MOD 40|43|SUBJ 41|43|AUX 42|41|NEG
+	43|37|POBJ 44|46|LINK 45|46|SUBJ 46|36|CMOD 47|46|OBJ 48|46|JCT
+	49|4|PUNCT
+*S1:	that is illustrated (.) by these two diagrams right here .
+%mor:	pro:dem|that aux|be&3S part|illustrate-PASTP prep|by det:dem|these
+	det:num|two n|diagram-PL adv|right adv|here .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|DET 6|7|QUANT 7|4|POBJ 8|9|JCT
+	9|3|JCT 10|3|PUNCT
+*S1:	where in the first diagram (.) we can see that the shoreline (.) is
+	right there .
+%mor:	pro:int|where prep|in det:art|the adj|first n|diagram pro:sub|we
+	mod|can v|see comp|that det:art|the n|shoreline cop|be&3S adv|right
+	adv|there .
+%gra:	1|8|LINK 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|8|COMP 13|14|JCT 14|12|JCT 15|8|PUNCT
+*S1:	and if we fast forward in time (.) we can see that the shoreline
+	has moved (.) to over here .
+%mor:	coord|and conj|if pro:sub|we adv|fast adv|forward prep|in n|time
+	pro:sub|we mod|can v|see comp|that det:art|the n|shoreline
+	aux|have&3S part|move-PASTP prep|to adv|over adv|here .
+%gra:	1|10|LINK 2|10|LINK 3|10|SUBJ 4|10|JCT 5|10|JCT 6|5|JCT 7|6|POBJ
+	8|10|SUBJ 9|10|AUX 10|0|ROOT 11|15|LINK 12|13|DET 13|15|SUBJ 14|15|AUX
+	15|10|COMP 16|15|JCT 17|18|JCT 18|16|POBJ 19|10|PUNCT
+*S1:	okay so (.) in the first image (.) the new shoreline would be
+	somewhere over here (.) and that is because sea level (.) has risen
+	.
+%mor:	co|okay adv|so prep|in det:art|the adj|first n|image det:art|the
+	adj|new n|shoreline mod|will&COND cop|be adv|somewhere prep|over
+	n|here coord|and pro:dem|that cop|be&3S conj|because n|sea n|level
+	aux|have&3S part|rise&PASTP .
+%gra:	1|11|COM 2|3|JCT 3|11|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|9|DET 8|9|MOD
+	9|11|SUBJ 10|11|AUX 11|17|SUBJ 12|11|JCT 13|11|JCT 14|13|POBJ 15|14|CONJ
+	16|15|COORD 17|0|ROOT 18|22|LINK 19|20|MOD 20|22|SUBJ 21|22|AUX 22|17|CJCT
+	23|17|PUNCT
+*S1:	or you could also argue that the basin in which these sediments are
+	being deposited (.) has gone down .
+%mor:	coord|or pro:per|you mod|could adv|also v|argue comp|that
+	det:art|the n|basin prep|in pro:int|which det:dem|these
+	n|sediment-PL aux|be&PRES part|be-PRESP part|deposit-PASTP
+	aux|have&3S part|go&PASTP adv|down .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|OBJ 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|12|LINK 11|12|DET 12|9|POBJ 13|14|AUX 14|12|CMOD 15|14|PRED
+	16|17|AUX 17|15|COMP 18|17|JCT 19|5|PUNCT
+*S1:	so (.) the idea (.) of shorelines moving inland (.) from where we
+	find them to be today (.) is known as (.) transgression .
+%mor:	co|so det:art|the n|idea prep|of n|shoreline-PL part|move-PRESP
+	adj|inland prep|from pro:int|where pro:sub|we v|find pro:obj|them
+	inf|to cop|be adv:tem|today aux|be&3S part|know&PASTP prep|as
+	n|transgression .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|XMOD 7|6|JCT 8|7|JCT
+	9|11|LINK 10|11|SUBJ 11|8|CPOBJ 12|11|OBJ 13|14|INF 14|11|COMP
+	15|14|PRED 16|17|AUX 17|15|COMP 18|17|JCT 19|18|POBJ 20|3|PUNCT
+*S1:	transgression is the (.) movement of a shoreline (.) inland (.)
+	from where they are at any given time (.) and regression is the
+	opposite .
+%mor:	n|transgression cop|be&3S det:art|the n|movement prep|of det:art|a
+	n|shoreline adj|inland prep|from pro:int|where pro:sub|they
+	cop|be&PRES prep|at qn|any part|give&PASTP n|time coord|and
+	n|regression cop|be&3S det:art|the adj|opposite .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|POSTMOD 9|8|JCT 10|12|LINK 11|12|SUBJ 12|9|CPOBJ 13|19|JCT 14|16|QUANT
+	15|16|MOD 16|19|SUBJ 17|16|CONJ 18|17|COORD 19|12|CJCT 20|21|DET 21|19|PRED
+	22|2|PUNCT
+*S1:	okay that would be shoreline (.) moving away &-uh from the
+	continents .
+%mor:	adj|okay adv|that mod|will&COND cop|be n|shoreline part|move-PRESP
+	adv|away prep|from det:art|the n|continent-PL .
+%gra:	1|0|INCROOT 2|4|JCT 3|4|AUX 4|1|CMOD 5|4|PRED 6|5|XMOD 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+*S1:	okay (.) so if shorelines (.) can transgress in other words they
+	can move inland (.) what is that going to do (.) to where we're
+	depositing sediments ?
+%mor:	co|okay adv|so comp|if n|shoreline-PL mod|can v|transgress prep|in
+	qn|other n|word-PL pro:sub|they mod|can v|move adj|inland
+	pro:int|what cop|be&3S comp|that part|go-PRESP inf|to v|do inf|to
+	pro:rel|where pro:sub|we~aux|be&PRES part|deposit-PRESP
+	n|sediment-PL ?
+%gra:	1|6|COM 2|3|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|QUANT
+	9|7|POBJ 10|12|SUBJ 11|12|AUX 12|6|CJCT 13|12|PRED 14|15|SUBJ 15|13|CMOD
+	16|15|PRED 17|16|XMOD 18|19|INF 19|17|COMP 20|21|INF 21|24|LINK
+	22|24|SUBJ 23|24|AUX 24|19|COMP 25|24|OBJ 26|6|PUNCT
+*S1:	and what does that have to do (.) with sediments being able to
+	cover a very [/] very large area (.) such as several different
+	states ?
+%mor:	coord|and pro:int|what mod|do&3S adv|that v|have inf|to v|do
+	prep|with n|sediment-PL n|being adj|able inf|to v|cover det:art|a
+	adv|very adj|large n|area qn|such adv|as qn|several adj|different
+	n|state-PL ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|10|PRED 12|13|INF 13|11|XMOD 14|17|DET 15|16|JCT
+	16|17|MOD 17|13|OBJ 18|19|QUANT 19|20|JCT 20|22|QUANT 21|22|MOD 22|17|APP
+	23|5|PUNCT
+*S1:	in other words I'm asking you to compare (.) picture A to picture B
+	.
+%mor:	prep|in qn|other n|word-PL pro:sub|I~aux|be&1S part|ask-PRESP
+	pro:per|you inf|to v|compare n|picture n:prop|A prep|to n|picture
+	n:prop|B .
+%gra:	1|6|JCT 2|3|QUANT 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|SUBJ 8|9|INF
+	9|6|COMP 10|9|OBJ 11|10|APP 12|11|NJCT 13|14|MOD 14|12|POBJ 15|6|PUNCT
+*S1:	okay what happens when the shoreline transgresses (.) moving inland
+	.
+%mor:	co|okay pro:int|what v|happen-3S conj|when det:art|the n|shoreline
+	v|transgress-3S part|move-PRESP adv|inland .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|CJCT 8|7|COMP
+	9|8|JCT 10|3|PUNCT
+*S1:	(0.4) let's see (.) I have a pointer right here .
+%mor:	v|let~pro:obj|us v|see pro:sub|I v|have det:art|a n|point&dv-AGT
+	adv|right adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ 8|9|JCT
+	9|7|NJCT 10|1|PUNCT
+*S1:	&-uh let's consider (.) a particular point such as right here (.)
+	this is a depositional environment that early on (.) you can see (.)
+	is ideal for depositing fairly large pieces of rocks (.) so that the
+	rock that's going to form is known as a conglomerate .
+%mor:	v|let~pro:obj|us v|consider det:art|a n|particular n|point qn|such
+	adv|as adv|right adv|here pro:dem|this cop|be&3S det:art|a
+	adj|deposition&dn-AL n|environment pro:rel|that adv|early prep|on
+	pro:per|you mod|can v|see cop|be&3S adj|ideal prep|for
+	n:gerund|deposit-PRESP adv|fair&dadj-LY adj|large n|piece-PL prep|of
+	n|rock-PL adv|so comp|that det:art|the n|rock pro:rel|that~aux|be&3S
+	part|go-PRESP inf|to v|form aux|be&3S part|know&PASTP prep|as
+	det:art|a n|conglomerate .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|6|DET 5|6|MOD 6|12|SUBJ 7|8|QUANT
+	8|10|COORD 9|10|JCT 10|12|JCT 11|12|SUBJ 12|3|ROOT 13|15|DET 14|15|MOD
+	15|12|PRED 16|18|LINK 17|18|JCT 18|15|INCROOT 19|21|SUBJ 20|21|AUX 21|18|POBJ
+	22|21|OBJ 23|22|PRED 24|23|JCT 25|24|POBJ 26|27|JCT 27|28|MOD 28|25|OBJ
+	29|28|NJCT 30|29|POBJ 31|18|JCT 32|31|POBJ 33|34|DET 34|32|OBJ 35|37|LINK
+	36|37|AUX 37|34|CMOD 38|39|INF 39|37|COMP 40|41|AUX 41|39|COMP 42|41|JCT
+	43|44|DET 44|42|POBJ 45|18|PUNCT
+*S1:	in that particular area .
+%mor:	prep|in det:dem|that adj|particular n|area .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|1|PUNCT
+*S1:	but now <shoreline change> [//] the &sh shoreline changes in other
+	words sea level has gone up (.) and the area that we were monitoring
+	before which is right there (.) corresponding to right there (.) is
+	now in deeper waters .
+%mor:	conj|but adv|now det:art|the n|shoreline n|change-PL prep|in
+	qn|other n|word-PL n|sea n|level aux|have&3S part|go&PASTP adv|up
+	coord|and det:art|the n|area pro:rel|that pro:sub|we aux|be&PAST
+	part|monitor-PRESP adv|before pro:rel|which aux|be&3S adv|right
+	adv|there part|correspond-PRESP prep|to adv|right adv|there
+	cop|be&3S adv|now prep|in adj|deep-CP n|water-PL .
+%gra:	1|12|LINK 2|12|JCT 3|5|DET 4|5|MOD 5|12|SUBJ 6|5|NJCT 7|8|QUANT
+	8|10|MOD 9|10|MOD 10|6|POBJ 11|12|AUX 12|0|ROOT 13|12|JCT 14|12|CONJ 15|16|DET
+	16|14|COORD 17|20|LINK 18|20|SUBJ 19|20|AUX 20|16|CMOD 21|20|JCT
+	22|26|LINK 23|26|AUX 24|25|JCT 25|26|JCT 26|16|CMOD 27|30|JCT 28|29|JCT
+	29|30|SUBJ 30|26|COMP 31|30|JCT 32|30|JCT 33|34|MOD 34|32|POBJ 35|12|PUNCT
+*S1:	and you can see that (.) where before we were depositing fairly
+	large sediment (.) we are now depositing (.) fairly (.) fine
+	sediment .
+%mor:	coord|and pro:per|you mod|can v|see comp|that pro:rel|where
+	conj|before pro:sub|we aux|be&PAST part|deposit-PRESP
+	adv|fair&dadj-LY adj|large n|sediment pro:sub|we aux|be&PRES adv|now
+	part|deposit-PRESP adv|fair&dadj-LY adj|fine n|sediment .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|10|LINK 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|5|CMOD 11|12|JCT 12|13|MOD 13|10|OBJ 14|17|SUBJ 15|17|AUX
+	16|17|JCT 17|13|CMOD 18|19|JCT 19|20|MOD 20|17|OBJ 21|4|PUNCT
+*S1:	okay you appreciate that ?
+%mor:	co|okay pro:per|you v|appreciate pro:dem|that ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	so in other words we've changed the depth of the water (.) at that
+	particular locality (.) and we asked previously was ideal for
+	conglomerate to accumulate (.) now after the shoreline has moved
+	inland (.) that particular point is under deeper water (.) than
+	previously (.) so we are depositing (.) sand +...
+%mor:	co|so prep|in qn|other n|word-PL pro:sub|we~aux|have
+	part|change-PASTP det:art|the n|depth prep|of det:art|the n|water
+	prep|at det:dem|that adj|particular n|local&dadj-ITY coord|and
+	pro:sub|we v|ask-PAST adv|previous&dadj-LY cop|be&PAST&13S adj|ideal
+	prep|for n|conglomerate inf|to v|accumulate adv|now prep|after
+	det:art|the n|shoreline aux|have&3S part|move-PASTP adj|inland
+	det:dem|that adj|particular n|point cop|be&3S adv|under adj|deep-CP
+	n|water prep|than adv|previous&dadj-LY co|so pro:sub|we aux|be&PRES
+	part|deposit-PRESP n|sand +...
+%gra:	1|7|COM 2|7|JCT 3|4|QUANT 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|7|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|19|LINK 18|19|SUBJ 19|7|CJCT 20|21|JCT 21|19|COMP 22|21|PRED
+	23|21|JCT 24|23|POBJ 25|26|INF 26|21|XJCT 27|26|JCT 28|26|JCT 29|30|DET
+	30|32|SUBJ 31|32|AUX 32|28|CPOBJ 33|37|JCT 34|36|DET 35|36|MOD 36|37|SUBJ
+	37|32|COMP 38|39|JCT 39|40|MOD 40|37|PRED 41|40|NJCT 42|46|JCT 43|46|COM
+	44|46|SUBJ 45|46|AUX 46|41|CPOBJ 47|46|OBJ 48|7|PUNCT
+*S1:	well (.) imagine (.) the shoreline being able to move even further
+	inland (.) in other words that basin is either sinking (.) or sea
+	level is rising very [/] very rapidly (.) and therefore this
+	particular unit (.) being able to form a very [/] very large area
+	(.) that keeps going <on and> [/] on and on (.) for several (.)
+	hundreds of kilometers &-uh inland .
+%mor:	adv|well v|imagine det:art|the n|shoreline aux|be-PRESP adj|able
+	prep|to n|move adv|even adj|further adj|inland prep|in qn|other
+	n|word-PL det:dem|that n|basin aux|be&3S adv|either part|sink-PRESP
+	coord|or n|sea n|level aux|be&3S part|rise-PRESP adv|very
+	adv|rapid&dadj-LY coord|and adv|therefore det:dem|this
+	adj|particular n|unit aux|be-PRESP adj|able inf|to v|form det:art|a
+	adv|very adj|large n|area pro:rel|that v|keep-3S part|go-PRESP
+	adv|on coord|and adv|on prep|for qn|several n|hundred-PL prep|of
+	n|kilometer-PL adj|inland .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|10|SUBJ 5|10|AUX 6|5|PRED 7|5|JCT 8|7|POBJ
+	9|10|JCT 10|16|MOD 11|16|MOD 12|11|JCT 13|14|QUANT 14|12|POBJ 15|16|DET
+	16|19|SUBJ 17|19|AUX 18|19|JCT 19|2|COMP 20|19|CONJ 21|22|MOD 22|20|COORD
+	23|24|AUX 24|19|CJCT 25|26|JCT 26|24|JCT 27|35|LINK 28|35|JCT 29|31|DET
+	30|31|MOD 31|35|SUBJ 32|35|AUX 33|32|PRED 34|35|INF 35|26|CPOBJ
+	36|39|DET 37|38|JCT 38|39|MOD 39|35|OBJ 40|41|LINK 41|39|CMOD 42|41|COMP
+	43|42|JCT 44|42|CONJ 45|44|COORD 46|45|JCT 47|48|QUANT 48|46|POBJ 49|48|NJCT
+	50|49|POBJ 51|50|POSTMOD 52|2|PUNCT
+*S1:	so typically therefore (.) &=writes:board what we would find (.) is
+	what is known as a transgressive &-uh sequence of sediments .
+%mor:	adv|so adv|typical&dadj-LY adv|therefore pro:int|what pro:sub|we
+	mod|will&COND v|find aux|be&3S pro:int|what aux|be&3S
+	part|know&PASTP prep|as det:art|a adj|transgressive n|sequence
+	prep|of n|sediment-PL .
+%gra:	1|2|JCT 2|7|JCT 3|7|JCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|11|AUX
+	9|11|SUBJ 10|11|AUX 11|7|COMP 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|15|NJCT 17|16|POBJ 18|7|PUNCT
+*S1:	in a transgressive sequence of sediments (.) what you're likely to
+	find (.) as a package (.) is that at the very bottom (.) you're
+	going to have (.) conglomerate +...
+%mor:	prep|in det:art|a adj|transgressive n|sequence prep|of
+	n|sediment-PL pro:int|what pro:per|you~cop|be&PRES adj|likely inf|to
+	v|find conj|as det:art|a n|package cop|be&3S pro:dem|that prep|at
+	det:art|the adv|very adj|bottom pro:per|you~aux|be&PRES
+	part|go-PRESP inf|to v|have n|conglomerate +...
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|4|NJCT 6|5|POBJ 7|9|LINK
+	8|9|SUBJ 9|4|CMOD 10|9|PRED 11|12|INF 12|10|XMOD 13|16|LINK 14|15|DET
+	15|16|SUBJ 16|12|COMP 17|16|PRED 18|17|NJCT 19|21|DET 20|21|JCT 21|18|POBJ
+	22|24|SUBJ 23|24|AUX 24|21|CMOD 25|26|INF 26|24|COMP 27|26|OBJ 28|1|PUNCT
+*S1:	okay immediately above that (.) you're going to have sand sized (.)
+	material so the Rockies are sandstone .
+%mor:	adj|okay adv|immediate&dadj-LY prep|above pro:rel|that
+	pro:per|you~aux|be&PRES part|go-PRESP inf|to v|have n|sand
+	v|size-PAST n|material co|so det:art|the n:prop|Rockies cop|be&PRES
+	n|+n|sand+n|stone .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|JCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CPOBJ 8|9|INF
+	9|7|COMP 10|11|SUBJ 11|9|COMP 12|11|OBJ 13|16|COM 14|15|DET 15|16|SUBJ
+	16|12|CMOD 17|16|PRED 18|1|PUNCT
+*S1:	and immediately above that you'll have fine grained material the
+	Rockies are shale (.) and then finally (.) you'll have the limestone
+	.
+%mor:	coord|and adv|immediate&dadj-LY prep|above det:dem|that
+	pro:per|you~mod|will v|have adv|fine adj|grained adj|material
+	det:art|the n:prop|Rockies cop|be&PRES n|shale coord|and
+	adv:tem|then adv|final&dadj-LY pro:per|you~mod|will v|have
+	det:art|the n|+n|lime+n|stone .
+%gra:	1|7|LINK 2|7|JCT 3|7|JCT 4|5|DET 5|3|POBJ 6|7|AUX 7|0|ROOT 8|9|JCT
+	9|7|JCT 10|13|LINK 11|12|DET 12|13|SUBJ 13|9|CMOD 14|13|PRED 15|20|LINK
+	16|20|JCT 17|20|JCT 18|20|SUBJ 19|20|AUX 20|9|CJCT 21|22|DET 22|20|OBJ
+	23|7|PUNCT
+*S1:	now if you're hiking into the Grand Canyon (.) and you look in
+	these cliffs (.) and you see conglomerate (.) then you see sandstone
+	(.) then you see shale (.) then you see limestone (.) you can
+	actually begin to tell us what sea level was doing (.) when those
+	sediments were being deposited .
+%mor:	adv|now comp|if pro:per|you~aux|be&PRES part|hike-PRESP prep|into
+	det:art|the n:prop|Grand n:prop|Canyon coord|and pro:per|you v|look
+	prep|in det:dem|these n|cliff-PL coord|and pro:per|you co|see
+	v|conglomerate adv:tem|then pro:per|you co|see n|+n|sand+n|stone
+	adv:tem|then pro:per|you co|see n|shale adv:tem|then pro:per|you
+	co|see n|+n|lime+n|stone pro:per|you mod|can adv|actual&dadj-LY
+	v|begin inf|to v|tell pro:obj|us pro:int|what n|sea n|level
+	aux|be&PAST&13S part|do-PRESP conj|when det:dem|those n|sediment-PL
+	cop|be&PAST aux|be-PRESP part|deposit-PASTP .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|COMP 6|5|JCT 7|8|DET 8|9|NAME
+	9|6|POBJ 10|12|LINK 11|12|SUBJ 12|9|CJCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|19|LINK 17|19|SUBJ 18|19|COM 19|12|CJCT 20|35|JCT 21|35|SUBJ
+	22|35|COM 23|35|SUBJ 24|35|JCT 25|35|SUBJ 26|35|COM 27|35|SUBJ 28|35|JCT
+	29|35|SUBJ 30|35|COM 31|35|JCT 32|35|SUBJ 33|35|AUX 34|35|JCT 35|19|COMP
+	36|37|INF 37|35|COMP 38|37|OBJ 39|41|DET 40|41|MOD 41|43|SUBJ 42|43|AUX
+	43|37|COMP 44|47|LINK 45|46|DET 46|47|SUBJ 47|43|CJCT 48|49|AUX 49|47|PRED
+	50|1|PUNCT
+*S1:	you can be reasonably sure (.) that when those sediments were being
+	deposited (.) sea level was rising .
+%mor:	pro:per|you mod|can cop|be adv|reason&dadj-ABLE-LY adv|sure
+	adv|that conj|when det:dem|those n|sediment-PL aux|be&PAST
+	part|be-PRESP part|deposit-PASTP n|sea n|level aux|be&PAST&13S
+	part|rise-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|JCT 7|11|LINK 8|9|DET
+	9|11|SUBJ 10|11|AUX 11|6|CJCT 12|11|PRED 13|14|MOD 14|16|SUBJ 15|16|AUX
+	16|12|COMP 17|3|PUNCT
+*S1:	okay because we've just demonstrated that right here &-uh again to
+	(.) continue with the example I was providing before +...
+%mor:	co|okay conj|because pro:sub|we~aux|have adv|just
+	part|demonstrate-PASTP comp|that adv|right adv|here adv|again inf|to
+	v|continue prep|with det:art|the n|example pro:sub|I aux|be&PAST&13S
+	part|provide-PRESP adv|before +...
+%gra:	1|18|COM 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|JCT 6|18|CJCT 7|12|LINK 8|9|JCT
+	9|12|JCT 10|9|JCT 11|12|INF 12|6|COMP 13|12|JCT 14|15|DET 15|13|POBJ
+	16|18|SUBJ 17|18|AUX 18|0|ROOT 19|18|JCT 20|18|PUNCT
+*S1:	the first rock to be deposited for this particular locality (.) was
+	what turned out to be conglomerate (.) sea level rose so that right
+	above conglomerate we deposited sand &-uh later to become sandstone
+	.
+%mor:	det:art|the adj|first n|rock inf|to aux|be part|deposit-PASTP
+	prep|for det:dem|this adj|particular n|local&dadj-ITY
+	cop|be&PAST&13S pro:int|what v|turn-PAST adv|out inf|to cop|be
+	n|conglomerate n|sea n|level v|rise&PAST adv|so adv|that adv|right
+	prep|above n|conglomerate pro:sub|we v|deposit-PAST n|sand adv|later
+	inf|to part|become&PASTP n|+n|sand+n|stone .
+%gra:	1|3|DET 2|3|MOD 3|11|SUBJ 4|6|INF 5|6|AUX 6|3|XMOD 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|0|ROOT 12|13|SUBJ 13|11|CPRED 14|13|JCT 15|16|INF
+	16|14|CPOBJ 17|19|MOD 18|19|MOD 19|16|PRED 20|13|XJCT 21|22|JCT 22|27|JCT
+	23|24|JCT 24|22|JCT 25|24|POBJ 26|27|SUBJ 27|20|COMP 28|27|OBJ 29|27|JCT
+	30|31|INF 31|27|XJCT 32|31|OBJ 33|11|PUNCT
+*S1:	and you can imagine that &-uh if I raise sea level even more (.) to
+	this level right here (.) eventually (.) at that particular locality
+	(.) water will be so deep (.) that I can't deposit sand there
+	anymore .
+%mor:	coord|and pro:per|you mod|can v|imagine adv|that conj|if pro:sub|I
+	n|raise n|sea n|level adj|even adv|more prep|to det:dem|this
+	adj|level adv|right adv|here adv|eventual&dadj-LY prep|at
+	det:dem|that adj|particular n|local&dadj-ITY n|water mod|will cop|be
+	adv|so adj|deep comp|that pro:sub|I mod|can~neg|not n|deposit n|sand
+	adv|there adv|anymore .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|25|LINK 7|25|SUBJ 8|10|MOD
+	9|10|MOD 10|25|SUBJ 11|25|JCT 12|11|JCT 13|11|JCT 14|15|DET 15|13|POBJ
+	16|17|JCT 17|25|JCT 18|25|JCT 19|25|JCT 20|23|DET 21|23|MOD 22|23|MOD
+	23|19|POBJ 24|25|AUX 25|4|CJCT 26|27|JCT 27|33|MOD 28|32|LINK 29|32|SUBJ
+	30|32|AUX 31|30|NEG 32|33|MOD 33|25|PRED 34|33|NJCT 35|34|JCT 36|4|PUNCT
+*S1:	but instead this unit right here (.) is going to march inland (.)
+	and it will be deposited on top of that .
+%mor:	conj|but adv|instead det:dem|this n|unit adv|right adv|here
+	aux|be&3S part|go-PRESP inf|to v|march adj|inland coord|and
+	pro:per|it mod|will aux|be part|deposit-PASTP prep|on n|top prep|of
+	pro:dem|that .
+%gra:	1|8|LINK 2|4|JCT 3|4|DET 4|8|SUBJ 5|6|JCT 6|4|NJCT 7|8|AUX 8|0|ROOT
+	9|10|INF 10|8|COMP 11|10|PRED 12|16|LINK 13|16|SUBJ 14|16|AUX 15|16|AUX
+	16|11|CMOD 17|16|JCT 18|17|POBJ 19|18|NJCT 20|19|POBJ 21|8|PUNCT
+*S1:	so I'll have the sequence (.) of conglomerate (.) sandstone and
+	then on top of that I'll have shale (.) very much like we've
+	illustrated here .
+%mor:	adv|so pro:sub|I~mod|will v|have det:art|the n|sequence prep|of
+	n|conglomerate n|+n|sand+n|stone coord|and adv:tem|then adv|on n|top
+	prep|of adv|that pro:sub|I~mod|will v|have n|shale adv|very adv|much
+	co|like pro:sub|we~aux|have part|illustrate-PASTP adv|here .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|4|CONJ 11|18|JCT 12|11|JCT 13|12|POBJ 14|13|NJCT 15|14|POBJ
+	16|18|SUBJ 17|18|AUX 18|10|COORD 19|18|OBJ 20|21|JCT 21|18|JCT 22|18|COM
+	23|25|SUBJ 24|25|AUX 25|18|COMP 26|25|JCT 27|4|PUNCT
+*S1:	okay does everybody get that ?
+%mor:	co|okay mod|do&3S pro:indef|everybody v|get pro:dem|that ?
+%gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*S1:	you can have transgressions that actually cover &-uh hundreds and
+	hundreds of square kilometers (.) so that eventually (.) you might
+	have sediments that cover (.) almost half a continent .
+%mor:	pro:per|you mod|can v|have n|transgression-PL pro:rel|that
+	adv|actual&dadj-LY v|cover n|hundred-PL coord|and n|hundred-PL
+	prep|of n|square n|kilometer-PL conj|so adv|that
+	adv|eventual&dadj-LY pro:per|you mod|might v|have n|sediment-PL
+	det:dem|that n|cover adv|almost n|half det:art|a n|continent .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|JCT 7|4|CMOD 8|7|OBJ
+	9|8|CONJ 10|13|MOD 11|10|NJCT 12|11|POBJ 13|9|COORD 14|19|LINK 15|16|JCT
+	16|19|JCT 17|19|SUBJ 18|19|AUX 19|3|CJCT 20|19|OBJ 21|22|DET 22|20|ENUM
+	23|24|JCT 24|22|CMOD 25|26|DET 26|24|OBJ 27|3|PUNCT
+*S1:	yes (.) Emmanuel .
+%mor:	co|yes n:prop|Emmanuel .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S6:	so (.) the different types of &ro &-uh rocks have been deposited
+	+/.
+%mor:	co|so det:art|the adj|different n|type-PL prep|of n|rock-PL
+	aux|have aux|be&PASTP part|deposit-PASTP +/.
+%gra:	1|9|COM 2|4|DET 3|4|MOD 4|9|SUBJ 5|4|NJCT 6|5|POBJ 7|9|AUX 8|9|AUX
+	9|0|ROOT 10|9|PUNCT
+*S1:	⌈ yes ⌉ +/.
+%mor:	co|yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S6:	+, ⌊ due to ⌋ due to their suitability to the environment ?
+%mor:	adj|due prep|to adj|due prep|to det:poss|their n|suit&dadj-ABLE-ITY
+	prep|to det:art|the n|environment ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*S1:	exactly (.) right what we deposit in any one location (.) is going
+	to be a function of (.) how far we are from the shoreline (.) in
+	other words (.) how high sea level happens to be &-uh in that
+	particular locality (.) okay ?
+%mor:	adv|exact&dadj-LY adv|right pro:int|what pro:sub|we v|deposit
+	prep|in qn|any det:num|one n|locate&dv-TION aux|be&3S part|go-PRESP
+	inf|to cop|be det:art|a n|function prep|of pro:rel|how adj|far
+	pro:sub|we cop|be&PRES prep|from det:art|the n|shoreline prep|in
+	qn|other n|word-PL pro:rel|how adj|high n|sea n|level v|happen-3S
+	inf|to cop|be prep|in det:dem|that adj|particular n|local&dadj-ITY
+	co|okay ?
+%gra:	1|5|JCT 2|3|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|QUANT 8|9|QUANT
+	9|6|POBJ 10|11|AUX 11|5|XJCT 12|13|INF 13|11|COMP 14|15|DET 15|13|PRED
+	16|15|NJCT 17|20|LINK 18|20|JCT 19|20|SUBJ 20|16|CPOBJ 21|20|JCT
+	22|23|DET 23|21|POBJ 24|23|NJCT 25|26|QUANT 26|31|JCT 27|30|LINK 28|30|MOD
+	29|30|MOD 30|31|SUBJ 31|24|POBJ 32|33|INF 33|31|COMP 34|33|JCT 35|37|DET
+	36|37|MOD 37|34|POBJ 38|20|COM 39|5|PUNCT
+*S1:	so (.) eventually (.) over geologic time (.) keep in mind that
+	we're talking about millions and millions of years (.) you will
+	build a transgressive sequence like the sediments we find (.) in the
+	Grand Canyon today (.) that are not just &-uh randomly distributed
+	(.) but there is indeed a systematic order (.) to what you see (.)
+	and that represents (.) sea level rising .
+%mor:	adv|so adv|eventual&dadj-LY adv|over adj|geologic n|time v|keep
+	prep|in n|mind pro:rel|that pro:sub|we~aux|be&PRES part|talk-PRESP
+	prep|about n|million-PL coord|and n|million-PL prep|of n|year-PL
+	pro:per|you mod|will v|build det:art|a adj|transgressive n|sequence
+	prep|like det:art|the n|sediment-PL pro:sub|we v|find prep|in
+	det:art|the n:prop|Grand n:prop|Canyon adv:tem|today adv|that
+	aux|be&PRES neg|not adj|just adv|random&dadj-LY
+	part|distribute-PASTP conj|but pro:exist|there cop|be&3S adv|indeed
+	det:art|a adj|systematic n|order prep|to pro:int|what pro:per|you
+	co|see coord|and comp|that v|represent-3S n|sea n|level
+	part|rise-PRESP .
+%gra:	1|2|JCT 2|3|JCT 3|6|JCT 4|5|MOD 5|6|SUBJ 6|29|CJCT 7|21|JCT 8|21|SUBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|21|XJCT 13|12|JCT 14|13|POBJ 15|14|CONJ
+	16|15|COORD 17|16|NJCT 18|17|POBJ 19|21|SUBJ 20|21|AUX 21|6|COMP
+	22|24|DET 23|24|MOD 24|21|OBJ 25|24|NJCT 26|27|DET 27|25|POBJ 28|29|SUBJ
+	29|0|ROOT 30|29|JCT 31|32|DET 32|30|POBJ 33|40|SUBJ 34|40|AUX 35|40|JCT
+	36|40|AUX 37|36|NEG 38|40|JCT 39|40|JCT 40|29|XJCT 41|43|LINK 42|43|SUBJ
+	43|40|COMP 44|43|JCT 45|47|DET 46|47|MOD 47|44|POBJ 48|47|NJCT 49|51|LINK
+	50|51|SUBJ 51|48|POBJ 52|51|CONJ 53|52|COORD 54|53|CMOD 55|56|MOD
+	56|54|OBJ 57|56|XMOD 58|29|PUNCT
+*S1:	now (.) this invites the other question (.) okay &-uh of (.) if
+	sediments are deposited during sea level drop (.) what order should
+	they (.) exist in ?
+%mor:	adv|now det:dem|this v|invite-3S det:art|the qn|other n|question
+	adj|okay prep|of comp|if n|sediment-PL aux|be&PRES
+	part|deposit-PASTP prep|during n|sea adj|level v|drop pro:int|what
+	n|order mod|should pro:sub|they v|exist adv|in ?
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|6|POSTMOD 8|7|JCT
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|16|XJCT 13|12|JCT 14|13|POBJ
+	15|16|SUBJ 16|8|POBJ 17|18|DET 18|21|SUBJ 19|21|AUX 20|21|SUBJ 21|16|COMP
+	22|21|JCT 23|3|PUNCT
+*S1:	as we look at a stratigraphic column (.) very much like this one
+	(.) but (.) those sediments happen to have been deposited when sea
+	level was going down (.) what order should they exist in ?
+%mor:	conj|as pro:sub|we v|look prep|at det:art|a adj|stratigraphic
+	n|column adv|very adv|much prep|like det:dem|this pro:indef|one
+	conj|but det:dem|those n|sediment-PL v|happen inf|to v|have
+	aux|be&PASTP part|deposit-PASTP pro:rel|when n|sea n|level
+	aux|be&PAST&13S part|go-PRESP adv|down pro:int|what n|order
+	mod|should pro:sub|they v|exist adv|in ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|9|JCT
+	9|3|JCT 10|3|JCT 11|12|DET 12|10|POBJ 13|16|LINK 14|15|DET 15|16|SUBJ
+	16|3|CJCT 17|18|INF 18|16|COMP 19|20|AUX 20|18|COMP 21|25|LINK 22|23|MOD
+	23|25|SUBJ 24|25|AUX 25|20|COMP 26|25|JCT 27|31|LINK 28|31|SUBJ 29|31|AUX
+	30|31|SUBJ 31|25|COMP 32|31|JCT 33|3|PUNCT
+*S1:	again it's something you can figure out by looking at &-uh &-uh
+	&-uh a column &li or rather by looking at a cross section like this
+	(.) okay now let's say (.) that (.) well let's begin with this unit
+	right here .
+%mor:	adv|again pro:per|it~cop|be&3S pro:indef|something pro:per|you
+	mod|can v|figure adv|out prep|by n:gerund|look-PRESP prep|at
+	det:art|a n|column coord|or adv|rather prep|by n:gerund|look-PRESP
+	prep|at det:art|a n|cross n|section prep|like pro:dem|this co|okay
+	adv|now v|let~pro:obj|us v|say comp|that adv|well v|let~pro:obj|us
+	v|begin prep|with det:dem|this n|unit adv|right adv|here .
+%gra:	1|3|JCT 2|3|SUBJ 3|7|CJCT 4|3|SUBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|10|JCT 12|13|DET 13|11|POBJ 14|10|CONJ 15|14|COORD
+	16|15|JCT 17|16|POBJ 18|17|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|17|JCT
+	23|22|POBJ 24|26|COM 25|26|JCT 26|17|CJCT 27|26|OBJ 28|26|COMP 29|31|LINK
+	30|31|JCT 31|28|COMP 32|31|OBJ 33|31|COMP 34|33|JCT 35|36|DET 36|34|POBJ
+	37|38|JCT 38|33|JCT 39|7|PUNCT
+*S1:	it's a shale (.) okay (.) where it is right there .
+%mor:	pro:per|it~cop|be&3S det:art|a n|shale adj|okay pro:int|where
+	pro:per|it cop|be&3S adv|right adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|POSTMOD 6|8|LINK 7|8|SUBJ
+	8|5|CMOD 9|10|JCT 10|8|JCT 11|2|PUNCT
+*S1:	if sea level drops (.) so that now sea level is right here (.)
+	what's going to be deposited on top of the shale ?
+%mor:	conj|if n|sea adj|level n|drop-PL adv|so comp|that adv|now n|sea
+	n|level cop|be&3S adv|right adv|here pro:int|what~aux|be&3S
+	part|go-PRESP inf|to aux|be part|deposit-PASTP prep|on n|top prep|of
+	det:art|the n|shale ?
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|10|SUBJ 5|10|JCT 6|10|LINK 7|10|JCT 8|9|MOD
+	9|10|SUBJ 10|0|ROOT 11|12|JCT 12|15|JCT 13|15|SUBJ 14|15|AUX 15|10|CPRED
+	16|18|INF 17|18|AUX 18|15|COMP 19|18|JCT 20|19|POBJ 21|20|NJCT
+	22|23|DET 23|21|POBJ 24|10|PUNCT
+*SS:	sandstone .
+%mor:	n|+n|sand+n|stone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	it should be sandstone (.) right ?
+%mor:	pro:per|it mod|should cop|be n|+n|sand+n|stone co|right ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|COM 6|3|PUNCT
+*S1:	because the water's going to be now relatively shallow (.) so that
+	the environment here will be ideal for sandstone (.) and &-uh if we
+	drop sea level even further (.) what should be deposited on top of
+	the sandstone ?
+%mor:	conj|because det:art|the adj|water&dn-POSS part|go-PRESP inf|to
+	cop|be adv|now adv|relative&dadj-LY adj|shallow adv|so comp|that
+	det:art|the n|environment adv|here mod|will cop|be n|ideal prep|for
+	n|+n|sand+n|stone coord|and conj|if pro:sub|we n|drop n|sea n|level
+	adj|even adj|further pro:int|what mod|should aux|be
+	part|deposit-PASTP prep|on n|top prep|of det:art|the
+	n|+n|sand+n|stone ?
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|XMOD 5|6|INF 6|4|COMP 7|6|JCT 8|9|JCT
+	9|6|PRED 10|16|JCT 11|16|LINK 12|13|DET 13|16|SUBJ 14|16|JCT 15|16|AUX
+	16|4|COMP 17|16|PRED 18|17|NJCT 19|18|POBJ 20|16|CONJ 21|25|LINK
+	22|25|SUBJ 23|25|MOD 24|25|MOD 25|20|COORD 26|27|MOD 27|25|PRED 28|31|LINK
+	29|31|AUX 30|31|AUX 31|27|CMOD 32|31|JCT 33|32|POBJ 34|33|NJCT 35|36|DET
+	36|34|POBJ 37|3|PUNCT
+*SUF:	conglomerate +/.
+%mor:	n|conglomerate +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, conglomerate .
+%mor:	n|conglomerate .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so (.) really (.) for regressive sequences (.) you should simply
+	flip this upside+down (.) and you'll see conglomerate on top
+	sandstone shale and then limestone is going to be (.) at the very
+	bottom .
+%mor:	adv|so adv|real&dadj-LY prep|for adj|regressive n|sequence-PL
+	pro:per|you mod|should adv|simple&dadj-LY v|flip det:dem|this
+	adv|+n|upside+adv|down coord|and pro:per|you~mod|will co|see
+	v|conglomerate prep|on adj|top n|+n|sand+n|stone n|shale coord|and
+	adv:tem|then n|+n|lime+n|stone aux|be&3S part|go-PRESP inf|to cop|be
+	prep|at det:art|the adv|very adj|bottom .
+%gra:	1|2|JCT 2|3|JCT 3|9|JCT 4|5|MOD 5|3|POBJ 6|9|SUBJ 7|9|AUX 8|9|JCT
+	9|0|ROOT 10|11|DET 11|9|JCT 12|16|LINK 13|16|SUBJ 14|16|AUX 15|16|COM
+	16|9|CJCT 17|16|JCT 18|20|MOD 19|20|MOD 20|17|POBJ 21|25|LINK 22|25|JCT
+	23|25|SUBJ 24|25|AUX 25|16|CJCT 26|27|INF 27|25|COMP 28|27|JCT 29|31|DET
+	30|31|JCT 31|28|POBJ 32|9|PUNCT
+*S1:	but why is it then (.) that when we go into the Grand Canyon (.)
+	it's very common to find transgressive sequences like this (.) but
+	it is not common to find (.) regressive sequences .
+%mor:	conj|but pro:int|why cop|be&3S pro:per|it adv:tem|then comp|that
+	conj|when pro:sub|we v|go prep|into det:art|the n:prop|Grand
+	n:prop|Canyon pro:per|it~cop|be&3S adv|very adj|common inf|to v|find
+	adj|transgressive n|sequence-PL prep|like pro:dem|this conj|but
+	pro:per|it cop|be&3S neg|not adj|common inf|to v|find adj|regressive
+	n|sequence-PL .
+%gra:	1|3|LINK 2|3|JCT 3|15|CJCT 4|15|SUBJ 5|15|JCT 6|15|LINK 7|9|LINK
+	8|9|SUBJ 9|15|CJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|15|COM 14|15|SUBJ
+	15|0|ROOT 16|17|JCT 17|15|PRED 18|19|INF 19|17|XMOD 20|21|MOD 21|19|OBJ
+	22|21|NJCT 23|22|POBJ 24|26|LINK 25|26|SUBJ 26|15|CJCT 27|26|NEG 28|26|PRED
+	29|30|INF 30|28|XMOD 31|32|MOD 32|30|OBJ 33|15|PUNCT
+*S1:	why would that be ?
+%mor:	pro:int|why mod|will&COND pro:dem|that cop|be ?
+%gra:	1|3|JCT 2|3|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S1:	I mean you should be able to figure this out .
+%mor:	pro:sub|I v|mean pro:per|you mod|should cop|be adj|able inf|to
+	v|figure det:dem|this adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|PRED 7|8|INF 8|6|XMOD
+	9|10|DET 10|8|JCT 11|2|PUNCT
+*S1:	it's easy to find (.) transgressive sequences in any sedimentary
+	pile you look at anywhere in the world (.) but it's very rare (.) to
+	find a regressive sequence preserved (.) Cliff .
+%mor:	pro:per|it~cop|be&3S adj|ease&dn-Y inf|to v|find adj|transgressive
+	n|sequence-PL prep|in qn|any adj|sedimentary n|pile pro:per|you
+	v|look prep|at adv|anywhere prep|in det:art|the n|world conj|but
+	pro:per|it~cop|be&3S adv|very adj|rare inf|to v|find det:art|a
+	adj|regressive n|sequence v|preserve-PAST n:prop|Cliff .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|7|MOD 7|5|OBJ 8|5|JCT
+	9|11|QUANT 10|11|MOD 11|8|POBJ 12|13|SUBJ 13|2|CJCT 14|13|JCT 15|14|POBJ
+	16|15|JCT 17|18|DET 18|16|POBJ 19|21|LINK 20|21|SUBJ 21|13|CJCT 22|23|JCT
+	23|21|PRED 24|25|INF 25|23|XMOD 26|28|DET 27|28|MOD 28|29|SUBJ
+	29|25|COMP 30|29|OBJ 31|2|PUNCT
+*S4:	it got eroded away ?
+%mor:	pro:per|it aux|get&PAST part|erode-PASTP adv|away ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*S1:	okay why ?
+%mor:	co|okay pro:rel|why ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S4:	mm because &-uh after the sea regressed it was exposed to the
+	elements again and +/.
+%mor:	co|mm conj|because prep|after det:art|the n|sea v|regress-PAST
+	pro:per|it aux|be&PAST&13S part|expose-PASTP prep|to det:art|the
+	n|element-PL adv|again coord|and +/.
+%gra:	1|9|COM 2|6|LINK 3|6|JCT 4|5|DET 5|3|POBJ 6|9|CJCT 7|6|OBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|9|JCT 14|9|CONJ 15|14|COORD
+*S1:	⌈ right ⌉ +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	+, ⌊ caused the ⌋ unconformity ?
+%mor:	v|cause-PAST det:art|the un#n|conformity ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*S1:	exactly (.) okay notice that (.) during transgression (.) the
+	sediments being deposited (.) are immediately covered up by others
+	(.) by younger sediments (.) so that there is a much better chance
+	(.) of that section being preserved (.) in the geologic record (.)
+	than it is if sea level is dropping .
+%mor:	adv|exact&dadj-LY co|okay n|notice pro:rel|that prep|during
+	n|transgression det:art|the n|sediment-PL n|being part|deposit-PASTP
+	aux|be&PRES adv|immediate&dadj-LY v|cover-PAST adv|up prep|by
+	n:pt|others adv|by adj|young-CP n|sediment-PL conj|so adv|that
+	pro:exist|there cop|be&3S det:art|a qn|much adj|good&CP n|chance
+	prep|of det:dem|that n|section aux|be-PRESP part|preserve-PASTP
+	prep|in det:art|the adj|geologic n|record prep|than pro:per|it
+	cop|be&3S comp|if n|sea n|level aux|be&3S part|drop-PRESP .
+%gra:	1|0|INCROOT 2|3|COM 3|1|PUNCT 4|3|INCROOT 5|4|JCT 6|5|POBJ 7|9|DET
+	8|9|MOD 9|5|POBJ 10|13|SUBJ 11|13|AUX 12|13|JCT 13|9|CMOD 14|13|JCT
+	15|13|JCT 16|15|POBJ 17|19|JCT 18|19|MOD 19|32|SUBJ 20|23|LINK 21|23|JCT
+	22|23|SUBJ 23|19|CMOD 24|27|DET 25|27|QUANT 26|27|MOD 27|23|PRED 28|27|NJCT
+	29|30|DET 30|28|POBJ 31|32|AUX 32|13|CJCT 33|32|JCT 34|36|DET 35|36|MOD
+	36|33|POBJ 37|36|NJCT 38|37|POBJ 39|44|AUX 40|44|LINK 41|42|MOD 42|44|SUBJ
+	43|44|AUX 44|32|CJCT 45|4|PUNCT
+*S1:	if sea level is dropping (.) the moment you deposit something like
+	(.) this sand right in here (.) okay and then sea level went to down
+	here (.) well (.) those loose sediments are immediately exposed (.)
+	and they're going to be eroded away .
+%mor:	conj|if n|sea n|level aux|be&3S part|drop-PRESP det:art|the
+	n|moment pro:per|you v|deposit pro:indef|something co|like
+	det:dem|this n|sand adv|right prep|in n|here adj|okay coord|and
+	adv:tem|then n|sea adj|level v|go&PAST prep|to adv|down adv|here
+	adv|well det:dem|those v|loose n|sediment-PL aux|be&PRES
+	adv|immediate&dadj-LY part|expose-PASTP coord|and
+	pro:sub|they~aux|be&PRES part|go-PRESP inf|to aux|be
+	part|erode-PASTP adv|away .
+%gra:	1|5|LINK 2|3|MOD 3|5|SUBJ 4|5|AUX 5|9|CJCT 6|7|DET 7|5|OBJ 8|9|SUBJ
+	9|0|ROOT 10|9|OBJ 11|10|COM 12|13|DET 13|9|OBJ 14|17|JCT 15|17|JCT
+	16|15|POBJ 17|13|POSTMOD 18|22|LINK 19|22|JCT 20|22|SUBJ 21|22|JCT 22|13|CJCT
+	23|22|JCT 24|26|JCT 25|26|JCT 26|23|POBJ 27|28|DET 28|26|CPOBJ 29|32|SUBJ
+	30|32|AUX 31|32|JCT 32|28|COMP 33|36|LINK 34|36|SUBJ 35|36|AUX
+	36|28|CJCT 37|39|INF 38|39|AUX 39|36|COMP 40|39|JCT 41|9|PUNCT
+*S1:	so (.) regressive sequences are not very common in nature (.)
+	because very shortly after (.) deposition (.) of the sediments (.)
+	they're eroded away (.) simply eroded away .
+%mor:	adv|so adj|regressive n|sequence-PL cop|be&PRES neg|not adv|very
+	adj|common prep|in n|nature conj|because adv|very adv|short&dadj-LY
+	prep|after n|deposition prep|of det:art|the n|sediment-PL
+	pro:sub|they~aux|be&PRES part|erode-PASTP adv|away
+	adv|simple&dadj-LY v|erode-PAST adv|away .
+%gra:	1|2|JCT 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|JCT 7|4|PRED 8|4|JCT
+	9|8|POBJ 10|20|LINK 11|12|JCT 12|20|JCT 13|12|JCT 14|13|POBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|20|SUBJ 19|20|AUX 20|4|CJCT 21|20|JCT 22|23|JCT
+	23|20|COMP 24|23|JCT 25|4|PUNCT
+*S1:	okay anybody (.) have a question about that ?
+%mor:	co|okay pro:indef|anybody v|have det:art|a n|question prep|about
+	pro:dem|that ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*S1:	transgressions and regressions ?
+%mor:	n|transgression-PL coord|and n|regression-PL ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	so basically (.) sediments exist (.) as a unit (.) over very long
+	distances (.) because of sea level transgression .
+%mor:	adv|so adv|basic&dadj-AL-LY n|sediment-PL v|exist conj|as det:art|a
+	n|unit adv|over adv|very adj|long n|distance-PL conj|because prep|of
+	n|sea n|level n|transgression .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|COORD 6|7|DET 7|4|OBJ 8|7|NJCT
+	9|10|JCT 10|11|MOD 11|7|APP 12|7|ENUM 13|12|JCT 14|16|MOD 15|16|MOD
+	16|13|POBJ 17|4|PUNCT
+*S1:	and in fact I think &-uh I give you a_couple_of examples to finish
+	off here .
+%mor:	coord|and prep|in n|fact pro:sub|I v|think pro:sub|I v|give
+	pro:per|you qn|a_couple_of n|example-PL inf|to v|finish prep|off
+	n|here .
+%gra:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|OBJ2
+	9|10|QUANT 10|7|OBJ 11|12|INF 12|10|XMOD 13|12|JCT 14|13|POBJ 15|5|PUNCT
+*S1:	&-uh one example is a modern [/] modern example of sea level
+	transgression (.) which &-uh the Netherlands (.) are experiencing
+	today .
+%mor:	pro:indef|one ex#adj|ample cop|be&3S det:art|a adj|modern
+	ex#adj|ample prep|of n|sea n|level n|transgression pro:rel|which
+	det:art|the n:prop|Netherlands aux|be&PRES part|experience-PRESP
+	adv:tem|today .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|XMOD 7|6|NJCT 8|10|MOD
+	9|10|MOD 10|7|POBJ 11|15|LINK 12|13|DET 13|15|SUBJ 14|15|AUX 15|10|CMOD
+	16|15|JCT 17|3|PUNCT
+*S1:	okay so I have a_couple_of cross sections here .
+%mor:	co|okay conj|so pro:sub|I v|have qn|a_couple_of adj|cross
+	n|section-PL adv|here .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|QUANT 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|4|PUNCT
+*S1:	on top we are looking at the North Sea (.) and (.) here is the
+	Netherlands or Holland (.) right here (.) and you can see that &-uh
+	four thousand BC or rather four hundred BC so that this is a mere
+	twenty four hundred years ago (.) the shoreline was actually right
+	here .
+%mor:	prep|on n|top pro:sub|we aux|be&PRES part|look-PRESP prep|at
+	det:art|the n:prop|North n:prop|Sea coord|and adv|here cop|be&3S
+	det:art|the n:prop|Netherlands coord|or n:prop|Holland adv|right
+	adv|here coord|and pro:per|you mod|can v|see comp|that det:num|four
+	det:num|thousand n:prop|BC coord|or adv|rather det:num|four
+	det:num|hundred n:prop|BC conj|so comp|that pro:dem|this cop|be&3S
+	det:art|a adj|mere det:num|twenty det:num|four det:num|hundred
+	n|year-PL post|ago det:art|the n|shoreline cop|be&PAST&13S
+	adv|actual&dadj-LY adv|right adv|here .
+%gra:	1|5|JCT 2|1|POBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|CONJ 11|12|JCT 12|10|COORD 13|14|DET 14|12|PRED 15|14|CONJ
+	16|15|COORD 17|18|JCT 18|14|JCT 19|22|LINK 20|22|SUBJ 21|22|AUX 22|18|CPOBJ
+	23|30|LINK 24|25|QUANT 25|26|QUANT 26|30|SUBJ 27|26|CONJ 28|29|JCT
+	29|27|COORD 30|31|QUANT 31|22|OBJ 32|5|JCT 33|35|LINK 34|35|SUBJ 35|32|CPOBJ
+	36|41|DET 37|41|MOD 38|40|DATE 39|40|DATE 40|41|QUANT 41|35|PRED
+	42|41|POSTMOD 43|44|DET 44|45|SUBJ 45|41|CMOD 46|48|JCT 47|48|JCT 48|45|JCT
+	49|5|PUNCT
+*S1:	in the Netherlands .
+%mor:	prep|in det:art|the n:prop|Netherlands .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*S1:	and at the present time (.) the shoreline has moved to way over
+	here (.) this is why the Dutch have to deal with these dikes (.)
+	in_order_to keep sea level &-uh from (.) inundating their land .
+%mor:	coord|and prep|at det:art|the adj|present n|time det:art|the
+	n|shoreline aux|have&3S part|move-PASTP prep|to n|way prep|over
+	n|here pro:dem|this cop|be&3S pro:int|why det:art|the n:prop|Dutch
+	v|have prep|to n|deal prep|with det:dem|these n|dike-PL
+	inf|in_order_to v|keep n|sea n|level prep|from part|inundate-PRESP
+	det:poss|their n|land .
+%gra:	1|9|LINK 2|9|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|10|POBJ 12|11|NJCT 13|12|POBJ 14|15|SUBJ 15|9|CJCT
+	16|19|LINK 17|18|DET 18|19|SUBJ 19|15|CPRED 20|19|JCT 21|20|POBJ 22|19|JCT
+	23|24|DET 24|22|POBJ 25|26|INF 26|19|XJCT 27|28|MOD 28|26|OBJ 29|26|JCT
+	30|29|POBJ 31|32|DET 32|30|OBJ 33|9|PUNCT
+*S1:	okay the shoreline used to be there (.) now it has marched (.) all
+	the way &-uh to here (.) and you can see that (.) in a place where
+	(.) previously (.) sand was being deposited (.) that's what these
+	little dots are (.) the water now is so deep (.) that mud (.) is
+	what's being deposited (.) so on top of (.) sandstone (.) we are now
+	having &-uh shale being deposited .
+%mor:	co|okay det:art|the n|shoreline v|use-PAST inf|to cop|be adv|there
+	adv|now pro:per|it aux|have&3S part|march-PASTP qn|all det:art|the
+	n|way prep|to n|here coord|and pro:per|you mod|can co|see adv|that
+	prep|in det:art|a n|place pro:rel|where adv|previous&dadj-LY n|sand
+	aux|be&PAST&13S aux|be-PRESP part|deposit-PASTP
+	pro:dem|that~cop|be&3S pro:int|what det:dem|these adj|little
+	n|dot-PL cop|be&PRES det:art|the n|water adv|now aux|be&3S adv|so
+	adj|deep det:dem|that n|mud cop|be&3S pro:int|what~aux|be&3S
+	aux|be-PRESP part|deposit-PASTP adv|so adv|on n|top prep|of
+	n|+n|sand+n|stone pro:sub|we aux|be&PRES adv|now part|have-PRESP
+	n|shale aux|be-PRESP part|deposit-PASTP .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|JCT
+	9|11|SUBJ 10|11|AUX 11|8|CPOBJ 12|14|QUANT 13|14|DET 14|11|OBJ 15|14|NJCT
+	16|15|POBJ 17|11|CONJ 18|20|SUBJ 19|20|AUX 20|17|COORD 21|22|JCT 22|20|JCT
+	23|24|DET 24|22|POBJ 25|30|LINK 26|30|JCT 27|30|SUBJ 28|30|AUX
+	29|30|AUX 30|24|CMOD 31|32|SUBJ 32|30|COMP 33|37|LINK 34|36|DET 35|36|MOD
+	36|37|SUBJ 37|32|PRED 38|39|DET 39|37|PRED 40|46|JCT 41|43|AUX 42|43|JCT
+	43|46|JCT 44|45|DET 45|46|SUBJ 46|39|CMOD 47|50|LINK 48|50|AUX 49|50|AUX
+	50|46|CPRED 51|52|JCT 52|50|JCT 53|52|POBJ 54|53|NJCT 55|54|POBJ 56|59|SUBJ
+	57|59|AUX 58|59|JCT 59|53|XJCT 60|62|SUBJ 61|62|AUX 62|59|COMP
+	63|4|PUNCT
+*S1:	and when you go north of there (.) to the Scandinavian countries
+	&-uh you see exactly the opposite .
+%mor:	coord|and conj|when pro:per|you v|go adj|north prep|of n|there
+	prep|to det:art|the n:prop|Scandinavian n|country-PL pro:per|you
+	co|see adv|exact&dadj-LY det:art|the adj|opposite .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|JCT 7|6|POBJ 8|4|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|4|OBJ 13|16|COM 14|16|JCT 15|16|DET
+	16|12|POSTMOD 17|4|PUNCT
+*S1:	okay (.) so let's see where was &-uh sea level (.) at &-uh let's
+	see where does this go ?
+%mor:	co|okay co|so v|let~pro:obj|us v|see pro:int|where cop|be&PAST&13S
+	n|sea n|level prep|at v|let~pro:obj|us v|see pro:int|where v|do&3S
+	pro:dem|this v|go ?
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|OBJ 5|3|COMP 6|7|SUBJ 7|5|COMP 8|9|MOD
+	9|7|PRED 10|9|NJCT 11|10|POBJ 12|13|SUBJ 13|7|CPRED 14|15|JCT 15|13|COMP
+	16|17|SUBJ 17|15|COMP 18|3|PUNCT
+*S1:	six thousand BC &-uh the shoreline (.) was way over here (.) okay
+	and at the present time (.) the shoreline is right there .
+%mor:	det:num|six det:num|thousand n:prop|BC det:art|the n|shoreline
+	cop|be&PAST&13S adv|way prep|over n|here adj|okay coord|and prep|at
+	det:art|the adj|present n|time det:art|the n|shoreline cop|be&3S
+	adv|right adv|there .
+%gra:	1|2|QUANT 2|3|QUANT 3|6|SUBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|8|JCT 8|6|JCT
+	9|8|POBJ 10|9|POSTMOD 11|10|CONJ 12|11|COORD 13|15|DET 14|15|MOD
+	15|12|POBJ 16|17|DET 17|18|SUBJ 18|15|CMOD 19|20|JCT 20|18|JCT 21|6|PUNCT
+*S1:	so it has actually (.) retreated (.) so in other words (.) sea
+	level happens to be dropping in Scandanavia .
+%mor:	co|so pro:per|it aux|have&3S adv|actual&dadj-LY part|retreat-PASTP
+	adv|so prep|in qn|other n|word-PL n|sea n|level v|happen-3S inf|to
+	aux|be part|drop-PRESP prep|in n:prop|Scandanavia .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|12|JCT 8|9|QUANT
+	9|11|MOD 10|11|MOD 11|12|SUBJ 12|5|CJCT 13|15|INF 14|15|AUX 15|12|COMP
+	16|15|JCT 17|16|POBJ 18|5|PUNCT
+*S1:	how do we explain that ?
+%mor:	pro:int|how mod|do pro:sub|we v|explain pro:dem|that ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*S1:	let's see if we have &-uh a map to show the region we're talking
+	about here .
+%mor:	v|let~pro:obj|us v|see conj|if pro:sub|we v|have det:art|a n|map
+	inf|to v|show det:art|the n|region pro:sub|we~aux|be&PRES
+	part|talk-PRESP prep|about n|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|6|LINK 5|6|SUBJ 6|3|COMP 7|8|DET 8|6|OBJ
+	9|10|INF 10|6|XJCT 11|12|DET 12|10|OBJ 13|15|SUBJ 14|15|AUX 15|12|CMOD
+	16|15|JCT 17|16|POBJ 18|1|PUNCT
+*S1:	okay there is &-uh &-uh Great Britain (.) so the Netherlands would
+	be (.) somewhere in here (.) and here is Scandanavia .
+%mor:	co|okay adv|there cop|be&3S n:prop|Great n:prop|Britain conj|so
+	det:art|the n:prop|Netherlands mod|will&COND cop|be adv|somewhere
+	prep|in n|here coord|and adv|here cop|be&3S n:prop|Scandanavia .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|NAME 5|3|PRED 6|10|LINK 7|8|DET 8|10|SUBJ
+	9|10|AUX 10|3|CJCT 11|10|JCT 12|10|JCT 13|12|POBJ 14|10|CONJ 15|16|JCT
+	16|14|COORD 17|16|PRED 18|3|PUNCT
+*S1:	so the area we're talking about is actually not very large right ?
+%mor:	co|so det:art|the n|area pro:sub|we~aux|be&PRES part|talk-PRESP
+	adv|about cop|be&3S adv|actual&dadj-LY neg|not adv|very adj|large
+	co|right ?
+%gra:	1|3|COM 2|3|DET 3|8|SUBJ 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|8|JCT 8|0|ROOT
+	9|8|JCT 10|12|NEG 11|12|JCT 12|8|PRED 13|8|COM 14|8|PUNCT
+*S1:	&-uh Holland over here (.) Scandanavia over here we're saying that
+	sea level (.) has gone up over here (.) sea level has gone down over
+	here .
+%mor:	n:prop|Holland prep|over n|here n:prop|Scandanavia prep|over n|here
+	pro:sub|we~cop|be&PRES n:gerund|say-PRESP adv|that n|sea n|level
+	aux|have&3S part|go&PASTP adv|up adv|over adv|here n|sea n|level
+	aux|have&3S part|go&PASTP adv|down adv|over adv|here .
+%gra:	1|8|LINK 2|1|NJCT 3|2|POBJ 4|3|APP 5|1|NJCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|8|PRED 10|11|JCT 11|12|MOD 12|14|SUBJ 13|14|AUX 14|9|COMP 15|14|JCT
+	16|14|JCT 17|21|JCT 18|19|MOD 19|21|SUBJ 20|21|AUX 21|14|XJCT 22|21|JCT
+	23|21|JCT 24|21|JCT 25|8|PUNCT
+*S1:	how could that be ?
+%mor:	pro:int|how mod|could pro:dem|that cop|be ?
+%gra:	1|3|JCT 2|3|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S1:	how could it be that sea level is doing two different things (.)
+	not very far +...
+%mor:	pro:int|how mod|could pro:per|it aux|be det:dem|that n|sea n|level
+	aux|be&3S part|do-PRESP det:num|two adj|different n|thing-PL neg|not
+	adv|very adv|far +...
+%gra:	1|9|JCT 2|9|AUX 3|9|SUBJ 4|9|AUX 5|7|DET 6|7|MOD 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|12|QUANT 11|12|MOD 12|9|OBJ 13|12|NEG 14|15|JCT 15|9|JCT
+	16|9|PUNCT
+*S1:	from each_other (.) those two localities .
+%mor:	prep|from pro:refl|each_other det:dem|those det:num|two
+	n|local-ITY-PL .
+%gra:	1|0|INCROOT 2|1|POBJ 3|5|DET 4|5|QUANT 5|1|POBJ 6|1|PUNCT
+*S1:	how could that be ?
+%mor:	pro:int|how mod|could pro:dem|that cop|be ?
+%gra:	1|3|JCT 2|3|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S6:	different (.) rock formations .
+%mor:	adj|different n|rock n|form&dv-TION-PL .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S1:	different rock formations ?
+%mor:	adj|different n|rock n|form&dv-TION-PL ?
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S6:	that +/.
+%mor:	comp|that +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, can you think of anything that (.) has happened in the last say
+	(.) fifteen twenty thousand years that might be influencing what
+	we're looking at here +..?
+%mor:	mod|can pro:per|you v|think prep|of pro:indef|anything pro:rel|that
+	aux|have&3S part|happen-PASTP prep|in det:art|the adj|last co|say
+	det:num|fifteen det:num|twenty det:num|thousand n|year-PL
+	pro:rel|that mod|might aux|be part|influence-PRESP pro:int|what
+	pro:sub|we~aux|be&PRES part|look-PRESP prep|at n|here +..?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|8|LINK 7|8|AUX 8|5|CMOD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|15|COM 13|15|DATE 14|15|DATE 15|16|QUANT
+	16|11|CMOD 17|20|LINK 18|20|AUX 19|20|AUX 20|16|CMOD 21|24|LINK
+	22|24|SUBJ 23|24|AUX 24|20|COMP 25|24|JCT 26|25|POBJ 27|3|PUNCT
+*S1:	the last fifteen thousand years or so ?
+%mor:	det:art|the adj|last det:num|fifteen det:num|thousand n|year-PL
+	coord|or co|so ?
+%gra:	1|3|DET 2|3|MOD 3|5|QUANT 4|5|QUANT 5|0|INCROOT 6|5|CONJ 7|6|COORD
+	8|5|PUNCT
+*S4:	+, ⌈ <it was glaciers> [?] ⌉ +/.
+%mor:	pro:per|it cop|be&PAST&13S n|glacier-PL +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S1:	+, ⌊ fifteen thousand ⌋ years ago could we have had (.) the
+	University of Michigan right here ?
+%mor:	det:num|fifteen det:num|thousand n|year-PL post|ago mod|could
+	pro:sub|we aux|have part|have&PASTP det:art|the n:prop|University
+	prep|of n:prop|Michigan adv|right adv|here ?
+%gra:	1|2|DATE 2|3|QUANT 3|8|JCT 4|3|POSTMOD 5|8|AUX 6|8|SUBJ 7|8|AUX
+	8|0|ROOT 9|10|DET 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|14|JCT 14|8|JCT 15|8|PUNCT
+*S3:	<we couldn't> [?] .
+%mor:	pro:sub|we mod|could~neg|not .
+%gra:	1|0|INCROOT 2|1|ENUM 3|2|NEG 4|1|PUNCT
+*S1:	why not ?
+%mor:	pro:int|why neg|not ?
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PUNCT
+*S3:	⌈ <covered by> [?] glaciers ⌉ .
+%mor:	v|cover-PAST prep|by n|glacier-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*SUF:	⌊ glaciers ⌋ .
+%mor:	n|glacier-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	there were glaciers okay (.) there were &s about three kilometers
+	of ice (.) right where you're sitting .
+%mor:	pro:exist|there cop|be&PAST n|glacier-PL adj|okay adv|there
+	cop|be&PAST prep|about det:num|three n|kilometer-PL prep|of n|ice
+	adv|right pro:int|where pro:per|you~aux|be&PRES part|sit-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|MOD 5|4|JCT 6|3|CMOD 7|6|JCT 8|9|QUANT
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|13|JCT 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|6|CJCT 17|2|PUNCT
+*S1:	okay very [/] very thick ice (.) and certainly (.) there was a
+	tremendous amount of glaciation in the Scandinavian countries (.)
+	and believe it or not (.) when you have several kilometers of ice
+	sitting on top of the crust (.) it depresses the rocks .
+%mor:	co|okay adv|very adj|thick n|ice coord|and adv|certain&dadj-LY
+	adv|there cop|be&PAST&13S det:art|a adj|tremendous n|amount prep|of
+	n|glaciate&dv-TION prep|in det:art|the n:prop|Scandinavian
+	n|country-PL coord|and v|believe pro:per|it coord|or neg|not
+	conj|when pro:per|you v|have qn|several n|kilometer-PL prep|of n|ice
+	part|sit-PRESP prep|on n|top prep|of det:art|the n|crust pro:per|it
+	v|depress-3S det:art|the n|rock-PL .
+%gra:	1|4|COM 2|3|JCT 3|4|MOD 4|0|INCROOT 5|4|CONJ 6|8|JCT 7|8|SUBJ 8|5|COORD
+	9|11|DET 10|11|MOD 11|8|PRED 12|11|NJCT 13|12|POBJ 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|19|LINK 19|4|CJCT 20|19|OBJ 21|37|LINK
+	22|21|NEG 23|25|LINK 24|25|SUBJ 25|37|CJCT 26|27|QUANT 27|37|SUBJ 28|27|NJCT
+	29|28|POBJ 30|37|XJCT 31|30|JCT 32|31|POBJ 33|32|NJCT 34|35|DET 35|33|POBJ
+	36|37|SUBJ 37|19|CJCT 38|39|DET 39|37|OBJ 40|4|PUNCT
+*S1:	very much like putting a big chunk of rock on a sponge (.) okay the
+	sponge &-uh is depressed downwards .
+%mor:	adv|very adv|much prep|like n:gerund|put-PRESP det:art|a adj|big
+	n|chunk prep|of n|rock prep|on det:art|a n|sponge co|okay
+	det:art|the n|sponge aux|be&3S part|depress-PASTP adv|downwards .
+%gra:	1|2|JCT 2|17|JCT 3|2|JCT 4|3|POBJ 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|2|JCT 11|12|DET 12|10|POBJ 13|17|COM 14|15|DET 15|17|SUBJ
+	16|17|AUX 17|0|ROOT 18|17|JCT 19|17|PUNCT
+*S1:	rocks (.) that form the crust can likewise (.) be depressed (.) and
+	after the glaciation has gone away &-uh Scandinavia happens to be
+	rebounding (.) very much like a sponge (.) would rebound (.) and
+	guess what happens to [/] &s to &-uh Holland over here ?
+%mor:	v|rock-3S det:dem|that n|form det:art|the n|crust mod|can
+	adv|likewise aux|be v|depress-PAST coord|and prep|after det:art|the
+	n|glaciate&dv-TION aux|have&3S part|go&PASTP adv|away
+	n:prop|Scandinavia v|happen-3S inf|to cop|be re#n:gerund|bound-PRESP
+	adv|very adv|much prep|like det:art|a n|sponge mod|will&COND
+	re#n|bound coord|and v|guess pro:int|what v|happen-3S prep|to
+	n:prop|Holland prep|over n|here ?
+%gra:	1|9|CJCT 2|3|DET 3|1|OBJ 4|5|DET 5|9|SUBJ 6|9|AUX 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|18|LINK 11|15|JCT 12|13|DET 13|11|POBJ 14|15|AUX 15|18|CJCT
+	16|15|JCT 17|18|SUBJ 18|9|CJCT 19|20|INF 20|18|COMP 21|20|PRED 22|23|JCT
+	23|21|JCT 24|28|LINK 25|26|DET 26|28|SUBJ 27|28|AUX 28|32|CJCT 29|28|CONJ
+	30|29|COORD 31|32|SUBJ 32|21|CJCT 33|32|JCT 34|33|POBJ 35|34|NJCT
+	36|35|POBJ 37|9|PUNCT
+*S1:	when this rebounds (.) it's almost like (.) pulling on a
+	handkerchief or a shirt (.) you can see that a moat hasta build
+	around (.) this topographic high (.) and okay so Scandinavia's going
+	up (.) and all the area around Scandanavia (.) hasta be going down .
+%mor:	conj|when det:dem|this re#n|bound-PL pro:per|it~cop|be&3S
+	adv|almost co|like part|pull-PRESP prep|on det:art|a n|handkerchief
+	coord|or det:art|a n|shirt pro:per|you mod|can v|see comp|that
+	det:art|a n|moat mod|have&3S~inf|to v|build prep|around det:dem|this
+	adj|topographic adj|high coord|and co|okay co|so
+	n:prop|Scandinavia~aux|be&3S part|go-PRESP adv|up coord|and qn|all
+	det:art|the n|area prep|around n:prop|Scandanavia mod|have&3S~inf|to
+	aux|be part|go-PRESP adv|down .
+%gra:	1|3|LINK 2|3|DET 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|COM 8|5|XJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|CONJ 13|14|DET 14|12|COORD 15|17|SUBJ
+	16|17|AUX 17|14|CMOD 18|23|LINK 19|20|DET 20|23|SUBJ 21|23|AUX 22|23|INF
+	23|17|COMP 24|23|JCT 25|27|DET 26|27|MOD 27|24|POBJ 28|27|CONJ 29|28|COORD
+	30|33|COM 31|33|SUBJ 32|33|AUX 33|14|XMOD 34|33|JCT 35|33|CONJ
+	36|38|QUANT 37|38|DET 38|35|COORD 39|44|LINK 40|44|SUBJ 41|44|AUX 42|44|INF
+	43|44|AUX 44|38|CMOD 45|44|JCT 46|5|PUNCT
+*S1:	this is known as isostatic rebound (.) reequilibration (.)
+	&=writes:board isostatic rebound .
+%mor:	pro:dem|this aux|be&3S part|know&PASTP prep|as adj|isostatic
+	re#n|bound re#n|equilibrate&dv-TION adj|isostatic re#n|bound .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|CONJ 7|6|COORD 8|9|MOD
+	9|7|PRED 10|3|PUNCT
+*S1:	okay so (.) it is not that the North Sea is changing &-uh &-uh its
+	sea level (.) what is actually happening is that &-uh over here (.)
+	the land is going down (.) and over here in Scandanavia the land is
+	going up (.) as a result of &-uh glacial rebound .
+%mor:	co|okay co|so pro:per|it cop|be&3S neg|not comp|that det:art|the
+	n:prop|North n:prop|Sea aux|be&3S part|change-PRESP det:poss|its
+	n|sea n|level pro:int|what cop|be&3S adv|actual&dadj-LY
+	n:gerund|happen-PRESP cop|be&3S comp|that prep|over n|here
+	det:art|the n|land aux|be&3S part|go-PRESP adv|down coord|and
+	prep|over n|here prep|in n:prop|Scandanavia det:art|the n|land
+	aux|be&3S part|go-PRESP adv|up prep|as det:art|a n|result prep|of
+	adj|glacial re#n|bound .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|11|LINK 7|8|DET 8|11|SUBJ
+	9|8|APP 10|11|AUX 11|4|CPRED 12|14|DET 13|14|MOD 14|11|OBJ 15|16|SUBJ
+	16|11|COMP 17|18|JCT 18|16|PRED 19|18|OBJ 20|26|LINK 21|26|JCT 22|21|POBJ
+	23|24|DET 24|26|SUBJ 25|26|AUX 26|19|CPRED 27|26|JCT 28|36|LINK 29|36|JCT
+	30|29|POBJ 31|30|NJCT 32|31|POBJ 33|34|DET 34|36|SUBJ 35|36|AUX
+	36|26|CJCT 37|36|JCT 38|36|JCT 39|40|DET 40|38|POBJ 41|40|NJCT 42|43|MOD
+	43|41|POBJ 44|4|PUNCT
+*S1:	and &-uh okay so we've run out_of time (.) the final page on the
+	handouts is just an illustration (.) of a transgressive sequence (.)
+	in the (.) Grand Canyon .
+%mor:	coord|and co|okay co|so pro:sub|we~aux|have v|run prep|out_of
+	n|time det:art|the n|final n|page prep|on det:art|the
+	n|+v|hand+prep|out-PL cop|be&3S adv|just det:art|a
+	n|illustrate&dv-TION prep|of det:art|a adj|transgressive n|sequence
+	prep|in det:art|the n:prop|Grand n:prop|Canyon .
+%gra:	1|6|LINK 2|6|COM 3|6|COM 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|11|DET 10|11|MOD 11|15|SUBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|6|CJCT
+	16|18|JCT 17|18|DET 18|15|PRED 19|18|NJCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|22|NJCT 24|26|DET 25|26|MOD 26|23|POBJ 27|6|PUNCT
+*S1:	okay (.) and of_course you'll notice that we have (.) sands at the
+	bottom &-uh then shale (.) then limestone (.) very much like we've
+	just described &-uh over here .
+%mor:	co|okay coord|and co|of_course pro:per|you~mod|will n|notice
+	pro:rel|that pro:sub|we v|have n|sand-PL prep|at det:art|the
+	n|bottom adv:tem|then n|shale adv:tem|then n|+n|lime+n|stone
+	adv|very adv|much prep|like pro:sub|we~aux|have adv|just
+	part|describe-PASTP prep|over n|here .
+%gra:	1|0|INCROOT 2|1|CONJ 3|6|COM 4|6|SUBJ 5|6|AUX 6|2|COORD 7|9|LINK
+	8|9|SUBJ 9|6|CMOD 10|9|OBJ 11|9|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|OBJ
+	16|15|NJCT 17|16|OBJ 18|19|JCT 19|17|JCT 20|24|JCT 21|24|SUBJ 22|24|AUX
+	23|24|JCT 24|17|XMOD 25|24|JCT 26|25|POBJ 27|1|PUNCT
+*S1:	okay on Thursday (.) I'll begin by (.) describing or defining
+	exactly what radioactivity is and we can continue on from there .
+%mor:	co|okay prep|on n:prop|Thursday pro:sub|I~mod|will v|begin adv|by
+	part|describe-PRESP coord|or part|define-PRESP adv|exact&dadj-LY
+	pro:int|what n|radioactive&dadj-ITY cop|be&3S coord|and pro:sub|we
+	mod|can v|continue adv|on prep|from adv|there .
+%gra:	1|6|COM 2|6|JCT 3|2|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|XJCT
+	9|8|CONJ 10|9|COORD 11|10|JCT 12|14|LINK 13|14|SUBJ 14|10|COMP 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|14|CJCT 19|18|JCT 20|18|JCT 21|20|POBJ 22|6|PUNCT
+*S1:	see you Thursday .
+%mor:	v|see pro:per|you n:prop|Thursday .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|1|PUNCT
+@End

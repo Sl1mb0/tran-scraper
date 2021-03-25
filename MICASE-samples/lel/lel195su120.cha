@@ -1,0 +1,2562 @@
+@UTF8
+@PID:	11312/a-00010162-1
+@Begin
+@Languages:	eng
+@Participants:	S1 Instructor Teacher, S2 Student Student, S3 Student
+	Student, S4 Student Student, S5 Student Student, S6 Student
+	Student, S7 Student Student, S8 Student Student, SUM Student
+	Student, SUF Student Student, SS Students Student
+@ID:	eng|MICASE|S1|36;|male|NS||Teacher|SF||
+@ID:	eng|MICASE|S2|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|S3|20;|male|NNS||Student|SU||
+@ID:	eng|MICASE|S4|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|S5|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|S6|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|S7|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|S8|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|SUM|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|SUF|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|SS|20;||NS||Student|JU||
+@Media:	lel195su120, audio, unlinked
+@Date:	27-OCT-2000
+@Situation:	Lecture Hall, Dow Building
+*S1:	exciting isn't it ?
+%mor:	adj|exciting cop|be&3S~neg|not pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+*S1:	it is so exciting .
+%mor:	pro:per|it aux|be&3S adv|so part|excite-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*S1:	&=laughs:multiple coming from the back forward (.) are (.) the blue
+	sheet for today (.) and (.) the handout (.) which I promised you
+	from King .
+%mor:	part|come-PRESP prep|from det:art|the n|back adv|forward
+	cop|be&PRES det:art|the adj|blue n|sheet prep|for adv:tem|today
+	coord|and det:art|the n|+v|hand+prep|out pro:rel|which pro:sub|I
+	v|promise-PAST pro:per|you prep|from n:prop|King .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|6|JCT 6|1|CJCT 7|9|DET 8|9|MOD
+	9|6|PRED 10|9|NJCT 11|10|POBJ 12|11|CONJ 13|14|DET 14|12|COORD 15|17|LINK
+	16|17|SUBJ 17|11|CMOD 18|17|OBJ 19|17|JCT 20|19|POBJ 21|1|PUNCT
+*S1:	the reference (.) not king as in (.) king of some country .
+%mor:	det:art|the n|reference neg|not n|king adv|as prep|in n|king
+	prep|of qn|some n|country .
+%gra:	1|2|DET 2|0|INCROOT 3|4|NEG 4|2|CMOD 5|4|JCT 6|4|JCT 7|6|POBJ 8|7|NJCT
+	9|10|QUANT 10|8|POBJ 11|2|PUNCT
+*S1:	on +...
+%mor:	adv|on +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	the height equivalent to a theoretical transfer unit (.) quiet
+	please .
+%mor:	det:art|the n|height adj|equivalent prep|to det:art|a
+	adj|theoretic-AL n|transfer n|unit n|quiet v|please .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PRED 4|10|LINK 5|9|DET 6|7|MOD 7|9|MOD 8|9|MOD
+	9|10|SUBJ 10|3|CMOD 11|2|PUNCT
+*S1:	height equivalent to a theoretical transfer unit and (.) the height
+	equivalent to a theoretical plate .
+%mor:	n|height adj|equivalent prep|to det:art|a adj|theoretic-AL
+	n|transfer n|unit coord|and det:art|the n|height adj|equivalent
+	prep|to det:art|a adj|theoretic-AL n|plate .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|JCT 4|7|DET 5|7|MOD 6|7|MOD 7|3|POBJ
+	8|7|CONJ 9|10|DET 10|8|COORD 11|10|POSTMOD 12|11|JCT 13|15|DET 14|15|MOD
+	15|12|POBJ 16|1|PUNCT
+*S1:	so that's just (.) some fun reading for you .
+%mor:	co|so pro:dem|that~cop|be&3S adv|just qn|some n|fun part|read-PRESP
+	prep|for pro:per|you .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|6|QUANT 6|3|PRED 7|6|XMOD 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+*S1:	(0.5) &=walks_to_microphone I really wanna go over here and (.)
+	&{l=SINGING feelings &}l=SINGING oh sorry .
+%mor:	pro:sub|I adv|real&dadj-LY v|want~inf|to v|go prep|over n|here
+	coord|and n:gerund|feel-PRESP-PL co|oh co|sorry .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|5|CONJ
+	9|8|COORD 10|11|COM 11|9|OBJ 12|3|PUNCT
+*S1:	&=laughs:multiple (0.4) but I'm gonna restrain myself .
+%mor:	conj|but pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|restrain
+	pro:refl|myself .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*S1:	twenty two (.) we had done all that example we had gotten the
+	height of the column (.) calculated it out (.) and then I had gone
+	through solute three concentrations (.) down at the bottom .
+%mor:	det:num|twenty det:num|two pro:sub|we aux|have&PAST part|do&PASTP
+	qn|all pro:dem|that ex#adj|ample pro:sub|we aux|have&PAST
+	part|get&PASTP det:art|the n|height prep|of det:art|the n|column
+	v|calculate-PAST pro:per|it adv|out coord|and adv:tem|then pro:sub|I
+	aux|have&PAST part|go&PASTP prep|through n|solute det:num|three
+	n|concentrate&dv-TION-PL adv|down prep|at det:art|the n|bottom .
+%gra:	1|2|QUANT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|OBJ
+	8|11|LINK 9|11|SUBJ 10|11|AUX 11|7|CMOD 12|13|DET 13|11|OBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|13|CMOD 18|17|OBJ 19|17|JCT 20|24|LINK 21|24|JCT
+	22|24|SUBJ 23|24|AUX 24|17|CJCT 25|24|JCT 26|28|MOD 27|28|QUANT 28|25|POBJ
+	29|24|JCT 30|24|JCT 31|32|DET 32|30|POBJ 33|5|PUNCT
+*S1:	(0.5) your new mass balance I did not do (.) but that is carried
+	over (.) onto this sheet twenty three .
+%mor:	det:poss|your adj|new n|mass n|balance pro:sub|I mod|do&PAST
+	neg|not v|do conj|but pro:dem|that aux|be&3S part|carry-PASTP
+	adv|over prep|onto det:dem|this n|sheet det:num|twenty det:num|three
+	.
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|8|OBJ 5|8|SUBJ 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CJCT 13|12|JCT 14|12|JCT 15|16|DET
+	16|14|POBJ 17|18|QUANT 18|12|CJCT 19|8|PUNCT
+*S1:	(0.5) there is (.) this one (.) point that I wanna make (.) sort_of
+	backing up (.) and I guess I'll do that first which is the log mean
+	(.) driving force .
+%mor:	pro:exist|there cop|be&3S det:dem|this det:num|one n|point
+	comp|that pro:sub|I v|want~inf|to v|make adv|sort_of part|back-PRESP
+	adv|up coord|and pro:sub|I v|guess pro:sub|I~mod|will v|do
+	pro:dem|that adv|first pro:rel|which cop|be&3S det:art|the n|log
+	adj|mean part|drive-PRESP n|force .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|PRED 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|10|INF 10|8|COMP 11|12|JCT 12|10|COMP 13|12|JCT 14|16|LINK 15|16|SUBJ
+	16|12|CJCT 17|19|SUBJ 18|19|AUX 19|16|COMP 20|19|OBJ 21|19|JCT
+	22|23|LINK 23|21|CMOD 24|25|DET 25|28|MOD 26|28|MOD 27|28|MOD 28|23|PRED
+	29|2|PUNCT
+*S1:	okay (.) so let's start with this .
+%mor:	co|okay co|so v|let~pro:obj|us v|start prep|with pro:dem|this .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*S1:	we're doing absorption (.) or stripping columns packed columns (.)
+	we have fluid flowing no equilibrium stages we want transfer between
+	the two (.) phases liquid and gas .
+%mor:	pro:sub|we~aux|be&PRES part|do-PRESP n|absorption coord|or
+	part|strip-PRESP n|column-PL v|pack-PAST n|column-PL pro:sub|we
+	v|have n|fluid part|flow-PRESP qn|no n|equilibrium n|stage-PL
+	pro:sub|we v|want n|transfer prep|between det:art|the det:num|two
+	n|phase-PL n|liquid coord|and n|gas .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|8|SUBJ 8|6|COMP
+	9|8|OBJ 10|11|SUBJ 11|3|CJCT 12|11|OBJ 13|12|XMOD 14|15|QUANT 15|16|MOD
+	16|13|OBJ 17|18|SUBJ 18|16|CMOD 19|18|OBJ 20|18|JCT 21|24|DET
+	22|23|QUANT 23|24|MOD 24|20|POBJ 25|24|CONJ 26|25|COORD 27|3|PUNCT
+*S1:	and we had those assumptions (.) CEL (.) right ?
+%mor:	coord|and pro:sub|we v|have&PAST det:dem|those n|assumption-PL
+	n:prop|CEL co|right ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|APP 7|5|COM 8|3|PUNCT
+*S1:	so this was (.) constant flow rates &=writing:board we don't have
+	any more equilibrium stages (.) and this one it can be linear +...
+%mor:	adv|so pro:dem|this cop|be&PAST&13S adj|constant n|flow n|rate-PL
+	pro:sub|we mod|do~neg|not v|have qn|any qn|more n|equilibrium
+	n|stage-PL coord|and det:dem|this pro:indef|one pro:per|it mod|can
+	cop|be adj|linear +...
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|PRED 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|3|CJCT 11|14|QUANT 12|14|QUANT 13|14|MOD 14|10|OBJ 15|14|CONJ
+	16|17|DET 17|15|COORD 18|20|SUBJ 19|20|AUX 20|10|COMP 21|20|PRED
+	22|3|PUNCT
+*S1:	equilibrium &=writing:board or not .
+%mor:	n|equilibrium coord|or neg|not .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	for this particular case for the simplest case I'm gonna just give
+	you a quick equation you can use (.) instead of having to do the
+	integration .
+%mor:	prep|for det:dem|this adj|particular n|case prep|for det:art|the
+	adj|simple-SP n|case pro:sub|I~aux|be&1S part|go-PRESP~inf|to
+	adv|just v|give pro:per|you det:art|a adj|quick n|equate&dv-TION
+	pro:per|you mod|can v|use adv|instead prep|of n:gerund|have-PRESP
+	inf|to v|do det:art|the n|integrate&dv-TION .
+%gra:	1|11|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|14|INF 13|14|JCT 14|11|COMP 15|14|OBJ2
+	16|18|DET 17|18|MOD 18|14|OBJ 19|21|SUBJ 20|21|AUX 21|18|CMOD 22|21|JCT
+	23|22|JCT 24|23|POBJ 25|26|INF 26|21|COMP 27|28|DET 28|26|OBJ 29|11|PUNCT
+*S1:	okay and that's what the log mean driving force +//.
+%mor:	co|okay coord|and pro:dem|that~cop|be&3S pro:int|what det:art|the
+	n|log adj|mean part|drive-PRESP n|force +//.
+%gra:	1|4|COM 2|1|CONJ 3|2|COORD 4|0|ROOT 5|10|DET 6|7|DET 7|10|MOD 8|10|MOD
+	9|10|MOD 10|4|PRED 11|4|PUNCT
+*S1:	have you done heat exchangers yet ?
+%mor:	v|have pro:per|you part|do&PASTP n|heat n|exchange&dv-AGT-PL
+	adv|yet ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|MOD 5|3|OBJ 6|3|JCT 7|1|PUNCT
+*SS:	xxx .
+*S1:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	we're doing it now .
+%mor:	pro:sub|we~aux|be&PRES part|do-PRESP pro:per|it adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*S1:	oh you're doing it now .
+%mor:	co|oh pro:per|you~aux|be&PRES part|do-PRESP pro:per|it adv|now .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*S1:	so have you done the log mean driving force for a heat exchanger ?
+%mor:	adv|so v|have pro:per|you part|do&PASTP det:art|the n|log adj|mean
+	part|drive-PRESP n|force prep|for det:art|a n|heat n|exchange&dv-AGT
+	?
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|9|MOD 7|9|MOD 8|9|MOD
+	9|4|OBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|2|PUNCT
+*SS:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	not yet .
+%mor:	neg|not adv|yet .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	well (.) you will (.) and you'll enjoy it .
+%mor:	co|well pro:per|you mod|will coord|and pro:per|you~mod|will v|enjoy
+	pro:per|it .
+%gra:	1|7|COM 2|7|SUBJ 3|7|AUX 4|7|LINK 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+*S1:	&=laughs:multiple &=writes:board (0.4) so the (.) log mean driving
+	force (0.5) it's just +//.
+%mor:	co|so det:art|the n|log adj|mean part|drive-PRESP n|force
+	pro:per|it~cop|be&3S adj|just +//.
+%gra:	1|6|COM 2|3|DET 3|6|MOD 4|6|MOD 5|6|MOD 6|0|INCROOT 7|8|SUBJ 8|6|CMOD
+	9|8|PRED 10|6|PUNCT
+*S1:	remember that integral that we had for the driving force one over Y
+	minus y@l star ?
+%mor:	v|remember det:dem|that adj|integral comp|that pro:sub|we
+	v|have&PAST prep|for det:art|the part|drive-PRESP n|force
+	pro:indef|one adv|over n:prop|Y n|minus n:let|y n|star ?
+%gra:	1|0|ROOT 2|3|DET 3|1|JCT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|JCT 8|10|DET
+	9|10|MOD 10|11|SUBJ 11|7|POBJ 12|11|NJCT 13|14|MOD 14|16|MOD 15|16|MOD
+	16|11|NJCT 17|1|PUNCT
+*S1:	that's the driving force for &absorp absorption ?
+%mor:	pro:dem|that~cop|be&3S det:art|the part|drive-PRESP n|force
+	prep|for n|absorption ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*S1:	remember that ?
+%mor:	v|remember pro:dem|that ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*S1:	so this is just (.) if you're if they're two straight lines <you
+	can> [/] &r you can integrate (.) that area very (.) simply .
+%mor:	adv|so pro:dem|this cop|be&3S adv|just conj|if
+	pro:per|you~cop|be&PRES conj|if pro:sub|they~cop|be&PRES det:num|two
+	n|straight v|line-3S pro:per|you mod|can v|integrate comp|that
+	n|area adv|very adv|simple&dadj-LY .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|10|LINK
+	9|10|SUBJ 10|7|PRED 11|12|QUANT 12|13|JCT 13|10|CPRED 14|16|SUBJ
+	15|16|AUX 16|13|COMP 17|16|OBJ 18|17|OBJ 19|20|JCT 20|18|NJCT 21|3|PUNCT
+*S1:	I'll show you how .
+%mor:	pro:sub|I~mod|will v|show pro:per|you pro:rel|how .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*S1:	(0.6) so the end result of this will be an equation and I'll just
+	take you through how we'd come up with that .
+%mor:	co|so det:art|the n|end n|result prep|of pro:dem|this mod|will
+	cop|be det:art|a n|equate&dv-TION coord|and pro:sub|I~mod|will
+	adv|just v|take pro:per|you prep|through pro:int|how
+	pro:sub|we~mod|genmod v|come adv|up prep|with pro:dem|that .
+%gra:	1|8|COM 2|4|DET 3|4|MOD 4|8|SUBJ 5|4|NJCT 6|5|POBJ 7|8|AUX 8|0|ROOT
+	9|10|DET 10|8|PRED 11|15|LINK 12|15|SUBJ 13|15|AUX 14|15|JCT 15|10|CMOD
+	16|15|OBJ 17|15|JCT 18|21|LINK 19|21|SUBJ 20|21|AUX 21|17|CPOBJ 22|21|JCT
+	23|21|JCT 24|23|POBJ 25|8|PUNCT
+*S1:	we have a certain y@l in (.) and a y@l out (.) and a linear (.)
+	equilibrium line (0.5) you then have a particular (.) x@l in (.) and
+	(.) x@l out +...
+%mor:	pro:sub|we v|have det:art|a adj|certain n:let|y adv|in coord|and
+	det:art|a n:let|y adv|out coord|and det:art|a adj|linear
+	n|equilibrium n|line pro:per|you adv:tem|then v|have det:art|a
+	n|particular n:let|x adv|in coord|and n:let|x adv|out +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|6|CONJ 8|9|DET
+	9|7|COORD 10|18|JCT 11|10|CONJ 12|15|DET 13|14|MOD 14|15|MOD 15|11|COORD
+	16|18|SUBJ 17|18|JCT 18|9|CMOD 19|20|DET 20|18|OBJ 21|20|XMOD 22|21|JCT
+	23|22|CONJ 24|23|COORD 25|21|JCT 26|2|PUNCT
+*S1:	and if we're running a countercurrent system the two points on the
+	operating line will be here and here (.) and it will be straight (.)
+	if we have constant flow rates .
+%mor:	coord|and conj|if pro:sub|we~aux|be&PRES part|run-PRESP det:art|a
+	counter#adj|current n|system det:art|the det:num|two n|point-PL
+	prep|on det:art|the part|operate-PRESP n|line mod|will cop|be
+	adv|here coord|and adv|here coord|and pro:per|it mod|will cop|be
+	adv|straight conj|if pro:sub|we v|have n|constant n|flow n|rate-PL .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|11|DET 10|11|QUANT 11|17|SUBJ 12|11|NJCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|17|AUX 17|8|CMOD 18|17|JCT 19|17|CONJ 20|19|COORD 21|24|LINK
+	22|24|SUBJ 23|24|AUX 24|20|CPOBJ 25|24|JCT 26|28|LINK 27|28|SUBJ 28|24|CJCT
+	29|31|MOD 30|31|MOD 31|28|OBJ 32|5|PUNCT
+*S1:	so this is linear equilibrium and constant flow rates (.) no
+	equilibrium stage (.) (be)cause it's a packed column .
+%mor:	adv|so pro:dem|this cop|be&3S adj|linear n|equilibrium coord|and
+	adj|constant n|flow v|rate-3S qn|no n|equilibrium n|stage
+	conj|because pro:per|it~aux|be&3S det:art|a part|pack-PASTP n|column
+	.
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|9|LINK 7|8|MOD 8|9|SUBJ
+	9|3|CJCT 10|11|QUANT 11|12|MOD 12|9|OBJ 13|18|LINK 14|18|SUBJ 15|18|AUX
+	16|18|DET 17|18|MOD 18|9|CJCT 19|3|PUNCT
+*S1:	so with these two systems (.) sorry those two assumptions (.) you
+	come out with a system that looks like this +...
+%mor:	adv|so prep|with det:dem|these det:num|two n|system-PL adj|sorry
+	det:dem|those det:num|two n|assumption-PL pro:per|you v|come adv|out
+	prep|with det:art|a n|system pro:rel|that v|look-3S prep|like
+	pro:dem|this +...
+%gra:	1|2|JCT 2|11|JCT 3|5|DET 4|5|QUANT 5|9|MOD 6|9|MOD 7|9|DET 8|9|QUANT
+	9|2|POBJ 10|11|SUBJ 11|0|ROOT 12|11|JCT 13|11|JCT 14|15|DET 15|13|POBJ
+	16|17|LINK 17|15|CMOD 18|17|JCT 19|18|POBJ 20|11|PUNCT
+*S1:	now what you normally have to do is then get these y@l-s +...
+%mor:	adv|now pro:int|what pro:per|you adv|normal&dadj-LY v|have inf|to
+	v|do cop|be&3S adv:tem|then v|get pro:dem|these n:let|y-PL +...
+%gra:	1|5|JCT 2|5|LINK 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|INF 7|10|SUBJ 8|10|AUX
+	9|10|JCT 10|5|COMP 11|10|PRED 12|11|OM 13|5|PUNCT
+*S1:	and these y@l stars (.) and that's your driving force right ?
+%mor:	coord|and pro:dem|these n:let|y n|star-PL coord|and
+	pro:dem|that~cop|be&3S det:poss|your part|drive-PRESP n|force
+	adj|right ?
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|7|SUBJ 5|4|CONJ 6|5|COORD 7|0|ROOT 8|10|DET
+	9|10|XMOD 10|7|PRED 11|10|POSTMOD 12|7|PUNCT
+*S1:	and do that equation (.) what equation is that ?
+%mor:	coord|and v|do det:dem|that n|equate&dv-TION pro:int|what
+	n|equate&dv-TION cop|be&3S pro:dem|that ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|2|COMP 8|7|PRED
+	9|2|PUNCT
+*S1:	on twenty +//.
+%mor:	adv|on det:num|twenty +//.
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*S1:	top of twenty two that integral (.) one over Y minus y@l star DY
+	(.) okay so I'm gonna eliminate that now (.) and just say let's call
+	this (.) delta .
+%mor:	n|top prep|of det:num|twenty det:num|two det:dem|that adj|integral
+	pro:indef|one adv|over n:prop|Y n|minus n:let|y n|star n:prop|DY
+	adj|okay adv|so pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|eliminate
+	pro:dem|that adv|now coord|and adv|just v|say v|let~pro:obj|us
+	v|call det:dem|this n|delta .
+%gra:	1|28|SUBJ 2|1|NJCT 3|4|QUANT 4|7|QUANT 5|7|DET 6|7|MOD 7|2|POBJ
+	8|7|NJCT 9|10|MOD 10|7|NJCT 11|18|LINK 12|18|SUBJ 13|18|AUX 14|18|JCT 15|18|JCT
+	16|18|SUBJ 17|18|AUX 18|10|CMOD 19|20|INF 20|18|COMP 21|20|OBJ
+	22|20|JCT 23|18|CONJ 24|25|JCT 25|23|COORD 26|25|COMP 27|26|OBJ 28|0|ROOT
+	29|30|DET 30|28|OBJ 31|28|PUNCT
+*S1:	okay (.) and let's just call +//.
+%mor:	co|okay coord|and v|let~pro:obj|us adj|just n|call +//.
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|6|MOD 6|3|OBJ 7|1|PUNCT
+*S1:	so that's just Y minus y@l star it's just delta .
+%mor:	co|so pro:dem|that~cop|be&3S adv|just n:prop|Y n|minus n:let|y
+	n|star pro:per|it~cop|be&3S adj|just n|delta .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|6|MOD 6|3|PRED 7|6|ENUM 8|7|OBJ
+	9|10|SUBJ 10|8|CMOD 11|12|MOD 12|10|PRED 13|3|PUNCT
+*S1:	and we'll call this one over here this Y minus y@l star (.) delta
+	in (.) and this one down here (.) delta out .
+%mor:	coord|and pro:sub|we~mod|will v|call det:dem|this pro:indef|one
+	prep|over n|here det:dem|this n:prop|Y n|minus n:let|y n|star
+	n|delta adv|in coord|and det:dem|this pro:indef|one prep|down n|here
+	n|delta adv|out .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|14|MOD
+	9|11|DET 10|11|MOD 11|14|MOD 12|14|MOD 13|14|MOD 14|7|POBJ 15|14|NJCT
+	16|15|CONJ 17|18|DET 18|16|COORD 19|18|NJCT 20|21|MOD 21|19|POBJ 22|18|JCT
+	23|4|PUNCT
+*S1:	just by the y@l in we'll call that delta in (.) and the y@l out
+	we'll call that delta out .
+%mor:	adv|just prep|by det:art|the n:let|y adv|in pro:sub|we~mod|will
+	v|call det:dem|that n|delta adv|in coord|and det:art|the n:let|y
+	adv|out pro:sub|we~mod|will v|call det:dem|that n|delta adv|out .
+%gra:	1|2|JCT 2|8|LINK 3|4|DET 4|8|SUBJ 5|8|JCT 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|18|LINK 13|14|DET 14|18|SUBJ 15|18|JCT
+	16|18|SUBJ 17|18|AUX 18|11|CJCT 19|20|DET 20|18|OBJ 21|18|JCT 22|8|PUNCT
+*S1:	(0.6) so if you plot delta +...
+%mor:	co|so conj|if pro:per|you n|plot n|delta +...
+%gra:	1|5|COM 2|4|LINK 3|4|SUBJ 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*S1:	from let's say (.) delta out (.) delta in (.) from y@l out which is
+	the low concentration to y@l in (0.8) looks something like that
+	right ?
+%mor:	prep|from v|let~pro:obj|us v|say n|delta adv|out n|delta adv|in
+	prep|from n:let|y adv|out pro:rel|which cop|be&3S det:art|the
+	adj|low n|concentrate&dv-TION prep|to n:let|y adv|in v|look-3S
+	pro:indef|something prep|like pro:dem|that co|right ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|4|JCT 7|6|POBJ 8|7|NJCT
+	9|8|JCT 10|9|POBJ 11|4|JCT 12|13|LINK 13|4|ROOT 14|16|DET 15|16|MOD
+	16|13|PRED 17|16|NJCT 18|17|POBJ 19|20|JCT 20|13|ROOT 21|20|OBJ 22|21|NJCT
+	23|22|POBJ 24|25|COM 25|20|PUNCT
+*S1:	for what I've drawn there (.) approximately .
+%mor:	prep|for pro:int|what pro:sub|I~aux|have part|draw&PASTP adv|there
+	adv|approximate&dadj-LY .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CPOBJ 6|5|JCT 7|5|JCT
+	8|1|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	it's a straight line .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|straight n|line .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*S1:	(0.9) so this slope (.) is equal (.) to the change in delta with Y
+	(.) and that is constant .
+%mor:	co|so det:dem|this n|slope cop|be&3S adj|equal prep|to det:art|the
+	n|change prep|in n|delta prep|with n:prop|Y coord|and pro:rel|that
+	cop|be&3S adj|constant .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|9|POBJ 11|4|JCT 12|11|POBJ 13|12|CONJ 14|15|LINK 15|13|COORD
+	16|15|PRED 17|4|PUNCT
+*S1:	okay (0.6) so now if I +...
+%mor:	co|okay adv|so adv|now conj|if pro:sub|I +...
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|5|LINK 5|6|SUBJ 6|3|PUNCT
+*S1:	if I have my (.) LC equation where I had G over (.) let's say KGAP
+	(.) integral from y@l out (.) to y@l in I can change this instead of
+	one over Y minus y@l star I'll just put one over delta (0.5) DY .
+%mor:	conj|if pro:sub|I v|have det:poss|my n:prop|LC n|equate&dv-TION
+	pro:rel|where pro:sub|I v|have&PAST n:prop|G adv|over
+	v|let~pro:obj|us v|say n:prop|KGAP adj|integral prep|from n:let|y
+	adv|out prep|to n:let|y adv|in pro:sub|I mod|can v|change
+	pro:dem|this adv|instead prep|of det:num|one adv|over n:prop|Y
+	n|minus n:let|y n|star pro:sub|I~mod|will adv|just part|put&PASTP
+	pro:indef|one prep|over n|delta n:prop|DY .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|OBJ 11|12|JCT 12|9|COMP 13|12|OBJ 14|12|COMP 15|14|OBJ
+	16|15|POSTMOD 17|16|JCT 18|17|POBJ 19|14|JCT 20|19|JCT 21|20|POBJ 22|25|JCT
+	23|25|SUBJ 24|25|AUX 25|21|COMP 26|25|OBJ 27|25|JCT 28|27|JCT 29|32|QUANT
+	30|32|MOD 31|32|MOD 32|28|POBJ 33|32|NJCT 34|33|OBJ 35|38|SUBJ
+	36|38|AUX 37|38|JCT 38|34|CMOD 39|38|OBJ 40|34|NJCT 41|42|MOD 42|40|POBJ
+	43|3|PUNCT
+*S1:	and now I'll just convert variables so everything's in terms of
+	delta (0.16) so this is from delta out (.) delta in (.) one over
+	delta (0.5) and now I have to (.) put in a conversion (0.5) this
+	constant that we're gonna multiply by is delta in (.) minus delta
+	out (.) for y@l in minus y@l out .
+%mor:	coord|and adv|now pro:sub|I~mod|will adj|just n|convert
+	n|variable-PL adv|so adj|everything&dn-POSS prep|in n|term-PL
+	prep|of n|delta adv|so pro:dem|this cop|be&3S prep|from n|delta
+	adv|out n|delta prep|in det:num|one adv|over n|delta coord|and
+	adv|now pro:sub|I v|have inf|to v|put&ZERO prep|in det:art|a
+	n|conversion det:dem|this adj|constant comp|that
+	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|multiply adv|by
+	aux|be&3S n|delta prep|in n|minus n|delta adv|out prep|for n:let|y
+	adv|in n|minus n:let|y adv|out .
+%gra:	1|7|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|7|MOD 7|0|ROOT 8|9|JCT
+	9|7|ROOT 10|9|JCT 11|10|POBJ 12|11|NJCT 13|12|POBJ 14|15|JCT 15|16|SUBJ
+	16|9|ROOT 17|16|JCT 18|17|POBJ 19|20|JCT 20|28|JCT 21|20|NJCT 22|24|QUANT
+	23|24|JCT 24|21|POBJ 25|20|CONJ 26|25|COORD 27|28|SUBJ 28|16|ROOT
+	29|30|INF 30|28|COMP 31|30|JCT 32|33|DET 33|31|POBJ 34|35|DET 35|30|JCT
+	36|39|LINK 37|39|SUBJ 38|39|AUX 39|35|CMOD 40|41|INF 41|39|COMP 42|44|SUBJ
+	43|44|AUX 44|41|OBJ 45|44|NJCT 46|47|MOD 47|45|POBJ 48|41|JCT 49|41|JCT
+	50|49|POBJ 51|53|JCT 52|53|SUBJ 53|50|INCROOT 54|53|JCT 55|53|PUNCT
+*S1:	(0.7) so I've gotta convert from DY I solve for DY right that's (.)
+	d@l delta over DY is equal to that (.) quotient right .
+%mor:	co|so pro:sub|I~aux|have mod|got~inf|to v|convert prep|from
+	n:prop|DY pro:sub|I v|solve prep|for n:prop|DY adj|right
+	pro:rel|that~cop|be&3S n:let|d n|delta adv|over n:prop|DY cop|be&3S
+	adj|equal prep|to det:dem|that n|quotient adj|right .
+%gra:	1|6|COM 2|6|SUBJ 3|6|AUX 4|6|AUX 5|6|INF 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|10|SUBJ 10|6|CJCT 11|10|JCT 12|11|POBJ 13|12|PRED 14|15|LINK 15|13|CMOD
+	16|15|PRED 17|20|JCT 18|17|NJCT 19|20|SUBJ 20|16|COMP 21|20|PRED 22|20|JCT
+	23|24|DET 24|22|POBJ 25|24|POSTMOD 26|6|PUNCT
+*S1:	so I just solve for DY and stick it in for DY (.) so I get out (.)
+	this y@l in minus y@l out (.) over delta in minus delta out (.) d@l
+	delta +...
+%mor:	co|so pro:sub|I adv|just v|solve prep|for n:prop|DY coord|and
+	v|stick pro:per|it prep|in prep|for n:prop|DY conj|so pro:sub|I
+	v|get adv|out det:dem|this n:let|y prep|in n|minus n:let|y prep|out
+	prep|over n|delta prep|in n|minus n|delta adv|out n:let|d n|delta
+	+...
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|CONJ 8|7|COORD
+	9|8|OBJ 10|8|JCT 11|10|POBJ 12|11|POBJ 13|15|LINK 14|15|SUBJ 15|4|CJCT
+	16|15|JCT 17|18|DET 18|15|JCT 19|21|JCT 20|19|POBJ 21|18|OM 22|21|JCT
+	23|22|POBJ 24|23|POBJ 25|24|NJCT 26|27|MOD 27|25|POBJ 28|23|JCT 29|30|MOD
+	30|28|POBJ 31|4|PUNCT
+*S1:	and now I (.) integrate that (.) we still have this G over KGAP out
+	here .
+%mor:	coord|and adv|now pro:sub|I v|integrate comp|that pro:sub|we
+	adv|still v|have pro:dem|this n:prop|G adv|over n:prop|KGAP prep|out
+	n|here .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|JCT 8|4|COMP
+	9|8|OBJ 10|12|SUBJ 11|12|JCT 12|8|COMP 13|12|NJCT 14|13|POBJ 15|4|PUNCT
+*S1:	I integrate that I get (.) pull out this y@l in (.) minus y@l out
+	(.) over delta in (.) minus delta out (be)cause that's a constant .
+%mor:	pro:sub|I v|integrate adv|that pro:sub|I v|get v|pull adv|out
+	det:dem|this n:let|y adv|in n|minus n:let|y prep|out adv|over
+	n|delta prep|in n|minus n|delta adv|out conj|because
+	pro:rel|that~cop|be&3S det:art|a n|constant .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|SUBJ 5|2|CJCT 6|5|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|12|JCT 11|12|MOD 12|9|CMOD 13|12|JCT 14|15|JCT 15|13|POBJ
+	16|12|JCT 17|18|MOD 18|16|POBJ 19|12|JCT 20|12|ENUM 21|22|LINK 22|20|CMOD
+	23|24|DET 24|22|PRED 25|2|PUNCT
+*S1:	that integral (.) is just the natural log (.) of deltin@n over
+	deltout@n (0.7) and now if I rearrange this +...
+%mor:	det:dem|that adj|integral aux|be&3S adv|just det:art|the
+	adj|natural n|log prep|of neo|deltin adv|over neo|deltout coord|and
+	adv|now conj|if pro:sub|I re#v|arrange pro:dem|this +...
+%gra:	1|2|DET 2|11|SUBJ 3|11|AUX 4|7|JCT 5|7|DET 6|7|MOD 7|11|SUBJ 8|7|NJCT
+	9|8|POBJ 10|11|JCT 11|0|ROOT 12|11|CONJ 13|12|COORD 14|16|LINK 15|16|SUBJ
+	16|11|CJCT 17|16|OM 18|11|PUNCT
+*S1:	this is all getting to the equation this is merely to help you
+	understand where this equation came from I do not expect you to
+	rederive this .
+%mor:	pro:dem|this cop|be&3S post|all part|get-PRESP prep|to det:art|the
+	n|equate&dv-TION pro:dem|this cop|be&3S adv|mere&dadj-LY inf|to
+	v|help pro:per|you v|understand pro:int|where det:dem|this
+	n|equate&dv-TION v|come&PAST prep|from pro:sub|I mod|do neg|not
+	v|expect pro:per|you inf|to re#v|derive pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|XJCT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|4|COMP 10|9|PRED 11|12|INF 12|10|XMOD 13|14|SUBJ 14|12|COMP 15|18|LINK
+	16|17|DET 17|18|SUBJ 18|14|COMP 19|18|JCT 20|23|SUBJ 21|23|AUX 22|21|NEG
+	23|19|CPOBJ 24|26|SUBJ 25|26|INF 26|23|COMP 27|26|PRED 28|2|PUNCT
+*S1:	you get down to LC is equal to G over (.) KGAP or KYA (.) times (.)
+	y@l in (.) minus y@l out (.) over (0.4) Y minus y@l star (.) log
+	mean .
+%mor:	pro:per|you v|get adv|down prep|to n:prop|LC cop|be&3S adj|equal
+	inf|to n:prop|G adv|over n:prop|KGAP coord|or n:prop|KYA v|time-3S
+	n:let|y adv|in n|minus n:let|y prep|out adv|over n:prop|Y n|minus
+	n:let|y n|star n|log adj|mean .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|4|POBJ 7|6|PRED 8|9|INF
+	9|7|XMOD 10|11|JCT 11|9|APP 12|14|LINK 13|14|SUBJ 14|6|CJCT 15|14|OBJ
+	16|18|JCT 17|18|MOD 18|15|COBJ 19|18|JCT 20|19|NJCT 21|22|MOD 22|25|MOD
+	23|25|MOD 24|25|MOD 25|20|POBJ 26|25|POSTMOD 27|2|PUNCT
+*S1:	or (.) del_log_mean@q .
+%mor:	coord|or meta|del_log_mean .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*S1:	where (.) Y minus y@l star (.) log mean (.) is equal to (.)
+	del_in@q minus del_out@q (.) over the natural log (.) of del_in@q
+	(.) over del_out@q .
+%mor:	pro:int|where n:prop|Y n|minus n:let|y n|star n|log adj|mean
+	cop|be&3S n|equal inf|to meta|del_in n|minus meta|del_out prep|over
+	det:art|the adj|natural n|log prep|of meta|del_in adv|over
+	meta|del_out .
+%gra:	1|3|LINK 2|3|MOD 3|9|CSUBJ 4|6|MOD 5|6|MOD 6|9|MOD 7|9|MOD 8|9|MOD
+	9|0|ROOT 10|11|INF 11|9|XMOD 12|11|OBJ 13|12|XMOD 14|13|JCT 15|17|DET
+	16|17|MOD 17|21|SUBJ 18|17|NJCT 19|18|POBJ 20|17|NJCT 21|14|POBJ 22|9|PUNCT
+*S1:	this log mean thing (.) is just that .
+%mor:	det:dem|this n|log adj|mean n|thing cop|be&3S adj|just pro:dem|that
+	.
+%gra:	1|2|DET 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|MOD 7|5|PRED 8|5|PUNCT
+*S1:	it always has that form of (.) you take the difference of the two
+	in the numerator (.) and then it's the log of the quotient of the
+	two in the denominator (.) natural log (.) the quotient of the two
+	yes ?
+%mor:	pro:per|it adv|always aux|have&3S det:dem|that n|form prep|of
+	pro:per|you v|take det:art|the n|difference prep|of det:art|the
+	det:num|two prep|in det:art|the n|numerator coord|and adv:tem|then
+	pro:per|it~cop|be&3S det:art|the n|log prep|of det:art|the
+	n|quotient prep|of det:art|the det:num|two prep|in det:art|the
+	n|denominator adj|natural n|log det:art|the n|quotient prep|of
+	det:art|the det:num|two co|yes ?
+%gra:	1|8|SUBJ 2|8|JCT 3|8|AUX 4|5|DET 5|8|SUBJ 6|8|JCT 7|8|SUBJ 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|20|LINK 18|20|JCT 19|20|SUBJ 20|8|CJCT 21|22|DET 22|20|PRED
+	23|22|NJCT 24|25|DET 25|23|POBJ 26|25|NJCT 27|28|DET 28|33|QUANT 29|33|JCT
+	30|31|DET 31|29|POBJ 32|33|MOD 33|26|POBJ 34|35|DET 35|22|APP
+	36|35|NJCT 37|38|DET 38|39|QUANT 39|36|POBJ 40|8|PUNCT
+*S2:	&-um on your graph I seen where you got delta from how that was &ya
+	Y minus y@l star .
+%mor:	prep|on det:poss|your n|graph pro:sub|I part|see&PASTP
+	pro:int|where pro:per|you v|get&PAST n|delta prep|from pro:int|how
+	pro:dem|that cop|be&PAST&13S n:prop|Y n|minus n:let|y n|star .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|8|OBJ 10|8|JCT 11|13|LINK 12|13|SUBJ 13|10|CPOBJ 14|15|MOD 15|17|MOD
+	16|17|MOD 17|13|PRED 18|5|PUNCT
+*S2:	but is &del delta in (.) is that y@l in (.) just like the distance
+	of y@l in to the equilibrium line ?
+%mor:	conj|but aux|be&3S n|delta prep|in cop|be&3S comp|that n:let|y
+	adv|in adv|just prep|like det:art|the n|distance prep|of n:let|y
+	adv|in prep|to det:art|the n|equilibrium n|line ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|5|PRED 7|6|OM 8|7|JCT
+	9|10|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|13|POBJ 15|14|JCT
+	16|15|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|3|PUNCT
+*S1:	right delta in is y@l in minus y@l in star .
+%mor:	adj|right n|delta prep|in aux|be&3S n:let|y adv|in n|minus n:let|y
+	prep|in n|star .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|4|PRED 6|5|JCT 7|6|POBJ
+	8|7|POSTMOD 9|8|JCT 10|9|POBJ 11|2|PUNCT
+*S1:	it's just that +/.
+%mor:	pro:per|it~cop|be&3S adj|just comp|that +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+*S2:	oh ⌈ okay ⌉ +/.
+%mor:	co|oh co|okay +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	+, ⌊ Y minus ⌋ y@l star at that one end and Y minus y@l star at the
+	other end .
+%mor:	n:prop|Y n|minus n:let|y n|star prep|at det:dem|that det:num|one
+	n|end coord|and n:prop|Y n|minus n:let|y n|star prep|at det:art|the
+	qn|other n|end .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|MOD 4|2|OBJ 5|4|NJCT 6|8|DET 7|8|QUANT 8|5|POBJ
+	9|4|CONJ 10|11|MOD 11|9|COORD 12|11|NJCT 13|12|POBJ 14|13|NJCT
+	15|17|DET 16|17|QUANT 17|14|POBJ 18|2|PUNCT
+*S1:	(0.6) is this okay ?
+%mor:	cop|be&3S det:dem|this adj|okay ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*S1:	(0.4) the whole point is that (.) if you know y@l in and y@l out
+	(.) and then you could find y@l in and y@l out star (.) that means
+	you'll have delta in and delta out and then you can just calculate
+	the length .
+%mor:	det:art|the adj|whole n|point cop|be&3S pro:dem|that conj|if
+	pro:per|you v|know n:let|y adv|in coord|and n:let|y adv|out
+	coord|and adv:tem|then pro:per|you mod|could v|find n:let|y adv|in
+	coord|and n:let|y prep|out n|star pro:rel|that v|mean-3S
+	pro:per|you~mod|will v|have n|delta adv|in coord|and n|delta adv|out
+	coord|and adv:tem|then pro:per|you mod|can adv|just v|calculate
+	det:art|the n|length .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|8|OBJ 10|9|JCT 11|10|CONJ 12|11|COORD 13|12|JCT 14|18|LINK 15|18|JCT
+	16|18|SUBJ 17|18|AUX 18|13|CPOBJ 19|18|OBJ 20|19|JCT 21|20|CONJ
+	22|21|COORD 23|22|JCT 24|23|POBJ 25|26|LINK 26|24|CMOD 27|29|SUBJ 28|29|AUX
+	29|26|COMP 30|29|OBJ 31|30|NJCT 32|31|CONJ 33|32|COORD 34|29|JCT 35|40|LINK
+	36|40|JCT 37|40|SUBJ 38|40|AUX 39|40|JCT 40|29|CJCT 41|42|DET 42|40|OBJ
+	43|4|PUNCT
+*S1:	there is no (.) you know graphing or integrating or anything like
+	that it's just a straightforward equation +...
+%mor:	pro:exist|there cop|be&3S qn|no pro:per|you v|know part|graph-PRESP
+	coord|or part|integrate-PRESP coord|or pro:indef|anything co|like
+	adv|that pro:per|it~cop|be&3S adj|just det:art|a adj|straightforward
+	n|equate&dv-TION +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|SUBJ 5|2|CPRED 6|5|COMP 7|6|CONJ
+	8|7|COORD 9|8|CONJ 10|9|COORD 11|14|COM 12|14|JCT 13|14|SUBJ 14|10|CMOD
+	15|18|MOD 16|18|DET 17|18|MOD 18|14|PRED 19|2|PUNCT
+*S1:	the only thing weird (.) that you have to worry about (.) is if the
+	two deltas are equal .
+%mor:	det:art|the qn|only n|thing adj|weird comp|that pro:per|you v|have
+	prep|to n|worry prep|about cop|be&3S comp|if det:art|the det:num|two
+	n|delta-PL cop|be&PRES adj|equal .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|PRED 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|7|JCT 9|8|POBJ 10|11|JCT 11|7|CJCT 12|16|LINK 13|15|DET 14|15|QUANT
+	15|16|SUBJ 16|11|PRED 17|16|PRED 18|3|PUNCT
+*S1:	then you get a zero up here (.) and like a zero down here and the
+	thing blows up .
+%mor:	adv:tem|then pro:per|you v|get det:art|a n|zero prep|up n|here
+	coord|and co|like det:art|a n|zero prep|down n|here coord|and
+	det:art|the n|thing v|blow-3S adv|up .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|CONJ
+	9|11|COM 10|11|DET 11|8|COORD 12|11|NJCT 13|12|POBJ 14|17|LINK 15|16|DET
+	16|17|SUBJ 17|11|CJCT 18|17|JCT 19|3|PUNCT
+*S1:	so if they're precisely equal (.) which is really an easy (.)
+	integral to do (.) you just have to realize that so if you ever get
+	it that it's zero (.) just realize it's a straight horizontal line
+	and you just have to take either of the dels [: deltas] and multiply
+	it by the Y okay ?
+%mor:	co|so comp|if pro:sub|they~cop|be&PRES adv|precise&dadj-LY n|equal
+	pro:rel|which cop|be&3S adv|real&dadj-LY det:art|a adj|ease&dn-Y
+	adj|integral inf|to v|do pro:per|you adv|just v|have inf|to
+	v|realize comp|that adv|so conj|if pro:per|you adv|ever v|get
+	pro:per|it adv|that pro:per|it~cop|be&3S det:num|zero adv|just
+	v|realize pro:per|it~cop|be&3S det:art|a adj|straight adj|horizontal
+	n|line coord|and pro:per|you adv|just v|have inf|to v|take
+	adv|either prep|of det:art|the n|delta-PL coord|and v|multiply
+	pro:per|it prep|by det:art|the n:prop|Y co|okay ?
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|LINK 8|6|CMOD
+	9|12|JCT 10|12|DET 11|12|MOD 12|8|PRED 13|14|INF 14|12|XMOD 15|14|OBJ
+	16|17|JCT 17|14|COMP 18|19|INF 19|17|COMP 20|19|OBJ 21|22|JCT 22|25|LINK
+	23|25|SUBJ 24|25|JCT 25|20|CJCT 26|25|OBJ 27|29|JCT 28|29|SUBJ 29|25|COMP
+	30|32|QUANT 31|32|JCT 32|29|CPRED 33|34|SUBJ 34|32|COMP 35|38|DET
+	36|38|MOD 37|38|MOD 38|34|PRED 39|42|LINK 40|42|SUBJ 41|42|JCT 42|38|CMOD
+	43|44|INF 44|42|COMP 45|44|JCT 46|45|JCT 47|48|DET 48|46|POBJ 49|42|CONJ
+	50|49|COORD 51|50|OBJ 52|50|JCT 53|54|DET 54|52|POBJ 55|50|COM 56|4|PUNCT
+*S1:	(0.4) so that's the only caveat for this .
+%mor:	co|so pro:dem|that~cop|be&3S det:art|the qn|only n|caveat prep|for
+	pro:dem|this .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|PRED 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*S1:	caveat that's a good word .
+%mor:	n|caveat pro:rel|that~cop|be&3S det:art|a adj|good n|word .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|6|DET 5|6|MOD 6|3|PRED 7|1|PUNCT
+*S1:	&=laughs:multiple that's an excellent word .
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|excellent n|word .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*S1:	any other (.) words you want to throw up here I can use .
+%mor:	qn|any qn|other n|word-PL pro:per|you v|want inf|to v|throw prep|up
+	n|here pro:sub|I mod|can v|use .
+%gra:	1|3|QUANT 2|3|QUANT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|8|POBJ 10|12|SUBJ 11|12|AUX 12|5|CJCT 13|5|PUNCT
+*S1:	caveat wow .
+%mor:	n|caveat co|wow .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*S1:	there's no quid_pro_quo that's for sure .
+%mor:	pro:exist|there~cop|be&3S qn|no n|quid_pro_quo
+	pro:rel|that~cop|be&3S prep|for adj|sure .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|6|LINK 6|4|CMOD 7|6|JCT 8|7|POBJ
+	9|2|PUNCT
+*S1:	&=laughs:multiple I never knew what that meant anyway .
+%mor:	pro:sub|I adv|never v|know&PAST pro:int|what adv|that v|mean&PAST
+	adv|anyway .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|LINK 5|6|JCT 6|3|COMP 7|6|JCT 8|3|PUNCT
+*S1:	&=laughs:multiple &-um (0.4) so (0.4) so (.) let's +...
+%mor:	adv|so adv|so v|let~pro:obj|us +...
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	remember our example that we did +..?
+%mor:	v|remember det:poss|our n|example pro:rel|that pro:sub|we v|do&PAST
+	+..?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|1|PUNCT
+*S1:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and we (.) remember this ?
+%mor:	coord|and pro:sub|we v|remember pro:dem|this ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	we got &-uh LC is equal to twelve point something feet twelve point
+	(.) five ?
+%mor:	pro:sub|we v|get&PAST n:prop|LC cop|be&3S adj|equal prep|to
+	det:num|twelve n|point pro:indef|something n|foot&PL det:num|twelve
+	v|point det:num|five ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|6|POBJ 10|9|NJCT 11|12|QUANT 12|10|CMOD 13|12|OBJ 14|2|PUNCT
+*S1:	yeah twelve point five feet .
+%mor:	co|yeah det:num|twelve n|point det:num|five n|foot&PL .
+%gra:	1|5|COM 2|3|QUANT 3|5|MOD 4|5|QUANT 5|0|INCROOT 6|5|PUNCT
+*S1:	let's do it (.) and pretend that [/] that equilibrium is linear (.)
+	when it really isn't we'll just take the del [: delta] y@l star one
+	end minus the other end &=writing:board forty which is G pound moles
+	(.) per hour (.) over the one point five feet squared (.) is a
+	crosssectional area so that's now the G .
+%mor:	v|let~pro:obj|us v|do pro:per|it coord|and adj|pretend comp|that
+	n|equilibrium cop|be&3S adj|linear conj|when pro:per|it
+	adv|real&dadj-LY cop|be&3S~neg|not pro:sub|we~mod|will adv|just
+	v|take det:art|the n|delta n:let|y n|star det:num|one n|end n|minus
+	det:art|the qn|other n|end det:num|forty pro:rel|which cop|be&3S
+	n:prop|G n|pound n|mole-PL prep|per n|hour prep|over det:art|the
+	det:num|one n|point det:num|five n|foot&PL v|square-PAST cop|be&3S
+	det:art|a cross#adj|section&dn-AL n|area adv|so
+	pro:rel|that~cop|be&3S adv|now det:art|the n:prop|G .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|9|LINK 6|8|MOD 7|8|MOD 8|9|SUBJ
+	9|1|CJCT 10|9|PRED 11|14|LINK 12|14|SUBJ 13|14|JCT 14|19|CJCT 15|14|NEG
+	16|19|SUBJ 17|19|AUX 18|19|JCT 19|9|CJCT 20|21|DET 21|19|OBJ 22|21|CONJ
+	23|26|MOD 24|25|QUANT 25|26|MOD 26|22|COORD 27|29|DET 28|29|QUANT 29|26|OBJ
+	30|29|XMOD 31|32|LINK 32|30|CMOD 33|35|MOD 34|35|MOD 35|45|SUBJ
+	36|35|NJCT 37|36|POBJ 38|35|NJCT 39|41|DET 40|41|QUANT 41|38|POBJ 42|43|QUANT
+	43|44|SUBJ 44|41|CMOD 45|32|PRED 46|48|DET 47|48|MOD 48|45|PRED
+	49|48|NJCT 50|51|LINK 51|49|CMOD 52|51|JCT 53|54|DET 54|52|POBJ 55|1|PUNCT
+*S1:	and then we had the KYA down here (.) pound moles per hour per feet
+	squared .
+%mor:	coord|and adv:tem|then pro:sub|we v|have&PAST det:art|the
+	n:prop|KYA prep|down n|here n|pound n|mole-PL prep|per n|hour
+	prep|per n|foot&PL v|square-PAST .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|10|MOD
+	9|10|MOD 10|7|POBJ 11|4|JCT 12|11|POBJ 13|4|JCT 14|15|SUBJ 15|13|POBJ
+	16|4|PUNCT
+*S1:	and now we have to multiply by (.) this thing which is y@l in minus
+	y@l out so it's zero point zero seven minus zero point zero one (.)
+	over that (.) Y minus y@l star log mean (.) which is +//.
+%mor:	coord|and adv|now pro:sub|we v|have inf|to v|multiply prep|by
+	det:dem|this n|thing pro:rel|which cop|be&3S n:let|y adv|in n|minus
+	n:let|y prep|out adv|so pro:per|it~cop|be&3S det:num|zero n|point
+	det:num|zero det:num|seven n|minus det:num|zero n|point det:num|zero
+	det:num|one adv|over adv|that n:prop|Y n|minus n:let|y n|star n|log
+	adj|mean pro:rel|which cop|be&3S +//.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|LINK 11|4|COMP 12|11|PRED 13|15|JCT 14|15|MOD 15|12|OM
+	16|15|JCT 17|19|JCT 18|19|SUBJ 19|16|CPOBJ 20|21|QUANT 21|32|MOD 22|24|QUANT
+	23|24|QUANT 24|32|MOD 25|26|QUANT 26|32|MOD 27|28|QUANT 28|32|QUANT
+	29|28|JCT 30|31|JCT 31|32|MOD 32|19|PRED 33|32|CONJ 34|35|MOD 35|33|COORD
+	36|35|POSTMOD 37|38|LINK 38|36|CMOD 39|4|PUNCT
+*S1:	and I'll write it down .
+%mor:	coord|and pro:sub|I~mod|will v|write pro:per|it adv|down .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*S1:	zero point zero seven minus zero point zero four two (.) minus zero
+	point zero one minus zero +...
+%mor:	det:num|zero n|point det:num|zero det:num|seven n|minus
+	det:num|zero n|point det:num|zero det:num|four det:num|two n|minus
+	det:num|zero n|point det:num|zero det:num|one n|minus det:num|zero
+	+...
+%gra:	1|2|QUANT 2|16|MOD 3|4|ENUM 4|5|QUANT 5|16|MOD 6|7|QUANT 7|16|MOD
+	8|9|QUANT 9|11|QUANT 10|11|QUANT 11|16|MOD 12|13|QUANT 13|16|MOD 14|16|QUANT
+	15|16|QUANT 16|0|INCROOT 17|16|OM 18|16|PUNCT
+*S1:	over (.) the natural log of (.) zero point zero seven minus zero
+	point zero four two (.) over zero point zero one minus zero .
+%mor:	prep|over det:art|the adj|natural n|log prep|of det:num|zero
+	n|point det:num|zero det:num|seven n|minus det:num|zero n|point
+	det:num|zero det:num|four det:num|two adv|over det:num|zero n|point
+	det:num|zero det:num|one n|minus det:num|zero .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|4|NJCT 6|7|QUANT 7|22|MOD
+	8|10|QUANT 9|10|QUANT 10|22|MOD 11|12|QUANT 12|22|MOD 13|14|QUANT 14|15|QUANT
+	15|16|QUANT 16|17|JCT 17|18|QUANT 18|22|MOD 19|21|QUANT 20|21|QUANT
+	21|22|MOD 22|5|POBJ 23|1|PUNCT
+*S1:	&=writing:board and that gives twelve point seven feet .
+%mor:	coord|and pro:dem|that v|give-3S det:num|twelve n|point
+	det:num|seven n|foot&PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|7|QUANT 7|5|APP
+	8|3|PUNCT
+*S1:	so we went through all of that graphing that (.) stuff (0.7) hard
+	to do here we just assume it was &line even though the equilibrium
+	line curves I do it &sp specifically curved in there (.) so it
+	should be off a little bit (.) that's how much it's off .
+%mor:	co|so pro:sub|we v|go&PAST adv|through adv|all prep|of det:dem|that
+	n:gerund|graph-PRESP adv|that n|stuff adj|hard inf|to v|do adv|here
+	pro:sub|we adv|just v|assume pro:per|it cop|be&PAST&13S adv|even
+	adv|though det:art|the n|equilibrium n|line n|curve-PL pro:sub|I
+	v|do pro:per|it adv|specific&dadj-AL-LY v|curve-PAST prep|in n|there
+	adv|so pro:per|it mod|should cop|be prep|off det:art|a adj|little
+	n|bit pro:rel|that~cop|be&3S pro:int|how adv|much
+	pro:per|it~cop|be&3S adv|off .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|JCT 6|3|JCT 7|8|DET 8|6|POBJ
+	9|10|JCT 10|8|OBJ 11|10|PRED 12|13|INF 13|11|XMOD 14|13|JCT 15|17|SUBJ
+	16|17|JCT 17|11|CMOD 18|19|SUBJ 19|17|COMP 20|21|JCT 21|30|JCT 22|25|DET
+	23|24|MOD 24|25|MOD 25|30|SUBJ 26|27|SUBJ 27|25|CMOD 28|27|OBJ 29|30|JCT
+	30|19|CPRED 31|30|JCT 32|31|POBJ 33|36|JCT 34|36|SUBJ 35|36|AUX 36|30|CJCT
+	37|36|JCT 38|40|DET 39|40|MOD 40|37|POBJ 41|42|LINK 42|40|CMOD 43|44|JCT
+	44|46|JCT 45|46|SUBJ 46|42|PRED 47|46|JCT 48|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	questions about that +..?
+%mor:	v|question-3S prep|about pro:dem|that +..?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*S1:	seem okay ?
+%mor:	cop|seem adj|okay ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*S1:	(0.10) .
+*S3:	excuse_me ?
+%mor:	co|excuse_me ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	(0.4) how do you get the y@l in y@l star in this example ?
+%mor:	pro:int|how mod|do pro:per|you v|get det:art|the n:let|y adv|in
+	n:let|y n|star prep|in det:dem|this ex#adj|ample ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|JCT 7|9|JCT 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*S1:	&-uh you just go over here and (.) y@l in is like point zero one
+	and the y@l star is zero and then for the input it's point seven (.)
+	and you go down and it's point (.) zero four two .
+%mor:	pro:per|you adv|just v|go prep|over n|here coord|and n:let|y adv|in
+	cop|be&3S co|like n|point det:num|zero det:num|one coord|and
+	det:art|the n:let|y n|star cop|be&3S det:num|zero coord|and
+	adv:tem|then prep|for det:art|the n|input pro:per|it~cop|be&3S
+	n|point det:num|seven coord|and pro:per|you v|go adv|down coord|and
+	pro:per|it~cop|be&3S n|point det:num|zero det:num|four det:num|two .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|9|LINK 7|9|SUBJ 8|9|JCT
+	9|3|CJCT 10|9|COM 11|9|PRED 12|13|QUANT 13|18|SUBJ 14|13|CONJ 15|17|DET
+	16|17|MOD 17|14|COORD 18|11|CMOD 19|18|PRED 20|19|CONJ 21|20|COORD
+	22|26|JCT 23|24|DET 24|22|POBJ 25|26|SUBJ 26|18|CJCT 27|28|MOD 28|26|PRED
+	29|31|LINK 30|31|SUBJ 31|26|CJCT 32|31|JCT 33|35|LINK 34|35|SUBJ 35|31|CJCT
+	36|39|MOD 37|38|QUANT 38|39|QUANT 39|35|PRED 40|3|PUNCT
+*S1:	you just go [/] go over and go down (.) alright (0.7) other
+	questions ?
+%mor:	pro:per|you adv|just v|go adv|over coord|and v|go adv|down
+	adj|alright qn|other n|question-PL ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|JCT 8|10|MOD
+	9|10|QUANT 10|6|JCT 11|3|PUNCT
+*S1:	(0.6) did I answer your question ?
+%mor:	mod|do&PAST pro:sub|I v|answer det:poss|your n|question ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*S1:	is that okay ?
+%mor:	cop|be&3S comp|that co|okay ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	everyone clear on that ?
+%mor:	pro:indef|everyone adv|clear prep|on pro:dem|that ?
+%gra:	1|0|INCROOT 2|1|NJCT 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*S1:	(0.4) yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	what is the units on the &-uh seven point two ?
+%mor:	pro:int|what cop|be&3S det:art|the n|unit-PL prep|on det:art|the
+	det:num|seven n|point det:num|two ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|8|DET 7|8|QUANT 8|5|POBJ
+	9|4|APP 10|2|PUNCT
+*S1:	&=writes:board &-uh pound mole per hour per feet squared (.) feet
+	cubed isn't it ?
+%mor:	n|pound n|mole prep|per n|hour prep|per n|foot&PL v|square-PAST
+	n|foot&PL v|cube-PAST cop|be&3S~neg|not pro:per|it ?
+%gra:	1|2|MOD 2|7|SUBJ 3|2|NJCT 4|3|POBJ 5|2|JCT 6|5|POBJ 7|0|ROOT 8|9|SUBJ
+	9|7|COMP 10|9|COMP 11|10|NEG 12|10|SUBJ 13|7|PUNCT
+*S1:	or is it feet squared ?
+%mor:	coord|or cop|be&3S pro:per|it n|foot&PL v|square-PAST ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|SUBJ 4|5|SUBJ 5|2|CPRED 6|2|PUNCT
+*SS:	cubed +/.
+%mor:	part|cube-PASTP +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, feet cubed right ?
+%mor:	n|foot&PL v|cube-PAST co|right ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+*S1:	yeah (.) thank you .
+%mor:	co|yeah v|thank pro:per|you .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*S1:	(0.19) okay (.) that was (.) the assumption (.) of +...
+%mor:	adj|okay adv|that cop|be&PAST&13S det:art|the n|assumption prep|of
+	+...
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|3|PUNCT
+*S1:	linear equilibrium (.) and constant flow rates .
+%mor:	adj|linear n|equilibrium coord|and adj|constant n|flow n|rate-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|CONJ 4|6|MOD 5|6|MOD 6|3|COORD 7|2|PUNCT
+*S1:	(0.4) if we no longer have linear equilibrium (.) then we have to
+	go back and graph that (.) one over Y minus y@l star (.) do the
+	integral of that (.) to get <that nog> [//] that number (.) of
+	theoretical transfer units based on overall gas phase resistance .
+%mor:	conj|if pro:sub|we co|no adj|long-CP v|have adj|linear
+	n|equilibrium adv:tem|then pro:sub|we v|have inf|to v|go adv|back
+	coord|and n|graph det:dem|that pro:indef|one adv|over n:prop|Y
+	n|minus n:let|y n|star v|do det:art|the adj|integral prep|of
+	det:dem|that inf|to v|get adv|that n|number prep|of adj|theoretic-AL
+	n|transfer n|unit-PL v|base-PAST adv|on adj|overall n|gas n|phase
+	n|resistance .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|COM 4|5|JCT 5|0|ROOT 6|7|MOD 7|10|SUBJ 8|10|JCT
+	9|10|SUBJ 10|5|COMP 11|12|INF 12|10|COMP 13|12|JCT 14|12|CONJ 15|14|COORD
+	16|17|DET 17|15|CMOD 18|17|NJCT 19|20|MOD 20|17|CMOD 21|23|LINK
+	22|23|SUBJ 23|20|CMOD 24|25|DET 25|23|OBJ 26|25|JCT 27|29|DET 28|29|INF
+	29|26|POBJ 30|36|JCT 31|36|SUBJ 32|31|NJCT 33|35|MOD 34|35|MOD 35|32|POBJ
+	36|29|COMP 37|36|JCT 38|41|MOD 39|41|MOD 40|41|MOD 41|36|OBJ 42|5|PUNCT
+*S1:	and now what we're moving to is what &a if we don't have the
+	constant flow rates .
+%mor:	coord|and adv|now pro:int|what pro:sub|we~aux|be&PRES
+	part|move-PRESP prep|to cop|be&3S pro:int|what conj|if pro:sub|we
+	mod|do~neg|not v|have det:art|the n|constant n|flow n|rate-PL .
+%gra:	1|6|LINK 2|6|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|JCT 10|14|LINK 11|14|SUBJ 12|14|AUX 13|12|NEG 14|9|CMOD 15|18|DET
+	16|17|MOD 17|18|MOD 18|14|OBJ 19|6|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	(0.5) so what we did is +...
+%mor:	adv|so pro:int|what pro:sub|we v|do&PAST cop|be&3S +...
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|4|PUNCT
+*S1:	define (.) the solute free flow rates (0.14) and I apologize I
+	shoulda started with that simple log mean driving force equation .
+%mor:	v|define det:art|the n|solute adv|free n|flow n|rate-PL coord|and
+	pro:sub|I v|apology&dadj-IZE pro:sub|I mod|should~aux|have
+	v|start-PAST prep|with det:dem|that adj|simple n|log adj|mean
+	part|drive-PRESP n|force n|equate&dv-TION .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|MOD 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|13|SUBJ 11|13|AUX 12|13|AUX 13|9|COMP 14|13|JCT 15|17|DET
+	16|17|MOD 17|21|MOD 18|21|MOD 19|21|MOD 20|21|MOD 21|14|POBJ 22|1|PUNCT
+*S1:	but I kinda like to do it after you do the [/] &f the first
+	equation so you know where it's coming from and just plug in for the
+	simplification .
+%mor:	conj|but pro:sub|I adv|kinda v|like inf|to v|do pro:per|it
+	prep|after pro:per|you v|do det:art|the adj|first n|equate&dv-TION
+	co|so pro:per|you v|know pro:int|where pro:per|it~aux|be&3S
+	part|come-PRESP prep|from coord|and adv|just n|plug prep|in prep|for
+	det:art|the n|simplify&dv-TION .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|10|SUBJ 10|8|POBJ 11|13|DET 12|13|MOD 13|10|OBJ 14|16|COM 15|16|SUBJ
+	16|4|CJCT 17|20|LINK 18|20|SUBJ 19|20|AUX 20|16|COMP 21|20|JCT 22|21|CONJ
+	23|24|JCT 24|22|COORD 25|24|NJCT 26|25|POBJ 27|28|DET 28|26|POBJ
+	29|4|PUNCT
+*S1:	now I'm gonna do the more complicated one .
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|do det:art|the
+	qn|more part|complicate-PASTP pro:indef|one .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|9|DET 8|9|QUANT
+	9|6|OBJ 10|9|OBJ 11|4|PUNCT
+*S1:	so we have (.) G is equal to GS (.) over one minus Y (.) and L is
+	equal to LS (.) over one minus X .
+%mor:	co|so pro:sub|we v|have n:prop|G cop|be&3S adj|equal inf|to
+	n:prop|GS adv|over det:num|one n|minus n:prop|Y coord|and n:prop|L
+	cop|be&3S adj|equal inf|to n:prop|LS adv|over det:num|one n|minus
+	n:prop|X .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|PRED 7|8|INF 8|6|XMOD
+	9|10|JCT 10|11|QUANT 11|12|MOD 12|8|APP 13|15|LINK 14|15|SUBJ 15|3|CJCT
+	16|15|PRED 17|18|INF 18|16|XMOD 19|20|JCT 20|21|QUANT 21|22|MOD 22|18|APP
+	23|3|PUNCT
+*S1:	so our flow rates are now in terms are solute free .
+%mor:	adv|so det:poss|our n|flow n|rate-PL cop|be&PRES adv|now prep|in
+	n|term-PL cop|be&PRES n|solute adv|free .
+%gra:	1|4|JCT 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|7|POBJ
+	9|5|PRED 10|9|PRED 11|10|NJCT 12|5|PUNCT
+*S1:	and I think we went through and [/] and derived (.) the
+	concentrations .
+%mor:	coord|and pro:sub|I v|think pro:sub|we v|go&PAST adv|through
+	coord|and v|derive-PAST det:art|the n|concentrate&dv-TION-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|5|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+*S1:	capital Y was (.) solute free and one minus (.) sorry Y over (.)
+	one minus Y (.) and X (.) was X over one minus X .
+%mor:	adj|capital n:prop|Y cop|be&PAST&13S n|solute adj|free coord|and
+	det:num|one n|minus adj|sorry n:prop|Y adv|over det:num|one n|minus
+	n:prop|Y coord|and n:prop|X cop|be&PAST&13S n:prop|X adv|over
+	det:num|one n|minus n:prop|X .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|CONJ 7|8|QUANT 8|6|COORD
+	9|10|MOD 10|8|APP 11|12|JCT 12|13|QUANT 13|10|APP 14|13|APP 15|17|LINK
+	16|17|SUBJ 17|3|CJCT 18|17|PRED 19|20|JCT 20|21|QUANT 21|22|MOD
+	22|18|APP 23|3|PUNCT
+*S1:	(0.9) okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	(0.15) and we came down with the fact that if you had (.) a curve
+	(.) now in units of X (.) capital X and capital Y +...
+%mor:	coord|and pro:sub|we v|come&PAST adv|down prep|with det:art|the
+	n|fact pro:rel|that conj|if pro:per|you v|have&PAST det:art|a
+	n|curve adv|now prep|in n|unit-PL prep|of n:prop|X n|capital
+	n:prop|X coord|and adj|capital n:prop|Y +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|11|LINK
+	9|11|LINK 10|11|SUBJ 11|7|CMOD 12|13|DET 13|11|OBJ 14|11|JCT 15|11|JCT
+	16|15|POBJ 17|16|NJCT 18|19|MOD 19|17|POBJ 20|11|OBJ 21|20|CONJ
+	22|21|COORD 23|20|APP 24|3|PUNCT
+*S1:	with the equilibrium data (0.7) plotted as capital X (.) and
+	capital Y you can't do (.) little X versus little Y (.) on that plot
+	(.) you have to convert (.) to capital X and capital Y .
+%mor:	prep|with det:art|the n|equilibrium n|data v|plot-PAST prep|as
+	n|capital n:prop|X coord|and adj|capital n:prop|Y pro:per|you
+	mod|can~neg|not v|do adj|little n:prop|X prep|versus adj|little
+	n:prop|Y prep|on det:dem|that n|plot pro:per|you v|have prep|to
+	n|convert prep|to n|capital n:prop|X coord|and adj|capital n:prop|Y
+	.
+%gra:	1|5|LINK 2|3|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|8|COORD 7|8|MOD 8|15|CJCT
+	9|8|CONJ 10|9|COORD 11|8|APP 12|15|SUBJ 13|15|AUX 14|13|NEG 15|5|COMP
+	16|15|PRED 17|25|XJCT 18|17|NJCT 19|20|MOD 20|18|POBJ 21|17|NJCT 22|23|DET
+	23|21|POBJ 24|25|SUBJ 25|16|CMOD 26|25|JCT 27|26|POBJ 28|27|NJCT
+	29|30|MOD 30|28|POBJ 31|25|CONJ 32|33|MOD 33|31|COORD 34|5|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so if you do capital X and capital Y plot the equilibrium data (.)
+	now if you do your operating line +...
+%mor:	adv|so conj|if pro:per|you v|do n|capital n:prop|X coord|and
+	adj|capital n:prop|Y v|plot det:art|the n|equilibrium n|data adv|now
+	conj|if pro:per|you v|do det:poss|your part|operate-PRESP n|line
+	+...
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|10|CJCT 5|6|MOD 6|4|OBJ 7|6|CONJ 8|7|COORD
+	9|10|SUBJ 10|0|ROOT 11|13|DET 12|13|MOD 13|10|OBJ 14|10|JCT 15|17|LINK
+	16|17|SUBJ 17|10|CJCT 18|20|DET 19|20|XMOD 20|17|OBJ 21|10|PUNCT
+*S1:	the slope of that is gonna equal LS (.) over GS .
+%mor:	det:art|the n|slope prep|of pro:dem|that aux|be&3S
+	part|go-PRESP~inf|to adj|equal n:prop|LS adv|over n:prop|GS .
+%gra:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|3|POBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|9|NJCT 11|10|POBJ 12|6|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S5:	is our equilibrium line straight or curved ?
+%mor:	cop|be&3S det:poss|our n|equilibrium n|line n|straight coord|or
+	v|curve-PAST ?
+%gra:	1|0|ROOT 2|5|DET 3|5|MOD 4|5|MOD 5|1|PRED 6|5|CONJ 7|6|COORD 8|1|PUNCT
+*S1:	doesn't matter .
+%mor:	mod|do&3S~neg|not v|matter .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+*S5:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	I do a curve purposefully to say that it can be linear or nonlinear
+	.
+%mor:	pro:sub|I v|do det:art|a n|curve adv|purpose&dadj-FULL-LY inf|to
+	v|say comp|that pro:per|it mod|can cop|be adj|linear coord|or
+	non#adj|linear .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|INF 7|2|XJCT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|COMP 12|11|PRED 13|11|CONJ 14|13|COORD 15|2|PUNCT
+*S1:	(be)cause &yo what you're gonna do is get those (.) Y +//.
+%mor:	conj|because pro:int|what pro:per|you~aux|be&PRES
+	part|go-PRESP~inf|to v|do cop|be&3S v|get pro:dem|those n:prop|Y
+	+//.
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|8|CPRED 10|9|PRED 11|10|OM 12|5|PUNCT
+*S1:	now it's gonna be (.) capital Y and (.) capital y@l stars and then
+	you convert them and plug them into the equation and that's what I'm
+	gonna show you .
+%mor:	adv|now pro:per|it~aux|be&3S part|go-PRESP~inf|to cop|be n|capital
+	n:prop|Y coord|and adj|capital n:let|y n|star-PL coord|and
+	adv:tem|then pro:per|you v|convert pro:obj|them coord|and v|plug
+	pro:obj|them prep|into det:art|the n|equate&dv-TION coord|and
+	pro:dem|that~cop|be&3S pro:int|what pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|show pro:per|you .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|MOD 8|6|PRED
+	9|8|CONJ 10|12|MOD 11|12|MOD 12|9|COORD 13|16|LINK 14|16|JCT 15|16|SUBJ
+	16|4|CJCT 17|16|OBJ 18|16|CONJ 19|18|COORD 20|19|OBJ 21|19|JCT 22|23|DET
+	23|21|POBJ 24|26|LINK 25|26|SUBJ 26|19|CJCT 27|30|LINK 28|30|SUBJ
+	29|30|AUX 30|26|CPRED 31|32|INF 32|30|COMP 33|32|OBJ 34|4|PUNCT
+*S1:	okay +..?
+%mor:	co|okay +..?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	(0.7) .
+*S6:	Mister_Burns ?
+%mor:	n:prop|Mister_Burns ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S6:	&wh what again are LS and GS ?
+%mor:	pro:int|what adv|again cop|be&PRES n:prop|LS coord|and n:prop|GS ?
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PRED 5|4|CONJ 6|5|COORD 7|3|PUNCT
+*S1:	&=writes:board LS and GS are the solute free streams .
+%mor:	n:prop|LS coord|and n:prop|GS cop|be&PRES det:art|the n|solute
+	adv|free n|stream-PL .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+*S1:	they're the streams of inert (.) gas and inert liquid that are
+	flowing in (.) without the solute .
+%mor:	pro:sub|they~cop|be&PRES det:art|the n|stream-PL prep|of adj|inert
+	n|gas coord|and adj|inert n|liquid pro:rel|that aux|be&PRES
+	part|flow-PRESP adv|in prep|without det:art|the n|solute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|MOD 7|5|POBJ 8|4|CONJ
+	9|10|MOD 10|8|COORD 11|13|LINK 12|13|AUX 13|4|CMOD 14|13|JCT 15|13|JCT
+	16|17|DET 17|15|POBJ 18|2|PUNCT
+*S1:	okay (0.8) so now we can just (.) plot (.) the op line (.) the
+	operating line (.) and the equilibrium (.) data on (.) our capital X
+	(.) capital Y (.) plot .
+%mor:	co|okay adv|so adv|now pro:sub|we mod|can adj|just n|plot
+	det:art|the co|op n|line det:art|the part|operate-PRESP n|line
+	coord|and det:art|the n|equilibrium n|data prep|on det:poss|our
+	n|capital n:prop|X n|capital n:prop|Y n|plot .
+%gra:	1|3|COM 2|3|JCT 3|7|JCT 4|7|SUBJ 5|7|AUX 6|7|MOD 7|0|INCROOT 8|13|DET
+	9|13|COM 10|13|MOD 11|13|DET 12|13|MOD 13|7|OBJ 14|13|CONJ 15|17|DET
+	16|17|MOD 17|14|COORD 18|17|NJCT 19|20|DET 20|22|MOD 21|22|MOD 22|24|MOD
+	23|24|MOD 24|18|POBJ 25|7|PUNCT
+*S1:	find (.) capital y@l star and capital y@l-s +...
+%mor:	v|find n|capital n:let|y n|star coord|and adj|capital n:let|y-PL
+	+...
+%gra:	1|0|ROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|4|CONJ 6|7|MOD 7|5|COORD
+	8|1|PUNCT
+*S1:	you then actually need to convert (.) to the small y@l star and the
+	small Y .
+%mor:	pro:per|you adv:tem|then adv|actual&dadj-LY v|need inf|to v|convert
+	prep|to det:art|the adj|small n:let|y n|star coord|and det:art|the
+	adj|small n:prop|Y .
+%gra:	1|2|SUBJ 2|4|JCT 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|11|DET
+	9|11|MOD 10|11|MOD 11|7|POBJ 12|11|CONJ 13|15|DET 14|15|MOD 15|12|COORD
+	16|4|PUNCT
+*S1:	(0.4) you plug into +...
+%mor:	pro:per|you v|plug prep|into +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*S1:	a new equation (.) which I will now give you .
+%mor:	det:art|a adj|new n|equate&dv-TION pro:rel|which pro:sub|I mod|will
+	adv|now v|give pro:per|you .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|JCT 8|3|CMOD
+	9|8|OBJ 10|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	(0.9) and don't forget this conversion (.) you can just rearrange
+	that equation and small Y is equal to capital Y (.) over one plus
+	(.) capital Y (.) and X is equal to capital X over one plus capital
+	X .
+%mor:	coord|and mod|do~neg|not v|forget pro:dem|this n|conversion
+	pro:per|you mod|can adj|just re#v|arrange adv|that n|equate&dv-TION
+	coord|and adj|small n:prop|Y cop|be&3S n|equal inf|to adj|capital
+	n:prop|Y adv|over det:num|one adv|plus adj|capital n:prop|Y
+	coord|and n:prop|X cop|be&3S n|equal inf|to adj|capital n:prop|X
+	adv|over det:num|one adv|plus adj|capital n:prop|X .
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|OBJ 7|10|SUBJ 8|10|AUX
+	9|10|JCT 10|6|CMOD 11|12|JCT 12|16|SUBJ 13|12|CONJ 14|15|MOD 15|13|COORD
+	16|10|COMP 17|16|PRED 18|19|INF 19|17|XMOD 20|28|SUBJ 21|22|JCT
+	22|24|QUANT 23|24|JCT 24|25|MOD 25|20|APP 26|20|CONJ 27|26|COORD 28|19|CMOD
+	29|28|PRED 30|31|INF 31|29|XMOD 32|31|PRED 33|34|JCT 34|36|QUANT 35|36|JCT
+	36|37|MOD 37|32|APP 38|4|PUNCT
+*S1:	(0.9) and what I handed out (.) what did I hand out ?
+%mor:	coord|and pro:int|what pro:sub|I v|hand-PAST adv|out pro:int|what
+	mod|do&PAST pro:sub|I v|hand adv|out ?
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|9|SUBJ 7|9|AUX 8|9|SUBJ
+	9|4|COMP 10|9|JCT 11|4|PUNCT
+*S1:	what'd I just hand out ?
+%mor:	pro:int|what~mod|genmod pro:sub|I adj|just n|hand adv|out ?
+%gra:	1|5|SUBJ 2|5|AUX 3|5|SUBJ 4|5|MOD 5|0|INCROOT 6|5|JCT 7|5|PUNCT
+*S1:	+, I'll get it I got it +...
+%mor:	pro:sub|I~mod|will aux|get pro:per|it pro:sub|I v|get&PAST
+	pro:per|it +...
+%gra:	1|6|SUBJ 2|6|AUX 3|6|AUX 4|3|PRED 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*S1:	I (.) handed out (.) now that problem redone (.) with X (.) capital
+	X and capital Y .
+%mor:	pro:sub|I v|hand-PAST adv|out adv|now comp|that n|problem
+	re#part|do&PASTP prep|with n:prop|X n|capital n:prop|X coord|and
+	adj|capital n:prop|Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|7|LINK 6|7|SUBJ 7|2|COMP 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|10|OBJ 12|11|CONJ 13|14|MOD 14|12|COORD 15|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	the op line's a little different (.) I used the other equilibrium
+	line (.) the solid line now not the dashed line (.) and I plot the
+	op line for both A and B .
+%mor:	det:art|the co|op adj|line&dn-POSS det:art|a adj|little
+	adj|different pro:sub|I v|use-PAST det:art|the qn|other
+	n|equilibrium n|line det:art|the n|solid n|line adv|now neg|not
+	det:art|the part|dash-PASTP n|line coord|and pro:sub|I v|plot
+	det:art|the co|op n|line prep|for qn|both n:prop|A coord|and
+	n:prop|B .
+%gra:	1|2|DET 2|8|COM 3|6|MOD 4|5|DET 5|6|MOD 6|8|JCT 7|8|SUBJ 8|0|ROOT
+	9|12|DET 10|11|QUANT 11|12|MOD 12|8|OBJ 13|15|DET 14|15|MOD 15|12|CMOD
+	16|15|NJCT 17|15|NEG 18|20|DET 19|20|MOD 20|15|APP 21|23|LINK 22|23|SUBJ
+	23|20|CMOD 24|26|DET 25|26|MOD 26|23|OBJ 27|26|NJCT 28|29|QUANT 29|27|POBJ
+	30|29|CONJ 31|30|COORD 32|8|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	(0.16) I have to do a new mass balance (.) to cut to the chase (.)
+	this is what I'm gonna give you (.) for variable L over G (.) the
+	new line is just now GS (.) outside instead of G (.) GS instead of G
+	(.) and you have an extra one minus y@l squared (.) in the
+	denominator .
+%mor:	pro:sub|I v|have inf|to v|do det:art|a adj|new n|mass n|balance
+	inf|to v|cut&ZERO prep|to det:art|the n|chase pro:dem|this cop|be&3S
+	pro:int|what pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|give
+	pro:per|you prep|for n|variable n:prop|L adv|over n:prop|G
+	det:art|the adj|new n|line cop|be&3S adv|just adv|now n:prop|GS
+	adj|outside adv|instead prep|of n:prop|G n:prop|GS adv|instead
+	prep|of n:prop|G coord|and pro:per|you v|have det:art|a n|extra
+	det:num|one n|minus n:let|y v|square-PAST prep|in det:art|the
+	n|denominator .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|8|DET 6|7|MOD 7|8|MOD 8|4|OBJ
+	9|10|INF 10|8|XMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|15|SUBJ 15|2|CJCT
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|15|CPRED 20|21|INF 21|19|COMP 22|21|OBJ
+	23|21|JCT 24|25|MOD 25|23|POBJ 26|31|JCT 27|31|JCT 28|30|DET 29|30|MOD
+	30|31|SUBJ 31|21|COMP 32|33|JCT 33|31|JCT 34|33|POBJ 35|34|PRED 36|35|JCT
+	37|36|JCT 38|37|POBJ 39|37|POBJ 40|39|NJCT 41|40|JCT 42|41|POBJ
+	43|45|LINK 44|45|SUBJ 45|35|CJCT 46|49|DET 47|49|MOD 48|49|QUANT 49|51|SUBJ
+	50|51|SUBJ 51|45|COMP 52|51|JCT 53|54|DET 54|52|POBJ 55|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	you would think it would just be a one minus Y (.) because that
+	would just be replacing G &str straightaway (.) but it's not (.) you
+	have a squared in there and I'll show you why .
+%mor:	pro:per|you mod|will&COND v|think pro:per|it mod|will&COND adj|just
+	cop|be det:art|a qn|one n|minus n:prop|Y conj|because pro:dem|that
+	mod|will&COND adj|just aux|be re#n:gerund|place-PRESP n:prop|G
+	adv|straightaway conj|but pro:per|it~cop|be&3S neg|not pro:per|you
+	v|have det:art|a part|square-PASTP prep|in n|there coord|and
+	pro:sub|I~mod|will v|show pro:per|you pro:rel|why .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|JCT 7|3|COMP 8|10|DET
+	9|10|QUANT 10|7|PRED 11|10|APP 12|17|LINK 13|17|SUBJ 14|17|AUX 15|17|SUBJ
+	16|17|AUX 17|22|CJCT 18|22|SUBJ 19|20|JCT 20|18|CONJ 21|20|COORD
+	22|3|COMP 23|22|NEG 24|25|SUBJ 25|22|CPRED 26|27|DET 27|25|OBJ 28|27|JCT
+	29|28|POBJ 30|33|LINK 31|33|SUBJ 32|33|AUX 33|27|CJCT 34|35|SUBJ 35|33|OBJ
+	36|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and you can see you just get slightly different results .
+%mor:	coord|and pro:per|you mod|can v|see pro:per|you adv|just v|get
+	adv|slight&dadj-LY adj|different n|result-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|JCT 7|4|COMP 8|9|JCT
+	9|10|MOD 10|7|OBJ 11|4|PUNCT
+*S1:	(0.7) new mass balance (.) we have a particular cut (.) at Z (.)
+	and Z plus delta z@l (.) coming out as g@l at Z plus delta z@l (.)
+	going in is g@l at Z (.) flow rate changes now (.) so you have to
+	keep track of the different flow rate going in and going out_of the
+	stage it's going to change .
+%mor:	adj|new n|mass n|balance pro:sub|we v|have det:art|a n|particular
+	n|cut prep|at n:prop|Z coord|and n:prop|Z adv|plus n|delta n:let|z
+	part|come-PRESP adv|out adv|as n:let|g prep|at n:prop|Z adv|plus
+	n|delta n:let|z part|go-PRESP prep|in aux|be&3S n:let|g prep|at
+	n:prop|Z n|flow n|rate n|change-PL adv|now conj|so pro:per|you
+	v|have inf|to v|keep n|track prep|of det:art|the adj|different
+	n|flow n|rate part|go-PRESP adv|in coord|and part|go-PRESP
+	prep|out_of det:art|the n|stage pro:per|it~aux|be&3S part|go-PRESP
+	inf|to v|change .
+%gra:	1|3|MOD 2|3|MOD 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|9|POBJ 11|8|CONJ 12|11|COORD 13|12|NJCT 14|13|POBJ 15|14|NJCT
+	16|15|XMOD 17|16|JCT 18|19|JCT 19|16|XJCT 20|19|JCT 21|20|POBJ 22|20|NJCT
+	23|22|POBJ 24|23|NJCT 25|24|XMOD 26|25|JCT 27|28|AUX 28|26|POBJ
+	29|34|JCT 30|33|MOD 31|33|MOD 32|33|MOD 33|29|POBJ 34|28|JCT 35|37|LINK
+	36|37|SUBJ 37|20|POBJ 38|39|INF 39|37|COMP 40|39|OBJ 41|40|NJCT 42|45|DET
+	43|44|MOD 44|45|MOD 45|41|POBJ 46|39|XJCT 47|46|JCT 48|46|CONJ 49|48|COORD
+	50|49|JCT 51|52|DET 52|50|POBJ 53|55|SUBJ 54|55|AUX 55|49|XJCT 56|57|INF
+	57|55|COMP 58|5|PUNCT
+*S1:	concentration going in is y@l at Z (.) this is y@l at Z plus delta
+	z@l (.) the liquid side is going I don't care (.) and this is the
+	flux .
+%mor:	n|concentrate&dv-TION part|go-PRESP prep|in aux|be&3S n:let|y
+	prep|at n:prop|Z pro:dem|this cop|be&3S n:let|y prep|at n:prop|Z
+	n|plus n|delta n:let|z det:art|the n|liquid n|side aux|be&3S
+	part|go-PRESP pro:sub|I mod|do~neg|not v|care coord|and pro:dem|this
+	cop|be&3S det:art|the n|flux .
+%gra:	1|2|SUBJ 2|24|XJCT 3|9|SUBJ 4|9|AUX 5|9|SUBJ 6|9|JCT 7|6|POBJ 8|9|SUBJ
+	9|20|AUX 10|20|AUX 11|20|JCT 12|14|MOD 13|14|MOD 14|11|POBJ 15|20|LINK
+	16|18|DET 17|18|MOD 18|20|SUBJ 19|20|AUX 20|2|COMP 21|24|SUBJ 22|24|AUX
+	23|22|NEG 24|0|ROOT 25|27|LINK 26|27|SUBJ 27|24|CJCT 28|29|DET 29|27|PRED
+	30|24|PUNCT
+*S1:	(0.10) mass balance now (.) y@l at Z (.) g@l at Z minus y@l at Z
+	plus delta z@l (.) g@l at Z plus delta z@l (.) is equal to (.) the
+	flux of A times little A (.) times (.) delta z@l that's the same
+	thing as before .
+%mor:	n|mass n|balance adv|now n:let|y prep|at n:prop|Z n:let|g prep|at
+	n:prop|Z n|minus n:let|y prep|at n:prop|Z adv|plus n|delta n:let|z
+	n:let|g prep|at n:prop|Z adv|plus n|delta n:let|z cop|be&3S
+	adj|equal prep|to det:art|the n|flux prep|of n:prop|A v|time-3S
+	adj|little n:prop|A v|time-3S n|delta n:let|z pro:dem|that~cop|be&3S
+	det:art|the adj|same n|thing conj|as adv|before .
+%gra:	1|2|MOD 2|0|ROOT 3|2|NJCT 4|2|PUNCT 5|4|NJCT 6|5|POBJ 7|4|INCROOT
+	8|7|NJCT 9|10|MOD 10|8|POBJ 11|8|POBJ 12|11|INCROOT 13|12|POBJ 14|12|JCT
+	15|14|POBJ 16|15|NJCT 17|16|POBJ 18|23|JCT 19|18|POBJ 20|23|JCT 21|23|JCT
+	22|23|SUBJ 23|17|CMOD 24|23|PRED 25|24|JCT 26|27|DET 27|25|POBJ 28|27|NJCT
+	29|28|POBJ 30|27|CMOD 31|30|PRED 32|33|SUBJ 33|31|CMOD 34|33|OBJ
+	35|37|COM 36|37|SUBJ 37|33|COMP 38|40|DET 39|40|MOD 40|37|PRED 41|42|COORD
+	42|40|ENUM 43|12|PUNCT
+*S1:	and now you take the limit (.) and rearrange things and the only
+	difference you have (.) and here we're gonna plug in (.) just to be
+	the same (.) NA is equal to KGP (.) times Y minus y@l star (.) the
+	only difference now is when we (.) do this &=points_to_board
+	difference (.) y@l at Z plus delta z@l times g@l at Z plus delta z@l
+	minus (.) y@l at Z plus g@l at Z divided by delta z@l .
+%mor:	coord|and adv|now pro:per|you v|take det:art|the n|limit coord|and
+	re#v|arrange n|thing-PL coord|and det:art|the qn|only n|difference
+	pro:per|you v|have coord|and adv|here pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to v|plug adv|in adv|just inf|to cop|be
+	det:art|the adj|same n:prop|NA cop|be&3S adj|equal inf|to n:prop|KGP
+	v|time-3S n:prop|Y n|minus n:let|y v|star det:art|the qn|only
+	n|difference adv|now aux|be&3S conj|when pro:sub|we v|do
+	det:dem|this n|difference n:let|y prep|at n:prop|Z adv|plus n|delta
+	n:let|z n|time-PL n:let|g prep|at n:prop|Z adv|plus n|delta n:let|z
+	n|minus n:let|y prep|at n:prop|Z adv|plus n:let|g prep|at n:prop|Z
+	v|divide-PAST prep|by n|delta n:let|z .
+%gra:	1|2|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|15|LINK
+	9|15|JCT 10|9|CONJ 11|13|DET 12|13|QUANT 13|10|COORD 14|15|SUBJ
+	15|7|COORD 16|20|LINK 17|20|JCT 18|20|SUBJ 19|20|AUX 20|15|COMP 21|22|INF
+	22|20|COMP 23|22|JCT 24|26|JCT 25|26|INF 26|22|ROOT 27|29|DET 28|29|MOD
+	29|30|SUBJ 30|26|ROOT 31|30|PRED 32|34|INF 33|34|SUBJ 34|31|XMOD 35|36|MOD
+	36|34|OBJ 37|46|LINK 38|46|CJCT 39|41|DET 40|41|QUANT 41|38|OBJ 42|46|SUBJ
+	43|46|AUX 44|46|LINK 45|46|SUBJ 46|30|ROOT 47|48|DET 48|46|OBJ 49|48|ROOT
+	50|49|INCROOT 51|50|POBJ 52|50|NJCT 53|52|POBJ 54|53|NJCT 55|54|POBJ
+	56|55|NJCT 57|56|INCROOT 58|57|POBJ 59|57|JCT 60|59|POBJ 61|60|XMOD
+	62|61|OBJ 63|62|XMOD 64|63|JCT 65|64|POBJ 66|67|JCT 67|64|POBJ 68|67|NJCT
+	69|68|POBJ 70|68|POBJ 71|70|JCT 72|73|MOD 73|71|POBJ 74|57|PUNCT
+*S1:	before we had just DY (.) DZ (.) now we have DYG (.) DZ .
+%mor:	conj|before pro:sub|we aux|have&PAST adv|just n:prop|DY n:prop|DZ
+	adv|now pro:sub|we v|have n:prop|DYG n:prop|DZ .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|6|NAME 6|9|SUBJ 7|9|JCT 8|9|SUBJ
+	9|0|ROOT 10|11|NAME 11|9|OBJ 12|9|PUNCT
+*S1:	because G is changing &t you cannot pull it out (.) of that
+	derivative .
+%mor:	conj|because n:prop|G aux|be&3S part|change-PRESP pro:per|you
+	mod|can~neg|not v|pull pro:per|it adv|out prep|of det:dem|that
+	n|derivative .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|COMP
+	9|8|OBJ 10|8|JCT 11|10|JCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+*S1:	this is exciting isn't it ?
+%mor:	pro:dem|this cop|be&3S adj|exciting cop|be&3S~neg|not pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|4|NEG 6|4|SUBJ 7|2|PUNCT
+*S1:	&=laughs:multiple you guys just &d there's nothing like (.) a good
+	derivation on a Friday (.) right ?
+%mor:	pro:per|you n|guy-PL adj|just pro:exist|there~cop|be&3S
+	pro:indef|nothing prep|like det:art|a adj|good n|derive&dv-TION
+	prep|on det:art|a n:prop|Friday co|right ?
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|5|COM 15|5|PUNCT
+*S1:	&=laughs:multiple am I wrong ?
+%mor:	aux|be&1S pro:sub|I adj|wrong ?
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|PRED 4|1|PUNCT
+*S2:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	I'm wrong ?
+%mor:	pro:sub|I~cop|be&1S adj|wrong ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S1:	&=laughs:multiple .
+*S2:	I didn't mean to say that out loud &=laughs:multiple .
+%mor:	pro:sub|I mod|do&PAST~neg|not v|mean inf|to v|say comp|that
+	prep|out adj|loud .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|7|JCT
+	9|8|POBJ 10|4|PUNCT
+*S1:	you just thought it really loud (.) and then heard it .
+%mor:	pro:per|you adv|just v|think&PAST pro:per|it adv|real&dadj-LY
+	adj|loud coord|and adv:tem|then v|hear&PAST pro:per|it .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|9|LINK 8|9|JCT
+	9|6|CMOD 10|9|OBJ 11|3|PUNCT
+*S1:	&=laughs:multiple &=laughs that happens to me a_lot .
+%mor:	pro:dem|that v|happen-3S prep|to pro:obj|me adv|a_lot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|2|PUNCT
+*S1:	there's a_lot_of things I don't mean to say out loud +...
+%mor:	pro:exist|there~cop|be&3S qn|a_lot_of n|thing-PL pro:sub|I
+	mod|do~neg|not adj|mean inf|to co|say prep|out adj|loud +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|CMOD
+	9|10|INF 10|8|XMOD 11|10|JCT 12|11|POBJ 13|2|PUNCT
+*S1:	KGAP (.) Y minus y@l star .
+%mor:	n:prop|KGAP n:prop|Y n|minus n:let|y n|star .
+%gra:	1|3|MOD 2|3|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*S1:	(0.8) okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	(0.9) so (.) let me just put in what that derivative is +...
+%mor:	adv|so v|let&ZERO pro:obj|me adv|just part|put&PASTP prep|in
+	pro:int|what det:dem|that n|derivative cop|be&3S +...
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|XJCT 6|5|JCT 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|CPOBJ 11|2|PUNCT
+*S1:	(be)cause this is where that one minus y@l squared comes from (.)
+	DDZ (.) of YG (.) is DDZ (.) of Y (.) GS over one minus Y .
+%mor:	conj|because pro:dem|this cop|be&3S pro:rel|where adv|that
+	det:num|one n|minus n:let|y part|square-PASTP v|come-3S prep|from
+	n:prop|DDZ prep|of n:prop|YG cop|be&3S n:prop|DDZ prep|of n:prop|Y
+	n:prop|GS adv|over det:num|one n|minus n:prop|Y .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|JCT 6|7|QUANT 7|3|PRED 8|7|NJCT
+	9|8|XMOD 10|9|OBJ 11|10|JCT 12|11|POBJ 13|12|NJCT 14|13|POBJ 15|10|SUBJ
+	16|15|PRED 17|16|NJCT 18|19|NAME 19|17|POBJ 20|21|JCT 21|22|QUANT
+	22|23|MOD 23|16|APP 24|3|PUNCT
+*S1:	which (.) if you do the +//.
+%mor:	pro:int|which conj|if pro:per|you v|do det:art|the +//.
+%gra:	1|2|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PUNCT
+*S1:	what is it ?
+%mor:	pro:int|what cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S1:	the denominator times the derivative of the numerator (.) minus the
+	numerator times the derivative of the denominator all over the
+	denominator squared .
+%mor:	det:art|the n|denominator v|time-3S det:art|the n|derivative
+	prep|of det:art|the n|numerator prep|minus det:art|the n|numerator
+	v|time-3S det:art|the n|derivative prep|of det:art|the n|denominator
+	adv|all prep|over det:art|the n|denominator v|square-PAST .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|JCT 10|11|DET 11|9|POBJ 12|3|CJCT 13|14|DET 14|12|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|19|JCT 19|12|JCT 20|21|DET 21|22|SUBJ 22|19|POBJ
+	23|3|PUNCT
+*S1:	and I'll save you the time .
+%mor:	coord|and pro:sub|I~mod|will v|save pro:per|you det:art|the n|time
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ2 6|7|DET 7|4|OBJ 8|4|PUNCT
+*S1:	GS over one minus Y (.) squared (.) DY (.) DZ .
+%mor:	n:prop|GS adv|over pro:indef|one prep|minus n:prop|Y
+	part|square-PASTP n:prop|DY n:prop|DZ .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|XJCT 7|8|NAME
+	8|6|OBJ 9|3|PUNCT
+*S1:	(0.17) so that's what you gotta plug in (.) due to your (.)
+	extremely (.) short (.) attention span I will now skip right to the
+	end (.) &unle unless there's popular demand otherwise (.) which I
+	fear (.) there is not going to be .
+%mor:	co|so pro:dem|that~cop|be&3S pro:int|what pro:per|you
+	mod|got~inf|to v|plug adv|in n|due prep|to det:poss|your
+	adv|extreme&dadj-LY adj|short n|attention n|span pro:sub|I mod|will
+	adv|now n|skip adv|right prep|to det:art|the n|end conj|unless
+	pro:exist|there~cop|be&3S adj|popular n|demand adv|otherwise
+	pro:int|which pro:sub|I n|fear pro:exist|there cop|be&3S neg|not
+	part|go-PRESP inf|to cop|be .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|INF 8|3|CPRED
+	9|8|JCT 10|9|POBJ 11|10|NJCT 12|16|DET 13|14|JCT 14|16|MOD 15|16|MOD
+	16|11|POBJ 17|20|SUBJ 18|20|AUX 19|20|JCT 20|16|CMOD 21|22|JCT 22|20|NJCT
+	23|24|DET 24|22|POBJ 25|27|LINK 26|27|SUBJ 27|20|CJCT 28|29|MOD 29|27|PRED
+	30|27|JCT 31|33|LINK 32|33|SUBJ 33|35|PRED 34|35|SUBJ 35|27|PRED
+	36|35|NEG 37|35|XJCT 38|39|INF 39|37|COMP 40|3|PUNCT
+*S1:	that gives you just GS (.) and you have that KGAP down here (.)
+	you're still integrating from (.) y@l out (.) to y@l in .
+%mor:	pro:dem|that v|give-3S pro:per|you adv|just n:prop|GS coord|and
+	pro:per|you v|have comp|that n:prop|KGAP prep|down n|here
+	pro:per|you~aux|be&PRES adv|still part|integrate-PRESP prep|from
+	n:let|y adv|out prep|to n:let|y adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|JCT 5|8|SUBJ 6|5|CONJ 7|6|COORD 8|2|COMP
+	9|8|OBJ 10|9|OBJ 11|10|NJCT 12|11|POBJ 13|16|SUBJ 14|16|AUX 15|16|JCT
+	16|10|XJCT 17|16|JCT 18|17|POBJ 19|16|JCT 20|16|JCT 21|20|POBJ 22|21|JCT
+	23|2|PUNCT
+*S1:	it's one over you've got that Y minus y@l star is still there (.)
+	DY but you have this correction term (.) &mon one minus Y (.)
+	squared .
+%mor:	pro:per|it~cop|be&3S det:num|one adv|over pro:per|you~aux|have
+	part|get&PASTP adv|that n:prop|Y n|minus n:let|y n|star cop|be&3S
+	adv|still adv|there n:prop|DY conj|but pro:per|you v|have
+	det:dem|this n|correction n|term pro:indef|one n|minus n:prop|Y
+	part|square-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|QUANT 4|7|JCT 5|7|SUBJ 6|7|AUX 7|2|CPRED 8|13|JCT
+	9|10|MOD 10|12|MOD 11|12|MOD 12|13|SUBJ 13|7|COMP 14|13|JCT 15|13|JCT
+	16|15|POBJ 17|19|LINK 18|19|SUBJ 19|2|CJCT 20|22|DET 21|22|MOD 22|19|OBJ
+	23|22|PRED 24|25|MOD 25|23|CMOD 26|25|XMOD 27|2|PUNCT
+*S1:	it is not just replacing this with GS (.) or its definition (.) it
+	comes from (.) the YG varying (.) and then taking the derivative of
+	that .
+%mor:	pro:per|it cop|be&3S neg|not adj|just re#n:gerund|place-PRESP
+	pro:dem|this prep|with n:prop|GS coord|or det:poss|its n|definition
+	pro:per|it v|come-3S prep|from det:art|the n:prop|YG part|vary-PRESP
+	coord|and adv:tem|then part|take-PRESP det:art|the n|derivative
+	prep|of pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|17|SUBJ 7|6|NJCT 8|7|POBJ
+	9|13|LINK 10|11|DET 11|9|COORD 12|13|SUBJ 13|6|CJCT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|5|XMOD 18|17|CONJ 19|20|JCT 20|18|COORD 21|22|DET
+	22|20|OBJ 23|22|NJCT 24|23|POBJ 25|2|PUNCT
+*S1:	(0.7) questions on that ?
+%mor:	v|question-3S prep|on pro:dem|that ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*S7:	<I have a question> [?] .
+%mor:	pro:sub|I v|have det:art|a n|question .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*S7:	will you repeat what you just said about (.) the varying ?
+%mor:	mod|will pro:per|you v|repeat pro:int|what pro:per|you adv|just
+	v|say&PAST prep|about det:art|the n:gerund|vary-PRESP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|JCT 7|3|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*S7:	I don't know the very last thing <that you> [?] .
+%mor:	pro:sub|I mod|do~neg|not v|know det:art|the adv|very adj|last
+	n|thing pro:rel|that pro:per|you .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|DET 6|7|JCT 7|8|MOD 8|4|OBJ
+	9|10|LINK 10|8|CMOD 11|4|PUNCT
+*S1:	oh yeah it's this [/] this term we're taking the derivative of it
+	that's where we get that one minus Y (.) squared +/.
+%mor:	co|oh co|yeah pro:per|it~cop|be&3S det:dem|this n|term
+	pro:sub|we~aux|be&PRES part|take-PRESP det:art|the n|derivative
+	prep|of pro:per|it pro:dem|that~cop|be&3S pro:int|where pro:sub|we
+	v|get det:dem|that pro:indef|one prep|minus n:prop|Y
+	part|square-PASTP +/.
+%gra:	1|4|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|11|DET 11|9|OBJ 12|11|NJCT 13|12|POBJ 14|15|SUBJ 15|6|CMOD
+	16|18|LINK 17|18|SUBJ 18|15|CPRED 19|20|DET 20|18|OBJ 21|20|NJCT 22|21|POBJ
+	23|20|XJCT 24|4|PUNCT
+*S7:	oh ⌈ okay ⌉ +/.
+%mor:	co|oh co|okay +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	+, ⌊ in the ⌋ denominator .
+%mor:	prep|in det:art|the n|denominator .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*S1:	it's not just +//.
+%mor:	pro:per|it~cop|be&3S neg|not adv|just +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|JCT 5|2|PUNCT
+*S1:	the equation we had before was this (.) and this (.) so it's not
+	just saying oh G is equal to GS over one minus Y (.) let me just
+	stick that in there .
+%mor:	det:art|the n|equate&dv-TION pro:sub|we v|have&PAST adv|before
+	cop|be&PAST&13S det:dem|this coord|and pro:dem|this adv|so
+	pro:per|it~aux|be&3S neg|not adv|just part|say-PRESP co|oh n:prop|G
+	cop|be&3S adj|equal inf|to n:prop|GS adv|over det:num|one n|minus
+	n:prop|Y v|let&ZERO pro:obj|me adj|just n|stick pro:rel|that prep|in
+	n|there .
+%gra:	1|2|DET 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|6|JCT 6|4|COMP 7|6|PRED
+	8|15|LINK 9|15|SUBJ 10|15|JCT 11|15|SUBJ 12|15|AUX 13|12|NEG 14|15|JCT
+	15|7|CJCT 16|18|COM 17|18|SUBJ 18|15|COMP 19|26|LINK 20|21|INF 21|26|SUBJ
+	22|23|JCT 23|24|QUANT 24|26|JCT 25|26|SUBJ 26|18|CPRED 27|26|OBJ 28|29|MOD
+	29|27|POBJ 30|29|POSTMOD 31|30|JCT 32|31|POBJ 33|2|PUNCT
+*S1:	you [/] you can't do that .
+%mor:	pro:per|you mod|can~neg|not v|do pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	(0.4) any other questions ?
+%mor:	qn|any qn|other n|question-PL ?
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*S1:	(0.15) what am I erasing here ?
+%mor:	pro:int|what cop|be&1S pro:sub|I part|erase-PRESP adv|here ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|JCT 6|2|PUNCT
+*S1:	so (.) if I go back to the example &=writing:board and I do the
+	conversions now x@l in was zero (.) so that's zero over one minus
+	zero which is zero .
+%mor:	co|so conj|if pro:sub|I v|go adv|back prep|to det:art|the n|example
+	coord|and pro:sub|I v|do det:art|the n|conversion-PL adv|now n:let|x
+	adv|in aux|be&PAST&13S det:num|zero co|so pro:dem|that~cop|be&3S
+	det:num|zero adv|over det:num|one n|minus det:num|zero pro:rel|which
+	cop|be&3S det:num|zero .
+%gra:	1|11|COM 2|4|LINK 3|4|SUBJ 4|11|CJCT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|0|ROOT 12|13|DET 13|11|OBJ 14|11|JCT 15|11|XJCT
+	16|18|JCT 17|18|AUX 18|19|QUANT 19|21|COM 20|21|SUBJ 21|15|COMP
+	22|25|QUANT 23|24|JCT 24|25|QUANT 25|21|PRED 26|25|NJCT 27|28|LINK 28|26|CMOD
+	29|28|PRED 30|11|PUNCT
+*S1:	y@l in (.) was zero point zero seven now I convert it that's (.)
+	one over +//.
+%mor:	n:let|y adv|in aux|be&PAST&13S det:num|zero n|point det:num|zero
+	det:num|seven adv|now pro:sub|I v|convert pro:per|it
+	pro:rel|that~cop|be&3S det:num|one adv|over +//.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|QUANT 5|7|DATE 6|7|QUANT 7|10|JCT 8|7|JCT
+	9|10|SUBJ 10|0|ROOT 11|10|OBJ 12|13|LINK 13|11|CMOD 14|13|PRED
+	15|14|JCT 16|10|PUNCT
+*S1:	sorry point zero seven over one minus point zero seven .
+%mor:	co|sorry n|point det:num|zero det:num|seven adv|over det:num|one
+	n|minus n|point det:num|zero det:num|seven .
+%gra:	1|3|COM 2|3|MOD 3|4|QUANT 4|8|QUANT 5|6|JCT 6|8|QUANT 7|8|MOD 8|10|DATE
+	9|10|QUANT 10|0|ROOT 11|10|PUNCT
+*S1:	what a lecture to translate it's going to be all (.) letters and
+	numbers .
+%mor:	pro:int|what det:art|a n|lecture inf|to v|translate
+	pro:per|it~aux|be&3S part|go-PRESP inf|to cop|be adv|all n|letter-PL
+	coord|and n|number-PL .
+%gra:	1|8|LINK 2|3|DET 3|8|SUBJ 4|5|INF 5|3|XMOD 6|5|OBJ 7|8|AUX 8|0|ROOT
+	9|10|INF 10|8|COMP 11|12|JCT 12|10|PRED 13|8|CONJ 14|13|COORD 15|8|PUNCT
+*S1:	sorry about that +...
+%mor:	co|sorry prep|about pro:dem|that +...
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*S1:	&=laughs:multiple zero point zero seven five (0.8) which reminds me
+	of that time I was out on route seventy five and I was driving &alon
+	oh sorry .
+%mor:	det:num|zero v|point det:num|zero det:num|seven det:num|five
+	pro:rel|which v|remind-3S pro:obj|me prep|of det:dem|that n|time
+	pro:sub|I cop|be&PAST&13S adv|out prep|on n|route det:num|seventy
+	det:num|five coord|and pro:sub|I aux|be&PAST&13S part|drive-PRESP
+	co|oh co|sorry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|OBJ 6|7|LINK 7|5|CMOD 8|7|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|13|SUBJ 13|7|COMP 14|13|JCT 15|13|JCT
+	16|15|POBJ 17|18|QUANT 18|16|CMOD 19|22|LINK 20|22|SUBJ 21|22|AUX
+	22|18|CJCT 23|24|COM 24|22|OBJ 25|2|PUNCT
+*S1:	&=laughs:multiple &tr trying to get in there non (.) technical
+	stuff .
+%mor:	part|try-PRESP inf|to v|get prep|in n|there adj|non adj|technic-AL
+	n|stuff .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|3|JCT 5|8|MOD 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|1|PUNCT
+*S1:	one minus zero point one (0.7) what do you notice about low
+	concentrations (.) of Y ?
+%mor:	det:num|one n|minus det:num|zero n|point pro:indef|one pro:int|what
+	mod|do pro:per|you v|notice prep|about n|low
+	n|concentrate&dv-TION-PL prep|of n:prop|Y ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|QUANT 4|2|APP 5|2|ENUM 6|9|SUBJ 7|9|AUX
+	8|9|SUBJ 9|5|CMOD 10|9|JCT 11|12|MOD 12|10|POBJ 13|12|NJCT 14|13|POBJ
+	15|2|PUNCT
+*S2:	Y is <approximately equal to the> [?] capital Y ?
+%mor:	n:prop|Y cop|be&3S adv|approximate&dadj-LY adj|equal prep|to
+	det:art|the n|capital n:prop|Y ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|7|APP
+	9|2|PUNCT
+*S1:	how does (.) Y compare to capital Y when the concentration is low .
+%mor:	pro:int|how mod|do&3S n:prop|Y v|compare prep|to adj|capital
+	n:prop|Y conj|when det:art|the n|concentrate&dv-TION cop|be&3S n|low
+	.
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|4|CJCT 12|11|PRED 13|4|PUNCT
+*S1:	I'm sorry what did you say ?
+%mor:	pro:sub|I~cop|be&1S adj|sorry pro:int|what mod|do&PAST pro:per|you
+	v|say ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|7|OBJ 5|7|AUX 6|7|SUBJ 7|2|CPRED 8|2|PUNCT
+*S2:	I said Y is approximately equal to the capital Y .
+%mor:	pro:sub|I v|say&PAST n:prop|Y cop|be&3S adv|approximate&dadj-LY
+	adj|equal prep|to det:art|the n|capital n:prop|Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|JCT 6|4|PRED 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|APP 11|2|PUNCT
+*S1:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	they're about the same .
+%mor:	pro:sub|they~cop|be&PRES prep|about det:art|the adj|same .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*S1:	once you &g start getting up above point zero five it starts
+	changing and up above point one (.) is really concentrated .
+%mor:	adv|once pro:per|you v|start part|get-PRESP adv|up prep|above
+	n|point det:num|zero det:num|five pro:per|it v|start-3S
+	part|change-PRESP coord|and adv|up prep|above n|point pro:indef|one
+	aux|be&3S adv|real&dadj-LY part|concentrate-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|XJCT 5|4|JCT 6|4|JCT 7|6|POBJ 8|9|QUANT
+	9|10|QUANT 10|11|SUBJ 11|7|CMOD 12|11|COMP 13|12|CONJ 14|20|JCT
+	15|20|JCT 16|15|POBJ 17|20|SUBJ 18|20|AUX 19|20|JCT 20|13|COORD 21|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so typically &=writing:board five to point one .
+%mor:	adv|so adv|typical&dadj-LY det:num|five prep|to n|point
+	pro:indef|one .
+%gra:	1|2|JCT 2|3|JCT 3|0|INCROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*S1:	why don't I give you an exact number ?
+%mor:	pro:int|why mod|do~neg|not pro:sub|I v|give pro:per|you det:art|a
+	adj|exact v|number ?
+%gra:	1|5|LINK 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|OBJ2 7|9|DET 8|9|MOD
+	9|5|JCT 10|5|PUNCT
+*S1:	I can't .
+%mor:	pro:sub|I mod|can~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*S1:	if it's below point oh [: zero] five almost always you get the same
+	answer whether you assume dilute or concentrated .
+%mor:	conj|if pro:per|it~cop|be&3S prep|below n|point det:num|zero
+	det:num|five adv|almost adv|always pro:per|you v|get det:art|the
+	adj|same n|answer conj|whether pro:per|you v|assume adj|dilute
+	coord|or v|concentrate-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|11|CJCT 4|3|JCT 5|4|POBJ 6|7|QUANT 7|11|JCT 8|7|JCT
+	9|11|JCT 10|11|SUBJ 11|0|ROOT 12|14|DET 13|14|MOD 14|11|OBJ 15|17|LINK
+	16|17|SUBJ 17|11|CJCT 18|17|PRED 19|18|CONJ 20|19|COORD 21|11|PUNCT
+*S1:	between point oh [: zero] five and point one it's usually (.) off a
+	little bit above point one it's usually (.) you know significantly
+	off five or ten percent .
+%mor:	prep|between n|point det:num|zero det:num|five coord|and n|point
+	pro:indef|one pro:per|it~cop|be&3S adv|usual&dadj-LY prep|off
+	det:art|a adj|little n|bit prep|above n|point pro:indef|one
+	pro:per|it~cop|be&3S adv|usual&dadj-LY pro:per|you v|know
+	adv|significant&dadj-LY prep|off det:num|five coord|or det:num|ten
+	n|percent .
+%gra:	1|4|JCT 2|1|POBJ 3|4|QUANT 4|9|CJCT 5|4|CONJ 6|5|COORD 7|9|SUBJ
+	8|9|SUBJ 9|0|ROOT 10|9|JCT 11|9|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|14|NJCT
+	16|15|POBJ 17|9|PRED 18|19|SUBJ 19|17|CMOD 20|22|JCT 21|22|SUBJ
+	22|19|CPRED 23|22|JCT 24|22|JCT 25|24|POBJ 26|25|CONJ 27|28|QUANT 28|26|COORD
+	29|9|PUNCT
+*S1:	(0.4) so now you can see on this new graph instead of plotting y@l
+	in at point zero seven I plot it at point zero seven five .
+%mor:	adv|so adv|now pro:per|you mod|can v|see prep|on det:dem|this
+	adj|new n|graph adv|instead prep|of n:gerund|plot-PRESP n:let|y
+	adv|in prep|at n|point det:num|zero det:num|seven pro:sub|I v|plot
+	pro:per|it prep|at n|point det:num|zero det:num|seven det:num|five .
+%gra:	1|2|JCT 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|JCT 11|10|JCT 12|18|DATE 13|18|DATE 14|18|JCT 15|18|JCT
+	16|15|POBJ 17|18|DATE 18|11|POBJ 19|20|SUBJ 20|5|CJCT 21|20|OBJ 22|20|JCT
+	23|22|POBJ 24|25|QUANT 25|26|QUANT 26|20|OBJ 27|5|PUNCT
+*S1:	(0.4) exciting huh ?
+%mor:	part|excite-PRESP co|huh ?
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*S1:	&=laughs:multiple it's fascinating .
+%mor:	pro:per|it~aux|be&3S part|fascinate-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*S1:	the minimum operating (.) sorry the minimum flow rate (.) which is
+	part A (0.6) you can calculate out the slope .
+%mor:	det:art|the n|minimum part|operate-PRESP adj|sorry det:art|the
+	n|minimum n|flow n|rate pro:rel|which cop|be&3S adj|part n:prop|A
+	pro:per|you mod|can v|calculate prep|out det:art|the n|slope .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|8|MOD 5|8|DET 6|7|MOD 7|8|MOD 8|3|OBJ
+	9|10|LINK 10|8|CMOD 11|10|PRED 12|15|LINK 13|15|SUBJ 14|15|AUX 15|10|CPRED
+	16|15|JCT 17|18|DET 18|16|POBJ 19|2|PUNCT
+*S1:	remember it's LS Min (.) over GS now .
+%mor:	v|remember pro:per|it~cop|be&3S n:prop|LS n:prop|Min adv|over
+	n:prop|GS adv|now .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|NAME 5|3|PRED 6|5|NJCT 7|5|ENUM 8|7|JCT
+	9|1|PUNCT
+*S1:	it is not L over G (.) these will errors that (.) if you're paying
+	attention +...
+%mor:	pro:per|it cop|be&3S neg|not n:prop|L adv|over n:prop|G
+	det:dem|these mod|will n|error-PL pro:rel|that comp|if
+	pro:per|you~aux|be&PRES part|pay-PRESP n|attention +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|4|NJCT 6|5|POBJ 7|9|DET 8|9|AUX
+	9|6|APP 10|14|LINK 11|14|LINK 12|14|SUBJ 13|14|AUX 14|9|CMOD 15|14|OBJ
+	16|2|PUNCT
+*S1:	&=laughs:multiple you will remember this on the exam +...
+%mor:	pro:per|you mod|will v|remember pro:dem|this prep|on det:art|the
+	n|exam +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*S1:	sorry .
+%mor:	co|sorry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	didn't mean to peg you there .
+%mor:	mod|do&PAST~neg|not adj|mean prep|to n|peg pro:per|you adv|there .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|ENUM 7|6|JCT 8|3|PUNCT
+*S1:	if you don't convert back it will be the incorrect answer +...
+%mor:	conj|if pro:per|you mod|do~neg|not v|convert adv|back pro:per|it
+	mod|will cop|be det:art|the in#adj|correct n|answer +...
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|9|CJCT 6|5|JCT 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|12|DET 11|12|MOD 12|9|PRED 13|9|PUNCT
+*S1:	this slope if you draw it out is zero point (.) seven eight +...
+%mor:	det:dem|this n|slope conj|if pro:per|you v|draw pro:per|it adv|out
+	aux|be&3S det:num|zero v|point det:num|seven det:num|eight +...
+%gra:	1|2|DET 2|10|SUBJ 3|5|LINK 4|5|SUBJ 5|10|CJCT 6|5|OBJ 7|5|JCT 8|10|AUX
+	9|10|SUBJ 10|0|ROOT 11|10|OBJ 12|10|OBJ 13|10|PUNCT
+*S1:	you then have to get GS (.) which you don't have (.) which is one
+	minus y@l in (.) g@l in .
+%mor:	pro:per|you adv:tem|then v|have inf|to v|get n:prop|GS
+	pro:rel|which pro:per|you mod|do~neg|not v|have pro:rel|which
+	cop|be&3S det:num|one n|minus n:let|y adv|in n:let|g adv|in .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|5|COMP 12|13|LINK 13|11|COMP 14|15|QUANT 15|13|PRED
+	16|15|NJCT 17|16|JCT 18|17|POBJ 19|18|JCT 20|3|PUNCT
+*S1:	which is twenty four point eight (.) pound moles (.) per hour per
+	feet squared .
+%mor:	pro:rel|which cop|be&3S det:num|twenty det:num|four v|point
+	det:num|eight n|pound n|mole-PL prep|per n|hour prep|per n|foot&PL
+	v|square-PAST .
+%gra:	1|2|LINK 2|0|ROOT 3|5|QUANT 4|5|QUANT 5|2|CPRED 6|7|QUANT 7|8|MOD
+	8|5|OBJ 9|5|JCT 10|9|POBJ 11|13|JCT 12|11|POBJ 13|5|CJCT 14|2|PUNCT
+*S1:	and then you know that LS Min (.) is equal to (.) zero point seven
+	eight (.) times GS .
+%mor:	coord|and adv:tem|then pro:per|you v|know comp|that n:prop|LS
+	n:prop|Min cop|be&3S n|equal prep|to det:num|zero v|point
+	det:num|seven det:num|eight n|time-PL n:prop|GS .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|8|LINK 6|7|NAME 7|8|SUBJ 8|4|COMP
+	9|8|PRED 10|9|NJCT 11|12|QUANT 12|10|POBJ 13|15|QUANT 14|15|QUANT
+	15|12|OBJ 16|15|APP 17|4|PUNCT
+*S1:	which is (.) nineteen point three +...
+%mor:	pro:rel|which cop|be&3S det:num|nineteen v|point det:num|three +...
+%gra:	1|2|LINK 2|0|ROOT 3|4|QUANT 4|2|CPRED 5|4|OBJ 6|2|PUNCT
+*S1:	pound moles per hour per feet squared .
+%mor:	n|pound n|mole-PL prep|per n|hour prep|per n|foot&PL v|square-PAST
+	.
+%gra:	1|2|MOD 2|7|SUBJ 3|2|NJCT 4|3|POBJ 5|2|NJCT 6|5|POBJ 7|0|ROOT 8|7|PUNCT
+*S1:	(0.8) which (.) did I convert back ?
+%mor:	pro:int|which mod|do&PAST pro:sub|I v|convert adv|back ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*S1:	I did not and I should've and I don't have a calculator .
+%mor:	pro:sub|I mod|do&PAST neg|not coord|and pro:sub|I
+	mod|should~aux|have coord|and pro:sub|I mod|do~neg|not v|have
+	det:art|a n|calculator .
+%gra:	1|12|SUBJ 2|12|AUX 3|2|NEG 4|12|LINK 5|12|SUBJ 6|12|AUX 7|12|AUX
+	8|12|LINK 9|12|SUBJ 10|12|AUX 11|10|NEG 12|0|ROOT 13|14|DET 14|12|OBJ
+	15|12|PUNCT
+*S1:	but you have to convert back that's (.) L is equal to LS over one
+	minus X .
+%mor:	conj|but pro:per|you v|have inf|to v|convert adv|back
+	pro:rel|that~cop|be&3S n:prop|L cop|be&3S adj|equal inf|to n:prop|LS
+	adv|over det:num|one n|minus n:prop|X .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|LINK 8|5|COMP
+	9|10|SUBJ 10|8|PRED 11|10|PRED 12|13|INF 13|11|XMOD 14|15|JCT 15|16|QUANT
+	16|17|MOD 17|13|APP 18|3|PUNCT
+*S1:	(0.6) so you have to convert back (.) the nineteen point three (.)
+	divided by one minus X what is the x@l in ?
+%mor:	co|so pro:per|you v|have prep|to n|convert adv|back det:art|the
+	det:num|nineteen n|point det:num|three v|divide-PAST prep|by
+	det:num|one prep|minus n:prop|X pro:int|what cop|be&3S det:art|the
+	n:let|x adv|in ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|9|DET 8|9|QUANT
+	9|11|SUBJ 10|11|QUANT 11|3|COMP 12|11|JCT 13|12|POBJ 14|13|NJCT 15|14|POBJ
+	16|17|SUBJ 17|11|CJCT 18|19|DET 19|17|PRED 20|19|JCT 21|3|PUNCT
+*S1:	oh it's zero .
+%mor:	co|oh pro:per|it~cop|be&3S det:num|zero .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S1:	(0.5) right (.) so we're okay .
+%mor:	adv|right adv|so pro:sub|we~cop|be&PRES co|okay .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*S1:	(0.4) questions ?
+%mor:	n|question-PL ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	is LS .
+%mor:	cop|be&3S n:prop|LS .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*S1:	sorry someone yeah sorry .
+%mor:	co|sorry pro:indef|someone co|yeah co|sorry .
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|COM 5|2|PUNCT
+*S4:	is &-uh LS supposed to be (.) pound moles per hour feet cubed ?
+%mor:	cop|be&3S n:prop|LS v|suppose-PAST inf|to cop|be n|pound n|mole-PL
+	prep|per n|hour n|foot&PL v|cube-PAST ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|MOD 7|5|PRED 8|5|JCT
+	9|10|MOD 10|8|POBJ 11|3|OM 12|3|PUNCT
+*S1:	&-uh no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	squared .
+%mor:	part|square-PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	per crosssectional area so it's like a velocity .
+%mor:	prep|per cross#adj|section&dn-AL n|area adv|so pro:per|it~cop|be&3S
+	conj|like det:art|a n|velocity .
+%gra:	1|6|JCT 2|3|MOD 3|1|POBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*S1:	right this is the weird unit (.) that I always forget pound moles
+	per hour per feet squared .
+%mor:	adv|right pro:dem|this cop|be&3S det:art|the adj|weird n|unit
+	pro:rel|that pro:sub|I adv|always v|forget n|pound n|mole-PL
+	prep|per n|hour prep|per n|foot&PL v|square-PAST .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|10|LINK 8|10|SUBJ
+	9|10|JCT 10|6|CMOD 11|12|MOD 12|10|OBJ 13|10|JCT 14|13|POBJ 15|10|JCT
+	16|17|SUBJ 17|15|POBJ 18|3|PUNCT
+*S1:	it was that KYA that had the cube .
+%mor:	pro:per|it cop|be&PAST&13S pro:rel|that n:prop|KYA pro:rel|that
+	v|have&PAST det:art|the n|cube .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|LINK 4|2|PRED 5|6|LINK 6|4|CMOD 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*S4:	okay +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, other questions ?
+%mor:	qn|other n|question-PL ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S1:	(0.6) other questions ?
+%mor:	qn|other n|question-PL ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S1:	(0.4) .
+*S2:	&-um just like the y@l-s are similar for dilute solution is [/] &i
+	is it the same for L S and M ?
+%mor:	adv|just prep|like det:art|the n:let|y-PL cop|be&PRES adj|similar
+	prep|for adj|dilute n|solution cop|be&3S pro:per|it det:art|the
+	adj|same prep|for n:prop|L n:prop|S coord|and n:prop|M ?
+%gra:	1|2|JCT 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|10|JCT 8|9|MOD
+	9|7|POBJ 10|6|CMOD 11|10|PRED 12|13|DET 13|11|OM 14|13|JCT 15|16|NAME
+	16|14|POBJ 17|14|CONJ 18|17|COORD 19|5|PUNCT
+*S2:	they're ⌈ the same ⌉ ?
+%mor:	pro:sub|they~cop|be&PRES det:art|the adj|same ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*S1:	⌊ yes ⌋ (.) y@l-s or x@l-s are similar (.) for dilute solution same
+	(.) thing .
+%mor:	co|yes n:let|y-PL coord|or n:let|x-PL cop|be&PRES adj|similar
+	prep|for adj|dilute n|solution adj|same n|thing .
+%gra:	1|2|COM 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|0|ROOT 6|5|PRED 7|6|JCT 8|9|MOD
+	9|11|MOD 10|11|MOD 11|7|POBJ 12|5|PUNCT
+*S1:	this was zero so it doesn't matter (.) it was all solute free
+	coming in .
+%mor:	pro:dem|this cop|be&PAST&13S det:num|zero co|so pro:per|it
+	mod|do&3S~neg|not n|matter pro:per|it aux|be&PAST&13S adv|all
+	n|solute adv|free part|come-PRESP adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|8|COM 5|8|SUBJ 6|8|AUX 7|6|NEG 8|2|PRED
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|8|CMOD 13|14|JCT 14|12|XMOD 15|14|JCT
+	16|2|PUNCT
+*S1:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so it's pure water coming in so that's solute free .
+%mor:	adv|so pro:per|it~cop|be&3S adj|pure n|water part|come-PRESP
+	prep|in co|so pro:dem|that~cop|be&3S n|solute adv|free .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|5|XMOD 7|6|JCT 8|10|COM
+	9|10|SUBJ 10|3|CJCT 11|10|PRED 12|11|NJCT 13|3|PUNCT
+*S2:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	(0.9) .
+*S1:	quiet please .
+%mor:	n|quiet v|please .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S1:	if you go through and then do (.) part B (0.4) if you plug in all
+	you have to find your Y +//.
+%mor:	conj|if pro:per|you v|go adv|through coord|and adv:tem|then v|do
+	adj|part n:prop|B conj|if pro:per|you v|plug adv|in adv|all
+	pro:per|you v|have inf|to v|find det:poss|your n:prop|Y +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|7|JCT 7|5|COORD 8|9|MOD
+	9|7|OBJ 10|12|LINK 11|12|SUBJ 12|7|CJCT 13|12|JCT 14|16|JCT 15|16|SUBJ
+	16|12|COMP 17|18|INF 18|16|COMP 19|20|DET 20|18|OBJ 21|3|PUNCT
+*S1:	capital y@l-s and capital y@l stars (.) convert them to small y@l-s
+	and small y@l stars .
+%mor:	adj|capital n:let|y-PL coord|and adj|capital n:let|y n|star-PL
+	v|convert pro:obj|them prep|to adj|small n:let|y-PL coord|and
+	adj|small n:let|y n|star-PL .
+%gra:	1|7|LINK 2|7|SUBJ 3|2|CONJ 4|6|MOD 5|6|MOD 6|3|COORD 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|11|MOD 11|9|POBJ 12|11|CONJ 13|15|MOD 14|15|MOD 15|12|COORD
+	16|7|PUNCT
+*S1:	you cannot not convert you will get the wrong answer .
+%mor:	pro:per|you mod|can~neg|not neg|not v|convert pro:per|you mod|will
+	v|get det:art|the adj|wrong n|answer .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|2|NEG 5|0|ROOT 6|8|SUBJ 7|8|AUX 8|5|COMP
+	9|11|DET 10|11|MOD 11|8|OBJ 12|5|PUNCT
+*S1:	you convert them (.) and then you go forward and sum the integral
+	you should get (.) LC equals twelve point eight (.) feet .
+%mor:	pro:per|you v|convert pro:obj|them coord|and adv:tem|then
+	pro:per|you v|go adv|forward coord|and v|sum det:art|the
+	adj|integral pro:per|you mod|should v|get n:prop|LC n|equal-PL
+	det:num|twelve v|point det:num|eight n|foot&PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|7|JCT 6|7|SUBJ 7|4|COORD 8|7|JCT
+	9|7|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|15|SUBJ 14|15|AUX 15|12|CMOD
+	16|17|MOD 17|15|OBJ 18|19|QUANT 19|17|CMOD 20|21|QUANT 21|19|OBJ
+	22|2|PUNCT
+*S1:	I will spare you the details but if you have questions you can
+	always ask (.) your (.) humble and (.) proficient and &-uh &-um &-uh
+	good words &-uh +...
+%mor:	pro:sub|I mod|will v|spare pro:per|you det:art|the n|detail-PL
+	conj|but conj|if pro:per|you v|have v|question-3S pro:per|you
+	mod|can adv|always v|ask det:poss|your adj|humble coord|and
+	adj|proficient coord|and adj|good n|word-PL +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|3|CONJ 8|10|LINK
+	9|10|SUBJ 10|7|COORD 11|10|COMP 12|15|SUBJ 13|15|AUX 14|15|JCT 15|11|COMP
+	16|17|DET 17|22|MOD 18|17|CONJ 19|18|COORD 20|17|CONJ 21|20|COORD
+	22|15|OBJ 23|3|PUNCT
+*S1:	&=laughs:multiple people .
+%mor:	n|person&PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&=laughs:multiple to go over the details +...
+%mor:	inf|to v|go prep|over det:art|the n|detail-PL +...
+%gra:	1|2|INF 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*S1:	now you also have &-uh HOG was (.) now different (.) I define HOG
+	as GS (.) over KYA (.) which is that constant out front (.) and I
+	had three point four [/] four (.) feet .
+%mor:	adv|now pro:per|you adv|also v|have n:prop|HOG cop|be&PAST&13S
+	adv|now adj|different pro:sub|I v|define n:prop|HOG conj|as
+	n:prop|GS adv|over n:prop|KYA pro:rel|which cop|be&3S comp|that
+	adj|constant prep|out n|front coord|and pro:sub|I v|have&PAST
+	det:num|three v|point det:num|four n|foot&PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT 8|6|PRED
+	9|10|SUBJ 10|4|COMP 11|10|OBJ 12|15|LINK 13|15|SUBJ 14|13|NJCT 15|4|CJCT
+	16|17|LINK 17|15|CMOD 18|17|PRED 19|18|PRED 20|19|JCT 21|20|POBJ
+	22|24|LINK 23|24|SUBJ 24|19|CJCT 25|26|QUANT 26|24|COMP 27|28|QUANT 28|26|OBJ
+	29|4|PUNCT
+*S1:	(0.9) questions ?
+%mor:	n|question-PL ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	&-um is this equation L equals LS over one minus X <I mean it's>
+	[?] or is it capital [/] capital x@l in or small X ?
+%mor:	cop|be&3S pro:dem|this n|equate&dv-TION n:prop|L v|equal-3S
+	n:prop|LS adv|over pro:indef|one prep|minus n:prop|X pro:sub|I
+	v|mean pro:per|it~cop|be&3S coord|or cop|be&3S pro:per|it
+	adj|capital n:let|x adv|in coord|or adj|small n:prop|X ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|5|SUBJ 5|3|CMOD 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|12|SUBJ 12|5|CJCT 13|12|OBJ 14|12|JCT 15|14|CONJ
+	16|15|COORD 17|16|PRED 18|19|MOD 19|17|OM 20|19|JCT 21|20|CONJ 22|23|MOD
+	23|21|COORD 24|1|PUNCT
+*S2:	I know it doesn't matter for this case but .
+%mor:	pro:sub|I v|know pro:per|it mod|do&3S~neg|not v|matter prep|for
+	det:dem|this n|case conj|but .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|JCT 11|2|PUNCT
+*S1:	well if I want l@l in then I use x@l in .
+%mor:	co|well conj|if pro:sub|I v|want n:let|l adv|in adv:tem|then
+	pro:sub|I v|use n:let|x adv|in .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|9|JCT 7|9|JCT 8|9|SUBJ
+	9|4|COMP 10|9|OBJ 11|9|JCT 12|4|PUNCT
+*S1:	which is +/.
+%mor:	pro:rel|which cop|be&3S +/.
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*S2:	⌈ okay ⌉ +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, ⌊ what I ⌋ was looking for (.) okay .
+%mor:	pro:int|what pro:sub|I aux|be&PAST&13S part|look-PRESP prep|for
+	adj|okay .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*S1:	so if that helps yes .
+%mor:	co|so comp|if adv|that n|help-PL co|yes .
+%gra:	1|4|COM 2|4|LINK 3|4|JCT 4|0|INCROOT 5|4|COM 6|4|PUNCT
+*S1:	I was just writing it down in general terms .
+%mor:	pro:sub|I aux|be&PAST&13S adv|just part|write-PRESP pro:per|it
+	adv|down prep|in n|general n|term-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|9|MOD
+	9|7|POBJ 10|4|PUNCT
+*S2:	but does it matter if that's the small X or the capital X ?
+%mor:	conj|but mod|do&3S pro:per|it v|matter conj|if
+	pro:dem|that~cop|be&3S det:art|the adj|small n:prop|X coord|or
+	det:art|the n|capital n:prop|X ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|10|DET
+	9|10|MOD 10|7|PRED 11|10|CONJ 12|13|DET 13|11|COORD 14|13|APP 15|4|PUNCT
+*S2:	I mean I know it doesn't matter ⌈ in this case ⌉ .
+%mor:	pro:sub|I v|mean pro:sub|I v|know pro:per|it mod|do&3S~neg|not
+	n|matter prep|in det:dem|this n|case .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|8|AUX 7|6|NEG 8|4|JCT
+	9|4|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*S1:	⌊ that has got to be ⌋ the small X .
+%mor:	pro:rel|that aux|have&3S part|get&PASTP inf|to cop|be det:art|the
+	adj|small n:prop|X .
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|8|DET 7|8|MOD 8|5|PRED
+	9|3|PUNCT
+*S2:	okay +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, (0.6) there is so much talking going on .
+%mor:	pro:exist|there cop|be&3S adv|so qn|much part|talk-PRESP
+	part|go-PRESP adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|QUANT 5|2|PRED 6|5|COMP 7|6|JCT 8|2|PUNCT
+*S1:	&=laughs:multiple but I will remain calm (.) &=laughs:multiple I
+	will not scream +...
+%mor:	conj|but pro:sub|I mod|will v|remain n|calm pro:sub|I mod|will
+	neg|not v|scream +...
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|9|CJCT 5|4|OBJ 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|0|ROOT 10|9|PUNCT
+*S1:	&=laughs:multiple I will not pick on anybody unless I really get
+	upset and then I will .
+%mor:	pro:sub|I mod|will neg|not v|pick prep|on pro:indef|anybody
+	conj|unless pro:sub|I adv|real&dadj-LY v|get adj|upset coord|and
+	adv:tem|then pro:sub|I mod|will .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|10|LINK 8|10|SUBJ
+	9|10|JCT 10|4|CJCT 11|10|PRED 12|11|CONJ 13|15|JCT 14|15|SUBJ
+	15|12|COORD 16|4|PUNCT
+*S1:	&-um any questions on that ?
+%mor:	qn|any n|question-PL prep|on pro:dem|that ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*S1:	we've done now a packed column .
+%mor:	pro:sub|we~aux|have part|do&PASTP adv|now det:art|a part|pack-PASTP
+	n|column .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|3|OBJ 8|3|PUNCT
+*S1:	we had &assu these assumptions constant flow rates equilibrium
+	stages linear equilibrium .
+%mor:	pro:sub|we v|have&PAST det:dem|these n|assumption-PL adj|constant
+	n|flow v|rate-3S n|equilibrium v|stage-3S adj|linear n|equilibrium .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|MOD 6|7|SUBJ 7|4|CMOD 8|9|SUBJ
+	9|7|COMP 10|11|MOD 11|9|OBJ 12|2|PUNCT
+*S1:	we no longer have equilibrium stages .
+%mor:	pro:sub|we co|no adj|long-CP v|have n|equilibrium n|stage-PL .
+%gra:	1|4|SUBJ 2|4|COM 3|4|JCT 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*S1:	we do the simplification for linear equilibrium .
+%mor:	pro:sub|we v|do det:art|the n|simplify&dv-TION prep|for adj|linear
+	n|equilibrium .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|MOD 7|5|POBJ 8|2|PUNCT
+*S1:	we then did the simplest case (.) for (.) nonlinear equilibrium .
+%mor:	pro:sub|we adv:tem|then v|do&PAST det:art|the adj|simple-SP n|case
+	prep|for non#adj|linear n|equilibrium .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|9|MOD
+	9|7|POBJ 10|3|PUNCT
+*S1:	then we went forward what happens if the flow rates aren't
+	constants ?
+%mor:	adv:tem|then pro:sub|we v|go&PAST adv|forward pro:int|what
+	v|happen-3S comp|if det:art|the n|flow v|rate-3S aux|be&PRES~neg|not
+	n|constant-PL ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|SUBJ 6|3|COMP 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|COMP 11|13|AUX 12|11|NEG 13|10|OBJ 14|3|PUNCT
+*S1:	these flow rates are changing (.) because the solute is absorbing
+	ten percent almost (.) of the solute might absorb through the length
+	of that column that's gonna be a big change in the flow rates .
+%mor:	det:dem|these n|flow n|rate-PL aux|be&PRES part|change-PRESP
+	conj|because det:art|the n|solute aux|be&3S part|absorb-PRESP
+	det:num|ten n|percent adv|almost prep|of det:art|the n|solute
+	mod|might v|absorb adj|through det:art|the n|length prep|of
+	det:dem|that n|column pro:rel|that~aux|be&3S part|go-PRESP~inf|to
+	cop|be det:art|a adj|big n|change prep|in det:art|the n|flow
+	n|rate-PL .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|10|LINK 7|8|DET 8|10|SUBJ
+	9|10|AUX 10|18|CJCT 11|12|QUANT 12|10|OBJ 13|14|JCT 14|10|JCT 15|16|DET
+	16|14|POBJ 17|18|AUX 18|5|COMP 19|21|MOD 20|21|DET 21|18|OBJ 22|21|NJCT
+	23|24|DET 24|22|POBJ 25|27|LINK 26|27|AUX 27|24|CMOD 28|29|INF 29|27|COMP
+	30|32|DET 31|32|MOD 32|29|PRED 33|32|NJCT 34|36|DET 35|36|MOD
+	36|33|POBJ 37|5|PUNCT
+*S1:	turns out it doesn't affect our design very much (.) because we
+	come out with (.) twelve point eight feet (.) versus twelve point
+	five .
+%mor:	v|turn-3S adv|out pro:per|it mod|do&3S~neg|not v|affect
+	det:poss|our n|design adv|very adv|much conj|because pro:sub|we
+	v|come adv|out prep|with det:num|twelve n|point det:num|eight
+	n|foot&PL prep|versus det:num|twelve n|point det:num|five .
+%gra:	1|0|ROOT 2|1|JCT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|1|COMP 7|8|DET 8|6|OBJ
+	9|10|JCT 10|6|JCT 11|13|LINK 12|13|SUBJ 13|1|CJCT 14|13|JCT 15|13|JCT
+	16|17|QUANT 17|19|MOD 18|19|QUANT 19|15|POBJ 20|19|NJCT 21|22|QUANT 22|20|POBJ
+	23|19|ENUM 24|1|PUNCT
+*S1:	and actually (.) that is wrong .
+%mor:	coord|and adv|actual&dadj-LY pro:dem|that cop|be&3S n|wrong .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*S1:	this is an example (.) of (.) and it's in books it's an example of
+	(.) a little bit of knowledge is dangerous .
+%mor:	pro:dem|this cop|be&3S det:art|a n|example prep|of coord|and
+	pro:per|it~cop|be&3S adv|in n|book-PL pro:per|it~cop|be&3S det:art|a
+	n|example prep|of det:art|a adj|little n|bit prep|of n|knowledge
+	cop|be&3S adj|dangerous .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|8|LINK 7|8|SUBJ 8|5|POBJ
+	9|8|JCT 10|9|POBJ 11|12|SUBJ 12|8|CJCT 13|14|DET 14|12|PRED 15|21|LINK
+	16|18|DET 17|18|MOD 18|21|SUBJ 19|18|NJCT 20|19|POBJ 21|14|CMOD
+	22|21|PRED 23|2|PUNCT
+*S1:	(be)cause what you should also do (.) is (.) this (.) concentrated
+	stream if we're taking into account (.) these high concentrations of
+	solute (.) will actually do something which is called (.) diffusion
+	induced convection +...
+%mor:	conj|because pro:int|what pro:per|you mod|should adv|also v|do
+	cop|be&3S det:dem|this part|concentrate-PASTP n|stream conj|if
+	pro:sub|we~aux|be&PRES part|take-PRESP prep|into n|account
+	det:dem|these adj|high n|concentrate&dv-TION-PL prep|of n|solute
+	mod|will adv|actual&dadj-LY v|do pro:indef|something pro:rel|which
+	aux|be&3S part|call-PASTP n|diffusion part|induce-PASTP n|convection
+	+...
+%gra:	1|6|LINK 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|JCT 6|24|CJCT 7|6|OBJ 8|10|DET
+	9|10|MOD 10|6|OBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|24|CJCT 15|14|JCT
+	16|15|POBJ 17|19|DET 18|19|MOD 19|24|SUBJ 20|19|NJCT 21|20|POBJ 22|24|AUX
+	23|24|JCT 24|0|ROOT 25|24|OBJ 26|28|LINK 27|28|AUX 28|25|CMOD 29|31|MOD
+	30|31|MOD 31|28|OBJ 32|24|PUNCT
+*SUM:	+, mm +/.
+%mor:	co|mm +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	+, whoa +/.
+%mor:	co|whoa +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, you did not cover this probably yet (.) in mass transfer .
+%mor:	pro:per|you v|do&PAST neg|not v|cover det:dem|this
+	adv|probable&dadj-LY adv|yet prep|in n|mass n|transfer .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|COMP 5|6|DET 6|4|JCT 7|4|JCT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|2|PUNCT
+*S1:	so (.) we will cover it here .
+%mor:	co|so pro:sub|we mod|will v|cover pro:per|it adv|here .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*S1:	it will be so much fun (.) that you won't want me to stop (.) in
+	like six or seven minutes you'll want me to go on (.) because it
+	will be just riveting .
+%mor:	pro:per|it mod|will cop|be adv|so qn|much n|fun pro:rel|that
+	pro:per|you mod|will~neg|not v|want pro:obj|me prep|to n|stop
+	prep|in co|like det:num|six coord|or det:num|seven n|minute-PL
+	pro:per|you~mod|will v|want pro:obj|me inf|to v|go adv|on
+	conj|because pro:per|it mod|will cop|be adv|just part|rivet-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|6|QUANT 6|3|PRED 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|6|CMOD 12|11|OBJ 13|14|INF 14|23|CJCT 15|14|NJCT
+	16|17|COM 17|20|QUANT 18|17|CONJ 19|18|COORD 20|15|POBJ 21|23|SUBJ
+	22|23|AUX 23|11|COMP 24|23|OBJ 25|26|INF 26|23|COMP 27|26|JCT 28|31|LINK
+	29|31|SUBJ 30|31|AUX 31|3|CJCT 32|33|JCT 33|31|PRED 34|3|PUNCT
+*S1:	&=laughs:multiple right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SS:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and you won't want to go to heat and mass transfer because we're
+	doing mass transfer here .
+%mor:	coord|and pro:per|you mod|will~neg|not v|want inf|to v|go inf|to
+	v|heat coord|and n|mass n|transfer conj|because
+	pro:sub|we~aux|be&PRES part|do-PRESP n|mass n|transfer adv|here .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|COMP 8|9|INF
+	9|7|COMP 10|9|CONJ 11|12|MOD 12|10|COORD 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|5|CJCT 17|18|MOD 18|16|OBJ 19|16|JCT 20|5|PUNCT
+*S1:	so what's the point ?
+%mor:	adv|so pro:int|what~cop|be&3S det:art|the n|point ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*S1:	&=laughs:multiple alright so there's that heat thing so I guess you
+	can go on there .
+%mor:	co|alright co|so pro:exist|there~cop|be&3S det:dem|that n|heat
+	n|thing conj|so pro:sub|I v|guess pro:per|you mod|can v|go prep|on
+	n|there .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|10|LINK
+	9|10|SUBJ 10|13|CJCT 11|13|SUBJ 12|13|AUX 13|4|CJCT 14|13|JCT 15|14|POBJ
+	16|4|PUNCT
+*S1:	(0.15) oh what to teach you in this section +..?
+%mor:	co|oh pro:int|what inf|to v|teach pro:per|you prep|in det:dem|this
+	n|section +..?
+%gra:	1|4|COM 2|4|LINK 3|4|INF 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*S1:	what to do ?
+%mor:	pro:int|what inf|to v|do ?
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|3|PUNCT
+*S1:	what to do ?
+%mor:	pro:int|what inf|to v|do ?
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|3|PUNCT
+*S1:	lemme do it this way .
+%mor:	v|let~pro:obj|me v|do pro:per|it pro:dem|this adv|way .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|3|OBJ 6|5|JCT 7|1|PUNCT
+*S1:	you will never stand for this derivation I know it .
+%mor:	pro:per|you mod|will adv|never v|stand prep|for det:dem|this
+	n|derive&dv-TION pro:sub|I v|know pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|4|CJCT 10|9|OBJ 11|4|PUNCT
+*S1:	&=laughs not today .
+%mor:	neg|not adv:tem|today .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*S1:	the weather's too nice (.) so I'm gonna cut to the chase and I
+	might come back and fill in some details on Monday [/] Monday which
+	is gonna be like probably dreary and rainy and [/] and you'll all be
+	depressed that the weekend is over so (.) you'll have no other
+	thoughts on your mind but (.) you know (.) depression and this class
+	(.) so I (.) naturally make it kind of (.) low key .
+%mor:	det:art|the n|weather~cop|be&3S adv|too adj|nice adv|so
+	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|cut&ZERO prep|to
+	det:art|the n|chase coord|and pro:sub|I mod|might v|come adv|back
+	coord|and n|fill prep|in qn|some n|detail-PL prep|on n:prop|Monday
+	pro:rel|which aux|be&3S part|go-PRESP~inf|to cop|be prep|like
+	adv|probable&dadj-LY adj|dreary coord|and adj|rain&dn-Y coord|and
+	pro:per|you~mod|will adv|all aux|be part|depress-PASTP comp|that
+	det:art|the n|+n|week+n|end cop|be&3S adv|over adv|so
+	pro:per|you~mod|will v|have qn|no qn|other n|thought-PL prep|on
+	det:poss|your n|mind conj|but pro:per|you v|know n|depression
+	coord|and det:dem|this n|class co|so pro:sub|I adv|natural&dadj-LY
+	v|make pro:per|it n|kind prep|of adj|low n|key .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|9|JCT 7|9|SUBJ 8|9|AUX
+	9|3|CPRED 10|11|INF 11|9|COMP 12|11|JCT 13|14|DET 14|12|POBJ 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|11|CJCT 19|18|JCT 20|18|CONJ 21|20|COORD 22|21|NJCT
+	23|24|QUANT 24|22|POBJ 25|21|NJCT 26|25|POBJ 27|29|LINK 28|29|AUX
+	29|26|CMOD 30|31|INF 31|29|COMP 32|42|LINK 33|34|JCT 34|42|JCT 35|34|CONJ
+	36|35|COORD 37|41|LINK 38|41|SUBJ 39|41|AUX 40|41|JCT 41|42|AUX 42|31|CPRED
+	43|46|LINK 44|45|DET 45|46|SUBJ 46|42|COMP 47|46|JCT 48|51|JCT
+	49|51|SUBJ 50|51|AUX 51|46|CPRED 52|54|QUANT 53|54|QUANT 54|51|OBJ 55|51|JCT
+	56|57|DET 57|55|POBJ 58|60|LINK 59|60|SUBJ 60|42|CJCT 61|60|OBJ 62|61|CONJ
+	63|64|DET 64|62|COORD 65|68|COM 66|68|SUBJ 67|68|JCT 68|60|COMP
+	69|68|OBJ 70|69|POBJ 71|70|NJCT 72|73|MOD 73|71|POBJ 74|3|PUNCT
+*S1:	&=writes:board so (.) we have LC (.) I gave you the first equation
+	which was KG oh sorry G over KGAP (.) integral from y@l out (.) to
+	y@l in (.) one over (.) Y minus y@l star (.) DY (.) correct ?
+%mor:	co|so pro:sub|we v|have n:prop|LC pro:sub|I v|give&PAST pro:per|you
+	det:art|the adj|first n|equate&dv-TION pro:int|which cop|be&PAST&13S
+	n:prop|KG co|oh co|sorry n:prop|G adv|over n:prop|KGAP adj|integral
+	prep|from n:let|y adv|out inf|to n:let|y adv|in det:num|one adv|over
+	n:prop|Y n|minus n:let|y n|star n:prop|DY adj|correct ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|3|COMP 7|6|OBJ2 8|10|DET
+	9|10|MOD 10|6|OBJ 11|12|LINK 12|10|CMOD 13|12|PRED 14|16|COM 15|16|COM
+	16|13|CONJ 17|18|JCT 18|16|COORD 19|18|PRED 20|19|JCT 21|20|POBJ 22|21|JCT
+	23|24|INF 24|22|CPOBJ 25|26|JCT 26|29|QUANT 27|29|MOD 28|29|MOD
+	29|24|PRED 30|33|MOD 31|33|MOD 32|33|MOD 33|29|POSTMOD 34|3|PUNCT
+*S1:	this was for (.) dilute solutions .
+%mor:	pro:dem|this cop|be&PAST&13S prep|for v|dilute n|solution-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|OBJ 6|2|PUNCT
+*S1:	(0.8) if the flow rates +...
+%mor:	comp|if det:art|the n|flow v|rate-3S +...
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S1:	are not (.) constant that's what we just did .
+%mor:	cop|be&PRES neg|not adj|constant pro:dem|that~cop|be&3S
+	pro:int|what pro:sub|we adv|just v|do&PAST .
+%gra:	1|0|ROOT 2|1|NEG 3|1|PRED 4|5|SUBJ 5|3|CMOD 6|9|LINK 7|9|SUBJ 8|9|JCT
+	9|5|CPRED 10|1|PUNCT
+*S1:	so that's LC is equal to it now we have to put a GS up there (0.4)
+	KGAP (.) integral from y@l out (.) to y@l in (.) one over +//.
+%mor:	co|so pro:dem|that~cop|be&3S n:prop|LC cop|be&3S adj|equal inf|to
+	pro:per|it adv|now pro:sub|we v|have inf|to v|put&ZERO det:art|a
+	n:prop|GS prep|up n|there n:prop|KGAP adj|integral prep|from n:let|y
+	adv|out inf|to n:let|y adv|in det:num|one adv|over +//.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|PRED 6|5|PRED 7|8|INF 8|11|XJCT
+	9|8|JCT 10|11|SUBJ 11|6|CMOD 12|13|INF 13|11|COMP 14|15|DET 15|13|OBJ
+	16|13|JCT 17|16|POBJ 18|13|OBJ 19|18|PRED 20|19|JCT 21|20|POBJ 22|21|JCT
+	23|24|INF 24|22|CPOBJ 25|26|JCT 26|24|PRED 27|26|JCT 28|3|PUNCT
+*S1:	now we have that one minus y@l squared (.) term (.) Y minus y@l
+	star (.) DY (.) right ?
+%mor:	adv|now pro:sub|we v|have det:dem|that pro:indef|one prep|minus
+	n:let|y part|square-PASTP n|term n:prop|Y n|minus n:let|y n|star
+	n:prop|DY co|right ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|XJCT
+	9|11|MOD 10|11|MOD 11|8|OBJ 12|11|CONJ 13|14|MOD 14|12|COORD 15|14|COM
+	16|3|PUNCT
+*S1:	(0.13) that's only part right (be)cause you have to include
+	diffusion (.) induced (.) &diffu when my voice cracks will you write
+	that down as sort_of like an accent on the syllables ?
+%mor:	pro:dem|that~cop|be&3S adv|only adj|part adj|right conj|because
+	pro:per|you v|have inf|to v|include n|diffusion v|induce-PAST
+	conj|when det:poss|my n|voice v|crack-3S mod|will pro:per|you
+	v|write comp|that adv|down adv|as adv|sort_of co|like det:art|a
+	n|accent prep|on det:art|the n|syllable-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|PRED 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|10|INF 10|8|COMP 11|12|SUBJ 12|10|COMP 13|16|LINK 14|15|DET 15|16|SUBJ
+	16|12|CJCT 17|19|AUX 18|19|SUBJ 19|16|COMP 20|26|DET 21|22|JCT
+	22|24|COORD 23|24|JCT 24|26|COM 25|26|DET 26|19|OBJ 27|26|NJCT 28|29|DET
+	29|27|POBJ 30|2|PUNCT
+*S1:	&=laughs:multiple the (.) diffusion (.) induced convection .
+%mor:	det:art|the n|diffusion v|induce-PAST n|convection .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	this derivation usually takes a couple days (.) complete
+	explanation even when I teach graduate heat and mass transfer (.) it
+	takes a while for people to pick up so I'm gonna do it in like one
+	and a half minutes right now (.) verbally .
+%mor:	pro:dem|this n|derive&dv-TION adv|usual&dadj-LY v|take-3S det:art|a
+	qn|couple n|day-PL adj|complete n|explanation adj|even conj|when
+	pro:sub|I v|teach n|graduate n|heat coord|and n|mass n|transfer
+	pro:per|it v|take-3S det:art|a n|while prep|for n|person&PL inf|to
+	v|pick adv|up adv|so pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|do
+	pro:per|it prep|in co|like det:num|one coord|and det:art|a n|half
+	n|minute-PL adv|right adv|now adv|verbal&dadj-LY .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|DET 6|7|QUANT 7|4|OBJ 8|9|MOD
+	9|7|APP 10|7|POSTMOD 11|13|LINK 12|13|SUBJ 13|10|CMOD 14|15|MOD 15|18|MOD
+	16|15|CONJ 17|16|COORD 18|13|OBJ 19|20|SUBJ 20|18|CMOD 21|22|DET
+	22|20|OBJ 23|20|JCT 24|23|POBJ 25|26|INF 26|20|XJCT 27|26|JCT 28|31|JCT
+	29|31|SUBJ 30|31|AUX 31|26|XJCT 32|33|INF 33|31|COMP 34|33|OBJ 35|33|JCT
+	36|37|COM 37|33|OBJ 38|37|CONJ 39|41|DET 40|41|MOD 41|38|COORD 42|43|JCT
+	43|44|JCT 44|37|JCT 45|4|PUNCT
+*S1:	&=laughs:multiple you ready ?
+%mor:	pro:per|you adj|ready ?
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*SS:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	go .
+%mor:	v|go .
+%gra:	1|0|ROOT 2|1|PUNCT
+*S1:	(o)kay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so heat (.) if it's really hot and really cold over here heat goes
+	that way right ?
+%mor:	co|so n|heat conj|if pro:per|it~cop|be&3S adv|real&dadj-LY adj|hot
+	coord|and adv|real&dadj-LY adv|cold prep|over n|here n|heat v|go-3S
+	adv|that adv|way adj|right ?
+%gra:	1|2|COM 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|7|JCT 7|5|PRED
+	8|14|LINK 9|10|JCT 10|14|JCT 11|14|JCT 12|11|POBJ 13|14|SUBJ 14|5|CJCT
+	15|17|JCT 16|17|JCT 17|14|JCT 18|2|PUNCT
+*SUF:	yeah +/.
+%mor:	co|yeah +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, more heat goes it doesn't push anything right it's not a mass
+	right ?
+%mor:	qn|more n|heat v|go-3S pro:per|it mod|do&3S~neg|not v|push
+	pro:indef|anything adv|right pro:per|it~cop|be&3S neg|not det:art|a
+	n|mass co|right ?
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|3|COMP 8|7|OBJ
+	9|10|JCT 10|11|SUBJ 11|7|COMP 12|11|NEG 13|14|DET 14|11|PRED 15|14|COM
+	16|3|PUNCT
+*S1:	so if I have (.) like a mass here a concentration high
+	concentration low concentration .
+%mor:	adv|so conj|if pro:sub|I v|have prep|like det:art|a n|mass adv|here
+	det:art|a n|concentrate&dv-TION adj|high n|concentrate&dv-TION
+	adj|low n|concentrate&dv-TION .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|12|MOD 12|14|MOD 13|14|MOD 14|10|APP 15|4|PUNCT
+*S1:	it gets dilute (.) those molecules just kinda diffuse over .
+%mor:	pro:per|it v|get-3S adj|dilute det:dem|those n|molecule-PL adj|just
+	adv|kinda adj|diffuse adv|over .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|DET 5|2|OBJ 6|5|POSTMOD 7|8|JCT 8|6|JCT
+	9|8|JCT 10|2|PUNCT
+*S1:	if I have a huge concentrated (.) stuff here (.) low concentration
+	here now there's gonna be a_lot_of stuff moving .
+%mor:	conj|if pro:sub|I v|have det:art|a adj|huge part|concentrate-PASTP
+	n|stuff adv|here adj|low n|concentrate&dv-TION adv|here adv|now
+	pro:exist|there~cop|be&3S part|go-PRESP~inf|to cop|be qn|a_lot_of
+	n|stuff part|move-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|9|JCT
+	9|10|MOD 10|14|JCT 11|12|JCT 12|10|NJCT 13|14|SUBJ 14|7|CMOD 15|14|PRED
+	16|17|INF 17|15|COMP 18|19|QUANT 19|17|PRED 20|19|XMOD 21|3|PUNCT
+*S1:	if there's mass moving is that diffusion or convection ?
+%mor:	conj|if pro:exist|there~cop|be&3S n|mass n:gerund|move-PRESP
+	cop|be&3S comp|that n|diffusion coord|or n|convection ?
+%gra:	1|3|LINK 2|3|SUBJ 3|6|CJCT 4|3|PRED 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|8|CONJ 10|9|COORD 11|6|PUNCT
+*SS:	xxx .
+*S1:	I [/] I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*S1:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	it's kind_of (.) diffusion (be)cause it's moving by diffusion but
+	the diffusion itself causes some (.) convection of mass and if you
+	were standing here if there were molecules here they keep getting
+	&=gesture hit on this side by that concentrated stream .
+%mor:	pro:per|it~cop|be&3S adv|kind_of n|diffusion conj|because
+	pro:per|it~aux|be&3S part|move-PRESP prep|by n|diffusion conj|but
+	det:art|the n|diffusion pro:refl|itself n|cause-PL qn|some
+	n|convection prep|of n|mass coord|and conj|if pro:per|you
+	aux|be&PAST part|stand-PRESP adv|here comp|if adv|there cop|be&PAST
+	n|molecule-PL adv|here pro:sub|they v|keep n:gerund|get-PRESP
+	v|hit&ZERO prep|on det:dem|this adj|side adv|by pro:rel|that
+	v|concentrate-PAST n|stream .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|2|CJCT
+	9|8|JCT 10|9|POBJ 11|14|LINK 12|13|DET 13|14|SUBJ 14|8|CJCT 15|14|OBJ
+	16|17|QUANT 17|15|OBJ 18|17|NJCT 19|18|POBJ 20|17|CONJ 21|24|LINK
+	22|24|SUBJ 23|24|AUX 24|20|COORD 25|24|JCT 26|28|LINK 27|28|SUBJ 28|24|COMP
+	29|28|PRED 30|32|JCT 31|32|SUBJ 32|29|CMOD 33|34|SUBJ 34|32|OBJ 35|32|JCT
+	36|37|DET 37|35|POBJ 38|37|JCT 39|40|LINK 40|38|CMOD 41|40|OBJ 42|2|PUNCT
+*S1:	so they might push or sweep along (.) some other molecules .
+%mor:	co|so pro:sub|they mod|might v|push coord|or n|sweep prep|along
+	qn|some qn|other n|molecule-PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|NJCT
+	8|10|QUANT 9|10|QUANT 10|7|POBJ 11|4|PUNCT
+*S1:	that is diffusion induced (.) convection .
+%mor:	pro:dem|that cop|be&3S n|diffusion v|induce-PAST n|convection .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|CPRED 5|4|OBJ 6|2|PUNCT
+*S1:	only happens in very concentrated systems .
+%mor:	adv|only v|happen-3S adv|in adv|very part|concentrate-PASTP
+	n|system-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|XJCT 6|5|OBJ 7|2|PUNCT
+*S1:	what's my time ?
+%mor:	pro:int|what~cop|be&3S det:poss|my n|time ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*S1:	anybody get my time ?
+%mor:	pro:indef|anybody v|get det:poss|my n|time ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*S1:	is that under a minute ?
+%mor:	cop|be&3S comp|that prep|under det:art|a n|minute ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*S1:	it's about a minute and a half .
+%mor:	pro:per|it~cop|be&3S adv|about det:art|a n|minute coord|and
+	det:art|a n|half .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|DET 5|2|PRED 6|5|CONJ 7|8|DET 8|6|COORD
+	9|2|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so what we accounted for was in the column these changing flow
+	rates but we never accounted for this sweeping (.) of those
+	molecules along .
+%mor:	adv|so pro:int|what pro:sub|we v|account-PAST prep|for
+	cop|be&PAST&13S prep|in det:art|the n|column det:dem|these
+	part|change-PRESP n|flow v|rate-3S conj|but pro:sub|we adv|never
+	part|account-PASTP prep|for det:dem|this part|sweep-PRESP prep|of
+	det:dem|those n|molecule-PL adv|along .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|13|CSUBJ 5|4|JCT 6|5|POBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|13|DET 11|13|XJCT 12|13|SUBJ 13|0|ROOT 14|13|CONJ 15|17|SUBJ
+	16|17|JCT 17|14|COORD 18|17|JCT 19|18|POBJ 20|19|XMOD 21|20|JCT
+	22|23|DET 23|21|POBJ 24|20|JCT 25|13|PUNCT
+*S1:	if we do that (.) what you have to do is go back in (.) and correct
+	(.) the mass transfer coefficient (.) to include not only diffusion
+	(.) through that film layer but some convection (.) through that
+	film layer which (.) you can calculate (.) based on the diffusion .
+%mor:	conj|if pro:sub|we v|do pro:dem|that pro:int|what pro:per|you
+	v|have inf|to v|do cop|be&3S v|go adj|back adv|in coord|and
+	v|correct det:art|the n|mass n|transfer n|coefficient inf|to
+	v|include neg|not adv|only n|diffusion adj|through det:dem|that
+	n|film n|layer conj|but qn|some n|convection prep|through
+	det:dem|that n|film n|layer pro:rel|which pro:per|you mod|can
+	v|calculate part|base-PASTP prep|on det:art|the n|diffusion .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|9|INF
+	9|7|COMP 10|9|OBJ 11|10|CPRED 12|11|JCT 13|11|JCT 14|11|CONJ 15|14|COORD
+	16|19|DET 17|18|MOD 18|19|MOD 19|15|OBJ 20|21|INF 21|19|XMOD 22|21|NEG
+	23|24|JCT 24|28|MOD 25|28|MOD 26|28|DET 27|28|MOD 28|21|OBJ 29|28|CONJ
+	30|31|QUANT 31|29|COORD 32|31|NJCT 33|35|DET 34|35|MOD 35|32|POBJ
+	36|39|LINK 37|39|SUBJ 38|39|AUX 39|35|CMOD 40|39|COMP 41|40|JCT 42|43|DET
+	43|41|POBJ 44|3|PUNCT
+*S1:	if you do that (.) the only thing that changes in this equation is
+	(.) you have LC we're using GS now (be)cause we're in concentrated
+	regime (.) KGAP integral y@l out (.) to y@l in +...
+%mor:	conj|if pro:per|you v|do adv|that det:art|the qn|only n|thing
+	adv|that n|change-PL prep|in det:dem|this n|equate&dv-TION cop|be&3S
+	pro:per|you v|have n:prop|LC pro:sub|we~aux|be&PRES part|use-PRESP
+	n:prop|GS adv|now conj|because pro:sub|we~aux|be&PRES adv|in
+	part|concentrate-PASTP n|regime n:prop|KGAP adj|integral n:let|y
+	adv|out inf|to n:let|y adv|in +...
+%gra:	1|3|LINK 2|3|SUBJ 3|13|CJCT 4|9|JCT 5|7|DET 6|7|QUANT 7|9|SUBJ 8|9|JCT
+	9|13|SUBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|0|ROOT 14|15|SUBJ
+	15|13|CPRED 16|15|OBJ 17|19|SUBJ 18|19|AUX 19|16|COMP 20|19|OBJ 21|19|JCT
+	22|26|LINK 23|26|SUBJ 24|26|AUX 25|26|JCT 26|13|CJCT 27|26|OBJ 28|27|APP
+	29|30|MOD 30|28|OM 31|30|JCT 32|33|INF 33|31|CPOBJ 34|33|JCT 35|13|PUNCT
+*S1:	<on the> [/] &deno on the bottom we have Y (.) minus y@l star (.)
+	DY (.) we have a correction one minus y@l squared for the
+	nonconstant flow rate (.) and on top (.) we have an annoying term
+	(.) one minus Y (.) star m@l .
+%mor:	prep|on det:art|the n|bottom pro:sub|we v|have n:prop|Y n|minus
+	n:let|y n|star n:prop|DY pro:sub|we v|have det:art|a n|correction
+	det:num|one n|minus n:let|y v|square-PAST prep|for det:art|the
+	non#adj|constant n|flow n|rate coord|and prep|on n|top pro:sub|we
+	v|have det:art|a part|annoy-PRESP n|term pro:indef|one n|minus
+	n:prop|Y n|star n:let|m .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|5|SUBJ 5|3|CMOD 6|7|MOD 7|5|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|12|SUBJ 12|10|CMOD 13|16|DET 14|16|MOD
+	15|16|QUANT 16|12|OBJ 17|18|SUBJ 18|16|CMOD 19|18|JCT 20|23|DET 21|23|MOD
+	22|23|MOD 23|19|POBJ 24|23|CONJ 25|24|COORD 26|25|POBJ 27|28|SUBJ 28|12|CJCT
+	29|35|DET 30|31|MOD 31|35|MOD 32|35|MOD 33|35|MOD 34|35|MOD 35|28|OBJ
+	36|35|POSTMOD 37|1|PUNCT
+*S1:	which accounts for that diffusion induced convection .
+%mor:	pro:int|which n|account-PL prep|for det:dem|that n|diffusion
+	v|induce-PAST n|convection .
+%gra:	1|2|LINK 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*S1:	and that (.) what'd I call it ?
+%mor:	coord|and pro:dem|that pro:int|what~mod|genmod pro:sub|I v|call
+	pro:per|it ?
+%gra:	1|6|LINK 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*S1:	one minus y@l star m@l is +...
+%mor:	det:num|one n|minus n:let|y n|star n:let|m cop|be&3S +...
+%gra:	1|2|QUANT 2|6|SUBJ 3|6|COM 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*S1:	it's like a (.) log mean driving force kinda thing it's (.) one
+	minus y@l star +...
+%mor:	pro:per|it~cop|be&3S conj|like det:art|a n|log adj|mean
+	part|drive-PRESP n|force adv|kinda n|thing pro:per|it~cop|be&3S
+	pro:indef|one prep|minus n:let|y n|star +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|LINK 4|5|DET 5|8|MOD 6|8|MOD 7|8|MOD 8|2|PRED
+	9|10|JCT 10|8|OM 11|12|SUBJ 12|10|CMOD 13|12|PRED 14|13|NJCT 15|16|MOD
+	16|14|POBJ 17|2|PUNCT
+*S1:	minus one minus Y (.) over (.) LN (.) of (.) one minus y@l star (.)
+	over one minus Y .
+%mor:	prep|minus det:num|one n|minus n:prop|Y adv|over n:prop|LN prep|of
+	det:num|one n|minus n:let|y v|star adv|over pro:indef|one prep|minus
+	n:prop|Y .
+%gra:	1|11|JCT 2|3|QUANT 3|1|POBJ 4|3|APP 5|1|NJCT 6|5|POBJ 7|6|NJCT
+	8|9|QUANT 9|7|POBJ 10|11|SUBJ 11|0|ROOT 12|11|JCT 13|12|POBJ 14|13|NJCT
+	15|14|POBJ 16|11|PUNCT
+*S1:	alright (.) &a and I like to write it like this (.) you can also
+	just (.) simplify the top (.) which turns out to be (.) Y minus y@l
+	star (.) and then put that over LN of one minus y@l star (.) over
+	one minus Y .
+%mor:	co|alright coord|and pro:sub|I v|like inf|to v|write pro:per|it
+	v|like pro:dem|this pro:per|you mod|can adv|also adv|just v|simplify
+	det:art|the n|top pro:rel|which v|turn-3S adv|out inf|to cop|be
+	n:prop|Y n|minus n:let|y n|star coord|and adv:tem|then v|put&ZERO
+	pro:dem|that adv|over n:prop|LN prep|of det:num|one n|minus n:let|y
+	v|star adv|over pro:indef|one prep|minus n:prop|Y .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|6|COMP
+	9|8|OBJ 10|14|SUBJ 11|14|AUX 12|14|JCT 13|14|JCT 14|8|COMP 15|16|DET
+	16|14|OBJ 17|18|LINK 18|16|CMOD 19|18|JCT 20|21|INF 21|18|COMP 22|23|MOD
+	23|21|PRED 24|25|MOD 25|28|SUBJ 26|25|CONJ 27|26|COORD 28|23|CMOD 29|28|OBJ
+	30|28|JCT 31|30|POBJ 32|31|NJCT 33|34|QUANT 34|32|POBJ 35|36|SUBJ
+	36|28|COMP 37|36|JCT 38|37|POBJ 39|38|NJCT 40|39|POBJ 41|4|PUNCT
+*S1:	but to me (.) I can't remember where it comes from (.) whereas if I
+	just remember (.) <it's a> [/] it's a log mean thing (.) with a star
+	in there then I can remember how to write that down .
+%mor:	conj|but prep|to pro:obj|me pro:sub|I mod|can~neg|not v|remember
+	pro:int|where pro:per|it v|come-3S prep|from conj|whereas conj|if
+	pro:sub|I adv|just v|remember pro:per|it~cop|be&3S det:art|a n|log
+	adj|mean n|thing prep|with det:art|a n|star prep|in n|there
+	adv:tem|then pro:sub|I mod|can v|remember pro:int|how inf|to v|write
+	adv|that adv|down .
+%gra:	1|2|LINK 2|7|JCT 3|2|POBJ 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|10|LINK
+	9|10|SUBJ 10|7|ROOT 11|10|JCT 12|11|POBJ 13|16|LINK 14|16|SUBJ 15|16|JCT
+	16|10|ROOT 17|18|SUBJ 18|16|ROOT 19|20|DET 20|22|MOD 21|22|MOD
+	22|18|PRED 23|31|JCT 24|25|DET 25|31|SUBJ 26|25|NJCT 27|26|POBJ 28|31|JCT
+	29|31|SUBJ 30|31|AUX 31|22|ROOT 32|31|INCROOT 33|34|INF 34|32|COMP 35|36|JCT
+	36|34|JCT 37|32|PUNCT
+*S1:	(0.7) so what I'll do is depending on how I feel on Monday (.) go
+	into a little bit more detail on that term (.) this is actually what
+	you'll find in your book but it won't look like this .
+%mor:	co|so pro:int|what pro:sub|I~mod|will mod|do aux|be&3S
+	part|depend-PRESP prep|on pro:int|how pro:sub|I v|feel prep|on
+	n:prop|Monday v|go prep|into det:art|a adj|little n|bit adv|more
+	n|detail prep|on det:dem|that n|term pro:dem|this cop|be&3S
+	adv|actual&dadj-LY pro:int|what pro:per|you~mod|will v|find prep|in
+	det:poss|your n|book conj|but pro:per|it mod|will~neg|not co|look
+	co|like pro:dem|this .
+%gra:	1|7|COM 2|7|LINK 3|7|SUBJ 4|7|AUX 5|7|AUX 6|7|AUX 7|11|XJCT 8|7|JCT
+	9|8|POBJ 10|11|SUBJ 11|0|ROOT 12|14|JCT 13|14|SUBJ 14|25|CJCT 15|14|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|20|JCT 20|25|SUBJ 21|20|NJCT 22|23|DET
+	23|21|POBJ 24|25|SUBJ 25|11|COMP 26|30|JCT 27|30|LINK 28|30|SUBJ 29|30|AUX
+	30|25|CPRED 31|30|JCT 32|33|DET 33|31|POBJ 34|30|CONJ 35|38|SUBJ
+	36|38|AUX 37|36|NEG 38|40|COM 39|38|COM 40|34|COORD 41|11|PUNCT
+*S1:	I'm trying to get to where the book is (.) and I'm trying to make
+	that comparison (.) okay ?
+%mor:	pro:sub|I~aux|be&1S part|try-PRESP inf|to v|get prep|to
+	pro:int|where det:art|the n|book cop|be&3S coord|and
+	pro:sub|I~aux|be&1S part|try-PRESP inf|to v|make comp|that
+	n|comparison adj|okay ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|CPOBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CPRED 15|16|INF
+	16|14|COMP 17|16|OBJ 18|19|MOD 19|17|POSTMOD 20|3|PUNCT
+*S1:	is that a question or a (.) thank goodness we're done (.) back
+	there ?
+%mor:	cop|be&3S comp|that det:art|a n|question coord|or det:art|a v|thank
+	co|goodness pro:sub|we~aux|be&PRES part|do&PASTP adj|back adv|there
+	?
+%gra:	1|0|ROOT 2|11|LINK 3|4|DET 4|11|JCT 5|4|CONJ 6|7|DET 7|5|COORD 8|4|COM
+	9|11|SUBJ 10|11|AUX 11|1|CPRED 12|11|JCT 13|11|JCT 14|1|PUNCT
+*S1:	&=laughs:multiple yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S8:	since &-um the top .
+%mor:	conj|since det:art|the n|top .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*S1:	quiet please .
+%mor:	n|quiet v|please .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S8:	since the top of xxx dilute solution +/.
+%mor:	conj|since det:art|the n|top prep|of adj|dilute n|solution +/.
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|NJCT 5|6|MOD 6|4|POBJ 7|1|PUNCT
+*S1:	yes +/.
+%mor:	co|yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S8:	+, is the &-um three (.) the new equation is also gonna have DX [?]
+	?
+%mor:	cop|be&3S det:art|the det:num|three det:art|the adj|new
+	n|equate&dv-TION aux|be&3S adv|also part|go-PRESP~inf|to v|have
+	n:prop|DX ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|6|DET 5|6|MOD 6|9|SUBJ 7|9|AUX 8|9|JCT
+	9|3|XMOD 10|11|INF 11|9|COMP 12|11|OBJ 13|1|PUNCT
+*S1:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S8:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	yeah the (.) we have the dilute solution equation we have this
+	equation which you probably shouldn't use (.) unless there's a
+	reason like it's too complicated to do the full equation .
+%mor:	co|yeah det:art|the pro:sub|we v|have det:art|the adj|dilute
+	n|solution n|equate&dv-TION pro:sub|we v|have pro:dem|this
+	n|equate&dv-TION pro:rel|which pro:per|you adv|probable&dadj-LY
+	mod|should~neg|not v|use conj|unless pro:exist|there~cop|be&3S
+	det:art|a n|reason v|like pro:per|it~aux|be&3S adv|too
+	part|complicate-PASTP inf|to v|do det:art|the adj|full
+	n|equate&dv-TION .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|8|DET 6|7|MOD 7|8|MOD 8|4|OBJ
+	9|10|SUBJ 10|8|CMOD 11|12|DET 12|10|OBJ 13|14|LINK 14|18|SUBJ 15|18|JCT
+	16|18|AUX 17|16|NEG 18|12|CMOD 19|21|LINK 20|21|SUBJ 21|24|CJCT 22|23|DET
+	23|24|SUBJ 24|18|COMP 25|24|OBJ 26|28|AUX 27|28|JCT 28|24|XJCT 29|30|INF
+	30|28|COMP 31|33|DET 32|33|MOD 33|30|OBJ 34|4|PUNCT
+*S1:	and we have the full equation .
+%mor:	coord|and pro:sub|we v|have det:art|the adj|full n|equate&dv-TION .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*S1:	mkay ?
+%mor:	co|mkay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	this is the one (.) that we're gonna focus on +...
+%mor:	pro:dem|this cop|be&3S det:art|the det:num|one adv|that
+	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|focus adv|on +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|8|JCT 6|8|SUBJ 7|8|AUX 8|4|XMOD
+	9|10|INF 10|8|COMP 11|10|JCT 12|2|PUNCT
+*S1:	have a good weekend .
+%mor:	v|have det:art|a adj|good n|+n|week+n|end .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*S1:	have a tremendous (.) superior &-uh jejune (.) prosaic (.) wait
+	&=laughs I don't know what I'm talking about weekend .
+%mor:	v|have det:art|a adj|tremendous adj|superior adj|jejune adj|prosaic
+	v|wait pro:sub|I mod|do~neg|not v|know pro:int|what
+	pro:sub|I~aux|be&1S part|talk-PRESP prep|about n|+n|week+n|end .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|6|MOD 6|7|MOD 7|4|CMOD 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|4|CMOD 12|15|LINK 13|15|SUBJ 14|15|AUX 15|11|COMP
+	16|15|JCT 17|16|POBJ 18|1|PUNCT
+@End

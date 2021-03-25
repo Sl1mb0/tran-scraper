@@ -1,0 +1,3180 @@
+@UTF8
+@PID:	11312/a-00010158-1
+@Begin
+@Languages:	eng
+@Participants:	S1 Instructor Teacher, S2 Student Student, S3 Student
+	Student, S4 Student Student, S5 Student Student, S6 Student
+	Student, S7 Student Student, SS Unknown Unidentified
+@ID:	eng|MICASE|S1|36;|male|NS||Teacher|JF||
+@ID:	eng|MICASE|S2|20;|female|NS||Student|SU||
+@ID:	eng|MICASE|S3|20;|male|NS||Student|SU||
+@ID:	eng|MICASE|S4|20;|male|NS||Student|SU||
+@ID:	eng|MICASE|S5|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|S6|27;|female|NS||Student|SU||
+@ID:	eng|MICASE|S7|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|SS|||NS||Unidentified|UN||
+@Media:	lel175mu014, audio, unlinked
+@Date:	05-MAY-1998
+@Situation:	Lecture Hall, Chemistry Building
+*S1:	&=micase_recording_announcement that should help them &-uh train
+	TAs (.) train GSIs help people speak English as a second language .
+%mor:	adv|that mod|should v|help pro:obj|them n|train n:prop|TAs n|train
+	n:prop|GSIs co|help n|person&PL v|speak n:prop|English conj|as
+	det:art|a adj|second n|language .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|7|MOD 5|7|MOD 6|7|MOD 7|3|OBJ 8|7|APP
+	9|11|COM 10|11|SUBJ 11|7|CMOD 12|11|OBJ 13|16|COORD 14|16|DET 15|16|MOD
+	16|11|ENUM 17|3|PUNCT
+*S1:	so we'll see what comes out_of it maybe I'll speak good today .
+%mor:	adv|so pro:sub|we~mod|will v|see pro:int|what v|come-3S prep|out_of
+	pro:per|it adv|maybe pro:sub|I~mod|will v|speak adj|good
+	adv:tem|today .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|6|JCT 10|12|SUBJ 11|12|AUX 12|4|CJCT 13|12|JCT 14|13|JCT 15|4|PUNCT
+*S1:	&=laughs:multiple &-um okay +...
+%mor:	co|okay +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so let me get to my notes (.) so I've already introduced myself
+	I've been at the university three years I came here from the
+	University of Washington &-um and before that I went undergrad to
+	&-uh University of Minnesota so (.) I've always seen this as enemy
+	territory and (.) three years of cashing paychecks is (.) only
+	gradually wearing me down .
+%mor:	co|so v|let&ZERO pro:obj|me v|get prep|to det:poss|my n|note-PL
+	adv|so pro:sub|I~aux|have adv|already part|introduce-PASTP
+	pro:refl|myself pro:sub|I~aux|have cop|be&PASTP prep|at det:art|the
+	n|university det:num|three n|year-PL pro:sub|I v|come&PAST adv|here
+	prep|from det:art|the n:prop|University prep|of n:prop|Washington
+	coord|and adv|before adv|that pro:sub|I v|go&PAST under#n|grad
+	prep|to n:prop|University prep|of n:prop|Minnesota conj|so
+	pro:sub|I~aux|have adv|always part|see&PASTP det:dem|this adv|as
+	n|enemy n|territory coord|and det:num|three n|year-PL prep|of
+	part|cash-PRESP n|paycheck-PL aux|be&3S adv|only adv|gradual&dadj-LY
+	part|wear-PRESP pro:obj|me adv|down .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|12|JCT
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|2|XJCT 13|12|OBJ 14|16|SUBJ 15|16|AUX
+	16|12|COMP 17|23|JCT 18|19|DET 19|23|SUBJ 20|21|QUANT 21|23|JCT 22|23|SUBJ
+	23|16|CJCT 24|23|JCT 25|23|JCT 26|27|DET 27|25|POBJ 28|27|NJCT 29|28|POBJ
+	30|34|LINK 31|34|JCT 32|34|JCT 33|34|SUBJ 34|23|CJCT 35|34|OBJ
+	36|35|JCT 37|36|POBJ 38|37|NJCT 39|38|POBJ 40|44|LINK 41|44|SUBJ 42|44|AUX
+	43|44|JCT 44|34|CJCT 45|48|DET 46|48|COORD 47|48|MOD 48|44|OBJ 49|48|CONJ
+	50|49|COORD 51|48|ENUM 52|51|NJCT 53|52|POBJ 54|58|SUBJ 55|58|AUX 56|57|JCT
+	57|58|JCT 58|53|COMP 59|58|OBJ 60|58|JCT 61|2|PUNCT
+*S1:	&-um I will be the professor for <the whole> [/] &-uh the whole
+	term in this course that's different &-uh than we normally do it and
+	&-uh it'll be the first time in a while that one person has done the
+	whole course .
+%mor:	pro:sub|I mod|will cop|be det:art|the n|professor prep|for
+	det:art|the adj|whole n|term prep|in det:dem|this n|course
+	pro:rel|that~cop|be&3S adj|different prep|than pro:sub|we
+	adv|normal&dadj-LY v|do pro:per|it coord|and pro:per|it~mod|will
+	cop|be det:art|the adj|first n|time prep|in det:art|a n|while
+	det:dem|that det:num|one n|person aux|have&3S part|do&PASTP
+	det:art|the adj|whole n|course .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|14|LINK 14|12|CMOD 15|14|PRED
+	16|19|LINK 17|19|SUBJ 18|19|JCT 19|15|CMOD 20|19|OBJ 21|24|LINK 22|24|SUBJ
+	23|24|AUX 24|19|CJCT 25|27|DET 26|27|MOD 27|24|PRED 28|27|NJCT
+	29|30|DET 30|28|POBJ 31|33|DET 32|33|QUANT 33|35|SUBJ 34|35|AUX 35|27|XMOD
+	36|38|DET 37|38|MOD 38|35|OBJ 39|3|PUNCT
+*S1:	my own background is in microbiology and molecular biology which
+	means the first half of the course is sort_of my natural half of the
+	course that's what I've taught before .
+%mor:	det:poss|my adj|own n|background cop|be&3S prep|in micro#n|biology
+	coord|and adj|molecular n|biology pro:rel|which v|mean-3S
+	det:art|the adj|first n|half prep|of det:art|the n|course cop|be&3S
+	adv|sort_of det:poss|my adj|natural n|half prep|of det:art|the
+	n|course pro:rel|that~cop|be&3S pro:int|what pro:sub|I~aux|have
+	part|teach&PASTP adv|before .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|CONJ 8|9|MOD
+	9|7|COORD 10|11|LINK 11|4|CJCT 12|14|DET 13|14|MOD 14|18|SUBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|11|COMP 19|18|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|22|NJCT 24|25|DET 25|23|POBJ 26|27|LINK 27|25|CMOD 28|31|LINK
+	29|31|SUBJ 30|31|AUX 31|27|CPRED 32|31|JCT 33|4|PUNCT
+*S1:	when we get to the second half of the course (.) I'll be &-uh
+	sort_of winging it even more than I usually am .
+%mor:	conj|when pro:sub|we v|get prep|to det:art|the n|second n|half
+	prep|of det:art|the n|course pro:sub|I~mod|will cop|be adv|sort_of
+	part|wing-PRESP pro:per|it v|even qn|more prep|than pro:sub|I
+	adv|usual&dadj-LY cop|be&1S .
+%gra:	1|3|LINK 2|3|SUBJ 3|13|CJCT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|13|JCT 15|13|XJCT
+	16|17|SUBJ 17|15|COMP 18|19|QUANT 19|17|JCT 20|22|SUBJ 21|22|JCT
+	22|19|CPOBJ 23|13|PUNCT
+*S1:	so (.) we'll see how that goes in theory if you can learn (.)
+	evolution and ecology I should be able to learn it just as well and
+	teach it to you .
+%mor:	adv|so pro:sub|we~mod|will v|see pro:int|how pro:dem|that v|go-3S
+	adv|in n|theory conj|if pro:per|you mod|can v|learn n|evolution
+	coord|and n|ecology pro:sub|I mod|should cop|be adj|able inf|to
+	v|learn pro:per|it adv|just conj|as adv|well coord|and v|teach
+	pro:per|it prep|to pro:per|you .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|8|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|4|CJCT 14|13|OBJ 15|13|CONJ
+	16|15|COORD 17|19|SUBJ 18|19|AUX 19|16|CMOD 20|19|PRED 21|22|INF
+	22|20|XMOD 23|22|OBJ 24|25|JCT 25|28|LINK 26|28|JCT 27|28|LINK 28|22|CJCT
+	29|28|OBJ 30|28|JCT 31|30|POBJ 32|4|PUNCT
+*S1:	&-um luckily I've got four very good GSIs that are gonna help me
+	out this term all of them are experienced veterans and (.) it is one
+	of the pleasures of teaching in spring term (.) besides just having
+	a smaller class in general (.) that you get good veteran GSIs .
+%mor:	adv|luck&dadj-Y-LY pro:sub|I~aux|have part|get&PASTP det:num|four
+	adv|very adj|good n:prop|GSIs pro:rel|that aux|be&PRES
+	part|go-PRESP~inf|to v|help pro:obj|me adv|out det:dem|this n|term
+	adv|all prep|of pro:obj|them aux|be&PRES part|experience-PASTP
+	n|veteran-PL coord|and pro:per|it cop|be&3S det:num|one prep|of
+	det:art|the n|pleasure-PL prep|of n:gerund|teach-PRESP prep|in
+	n|spring n|term adv|besides adv|just part|have-PRESP det:art|a
+	adj|small-CP n|class prep|in adj|general comp|that pro:per|you v|get
+	adj|good n|veteran n:prop|GSIs .
+%gra:	1|0|INCROOT 2|4|SUBJ 3|4|AUX 4|1|CPOBJ 5|8|QUANT 6|7|JCT 7|8|MOD
+	8|4|OBJ 9|11|LINK 10|11|AUX 11|8|CMOD 12|13|INF 13|11|COMP 14|13|OBJ 15|13|JCT
+	16|17|DET 17|15|POBJ 18|22|JCT 19|18|JCT 20|19|POBJ 21|22|AUX
+	22|17|CMOD 23|22|OBJ 24|26|LINK 25|26|SUBJ 26|11|CJCT 27|26|PRED 28|27|NJCT
+	29|30|DET 30|28|POBJ 31|30|NJCT 32|31|POBJ 33|32|JCT 34|35|MOD 35|33|POBJ
+	36|32|JCT 37|38|JCT 38|32|XJCT 39|41|DET 40|41|MOD 41|38|OBJ 42|38|JCT
+	43|42|POBJ 44|46|LINK 45|46|SUBJ 46|43|CMOD 47|48|MOD 48|46|PRED 49|48|APP
+	50|1|PUNCT
+*S1:	so those four GSIs and we may add one more (.) are Tom Mills (.)
+	Sara Patel &-uh where is Mark and &-uh Katy .
+%mor:	co|so det:dem|those det:num|four n:prop|GSIs coord|and pro:sub|we
+	mod|may v|add det:num|one adv|more aux|be&PRES n:prop|Tom
+	n:prop|Mills n:prop|Sara n:prop|Patel pro:rel|where cop|be&3S
+	n:prop|Mark coord|and n:prop|Katy .
+%gra:	1|3|COM 2|3|DET 3|4|QUANT 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CJCT
+	9|8|OBJ 10|8|JCT 11|12|AUX 12|13|NAME 13|15|NAME 14|15|NAME 15|8|OBJ
+	16|17|LINK 17|15|CMOD 18|17|PRED 19|18|CONJ 20|19|COORD 21|4|PUNCT
+*S1:	Mark Lighter and Katy Kolowski (.) who is probably running late .
+%mor:	n:prop|Mark n:prop|Lighter coord|and n:prop|Katy n:prop|Kolowski
+	pro:rel|who aux|be&3S adv|probable&dadj-LY part|run-PRESP adv|late .
+%gra:	1|2|NAME 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|0|ROOT 6|9|LINK 7|9|AUX 8|9|JCT
+	9|5|CMOD 10|9|JCT 11|5|PUNCT
+*S1:	in any event one of them will be your GSIs but all of them will
+	have (.) office hours and hours in the Science Learning Center (.)
+	where they can help you &-uh understand what I am saying .
+%mor:	prep|in qn|any n|event det:num|one prep|of pro:obj|them mod|will
+	cop|be det:poss|your n:prop|GSIs conj|but pro:indef|all prep|of
+	pro:obj|them mod|will v|have n|office n|hour-PL coord|and n|hour-PL
+	prep|in det:art|the n:prop|Science n:prop|Learning n:prop|Center
+	pro:rel|where pro:sub|they mod|can v|help pro:per|you v|understand
+	pro:int|what pro:sub|I aux|be&1S part|say-PRESP .
+%gra:	1|8|LINK 2|3|QUANT 3|8|JCT 4|8|SUBJ 5|4|NJCT 6|5|POBJ 7|8|AUX 8|0|ROOT
+	9|10|DET 10|8|PRED 11|16|LINK 12|16|SUBJ 13|12|NJCT 14|13|POBJ 15|16|AUX
+	16|8|CJCT 17|18|MOD 18|16|OBJ 19|18|CONJ 20|19|COORD 21|16|JCT
+	22|23|DET 23|21|POBJ 24|25|NAME 25|16|CJCT 26|29|LINK 27|29|SUBJ 28|29|AUX
+	29|25|CMOD 30|31|SUBJ 31|29|COMP 32|35|LINK 33|35|SUBJ 34|35|AUX 35|31|COMP
+	36|8|PUNCT
+*S1:	okay &-um my office hours in fact I didn't put down there &-um but
+	they will basically be &=writes:board Mondays twelve to two or by
+	appointment +...
+%mor:	co|okay det:poss|my n|office n|hour-PL prep|in n|fact pro:sub|I
+	mod|do&PAST~neg|not v|put&ZERO prep|down n|there conj|but
+	pro:sub|they mod|will adv|basic&dadj-AL-LY cop|be n:prop|Mondays
+	det:num|twelve prep|to det:num|two coord|or adv|by n|appoint&dv-MENT
+	+...
+%gra:	1|3|COM 2|3|DET 3|4|MOD 4|10|JCT 5|4|NJCT 6|5|POBJ 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|0|ROOT 11|10|JCT 12|11|POBJ 13|17|LINK 14|17|SUBJ 15|17|AUX
+	16|17|JCT 17|10|CJCT 18|17|PRED 19|18|OM 20|19|JCT 21|24|QUANT 22|21|CONJ
+	23|22|COORD 24|20|POBJ 25|10|PUNCT
+*S1:	so (.) that puts it into the same time block as this class and if
+	that's a problem just call me up or (.) email me and set up a
+	separate appointment .
+%mor:	co|so pro:rel|that v|put-3S pro:per|it prep|into det:art|the
+	adj|same n|time n|block conj|as det:dem|this n|class coord|and
+	conj|if pro:dem|that~cop|be&3S det:art|a n|problem adj|just n|call
+	pro:obj|me adv|up coord|or n|email pro:obj|me coord|and v|set&ZERO
+	prep|up det:art|a adj|separate n|appoint&dv-MENT .
+%gra:	1|3|COM 2|3|LINK 3|0|ROOT 4|3|OBJ 5|3|JCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|3|JCT 11|12|DET 12|10|POBJ 13|12|CONJ 14|16|LINK 15|16|SUBJ
+	16|13|COORD 17|18|DET 18|16|PRED 19|20|MOD 20|18|CMOD 21|25|SUBJ 22|21|JCT
+	23|21|CONJ 24|23|COORD 25|20|OBJ 26|25|CONJ 27|26|COORD 28|27|JCT
+	29|31|DET 30|31|MOD 31|28|POBJ 32|3|PUNCT
+*S1:	okay what will you need for this class ?
+%mor:	co|okay pro:int|what mod|will pro:per|you v|need prep|for
+	det:dem|this n|class ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*S1:	you will need (.) <the textbook> [/] the textbook either comes as
+	three softcover &-uh editions like this or it comes as one hardcover
+	&-uh version (.) I don't care which you buy just make sure you buy
+	the one with the elephant on the cover .
+%mor:	pro:per|you mod|will v|need det:art|the n|textbook adv|either
+	v|come-3S adv|as det:num|three n|+n|soft+n|cover n|edition-PL
+	prep|like pro:dem|this coord|or pro:per|it v|come-3S adv|as
+	det:num|one n|+n|hard+n|cover n|version pro:sub|I mod|do~neg|not
+	n|care pro:rel|which pro:per|you v|buy adv|just v|make adj|sure
+	pro:per|you v|buy det:art|the det:num|one prep|with det:art|the
+	n|elephant prep|on det:art|the n|cover .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|JCT 7|3|CJCT 8|9|JCT
+	9|11|QUANT 10|11|MOD 11|7|OBJ 12|11|NJCT 13|12|POBJ 14|16|LINK 15|16|SUBJ
+	16|7|CJCT 17|19|COORD 18|19|QUANT 19|20|MOD 20|16|SUBJ 21|24|SUBJ
+	22|24|AUX 23|22|NEG 24|20|CMOD 25|27|LINK 26|27|SUBJ 27|16|COMP 28|29|JCT
+	29|27|COMP 30|29|PRED 31|32|SUBJ 32|30|CMOD 33|34|DET 34|32|OBJ 35|34|JCT
+	36|37|DET 37|35|POBJ 38|32|JCT 39|40|DET 40|38|POBJ 41|3|PUNCT
+*S1:	&-um this will be the same textbook that you use in Biology one
+	fifty four if you go on to take that course .
+%mor:	pro:dem|this mod|will cop|be det:art|the adj|same n|textbook
+	pro:rel|that pro:per|you v|use prep|in n:prop|Biology det:num|one
+	det:num|fifty det:num|four conj|if pro:per|you v|go adv|on inf|to
+	v|take det:dem|that n|course .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|JCT 11|14|DATE 12|14|DATE 13|14|DATE 14|10|POBJ 15|17|LINK
+	16|17|SUBJ 17|3|CJCT 18|17|JCT 19|20|INF 20|17|XJCT 21|22|DET 22|20|OBJ
+	23|3|PUNCT
+*S1:	&-um lab manual (.) is this one (.) that's the same one we've used
+	&-uh throughout the year so far (.) so it +//.
+%mor:	n|lab n|manual cop|be&3S det:dem|this pro:indef|one
+	pro:dem|that~cop|be&3S det:art|the adj|same pro:indef|one
+	pro:sub|we~aux|have part|use-PASTP prep|throughout det:art|the
+	n|year adv|so adj|far conj|so pro:per|it +//.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PUNCT 6|7|SUBJ 7|5|ROOT 8|10|DET
+	9|10|MOD 10|7|PRED 11|13|SUBJ 12|13|AUX 13|10|ROOT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|18|JCT 18|13|ROOT 19|20|LINK 20|18|INCROOT 21|20|PUNCT
+*S1:	there should be copies of that &-uh in bookstores &-uh you will
+	need that starting tomorrow when labs start .
+%mor:	adv|there mod|should cop|be n|copy-PL prep|of pro:dem|that prep|in
+	n|+n|book+n|store-PL pro:per|you mod|will v|need adv|that
+	part|start-PRESP adv:tem|tomorrow conj|when n|lab-PL v|start .
+%gra:	1|3|SUBJ 2|3|AUX 3|11|CJCT 4|3|PRED 5|4|NJCT 6|5|POBJ 7|3|JCT 8|7|POBJ
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|11|JCT 13|11|XJCT 14|13|JCT 15|17|LINK
+	16|17|SUBJ 17|13|CJCT 18|11|PUNCT
+*S1:	course pack is this thing that's available at Grade A Notes which
+	is upstairs &-uh in +//.
+%mor:	n|course n|pack cop|be&3S det:dem|this n|thing
+	pro:rel|that~cop|be&3S adj|avail&dv-ABLE prep|at n:prop|Grade
+	n:prop|A n:prop|Notes pro:rel|which cop|be&3S adj|upstairs adv|in
+	+//.
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|LINK 7|5|CMOD 8|7|PRED
+	9|7|JCT 10|9|POBJ 11|12|NAME 12|9|POBJ 13|14|LINK 14|12|CMOD 15|14|PRED
+	16|14|JCT 17|3|PUNCT
+*S1:	above Ulrich's on East U and South U they may have it downstairs on
+	the bookshelves too I'm not sure about that .
+%mor:	prep|above adj|Ulrich&dn-POSS prep|on n:prop|East n:prop|U
+	coord|and n:prop|South n:prop|U pro:sub|they mod|may v|have
+	pro:per|it adv|downstairs prep|on det:art|the n|+n|book+n|shelf&PL
+	adv|too pro:sub|I~cop|be&1S neg|not adv|sure prep|about pro:dem|that
+	.
+%gra:	1|2|JCT 2|11|CJCT 3|2|JCT 4|5|NAME 5|3|POBJ 6|2|CONJ 7|6|COORD 8|2|ENUM
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|11|OBJ 13|11|JCT 14|11|JCT 15|16|DET
+	16|14|POBJ 17|19|JCT 18|19|SUBJ 19|11|CJCT 20|19|NEG 21|19|JCT 22|21|JCT
+	23|22|POBJ 24|11|PUNCT
+*S1:	&-um what I have tried to do in the course pack is (.) put in &-uh
+	those figures that I'm going to use &-uh during my lectures that I
+	think would be helpful to you to have .
+%mor:	pro:int|what pro:sub|I aux|have part|try-PASTP inf|to v|do prep|in
+	det:art|the n|course n|pack aux|be&3S part|put&PASTP prep|in
+	det:dem|those n|figure-PL pro:rel|that pro:sub|I~aux|be&1S
+	part|go-PRESP prep|to n|use prep|during det:poss|my n|lecture-PL
+	pro:rel|that pro:sub|I v|think mod|will&COND cop|be adj|help&dn-FULL
+	prep|to pro:per|you inf|to v|have .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|12|SUBJ 5|6|INF 6|4|COMP 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|12|AUX 12|0|ROOT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|15|CMOD 20|19|JCT 21|20|POBJ 22|21|NJCT
+	23|24|DET 24|22|POBJ 25|27|LINK 26|27|SUBJ 27|24|CMOD 28|29|AUX
+	29|27|COMP 30|29|PRED 31|30|JCT 32|34|SUBJ 33|34|INF 34|31|CPOBJ 35|12|PUNCT
+*S1:	for example (.) when I show this figure in a_couple_of days I'm not
+	interested in having you guys spend three minutes taking a timeout
+	scratching all these little bonds in okay ?
+%mor:	prep|for ex#adj|ample conj|when pro:sub|I v|show det:dem|this
+	n|figure prep|in qn|a_couple_of n|day-PL pro:sub|I~aux|be&1S neg|not
+	part|interest-PASTP prep|in part|have-PRESP pro:per|you n|guy-PL
+	v|spend det:num|three n|minute-PL part|take-PRESP det:art|a
+	n|+v|time+prep|out part|scratch-PRESP qn|all det:dem|these
+	adj|little n|bond-PL prep|in adj|okay ?
+%gra:	1|14|JCT 2|1|POBJ 3|5|LINK 4|5|SUBJ 5|14|CJCT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|QUANT 10|8|POBJ 11|14|SUBJ 12|14|AUX 13|12|NEG 14|0|ROOT 15|14|JCT
+	16|15|POBJ 17|19|SUBJ 18|19|SUBJ 19|16|COMP 20|21|QUANT 21|19|OBJ
+	22|21|XMOD 23|24|DET 24|22|OBJ 25|24|XMOD 26|29|QUANT 27|29|DET 28|29|MOD
+	29|25|OBJ 30|29|NJCT 31|30|POBJ 32|14|PUNCT
+*S1:	so I've put that overhead in there (.) so you can just turn to that
+	page in the course pack and make your notes &-uh on that .
+%mor:	adv|so pro:sub|I~aux|have v|put&ZERO pro:dem|that adv|overhead
+	prep|in n|there conj|so pro:per|you mod|can adj|just n|turn prep|to
+	det:dem|that n|page prep|in det:art|the n|course n|pack coord|and
+	v|make det:poss|your n|note-PL prep|on pro:dem|that .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|7|POBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|13|MOD 13|4|OBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|13|NJCT 18|20|DET 19|20|MOD 20|17|POBJ 21|13|CONJ 22|21|COORD
+	23|24|DET 24|22|OBJ 25|22|JCT 26|25|POBJ 27|4|PUNCT
+*S1:	some of you will wanna use it like that some of you will just note
+	the figure number and go back to it later .
+%mor:	pro:indef|some prep|of pro:per|you mod|will v|want~inf|to v|use
+	pro:per|it co|like adv|that pro:indef|some prep|of pro:per|you
+	mod|will adj|just v|note det:art|the n|figure n|number coord|and
+	v|go adv|back prep|to pro:per|it adv|later .
+%gra:	1|5|SUBJ 2|1|NJCT 3|2|POBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|7|COM 10|16|JCT 11|16|SUBJ 12|11|NJCT 13|12|POBJ 14|16|AUX 15|16|JCT
+	16|7|COMP 17|19|DET 18|19|MOD 19|16|OBJ 20|16|CONJ 21|20|COORD 22|21|JCT
+	23|21|JCT 24|23|POBJ 25|21|JCT 26|5|PUNCT
+*S1:	I wouldn't say that this is a hundred percent necessary (.) it does
+	have all of the course policies in there +...
+%mor:	pro:sub|I mod|will&COND~neg|not v|say comp|that pro:dem|this
+	cop|be&3S det:art|a det:num|hundred n|percent adj|necessary
+	pro:per|it mod|do&3S v|have adv|all prep|of det:art|the n|course
+	n|policy-PL prep|in n|there +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|10|DET
+	9|10|QUANT 10|7|PRED 11|10|PRED 12|14|SUBJ 13|14|AUX 14|11|CMOD 15|16|JCT
+	16|14|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|19|NJCT 21|20|POBJ
+	22|4|PUNCT
+*S1:	but (.) mostly it's just figures that are already in your textbook
+	.
+%mor:	conj|but adv|mostly pro:per|it~cop|be&3S adj|just n|figure-PL
+	pro:rel|that cop|be&PRES adv|already prep|in det:poss|your
+	n|textbook .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|PRED 7|8|LINK 8|6|CMOD
+	9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*S1:	&-um and I will try and point out when a figure that I'm using up
+	here has an equivalent in the course pack although I tend to forget
+	those things .
+%mor:	coord|and pro:sub|I mod|will v|try coord|and v|point adv|out
+	conj|when det:art|a n|figure pro:rel|that pro:sub|I~aux|be&1S
+	part|use-PRESP prep|up n|here v|have&3S det:art|a n|equivalent
+	prep|in det:art|the n|course n|pack conj|although pro:sub|I v|tend
+	inf|to v|forget det:dem|those n|thing-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|JCT 8|17|LINK
+	9|10|DET 10|17|SUBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD
+	15|14|JCT 16|15|POBJ 17|6|CJCT 18|19|DET 19|17|OBJ 20|17|JCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|26|LINK 25|26|SUBJ 26|17|CJCT 27|28|INF 28|26|COMP
+	29|30|DET 30|28|OBJ 31|4|PUNCT
+*S1:	&-um and then (.) lastly (.) there may be listed <in the> [/] &-uh
+	in the bookstores an optional thing for either a CD or a video
+	called Sciren .
+%mor:	coord|and adv:tem|then adv|last&dadj-LY adv|there mod|may aux|be
+	part|list-PASTP prep|in det:art|the n|+n|book+n|store-PL det:art|a
+	adj|option&dn-AL n|thing prep|for coord|either det:art|a n:prop|CD
+	coord|or det:art|a n|video v|call-PAST n:prop|Sciren .
+%gra:	1|7|LINK 2|3|JCT 3|7|JCT 4|7|JCT 5|7|AUX 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|13|DET 12|13|MOD 13|7|OBJ 14|13|NJCT 15|14|CONJ
+	16|17|DET 17|15|COORD 18|21|LINK 19|20|DET 20|21|SUBJ 21|15|COORD 22|21|OBJ
+	23|7|PUNCT
+*S1:	what these are [/] are sort_of (.) a cartoon animations of (.)
+	several of the &im many of the important processes that we'll be
+	covering &-uh in particularly in the first half of this term .
+%mor:	pro:int|what det:dem|these cop|be&PRES adv|sort_of det:art|a
+	n|cartoon n|animate&dv-TION-PL prep|of qn|several prep|of
+	det:art|the qn|many prep|of det:art|the adj|important n|process-PL
+	comp|that pro:sub|we~mod|will aux|be part|cover-PRESP prep|in
+	adv|particular&dadj-LY prep|in det:art|the adj|first n|half prep|of
+	det:dem|this n|term .
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|7|NJCT
+	9|8|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|21|LINK 18|21|SUBJ 19|21|AUX 20|21|AUX 21|16|CMOD 22|21|JCT
+	23|22|POBJ 24|23|JCT 25|27|DET 26|27|MOD 27|24|POBJ 28|27|NJCT 29|30|DET
+	30|28|POBJ 31|3|PUNCT
+*S1:	so meiosis mitosis transcription translation DNA replication (.)
+	all those kinda things .
+%mor:	co|so n|meiosis n|mitosis n|transcription n|translate&dv-TION
+	n:prop|DNA n|replicate&dv-TION adv|all det:dem|those adv|kinda
+	n|thing-PL .
+%gra:	1|5|COM 2|5|MOD 3|5|MOD 4|5|MOD 5|7|MOD 6|7|MOD 7|0|ROOT 8|7|NJCT
+	9|11|DET 10|11|JCT 11|8|POBJ 12|7|PUNCT
+*S1:	for me personally I always found it was easier (.) rather than a
+	series of pictures if I actually had (.) sort_of a moving video that
+	showed these processes &-uh in process or you know as they move
+	along .
+%mor:	prep|for pro:obj|me adv|personal&dadj-LY pro:sub|I adv|always
+	v|find&PAST pro:per|it cop|be&PAST&13S adj|ease&dn-Y-CP adv|rather
+	prep|than det:art|a n|series prep|of n|picture-PL conj|if pro:sub|I
+	adv|actual&dadj-LY v|have&PAST adv|sort_of det:art|a part|move-PRESP
+	n|video pro:rel|that v|show-PAST det:dem|these n|process-PL prep|in
+	n|process coord|or pro:per|you v|know conj|as pro:sub|they v|move
+	adv|along .
+%gra:	1|0|INCROOT 2|1|POBJ 3|6|JCT 4|6|SUBJ 5|6|JCT 6|1|CPOBJ 7|8|SUBJ
+	8|6|COMP 9|8|PRED 10|9|JCT 11|9|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|19|LINK 17|19|SUBJ 18|19|JCT 19|8|CJCT 20|19|JCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|25|LINK 25|23|CMOD 26|27|DET 27|25|OBJ 28|25|JCT
+	29|28|POBJ 30|32|LINK 31|32|SUBJ 32|25|CJCT 33|35|LINK 34|35|SUBJ 35|32|COMP
+	36|35|JCT 37|1|PUNCT
+*S1:	I may or may not show clips from this video in class &-uh it just
+	depends on how ambitious I get .
+%mor:	pro:sub|I mod|may coord|or mod|may neg|not v|show n|clip-PL
+	prep|from det:dem|this n|video prep|in n|class pro:per|it adv|just
+	v|depend-3S prep|on pro:int|how adj|ambitious pro:sub|I v|get .
+%gra:	1|15|SUBJ 2|15|AUX 3|15|LINK 4|6|AUX 5|4|NEG 6|15|JCT 7|6|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|15|SUBJ 14|15|JCT 15|0|ROOT
+	16|15|JCT 17|18|JCT 18|20|PRED 19|20|SUBJ 20|16|CPOBJ 21|15|PUNCT
+*S1:	this would be an optional thing for you guys to buy if you think
+	it's helpful I forget the price I think it's (.) somewhere between
+	ten and twenty bucks (.) probably on the upper end of that .
+%mor:	pro:dem|this mod|will&COND cop|be det:art|a adj|option&dn-AL
+	n|thing prep|for pro:per|you n|guy-PL prep|to n|buy conj|if
+	pro:per|you v|think pro:per|it~cop|be&3S adj|help&dn-FULL pro:sub|I
+	v|forget det:art|the n|price pro:sub|I v|think pro:per|it~cop|be&3S
+	adv|somewhere prep|between det:num|ten coord|and det:num|twenty
+	n|buck-PL adv|probable&dadj-LY prep|on det:art|the adj|upper n|end
+	prep|of pro:dem|that .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|9|SUBJ
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|19|CJCT 15|16|SUBJ
+	16|14|COMP 17|16|PRED 18|19|SUBJ 19|3|CJCT 20|21|DET 21|19|OBJ
+	22|23|SUBJ 23|19|CJCT 24|25|SUBJ 25|23|COMP 26|25|JCT 27|25|JCT 28|27|POBJ
+	29|28|CONJ 30|31|QUANT 31|29|COORD 32|33|JCT 33|28|JCT 34|36|DET 35|36|MOD
+	36|33|POBJ 37|36|NJCT 38|37|POBJ 39|3|PUNCT
+*S1:	again &-um &-uh your choice whether to buy it let me know if this
+	is not in video &s &-uh <in the> [/] in the bookstores .
+%mor:	adv|again det:poss|your n|choice conj|whether inf|to v|buy
+	pro:per|it v|let&ZERO pro:obj|me v|know comp|if pro:dem|this
+	cop|be&3S neg|not prep|in n|video prep|in det:art|the
+	n|+n|book+n|store-PL .
+%gra:	1|4|JCT 2|3|DET 3|1|POBJ 4|6|LINK 5|6|INF 6|8|CJCT 7|6|OBJ 8|0|ROOT
+	9|8|OBJ 10|8|COMP 11|13|LINK 12|13|SUBJ 13|10|COMP 14|13|NEG 15|13|JCT
+	16|15|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|8|PUNCT
+*S1:	okay ⌈ and ⌉ .
+%mor:	co|okay coord|and .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S2:	⌊ will ⌋ it be on reserve ?
+%mor:	mod|will pro:per|it cop|be prep|on n|reserve ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*S1:	say that again .
+%mor:	v|say comp|that adv|again .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|1|PUNCT
+*S2:	will it be on reserve ?
+%mor:	mod|will pro:per|it cop|be prep|on n|reserve ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*S1:	&-um no I'm not putting it on reserve .
+%mor:	co|no pro:sub|I~aux|be&1S neg|not part|put-PRESP pro:per|it prep|on
+	n|reserve .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*S1:	&-um okay and (.) if you haven't already gotten familiar with the
+	Science Learning Center that's seventeen twenty chemistry &-uh the
+	GSIs will hold some of their office hours there (.) and I will put
+	&-uh copies of my (.) lecture outlines on reserve there (.) I will
+	also have them available on the web &-um I'll get to that in a
+	second &-uh so you can get it in either place .
+%mor:	co|okay coord|and conj|if pro:per|you aux|have~neg|not adv|already
+	part|get&PASTP adj|familiar prep|with det:art|the n:prop|Science
+	n:prop|Learning n:prop|Center pro:rel|that~cop|be&3S
+	det:num|seventeen det:num|twenty n|chemistry det:art|the n:prop|GSIs
+	mod|will n|hold qn|some prep|of det:poss|their n|office n|hour-PL
+	adv|there coord|and pro:sub|I mod|will v|put&ZERO n|copy-PL prep|of
+	det:poss|my n|lecture n|outline-PL prep|on n|reserve adv|there
+	pro:sub|I mod|will adv|also v|have pro:obj|them adj|avail&dv-ABLE
+	prep|on det:art|the n|web pro:sub|I~mod|will v|get inf|to adv|that
+	prep|in det:art|a adj|second co|so pro:per|you mod|can v|get
+	pro:per|it prep|in adv|either n|place .
+%gra:	1|0|INCROOT 2|1|CONJ 3|8|LINK 4|8|SUBJ 5|8|AUX 6|5|NEG 7|8|JCT
+	8|2|COORD 9|8|PRED 10|9|JCT 11|12|DET 12|13|NAME 13|10|POBJ 14|13|APP 15|16|LINK
+	16|14|CMOD 17|19|QUANT 18|19|QUANT 19|16|PRED 20|23|DET 21|23|SUBJ
+	22|23|AUX 23|19|ENUM 24|28|QUANT 25|24|NJCT 26|27|DET 27|25|POBJ 28|23|OBJ
+	29|28|NJCT 30|33|LINK 31|33|SUBJ 32|33|AUX 33|29|CJCT 34|33|OBJ
+	35|34|NJCT 36|37|DET 37|38|MOD 38|35|POBJ 39|33|JCT 40|39|POBJ 41|33|JCT
+	42|45|SUBJ 43|45|AUX 44|45|JCT 45|33|CJCT 46|53|SUBJ 47|53|JCT 48|47|JCT
+	49|50|DET 50|48|POBJ 51|53|SUBJ 52|53|AUX 53|45|COMP 54|55|INF 55|62|JCT
+	56|55|JCT 57|58|DET 58|56|POBJ 59|62|COM 60|62|SUBJ 61|62|AUX 62|53|COMP
+	63|62|OBJ 64|62|JCT 65|66|JCT 66|64|POBJ 67|1|PUNCT
+*S1:	okay &-um more administrative stuff lectures (.) six times fifty
+	minutes a week .
+%mor:	co|okay adv|more adj|administrative n|stuff v|lecture-3S
+	det:num|six n|time-PL det:num|fifty n|minute-PL det:art|a n|week .
+%gra:	1|4|COM 2|3|JCT 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|9|QUANT
+	9|7|ENUM 10|11|DET 11|9|OBJ 12|5|PUNCT
+*S1:	&-um I know it's three two hour blocks .
+%mor:	pro:sub|I v|know pro:per|it~cop|be&3S det:num|three det:num|two
+	n|hour n|block-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|8|QUANT 6|7|QUANT 7|8|MOD
+	8|4|PRED 9|2|PUNCT
+*S1:	I will treat them as if they were six different lectures .
+%mor:	pro:sub|I mod|will v|treat pro:obj|them adv|as conj|if pro:sub|they
+	cop|be&PAST det:num|six adj|different n|lecture-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|11|QUANT 10|11|MOD 11|8|PRED 12|3|PUNCT
+*S1:	I will (.) try and give a five to ten minute break in between .
+%mor:	pro:sub|I mod|will v|try coord|and v|give det:art|a det:num|five
+	prep|to det:num|ten adj|minute n|break adv|in prep|between .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|CONJ 5|4|COORD 6|7|DET 7|5|OBJ 8|5|JCT
+	9|11|QUANT 10|11|MOD 11|8|POBJ 12|13|JCT 13|11|NJCT 14|3|PUNCT
+*S1:	&-um I'm not always good about timing things so that the break
+	comes exactly halfway through the period .
+%mor:	pro:sub|I~cop|be&1S neg|not adv|always adj|good prep|about
+	part|time-PRESP n|thing-PL conj|so comp|that det:art|the n|break
+	v|come-3S adv|exact&dadj-LY adv|+adj|half+n|way adj|through
+	det:art|the n|period .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|JCT 6|2|JCT 7|6|POBJ 8|7|OBJ
+	9|2|PRED 10|13|LINK 11|12|DET 12|13|SUBJ 13|9|CMOD 14|13|JCT 15|13|JCT
+	16|18|MOD 17|18|DET 18|13|OBJ 19|2|PUNCT
+*S1:	&-um sometimes it will come (.) you know at fifty five past the
+	hour .
+%mor:	adv|sometimes pro:per|it mod|will v|come pro:per|you v|know prep|at
+	det:num|fifty det:num|five adj|past det:art|the n|hour .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT 8|12|QUANT
+	9|10|QUANT 10|12|MOD 11|12|DET 12|7|POBJ 13|4|PUNCT
+*S1:	more often I will run long in the first lecture (.) and it'll come
+	at five after but I will give you a break at [/] at some point or
+	another .
+%mor:	adv|more adv|often pro:sub|I mod|will v|run adv|long prep|in
+	det:art|the adj|first n|lecture coord|and pro:per|it~mod|will v|come
+	prep|at det:num|five prep|after conj|but pro:sub|I mod|will v|give
+	pro:per|you det:art|a n|break prep|at qn|some n|point coord|or
+	qn|another .
+%gra:	1|2|JCT 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|5|CJCT 15|14|JCT
+	16|15|POBJ 17|14|JCT 18|21|LINK 19|21|SUBJ 20|21|AUX 21|17|CPOBJ 22|21|OBJ2
+	23|24|DET 24|21|OBJ 25|24|NJCT 26|27|QUANT 27|25|POBJ 28|24|CONJ
+	29|28|COORD 30|5|PUNCT
+*S1:	&-uh it gives you guys a chance to come up and ask questions
+	stretch your legs get a smoke whatever .
+%mor:	pro:per|it v|give-3S pro:per|you n|guy-PL det:art|a n|chance inf|to
+	v|come adv|up coord|and v|ask n|question-PL v|stretch det:poss|your
+	n|leg-PL v|get det:art|a n|smoke pro:int|whatever .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|OBJ 5|6|DET 6|4|OBJ 7|8|INF 8|6|XMOD
+	9|8|JCT 10|8|CONJ 11|10|COORD 12|13|SUBJ 13|11|COMP 14|15|DET 15|16|SUBJ
+	16|13|COMP 17|18|DET 18|16|OBJ 19|18|POSTMOD 20|2|PUNCT
+*S1:	&-um you all get fidgety after an hour of listening to me .
+%mor:	pro:per|you adv|all v|get adj|fidget&dv-Y prep|after det:art|a
+	n|hour prep|of n:gerund|listen-PRESP prep|to pro:obj|me .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|9|JCT 11|10|POBJ 12|3|PUNCT
+*S1:	&-um as far as (.) the web goes I will put &-um outlines of my
+	stuff on the web &-um I'm not a big fan of giving you complete notes
+	either on reserve or on the web (.) so this is as detailed as it
+	will get in terms of what I'm going to give you .
+%mor:	prep|as adv|far conj|as det:art|the n|web v|go-3S pro:sub|I
+	mod|will v|put&ZERO n|outline-PL prep|of det:poss|my n|stuff prep|on
+	det:art|the n|web pro:sub|I~cop|be&1S neg|not det:art|a adj|big
+	n|fan prep|of part|give-PRESP pro:per|you adj|complete n|note-PL
+	adv|either prep|on n|reserve coord|or prep|on det:art|the n|web
+	adv|so pro:dem|this cop|be&3S prep|as part|detail-PASTP prep|as
+	pro:per|it mod|will v|get prep|in n|term-PL prep|of pro:int|what
+	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give pro:per|you .
+%gra:	1|2|COORD 2|6|JCT 3|5|COORD 4|5|DET 5|6|SUBJ 6|0|ROOT 7|9|SUBJ 8|9|AUX
+	9|6|COMP 10|9|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|9|JCT 15|16|DET
+	16|14|POBJ 17|18|SUBJ 18|6|CJCT 19|18|NEG 20|22|DET 21|22|MOD 22|18|PRED
+	23|22|NJCT 24|23|POBJ 25|27|SUBJ 26|27|MOD 27|39|JCT 28|27|NJCT 29|28|JCT
+	30|29|POBJ 31|27|CONJ 32|31|JCT 33|34|DET 34|32|POBJ 35|36|JCT
+	36|31|COORD 37|39|AUX 38|39|COORD 39|24|COMP 40|43|COORD 41|43|SUBJ 42|43|AUX
+	43|39|COMP 44|43|JCT 45|44|POBJ 46|45|NJCT 47|50|LINK 48|50|SUBJ 49|50|AUX
+	50|46|CPOBJ 51|52|INF 52|50|COMP 53|52|OBJ 54|6|PUNCT
+*S1:	that web address you can get to through the Department of Biology
+	homepage (.) but here is the direct (.) long link for it (.)
+	&=writing_on_overhead (0.24) I think this is also in +//.
+%mor:	det:dem|that n|web n|address pro:per|you mod|can v|get prep|to
+	adj|through det:art|the n:prop|Department prep|of n:prop|Biology
+	n|+n|home+n|page conj|but pro:exist|here cop|be&3S det:art|the
+	adj|direct adj|long n|link prep|for pro:per|it pro:sub|I v|think
+	det:dem|this aux|be&3S adv|also adv|in +//.
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|6|JCT 8|13|MOD
+	9|10|DET 10|13|MOD 11|10|NJCT 12|11|POBJ 13|7|POBJ 14|16|LINK 15|16|SUBJ
+	16|24|CJCT 17|20|DET 18|20|MOD 19|20|MOD 20|16|PRED 21|20|NJCT
+	22|21|POBJ 23|24|SUBJ 24|6|CJCT 25|28|DET 26|28|AUX 27|28|JCT 28|24|JCT
+	29|3|PUNCT
+*S1:	if I was smart I put this in your &-uh course policies in the
+	course pack .
+%mor:	conj|if pro:sub|I cop|be&PAST&13S adj|smart pro:sub|I v|put&ZERO
+	pro:dem|this prep|in det:poss|your n|course n|policy-PL prep|in
+	det:art|the n|course n|pack .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|CJCT 4|3|PRED 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|NJCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|6|PUNCT
+*S1:	but I may not &-um actually that period isn't there .
+%mor:	conj|but pro:sub|I mod|may neg|not adv|actual&dadj-LY pro:dem|that
+	n|period cop|be&3S~neg|not adv|there .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|8|JCT 6|7|DET 7|8|SUBJ 8|0|ROOT
+	9|8|NEG 10|8|JCT 11|8|PUNCT
+*S1:	&=erases_period_on_overhead (0.11) okay looks like I was not smart
+	so (.) you better copy this down (.) or browse to it (.) through the
+	department's homepage .
+%mor:	co|okay v|look-3S conj|like pro:sub|I cop|be&PAST&13S neg|not
+	v|smart conj|so pro:per|you adj|good&CP v|copy pro:dem|this adv|down
+	coord|or v|browse prep|to pro:per|it prep|through det:art|the
+	adj|department&dn-POSS n|+n|home+n|page .
+%gra:	1|2|COM 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|7|CJCT 6|5|NEG 7|2|COMP 8|11|LINK
+	9|11|SUBJ 10|11|JCT 11|2|CJCT 12|11|OBJ 13|11|JCT 14|11|CONJ 15|14|COORD
+	16|15|JCT 17|16|POBJ 18|15|JCT 19|21|DET 20|21|MOD 21|18|POBJ
+	22|2|PUNCT
+*S1:	&-um I already have the first two weeks worth of outlines there
+	basically everything up until the first exam (.) and I have the
+	three exams that were given in the spring term version of this
+	course last spring up there .
+%mor:	pro:sub|I adv|already v|have det:art|the adj|first det:num|two
+	n|week-PL n|worth prep|of n|outline-PL adv|there
+	adv|basic&dadj-AL-LY pro:indef|everything adv|up prep|until
+	det:art|the adj|first n|exam coord|and pro:sub|I v|have det:art|the
+	det:num|three n|exam-PL pro:rel|that aux|be&PAST part|give&PASTP
+	prep|in det:art|the n|spring n|term n|version prep|of det:dem|this
+	n|course adj|last n|spring prep|up n|there .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|8|DET 5|8|MOD 6|7|QUANT 7|8|MOD 8|3|OBJ
+	9|8|NJCT 10|9|POBJ 11|3|JCT 12|3|JCT 13|12|POBJ 14|13|NJCT 15|13|NJCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|21|LINK 20|21|SUBJ 21|18|CMOD 22|24|DET
+	23|24|QUANT 24|21|OBJ 25|27|LINK 26|27|AUX 27|24|CMOD 28|27|JCT 29|32|DET
+	30|32|MOD 31|32|MOD 32|28|POBJ 33|32|NJCT 34|35|DET 35|33|POBJ 36|37|MOD
+	37|32|APP 38|37|NJCT 39|38|POBJ 40|3|PUNCT
+*S1:	so if you want old exams &-um those are available there too .
+%mor:	adv|so conj|if pro:per|you v|want adj|old n|exam-PL pro:dem|those
+	cop|be&PRES adj|avail&dv-ABLE adv|there adv|too .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|8|SUBJ 8|6|CMOD
+	9|8|PRED 10|8|JCT 11|8|JCT 12|4|PUNCT
+*S1:	and I think (.) after we give the first exam I'll put up all the
+	stuff leading up until the second exam &-um that's all easy because
+	that's the part of the course I've done before (.) I probably will
+	get farther behind in the last part of the course .
+%mor:	coord|and pro:sub|I v|think prep|after pro:sub|we v|give
+	det:art|the adj|first n|exam pro:sub|I~mod|will v|put&ZERO adv|up
+	adv|all det:art|the n|stuff part|lead-PRESP adv|up prep|until
+	det:art|the adj|second n|exam pro:rel|that~cop|be&3S adv|all
+	adj|ease&dn-Y conj|because pro:rel|that~cop|be&3S det:art|the n|part
+	prep|of det:art|the n|course pro:sub|I~aux|have part|do&PASTP
+	prep|before pro:sub|I adv|probable&dadj-LY mod|will v|get adj|far-CP
+	adv|behind prep|in det:art|the adj|last n|part prep|of det:art|the
+	n|course .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|SUBJ 6|12|CJCT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|12|SUBJ 11|12|AUX 12|3|COMP 13|12|JCT 14|16|JCT 15|16|DET
+	16|12|OBJ 17|16|XMOD 18|17|JCT 19|17|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|24|LINK 24|22|CMOD 25|26|JCT 26|24|PRED 27|3|JCT 28|29|LINK 29|27|CMOD
+	30|31|DET 31|29|PRED 32|31|NJCT 33|34|DET 34|32|POBJ 35|37|SUBJ 36|37|AUX
+	37|31|CMOD 38|42|LINK 39|42|SUBJ 40|42|JCT 41|42|AUX 42|37|CJCT
+	43|42|PRED 44|43|JCT 45|43|JCT 46|48|DET 47|48|MOD 48|45|POBJ 49|48|NJCT
+	50|51|DET 51|49|POBJ 52|3|PUNCT
+*S1:	so for now there's a bonanza of stuff there .
+%mor:	adv|so prep|for adv|now pro:exist|there~cop|be&3S det:art|a
+	n|bonanza prep|of n|stuff adv|there .
+%gra:	1|2|JCT 2|0|INCROOT 3|5|JCT 4|5|SUBJ 5|2|CPOBJ 6|7|DET 7|5|PRED
+	8|7|NJCT 9|8|POBJ 10|7|JCT 11|2|PUNCT
+*S1:	&-um okay labs start tomorrow the schedule's in the course pack
+	&-um lab is worth (.) &=writing_on_overhead one hundred points in
+	the class (.) there will be three exams (.) that are each (.) one
+	hundred points (.) so the net sum of that is that there's four
+	hundred points in the class (.) and lab counts one quarter (.) of
+	that .
+%mor:	co|okay n|lab-PL v|start adv:tem|tomorrow det:art|the
+	n|schedule~cop|be&3S prep|in det:art|the n|course n|pack n|lab
+	cop|be&3S adj|worth det:num|one det:num|hundred n|point-PL prep|in
+	det:art|the n|class adv|there mod|will cop|be det:num|three
+	n|exam-PL pro:rel|that cop|be&PRES qn|each det:num|one
+	det:num|hundred n|point-PL conj|so det:art|the adj|net n|sum prep|of
+	pro:dem|that cop|be&3S comp|that pro:exist|there~cop|be&3S
+	det:num|four det:num|hundred n|point-PL prep|in det:art|the n|class
+	coord|and n|lab v|count-3S det:num|one n|quarter prep|of
+	pro:dem|that .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|JCT 5|6|DET 6|7|SUBJ 7|3|COMP 8|13|JCT
+	9|11|DET 10|11|MOD 11|12|MOD 12|13|SUBJ 13|7|CJCT 14|17|MOD 15|17|QUANT
+	16|17|QUANT 17|13|PRED 18|17|NJCT 19|20|DET 20|18|POBJ 21|23|SUBJ
+	22|23|AUX 23|17|CMOD 24|25|QUANT 25|23|PRED 26|27|LINK 27|25|CMOD 28|31|QUANT
+	29|31|QUANT 30|31|QUANT 31|27|PRED 32|38|LINK 33|35|DET 34|35|MOD
+	35|38|SUBJ 36|35|NJCT 37|36|POBJ 38|27|CJCT 39|41|LINK 40|41|SUBJ 41|38|PRED
+	42|44|QUANT 43|44|QUANT 44|41|PRED 45|44|NJCT 46|47|DET 47|45|POBJ
+	48|44|CONJ 49|48|COORD 50|44|ENUM 51|52|QUANT 52|50|OBJ 53|52|NJCT 54|53|POBJ
+	55|3|PUNCT
+*S1:	your GSIs will tell you how they're gonna break up lab points and
+	it will be slightly different from one GSI to the next .
+%mor:	det:poss|your n:prop|GSIs mod|will v|tell pro:per|you pro:int|how
+	pro:sub|they~aux|be&PRES part|go-PRESP~inf|to v|break adv|up n|lab
+	n|point-PL coord|and pro:per|it mod|will cop|be adv|slight&dadj-LY
+	adj|different prep|from det:num|one n:prop|GSI prep|to det:art|the
+	adj|next .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|COMP 10|11|INF 11|9|COMP 12|11|JCT 13|14|MOD 14|12|POBJ 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|11|CJCT 19|20|JCT 20|18|PRED 21|20|JCT 22|23|QUANT
+	23|21|POBJ 24|20|JCT 25|26|DET 26|24|POBJ 27|4|PUNCT
+*S1:	the exams are (.) &=writing_on_overhead Monday (.) May (.) eighteen
+	seven to nine PM (.) this definitely is in the course pack and up on
+	the web (.) Monday (.) June (.) eight (.) seven to nine PM (.) and
+	(.) the final or the last exam is Monday (.) June (.) twenty two (.)
+	from eight to ten AM .
+%mor:	det:art|the n|exam-PL cop|be&PRES n:prop|Monday n:prop|May
+	det:num|eighteen det:num|seven prep|to det:num|nine n:prop|PM
+	pro:dem|this adv|definite&dadj-LY aux|be&3S prep|in det:art|the
+	n|course n|pack coord|and adv|up prep|on det:art|the n|web
+	n:prop|Monday n:prop|June det:num|eight det:num|seven prep|to
+	det:num|nine n:prop|PM coord|and det:art|the n|final coord|or
+	det:art|the adj|last n|exam cop|be&3S n:prop|Monday n:prop|June
+	det:num|twenty det:num|two prep|from det:num|eight prep|to
+	det:num|ten n:prop|AM .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|SUBJ 6|7|QUANT 7|11|QUANT
+	8|7|JCT 9|10|QUANT 10|8|POBJ 11|4|OBJ 12|11|JCT 13|12|POBJ 14|13|NJCT
+	15|17|DET 16|17|MOD 17|14|POBJ 18|37|LINK 19|37|JCT 20|19|JCT 21|22|DET
+	22|20|POBJ 23|24|NAME 24|37|SUBJ 25|26|QUANT 26|24|OBJ 27|26|JCT 28|29|QUANT
+	29|27|POBJ 30|26|CONJ 31|32|DET 32|30|COORD 33|24|CONJ 34|36|DET 35|36|MOD
+	36|33|COORD 37|14|POBJ 38|37|PRED 39|38|CONJ 40|41|QUANT 41|39|COORD
+	42|41|JCT 43|42|POBJ 44|43|NJCT 45|46|QUANT 46|44|POBJ 47|3|PUNCT
+*S1:	I don't make these decisions they just tell me when it is and
+	that's when our final is scheduled .
+%mor:	pro:sub|I mod|do~neg|not v|make det:dem|these n|decision-PL
+	pro:sub|they adv|just v|tell pro:obj|me conj|when pro:per|it
+	cop|be&3S coord|and pro:dem|that~cop|be&3S conj|when det:poss|our
+	n|final aux|be&3S part|schedule-PASTP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|SUBJ 8|9|JCT
+	9|6|CMOD 10|9|OBJ 11|13|LINK 12|13|SUBJ 13|4|CJCT 14|16|LINK 15|16|SUBJ
+	16|13|CJCT 17|21|LINK 18|19|DET 19|21|SUBJ 20|21|AUX 21|16|CJCT 22|4|PUNCT
+*S1:	&-um none of the exams will be comprehensive so (.) once I tell you
+	that (.) this material is on this exam it won't appear on any other
+	exams of_course &-uh some of the topics are +...
+%mor:	pro:indef|none prep|of det:art|the n|exam-PL mod|will cop|be
+	adj|comprehensive adv|so adv|once pro:sub|I v|tell pro:per|you
+	adv|that det:dem|this adj|material cop|be&3S prep|on det:dem|this
+	n|exam pro:per|it mod|will~neg|not v|appear prep|on qn|any qn|other
+	n|exam-PL co|of_course pro:indef|some prep|of det:art|the n|topic-PL
+	cop|be&PRES +...
+%gra:	1|6|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|6|AUX 6|0|ROOT 7|6|PRED 8|9|JCT
+	9|7|JCT 10|11|SUBJ 11|6|CJCT 12|16|SUBJ 13|16|JCT 14|16|DET 15|16|SUBJ
+	16|11|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|23|SUBJ 21|23|AUX 22|21|NEG
+	23|16|CPRED 24|23|JCT 25|27|QUANT 26|27|QUANT 27|24|POBJ 28|33|COM
+	29|33|SUBJ 30|29|NJCT 31|32|DET 32|30|POBJ 33|23|CJCT 34|6|PUNCT
+*S1:	by their nature build on earlier stuff .
+%mor:	prep|by det:poss|their n|nature v|build adv|on adj|early-CP n|stuff
+	.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*S1:	okay &-um one other thing about <the exams> [/] the exams will be
+	&-uh &=writing_on_overhead seventy five (.) points (.) worth of
+	multiple choice .
+%mor:	co|okay det:num|one qn|other n|thing prep|about det:art|the
+	n|exam-PL mod|will cop|be det:num|seventy det:num|five n|point-PL
+	n|worth prep|of adj|multiple n|choice .
+%gra:	1|2|COM 2|4|QUANT 3|4|QUANT 4|9|SUBJ 5|9|JCT 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|13|QUANT 11|12|QUANT 12|13|MOD 13|9|PRED 14|13|NJCT 15|16|MOD
+	16|14|POBJ 17|9|PUNCT
+*S1:	and I think that [/] that's likely to be twenty five three point
+	questions .
+%mor:	coord|and pro:sub|I v|think pro:dem|that~cop|be&3S adv|likely
+	inf|to cop|be det:num|twenty det:num|five det:num|three n|point
+	n|question-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|8|INF 8|6|COMP
+	9|13|QUANT 10|11|DATE 11|12|QUANT 12|13|MOD 13|8|PRED 14|3|PUNCT
+*S1:	and there're gonna be twenty five points of short answer (.) and
+	that's likely to be five [/] five point questions .
+%mor:	coord|and pro:exist|there~aux|be&PRES part|go-PRESP~inf|to cop|be
+	det:num|twenty det:num|five n|point-PL prep|of adj|short n|answer
+	coord|and pro:dem|that~cop|be&3S adv|likely inf|to cop|be
+	det:num|five n|point n|question-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|9|QUANT 8|9|QUANT
+	9|6|PRED 10|9|NJCT 11|12|MOD 12|10|POBJ 13|15|LINK 14|15|SUBJ 15|4|CJCT
+	16|15|JCT 17|18|INF 18|16|COMP 19|20|QUANT 20|21|MOD 21|18|PRED
+	22|4|PUNCT
+*S1:	(0.4) one thing about my exams people don't like them .
+%mor:	det:num|one n|thing prep|about det:poss|my n|exam-PL n|person&PL
+	mod|do~neg|not v|like pro:obj|them .
+%gra:	1|2|QUANT 2|9|SUBJ 3|9|JCT 4|5|DET 5|3|POBJ 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|0|ROOT 10|9|OBJ 11|9|PUNCT
+*S1:	they're hard .
+%mor:	pro:sub|they~cop|be&PRES adv|hard .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*S1:	&-um what I try and do is make the multiple choice (.) easy and
+	medium (.) .
+%mor:	pro:int|what pro:sub|I v|try coord|and v|do cop|be&3S v|make
+	det:art|the adj|multiple n|choice adj|ease&dn-Y coord|and adj|medium
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|7|SUBJ 4|3|CONJ 5|4|COORD 6|7|AUX 7|0|ROOT 8|10|DET
+	9|10|MOD 10|7|OBJ 11|10|POSTMOD 12|11|CONJ 13|12|COORD 14|7|PUNCT
+*S1:	and I make the short answers medium and hard .
+%mor:	coord|and pro:sub|I v|make det:art|the adj|short n|answer-PL
+	n|medium coord|and adv|hard .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|MOD 6|7|MOD 7|3|OBJ 8|7|CONJ
+	9|8|COORD 10|3|PUNCT
+*S1:	&-um my feeling is that &-uh in_order_to get an A or what I think
+	of as an A student .
+%mor:	det:poss|my n:gerund|feel-PRESP cop|be&3S pro:dem|that
+	inf|in_order_to v|get det:art|a n:prop|A coord|or pro:int|what
+	pro:sub|I v|think prep|of prep|as det:art|a n:prop|A n|student .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|8|DET 8|6|OBJ
+	9|6|CONJ 10|12|LINK 11|12|SUBJ 12|9|COORD 13|12|JCT 14|12|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|3|PUNCT
+*S1:	I think of that as somebody who can take one fact I've said and
+	another fact I've said and put them together and reach a conclusion
+	that I haven't said .
+%mor:	pro:sub|I v|think prep|of pro:dem|that prep|as pro:indef|somebody
+	pro:rel|who mod|can v|take det:num|one n|fact pro:sub|I~aux|have
+	part|say&PASTP coord|and qn|another n|fact pro:sub|I~aux|have
+	part|say&PASTP coord|and v|put&ZERO pro:obj|them adv|together
+	coord|and v|reach det:art|a n|conclusion pro:rel|that pro:sub|I
+	aux|have~neg|not part|say&PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|5|POBJ 7|9|LINK 8|9|AUX
+	9|6|CMOD 10|11|QUANT 11|9|OBJ 12|14|SUBJ 13|14|AUX 14|2|CJCT 15|14|CONJ
+	16|17|QUANT 17|15|COORD 18|20|SUBJ 19|20|AUX 20|17|CMOD 21|14|CONJ
+	22|21|COORD 23|22|OBJ 24|22|JCT 25|2|CONJ 26|25|COORD 27|28|DET 28|26|OBJ
+	29|33|LINK 30|33|SUBJ 31|33|AUX 32|31|NEG 33|28|CMOD 34|2|PUNCT
+*S1:	so I will definitely put things particularly in the short answer
+	questions that you haven't seen before (.) that I haven't talked
+	about (.) that probably are not in the book .
+%mor:	co|so pro:sub|I mod|will adv|definite&dadj-LY part|put&PASTP
+	n|thing-PL adv|particular&dadj-LY prep|in det:art|the adj|short
+	n|answer v|question-3S comp|that pro:per|you aux|have~neg|not
+	part|see&PASTP adv|before adv|that pro:sub|I aux|have~neg|not
+	part|talk-PASTP prep|about pro:dem|that adv|probable&dadj-LY
+	aux|be&PRES neg|not prep|in det:art|the n|book .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|5|PUNCT 13|17|LINK 14|17|SUBJ 15|17|AUX
+	16|15|NEG 17|12|COMP 18|17|JCT 19|17|JCT 20|23|SUBJ 21|23|AUX 22|21|NEG
+	23|12|COMP 24|23|JCT 25|24|POBJ 26|23|JCT 27|26|INCROOT 28|27|NEG 29|27|JCT
+	30|31|DET 31|29|POBJ 32|27|PUNCT
+*S1:	and hopefully I will have given you all the ingredients to come up
+	with the answers to those questions .
+%mor:	coord|and adv|hope&dadj-FULL-LY pro:sub|I mod|will aux|have
+	part|give&PASTP pro:per|you adv|all det:art|the n|ingredient-PL
+	inf|to v|come adv|up prep|with det:art|the n|answer-PL prep|to
+	det:dem|those n|question-PL .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|10|SUBJ 8|10|JCT
+	9|10|DET 10|6|OBJ 11|12|INF 12|10|XMOD 13|12|JCT 14|12|JCT 15|16|DET
+	16|14|POBJ 17|12|JCT 18|19|DET 19|17|POBJ 20|6|PUNCT
+*S1:	and I'll see (.) who are the A students who can come up (.) with
+	those answers .
+%mor:	coord|and pro:sub|I~mod|will v|see pro:int|who cop|be&PRES
+	det:art|the n:prop|A n|student-PL pro:rel|who n|can v|come adv|up
+	prep|with det:dem|those n|answer-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|9|DET 8|9|MOD
+	9|6|PRED 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|JCT 14|12|JCT 15|16|DET
+	16|14|POBJ 17|4|PUNCT
+*S1:	so &-um as I said my exams definitely are hard (.) I've given up
+	trying to make them +...
+%mor:	adv|so conj|as pro:sub|I v|say&PAST det:poss|my n|exam-PL
+	adv|definite&dadj-LY aux|be&PRES adv|hard pro:sub|I~aux|have
+	part|give&PASTP adv|up part|try-PRESP inf|to v|make pro:obj|them
+	+...
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|12|CJCT 5|6|DET 6|4|OBJ 7|12|JCT 8|12|AUX
+	9|12|JCT 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|JCT 14|12|XJCT 15|16|INF
+	16|14|COMP 17|16|OBJ 18|12|PUNCT
+*S1:	fall to the level of the students in the class &-um what I will do
+	afterwards is drop the cutoffs if necessary &-uh downward &-uh to
+	reflect the grades on the exams usually my exam averages are between
+	sixty five and seventy percents they're not &cri &-uh killer (.) but
+	they do fall into the hard category +...
+%mor:	v|fall prep|to det:art|the n|level prep|of det:art|the n|student-PL
+	prep|in det:art|the n|class pro:int|what pro:sub|I mod|will v|do
+	adv|afterwards cop|be&3S v|drop det:art|the n|cutoff-PL conj|if
+	adj|necessary adj|downward inf|to v|reflect det:art|the n|grade-PL
+	prep|on det:art|the n|exam-PL adv|usual&dadj-LY det:poss|my n|exam
+	v|average-3S cop|be&PRES prep|between det:num|sixty det:num|five
+	coord|and det:num|seventy n|percent-PL pro:sub|they~cop|be&PRES
+	neg|not n|kill&dv-AGT conj|but pro:sub|they mod|do v|fall prep|into
+	det:art|the adj|hard n|category +...
+%gra:	1|17|XJCT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|17|SUBJ 15|14|JCT
+	16|17|AUX 17|0|ROOT 18|19|DET 19|17|OBJ 20|17|JCT 21|20|PRED 22|21|PRED
+	23|24|INF 24|22|XMOD 25|26|DET 26|24|OBJ 27|24|JCT 28|29|DET 29|27|POBJ
+	30|33|JCT 31|32|DET 32|33|SUBJ 33|24|CJCT 34|33|COMP 35|34|JCT
+	36|37|QUANT 37|40|QUANT 38|37|CONJ 39|38|COORD 40|35|POBJ 41|42|SUBJ 42|33|COMP
+	43|42|NEG 44|42|PRED 45|48|LINK 46|48|SUBJ 47|48|AUX 48|33|CJCT 49|48|JCT
+	50|52|DET 51|52|MOD 52|49|POBJ 53|17|PUNCT
+*S1:	as far as grading goes (.) what &-uh &=writing_on_overhead what I
+	will guarantee you for now (.) is that ninety percent be an A minus
+	(.) eighty percent (.) B minus (.) seventy percent (.) C minus (.)
+	sixty percent (.) D minus and below that you don't wanna ask .
+%mor:	prep|as adv|far conj|as part|grade-PRESP v|go-3S pro:int|what
+	pro:int|what pro:sub|I mod|will v|guarantee pro:per|you prep|for
+	adv|now cop|be&3S comp|that det:num|ninety n|percent cop|be
+	det:art|a n:prop|A prep|minus det:num|eighty n|percent n:prop|B
+	prep|minus det:num|seventy n|percent n:prop|C prep|minus
+	det:num|sixty n|percent n:prop|D n|minus coord|and adv|below
+	pro:rel|that pro:per|you mod|do~neg|not v|want~inf|to v|ask .
+%gra:	1|2|COORD 2|5|JCT 3|4|COORD 4|5|SUBJ 5|0|ROOT 6|10|LINK 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|5|COMP 11|10|OBJ 12|10|JCT 13|14|JCT 14|12|POBJ
+	15|18|LINK 16|17|QUANT 17|18|SUBJ 18|14|PRED 19|20|DET 20|18|PRED 21|20|NJCT
+	22|23|QUANT 23|21|POBJ 24|20|APP 25|24|NJCT 26|27|QUANT 27|25|POBJ
+	28|24|APP 29|24|JCT 30|31|QUANT 31|33|MOD 32|33|MOD 33|29|POBJ 34|24|CONJ
+	35|34|COORD 36|40|LINK 37|40|SUBJ 38|40|AUX 39|38|NEG 40|35|CMOD 41|42|INF
+	42|40|COMP 43|5|PUNCT
+*S1:	&-um &-uh we will decide on whether ninety one or ninety two or
+	ninety three percent ends up being an A just depending on where
+	students fall and what your GSIs tell me (.) about [/] &-um about
+	how you guys performed in the class .
+%mor:	pro:sub|we mod|will v|decide prep|on comp|whether det:num|ninety
+	det:num|one coord|or det:num|ninety det:num|two coord|or
+	det:num|ninety det:num|three n|percent v|end-3S adv|up n|being
+	det:art|a n:prop|A adv|just n:gerund|depend-PRESP prep|on
+	pro:int|where n|student-PL v|fall coord|and pro:int|what
+	det:poss|your n:prop|GSIs v|tell pro:obj|me prep|about pro:int|how
+	pro:per|you n|guy-PL v|perform-PAST prep|in det:art|the n|class .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|15|LINK 6|7|QUANT 7|14|QUANT
+	8|7|CONJ 9|10|QUANT 10|8|COORD 11|7|CONJ 12|11|COORD 13|14|QUANT 14|15|SUBJ
+	15|4|POBJ 16|15|JCT 17|16|POBJ 18|19|DET 19|21|SUBJ 20|21|JCT 21|15|COMP
+	22|21|JCT 23|25|LINK 24|25|SUBJ 25|22|CPOBJ 26|25|CONJ 27|30|LINK
+	28|29|DET 29|30|SUBJ 30|26|COORD 31|30|OBJ 32|30|JCT 33|36|LINK 34|36|SUBJ
+	35|36|SUBJ 36|32|CPOBJ 37|36|JCT 38|39|DET 39|37|POBJ 40|3|PUNCT
+*S1:	so the GSIs will have a voice in that but then ultimately it'll be
+	&-um my say I guess my final decision I do listen to them &-um quite
+	a bit .
+%mor:	co|so det:art|the n:prop|GSIs mod|will v|have det:art|a n|voice
+	prep|in adv|that conj|but adv:tem|then adv|ultimate&dadj-LY
+	pro:per|it~mod|will cop|be det:poss|my v|say pro:sub|I v|guess
+	det:poss|my adj|final n|decision pro:sub|I mod|do v|listen prep|to
+	pro:obj|them adv|quite det:art|a n|bit .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|15|LINK 11|15|JCT 12|15|JCT 13|15|SUBJ 14|15|AUX 15|5|CJCT
+	16|17|DET 17|15|PRED 18|19|SUBJ 19|17|COMP 20|22|DET 21|22|MOD 22|19|OBJ
+	23|25|SUBJ 24|25|AUX 25|17|CJCT 26|25|JCT 27|26|POBJ 28|25|JCT 29|30|DET
+	30|28|POBJ 31|5|PUNCT
+*S1:	&-uh if my exams turn out to be harder than I think (.) then we'll
+	just drop these cutoffs down &-um as much as we need to again &-uh
+	taking into account the GSI advice +...
+%mor:	conj|if det:poss|my n|exam-PL v|turn adv|out inf|to cop|be
+	adj|hard-CP prep|than pro:sub|I v|think adv:tem|then
+	pro:sub|we~mod|will adj|just n|drop det:dem|these n|cutoff-PL
+	adv|down adv|as adv|much prep|as pro:sub|we v|need inf|to adv|again
+	part|take-PRESP prep|into n|account det:art|the n:prop|GSI n|advice
+	+...
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|INF 7|4|COMP 8|7|PRED
+	9|11|JCT 10|11|SUBJ 11|7|CJCT 12|11|JCT 13|16|SUBJ 14|16|AUX 15|16|MOD
+	16|11|JCT 17|18|DET 18|24|SUBJ 19|20|JCT 20|21|COORD 21|24|JCT 22|24|JCT
+	23|24|SUBJ 24|16|CMOD 25|26|INF 26|27|JCT 27|24|COMP 28|27|JCT 29|28|POBJ
+	30|32|DET 31|32|MOD 32|27|APP 33|4|PUNCT
+*S1:	okay &-um if for some reason you need to make a make up (.) call me
+	or talk to me (.) there is &-uh my office is (.) the introductory
+	Biology office and there is a secretary there so if I'm not there
+	you can talk to her (.) and she's very good she's done millions of
+	these (.) so (.) what she decides is (.) basically as good as what I
+	would decide in those kind of cases .
+%mor:	adj|okay comp|if prep|for qn|some n|reason pro:per|you v|need
+	inf|to v|make det:art|a v|make adv|up v|call pro:obj|me coord|or
+	n|talk prep|to pro:obj|me adv|there cop|be&3S det:poss|my n|office
+	cop|be&3S det:art|the adj|introductory n:prop|Biology n|office
+	coord|and pro:exist|there cop|be&3S det:art|a n|secretary adv|there
+	adv|so comp|if pro:sub|I~cop|be&1S neg|not adv|there pro:per|you
+	mod|can v|talk inf|to pro:obj|her coord|and pro:sub|she~cop|be&3S
+	adv|very adj|good pro:sub|she~aux|be&3S part|do&PASTP n|million-PL
+	prep|of det:dem|these adv|so pro:int|what pro:sub|she v|decide-3S
+	cop|be&3S adv|basic&dadj-AL-LY prep|as adj|good prep|as pro:int|what
+	pro:sub|I mod|will&COND v|decide prep|in det:dem|those adj|kind
+	prep|of n|case-PL .
+%gra:	1|13|SUBJ 2|7|LINK 3|7|JCT 4|5|QUANT 5|3|POBJ 6|7|SUBJ 7|1|CMOD 8|9|INF
+	9|7|COMP 10|11|DET 11|9|OBJ 12|9|JCT 13|0|ROOT 14|13|OBJ 15|20|LINK
+	16|20|SUBJ 17|16|NJCT 18|17|POBJ 19|20|SUBJ 20|13|CJCT 21|22|DET 22|23|SUBJ
+	23|20|PRED 24|27|DET 25|27|MOD 26|27|MOD 27|23|PRED 28|30|LINK
+	29|30|SUBJ 30|27|CMOD 31|32|DET 32|30|PRED 33|32|NJCT 34|35|JCT 35|37|LINK
+	36|37|SUBJ 37|42|CJCT 38|37|NEG 39|37|JCT 40|42|SUBJ 41|42|AUX 42|32|XMOD
+	43|44|INF 44|42|COMP 45|47|LINK 46|47|SUBJ 47|44|CJCT 48|49|JCT 49|47|PRED
+	50|52|SUBJ 51|52|AUX 52|47|XJCT 53|60|SUBJ 54|60|JCT 55|57|DET 56|57|JCT
+	57|60|SUBJ 58|59|SUBJ 59|57|CMOD 60|52|COMP 61|60|JCT 62|63|COORD
+	63|61|POBJ 64|65|COORD 65|68|LINK 66|68|SUBJ 67|68|AUX 68|63|CMOD 69|68|JCT
+	70|71|DET 71|69|POBJ 72|71|JCT 73|72|POBJ 74|13|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&-um we've covered who am I (.) who are you ?
+%mor:	pro:sub|we~aux|have part|cover-PASTP pro:rel|who cop|be&1S
+	pro:sub|I pro:rel|who cop|be&PRES pro:per|you ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|LINK 5|3|COMP 6|5|PRED 7|8|LINK 8|6|CMOD
+	9|8|PRED 10|3|PUNCT
+*S1:	&-um you guys are a pretty good group a pretty competitive lot &-uh
+	one of the perks of teaching at a good school like this is that I
+	get gratification out_of talking to high level students &-uh like
+	you .
+%mor:	pro:per|you n|guy-PL cop|be&PRES det:art|a adj|pretty adj|good
+	n|group det:art|a adj|pretty adj|competitive n|lot det:num|one
+	prep|of det:art|the v|perk-3S prep|of n:gerund|teach-PRESP prep|at
+	det:art|a adj|good n|school prep|like pro:dem|this cop|be&3S
+	comp|that pro:sub|I v|get n|gratify&dv-TION prep|out_of
+	n:gerund|talk-PRESP inf|to adj|high adj|level n|student-PL prep|like
+	pro:per|you .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|PRED 8|11|DET
+	9|10|JCT 10|11|MOD 11|7|APP 12|11|XMOD 13|12|JCT 14|15|DET 15|13|POBJ
+	16|15|JCT 17|16|POBJ 18|17|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|17|JCT
+	23|22|POBJ 24|17|ENUM 25|27|LINK 26|27|SUBJ 27|24|CPRED 28|27|OBJ 29|27|JCT
+	30|29|POBJ 31|32|INF 32|34|MOD 33|34|MOD 34|30|OBJ 35|34|NJCT 36|35|POBJ
+	37|3|PUNCT
+*S1:	somewhere between fifty +//.
+%mor:	n|somewhere prep|between det:num|fifty +//.
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*S1:	half and two thirds of you &-uh wanna be premed predent prevet
+	whatever &-uh another one fifth or one quarter of you (.) are some
+	sort of biology &-uh molecular organismal ecology School of Natural
+	Resource &-uh ten or fifteen percent of you are engineers and about
+	five percent of you are lost .
+%mor:	n|half coord|and det:num|two n|third-PL prep|of pro:per|you
+	v|want~inf|to cop|be pre#n|med pre#n|dent pre#n|vet pro:int|whatever
+	qn|another pro:indef|one adj|fifth coord|or det:num|one n|quarter
+	prep|of pro:per|you cop|be&PRES qn|some n|sort prep|of n|biology
+	adj|molecular adj|organism&dn-AL n|ecology n:prop|School prep|of
+	n:prop|Natural n:prop|Resource det:num|ten coord|or det:num|fifteen
+	n|percent prep|of pro:per|you cop|be&PRES n|engineer-PL coord|and
+	prep|about det:num|five n|percent prep|of pro:per|you aux|be&PRES
+	part|lose&PASTP .
+%gra:	1|7|JCT 2|1|CONJ 3|4|QUANT 4|2|COORD 5|4|NJCT 6|7|SUBJ 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|PRED 11|10|NJCT 12|11|POBJ 13|15|LINK 14|15|QUANT
+	15|12|COBJ 16|15|PRED 17|16|CONJ 18|19|QUANT 19|17|COORD 20|19|NJCT 21|20|POBJ
+	22|17|COORD 23|24|QUANT 24|22|PRED 25|24|NJCT 26|29|MOD 27|29|MOD
+	28|29|MOD 29|25|POBJ 30|29|APP 31|30|NJCT 32|31|POBJ 33|34|SUBJ 34|37|QUANT
+	35|34|CONJ 36|35|COORD 37|30|APP 38|37|NJCT 39|40|SUBJ 40|38|POBJ
+	41|40|PRED 42|41|CONJ 43|42|COORD 44|45|QUANT 45|43|POBJ 46|45|NJCT 47|49|SUBJ
+	48|49|AUX 49|46|POBJ 50|7|PUNCT
+*S1:	&-um you don't fall into any one of the above categories .
+%mor:	pro:per|you mod|do~neg|not v|fall prep|into qn|any pro:indef|one
+	prep|of det:art|the prep|above n|category-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|POBJ 12|4|PUNCT
+*S1:	the lost people are [/] are often the most interesting people art
+	majors &-um &-uh or just &-uh education majors or people just
+	interested in biology so &-um if you have taken a different path or
+	a [/] a odd path to get here &-uh recognize that and [/] and
+	recognize that you're in a competitive class (.) but &-um you're
+	also appreciated and (.) I like hearing from all of you especially
+	the people that have &-uh weird reasons for being here .
+%mor:	det:art|the part|lose&PASTP n|person&PL cop|be&PRES adv|often
+	det:art|the qn|most adj|interesting n|person&PL n|art n|major-PL
+	coord|or adv|just n|educate&dv-TION n|major-PL coord|or n|person&PL
+	adj|just v|interest-PAST prep|in n|biology adv|so conj|if
+	pro:per|you v|have part|take&PASTP det:art|a adj|different n|path
+	coord|or det:art|a adj|odd n|path inf|to v|get adv|here v|recognize
+	comp|that coord|and v|recognize adv|that pro:per|you~cop|be&PRES
+	prep|in det:art|a adj|competitive n|class conj|but
+	pro:per|you~aux|be&PRES adv|also part|appreciate-PASTP coord|and
+	pro:sub|I v|like part|hear-PRESP prep|from pro:indef|all prep|of
+	pro:per|you adv|especial&dadj-LY det:art|the n|person&PL
+	pro:rel|that v|have adj|weird n|reason-PL prep|for n:gerund|be-PRESP
+	adv|here .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|19|JCT 6|11|DET 7|11|QUANT 8|11|MOD
+	9|11|MOD 10|11|MOD 11|19|SUBJ 12|11|CONJ 13|14|JCT 14|15|MOD
+	15|12|COORD 16|15|CONJ 17|16|COORD 18|19|JCT 19|4|PUNCT 20|19|JCT 21|20|POBJ
+	22|23|JCT 23|19|INCROOT 24|25|SUBJ 25|23|CMOD 26|25|COMP 27|29|DET 28|29|MOD
+	29|26|OBJ 30|29|CONJ 31|33|DET 32|33|MOD 33|30|COORD 34|35|INF
+	35|33|XMOD 36|35|JCT 37|35|COMP 38|37|OBJ 39|38|CONJ 40|39|COORD 41|43|JCT
+	42|43|SUBJ 43|40|COMP 44|43|JCT 45|47|DET 46|47|MOD 47|44|POBJ 48|52|LINK
+	49|52|SUBJ 50|52|AUX 51|52|JCT 52|37|CJCT 53|55|LINK 54|55|SUBJ 55|52|CJCT
+	56|55|COMP 57|56|JCT 58|57|POBJ 59|58|NJCT 60|59|POBJ 61|58|NJCT
+	62|63|DET 63|61|POBJ 64|65|LINK 65|63|CMOD 66|67|MOD 67|65|OBJ 68|65|JCT
+	69|68|POBJ 70|69|JCT 71|23|PUNCT
+*S1:	&-uh what have we gotten ourselves into ?
+%mor:	pro:int|what v|have pro:sub|we part|get&PASTP pro:refl|ourselves
+	prep|into ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|XMOD 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*S1:	&-um I hope and this is one of the advantages of [/] of a
+	relatively smaller group like this is I hope that lecture can be at
+	least a modest amount of back and forth .
+%mor:	pro:sub|I n|hope coord|and pro:dem|this cop|be&3S det:num|one
+	prep|of det:art|the n|advantage-PL prep|of det:art|a
+	adv|relative&dadj-LY adj|small-CP n|group prep|like pro:dem|this
+	cop|be&3S pro:sub|I v|hope det:dem|that n|lecture n|can cop|be
+	prep|at adj|least det:art|a adj|modest n|amount prep|of n|back
+	coord|and adv|forth .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|19|SUBJ 6|5|PRED 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|9|NJCT 11|14|DET 12|13|JCT 13|14|MOD 14|10|POBJ 15|14|NJCT
+	16|15|POBJ 17|19|AUX 18|19|SUBJ 19|0|ROOT 20|22|DET 21|22|MOD
+	22|23|SUBJ 23|19|COMP 24|23|JCT 25|28|MOD 26|28|DET 27|28|MOD 28|24|POBJ
+	29|28|NJCT 30|29|POBJ 31|28|CONJ 32|31|COORD 33|19|PUNCT
+*S1:	if you have questions please (.) raise your hands &-um right away .
+%mor:	conj|if pro:per|you v|have n|question-PL co|please v|raise
+	det:poss|your n|hand-PL adv|right adv|away .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|CJCT 4|3|OBJ 5|6|COM 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|10|JCT 10|6|JCT 11|6|PUNCT
+*S1:	don't just &-uh listen to me and scribble down everything I say
+	it's [/] it's likely to be wrong or many times it could be wrong (.)
+	or sometimes I'll just say things to be provocative &-um or if I
+	have an opinion (.) it's just my opinion and in that case can be
+	challenged (.) just as much as anybody else's opinion .
+%mor:	mod|do~neg|not adv|just v|listen prep|to pro:obj|me coord|and
+	n|scribble adv|down pro:indef|everything pro:sub|I v|say
+	pro:per|it~cop|be&3S adj|likely inf|to cop|be adj|wrong coord|or
+	qn|many n|time-PL pro:per|it mod|could cop|be adj|wrong coord|or
+	adv|sometimes pro:sub|I~mod|will adv|just co|say n|thing-PL inf|to
+	cop|be adj|provocative coord|or conj|if pro:sub|I v|have det:art|a
+	n|opinion pro:per|it~cop|be&3S adj|just det:poss|my n|opinion
+	coord|and prep|in det:dem|that n|case mod|can aux|be
+	part|challenge-PASTP adj|just adv|as adv|much prep|as
+	pro:indef|anybody adj|else&dn-POSS n|opinion .
+%gra:	1|4|AUX 2|1|NEG 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|12|LINK 8|12|JCT
+	9|8|NJCT 10|9|POBJ 11|12|SUBJ 12|4|CJCT 13|14|SUBJ 14|12|COMP 15|14|PRED
+	16|17|INF 17|15|XMOD 18|17|PRED 19|17|CONJ 20|21|QUANT 21|19|COORD
+	22|24|SUBJ 23|24|AUX 24|21|CMOD 25|24|PRED 26|21|CONJ 27|31|JCT 28|31|SUBJ
+	29|31|AUX 30|31|JCT 31|32|COM 32|26|COORD 33|34|INF 34|32|XMOD 35|34|PRED
+	36|32|CONJ 37|39|LINK 38|39|SUBJ 39|36|COORD 40|41|DET 41|39|OBJ
+	42|43|SUBJ 43|41|CMOD 44|46|MOD 45|46|DET 46|43|PRED 47|53|LINK 48|53|JCT
+	49|50|DET 50|48|POBJ 51|53|AUX 52|53|AUX 53|46|CJCT 54|60|MOD 55|56|COORD
+	56|54|JCT 57|58|COORD 58|60|MOD 59|60|MOD 60|53|OBJ 61|4|PUNCT
+*S1:	&-uh one of the favorite cartoons I [/] I ever (.) saw is this one
+	which I think (.) definitely applies to this class and I [/] I hope
+	you will behave appropriately .
+%mor:	det:num|one prep|of det:art|the n|favorite n|cartoon-PL pro:sub|I
+	adv|ever n|saw cop|be&3S det:dem|this pro:indef|one pro:rel|which
+	pro:sub|I v|think adv|definite&dadj-LY v|apply-3S prep|to
+	det:dem|this n|class coord|and pro:sub|I v|hope pro:per|you mod|will
+	v|behave adv|appropriate&dadj-LY .
+%gra:	1|9|LINK 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|9|SUBJ 7|9|JCT 8|9|SUBJ
+	9|0|ROOT 10|11|DET 11|9|PRED 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|16|JCT
+	16|14|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|22|LINK 21|22|SUBJ 22|16|CJCT
+	23|25|SUBJ 24|25|AUX 25|22|COMP 26|25|JCT 27|9|PUNCT
+*S1:	&=puts_up_doonesbury_cartoon (0.19) the point of that is and I've
+	seen it in many great lecture &hall big lecture halls (.) is that
+	(.) the heads just bob up and down in tune with what the professor
+	is scribbling and nobody ever asks a question so &-um don't let me
+	get away with something you disagree with challenge me &-uh
+	challenge all your professors but definitely make it interactive .
+%mor:	det:art|the n|point prep|of det:dem|that aux|be&3S coord|and
+	pro:sub|I~aux|have part|see&PASTP pro:per|it prep|in qn|many
+	adj|great n|lecture adj|big n|lecture n|hall-PL cop|be&3S comp|that
+	det:art|the n|head-PL adv|just v|bob adv|up coord|and adv|down
+	prep|in n|tune prep|with pro:int|what det:art|the n|professor
+	aux|be&3S part|scribble-PRESP coord|and pro:indef|nobody adv|ever
+	v|ask-3S det:art|a n|question adv|so mod|do~neg|not v|let&ZERO
+	pro:obj|me v|get adv|away prep|with pro:indef|something pro:per|you
+	dis#v|agree prep|with n|challenge pro:obj|me v|challenge adv|all
+	det:poss|your n|professor-PL conj|but adv|definite&dadj-LY v|make
+	pro:per|it inter#adj|active .
+%gra:	1|2|DET 2|18|SUBJ 3|9|LINK 4|9|SUBJ 5|9|AUX 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|2|CMOD 10|9|OBJ 11|9|JCT 12|14|QUANT 13|14|MOD 14|17|MOD 15|17|MOD
+	16|17|MOD 17|11|POBJ 18|0|ROOT 19|23|LINK 20|21|DET 21|23|SUBJ 22|23|JCT
+	23|18|CPRED 24|23|JCT 25|23|CONJ 26|25|COORD 27|26|JCT 28|27|POBJ 29|26|JCT
+	30|34|LINK 31|32|DET 32|34|SUBJ 33|34|AUX 34|29|CPOBJ 35|38|LINK
+	36|38|SUBJ 37|38|JCT 38|34|CJCT 39|40|DET 40|38|OBJ 41|44|JCT 42|44|AUX
+	43|42|NEG 44|38|COMP 45|44|OBJ 46|44|COMP 47|46|JCT 48|46|JCT 49|48|POBJ
+	50|51|SUBJ 51|49|CMOD 52|55|JCT 53|52|POBJ 54|55|SUBJ 55|51|COMP 56|55|JCT
+	57|58|DET 58|56|POBJ 59|55|CONJ 60|61|JCT 61|59|COORD 62|61|OBJ 63|61|OBJ
+	64|18|PUNCT
+*S1:	and if you don't I'm gonna start calling on people (.) and when [/]
+	when I figure out some of your names then you're definitely fair
+	game .
+%mor:	coord|and conj|if pro:per|you mod|do~neg|not pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|start part|call-PRESP prep|on n|person&PL
+	coord|and conj|when pro:sub|I v|figure adv|out pro:indef|some
+	prep|of det:poss|your n|name-PL adv:tem|then pro:per|you~cop|be&PRES
+	adv|definite&dadj-LY adj|fair n|game .
+%gra:	1|8|LINK 2|8|LINK 3|8|SUBJ 4|8|AUX 5|4|NEG 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|10|INF 10|8|COMP 11|10|COMP 12|11|JCT 13|12|POBJ 14|11|CONJ 15|17|LINK
+	16|17|SUBJ 17|14|COORD 18|25|JCT 19|25|SUBJ 20|19|NJCT 21|22|DET
+	22|20|POBJ 23|25|JCT 24|25|SUBJ 25|17|COMP 26|28|JCT 27|28|MOD 28|25|PRED
+	29|8|PUNCT
+*S1:	there's only one person I know right now and she's squirming in her
+	seat so +...
+%mor:	pro:exist|there~cop|be&3S qn|only det:num|one n|person pro:sub|I
+	v|know adv|right adv|now coord|and pro:sub|she~aux|be&3S
+	part|squirm-PRESP prep|in det:poss|her n|seat co|so +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|QUANT 5|7|JCT 6|7|SUBJ 7|2|CPRED
+	8|9|JCT 9|7|JCT 10|13|LINK 11|13|SUBJ 12|13|AUX 13|7|COMP 14|13|JCT 15|16|DET
+	16|14|POBJ 17|2|COM 18|2|PUNCT
+*S1:	&-um I +//.
+%mor:	pro:sub|I +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	I'm gonna try and make this class go back and forth a little bit .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|try coord|and v|make
+	det:dem|this n|class v|go adv|back coord|and adv|forth det:art|a
+	adj|little n|bit .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|CONJ 7|6|COORD 8|9|DET
+	9|10|SUBJ 10|7|COMP 11|10|JCT 12|10|CONJ 13|12|COORD 14|16|DET 15|16|MOD
+	16|13|POBJ 17|3|PUNCT
+*S1:	okay &-um +...
+%mor:	co|okay +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	datadatadatada@i .
+%mor:	co|datadatadatada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	oh one other thing I forgot to mention +//.
+%mor:	co|oh det:num|one qn|other n|thing pro:sub|I v|forget&PAST prep|to
+	n|mention +//.
+%gra:	1|2|COM 2|4|QUANT 3|4|QUANT 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*S1:	and [/] and &-um this goes back to the exams .
+%mor:	coord|and pro:dem|this v|go-3S adv|back prep|to det:art|the
+	n|exam-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*S1:	I recognize that my exams are hard .
+%mor:	pro:sub|I v|recognize adv|that det:poss|my n|exam-PL cop|be&PRES
+	adv|hard .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|JCT 4|5|DET 5|6|SUBJ 6|2|COMP 7|6|JCT 8|2|PUNCT
+*S1:	I will give you guys an opportunity to get bonus points on the
+	exams (.) but [//] and I'll explain that more later .
+%mor:	pro:sub|I mod|will v|give pro:per|you n|guy-PL det:art|a
+	n|opportunity inf|to v|get n|bonus v|point-3S prep|on det:art|the
+	n|exam-PL coord|and pro:sub|I~mod|will ex#adj|plain comp|that
+	adv|more adv|later .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ2 5|3|PUNCT 6|7|DET 7|5|INCROOT
+	8|9|INF 9|7|XMOD 10|11|SUBJ 11|9|COMP 12|11|JCT 13|14|DET 14|12|POBJ
+	15|18|LINK 16|18|SUBJ 17|18|AUX 18|7|ROOT 19|18|INCROOT 20|21|JCT 21|19|JCT
+	22|19|PUNCT
+*S1:	&-um it's [/] it's going to be sort_of a semiexperiment that we'll
+	do (.) in how we award these bonus points (.) and I will talk about
+	in a later lecture between the second and third exams .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP inf|to cop|be adv|sort_of
+	det:art|a semi#n|experiment comp|that pro:sub|we~mod|will v|do
+	adv|in pro:int|how pro:sub|we v|award det:dem|these n|bonus
+	n|point-PL coord|and pro:sub|I mod|will v|talk adv|about prep|in
+	det:art|a adv|later n|lecture prep|between det:art|the adj|second
+	coord|and adj|third n|exam-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|8|JCT 7|8|DET 8|5|PRED
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|COMP 13|12|JCT 14|16|LINK 15|16|SUBJ
+	16|12|COMP 17|19|DET 18|19|MOD 19|16|OBJ 20|23|LINK 21|23|SUBJ 22|23|AUX
+	23|16|CJCT 24|23|JCT 25|23|JCT 26|28|DET 27|28|JCT 28|25|POBJ 29|23|JCT
+	30|31|DET 31|29|POBJ 32|31|CONJ 33|34|MOD 34|32|COORD 35|3|PUNCT
+*S1:	so you guys'll probably (.) end up thinking that I'm a twisted
+	bastard for [/] for [/] &-uh for giving the bonus points in the way
+	I'm going to do it .
+%mor:	co|so pro:per|you n|guy-PL~mod|will adv|probable&dadj-LY v|end
+	adv|up part|think-PRESP adv|that pro:sub|I~aux|be&1S det:art|a
+	part|twist-PASTP n|bastard prep|for n:gerund|give-PRESP det:art|the
+	n|bonus n|point-PL prep|in det:art|the n|way pro:sub|I~aux|be&1S
+	part|go-PRESP inf|to v|do pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|14|XJCT
+	9|8|JCT 10|14|SUBJ 11|14|AUX 12|14|DET 13|14|MOD 14|6|OBJ 15|14|NJCT
+	16|15|POBJ 17|19|DET 18|19|MOD 19|16|OBJ 20|19|NJCT 21|22|DET 22|20|POBJ
+	23|25|SUBJ 24|25|AUX 25|19|CMOD 26|27|INF 27|25|COMP 28|27|OBJ 29|6|PUNCT
+*S1:	but we'll just see how it comes out .
+%mor:	conj|but pro:sub|we~mod|will adv|just v|see pro:int|how pro:per|it
+	v|come-3S adv|out .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|8|JCT 10|5|PUNCT
+*S1:	and &-uh so don't worry (.) too much about your grades (.) just yet
+	.
+%mor:	coord|and adv|so mod|do~neg|not v|worry adv|too adv|much prep|about
+	det:poss|your n|grade-PL adv|just adv|yet .
+%gra:	1|5|LINK 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|JCT 7|5|JCT 8|5|JCT
+	9|10|DET 10|8|POBJ 11|12|JCT 12|5|JCT 13|5|PUNCT
+*S1:	&-um &-uh you_know (.) the exams may be hard and I may do some
+	unusual things in the class but in the end &-um I do realize that we
+	have to give reasonable sets of grades .
+%mor:	co|you_know det:art|the n|exam-PL mod|may cop|be adv|hard coord|and
+	pro:sub|I mod|may v|do qn|some un#adj|usual n|thing-PL prep|in
+	det:art|the n|class conj|but prep|in det:art|the n|end pro:sub|I
+	mod|do v|realize comp|that pro:sub|we v|have inf|to v|give
+	adj|reason&dv-ABLE n|set-PL prep|of n|grade-PL .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|5|CJCT 11|13|QUANT 12|13|MOD 13|10|OBJ 14|10|JCT 15|16|DET
+	16|14|POBJ 17|5|CONJ 18|23|JCT 19|20|DET 20|18|POBJ 21|23|SUBJ 22|23|AUX
+	23|17|COORD 24|26|LINK 25|26|SUBJ 26|23|COMP 27|28|INF 28|26|COMP
+	29|30|MOD 30|28|OBJ 31|30|NJCT 32|31|POBJ 33|5|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&=shuffling_papers as this always happens my pages get scrambled
+	and I get stuck .
+%mor:	prep|as pro:dem|this adv|always v|happen-3S det:poss|my n|page-PL
+	aux|get part|scramble-PASTP coord|and pro:sub|I aux|get
+	part|stick&PASTP .
+%gra:	1|2|COORD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CJCT 13|4|PUNCT
+*S1:	alrighty (0.7) &=shuffling_papers okay +...
+%mor:	adj|alright-Y co|okay +...
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S1:	alright a few last sort of nags and reminders attendance in lecture
+	is critical &-um mostly because I don't follow your textbook all
+	that closely I will talk about some of the same topics but I talk
+	about them in a different order and I definitely bring in examples
+	that aren't mentioned in your textbook .
+%mor:	co|alright det:art|a qn|few adj|last n|sort prep|of v|nag-3S
+	coord|and n|remind&dv-AGT-PL n|attendance prep|in n|lecture
+	cop|be&3S adj|critical adv|mostly conj|because pro:sub|I
+	mod|do~neg|not v|follow det:poss|your n|textbook adv|all
+	pro:dem|that adv|close&dadj-LY pro:sub|I mod|will v|talk adv|about
+	qn|some prep|of det:art|the adj|same n|topic-PL conj|but pro:sub|I
+	v|talk prep|about pro:obj|them prep|in det:art|a adj|different
+	n|order coord|and pro:sub|I adv|definite&dadj-LY v|bring prep|in
+	n|example-PL pro:rel|that aux|be&PRES~neg|not part|mention-PASTP
+	prep|in det:poss|your n|textbook .
+%gra:	1|7|COM 2|5|DET 3|4|QUANT 4|5|MOD 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|13|LINK
+	9|10|MOD 10|13|SUBJ 11|10|NJCT 12|11|POBJ 13|7|COMP 14|13|PRED 15|14|JCT
+	16|20|LINK 17|20|SUBJ 18|20|AUX 19|18|NEG 20|28|CJCT 21|22|DET 22|20|OBJ
+	23|24|JCT 24|28|SUBJ 25|28|JCT 26|28|SUBJ 27|28|AUX 28|7|CJCT 29|30|JCT
+	30|28|COMP 31|30|JCT 32|34|DET 33|34|MOD 34|31|POBJ 35|37|LINK
+	36|37|SUBJ 37|30|CJCT 38|37|JCT 39|38|POBJ 40|39|JCT 41|43|DET 42|43|MOD
+	43|40|POBJ 44|47|LINK 45|47|SUBJ 46|47|JCT 47|37|CJCT 48|47|JCT 49|48|POBJ
+	50|53|LINK 51|53|AUX 52|51|NEG 53|49|CMOD 54|53|JCT 55|56|DET 56|54|POBJ
+	57|7|PUNCT
+*S1:	&-um what I would say in terms of this class is (.) that it's a
+	damn shame that it happens during the nicest weather of the year
+	&-uh don't let that be a distraction to you (.) taking this class in
+	spring is like taking two classes &-um in the fall term or the
+	spring &ter or in the winter term .
+%mor:	pro:int|what pro:sub|I mod|will&COND v|say prep|in n|term-PL
+	prep|of det:dem|this n|class cop|be&3S comp|that
+	pro:per|it~cop|be&3S det:art|a n|damn n|shame pro:rel|that
+	pro:per|it v|happen-3S prep|during det:art|the adj|nice-SP n|weather
+	prep|of det:art|the n|year mod|do~neg|not v|let&ZERO pro:dem|that
+	cop|be det:art|a n|distraction prep|to pro:per|you part|take-PRESP
+	det:dem|this n|class prep|in n|spring cop|be&3S co|like
+	part|take-PRESP det:num|two n|class-PL prep|in det:art|the v|fall
+	n|term coord|or det:art|the n|spring coord|or prep|in det:art|the
+	n|winter n|term .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|10|CSUBJ 5|4|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|0|ROOT 11|13|LINK 12|13|SUBJ 13|10|COMP 14|16|DET 15|16|MOD
+	16|13|PRED 17|19|LINK 18|19|SUBJ 19|16|CMOD 20|19|JCT 21|23|DET
+	22|23|MOD 23|20|POBJ 24|23|NJCT 25|26|DET 26|24|POBJ 27|29|AUX 28|27|NEG
+	29|19|CJCT 30|31|SUBJ 31|29|COMP 32|33|DET 33|31|PRED 34|33|NJCT 35|34|POBJ
+	36|33|XMOD 37|38|DET 38|36|OBJ 39|36|JCT 40|39|POBJ 41|43|AUX 42|43|COM
+	43|36|XJCT 44|45|QUANT 45|43|OBJ 46|43|JCT 47|48|DET 48|46|POBJ 49|48|OBJ
+	50|49|CONJ 51|52|DET 52|50|COORD 53|43|CONJ 54|53|COORD 55|57|DET
+	56|57|MOD 57|54|POBJ 58|10|PUNCT
+*S1:	so (.) not that it's not doable (.) but if you have a job and
+	you're out playing frisbee and you've got organic chem and you've
+	got this (.) then it's hard .
+%mor:	co|so neg|not comp|that pro:per|it~cop|be&3S neg|not adj|do&dv-ABLE
+	conj|but conj|if pro:per|you v|have det:art|a n|job coord|and
+	pro:per|you~aux|be&PRES adv|out part|play-PRESP n|frisbee coord|and
+	pro:per|you~aux|have part|get&PASTP adj|organic n|chem coord|and
+	pro:per|you~aux|have part|get&PASTP det:dem|this adv:tem|then
+	pro:per|it~cop|be&3S adv|hard .
+%gra:	1|5|COM 2|1|NEG 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|NEG 7|5|PRED 8|5|CONJ
+	9|11|LINK 10|11|SUBJ 11|8|COORD 12|13|DET 13|11|OBJ 14|18|LINK 15|18|SUBJ
+	16|18|AUX 17|18|JCT 18|11|CJCT 19|18|OBJ 20|23|LINK 21|23|SUBJ 22|23|AUX
+	23|18|CJCT 24|25|MOD 25|23|OBJ 26|29|LINK 27|29|SUBJ 28|29|AUX
+	29|25|CMOD 30|31|DET 31|33|JCT 32|33|SUBJ 33|29|COMP 34|33|JCT 35|5|PUNCT
+*S1:	the class moves &-uh very fast &-uh one of the (.) &th the few bad
+	things I like or don't like about teaching in spring (.) is that (.)
+	there's almost no time for you to sort_of (.) sit quietly and digest
+	what I am saying (.) I'll talk about transcription one hour (.) it's
+	translation the next hour (.) and twenty two hours later we're
+	talking about mutation and regulation of genes .
+%mor:	det:art|the n|class v|move-3S adv|very adj|fast det:num|one prep|of
+	det:art|the det:art|the qn|few adj|bad n|thing-PL pro:sub|I v|like
+	coord|or mod|do~neg|not co|like adv|about part|teach-PRESP prep|in
+	n|spring cop|be&3S comp|that pro:exist|there~cop|be&3S adv|almost
+	qn|no n|time prep|for pro:per|you inf|to adv|sort_of v|sit
+	adv|quiet&dadj-LY coord|and v|digest pro:int|what pro:sub|I
+	aux|be&1S part|say-PRESP pro:sub|I~mod|will v|talk prep|about
+	n|transcription det:num|one n|hour pro:per|it~cop|be&3S
+	n|translate&dv-TION det:art|the adj|next n|hour coord|and
+	det:num|twenty det:num|two n|hour-PL adv|later
+	pro:sub|we~aux|be&PRES part|talk-PRESP prep|about n|mutate&dv-TION
+	coord|and n|regulate&dv-TION prep|of n|gene-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|14|XJCT 7|6|NJCT 8|12|DET
+	9|12|DET 10|11|QUANT 11|12|MOD 12|7|POBJ 13|14|SUBJ 14|5|ENUM 15|5|CONJ
+	16|18|AUX 17|16|NEG 18|20|COM 19|20|JCT 20|15|COORD 21|20|JCT 22|21|POBJ
+	23|20|XJCT 24|26|LINK 25|26|SUBJ 26|23|COMP 27|26|JCT 28|29|QUANT
+	29|27|POBJ 30|29|NJCT 31|34|SUBJ 32|34|INF 33|34|JCT 34|30|CPOBJ 35|34|JCT
+	36|44|LINK 37|44|XJCT 38|41|LINK 39|41|SUBJ 40|41|AUX 41|37|COMP 42|44|SUBJ
+	43|44|AUX 44|34|CJCT 45|44|JCT 46|48|MOD 47|48|QUANT 48|45|POBJ
+	49|50|SUBJ 50|44|CJCT 51|54|MOD 52|54|DET 53|54|MOD 54|50|PRED 55|54|CONJ
+	56|57|DATE 57|55|COORD 58|54|APP 59|62|JCT 60|62|SUBJ 61|62|AUX 62|58|CMOD
+	63|62|JCT 64|63|POBJ 65|64|CONJ 66|65|COORD 67|66|NJCT 68|67|POBJ
+	69|3|PUNCT
+*S1:	that would take a week and a half in the regular term (.) and I
+	think that would give you guys some time to [/] to wrestle with it
+	in your mind (.) and [/] and (.) understand it maybe at a little bit
+	deeper level (.) than you're going to &-um during this class .
+%mor:	pro:dem|that mod|will&COND v|take det:art|a n|week coord|and
+	det:art|a n|half prep|in det:art|the adj|regular n|term coord|and
+	pro:sub|I v|think pro:dem|that mod|will&COND v|give pro:per|you
+	n|guy-PL qn|some n|time inf|to v|wrestle prep|with pro:per|it
+	prep|in det:poss|your n|mind coord|and v|understand pro:per|it
+	adv|maybe prep|at det:art|a adj|little n|bit adj|deep-CP n|level
+	prep|than pro:per|you~aux|be&PRES part|go-PRESP prep|to prep|during
+	det:dem|this n|class .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|DET 8|6|COORD
+	9|3|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|LINK 14|15|SUBJ 15|3|CJCT
+	16|18|SUBJ 17|18|AUX 18|15|COMP 19|20|SUBJ 20|18|OBJ 21|22|QUANT 22|20|OBJ
+	23|24|INF 24|22|XMOD 25|24|JCT 26|25|POBJ 27|26|NJCT 28|29|DET 29|27|POBJ
+	30|18|CONJ 31|30|COORD 32|31|OBJ 33|31|JCT 34|31|JCT 35|37|DET
+	36|37|MOD 37|34|POBJ 38|39|MOD 39|37|CMOD 40|39|JCT 41|43|SUBJ 42|43|AUX
+	43|40|CPOBJ 44|43|JCT 45|44|POBJ 46|47|DET 47|45|POBJ 48|3|PUNCT
+*S1:	there are forty two lectures (.) just as many or more as in a
+	regular term I cover just as much &-uh of the topics (.) as we do in
+	a regular term .
+%mor:	pro:exist|there cop|be&PRES det:num|forty det:num|two n|lecture-PL
+	adv|just prep|as qn|many coord|or adv|more adv|as prep|in det:art|a
+	adj|regular n|term pro:sub|I v|cover adj|just adv|as adv|much
+	prep|of det:art|the n|topic-PL conj|as pro:sub|we v|do prep|in
+	det:art|a adj|regular n|term .
+%gra:	1|2|SUBJ 2|26|CJCT 3|5|QUANT 4|5|QUANT 5|2|PRED 6|7|JCT 7|8|COORD
+	8|5|ENUM 9|5|CONJ 10|11|JCT 11|9|COORD 12|11|JCT 13|15|DET 14|15|MOD
+	15|12|POBJ 16|26|SUBJ 17|26|AUX 18|26|JCT 19|20|COORD 20|18|JCT 21|20|JCT
+	22|23|DET 23|21|POBJ 24|26|LINK 25|26|SUBJ 26|0|ROOT 27|26|JCT 28|30|DET
+	29|30|MOD 30|27|POBJ 31|26|PUNCT
+*S1:	it's kinda like drinking from a firehose is the only way I can
+	describe it so &-um enjoy your summer +...
+%mor:	pro:per|it~cop|be&3S adv|kinda co|like part|drink-PRESP prep|from
+	det:art|a n|+n|fire+n|hose cop|be&3S det:art|the qn|only n|way
+	pro:sub|I mod|can v|describe pro:per|it adv|so v|enjoy det:poss|your
+	n|summer +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|COM 5|15|XJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|15|AUX 10|12|DET 11|12|QUANT 12|15|JCT 13|15|SUBJ 14|15|AUX 15|2|CPRED
+	16|15|OBJ 17|18|JCT 18|15|COMP 19|20|DET 20|18|OBJ 21|2|PUNCT
+*S1:	but focus on this class as well (.) or have a job (.) but focus on
+	this class .
+%mor:	conj|but n|focus prep|on det:dem|this n|class prep|as n|well
+	coord|or v|have det:art|a n|job conj|but n|focus prep|on
+	det:dem|this n|class .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|NJCT 7|6|POBJ
+	8|2|CONJ 9|8|COORD 10|11|DET 11|9|OBJ 12|11|CONJ 13|12|COORD 14|11|NJCT
+	15|16|DET 16|14|POBJ 17|1|PUNCT
+*S1:	don't try and do (.) a [/] a million things &-uh this won't be &-um
+	a [/] a complete blow off .
+%mor:	mod|do~neg|not v|try coord|and v|do det:art|a det:num|million
+	n|thing-PL det:dem|this mod|will~neg|not cop|be det:art|a
+	adj|complete n|blow adv|off .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|12|LINK 5|12|JCT 6|8|DET 7|8|QUANT 8|5|OBJ
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|3|CJCT 13|15|DET 14|15|MOD 15|12|PRED
+	16|15|NJCT 17|3|PUNCT
+*S1:	&-um okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	two last things &-um number one my sense of humor tends to be a
+	little bit dry &-um half the time people don't (.) get that I'm
+	making a joke &-um I can live with that mostly I'm up here amusing
+	myself and [x 3] I like me so &-um &=laughs:multiple that doesn't
+	bother me .
+%mor:	det:num|two n|last n|thing-PL n|number det:num|one det:poss|my
+	n|sense prep|of n|humor v|tend-3S inf|to cop|be det:art|a adj|little
+	n|bit adj|dry n|half det:art|the n|time n|person&PL mod|do~neg|not
+	v|get adv|that pro:sub|I~aux|be&1S part|make-PRESP det:art|a n|joke
+	pro:sub|I mod|can v|live prep|with det:dem|that adv|mostly
+	pro:sub|I~aux|be&1S prep|up n|here part|amuse-PRESP pro:refl|myself
+	coord|and pro:sub|I v|like pro:obj|me conj|so adv|that
+	mod|do&3S~neg|not v|bother pro:obj|me .
+%gra:	1|4|QUANT 2|4|MOD 3|4|MOD 4|10|JCT 5|7|QUANT 6|7|DET 7|10|SUBJ 8|7|NJCT
+	9|8|POBJ 10|0|ROOT 11|12|INF 12|10|COMP 13|15|DET 14|15|MOD 15|23|JCT
+	16|17|MOD 17|23|CJCT 18|20|DET 19|20|MOD 20|23|SUBJ 21|23|AUX 22|21|NEG
+	23|12|CPRED 24|23|JCT 25|27|SUBJ 26|27|AUX 27|23|XJCT 28|29|DET 29|27|OBJ
+	30|32|SUBJ 31|32|AUX 32|29|CMOD 33|32|JCT 34|35|DET 35|40|JCT
+	36|40|SUBJ 37|40|AUX 38|37|JCT 39|38|POBJ 40|33|POBJ 41|40|OBJ 42|44|LINK
+	43|44|SUBJ 44|40|CJCT 45|44|OBJ 46|50|LINK 47|50|JCT 48|50|AUX 49|48|NEG
+	50|44|COMP 51|50|OBJ 52|10|PUNCT
+*S1:	&-um &-uh so if you think I'm (.) pulling your leg it's possibly
+	true and if you really still are having a question in your head just
+	raise your hand and we [?] say was that supposed to be a joke ?
+%mor:	adv|so conj|if pro:per|you v|think pro:sub|I~aux|be&1S
+	part|pull-PRESP det:poss|your n|leg pro:per|it~cop|be&3S
+	adv|possible&dadj-LY adj|true coord|and conj|if pro:per|you
+	adv|real&dadj-LY v|still aux|be&PRES part|have-PRESP det:art|a
+	n|question prep|in det:poss|your adj|head adj|just n|raise
+	det:poss|your n|hand coord|and pro:sub|we v|say cop|be&PAST&13S
+	pro:rel|that v|suppose-PAST inf|to cop|be det:art|a n|joke ?
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|7|CJCT 5|7|SUBJ 6|7|AUX 7|11|JCT 8|9|DET
+	9|7|OBJ 10|11|SUBJ 11|0|ROOT 12|13|JCT 13|11|PRED 14|11|CONJ 15|14|COORD
+	16|18|SUBJ 17|18|JCT 18|15|CPOBJ 19|20|AUX 20|18|COMP 21|22|DET 22|20|OBJ
+	23|20|JCT 24|27|DET 25|27|MOD 26|27|MOD 27|23|POBJ 28|29|DET 29|33|SUBJ
+	30|29|CONJ 31|32|SUBJ 32|30|COORD 33|27|CMOD 34|35|LINK 35|27|CMOD
+	36|37|INF 37|35|COMP 38|39|DET 39|37|PRED 40|11|PUNCT
+*S1:	or something like that .
+%mor:	coord|or pro:indef|something prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+*S1:	&-um second thing is I try and keep my personal opinions out_of
+	this class .
+%mor:	adj|second n|thing cop|be&3S pro:sub|I v|try coord|and v|keep
+	det:poss|my adj|personal n|opinion-PL prep|out_of det:dem|this
+	n|class .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|CPRED 6|5|CONJ 7|6|COORD
+	8|10|DET 9|10|MOD 10|7|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*S1:	I've already mentioned &-um that I [/] I think (.) there's (.) one
+	role for me to present information to you &-um I do have opinions
+	they may creep into the class &-um but I try and keep them out &-um
+	&i &i if I +//.
+%mor:	pro:sub|I~aux|have adv|already part|mention-PASTP comp|that
+	pro:sub|I v|think pro:exist|there~cop|be&3S det:num|one n|role
+	prep|for pro:obj|me prep|to n|present n|inform&dv-TION prep|to
+	pro:per|you pro:sub|I mod|do v|have n|opinion-PL pro:sub|they
+	mod|may v|creep prep|into det:art|the n|class conj|but pro:sub|I
+	v|try coord|and v|keep pro:obj|them adv|out conj|if pro:sub|I +//.
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|ROOT 8|9|SUBJ
+	9|7|ROOT 10|11|QUANT 11|21|JCT 12|11|NJCT 13|12|POBJ 14|11|NJCT 15|16|MOD
+	16|14|POBJ 17|11|NJCT 18|17|POBJ 19|21|SUBJ 20|21|AUX 21|25|CJCT
+	22|21|OBJ 23|25|SUBJ 24|25|AUX 25|9|ROOT 26|25|JCT 27|28|DET 28|26|POBJ
+	29|31|LINK 30|31|SUBJ 31|25|ROOT 32|31|CONJ 33|32|COORD 34|33|OBJ 35|33|JCT
+	36|33|INCROOT 37|36|INCROOT 38|37|PUNCT
+*S1:	if they do come into the class then realize that they're just my
+	personal opinions &-uh they don't count more than anybody else's
+	&-uh in the course .
+%mor:	conj|if pro:sub|they mod|do v|come prep|into det:art|the n|class
+	adv:tem|then v|realize comp|that pro:sub|they~cop|be&PRES adv|just
+	det:poss|my adj|personal n|opinion-PL pro:sub|they mod|do~neg|not
+	v|count qn|more prep|than pro:indef|anybody adj|else&dn-POSS prep|in
+	det:art|the n|course .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|JCT
+	9|4|CJCT 10|12|LINK 11|12|SUBJ 12|9|COMP 13|20|JCT 14|16|DET 15|16|MOD
+	16|20|SUBJ 17|20|SUBJ 18|20|AUX 19|18|NEG 20|12|CPRED 21|20|OBJ 22|21|JCT
+	23|22|POBJ 24|23|POSTMOD 25|24|JCT 26|27|DET 27|25|POBJ 28|4|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	anything there ?
+%mor:	pro:indef|anything adv|there ?
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*S1:	anything you want ask me about how the course is gonna work ?
+%mor:	pro:indef|anything pro:per|you v|want v|ask pro:obj|me prep|about
+	pro:int|how det:art|the n|course aux|be&3S part|go-PRESP~inf|to
+	v|work ?
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|CMOD 4|3|OBJ 5|4|OBJ 6|3|JCT 7|11|LINK 8|9|DET
+	9|11|SUBJ 10|11|AUX 11|6|CPOBJ 12|13|INF 13|11|COMP 14|1|PUNCT
+*S3:	overrides ?
+%mor:	over#v|ride-3S ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S3:	⌈ overrides ⌉ ?
+%mor:	over#v|ride-3S ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	⌊ overrides ⌋ yeah let me ask this (.) how many of you (.) are (.)
+	not CRISPed into this class and still trying to get in ?
+%mor:	over#v|ride-3S co|yeah v|let&ZERO pro:obj|me v|ask det:dem|this
+	pro:rel|how qn|many prep|of pro:per|you cop|be&PRES neg|not
+	n:prop|CRISPed prep|into det:dem|this n|class coord|and adv|still
+	part|try-PRESP inf|to v|get adv|in ?
+%gra:	1|3|LINK 2|3|COM 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|11|DET 7|8|LINK
+	8|11|QUANT 9|8|NJCT 10|9|POBJ 11|5|COMP 12|11|NEG 13|11|PRED 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|13|CONJ 18|19|JCT 19|17|COORD 20|21|INF 21|13|XMOD
+	22|21|JCT 23|3|PUNCT
+*S1:	one two three four five six seven eight (.) nine &-uh I probably
+	missed one or two so it's about (.) ten or so .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five
+	det:num|six det:num|seven det:num|eight det:num|nine pro:sub|I
+	adv|probable&dadj-LY v|miss-PAST pro:indef|one coord|or det:num|two
+	adv|so pro:per|it~cop|be&3S adv|about det:num|ten coord|or adv|so .
+%gra:	1|7|LINK 2|4|DATE 3|4|DATE 4|5|DATE 5|6|DATE 6|7|DATE 7|9|DATE 8|9|DATE
+	9|10|QUANT 10|12|SUBJ 11|12|JCT 12|0|ROOT 13|12|OBJ 14|18|LINK
+	15|16|QUANT 16|17|JCT 17|18|SUBJ 18|13|CMOD 19|20|JCT 20|18|PRED 21|20|CONJ
+	22|21|COORD 23|12|PUNCT
+*S1:	&-um if we have a full house then I am going to (.) ask them to
+	open up one more lab section (.) in which case you should be able to
+	CRISP in .
+%mor:	conj|if pro:sub|we v|have det:art|a adj|full n|house adv:tem|then
+	pro:sub|I aux|be&1S part|go-PRESP inf|to v|ask pro:obj|them inf|to
+	v|open adv|up det:num|one adv|more n|lab n|section prep|in
+	pro:rel|which v|case pro:per|you mod|should cop|be adj|able inf|to
+	n:prop|CRISP adv|in .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|10|JCT 8|10|SUBJ
+	9|10|AUX 10|6|CMOD 11|12|INF 12|10|COMP 13|12|OBJ 14|15|INF 15|12|COMP
+	16|15|JCT 17|20|QUANT 18|19|JCT 19|20|MOD 20|16|POBJ 21|20|NJCT 22|23|LINK
+	23|21|POBJ 24|26|SUBJ 25|26|AUX 26|23|COMP 27|26|PRED 28|29|INF
+	29|27|XMOD 30|29|JCT 31|3|PUNCT
+*S1:	&-um other than that there'll be a waiting list and Colleen in &th
+	the bio [: biology] office will do the overrides .
+%mor:	pro:indef|other prep|than det:dem|that pro:exist|there~mod|will
+	cop|be det:art|a part|wait-PRESP n|list coord|and n:prop|Colleen
+	prep|in det:art|the n|biology n|office mod|will v|do det:art|the
+	over#n|ride-PL .
+%gra:	1|17|LINK 2|1|NJCT 3|6|DET 4|6|SUBJ 5|6|AUX 6|2|POBJ 7|9|DET 8|9|MOD
+	9|17|SUBJ 10|9|CONJ 11|10|COORD 12|11|NJCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|17|AUX 17|0|ROOT 18|19|DET 19|17|OBJ 20|17|PUNCT
+*S1:	so I just +//.
+%mor:	co|so pro:sub|I adv|just +//.
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*S1:	before I go today I'm gonna count how many people are in the room
+	and then &-uh by tomorrow I'll know whether they're gonna open up
+	that section .
+%mor:	conj|before pro:sub|I v|go adv:tem|today pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|count pro:int|how qn|many n|person&PL
+	cop|be&PRES prep|in det:art|the n|room coord|and adv:tem|then adv|by
+	adv:tem|tomorrow pro:sub|I~mod|will v|know comp|whether
+	pro:sub|they~aux|be&PRES part|go-PRESP~inf|to adj|open adv|up
+	det:dem|that n|section .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|3|JCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|INF
+	9|7|COMP 10|13|LINK 11|12|QUANT 12|13|SUBJ 13|9|COMP 14|13|JCT 15|16|DET
+	16|14|POBJ 17|23|LINK 18|23|JCT 19|23|JCT 20|23|JCT 21|23|SUBJ 22|23|AUX
+	23|13|CJCT 24|27|LINK 25|27|SUBJ 26|27|AUX 27|23|COMP 28|29|INF
+	29|27|COMP 30|29|JCT 31|32|DET 32|30|POBJ 33|7|PUNCT
+*S1:	so (.) any of you who are not CRISPed in (.) just pretend like you
+	are in the class for now .
+%mor:	adv|so qn|any prep|of pro:per|you pro:int|who cop|be&PRES neg|not
+	n:prop|CRISPed adv|in adv|just adj|pretend prep|like pro:per|you
+	cop|be&PRES prep|in det:art|the n|class prep|for adv|now .
+%gra:	1|2|JCT 2|5|QUANT 3|2|NJCT 4|3|POBJ 5|6|LINK 6|0|ROOT 7|6|NEG 8|6|PRED
+	9|11|JCT 10|11|JCT 11|8|POSTMOD 12|11|JCT 13|12|POBJ 14|11|ENUM
+	15|14|JCT 16|17|DET 17|15|POBJ 18|14|JCT 19|18|POBJ 20|6|PUNCT
+*S1:	&-um go to (.) whichever lab you want to go to the (.) &s the &-uh
+	Wednesday afternoon or the Thursday morning lab (.) and I will let
+	you know then &-um &-uh whether we're gonna open a section or not .
+%mor:	v|go prep|to pro:int|whichever n|lab pro:per|you v|want inf|to v|go
+	prep|to det:art|the det:art|the n:prop|Wednesday n|afternoon
+	coord|or det:art|the n:prop|Thursday n|morning n|lab coord|and
+	pro:sub|I mod|will v|let&ZERO pro:per|you v|know adv:tem|then
+	conj|whether pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|open
+	det:art|a n|section coord|or neg|not .
+%gra:	1|0|ROOT 2|1|JCT 3|6|LINK 4|6|JCT 5|6|SUBJ 6|2|CPOBJ 7|8|INF 8|6|COMP
+	9|8|JCT 10|13|DET 11|13|DET 12|13|MOD 13|9|POBJ 14|8|CONJ 15|18|DET
+	16|17|MOD 17|18|MOD 18|14|COORD 19|22|LINK 20|22|SUBJ 21|22|AUX 22|18|CMOD
+	23|24|SUBJ 24|22|COMP 25|24|JCT 26|29|LINK 27|29|SUBJ 28|29|AUX 29|22|CJCT
+	30|31|INF 31|29|COMP 32|33|DET 33|31|OBJ 34|31|CONJ 35|34|COORD
+	36|1|PUNCT
+*S1:	I should be able to make that announcement &-uh in lecture tomorrow
+	.
+%mor:	pro:sub|I mod|should cop|be adj|able inf|to v|make adv|that
+	n|announce&dv-MENT prep|in n|lecture adv:tem|tomorrow .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|8|JCT 8|6|OBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|3|PUNCT
+*S1:	so (.) for today we're not gonna issue &ov any overrides but we'll
+	either open a section or we'll try and squeeze in &-uh as many of
+	you people as we can +...
+%mor:	adv|so prep|for adv:tem|today pro:sub|we~aux|be&PRES neg|not
+	part|go-PRESP~inf|to v|issue qn|any over#n|ride-PL conj|but
+	pro:sub|we~mod|will coord|either v|open det:art|a n|section coord|or
+	pro:sub|we~mod|will v|try coord|and n|squeeze prep|in prep|as
+	pro:indef|many prep|of pro:per|you n|person&PL conj|as pro:sub|we
+	mod|can +...
+%gra:	1|2|JCT 2|7|JCT 3|2|POBJ 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|9|INF
+	9|7|COMP 10|11|QUANT 11|9|OBJ 12|7|CONJ 13|12|COORD 14|13|OM 15|14|CONJ
+	16|15|COORD 17|18|DET 18|16|OBJ 19|22|LINK 20|22|SUBJ 21|22|AUX 22|15|COORD
+	23|22|CONJ 24|23|COORD 25|24|NJCT 26|25|POBJ 27|26|POBJ 28|27|NJCT
+	29|30|SUBJ 30|28|POBJ 31|33|LINK 32|33|SUBJ 33|15|COORD 34|7|PUNCT
+*S1:	okay anything else ?
+%mor:	co|okay pro:indef|anything post|else ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PQ 4|2|PUNCT
+*S1:	thanks for mentioning oh yeah one other thing (.) the [/] the
+	temperature control in this room is really bizarre .
+%mor:	v|thank-3S prep|for n:gerund|mention-PRESP co|oh co|yeah
+	det:num|one qn|other n|thing det:art|the n|temperature n|control
+	prep|in det:dem|this n|room cop|be&3S adv|real&dadj-LY adj|bizarre .
+%gra:	1|0|ROOT 2|15|JCT 3|15|SUBJ 4|6|COM 5|6|COM 6|8|QUANT 7|8|QUANT
+	8|15|JCT 9|11|DET 10|11|MOD 11|15|SUBJ 12|11|NJCT 13|14|DET 14|12|POBJ
+	15|1|CJCT 16|17|JCT 17|15|PRED 18|1|PUNCT
+*S1:	so whoever ends up sitting there if it's gonna be Melanie or if
+	it's gonna be you that sits there on a regular basis (.) I'm gonna
+	make you thermostat man (.) okay ?
+%mor:	adv|so pro:int|whoever n|end-PL adv|up part|sit-PRESP adv|there
+	conj|if pro:per|it~aux|be&3S part|go-PRESP~inf|to cop|be
+	n:prop|Melanie coord|or conj|if pro:per|it~aux|be&3S
+	part|go-PRESP~inf|to aux|be pro:per|you pro:rel|that v|sit-3S
+	adv|there prep|on det:art|a adj|regular n|basis pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|make pro:per|you n|thermostat n|man adj|okay
+	?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|OBJ 4|3|NJCT 5|3|XMOD 6|5|JCT 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|3|XMOD 11|12|INF 12|10|COMP 13|12|PRED 14|13|CONJ
+	15|18|LINK 16|18|SUBJ 17|18|AUX 18|14|COORD 19|20|INF 20|23|AUX 21|23|SUBJ
+	22|23|LINK 23|18|COMP 24|23|JCT 25|23|JCT 26|28|DET 27|28|MOD 28|25|POBJ
+	29|31|SUBJ 30|31|AUX 31|23|XJCT 32|33|INF 33|31|COMP 34|36|MOD 35|36|MOD
+	36|33|OBJ 37|36|POSTMOD 38|2|PUNCT
+*S1:	so (.) unless you wear flannel shirts every day xxx you are not
+	gonna make it .
+%mor:	adv|so conj|unless pro:per|you v|wear n|flannel n|shirt-PL qn|every
+	n|day pro:per|you aux|be&PRES neg|not part|go-PRESP~inf|to v|make
+	pro:per|it .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|12|CJCT 5|6|MOD 6|4|OBJ 7|8|QUANT 8|4|JCT
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|0|ROOT 13|14|INF 14|12|COMP 15|14|OBJ
+	16|12|PUNCT
+*S1:	but (.) I don't know for me I don't feel the same temperature that
+	you guys do .
+%mor:	conj|but pro:sub|I mod|do~neg|not v|know prep|for pro:obj|me
+	pro:sub|I mod|do~neg|not v|feel det:art|the adj|same n|temperature
+	pro:rel|that pro:per|you n|guy-PL v|do .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|11|CJCT 6|5|JCT 7|6|POBJ 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|0|ROOT 12|14|DET 13|14|MOD 14|11|OBJ 15|18|LINK
+	16|18|SUBJ 17|18|SUBJ 18|14|CMOD 19|11|PUNCT
+*S1:	obviously it's a little bit warmer in this room for me &-um than it
+	is for you guys .
+%mor:	adv|obvious&dadj-LY pro:per|it~cop|be&3S det:art|a adj|little n|bit
+	n|warm&dv-AGT prep|in det:dem|this n|room prep|for pro:obj|me
+	prep|than pro:per|it cop|be&3S prep|for pro:per|you n|guy-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|PRED 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|7|NJCT 12|11|POBJ 13|7|NJCT 14|13|POBJ 15|7|XMOD
+	16|15|JCT 17|18|SUBJ 18|16|POBJ 19|3|PUNCT
+*S1:	so (.) if it seems chilly (.) or if it seems warm (.) let me know
+	or let thermostat man know (.) and (.) he'll go up and [/] and he'll
+	just fiddle with it .
+%mor:	co|so conj|if pro:per|it cop|seem-3S adj|chill&dn-Y coord|or
+	conj|if pro:per|it cop|seem-3S adj|warm v|let&ZERO pro:obj|me v|know
+	coord|or v|let&ZERO n|thermostat n|man v|know coord|and
+	pro:sub|he~mod|will v|go adv|up coord|and pro:sub|he~mod|will
+	adj|just n|fiddle prep|with pro:per|it .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|11|LINK 7|9|LINK 8|9|SUBJ
+	9|11|CJCT 10|9|PRED 11|4|CJCT 12|13|SUBJ 13|11|COMP 14|13|CONJ
+	15|14|COORD 16|17|MOD 17|18|SUBJ 18|15|COMP 19|22|LINK 20|22|SUBJ 21|22|AUX
+	22|13|CJCT 23|22|JCT 24|22|CONJ 25|28|SUBJ 26|28|AUX 27|28|MOD 28|24|COORD
+	29|28|NJCT 30|29|POBJ 31|4|PUNCT
+*S1:	the [/] the trouble with this &-uh thermostat is (.) that a little
+	adjustment here makes a huge adjustment in the room (.) so what'll
+	probably happen is that it'll be like a sauna and then an icebox and
+	then a sauna and then an icebox but eventually (.) we'll all get
+	used to it +...
+%mor:	det:art|the n|trouble prep|with det:dem|this n|thermostat cop|be&3S
+	comp|that det:art|a adj|little n|adjust&dv-MENT adv|here v|make-3S
+	det:art|a adj|huge n|adjust&dv-MENT prep|in det:art|the n|room
+	adv|so pro:int|what~mod|will adv|probable&dadj-LY v|happen aux|be&3S
+	adv|that pro:per|it~mod|will cop|be prep|like det:art|a n|sauna
+	coord|and adv:tem|then det:art|a n|+n|ice+n|box coord|and
+	adv:tem|then det:art|a n|sauna coord|and adv:tem|then det:art|a
+	n|+n|ice+n|box conj|but adv|eventual&dadj-LY pro:sub|we~mod|will
+	adv|all v|get v|use-PAST prep|to pro:per|it +...
+%gra:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|12|LINK 8|10|DET
+	9|10|MOD 10|12|SUBJ 11|12|JCT 12|6|CPRED 13|15|DET 14|15|MOD 15|12|OBJ
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|23|JCT 20|23|SUBJ 21|23|AUX 22|23|JCT
+	23|28|SUBJ 24|28|AUX 25|28|JCT 26|28|SUBJ 27|28|AUX 28|12|COMP 29|28|JCT
+	30|31|DET 31|29|POBJ 32|28|CONJ 33|32|COORD 34|35|DET 35|33|OM
+	36|35|CONJ 37|36|COORD 38|39|DET 39|37|OM 40|39|CONJ 41|43|JCT 42|43|DET
+	43|40|COORD 44|39|CONJ 45|49|JCT 46|49|SUBJ 47|49|AUX 48|49|JCT 49|44|COORD
+	50|49|OBJ 51|49|JCT 52|51|POBJ 53|6|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&-um okay let me get into sort_of the more serious stuff (.) and
+	&-um what I'm hoping to do with the remainder of [/] of this first
+	hour (.) is just give you some &-uh bit of perspective (.) show
+	where biology fits into (.) sort_of the rest of your education (.)
+	and hopefully I can &-um begin that framework that we're gonna fill
+	in [/] in the rest of the term .
+%mor:	co|okay v|let&ZERO pro:obj|me v|get prep|into adv|sort_of
+	det:art|the adv|more adj|serious n|stuff coord|and pro:int|what
+	pro:sub|I~aux|be&1S part|hope-PRESP inf|to v|do prep|with
+	det:art|the n|remainder prep|of det:dem|this adj|first n|hour
+	cop|be&3S adv|just v|give pro:per|you qn|some n|bit prep|of
+	n|perspective n|show pro:rel|where n|biology v|fit-3S prep|into
+	adv|sort_of det:art|the n|rest prep|of det:poss|your
+	n|educate&dv-TION coord|and adv|hope&dadj-FULL-LY pro:sub|I mod|can
+	v|begin det:dem|that n|framework pro:rel|that pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to v|fill prep|in det:art|the n|rest prep|of
+	det:art|the n|term .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|25|JCT 6|5|POBJ 7|10|DET 8|9|JCT
+	9|10|MOD 10|25|SUBJ 11|10|CONJ 12|15|LINK 13|15|SUBJ 14|15|AUX 15|11|COORD
+	16|17|INF 17|15|COMP 18|17|JCT 19|20|DET 20|18|POBJ 21|20|NJCT
+	22|24|DET 23|24|MOD 24|21|POBJ 25|4|COMP 26|27|JCT 27|25|CPRED 28|27|OBJ2
+	29|30|QUANT 30|27|JCT 31|30|NJCT 32|33|MOD 33|31|POBJ 34|36|LINK 35|36|SUBJ
+	36|33|CMOD 37|36|JCT 38|37|JCT 39|40|DET 40|38|POBJ 41|40|NJCT 42|43|DET
+	43|41|POBJ 44|48|LINK 45|48|JCT 46|48|SUBJ 47|48|AUX 48|40|CJCT 49|50|DET
+	50|48|OBJ 51|54|LINK 52|54|SUBJ 53|54|AUX 54|50|CMOD 55|56|INF
+	56|54|COMP 57|56|JCT 58|59|DET 59|57|POBJ 60|59|NJCT 61|62|DET 62|60|POBJ
+	63|2|PUNCT
+*S1:	so I [/] I have entitled this lecture (.) philosophy of science
+	+...
+%mor:	co|so pro:sub|I v|have part|entitle-PASTP det:dem|this n|lecture
+	n|philosophy prep|of n|science +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*S1:	or at least that's the point I'm talking about now (.) I forgot to
+	do it now but &-um usually I will put a rough outline of what I'm
+	gonna cover up there so you know where I am in the lecture +...
+%mor:	coord|or prep|at n|least pro:rel|that~cop|be&3S det:art|the n|point
+	pro:sub|I~aux|be&1S part|talk-PRESP adv|about adv|now pro:sub|I
+	v|forget&PAST inf|to v|do pro:per|it adv|now conj|but
+	adv|usual&dadj-LY pro:sub|I mod|will v|put&ZERO det:art|a adj|rough
+	n|outline prep|of pro:int|what pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|cover prep|up n|there conj|so pro:per|you
+	v|know pro:int|where pro:sub|I cop|be&1S prep|in det:art|the
+	n|lecture +...
+%gra:	1|14|LINK 2|14|JCT 3|2|POBJ 4|5|LINK 5|3|CMOD 6|7|DET 7|5|PRED
+	8|10|SUBJ 9|10|AUX 10|7|CMOD 11|10|JCT 12|10|JCT 13|14|SUBJ 14|0|ROOT 15|16|INF
+	16|14|COMP 17|16|OBJ 18|16|JCT 19|23|LINK 20|23|JCT 21|23|SUBJ 22|23|AUX
+	23|14|CJCT 24|26|DET 25|26|MOD 26|23|OBJ 27|26|NJCT 28|31|LINK
+	29|31|SUBJ 30|31|AUX 31|27|CPOBJ 32|33|INF 33|31|COMP 34|33|JCT 35|34|POBJ
+	36|38|LINK 37|38|SUBJ 38|14|CJCT 39|41|LINK 40|41|SUBJ 41|38|COMP 42|41|JCT
+	43|44|DET 44|42|POBJ 45|14|PUNCT
+*S1:	and (.) the reading for [/] for this is chapter one (.) pages one
+	through sixteen and +...
+%mor:	coord|and det:art|the n:gerund|read-PRESP prep|for pro:dem|this
+	cop|be&3S n|chapter det:num|one v|page-3S det:num|one prep|through
+	det:num|sixteen coord|and +...
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|9|QUANT
+	9|7|ENUM 10|9|OBJ 11|9|JCT 12|11|POBJ 13|6|CONJ 14|6|PUNCT
+*S1:	&-um yeah &i if you look at the web notes it will tell you the
+	specific pages that I'm covering &-uh for each lecture (.) &th the
+	syllabus in your course pack has the broad chapter &-uh reading for
+	the broad chapter that we're involved in (.) the specific notes on
+	the webs have the page numbers and I will always put the page
+	numbers &-uh up when we talk about it .
+%mor:	co|yeah conj|if pro:per|you v|look prep|at det:art|the n|web
+	v|note-3S pro:per|it mod|will v|tell pro:per|you det:art|the
+	adj|specific n|page-PL pro:rel|that pro:sub|I~aux|be&1S
+	part|cover-PRESP prep|for qn|each n|lecture det:art|the n|syllabus
+	prep|in det:poss|your n|course n|pack v|have&3S det:art|the
+	adj|broad n|chapter part|read-PRESP prep|for det:art|the adj|broad
+	n|chapter comp|that pro:sub|we~aux|be&PRES part|involve-PASTP
+	prep|in det:art|the adj|specific n|note-PL prep|on det:art|the
+	n|web-PL v|have det:art|the n|page n|number-PL coord|and pro:sub|I
+	mod|will adv|always v|put&ZERO det:art|the n|page v|number-3S
+	prep|up conj|when pro:sub|we v|talk prep|about pro:per|it .
+%gra:	1|8|COM 2|4|LINK 3|4|SUBJ 4|8|CJCT 5|4|JCT 6|7|DET 7|5|POBJ 8|11|SUBJ
+	9|8|OBJ 10|11|AUX 11|0|ROOT 12|11|OBJ2 13|15|DET 14|15|MOD 15|11|OBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|15|CMOD 20|19|JCT 21|22|QUANT 22|20|POBJ
+	23|24|DET 24|19|OBJ 25|29|LINK 26|28|DET 27|28|MOD 28|29|SUBJ 29|24|CMOD
+	30|32|DET 31|32|MOD 32|29|OBJ 33|32|XMOD 34|49|JCT 35|37|DET 36|37|MOD
+	37|49|SUBJ 38|41|LINK 39|41|SUBJ 40|41|AUX 41|49|XJCT 42|41|JCT
+	43|45|DET 44|45|MOD 45|42|POBJ 46|41|JCT 47|48|DET 48|46|POBJ 49|33|CJCT
+	50|52|DET 51|52|MOD 52|49|OBJ 53|57|LINK 54|57|SUBJ 55|57|AUX 56|57|JCT
+	57|49|CJCT 58|59|DET 59|60|SUBJ 60|57|COMP 61|60|JCT 62|61|POBJ 63|64|SUBJ
+	64|57|CJCT 65|64|JCT 66|65|POBJ 67|11|PUNCT
+*S1:	my advice to you would be to &-uh try and read the stuff before
+	lecture so that you have some idea (.) of how it all fits together
+	before I get here (.) or before I start talking (.) hopefully my
+	lecture should make all the pieces fall into place .
+%mor:	det:poss|my n|advice prep|to pro:per|you mod|will&COND cop|be
+	inf|to v|try coord|and v|read&ZERO det:art|the n|stuff prep|before
+	n|lecture co|so comp|that pro:per|you v|have qn|some n|idea prep|of
+	pro:int|how pro:per|it adv|all v|fit-3S adv|together prep|before
+	pro:sub|I v|get adv|here coord|or conj|before pro:sub|I v|start
+	part|talk-PRESP adv|hope&dadj-FULL-LY det:poss|my n|lecture
+	mod|should v|make qn|all det:art|the n|piece-PL v|fall prep|into
+	n|place .
+%gra:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|3|POBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|10|JCT 14|13|POBJ 15|18|COM
+	16|18|LINK 17|18|SUBJ 18|10|CJCT 19|20|QUANT 20|18|OBJ 21|20|NJCT
+	22|25|LINK 23|25|SUBJ 24|25|JCT 25|21|CPOBJ 26|25|JCT 27|29|JCT 28|29|SUBJ
+	29|25|CJCT 30|29|JCT 31|30|CONJ 32|34|LINK 33|34|SUBJ 34|31|COORD 35|34|COMP
+	36|40|JCT 37|38|DET 38|40|SUBJ 39|40|AUX 40|35|COMP 41|43|QUANT 42|43|DET
+	43|44|SUBJ 44|40|COMP 45|44|JCT 46|45|POBJ 47|6|PUNCT
+*S1:	&-um &i &i if you're like most people and don't read the +//.
+%mor:	conj|if pro:per|you~cop|be&PRES prep|like qn|most n|person&PL
+	coord|and mod|do~neg|not v|read&ZERO det:art|the +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|6|CONJ 8|10|AUX
+	9|8|NEG 10|7|COORD 11|12|DET 12|10|OBJ
+*S1:	until the night before the exam (.) then at least these'll tell you
+	the pages to focus on +...
+%mor:	conj|until det:art|the n|night prep|before det:art|the n|exam
+	adv:tem|then prep|at n|least pro:dem|these~mod|will v|tell
+	pro:per|you det:art|the n|page-PL prep|to n|focus adv|on +...
+%gra:	1|3|LINK 2|3|DET 3|12|CJCT 4|3|NJCT 5|6|DET 6|4|POBJ 7|12|JCT 8|10|JCT
+	9|8|POBJ 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|OBJ2 14|15|DET 15|12|OBJ
+	16|15|NJCT 17|16|POBJ 18|12|JCT 19|12|PUNCT
+*S1:	so (.) I'm gonna start with some definitions and [/] and I don't
+	really (.) care to make you memorize these (.) definitions (.) but
+	(.) at least if I put them down like this &-uh we'll start from a
+	common place .
+%mor:	adv|so pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|start prep|with
+	qn|some n|definition-PL coord|and pro:sub|I mod|do~neg|not
+	adv|real&dadj-LY v|care inf|to v|make pro:per|you v|memory&dadj-IZE
+	det:dem|these n|definition-PL conj|but prep|at n|least conj|if
+	pro:sub|I v|put&ZERO pro:obj|them adv|down prep|like pro:dem|this
+	pro:sub|we~mod|will v|start prep|from det:art|a adj|common n|place .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|QUANT
+	9|7|POBJ 10|15|LINK 11|15|SUBJ 12|15|AUX 13|12|NEG 14|15|JCT 15|9|CMOD
+	16|17|INF 17|15|COMP 18|19|SUBJ 19|17|COMP 20|21|DET 21|19|OBJ 22|21|CONJ
+	23|22|COORD 24|23|POBJ 25|27|LINK 26|27|SUBJ 27|34|CJCT 28|27|OBJ
+	29|27|JCT 30|27|JCT 31|30|POBJ 32|34|SUBJ 33|34|AUX 34|4|CJCT 35|34|JCT
+	36|38|DET 37|38|MOD 38|35|POBJ 39|4|PUNCT
+*S1:	my definition of philosophy (.) is &{l=WRITING_ON_OVERHEAD any
+	thought +...
+%mor:	det:poss|my n|definition prep|of n|philosophy cop|be&3S qn|any
+	n|thought +...
+%gra:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|7|QUANT 7|5|PRED
+	8|5|PUNCT
+*S1:	directed (.) toward evaluation +...
+%mor:	v|direct-PAST prep|toward n|evaluate&dv-TION +...
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*S1:	of (.) sensory experience (.) or mental +...
+%mor:	prep|of adj|sensor&dn-Y n|experience coord|or adj|mental +...
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*S1:	constructs .
+%mor:	v|construct-3S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD what do I mean by that ?
+%mor:	pro:int|what mod|do pro:sub|I v|mean prep|by pro:dem|that ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*S1:	basically (.) any thinking you do that's trying to figure out
+	what's going on and what you're seeing and hearing and feeling or
+	(.) what you can think about and conceive (.) any of that activity
+	(.) I would call (.) broadly in the realm of philosophy +...
+%mor:	adv|basic&dadj-AL-LY qn|any part|think-PRESP pro:per|you v|do
+	comp|that~aux|be&3S part|try-PRESP inf|to v|figure adv|out
+	pro:int|what~aux|be&3S part|go-PRESP adv|on coord|and pro:int|what
+	pro:per|you~aux|be&PRES part|see-PRESP coord|and part|hear-PRESP
+	coord|and part|feel-PRESP coord|or pro:int|what pro:per|you mod|can
+	v|think adv|about coord|and v|conceive qn|any prep|of det:dem|that
+	n|active&dadj-ITY pro:sub|I mod|will&COND v|call adv|broad&dadj-LY
+	prep|in det:art|the n|realm prep|of n|philosophy +...
+%gra:	1|2|JCT 2|3|QUANT 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|8|SUBJ 7|8|AUX 8|5|COMP
+	9|10|INF 10|8|COMP 11|10|JCT 12|14|SUBJ 13|14|AUX 14|10|COMP 15|14|JCT
+	16|14|CONJ 17|20|LINK 18|20|SUBJ 19|20|AUX 20|16|COORD 21|20|CONJ
+	22|21|COORD 23|22|CONJ 24|23|COORD 25|24|CONJ 26|29|LINK 27|29|SUBJ 28|29|AUX
+	29|25|COORD 30|29|JCT 31|29|CONJ 32|31|COORD 33|39|XJCT 34|33|JCT
+	35|36|DET 36|34|POBJ 37|39|SUBJ 38|39|AUX 39|32|COMP 40|39|JCT 41|39|JCT
+	42|43|DET 43|41|POBJ 44|43|NJCT 45|44|POBJ 46|3|PUNCT
+*S1:	science +...
+%mor:	n|science +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	I would define as &{l=WRITING_ON_OVERHEAD a branch of philosophy
+	+...
+%mor:	pro:sub|I mod|will&COND v|define prep|as det:art|a n|branch prep|of
+	n|philosophy +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*S1:	seeking (.) to (.) organize (.) and explain +...
+%mor:	part|seek-PRESP inf|to v|organize coord|and ex#adj|plain +...
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*S1:	material phenomena .
+%mor:	adj|material n|phenomena .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD (0.7) okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so the point of science is basically to understand the world to
+	understand (.) physical things that you can see and feel and measure
+	and touch and hear .
+%mor:	co|so det:art|the n|point prep|of n|science cop|be&3S
+	adv|basic&dadj-AL-LY inf|to v|understand det:art|the n|world inf|to
+	v|understand adj|physical n|thing-PL pro:rel|that pro:per|you
+	mod|can v|see coord|and v|feel coord|and n|measure coord|and n|touch
+	coord|and v|hear .
+%gra:	1|6|COM 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|JCT 8|9|INF
+	9|6|XJCT 10|11|DET 11|9|OBJ 12|13|INF 13|11|XMOD 14|15|MOD 15|13|OBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|15|CMOD 20|19|CONJ 21|20|COORD 22|21|CONJ
+	23|22|COORD 24|23|CONJ 25|24|COORD 26|19|CONJ 27|26|COORD 28|6|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so science doesn't really (.) address questions of (.) why are we
+	here it might address how did we get here or (.) why are we like
+	this and not like that .
+%mor:	co|so n|science mod|do&3S~neg|not adv|real&dadj-LY n|address
+	n|question-PL prep|of pro:int|why cop|be&PRES pro:sub|we adv|here
+	pro:per|it mod|might v|address pro:int|how mod|do&PAST pro:sub|we
+	v|get adv|here coord|or pro:int|why cop|be&PRES pro:sub|we v|like
+	pro:dem|this coord|and neg|not prep|like pro:dem|that .
+%gra:	1|6|COM 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|JCT 6|7|MOD 7|0|ROOT 8|7|JCT
+	9|10|JCT 10|8|CPOBJ 11|15|SUBJ 12|15|JCT 13|15|SUBJ 14|15|AUX 15|10|CPRED
+	16|19|JCT 17|19|AUX 18|19|SUBJ 19|15|COMP 20|19|JCT 21|25|LINK 22|23|JCT
+	23|25|CJCT 24|25|SUBJ 25|19|CJCT 26|19|OBJ 27|26|CONJ 28|27|COORD
+	29|28|JCT 30|29|POBJ 31|7|PUNCT
+*S1:	so it focuses on material phenomena .
+%mor:	co|so pro:per|it v|focus-3S adv|on adj|material n|phenomena .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*S1:	science is +...
+%mor:	n|science cop|be&3S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S1:	couple of properties that you can use to explain (.) science (.) it
+	is empirical .
+%mor:	v|couple prep|of n|property-PL comp|that pro:per|you mod|can v|use
+	inf|to ex#adj|plain n|science pro:per|it cop|be&3S adj|empirical .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|7|LINK 5|7|SUBJ 6|7|AUX 7|1|CJCT 8|9|INF
+	9|7|COMP 10|9|PRED 11|12|SUBJ 12|10|CMOD 13|12|PRED 14|1|PUNCT
+*S1:	which is to say (.) &{l=WRITING_ON_OVERHEAD based on (.)
+	observation +...
+%mor:	pro:rel|which cop|be&3S inf|to v|say v|base-PAST prep|on
+	n|observe&dv-TION +...
+%gra:	1|2|LINK 2|0|ROOT 3|4|INF 4|2|CPRED 5|4|OBJ 6|4|JCT 7|6|POBJ 8|2|PUNCT
+*S1:	of the senses .
+%mor:	prep|of det:art|the n|sense-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD so it hasta be something that we can (.)
+	like I said see feel hear (.) somehow measure &-um and it could be
+	our senses (.) as extended (.) by instruments .
+%mor:	co|so pro:per|it mod|have&3S~inf|to cop|be pro:indef|something
+	pro:rel|that pro:sub|we mod|can conj|like pro:sub|I v|say&PAST
+	co|see v|feel v|hear adv|somehow n|measure coord|and pro:per|it
+	mod|could cop|be det:poss|our n|sense-PL adv|as v|extend-PAST
+	prep|by n|instrument-PL .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|PRED 7|12|LINK 8|12|SUBJ
+	9|12|AUX 10|12|LINK 11|12|SUBJ 12|6|CMOD 13|14|COM 14|12|COMP 15|14|COMP
+	16|17|JCT 17|15|OBJ 18|21|LINK 19|21|SUBJ 20|21|AUX 21|17|CMOD
+	22|23|DET 23|25|SUBJ 24|25|JCT 25|21|COMP 26|25|JCT 27|26|POBJ 28|5|PUNCT
+*S1:	so just because we can't see bacteria (.) doesn't mean we can't
+	study them scientifically (.) because we have microscopes and other
+	machines that can help us see bacteria (.) or in other ways detect
+	bacteria .
+%mor:	adv|so adj|just conj|because pro:sub|we mod|can~neg|not v|see
+	n|bacteria mod|do&3S~neg|not adj|mean pro:sub|we mod|can~neg|not
+	v|study pro:obj|them adv|scientific&dadj-AL-LY conj|because
+	pro:sub|we v|have micro#n|scope-PL coord|and qn|other n|machine-PL
+	pro:rel|that n|can v|help pro:obj|us co|see n|bacteria coord|or
+	prep|in qn|other n|way-PL v|detect n|bacteria .
+%gra:	1|2|JCT 2|15|JCT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|15|CJCT 8|7|OBJ
+	9|11|AUX 10|9|NEG 11|8|POSTMOD 12|15|SUBJ 13|15|AUX 14|13|NEG 15|0|ROOT
+	16|15|OBJ 17|15|JCT 18|20|LINK 19|20|SUBJ 20|15|CJCT 21|20|OBJ 22|21|CONJ
+	23|24|QUANT 24|22|COORD 25|27|LINK 26|27|SUBJ 27|24|CMOD 28|27|OBJ
+	29|30|COM 30|24|CMOD 31|30|CONJ 32|31|COORD 33|34|QUANT 34|35|SUBJ 35|32|POBJ
+	36|35|OBJ 37|15|PUNCT
+*S1:	okay so (.) empirical means it's based on (.) some sort of concrete
+	&-um facts or observable facts +...
+%mor:	adj|okay adv|so adj|empirical n:pt|means pro:per|it~aux|be&3S
+	part|base-PASTP prep|on qn|some n|sort prep|of adj|concrete
+	n|fact-PL coord|or adj|observe&dv-ABLE n|fact-PL +...
+%gra:	1|4|MOD 2|3|JCT 3|4|MOD 4|7|OBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|QUANT 10|8|POBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|7|CONJ 15|16|MOD
+	16|14|COORD 17|7|PUNCT
+*S1:	science is also (.) &{l=WRITING_ON_OVERHEAD inductive +...
+%mor:	n|science cop|be&3S adv|also adj|inductive +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*S1:	which means that (.) general principles +...
+%mor:	pro:rel|which v|mean-3S adv|that adj|general n|principle-PL +...
+%gra:	1|2|LINK 2|0|ROOT 3|4|JCT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*S1:	are (.) derived (.) from (.) specific observations .
+%mor:	aux|be&PRES v|derive-PAST prep|from adj|specific
+	n|observe&dv-TION-PL .
+%gra:	1|2|AUX 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD so if we notice every morning that the sun
+	rises in the east (.) then (.) we may say (.) ahhah (.) I think the
+	sun rises in the east because of (.) whatever [/] whatever theory
+	you come up with .
+%mor:	co|so conj|if pro:sub|we v|notice qn|every n|morning comp|that
+	det:art|the n|sun v|rise-3S adv|in det:art|the adj|east adv:tem|then
+	pro:sub|we mod|may v|say co|ahhah pro:sub|I v|think det:art|the
+	n|sun v|rise-3S adv|in det:art|the adj|east conj|because prep|of
+	pro:int|whatever n|theory pro:per|you v|come adv|up prep|with .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|CMOD 11|17|JCT 12|13|DET 13|17|SUBJ 14|17|JCT 15|17|SUBJ
+	16|17|AUX 17|10|COMP 18|20|COM 19|20|SUBJ 20|17|COMP 21|22|DET
+	22|23|SUBJ 23|20|COMP 24|26|JCT 25|26|DET 26|23|JCT 27|26|JCT 28|27|NJCT
+	29|28|POBJ 30|29|OBJ 31|32|SUBJ 32|30|CMOD 33|32|JCT 34|32|JCT 35|4|PUNCT
+*S1:	the inductive part is trying to figure out the general principle
+	(.) from (.) the repeated observation .
+%mor:	det:art|the adj|inductive n|part aux|be&3S part|try-PRESP inf|to
+	v|figure prep|out det:art|the adj|general n|principle prep|from
+	det:art|the part|repeat-PASTP n|observe&dv-TION .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|7|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|5|PUNCT
+*S1:	so (.) these &{l=WRITING_ON_OVERHEAD principles (.) we call
+	hypotheses (.) theories (.) laws (.) etcetera .
+%mor:	adv|so det:dem|these n|principle-PL pro:sub|we v|call
+	n|hypothesis&PL n|theory-PL n|law-PL adv|etcetera .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|5|SUBJ 5|3|CMOD 6|8|MOD 7|8|MOD 8|5|OBJ
+	9|5|JCT 10|3|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD and I'm not gonna get +//.
+%mor:	coord|and pro:sub|I~aux|be&1S neg|not part|go-PRESP~inf|to v|get
+	+//.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|COMP 8|5|PUNCT
+*S1:	go to the trouble of defining those (.) generally (.) a law is a
+	principle which we believe more strongly in (.) than a hypothesis is
+	(.) or a law is a principle that has more (.) observations (.)
+	underpinning it (.) than (.) a hypothesis does (.) but basically (.)
+	we get ideas of how things work from the observations (.) we call
+	those things &hypo &thes hypotheses (.) theories observations (.)
+	laws whatever .
+%mor:	v|go prep|to det:art|the n|trouble prep|of n:gerund|define-PRESP
+	det:dem|those adv|general&dadj-LY det:art|a n|law cop|be&3S
+	det:art|a n|principle pro:rel|which pro:sub|we v|believe adv|more
+	adv|strong&dadj-LY adv|in prep|than det:art|a n|hypothesis cop|be&3S
+	coord|or det:art|a n|law cop|be&3S det:art|a n|principle
+	pro:rel|that v|have&3S adv|more n|observe&dv-TION-PL
+	under#n:gerund|pin-PRESP pro:per|it prep|than det:art|a n|hypothesis
+	mod|do&3S conj|but adv|basic&dadj-AL-LY pro:sub|we v|get n|idea-PL
+	prep|of pro:int|how n|thing-PL n|work prep|from det:art|the
+	n|observe&dv-TION-PL pro:sub|we v|call det:dem|those n|thing-PL
+	n|hypothesis&PL n|theory-PL n|observe&dv-TION-PL n|law-PL
+	pro:int|whatever .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|11|LINK 6|11|SUBJ 7|8|DET 8|11|JCT
+	9|10|DET 10|11|SUBJ 11|23|CJCT 12|13|DET 13|23|SUBJ 14|16|LINK
+	15|16|SUBJ 16|13|CMOD 17|16|JCT 18|16|JCT 19|16|JCT 20|16|JCT 21|22|DET
+	22|20|POBJ 23|4|CMOD 24|27|LINK 25|26|DET 26|27|SUBJ 27|23|CJCT 28|29|DET
+	29|27|PRED 30|31|LINK 31|29|CMOD 32|31|JCT 33|32|POBJ 34|53|LINK 35|53|SUBJ
+	36|43|JCT 37|38|DET 38|36|POBJ 39|43|AUX 40|43|LINK 41|43|JCT 42|43|SUBJ
+	43|53|CJCT 44|43|OBJ 45|44|NJCT 46|48|LINK 47|48|MOD 48|45|POBJ 49|48|NJCT
+	50|51|DET 51|49|POBJ 52|53|SUBJ 53|33|CMOD 54|59|DET 55|59|MOD
+	56|59|MOD 57|59|MOD 58|59|MOD 59|53|OBJ 60|59|POSTMOD 61|1|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	science is also deductive (.) and that's sort_of the opposite of
+	inductive .
+%mor:	n|science cop|be&3S adv|also adj|deductive coord|and
+	pro:rel|that~cop|be&3S adv|sort_of det:art|the adj|opposite prep|of
+	adj|inductive .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|CONJ 6|7|LINK 7|5|COORD 8|10|JCT
+	9|10|DET 10|7|PRED 11|10|JCT 12|11|POBJ 13|2|PUNCT
+*S1:	that is to say (.) general once we have the &{l=WRITING_ON_OVERHEAD
+	general principles +...
+%mor:	pro:dem|that cop|be&3S inf|to v|say n|general conj|once pro:sub|we
+	v|have det:art|the n|general n|principle-PL +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|CPRED 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|11|DET 10|11|MOD 11|8|OBJ 12|2|PUNCT
+*S1:	&-um they allow us to make (.) specific (.) predictions .
+%mor:	pro:sub|they v|allow pro:obj|us inf|to v|make adj|specific
+	n|prediction-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|COMP 6|7|MOD 7|5|OBJ 8|2|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD so once you decide that the reason that the
+	sun rises in the east is because of the way the world is spinning or
+	the way the (.) earth rotates around the sun (.) I hope there's not
+	any (.) astronomy majors here (.) but (.) &wh whatever (.) you
+	decide it is (.) then you would predict I think the sun is gonna
+	rise in the east again tomorrow (.) okay ?
+%mor:	co|so adv|once pro:per|you v|decide comp|that det:art|the n|reason
+	pro:rel|that det:art|the n|sun v|rise-3S adv|in det:art|the adj|east
+	cop|be&3S conj|because prep|of det:art|the n|way det:art|the n|world
+	aux|be&3S part|spin-PRESP coord|or det:art|the n|way det:art|the
+	n|earth v|rotate-3S prep|around det:art|the n|sun pro:sub|I v|hope
+	pro:exist|there~cop|be&3S neg|not qn|any n|astronomy v|major-3S
+	adv|here conj|but pro:int|whatever pro:per|you v|decide pro:per|it
+	cop|be&3S adv:tem|then pro:per|you mod|will&COND v|predict pro:sub|I
+	v|think det:art|the n|sun aux|be&3S part|go-PRESP~inf|to v|rise
+	prep|in det:art|the adj|east adv|again adv:tem|tomorrow co|okay ?
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|15|LINK 6|7|DET 7|15|SUBJ 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|7|CMOD 12|11|JCT 13|14|DET 14|12|POBJ 15|4|COMP
+	16|23|LINK 17|23|JCT 18|19|DET 19|17|POBJ 20|21|DET 21|23|SUBJ 22|23|AUX
+	23|34|CJCT 24|29|LINK 25|26|DET 26|29|JCT 27|28|DET 28|29|SUBJ
+	29|23|COMP 30|29|JCT 31|32|DET 32|30|POBJ 33|34|SUBJ 34|15|CPRED 35|36|SUBJ
+	36|34|COMP 37|36|NEG 38|39|QUANT 39|40|SUBJ 40|36|CPRED 41|40|JCT 42|40|JCT
+	43|45|LINK 44|45|SUBJ 45|42|CPOBJ 46|45|OBJ 47|51|AUX 48|51|JCT
+	49|51|SUBJ 50|51|AUX 51|45|COMP 52|53|SUBJ 53|40|CJCT 54|55|DET 55|57|SUBJ
+	56|57|AUX 57|53|COMP 58|59|INF 59|57|COMP 60|59|JCT 61|62|DET 62|60|POBJ
+	63|59|JCT 64|59|JCT 65|64|COM 66|4|PUNCT
+*S1:	&-um that seems like a fairly obvious one (.) but that's just (.)
+	as I said (.) working down from the general principle (.) and (.)
+	sort_of a corollary to what I just said therefore (.) science is (.)
+	&=writing_on_overhead testable .
+%mor:	pro:dem|that cop|seem-3S conj|like det:art|a adv|fair&dadj-LY
+	adj|obvious pro:indef|one conj|but pro:rel|that~cop|be&3S adv|just
+	conj|as pro:sub|I v|say&PAST part|work-PRESP adv|down prep|from
+	det:art|the adj|general n|principle coord|and adv|sort_of det:art|a
+	n|corollary prep|to pro:int|what pro:sub|I adv|just v|say&PAST
+	adv|therefore n|science cop|be&3S adj|test&dv-ABLE .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT 4|7|DET 5|6|JCT 6|7|MOD 7|3|INCROOT
+	8|7|CONJ 9|10|LINK 10|8|COORD 11|10|JCT 12|14|LINK 13|14|SUBJ 14|10|CJCT
+	15|14|COMP 16|15|JCT 17|15|JCT 18|20|DET 19|20|MOD 20|17|POBJ 21|15|CONJ
+	22|24|JCT 23|24|DET 24|21|COORD 25|24|JCT 26|29|LINK 27|29|SUBJ 28|29|JCT
+	29|25|CPOBJ 30|32|JCT 31|32|SUBJ 32|29|COMP 33|32|PRED 34|7|PUNCT
+*S1:	&-um predictions (.) can (.) be (.) or are (.) maybe let me put it
+	that way are (.) verified (.) by experimentation +...
+%mor:	n|prediction-PL mod|can cop|be coord|or cop|be&PRES adv|maybe
+	v|let&ZERO pro:obj|me v|put&ZERO pro:per|it det:dem|that n|way
+	aux|be&PRES part|verify-PASTP prep|by n|experiment&dv-TION +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|JCT 7|5|CPRED 8|9|SUBJ
+	9|7|COMP 10|9|OBJ 11|12|DET 12|14|SUBJ 13|14|AUX 14|9|COMP 15|14|JCT
+	16|15|POBJ 17|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so if the sun rose in the west tomorrow that would upset a_lot_of
+	people and upset a_lot_of theories .
+%mor:	adv|so comp|if det:art|the n|sun adj|rose prep|in det:art|the
+	adj|west adv:tem|tomorrow adv|that mod|will&COND v|upset qn|a_lot_of
+	n|person&PL coord|and v|upset qn|a_lot_of n|theory-PL .
+%gra:	1|2|JCT 2|12|LINK 3|4|DET 4|12|SUBJ 5|4|POSTMOD 6|4|NJCT 7|9|DET
+	8|9|MOD 9|6|POBJ 10|12|JCT 11|12|AUX 12|0|ROOT 13|14|QUANT 14|12|OBJ
+	15|12|CONJ 16|15|COORD 17|18|QUANT 18|16|OBJ 19|12|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	generally we say that &-um &{l=WRITING_ON_OVERHEAD hypotheses and
+	predictions (.) are (.) falsifiable +...
+%mor:	adv|general&dadj-LY pro:sub|we v|say comp|that n|hypothesis&PL
+	coord|and n|prediction-PL cop|be&PRES adj|falsify&dv-ABLE +...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|5|CONJ 7|6|COORD 8|3|COMP
+	9|8|PRED 10|3|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD &-um meaning that (.) if the sun rose in
+	the east tomorrow and every day next week (.) that would be
+	consistent with my theory of (.) whatever's causing it (.) but it
+	wouldn't necessarily prove my theory .
+%mor:	n|meaning pro:rel|that comp|if det:art|the n|sun n|rose prep|in
+	det:art|the n|east adv:tem|tomorrow coord|and qn|every n|day
+	adj|next n|week pro:rel|that mod|will&COND cop|be adj|consistent
+	prep|with det:poss|my n|theory prep|of pro:int|whatever~aux|be&3S
+	part|cause-PRESP pro:per|it conj|but pro:per|it
+	mod|will&COND~neg|not adv|necessary&dadj-LY v|prove det:poss|my
+	n|theory .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|6|DET 5|6|MOD 6|3|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|6|NJCT 11|10|CONJ 12|13|QUANT 13|14|JCT 14|15|MOD
+	15|11|COORD 16|18|LINK 17|18|AUX 18|15|CMOD 19|18|PRED 20|19|JCT 21|22|DET
+	22|20|POBJ 23|22|NJCT 24|26|LINK 25|26|AUX 26|23|CPOBJ 27|26|OBJ 28|33|LINK
+	29|33|SUBJ 30|33|AUX 31|30|NEG 32|33|JCT 33|18|CJCT 34|35|DET 35|33|OBJ
+	36|1|PUNCT
+*S1:	there could be some other reason which I don't know that's making
+	the sun rise in the east .
+%mor:	adv|there mod|could cop|be pro:indef|some qn|other n|reason
+	pro:rel|which pro:sub|I mod|do~neg|not v|know comp|that~aux|be&3S
+	part|make-PRESP det:art|the n|sun v|rise prep|in det:art|the n|east
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|6|QUANT 6|4|OBJ 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|6|CMOD 12|14|LINK 13|14|AUX 14|11|COMP 15|16|DET
+	16|17|SUBJ 17|14|COMP 18|17|JCT 19|20|DET 20|18|POBJ 21|3|PUNCT
+*S1:	however &-um it would just take one day of the sun rising in the
+	west to prove all my theories wrong (.) so (.) theories (.) are
+	generally more easily falsifiable (.) than they are absolutely &-uh
+	proven true .
+%mor:	co|however pro:per|it mod|will&COND adv|just v|take det:num|one
+	n|day prep|of det:art|the n|sun part|rise-PRESP prep|in det:art|the
+	adj|west inf|to v|prove adv|all det:poss|my n|theory-PL adj|wrong
+	adv|so n|theory-PL cop|be&PRES adv|general&dadj-LY adv|more
+	adv|ease&dadj-Y-LY adj|falsify&dv-ABLE prep|than pro:sub|they
+	aux|be&PRES adv|absolute&dadj-LY part|prove&PASTP n|true .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|5|XJCT 12|11|JCT 13|14|DET 14|12|POBJ 15|16|INF
+	16|14|XMOD 17|19|JCT 18|19|DET 19|22|MOD 20|22|MOD 21|22|JCT 22|23|SUBJ
+	23|16|COMP 24|23|JCT 25|26|JCT 26|27|JCT 27|24|CPOBJ 28|27|JCT 29|32|SUBJ
+	30|32|AUX 31|32|JCT 32|28|CPOBJ 33|32|OBJ 34|5|PUNCT
+*S1:	what usually happens is (.) you know if [/] if every day for the
+	last three thousand years &-uh the sun has risen in the east (.)
+	then (.) you begin to think (.) your law or your theory or your
+	hypothesis might be right (.) because there's such an overwhelming
+	amount of evidence to support it (.) okay ?
+%mor:	pro:int|what adv|usual&dadj-LY v|happen-3S cop|be&3S pro:per|you
+	v|know comp|if qn|every n|day prep|for det:art|the adj|last
+	det:num|three det:num|thousand n|year-PL det:art|the n|sun
+	aux|have&3S part|rise&PASTP prep|in det:art|the n|east adv:tem|then
+	pro:per|you v|begin inf|to v|think det:poss|your n|law coord|or
+	det:poss|your n|theory coord|or det:poss|your n|hypothesis mod|might
+	cop|be adv|right conj|because pro:exist|there~cop|be&3S qn|such
+	det:art|a part|overwhelm-PRESP n|amount prep|of n|evidence inf|to
+	v|support pro:per|it co|okay ?
+%gra:	1|3|LINK 2|3|JCT 3|6|OBJ 4|3|OBJ 5|6|SUBJ 6|0|ROOT 7|9|LINK 8|9|QUANT
+	9|19|JCT 10|9|NJCT 11|13|DET 12|13|MOD 13|15|QUANT 14|15|QUANT 15|10|POBJ
+	16|17|DET 17|19|SUBJ 18|19|AUX 19|6|COMP 20|19|JCT 21|22|DET 22|20|POBJ
+	23|25|JCT 24|25|SUBJ 25|19|CJCT 26|27|INF 27|25|COMP 28|29|DET
+	29|27|OBJ 30|27|CONJ 31|32|DET 32|30|COORD 33|37|LINK 34|35|DET 35|37|SUBJ
+	36|37|AUX 37|32|COMP 38|37|JCT 39|41|LINK 40|41|SUBJ 41|6|CJCT 42|45|QUANT
+	43|45|DET 44|45|MOD 45|41|PRED 46|45|NJCT 47|46|POBJ 48|49|INF 49|45|XMOD
+	50|49|OBJ 51|49|COM 52|6|PUNCT
+*S1:	that certainly will be true in biology (.) there will be cases
+	where we believe things (.) more strongly or less strongly (.) based
+	on how much evidence we have (.) though in no case (.) theory of
+	evolution what have you (.) can we absolutely a hundred percent say
+	this is exactly how it happened (.) beyond a shadow of a doubt .
+%mor:	pro:dem|that adv|certain&dadj-LY mod|will cop|be adj|true prep|in
+	n|biology adv|there mod|will cop|be n|case-PL pro:rel|where
+	pro:sub|we v|believe n|thing-PL adv|more adv|strong&dadj-LY coord|or
+	adj|less adv|strong&dadj-LY v|base-PAST prep|on pro:int|how adv|much
+	n|evidence pro:sub|we v|have adv|though adv|in qn|no n|case n|theory
+	prep|of n|evolution pro:int|what aux|have pro:per|you mod|can
+	pro:sub|we adv|absolute&dadj-LY det:art|a det:num|hundred n|percent
+	co|say det:dem|this aux|be&3S adv|exact&dadj-LY pro:int|how
+	pro:per|it v|happen-PAST prep|beyond det:art|a n|shadow prep|of
+	det:art|a n|doubt .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|PRED 6|4|JCT 7|6|POBJ 8|10|JCT
+	9|10|AUX 10|4|ROOT 11|10|PRED 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|14|OBJ
+	16|14|JCT 17|14|JCT 18|17|CONJ 19|18|COORD 20|21|JCT 21|14|ROOT 22|21|JCT
+	23|27|LINK 24|25|JCT 25|27|JCT 26|27|SUBJ 27|22|CPOBJ 28|27|JCT
+	29|27|JCT 30|31|QUANT 31|32|MOD 32|29|POBJ 33|32|NJCT 34|33|POBJ 35|38|SUBJ
+	36|38|AUX 37|38|SUBJ 38|32|ROOT 39|38|INCROOT 40|39|JCT 41|43|DET
+	42|43|QUANT 43|40|POBJ 44|50|COM 45|48|DET 46|48|AUX 47|48|JCT 48|50|JCT
+	49|50|SUBJ 50|43|CMOD 51|50|JCT 52|53|DET 53|51|POBJ 54|53|NJCT 55|56|DET
+	56|54|POBJ 57|39|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so why are you here why is biology in the school of &-uh literature
+	sciences and the arts ?
+%mor:	adv|so pro:int|why cop|be&PRES pro:per|you adv|here pro:int|why
+	cop|be&3S n|biology prep|in det:art|the n|school prep|of
+	n|literature n|science-PL coord|and det:art|the n|art-PL ?
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|7|SUBJ 5|7|JCT 6|7|JCT 7|3|PRED 8|7|PRED
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|14|MOD 14|12|POBJ 15|8|CONJ
+	16|17|DET 17|15|COORD 18|3|PUNCT
+*S1:	because it is a branch of philosophy (.) because it is an attempt
+	to understand the world (.) just as (.) &{l=WRITING_ON_OVERHEAD math
+	(.) or &ph &-um &-uh psychology (.) or religion (.)
+	&}l=WRITING_ON_OVERHEAD are (.) different ways to try and make sense
+	of the world .
+%mor:	conj|because pro:per|it cop|be&3S det:art|a n|branch prep|of
+	n|philosophy conj|because pro:per|it cop|be&3S det:art|a n|attempt
+	inf|to v|understand det:art|the n|world adv|just conj|as n|math
+	coord|or n|psychology coord|or n|religion cop|be&PRES adj|different
+	n|way-PL inf|to v|try coord|and v|make n|sense prep|of det:art|the
+	n|world .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|10|LINK
+	9|10|SUBJ 10|3|CJCT 11|12|DET 12|10|PRED 13|14|INF 14|12|XMOD 15|16|DET
+	16|14|OBJ 17|14|JCT 18|24|LINK 19|24|SUBJ 20|19|CONJ 21|20|COORD
+	22|19|CONJ 23|22|COORD 24|10|CJCT 25|26|MOD 26|24|PRED 27|28|INF 28|26|XMOD
+	29|28|CONJ 30|29|COORD 31|30|OBJ 32|31|NJCT 33|34|DET 34|32|POBJ
+	35|3|PUNCT
+*S1:	not all of these ways are (.) compatible with each_other .
+%mor:	neg|not pro:indef|all prep|of det:dem|these n|way-PL cop|be&PRES
+	adj|compatible prep|with pro:refl|each_other .
+%gra:	1|2|NEG 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|6|PRED 8|7|JCT
+	9|8|POBJ 10|6|PUNCT
+*S1:	science has all of these properties (.) that basically these other
+	things don't for example &-um math (.) starts with a few assumptions
+	(.) and (.) is (.) completely &-um deductive beyond that .
+%mor:	n|science aux|have&3S adv|all prep|of det:dem|these n|property-PL
+	pro:rel|that adv|basic&dadj-AL-LY det:dem|these qn|other n|thing-PL
+	mod|do~neg|not prep|for ex#adj|ample n|math v|start-3S prep|with
+	det:art|a qn|few n|assumption-PL coord|and cop|be&3S
+	adv|complete&dadj-LY adj|deductive prep|beyond pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|4|JCT 4|2|NJCT 5|6|DET 6|4|POBJ 7|8|LINK
+	8|6|NJCT 9|11|DET 10|11|QUANT 11|8|POBJ 12|14|AUX 13|12|NEG 14|11|INCROOT
+	15|17|LINK 16|17|SUBJ 17|14|CPOBJ 18|17|JCT 19|21|DET 20|21|QUANT 21|18|POBJ
+	22|14|CONJ 23|22|COORD 24|25|JCT 25|23|PRED 26|25|JCT 27|26|POBJ
+	28|14|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	you don't go out and observe things in math you don't sort of
+	observe two plus two is two &-er (.) four (.) two plus two is
+	whatever it is (.) and you (.) deduce &-um &-um how the rest of it
+	must go because (.) two plus two is four .
+%mor:	pro:per|you mod|do~neg|not v|go adv|out coord|and v|observe
+	n|thing-PL prep|in n|math pro:per|you mod|do~neg|not v|sort prep|of
+	v|observe det:num|two adv|plus det:num|two aux|be&3S det:num|two
+	det:num|four det:num|two adv|plus det:num|two cop|be&3S
+	pro:int|whatever pro:per|it cop|be&3S coord|and pro:per|you v|deduce
+	pro:int|how det:art|the n|rest prep|of pro:per|it mod|must v|go
+	conj|because det:num|two adv|plus det:num|two aux|be&3S det:num|four
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|7|OBJ
+	9|7|JCT 10|9|POBJ 11|14|SUBJ 12|14|AUX 13|12|NEG 14|7|CJCT 15|14|JCT
+	16|15|POBJ 17|18|QUANT 18|22|JCT 19|22|SUBJ 20|22|AUX 21|22|QUANT 22|23|QUANT
+	23|24|QUANT 24|14|JCT 25|26|QUANT 26|14|CJCT 27|29|LINK 28|29|SUBJ
+	29|26|PRED 30|32|LINK 31|32|SUBJ 32|29|CPRED 33|39|LINK 34|35|DET 35|39|SUBJ
+	36|35|NJCT 37|36|POBJ 38|39|AUX 39|32|COMP 40|45|LINK 41|42|QUANT
+	42|43|JCT 43|45|SUBJ 44|45|AUX 45|39|CJCT 46|4|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	religion (.) for example &-um &d depending on what you believe is
+	either revelatory (.) meaning it was handed down &-uh or somebody
+	interpreted it (.) based on &-uh a revelation (.) or it's intuitive
+	something that you study inside yourself and come up with (.) but
+	(.) it certainly is not &-um predictive or testable .
+%mor:	n|religion prep|for n|example n:gerund|depend-PRESP adv|on
+	pro:int|what pro:per|you v|believe aux|be&3S adv|either
+	adj|revelatory n|meaning pro:per|it cop|be&PAST&13S adj|handed
+	adv|down coord|or pro:indef|somebody v|interpret-PAST pro:per|it
+	v|base-PAST prep|on det:art|a n|revelation coord|or
+	pro:per|it~cop|be&3S adj|intuitive pro:indef|something pro:rel|that
+	pro:per|you v|study adj|inside pro:refl|yourself coord|and v|come
+	adv|up prep|with conj|but pro:per|it adv|certain&dadj-LY aux|be&3S
+	neg|not adj|predictive coord|or adj|test&dv-ABLE .
+%gra:	1|4|SUBJ 2|1|NJCT 3|2|POBJ 4|19|JCT 5|4|JCT 6|8|LINK 7|8|SUBJ 8|19|SUBJ
+	9|19|AUX 10|11|JCT 11|12|MOD 12|9|PRED 13|14|SUBJ 14|12|CMOD 15|14|PRED
+	16|14|JCT 17|14|CONJ 18|17|COORD 19|0|ROOT 20|21|SUBJ 21|19|ROOT
+	22|21|JCT 23|24|DET 24|22|POBJ 25|27|LINK 26|27|SUBJ 27|21|ROOT 28|27|PRED
+	29|28|INCROOT 30|32|LINK 31|32|SUBJ 32|29|CMOD 33|34|MOD 34|32|OBJ
+	35|29|CONJ 36|35|COORD 37|36|JCT 38|36|JCT 39|38|CONJ 40|39|COORD 41|40|NJCT
+	42|41|INCROOT 43|42|NEG 44|42|PRED 45|44|CONJ 46|45|COORD 47|42|PUNCT
+*S1:	so (.) &m &m my feeling is [/] is like I said (.) that these are
+	all different ways of looking at the world understanding the world
+	making sense of the world (.) but that you can't really talk about
+	the two (.) simultaneously .
+%mor:	co|so co|my n:gerund|feel-PRESP cop|be&3S co|like pro:sub|I
+	v|say&PAST comp|that pro:dem|these cop|be&PRES adv|all adj|different
+	n|way-PL prep|of n:gerund|look-PRESP prep|at det:art|the n|world
+	part|understand-PRESP det:art|the n|world part|make-PRESP n|sense
+	prep|of det:art|the n|world conj|but comp|that pro:per|you
+	mod|can~neg|not adv|real&dadj-LY v|talk prep|about det:art|the
+	det:num|two adv|simultaneous&dadj-LY .
+%gra:	1|3|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|4|COM 6|7|SUBJ 7|4|CPRED 8|10|LINK
+	9|10|SUBJ 10|7|COMP 11|12|JCT 12|13|MOD 13|10|PRED 14|13|NJCT 15|14|POBJ
+	16|15|JCT 17|18|DET 18|16|POBJ 19|15|XJCT 20|21|DET 21|19|OBJ
+	22|21|XMOD 23|22|OBJ 24|23|NJCT 25|26|DET 26|24|POBJ 27|4|CONJ 28|33|LINK
+	29|33|SUBJ 30|33|AUX 31|30|NEG 32|33|JCT 33|27|COORD 34|33|JCT 35|36|DET
+	36|37|QUANT 37|34|POBJ 38|4|PUNCT
+*S1:	&-um in this course we're gonna (.) look at biology (.) as a branch
+	of science (.) and we're gonna follow that approach .
+%mor:	prep|in det:dem|this n|course pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to v|look prep|at n|biology prep|as det:art|a
+	n|branch prep|of n|science coord|and pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to v|follow pro:dem|that v|approach .
+%gra:	1|6|JCT 2|3|DET 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|JCT 10|9|POBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|8|CJCT 20|21|INF 21|19|COMP 22|23|SUBJ
+	23|21|COMP 24|6|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	the one assumption that I would say (.) that sort of underlies (.)
+	science (.) is (.) &{l=WRITING_ON_OVERHEAD science (.) assumes +...
+%mor:	det:art|the det:num|one n|assumption pro:rel|that pro:sub|I
+	mod|will&COND co|say adv|that n|sort prep|of under#n|lie-PL
+	n|science cop|be&3S n|science v|assume-3S +...
+%gra:	1|3|DET 2|3|QUANT 3|15|SUBJ 4|7|LINK 5|7|SUBJ 6|7|AUX 7|13|COM 8|9|JCT
+	9|13|SUBJ 10|9|NJCT 11|12|MOD 12|10|POBJ 13|3|CMOD 14|13|PRED 15|0|ROOT
+	16|15|PUNCT
+*S1:	that (.) there is (.) some (.) objective truth +...
+%mor:	comp|that adv|there cop|be&3S qn|some adj|objective n|truth +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|MOD 6|3|PRED 7|3|PUNCT
+*S1:	that there is a (.) fundamental &-uh set +...
+%mor:	comp|that adv|there cop|be&3S det:art|a adj|fundamental n|set +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*S1:	of (.) physical (.) and chemical (.) laws (.) which governs the
+	universe +...
+%mor:	prep|of adj|physical coord|and adj|chemical n|law-PL pro:rel|which
+	v|govern-3S det:art|the n|universe +...
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|CONJ 4|5|MOD 5|3|COORD 6|7|LINK 7|2|CMOD
+	8|9|DET 9|7|OBJ 10|1|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	what science is about is trying to figure out how the universe
+	works (.) if (.) those rules are different on Tuesday than they are
+	on Wednesday (.) then (.) science is a hopeless game .
+%mor:	det:int|what n|science aux|be&3S adv|about aux|be&3S part|try-PRESP
+	inf|to v|figure adv|out pro:int|how det:art|the n|universe v|work-3S
+	conj|if det:dem|those n|rule-PL cop|be&PRES adj|different prep|on
+	n:prop|Tuesday prep|than pro:sub|they cop|be&PRES prep|on
+	n:prop|Wednesday adv:tem|then n|science cop|be&3S det:art|a
+	adj|hope&dn-LESS n|game .
+%gra:	1|2|DET 2|6|SUBJ 3|6|AUX 4|6|JCT 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|JCT 10|13|LINK 11|12|DET 12|13|SUBJ 13|8|COMP 14|17|LINK 15|16|DET
+	16|17|SUBJ 17|23|CJCT 18|17|PRED 19|23|JCT 20|23|SUBJ 21|23|JCT 22|23|SUBJ
+	23|13|COMP 24|28|JCT 25|28|SUBJ 26|28|JCT 27|28|SUBJ 28|23|CJCT 29|31|DET
+	30|31|MOD 31|28|PRED 32|6|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	if (.) God is out there changing the laws of physics (.)
+	willy_nilly (.) then (.) God is mean (.) but scientists are doomed .
+%mor:	conj|if n:prop|God aux|be&3S prep|out n|there part|change-PRESP
+	det:art|the n|law-PL prep|of n|physics adj|willy_nilly adv:tem|then
+	n:prop|God cop|be&3S adj|mean conj|but n|scientist-PL aux|be&PRES
+	part|doom-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|AUX 4|6|JCT 5|4|POBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|19|JCT 12|14|JCT 13|14|SUBJ 14|11|CMOD 15|14|PRED
+	16|11|CONJ 17|16|COORD 18|19|AUX 19|8|XMOD 20|6|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&-um if (.) you know if [/] if science is looking (.) for an
+	objective truth and there is no objective truth if our if we can't
+	trust our senses then science &-um will fail .
+%mor:	conj|if pro:per|you v|know comp|if n|science aux|be&3S
+	part|look-PRESP prep|for det:art|a adj|objective n|truth coord|and
+	adv|there cop|be&3S qn|no adj|objective n|truth conj|if det:poss|our
+	conj|if pro:sub|we mod|can~neg|not v|trust det:poss|our n|sense-PL
+	adv:tem|then n|science mod|will v|fail .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|14|LINK 13|14|SUBJ 14|3|CJCT 15|17|QUANT
+	16|17|MOD 17|14|PRED 18|30|LINK 19|20|DET 20|24|LINK 21|24|SUBJ
+	22|24|AUX 23|22|NEG 24|30|CJCT 25|26|DET 26|24|OBJ 27|30|JCT 28|30|SUBJ
+	29|30|AUX 30|3|CJCT 31|3|PUNCT
+*S1:	&-um again the strength of science is really based on (.) its
+	ability to make successful predictions if you study how cells work
+	in the body (.) if you study how cancer &-uh comes into being (.)
+	you (.) should be able to understand that and predict I can do <this
+	and> [/] this and this to disrupt cancer cells .
+%mor:	adv|again det:art|the n|strength prep|of n|science aux|be&3S
+	adv|real&dadj-LY part|base-PASTP prep|on det:poss|its
+	n|able&dadj-ITY inf|to v|make adj|success&dn-FULL n|prediction-PL
+	conj|if pro:per|you v|study pro:int|how n|cell-PL n|work prep|in
+	det:art|the n|body conj|if pro:per|you v|study pro:rel|how n|cancer
+	v|come-3S prep|into n:gerund|be-PRESP pro:per|you mod|should cop|be
+	adj|able inf|to v|understand comp|that coord|and v|predict pro:sub|I
+	mod|can v|do pro:dem|this coord|and pro:dem|this inf|to v|disrupt
+	n|cancer n|cell-PL .
+%gra:	1|8|JCT 2|3|DET 3|8|SUBJ 4|3|NJCT 5|4|POBJ 6|8|AUX 7|8|JCT 8|0|ROOT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|13|INF 13|8|XJCT 14|15|MOD 15|13|OBJ
+	16|18|LINK 17|18|SUBJ 18|8|CJCT 19|21|JCT 20|21|MOD 21|18|OBJ 22|21|NJCT
+	23|24|DET 24|22|POBJ 25|27|LINK 26|27|SUBJ 27|8|CJCT 28|30|LINK 29|30|SUBJ
+	30|27|COMP 31|30|JCT 32|35|LINK 33|35|SUBJ 34|35|AUX 35|31|POBJ 36|35|PRED
+	37|38|INF 38|36|XMOD 39|44|LINK 40|39|CONJ 41|40|COORD 42|44|SUBJ
+	43|44|AUX 44|38|COMP 45|44|OBJ 46|44|CONJ 47|46|COORD 48|49|INF 49|47|COMP
+	50|51|MOD 51|49|OBJ 52|8|PUNCT
+*S1:	the value of science is that those predictions are right and lets
+	you understand the world in ways (.) that help people .
+%mor:	det:art|the n|value prep|of n|science cop|be&3S adv|that
+	det:dem|those n|prediction-PL cop|be&PRES adj|right coord|and
+	v|let-3S pro:per|you v|understand det:art|the n|world prep|in
+	n|way-PL pro:rel|that co|help n|person&PL .
+%gra:	1|2|DET 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|9|JCT 7|8|DET 8|9|SUBJ
+	9|14|CJCT 10|9|PRED 11|10|CONJ 12|11|COORD 13|14|SUBJ 14|5|CPRED 15|16|DET
+	16|14|OBJ 17|16|NJCT 18|17|POBJ 19|21|LINK 20|21|COM 21|18|CMOD
+	22|5|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&-um there is a statement in your textbook (.) somewhere in the
+	first &p &-uh chapter (.) which may not be the most romantic
+	statement in the world (.) but sort of puts this &-um I think (.) in
+	its proper light .
+%mor:	pro:exist|there cop|be&3S det:art|a n|state&dv-MENT prep|in
+	det:poss|your n|textbook adv|somewhere prep|in det:art|the adj|first
+	n|chapter pro:rel|which mod|may neg|not cop|be det:art|the qn|most
+	adj|romantic n|state&dv-MENT prep|in det:art|the n|world conj|but
+	n|sort prep|of v|put-3S det:dem|this pro:sub|I v|think prep|in
+	det:poss|its adj|proper n|light .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|4|NJCT
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|16|LINK 14|16|AUX 15|14|NEG
+	16|8|CMOD 17|20|DET 18|20|QUANT 19|20|MOD 20|16|PRED 21|20|NJCT 22|23|DET
+	23|21|POBJ 24|16|CONJ 25|24|COORD 26|25|NJCT 27|26|POBJ 28|30|DET
+	29|30|SUBJ 30|16|CJCT 31|30|JCT 32|34|DET 33|34|MOD 34|31|POBJ 35|2|PUNCT
+*S1:	&{l=WRITING_ON_OVERHEAD organisms (.) appear (.) to be a triumph
+	(.) of organic chemistry +...
+%mor:	n|organism-PL v|appear inf|to cop|be det:art|a n|triumph prep|of
+	adj|organic n|chemistry +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|PRED 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|2|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD the one thing (.) that explains why you
+	have to take chem two ten and two fifteen .
+%mor:	det:art|the det:num|one n|thing pro:rel|that v|explain-3S
+	pro:int|why pro:per|you v|have inf|to v|take n|chem det:num|two
+	det:num|ten coord|and det:num|two det:num|fifteen .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|8|LINK 7|8|SUBJ
+	8|5|COMP 9|10|INF 10|8|COMP 11|10|OBJ 12|13|QUANT 13|10|OBJ 14|13|CONJ
+	15|16|QUANT 16|14|COORD 17|3|PUNCT
+*S1:	&-um and as I said (.) it may not be fun to think of yourself as
+	nothing more than a giant test tube with (.) you know ten thousand
+	or [/] or a hundred million (.) reactions going on simultaneously
+	(.) but to me it's all the more remarkable (.) to think of (.) I
+	mean (.) you do one reaction in chemistry and how often does it go
+	bad ?
+%mor:	coord|and conj|as pro:sub|I v|say&PAST pro:per|it mod|may neg|not
+	cop|be n|fun inf|to v|think prep|of pro:refl|yourself prep|as
+	pro:indef|nothing qn|more prep|than det:art|a n|giant n|test n|tube
+	prep|with pro:per|you v|know det:num|ten det:num|thousand coord|or
+	det:art|a det:num|hundred det:num|million n|reaction-PL
+	part|go-PRESP adv|on adv|simultaneous&dadj-LY conj|but prep|to
+	pro:obj|me pro:per|it~cop|be&3S qn|all det:art|the adv|more
+	adj|remark&dv-ABLE inf|to v|think prep|of pro:sub|I v|mean
+	pro:per|you v|do det:num|one n|reaction prep|in n|chemistry
+	coord|and pro:rel|how adv|often mod|do&3S pro:per|it v|go adj|bad ?
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|COMP
+	9|8|PRED 10|11|INF 11|9|XMOD 12|11|JCT 13|12|POBJ 14|11|JCT 15|14|POBJ
+	16|48|QUANT 17|16|JCT 18|21|DET 19|20|MOD 20|21|MOD 21|17|POBJ 22|16|JCT
+	23|24|SUBJ 24|22|POBJ 25|26|QUANT 26|31|QUANT 27|26|CONJ 28|29|DET
+	29|27|COORD 30|31|QUANT 31|24|OBJ 32|31|XMOD 33|32|JCT 34|32|JCT 35|39|LINK
+	36|39|JCT 37|36|POBJ 38|39|SUBJ 39|48|CJCT 40|43|QUANT 41|43|DET 42|43|JCT
+	43|39|PRED 44|45|INF 45|43|XMOD 46|45|JCT 47|48|SUBJ 48|11|JCT
+	49|50|SUBJ 50|48|COMP 51|52|QUANT 52|50|OBJ 53|50|JCT 54|53|POBJ 55|50|CONJ
+	56|60|LINK 57|60|JCT 58|60|AUX 59|60|SUBJ 60|55|COORD 61|60|JCT 62|4|PUNCT
+*S1:	&-uh your body is (.) like I said (.) literally (.) hundreds of
+	millions of reactions going on simultaneously (.) all properly
+	controlled (.) that allow you to see (.) think (.) and even (.)
+	begin to &-uh grasp at the whole idea of how you can comprehend such
+	subjects in the first place .
+%mor:	det:poss|your n|body cop|be&3S co|like pro:sub|I v|say&PAST
+	adv|literal&dadj-LY n|hundred-PL prep|of n|million-PL prep|of
+	n|reaction-PL part|go-PRESP adv|on adv|simultaneous&dadj-LY adv|all
+	adv|proper&dadj-LY part|control-PASTP adv|that v|allow pro:per|you
+	inf|to co|see v|think coord|and adv|even v|begin inf|to v|grasp
+	prep|at det:art|the adj|whole n|idea prep|of pro:int|how pro:per|you
+	mod|can v|comprehend qn|such v|subject-3S prep|in det:art|the
+	adj|first n|place .
+%gra:	1|2|DET 2|3|SUBJ 3|6|CJCT 4|3|COM 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|10|NJCT 12|11|POBJ 13|6|XJCT 14|13|JCT 15|17|JCT
+	16|17|JCT 17|18|JCT 18|13|XJCT 19|20|JCT 20|18|COMP 21|20|OBJ 22|24|INF
+	23|24|COM 24|20|COMP 25|24|CONJ 26|27|JCT 27|25|COORD 28|29|INF 29|27|COMP
+	30|29|JCT 31|33|DET 32|33|MOD 33|30|POBJ 34|33|NJCT 35|38|LINK
+	36|38|SUBJ 37|38|AUX 38|34|CPOBJ 39|40|QUANT 40|38|COMP 41|40|JCT 42|44|DET
+	43|44|MOD 44|41|POBJ 45|6|PUNCT
+*S1:	so (.) these chemical reactions let you think about (.) the
+	chemical reactions that are going on to let you think about them .
+%mor:	co|so det:dem|these adj|chemical n|reaction-PL v|let&ZERO
+	pro:per|you v|think prep|about det:art|the n|chemical n|reaction-PL
+	pro:rel|that aux|be&PRES part|go-PRESP adv|on inf|to v|let&ZERO
+	pro:per|you v|think prep|about pro:obj|them .
+%gra:	1|5|COM 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|14|LINK 13|14|AUX 14|11|CMOD 15|14|JCT
+	16|17|INF 17|14|XJCT 18|19|SUBJ 19|17|COMP 20|19|JCT 21|20|POBJ 22|5|PUNCT
+*S1:	if you understand what I'm saying (.) so (.) to me that's as
+	remarkable and awe inspiring (.) &a as any other &-um sort_of view
+	of the universe +...
+%mor:	conj|if pro:per|you v|understand pro:int|what pro:sub|I~aux|be&1S
+	part|say-PRESP adv|so prep|to pro:obj|me pro:dem|that~cop|be&3S
+	adv|as adj|remark&dv-ABLE coord|and n|awe part|inspire-PRESP adv|as
+	qn|any qn|other adv|sort_of v|view prep|of det:art|the n|universe
+	+...
+%gra:	1|3|LINK 2|3|SUBJ 3|12|CJCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|12|SUBJ 12|0|ROOT 13|14|JCT 14|12|PRED 15|12|CONJ
+	16|15|COORD 17|16|XMOD 18|19|JCT 19|20|QUANT 20|22|QUANT 21|22|JCT
+	22|17|COMP 23|22|JCT 24|25|DET 25|23|POBJ 26|12|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so (.) that's my soap box for right now (.) and &-um I'll move on .
+%mor:	co|so pro:dem|that~cop|be&3S det:poss|my n|soap n|box prep|for
+	adv|right adv|now coord|and pro:sub|I~mod|will v|move adv|on .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|9|JCT
+	9|7|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CJCT 14|13|JCT 15|3|PUNCT
+*S1:	alright +..?
+%mor:	co|alright +..?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&-um &{l=WRITING_ON_OVERHEAD biology (.) simple definition here (.)
+	is just the study of life .
+%mor:	n|biology adj|simple n|definition pro:exist|here cop|be&3S adv|just
+	det:art|the n|study prep|of n|life .
+%gra:	1|3|MOD 2|3|MOD 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|8|JCT 7|8|DET 8|5|PRED
+	9|8|NJCT 10|9|POBJ 11|5|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD (0.7) so (.) that (.) begs the question
+	+...
+%mor:	adv|so pro:rel|that v|beg-3S det:art|the n|question +...
+%gra:	1|3|JCT 2|3|LINK 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*S1:	&{l=WRITING_ON_OVERHEAD what is alive +..?
+%mor:	pro:int|what cop|be&3S adj|alive +..?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD okay who's gonna give me a definition of
+	what's alive ?
+%mor:	co|okay pro:rel|who~aux|be&3S part|go-PRESP~inf|to v|give
+	pro:obj|me det:art|a n|definition prep|of pro:int|what~cop|be&3S
+	adj|alive ?
+%gra:	1|4|COM 2|4|LINK 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ2 8|9|DET
+	9|12|SUBJ 10|12|JCT 11|12|SUBJ 12|6|COMP 13|12|PRED 14|4|PUNCT
+*S1:	somebody better rescue poor Sylvia +...
+%mor:	pro:indef|somebody adj|good&CP n|rescue adj|poor n:prop|Sylvia +...
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OM 4|5|MOD 5|3|APP 6|1|PUNCT
+*S1:	I've got a finger and I'm not afraid to use it +...
+%mor:	pro:sub|I~aux|have part|get&PASTP det:art|a n|finger coord|and
+	pro:sub|I~cop|be&1S neg|not adj|afraid inf|to v|use pro:per|it +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|NEG 10|8|PRED 11|12|INF 12|10|XMOD 13|12|OBJ 14|3|PUNCT
+*S3:	things that (.) react and reproduce .
+%mor:	n|thing-PL pro:rel|that v|react coord|and re#v|produce .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*S1:	&{l=WRITING_ON_OVERHEAD react (.) and reproduce .
+%mor:	v|react coord|and re#v|produce .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD do you have a grandmother ?
+%mor:	mod|do pro:per|you v|have det:art|a grand#n|mother ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*S3:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	is she reproducing ?
+%mor:	cop|be&3S pro:sub|she re#n:gerund|produce-PRESP ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*S3:	not lately .
+%mor:	neg|not adv|late&dadj-LY .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*S1:	is she alive ?
+%mor:	cop|be&3S pro:sub|she adj|alive ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*S3:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so your definition doesn't work .
+%mor:	adv|so det:poss|your n|definition mod|do&3S~neg|not v|work .
+%gra:	1|6|JCT 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PUNCT
+*S3:	so she's dead .
+%mor:	co|so pro:sub|she~cop|be&3S adj|dead .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S1:	she's +//.
+%mor:	pro:sub|she~cop|be&3S +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S1:	you +//.
+%mor:	pro:per|you +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	you're happy to redefine her as dead ?
+%mor:	pro:per|you~cop|be&PRES adj|happy inf|to re#v|define pro:obj|her
+	prep|as adj|dead ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|5|OBJ 7|8|COORD 8|6|ENUM
+	9|2|PUNCT
+*S1:	&=laughs:multiple .
+*S3:	maybe I should've said the possibility ⌈ of reproducing ⌉ .
+%mor:	adv|maybe pro:sub|I mod|should~aux|have v|say&PAST det:art|the
+	n|possible&dadj-ITY prep|of re#n:gerund|produce-PRESP .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|5|PUNCT
+*S1:	⌊ capable of ⌋ reproducing ?
+%mor:	adj|capable prep|of re#n:gerund|produce-PRESP ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*S1:	at some point in her life cycle ?
+%mor:	prep|at qn|some n|point prep|in det:poss|her n|life n|cycle ?
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|3|NJCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|1|PUNCT
+*S3:	right +/.
+%mor:	co|right +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, I mean the same goes true for priests and nuns and [/] and
+	&{l=WRITING_ON_OVERHEAD capable of reproducing +...
+%mor:	pro:sub|I v|mean det:art|the adj|same v|go-3S n|true prep|for
+	n|priest-PL coord|and n|nun-PL coord|and adj|capable prep|of
+	re#n:gerund|produce-PRESP +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|OBJ 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|8|CONJ 10|9|COORD 11|5|CONJ 12|11|COORD 13|12|JCT 14|13|POBJ 15|2|PUNCT
+*S1:	at some point (.) &}l=WRITING_ON_OVERHEAD what do you mean by react
+	(.) or somebody else what does he mean by react ?
+%mor:	prep|at qn|some n|point pro:int|what mod|do pro:per|you v|mean
+	adv|by v|react coord|or pro:indef|somebody post|else pro:int|what
+	v|do&3S pro:sub|he v|mean adv|by v|react ?
+%gra:	1|9|JCT 2|3|QUANT 3|1|POBJ 4|7|OBJ 5|7|AUX 6|7|SUBJ 7|3|CMOD 8|7|JCT
+	9|14|CJCT 10|9|CONJ 11|10|COORD 12|11|PQ 13|14|SUBJ 14|0|ROOT 15|16|SUBJ
+	16|14|COMP 17|18|JCT 18|16|COMP 19|14|PUNCT
+*S1:	poke her with a stick and she yells at you +..?
+%mor:	v|poke pro:obj|her prep|with det:art|a n|stick coord|and
+	pro:sub|she v|yell-3S prep|at pro:per|you +..?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|8|LINK 7|8|SUBJ 8|1|CJCT
+	9|8|JCT 10|9|POBJ 11|1|PUNCT
+*S1:	hasta be able to &{l=WRITING_ON_OVERHEAD respond (.) to (.)
+	environment .
+%mor:	mod|have&3S~inf|to cop|be adj|able inf|to v|respond prep|to
+	n|environment .
+%gra:	1|3|AUX 2|3|INF 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	what are other properties I mean what it's coming down to is we're
+	gonna (.) not really have one easy definition of alive and not alive
+	.
+%mor:	pro:int|what cop|be&PRES qn|other n|property-PL pro:sub|I v|mean
+	pro:int|what pro:per|it~aux|be&3S part|come-PRESP adv|down prep|to
+	aux|be&3S pro:sub|we~aux|be&PRES part|go-PRESP~inf|to neg|not
+	adv|real&dadj-LY v|have det:num|one adj|ease&dn-Y n|definition
+	prep|of adj|alive coord|and neg|not adj|alive .
+%gra:	1|2|LINK 2|6|CJCT 3|4|QUANT 4|2|PRED 5|6|SUBJ 6|0|ROOT 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|COMP 11|10|JCT 12|10|JCT 13|16|AUX 14|16|SUBJ
+	15|16|AUX 16|12|POBJ 17|18|INF 18|20|NEG 19|20|JCT 20|16|COMP 21|23|QUANT
+	22|23|MOD 23|20|OBJ 24|23|NJCT 25|24|POBJ 26|25|CONJ 27|28|NEG 28|26|COORD
+	29|6|PUNCT
+*S1:	what we're gonna end up doing is just (.) coming up with a bunch of
+	properties of living organisms .
+%mor:	pro:int|what pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|end
+	adv|up n:gerund|do-PRESP aux|be&3S adv|just part|come-PRESP adv|up
+	prep|with det:art|a n|bunch prep|of n|property-PL prep|of
+	part|live-PRESP n|organism-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|11|SUBJ
+	9|11|AUX 10|11|JCT 11|6|XJCT 12|11|JCT 13|11|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|16|POBJ 18|17|NJCT 19|18|POBJ 20|19|OBJ 21|4|PUNCT
+*S1:	so what are other properties of living organisms ?
+%mor:	co|so pro:int|what aux|be&PRES qn|other n|property-PL prep|of
+	part|live-PRESP n|organism-PL ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|QUANT 5|0|INCROOT 6|5|NJCT 7|8|MOD
+	8|6|POBJ 9|5|PUNCT
+*S1:	I know you were all made to memorize this in seventh grade .
+%mor:	pro:sub|I v|know pro:per|you aux|be&PAST post|all part|make&PASTP
+	inf|to v|memory&dadj-IZE det:dem|this prep|in adj|seventh n|grade .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|PQ 6|2|COMP 7|8|INF 8|6|COMP
+	9|8|OBJ 10|9|JCT 11|12|MOD 12|10|POBJ 13|2|PUNCT
+*S4:	consume energy .
+%mor:	v|consume n|energy .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*S1:	&{l=WRITING_ON_OVERHEAD consume energy .
+%mor:	v|consume n|energy .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD okay +...
+%mor:	co|okay +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	who else ?
+%mor:	pro:int|who post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*S5:	made of cells .
+%mor:	v|make&PAST prep|of n|cell-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*S5:	made of cells ?
+%mor:	v|make&PAST prep|of n|cell-PL ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*S1:	&{l=WRITING_ON_OVERHEAD made of cells (.) &}l=WRITING_ON_OVERHEAD
+	okay +...
+%mor:	v|make&PAST prep|of n|cell-PL adj|okay +...
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|JCT 5|1|PUNCT
+*S1:	that's at least true (.) for everything we know on this planet (.)
+	that they're +//.
+%mor:	pro:dem|that~cop|be&3S prep|at adj|least n|true prep|for
+	pro:indef|everything pro:sub|we v|know prep|on det:dem|this n|planet
+	comp|that pro:sub|they~cop|be&PRES +//.
+%gra:	1|2|SUBJ 2|9|CJCT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|JCT 7|6|POBJ 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|12|DET 12|10|POBJ 13|15|LINK 14|15|SUBJ 15|9|COMP
+	16|9|PUNCT
+*S1:	living creatures are &-uh made of cells +...
+%mor:	part|live-PRESP n|creature-PL aux|be&PRES part|make&PASTP prep|of
+	n|cell-PL +...
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*S1:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	see what I've got on my list +...
+%mor:	v|see pro:int|what pro:sub|I~aux|have part|get&PASTP prep|on
+	det:poss|my n|list +...
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*S1:	I've got +...
+%mor:	pro:sub|I~aux|have part|get&PASTP +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*S1:	well I +//.
+%mor:	co|well pro:sub|I +//.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	I'll just give you my list and [/] and we'll see (.) how much that
+	overlaps &{l=WRITING_ON_OVERHEAD metabolism +...
+%mor:	pro:sub|I~mod|will adv|just v|give pro:per|you det:poss|my n|list
+	coord|and pro:sub|we~mod|will v|see pro:int|how adv|much adv|that
+	over#v|lap-3S n|metabolism +...
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ2 6|7|DET 7|4|OBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|4|CJCT 12|15|LINK 13|14|JCT 14|15|JCT 15|16|CSUBJ
+	16|11|OBJ 17|4|PUNCT
+*S1:	I've got growth (.) and reproduction +...
+%mor:	pro:sub|I~aux|have part|get&PASTP n|growth coord|and
+	re#n|production +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|5|COORD 7|3|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD so (.) growth in size and growth in number
+	+...
+%mor:	co|so n|growth prep|in n|size coord|and n|growth prep|in v|number
+	+...
+%gra:	1|2|COM 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|CONJ 6|5|COORD 7|2|NJCT
+	8|7|POBJ 9|2|PUNCT
+*S1:	and then I've got &{l=WRITING_ON_OVERHEAD evolution +...
+%mor:	coord|and adv:tem|then pro:sub|I~aux|have part|get&PASTP
+	n|evolution +...
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*S1:	and (.) adaptation .
+%mor:	coord|and n|adapt&dv-TION .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so (.) adaptation is basically (.) responding to your environment
+	metabolism is (.) all the reactions that you do to (.) gather energy
+	from the environment and convert it (.) into &-uh useful (.)
+	compounds .
+%mor:	adv|so n|adapt&dv-TION aux|be&3S adv|basic&dadj-AL-LY
+	part|respond-PRESP prep|to det:poss|your n|environment n|metabolism
+	cop|be&3S qn|all det:art|the n|reaction-PL pro:rel|that pro:per|you
+	v|do inf|to v|gather n|energy prep|from det:art|the n|environment
+	coord|and v|convert pro:per|it prep|into adj|use&dn-FULL
+	n|compound-PL .
+%gra:	1|2|JCT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|10|SUBJ 10|6|CPOBJ 11|13|QUANT 12|13|DET 13|10|PRED 14|16|LINK 15|16|SUBJ
+	16|13|CMOD 17|18|INF 18|16|COMP 19|18|OBJ 20|18|JCT 21|22|DET 22|20|POBJ
+	23|5|CONJ 24|23|COORD 25|24|OBJ 26|24|JCT 27|28|MOD 28|26|POBJ
+	29|5|PUNCT
+*S1:	made of cells like I said is how life is on this (.) planet it's
+	sort_of a consequence of what's happened in evolution (.) here .
+%mor:	v|make&PAST prep|of n|cell-PL co|like pro:sub|I v|say&PAST
+	aux|be&3S pro:rel|how n|life cop|be&3S prep|on det:dem|this n|planet
+	pro:per|it~cop|be&3S adv|sort_of det:art|a n|consequence prep|of
+	pro:int|what~aux|be&3S part|happen-PASTP prep|in n|evolution
+	adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|COM 5|6|SUBJ 6|1|CJCT 7|6|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|15|SUBJ 15|10|CJCT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|18|NJCT 20|22|SUBJ 21|22|AUX
+	22|19|CPOBJ 23|22|JCT 24|23|POBJ 25|22|JCT 26|1|PUNCT
+*S1:	and reproduction we've also got covered .
+%mor:	coord|and re#n|production pro:sub|we~aux|have adv|also aux|get&PAST
+	part|cover-PASTP .
+%gra:	1|7|LINK 2|7|LINK 3|7|SUBJ 4|7|AUX 5|7|JCT 6|7|AUX 7|0|ROOT 8|7|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	my sort_of (.) semisolid definition of life (.) would be +...
+%mor:	det:poss|my adv|sort_of semi#adj|solid n|definition prep|of n|life
+	mod|will&COND cop|be +...
+%gra:	1|2|DET 2|3|JCT 3|8|LINK 4|8|SUBJ 5|4|NJCT 6|5|POBJ 7|8|AUX 8|0|ROOT
+	9|8|PUNCT
+*S1:	&{l=WRITING_ON_OVERHEAD anything (.) that can convert (.) materials
+	+...
+%mor:	pro:indef|anything pro:rel|that mod|can v|convert n|material-PL
+	+...
+%gra:	1|0|INCROOT 2|4|LINK 3|4|AUX 4|1|CMOD 5|4|OBJ 6|1|PUNCT
+*S1:	from its environment +...
+%mor:	prep|from det:poss|its n|environment +...
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*S1:	into (.) more copies of itself +...
+%mor:	prep|into qn|more n|copy-PL prep|of pro:refl|itself +...
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*S1:	&}l=WRITING_ON_OVERHEAD okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so you hafta be able to take those things (.) those sugars those
+	chemicals those (.) &buildi those ions those building blocks that
+	are out there (.) and convert them +//.
+%mor:	co|so pro:per|you mod|have~inf|to cop|be adj|able inf|to v|take
+	det:dem|those n|thing-PL det:dem|those n|sugar-PL det:dem|those
+	n|chemical-PL det:dem|those det:dem|those n|ion-PL det:dem|those
+	n|building n|block-PL pro:rel|that cop|be&PRES prep|out n|there
+	coord|and v|convert pro:obj|them +//.
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|PRED 7|8|INF 8|6|XMOD
+	9|20|DET 10|20|MOD 11|20|DET 12|20|MOD 13|14|DET 14|20|MOD 15|17|DET
+	16|17|DET 17|20|MOD 18|20|DET 19|20|MOD 20|8|OBJ 21|22|LINK 22|20|CMOD
+	23|22|JCT 24|23|POBJ 25|20|CONJ 26|25|COORD 27|26|OBJ 28|5|PUNCT
+*S1:	that's the metabolism part .
+%mor:	pro:dem|that~cop|be&3S det:art|the n|metabolism n|part .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*S1:	into more copies of itself so (.) it [/] it makes more of itself
+	and increases in number .
+%mor:	prep|into qn|more n|copy-PL prep|of pro:refl|itself conj|so
+	pro:per|it v|make-3S qn|more prep|of pro:refl|itself coord|and
+	n|increase-PL prep|in v|number .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|3|NJCT 5|4|POBJ 6|8|LINK 7|8|SUBJ
+	8|1|CJCT 9|8|OBJ 10|9|JCT 11|10|POBJ 12|9|CONJ 13|12|COORD 14|8|JCT
+	15|14|POBJ 16|1|PUNCT
+*S1:	&-um the fact (.) well (.) &l living organisms hafta be able to
+	respond to their environment to either move away from bad things or
+	move towards &-uh &t &t to be able to find more and collect more
+	materials from its environment .
+%mor:	det:art|the n|fact n|well part|live-PRESP n|organism-PL
+	mod|have~inf|to cop|be adj|able inf|to v|respond prep|to
+	det:poss|their n|environment prep|to coord|either n|move adv|away
+	prep|from adj|bad n|thing-PL coord|or n|move prep|towards inf|to
+	cop|be adj|able inf|to v|find adv|more coord|and v|collect qn|more
+	n|material-PL prep|from det:poss|its n|environment .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|XMOD 5|8|SUBJ 6|8|AUX 7|8|INF 8|4|COMP
+	9|8|PRED 10|11|INF 11|9|XMOD 12|11|JCT 13|14|DET 14|12|POBJ 15|11|JCT
+	16|15|CONJ 17|16|COORD 18|17|JCT 19|17|NJCT 20|21|MOD 21|19|POBJ
+	22|16|COORD 23|22|COORD 24|23|JCT 25|26|INF 26|24|CPOBJ 27|26|PRED 28|29|INF
+	29|27|XMOD 30|29|JCT 31|29|CONJ 32|31|COORD 33|34|QUANT 34|32|OBJ 35|32|JCT
+	36|37|DET 37|35|POBJ 38|3|PUNCT
+*S1:	and it's also an inevitable consequence that in making copies of
+	themselves (.) they don't make perfect copies (.) therefore the
+	subsequent generations change and there's evolution .
+%mor:	coord|and pro:per|it~cop|be&3S adv|also det:art|a adj|inevitable
+	n|consequence adv|that adv|in part|make-PRESP n|copy-PL prep|of
+	pro:refl|themselves pro:sub|they mod|do~neg|not v|make adj|perfect
+	n|copy-PL adv|therefore det:art|the adj|subsequent
+	n|generate&dv-TION-PL n|change coord|and pro:exist|there~cop|be&3S
+	n|evolution .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|17|JCT 5|7|DET 6|7|MOD 7|17|JCT 8|10|JCT
+	9|10|JCT 10|7|XMOD 11|10|OBJ 12|11|NJCT 13|12|POBJ 14|17|SUBJ 15|17|AUX
+	16|15|NEG 17|3|CPRED 18|19|MOD 19|17|OBJ 20|19|NJCT 21|24|DET 22|23|MOD
+	23|24|MOD 24|20|POBJ 25|27|LINK 26|27|SUBJ 27|24|CMOD 28|27|PRED
+	29|3|PUNCT
+*S6:	would you say that hasta be (.) a natural (.) occurrence ?
+%mor:	mod|will&COND pro:per|you v|say comp|that mod|have&3S~inf|to cop|be
+	det:art|a adj|natural n|occurrence ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|INF 7|3|COMP 8|10|DET
+	9|10|MOD 10|7|PRED 11|3|PUNCT
+*S6:	I mean &wh when you say convert it makes me think of cloning .
+%mor:	pro:sub|I v|mean conj|when pro:per|you co|say v|convert pro:per|it
+	v|make-3S pro:obj|me v|think prep|of n:gerund|clone-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|COM 6|8|CJCT 7|6|OBJ 8|2|COMP
+	9|8|OBJ 10|8|COMP 11|10|JCT 12|11|POBJ 13|2|PUNCT
+*S6:	we've you know we've talked about science as +/.
+%mor:	pro:sub|we~aux|have pro:per|you v|know pro:sub|we~aux|have
+	part|talk-PASTP prep|about n|science adv|as +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|7|JCT
+	9|8|POBJ 10|9|NJCT 11|4|PUNCT
+*S6:	+, taking materials and making copies of its +/.
+%mor:	part|take-PRESP n|material-PL coord|and part|make-PRESP n|copy-PL
+	prep|of det:poss|its +/.
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|CONJ 4|3|COORD 5|4|OBJ 6|5|NJCT 7|6|POBJ
+	8|1|PUNCT
+*S1:	+, okay (.) ⌈ &-um ⌉ +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S6:	+, ⌊ ourselves ⌋ (.) or .
+%mor:	pro:refl|ourselves coord|or .
+%gra:	1|0|INCROOT 2|1|CONJ 3|1|PUNCT
+*S1:	cloning would be reproducing (.) &i in a sense it's asexual
+	reproduction (.) but (.) even cloning would not work if the cell
+	could not carry out metabolism (.) to make the proteins that [/]
+	that second cell or that second organism needs (.) the [/] the
+	membranes the ribosomes the DNA the RNA so (.) cloning does require
+	&-um metabolism and growth in size before you can split into two
+	cells or two organisms (.) which would be that asexual reproduction
+	.
+%mor:	part|clone-PRESP mod|will&COND aux|be re#part|produce-PRESP prep|in
+	det:art|a n|sense pro:per|it~cop|be&3S adj|asexual re#n|production
+	conj|but adv|even part|clone-PRESP mod|will&COND neg|not n|work
+	comp|if det:art|the n|cell mod|could neg|not v|carry adv|out
+	n|metabolism inf|to v|make det:art|the n|protein-PL det:dem|that
+	adj|second n|cell coord|or adv|that adj|second n|organism v|need-3S
+	det:art|the n|membrane-PL det:art|the n|ribosome-PL det:art|the
+	n:prop|DNA det:art|the n:prop|RNA conj|so n:gerund|clone-PRESP
+	mod|do&3S v|require n|metabolism coord|and n|growth prep|in n|size
+	conj|before pro:per|you mod|can v|split&ZERO prep|into det:num|two
+	n|cell-PL coord|or det:num|two n|organism-PL pro:int|which
+	mod|will&COND cop|be det:dem|that adj|asexual re#n|production .
+%gra:	1|0|INCROOT 2|4|AUX 3|4|AUX 4|1|COMP 5|9|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|4|COMP 10|11|MOD 11|9|PRED 12|9|CONJ 13|14|JCT 14|12|COORD 15|17|AUX
+	16|15|NEG 17|14|OBJ 18|23|LINK 19|20|DET 20|23|SUBJ 21|23|AUX 22|21|NEG
+	23|17|CMOD 24|37|JCT 25|37|SUBJ 26|27|INF 27|37|XJCT 28|29|DET 29|37|SUBJ
+	30|32|DET 31|32|MOD 32|37|JCT 33|32|CONJ 34|35|JCT 35|33|COORD
+	36|37|SUBJ 37|23|COMP 38|39|DET 39|37|OBJ 40|41|DET 41|39|OBJ 42|43|DET
+	43|41|CMOD 44|45|DET 45|43|APP 46|49|LINK 47|49|SUBJ 48|49|AUX 49|43|CJCT
+	50|49|OBJ 51|49|CONJ 52|51|COORD 53|52|NJCT 54|53|POBJ 55|58|LINK 56|58|SUBJ
+	57|58|AUX 58|49|CJCT 59|58|JCT 60|61|QUANT 61|59|POBJ 62|58|CONJ
+	63|64|QUANT 64|62|COORD 65|67|LINK 66|67|AUX 67|64|CMOD 68|70|DET 69|70|MOD
+	70|67|PRED 71|1|PUNCT
+*S1:	so (.) cloning does fit under sort_of (.) creation of new life .
+%mor:	adv|so part|clone-PRESP mod|do&3S adj|fit adv|under adv|sort_of
+	n|create&dv-TION prep|of adj|new n|life .
+%gra:	1|2|JCT 2|0|ROOT 3|4|AUX 4|2|OBJ 5|4|JCT 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|2|PUNCT
+*S1:	&y you can think of lots_of things like the classic example is [/]
+	is a virus alive .
+%mor:	pro:per|you mod|can v|think prep|of qn|lots_of n|thing-PL prep|like
+	det:art|the n|classic n|example cop|be&3S det:art|a n|virus
+	adj|alive .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|11|LINK 8|10|DET
+	9|10|MOD 10|11|SUBJ 11|6|CMOD 12|13|DET 13|11|PRED 14|13|POSTMOD
+	15|3|PUNCT
+*S1:	and my opinion is no it's not (.) because it cannot metabolize
+	unless it infects a cell and convinces the cell to do the
+	metabolizing for it .
+%mor:	coord|and det:poss|my n|opinion cop|be&3S qn|no
+	pro:per|it~cop|be&3S neg|not conj|because pro:per|it mod|can~neg|not
+	v|metabolize conj|unless pro:per|it v|infect-3S det:art|a n|cell
+	coord|and v|convince-3S det:art|the n|cell inf|to v|do det:art|the
+	n:gerund|metabolize-PRESP prep|for pro:per|it .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|7|SUBJ 7|4|PRED 8|7|NEG
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|4|CJCT 14|16|LINK 15|16|SUBJ
+	16|13|CJCT 17|18|DET 18|16|OBJ 19|16|CONJ 20|19|COORD 21|22|DET
+	22|20|OBJ 23|24|INF 24|20|XJCT 25|26|DET 26|24|OBJ 27|24|JCT 28|27|POBJ
+	29|4|PUNCT
+*S1:	but things like apple seeds which (.) remain dormant and
+	essentially (.) are doing very little if any metabolism .
+%mor:	conj|but n|thing-PL co|like n|apple v|seed-3S pro:rel|which
+	v|remain adj|dormant coord|and adv|essential&dadj-LY aux|be&PRES
+	part|do-PRESP adv|very adj|little conj|if qn|any n|metabolism .
+%gra:	1|5|LINK 2|4|MOD 3|2|COM 4|5|SUBJ 5|0|ROOT 6|7|LINK 7|5|COMP 8|12|SUBJ
+	9|8|CONJ 10|9|COORD 11|12|AUX 12|7|COMP 13|14|JCT 14|17|MOD 15|17|LINK
+	16|17|QUANT 17|12|OBJ 18|5|PUNCT
+*S1:	are they alive ?
+%mor:	cop|be&PRES pro:sub|they adj|alive ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*S1:	well (.) I guess we would say yes because they're capable of
+	metabolism and capable of growth and reproduction under the right
+	conditions .
+%mor:	co|well pro:sub|I v|guess pro:sub|we mod|will&COND v|say co|yes
+	conj|because pro:sub|they~cop|be&PRES adj|capable prep|of
+	n|metabolism coord|and adj|capable prep|of n|growth coord|and
+	re#n|production prep|under det:art|the adj|right n|condition-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|OBJ 8|10|LINK
+	9|10|SUBJ 10|3|CJCT 11|10|PRED 12|11|JCT 13|12|POBJ 14|13|CONJ
+	15|14|COORD 16|15|JCT 17|16|POBJ 18|10|CONJ 19|18|COORD 20|19|JCT 21|23|DET
+	22|23|MOD 23|20|POBJ 24|3|PUNCT
+*S7:	what about like a person in a coma ?
+%mor:	pro:int|what adv|about prep|like det:art|a n|person prep|in
+	det:art|a n|coma ?
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|5|DET 5|3|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*S1:	person in a coma is (.) still metabolizing (.) and &-um .
+%mor:	n|person prep|in det:art|a n|coma aux|be&3S adv|still
+	part|metabolize-PRESP coord|and .
+%gra:	1|7|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|7|AUX 6|7|JCT 7|0|ROOT 8|7|CONJ
+	9|7|PUNCT
+*S7:	they can't do anything with the environment .
+%mor:	pro:sub|they mod|can~neg|not v|do pro:indef|anything prep|with
+	det:art|the n|environment .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*S1:	&-um that's (.) correct and now we're getting into sort_of sticky
+	philosophical and legal definitions .
+%mor:	pro:dem|that~cop|be&3S adj|correct coord|and adv|now
+	pro:sub|we~aux|be&PRES part|get-PRESP prep|into adv|sort_of n|sticky
+	adj|philosophic-AL coord|and adj|legal n|definition-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|8|LINK 5|8|JCT 6|8|SUBJ 7|8|AUX 8|2|CJCT
+	9|8|JCT 10|11|JCT 11|9|POBJ 12|8|JCT 13|12|CONJ 14|15|MOD 15|13|COORD
+	16|2|PUNCT
+*S1:	&-um they (.) I [/] I mean sad +//.
+%mor:	pro:sub|they pro:sub|I v|mean adj|sad +//.
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*S1:	I mean I'm sure you heard of cases where they can still reproduce
+	&-um the [?] (.) hospital worker goes in there and takes advantage
+	of somebody (.) so (.) &=laughs:multiple they (.) I [/] I [/] &-uh
+	I'm (.) sorry to say it but these things do happen .
+%mor:	pro:sub|I v|mean pro:sub|I~cop|be&1S adj|sure pro:per|you
+	v|hear&PAST prep|of n|case-PL pro:rel|where pro:sub|they mod|can
+	adv|still re#n|produce det:art|the n|hospital n|work&dv-AGT v|go-3S
+	prep|in n|there coord|and v|take-3S n|advantage prep|of
+	pro:indef|somebody conj|so pro:sub|they pro:sub|I~cop|be&1S
+	adj|sorry inf|to v|say pro:per|it conj|but det:dem|these n|thing-PL
+	v|do v|happen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|ROOT 5|4|PRED 6|7|SUBJ 7|4|ROOT 8|7|JCT
+	9|8|POBJ 10|14|LINK 11|14|SUBJ 12|14|AUX 13|14|JCT 14|9|CMOD 15|17|DET
+	16|17|MOD 17|18|SUBJ 18|14|COMP 19|18|JCT 20|19|POBJ 21|18|CONJ
+	22|21|COORD 23|22|OBJ 24|23|NJCT 25|24|POBJ 26|14|ROOT 27|26|INCROOT 28|29|SUBJ
+	29|27|CMOD 30|29|PRED 31|32|INF 32|30|XMOD 33|32|OBJ 34|29|CONJ 35|36|DET
+	36|37|SUBJ 37|34|COORD 38|37|OBJ 39|27|PUNCT
+*S1:	&-um so they are &c they have some of the properties (.) but they
+	no longer have all of the properties .
+%mor:	adv|so pro:sub|they cop|be&PRES pro:sub|they v|have qn|some prep|of
+	det:art|the n|property-PL conj|but pro:sub|they co|no adj|long-CP
+	v|have adv|all prep|of det:art|the n|property-PL .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|CPRED 6|5|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|14|SUBJ 12|14|COM 13|14|JCT 14|10|COORD 15|16|JCT
+	16|14|JCT 17|18|DET 18|16|POBJ 19|3|PUNCT
+*S1:	&-um it gets back to where we say is his grandmother still alive
+	well nobody's gonna argue that case (.) but people do actually argue
+	the case of is a coma person alive +...
+%mor:	pro:per|it v|get-3S adv|back prep|to pro:int|where pro:sub|we v|say
+	cop|be&3S det:poss|his grand#n|mother adv|still adj|alive n|well
+	adj|nobody&dn-POSS part|go-PRESP~inf|to v|argue pro:dem|that v|case
+	conj|but n|person&PL v|do adv|actual&dadj-LY v|argue det:art|the
+	n|case prep|of cop|be&3S det:art|a n|coma n|person adj|alive +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|7|LINK 6|7|SUBJ 7|4|CPOBJ 8|7|COMP
+	9|10|DET 10|8|PRED 11|12|JCT 12|13|MOD 13|10|OM 14|13|POSTMOD 15|14|XMOD
+	16|17|INF 17|15|COMP 18|19|SUBJ 19|17|COMP 20|22|LINK 21|22|SUBJ
+	22|19|COMP 23|22|JCT 24|22|XJCT 25|26|DET 26|24|OBJ 27|26|NJCT 28|27|POBJ
+	29|31|DET 30|31|MOD 31|26|APP 32|31|POSTMOD 33|2|PUNCT
+*S1:	comatose +...
+%mor:	adj|comatose +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&=looks_at_micase_researcher &-uh &=laughs:multiple I gotta be
+	proper a little bit .
+%mor:	pro:sub|I mod|got~inf|to cop|be adj|proper det:art|a adj|little
+	n|bit .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|8|MOD 6|8|DET 7|8|MOD 8|4|PRED
+	9|4|PUNCT
+*S1:	&-um okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&-uh any other questions ?
+%mor:	qn|any qn|other n|question-PL ?
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*S1:	let [/] let me &s close out this hour anyway with &-um one last
+	exhortation to you .
+%mor:	v|let&ZERO pro:obj|me v|close adv|out det:dem|this n|hour
+	adv|anyway prep|with det:num|one n|last n|exhort&dv-TION prep|to
+	pro:per|you .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|1|JCT 8|1|JCT
+	9|11|QUANT 10|11|MOD 11|8|POBJ 12|11|NJCT 13|12|POBJ 14|1|PUNCT
+*S1:	and that is that this is the age of biology .
+%mor:	coord|and pro:dem|that cop|be&3S comp|that pro:dem|this cop|be&3S
+	det:art|the n|age prep|of n|biology .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|PRED 7|8|DET 8|6|PRED
+	9|8|NJCT 10|9|POBJ 11|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	I personally think biology is the most exciting science and that
+	this is the most exciting time to be a biologist .
+%mor:	pro:sub|I adv|personal&dadj-LY v|think n|biology cop|be&3S
+	det:art|the qn|most adj|exciting n|science coord|and comp|that
+	pro:dem|this cop|be&3S det:art|the qn|most adj|exciting n|time
+	inf|to cop|be det:art|a n|biology-IST .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|9|DET 7|9|QUANT 8|9|MOD
+	9|5|PRED 10|9|CONJ 11|13|LINK 12|13|SUBJ 13|10|COORD 14|17|DET
+	15|17|QUANT 16|17|MOD 17|13|PRED 18|19|INF 19|17|XMOD 20|21|DET 21|19|PRED
+	22|3|PUNCT
+*S1:	physics had its heyday they blew up the atomic bomb (.) now it's
+	all boring .
+%mor:	n|physics v|have&PAST det:poss|its n|heyday pro:sub|they
+	v|blow&PAST adv|up det:art|the adj|atomic n|bomb adv|now
+	pro:per|it~aux|be&3S adv|all part|bore-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|SUBJ 6|2|CJCT 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|6|JCT 12|15|SUBJ 13|15|AUX 14|15|JCT 15|6|CJCT
+	16|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&=laughs:multiple chemistry if you were like in Germany a hundred
+	years ago fun [x 3] (.) but now it's just (.) boring [x 3] too .
+%mor:	n|chemistry conj|if pro:per|you cop|be&PAST co|like prep|in
+	n:prop|Germany det:art|a det:num|hundred n|year-PL post|ago adj|fun
+	conj|but adv|now pro:per|it~cop|be&3S adj|just n:gerund|bore-PRESP
+	post|too .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|COM 6|4|JCT 7|6|POBJ
+	8|10|DET 9|10|QUANT 10|6|POBJ 11|10|POSTMOD 12|10|POSTMOD 13|16|LINK 14|16|JCT
+	15|16|SUBJ 16|10|CMOD 17|16|PRED 18|17|ENUM 19|18|PQ 20|1|PUNCT
+*S1:	it's just (.) more of the same .
+%mor:	pro:per|it~cop|be&3S adj|just qn|more prep|of det:art|the adj|same
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*S1:	biology we are still figuring out how life works &-um we are still
+	figuring out basic (.) fundamental questions .
+%mor:	n|biology pro:sub|we aux|be&PRES adv|still part|figure-PRESP
+	prep|out pro:rel|how n|life n|work-PL pro:sub|we aux|be&PRES
+	adv|still part|figure-PRESP adv|out adj|basic adj|fundamental
+	n|question-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|9|LINK 8|9|MOD
+	9|6|POBJ 10|13|SUBJ 11|13|AUX 12|13|JCT 13|9|CMOD 14|13|JCT 15|17|MOD
+	16|17|MOD 17|13|JCT 18|5|PUNCT
+*S1:	how cancer works &-um whether there's life on other planets &-um
+	all the interesting questions I think are in biology .
+%mor:	pro:rel|how n|cancer v|work-3S comp|whether
+	pro:exist|there~cop|be&3S n|life prep|on qn|other n|planet-PL
+	adv|all det:art|the adj|interesting n|question-PL pro:sub|I v|think
+	aux|be&PRES prep|in n|biology .
+%gra:	1|2|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|PRED 8|7|NJCT
+	9|10|QUANT 10|8|POBJ 11|14|JCT 12|14|DET 13|14|MOD 14|10|APP 15|16|SUBJ
+	16|3|CJCT 17|16|OBJ 18|17|JCT 19|18|POBJ 20|3|PUNCT
+*S1:	I'll give you (.) the atom bomb &-uh it's [/] it's amazing to me
+	that it took as long (.) for people to figure out these things in
+	biology as they did .
+%mor:	pro:sub|I~mod|will v|give pro:per|you det:art|the n|atom n|bomb
+	pro:per|it~aux|be&3S part|amaze-PRESP prep|to pro:obj|me comp|that
+	pro:per|it v|take&PAST adv|as adv|long prep|for n|person&PL inf|to
+	v|figure adv|out det:dem|these n|thing-PL prep|in n|biology conj|as
+	pro:sub|they v|do&PAST .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ2 5|7|DET 6|7|MOD 7|3|OBJ 8|10|SUBJ
+	9|10|AUX 10|7|CMOD 11|10|JCT 12|11|POBJ 13|15|LINK 14|15|SUBJ 15|10|CJCT
+	16|15|JCT 17|15|JCT 18|17|JCT 19|18|POBJ 20|21|INF 21|18|CPOBJ 22|21|JCT
+	23|24|DET 24|22|POBJ 25|24|NJCT 26|25|POBJ 27|29|LINK 28|29|SUBJ
+	29|21|CJCT 30|3|PUNCT
+*S1:	the atomic bomb was blown up in nineteen forty five (.) we didn't
+	figure out that DNA was the molecule of inheritance until nineteen
+	fifty three .
+%mor:	det:art|the adj|atomic n|bomb aux|be&PAST&13S part|blow&PASTP
+	adv|up prep|in det:num|nineteen det:num|forty det:num|five
+	pro:sub|we mod|do&PAST~neg|not v|figure adv|out comp|that n:prop|DNA
+	cop|be&PAST&13S det:art|the n|molecule prep|of n|inheritance
+	conj|until det:num|nineteen det:num|fifty det:num|three .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|14|XJCT 6|5|JCT 7|5|JCT 8|9|DATE
+	9|10|QUANT 10|7|POBJ 11|14|SUBJ 12|14|AUX 13|12|NEG 14|0|ROOT 15|14|JCT
+	16|18|LINK 17|18|SUBJ 18|14|COMP 19|20|DET 20|18|PRED 21|20|NJCT 22|21|POBJ
+	23|26|LINK 24|25|QUANT 25|26|QUANT 26|14|CJCT 27|14|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so (.) the most central essential element of what makes me
+	different from [/] from you or any of you different from each_other
+	(.) we didn't know that until after we'd blown up an atomic bomb .
+%mor:	co|so det:art|the qn|most adj|central adj|essential n|element
+	prep|of pro:int|what v|make-3S pro:obj|me adj|different prep|from
+	pro:per|you coord|or qn|any prep|of pro:per|you adj|different
+	prep|from pro:refl|each_other pro:sub|we mod|do&PAST~neg|not v|know
+	pro:dem|that conj|until prep|after pro:sub|we~mod|genmod
+	part|blow&PASTP prep|up det:art|a adj|atomic n|bomb .
+%gra:	1|6|COM 2|6|DET 3|4|QUANT 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|NJCT 8|9|SUBJ
+	9|7|CPOBJ 10|9|OBJ 11|9|JCT 12|11|JCT 13|12|POBJ 14|11|CONJ 15|25|QUANT
+	16|15|NJCT 17|24|SUBJ 18|24|JCT 19|18|JCT 20|19|POBJ 21|24|SUBJ
+	22|24|AUX 23|22|NEG 24|16|POBJ 25|14|COORD 26|30|LINK 27|30|JCT 28|30|SUBJ
+	29|30|AUX 30|11|CJCT 31|30|JCT 32|34|DET 33|34|MOD 34|31|POBJ 35|6|PUNCT
+*S1:	there are (.) at least a half a million new research articles per
+	year coming out in biology .
+%mor:	pro:exist|there cop|be&PRES prep|at adj|least det:art|a n|half
+	det:art|a det:num|million adj|new n|research n|article-PL prep|per
+	n|year part|come-PRESP adv|out prep|in n|biology .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|MOD 5|6|DET 6|3|POBJ 7|11|DET 8|11|QUANT
+	9|11|MOD 10|11|MOD 11|2|CJCT 12|11|NJCT 13|12|POBJ 14|11|XMOD 15|14|JCT
+	16|14|JCT 17|16|POBJ 18|2|PUNCT
+*S1:	&-um &th that's just a tremendous explosion in our knowledge .
+%mor:	pro:dem|that~cop|be&3S adv|just det:art|a adj|tremendous
+	n|explosion prep|in det:poss|our n|knowledge .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|JCT 4|6|DET 5|6|MOD 6|2|PRED 7|2|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*S1:	because of that (.) I &w &y nobody can keep up with all the
+	specifics <in the> [/] in the course (.) I am gonna try and focus on
+	some unifying themes in this course &-um some [/] some concepts that
+	are true for whatever level of &b &w biology or whatever area of
+	biology &-uh you guys are specifically interested in .
+%mor:	conj|because prep|of det:dem|that pro:sub|I pro:indef|nobody
+	mod|can v|keep adv|up prep|with qn|all det:art|the n:pt|specifics
+	prep|in det:art|the n|course pro:sub|I aux|be&1S
+	part|go-PRESP~inf|to v|try coord|and n|focus prep|on qn|some
+	n:gerund|unify-PRESP n|theme-PL prep|in det:dem|this n|course
+	qn|some n|concept-PL pro:rel|that cop|be&PRES n|true prep|for
+	pro:int|whatever n|level prep|of n|biology coord|or pro:int|whatever
+	n|area prep|of n|biology pro:per|you n|guy-PL aux|be&PRES
+	adv|specific&dadj-AL-LY part|interest-PASTP adv|in .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|7|SUBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|12|QUANT 11|12|DET 12|18|JCT 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|18|SUBJ 17|18|AUX 18|9|POBJ 19|20|INF 20|18|COMP 21|20|CONJ 22|31|MOD
+	23|22|NJCT 24|26|QUANT 25|26|MOD 26|23|POBJ 27|26|NJCT 28|29|DET
+	29|27|POBJ 30|31|QUANT 31|21|COORD 32|33|LINK 33|31|CMOD 34|33|PRED 35|34|NJCT
+	36|35|POBJ 37|36|OBJ 38|37|NJCT 39|38|POBJ 40|37|CONJ 41|49|LINK 42|46|MOD
+	43|42|NJCT 44|43|POBJ 45|46|MOD 46|49|SUBJ 47|49|AUX 48|49|JCT
+	49|40|COORD 50|49|JCT 51|7|PUNCT
+*S1:	okay I'm gonna start off my next lecture then the next hour with
+	those themes (.) and then move on from there .
+%mor:	co|okay pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|start prep|off
+	det:poss|my adj|next n|lecture adv:tem|then det:art|the adj|next
+	n|hour prep|with det:dem|those n|theme-PL coord|and adv:tem|then
+	v|move adv|on prep|from adv|there .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|20|LINK 19|20|JCT 20|14|CJCT 21|20|JCT 22|20|JCT
+	23|22|POBJ 24|4|PUNCT
+*S1:	so (.) be back by like ten after .
+%mor:	adv|so cop|be adv|back prep|by co|like det:num|ten adv:tem|after .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|JCT 5|7|COM 6|7|QUANT 7|4|POBJ 8|2|PUNCT
+@End

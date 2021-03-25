@@ -1,0 +1,1570 @@
+@UTF8
+@PID:	11312/a-00010184-1
+@Begin
+@Languages:	eng
+@Participants:	S1 Professor Teacher, SUF Student Student, SUM Student
+	Student, SS Unknown Unidentified
+@ID:	eng|MICASE|S1|60;|male|NSO||Teacher|SF||
+@ID:	eng|MICASE|SUF|20;|female|NS||Student|SU||
+@ID:	eng|MICASE|SUM|20;|male|NS||Student|SU||
+@ID:	eng|MICASE|SS|||NS||Unidentified|UN||
+@Media:	les175su031, audio, unlinked
+@Date:	07-AUG-1998
+@Situation:	Reighard Lab, University of Michigan Biological Station,
+	Pellston, Michigan
+*S1:	&=multiple_background_conversations_next_3:30 mark them I want you
+	to put them back again .
+%mor:	v|mark pro:obj|them pro:sub|I v|want pro:per|you inf|to v|put&ZERO
+	pro:obj|them adv|back adv|again .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|SUBJ 4|1|COMP 5|7|SUBJ 6|7|INF 7|4|COMP 8|7|OBJ
+	9|7|JCT 10|7|JCT 11|1|PUNCT
+*S1:	&=laughs:multiple .
+*SUF:	xxx do we have <to number them> [?] (.) then the total number xxx .
+%mor:	mod|do pro:sub|we v|have inf|to v|number pro:obj|them adv:tem|then
+	det:art|the n|total v|number .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|10|SUBJ 7|10|JCT 8|9|DET
+	9|10|SUBJ 10|5|COMP 11|3|PUNCT
+*S1:	okay (.) we are gonna count the number that are marked .
+%mor:	adj|okay pro:sub|we aux|be&PRES part|go-PRESP~inf|to v|count
+	det:art|the n|number pro:rel|that aux|be&PRES part|mark-PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|11|LINK 10|11|AUX 11|8|CMOD 12|4|PUNCT
+*SUF:	well what about [?] ⌈ xxx <count the total number of> [?] xxx ⌉ .
+%mor:	co|well pro:int|what adv|about n|count det:art|the n|total n|number
+	prep|of .
+%gra:	1|4|COM 2|4|LINK 3|4|JCT 4|0|INCROOT 5|7|DET 6|7|MOD 7|4|ENUM 8|7|NJCT
+	9|4|PUNCT
+*SUF:	⌊ how are we gonna mark them ⌋ ?
+%mor:	pro:int|how cop|be&PRES pro:sub|we part|go-PRESP~inf|to v|mark
+	pro:obj|them ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|6|INF 6|4|COMP 7|6|OBJ 8|2|PUNCT
+*S1:	okay &=laughs:multiple .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	oh (.) more than a hundred .
+%mor:	co|oh qn|more prep|than det:art|a det:num|hundred .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*SUF:	am I being difficult ?
+%mor:	aux|be&1S pro:sub|I part|be-PRESP adj|difficult ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S1:	no you're not being difficult .
+%mor:	co|no pro:per|you~aux|be&PRES neg|not part|be-PRESP adj|difficult .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*SUF:	good [?] .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	as always (.) you just look ahead .
+%mor:	prep|as adv|always pro:per|you adv|just v|look adv|ahead .
+%gra:	1|2|COORD 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*S1:	⌈ it's +//.
+%mor:	pro:per|it~cop|be&3S +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S1:	I'm not used to it ⌉ .
+%mor:	pro:sub|I~aux|be&1S neg|not part|use-PASTP prep|to pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*SUF:	⌊ I'm not gonna eat this ⌋ .
+%mor:	pro:sub|I~aux|be&1S neg|not part|go-PRESP~inf|to v|eat det:dem|this
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*SUF:	xxx <you're just> [?] patient .
+%mor:	pro:per|you~cop|be&PRES adj|just n|patient .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*SUF:	patient ?
+%mor:	adj|patient ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	&=laughs:multiple .
+*SUF:	I would like (.) xxx .
+%mor:	pro:sub|I mod|will&COND prep|like .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*S1:	first of all (.) leave her alone .
+%mor:	adv|first prep|of adv|all v|leave pro:obj|her post|alone .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|JCT 4|2|POBJ 5|2|POBJ 6|5|POSTMOD 7|1|PUNCT
+*S1:	&=laughs:multiple .
+*SUF:	xxx patient .
+%mor:	adj|patient .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	leave her alone +...
+%mor:	v|leave pro:obj|her adv|alone +...
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*S1:	&=laughs:multiple oh I like that .
+%mor:	co|oh pro:sub|I co|like pro:dem|that .
+%gra:	1|4|COM 2|4|SUBJ 3|2|COM 4|0|ROOT 5|4|PUNCT
+*S1:	oh definitely the happy face is the best mark so far .
+%mor:	co|oh adv|definite&dadj-LY det:art|the adj|happy n|face cop|be&3S
+	det:art|the adj|good&SP n|mark adv|so adv|far .
+%gra:	1|6|COM 2|6|JCT 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|PRED 10|11|JCT 11|9|NJCT 12|6|PUNCT
+*S1:	it hasta be doesn't it ?
+%mor:	pro:per|it mod|have&3S~inf|to aux|be mod|do&3S~neg|not pro:per|it ?
+%gra:	1|7|SUBJ 2|7|AUX 3|7|INF 4|7|AUX 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|PUNCT
+*S1:	okay (.) what I need to know is how many people marked (.) Beth ?
+%mor:	co|okay pro:int|what pro:sub|I v|need inf|to v|know aux|be&3S
+	pro:int|how qn|many n|person&PL v|mark-PAST n:prop|Beth ?
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|9|AUX 8|9|JCT
+	9|10|QUANT 10|11|SUBJ 11|6|COMP 12|11|OBJ 13|4|PUNCT
+*SUF:	six .
+%mor:	det:num|six .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	six .
+%mor:	det:num|six .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	eight .
+%mor:	det:num|eight .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	eight .
+%mor:	det:num|eight .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	five .
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	five .
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	five .
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	five .
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	five .
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	four .
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	five four .
+%mor:	det:num|five det:num|four .
+%gra:	1|2|DATE 2|0|INCROOT 3|2|PUNCT
+*SUF:	five .
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	zero .
+%mor:	det:num|zero .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	five .
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	I wonder if xxx .
+%mor:	pro:sub|I v|wonder comp|if .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*S1:	five .
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	⌈ three ⌉ ?
+%mor:	det:num|three ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	⌊ &se ⌋ seven .
+%mor:	det:num|seven .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	seven .
+%mor:	det:num|seven .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&=whistle:SUm .
+*SUF:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	seven .
+%mor:	det:num|seven .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	seven .
+%mor:	det:num|seven .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	eight .
+%mor:	det:num|eight .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	eight .
+%mor:	det:num|eight .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	you took a big handful didn't you ?
+%mor:	pro:per|you v|take&PAST det:art|a adj|big n|hand-FUL
+	mod|do&PAST~neg|not pro:per|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|8|SUBJ 6|8|AUX 7|6|NEG 8|2|OBJ
+	9|2|PUNCT
+*S1:	&=laughs:multiple .
+*SUF:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	⌈ I ate a few of the yellow ones ⌉ .
+%mor:	pro:sub|I v|eat&PAST det:art|a qn|few prep|of det:art|the
+	adj|yellow pro:indef|one-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*S1:	⌊ I'm still waiting on Sarah ⌋ .
+%mor:	pro:sub|I~aux|be&1S adv|still part|wait-PRESP prep|on n:prop|Sarah
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*S1:	two okay (.) ⌈ then ⌉ +/.
+%mor:	det:num|two adj|okay adv:tem|then +/.
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|JCT 4|2|PUNCT
+*SUF:	⌊ oh [?] three ⌋ .
+%mor:	co|oh det:num|three .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	+, &thr oh I'm sorry three .
+%mor:	co|oh pro:sub|I~cop|be&1S adj|sorry det:num|three .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	please put them all back in the bowl and stir them all together .
+%mor:	co|please v|put&ZERO pro:obj|them post|all adv|back prep|in
+	det:art|the n|bowl coord|and v|stir pro:obj|them post|all
+	adv|together .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|3|PQ 5|2|JCT 6|2|JCT 7|8|DET 8|6|POBJ
+	9|2|CONJ 10|9|COORD 11|10|OBJ 12|11|PQ 13|10|JCT 14|2|PUNCT
+*SUF:	xxx why does it matter how many we took ?
+%mor:	pro:int|why mod|do&3S pro:per|it v|matter pro:int|how qn|many
+	pro:sub|we v|take&PAST ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|8|LINK 6|8|QUANT 7|8|SUBJ 8|4|COMP
+	9|4|PUNCT
+*SUF:	remember the grasshopper [?] xxx .
+%mor:	v|remember det:art|the n|+n|grass+n|hopper .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*S1:	ah <you've done> [/] you've done one already have you ?
+%mor:	co|ah pro:per|you~aux|have part|do&PASTP det:num|one adv|already
+	v|have pro:per|you ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|JCT 7|4|COMP 8|7|OBJ
+	9|4|PUNCT
+*SUF:	we did xxx we did like an actual experiment .
+%mor:	pro:sub|we mod|do&PAST pro:sub|we v|do&PAST prep|like det:art|a
+	adj|actual n|experiment .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*S1:	it's easy with m@l and m@l-s it works with m@l and m@l-s .
+%mor:	pro:per|it~cop|be&3S adj|ease&dn-Y prep|with n:let|m coord|and
+	n:let|m-PL pro:per|it v|work-3S prep|with n:let|m coord|and
+	n:let|m-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|4|POBJ 6|5|CONJ 7|6|COORD 8|9|SUBJ
+	9|2|CJCT 10|9|JCT 11|10|POBJ 12|11|CONJ 13|12|COORD 14|2|PUNCT
+*S1:	&=laughs:multiple okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	&-um someone with a calculator Steven yours (.) you have a
+	calculator don't you ?
+%mor:	pro:indef|someone prep|with det:art|a n|calculator n:prop|Steven
+	pro:poss|yours pro:per|you v|have det:art|a n|calculator
+	mod|do~neg|not pro:per|you ?
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|APP 6|8|LINK 7|8|SUBJ
+	8|5|CMOD 9|10|DET 10|13|SUBJ 11|13|AUX 12|11|NEG 13|8|OBJ 14|1|PUNCT
+*SUM:	no (.) actually (.) &=laughs:multiple someone took it (.) actually
+	.
+%mor:	co|no adv|actual&dadj-LY pro:indef|someone v|take&PAST pro:per|it
+	adv|actual&dadj-LY .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*S1:	oh does anyone have a calculator ?
+%mor:	co|oh mod|do&3S pro:indef|anyone v|have det:art|a n|calculator ?
+%gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*SUF:	I do .
+%mor:	pro:sub|I v|do .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S1:	just if you could total the number for me it would make my life
+	easier .
+%mor:	adv|just conj|if pro:per|you mod|could v|total det:art|the n|number
+	prep|for pro:obj|me pro:per|it mod|will&COND v|make det:poss|my
+	n|life adj|ease&dn-Y-CP .
+%gra:	1|2|JCT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|12|CJCT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|14|DET 14|12|OBJ 15|14|POSTMOD
+	16|12|PUNCT
+*S1:	xxx .
+*SUF:	seventy seven .
+%mor:	det:num|seventy det:num|seven .
+%gra:	1|2|DATE 2|0|INCROOT 3|2|PUNCT
+*SUF:	seventy seven .
+%mor:	det:num|seventy det:num|seven .
+%gra:	1|2|DATE 2|0|INCROOT 3|2|PUNCT
+*S1:	seventy seven .
+%mor:	det:num|seventy det:num|seven .
+%gra:	1|2|DATE 2|0|INCROOT 3|2|PUNCT
+*S1:	&=multiple_unintelligible_conversations .
+*S1:	it works .
+%mor:	pro:per|it v|work-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	now (.) if they're all mixed up (.) what we do is (.) we now (.)
+	&wh what we'd do normally &-um is you go out and you would catch a
+	bunch of fish and you would mark them .
+%mor:	adv|now conj|if pro:sub|they~aux|be&PRES post|all part|mix-PASTP
+	adv|up pro:int|what pro:sub|we v|do cop|be&3S pro:sub|we adv|now
+	pro:int|what pro:sub|we~mod|genmod v|do adv|normal&dadj-LY cop|be&3S
+	pro:per|you v|go adv|out coord|and pro:per|you mod|will&COND v|catch
+	det:art|a n|bunch prep|of n|fish coord|and pro:per|you mod|will&COND
+	v|mark pro:obj|them .
+%gra:	1|0|INCROOT 2|6|LINK 3|6|SUBJ 4|6|AUX 5|4|PQ 6|1|PUNCT 7|6|JCT
+	8|10|LINK 9|10|SUBJ 10|6|COMP 11|10|COMP 12|6|INCROOT 13|12|JCT 14|17|LINK
+	15|17|SUBJ 16|17|AUX 17|13|CPOBJ 18|17|JCT 19|17|COMP 20|21|SUBJ 21|19|CPRED
+	22|21|JCT 23|26|LINK 24|26|SUBJ 25|26|AUX 26|21|CJCT 27|28|DET 28|26|OBJ
+	29|28|NJCT 30|29|POBJ 31|34|LINK 32|34|SUBJ 33|34|AUX 34|26|CJCT
+	35|34|OBJ 36|12|PUNCT
+*S1:	you mark them in a number of ways .
+%mor:	pro:per|you v|mark pro:obj|them prep|in det:art|a n|number prep|of
+	n|way-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|2|PUNCT
+*S1:	one way is to clip a fin .
+%mor:	det:num|one n|way cop|be&3S inf|to v|clip det:art|a n|fin .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*S1:	typically if it's a trout you would clip the adipose fin (.) or
+	maybe a little piece of the dorsal fin or the anal fin .
+%mor:	adv|typical&dadj-LY conj|if pro:per|it~cop|be&3S det:art|a n|trout
+	pro:per|you mod|will&COND v|clip det:art|the adj|adipose n|fin
+	coord|or adv|maybe det:art|a adj|little n|piece prep|of det:art|the
+	n|dorsal n|fin coord|or det:art|the adj|anal n|fin .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|12|DET 11|12|MOD 12|9|OBJ 13|12|CONJ 14|13|COORD 15|17|DET
+	16|17|MOD 17|14|POBJ 18|17|NJCT 19|21|DET 20|21|MOD 21|18|POBJ 22|17|CONJ
+	23|25|DET 24|25|MOD 25|22|COORD 26|4|PUNCT
+*S1:	usually not (.) &whi or [/] or the paired fins for that matter .
+%mor:	adv|usual&dadj-LY neg|not coord|or det:art|the part|pair-PASTP
+	n|fin-PL prep|for pro:dem|that v|matter .
+%gra:	1|7|JCT 2|1|NEG 3|1|CONJ 4|6|DET 5|6|MOD 6|3|COORD 7|9|LINK 8|9|SUBJ
+	9|0|ROOT 10|9|PUNCT
+*S1:	&-uh you [/] you take a clip out .
+%mor:	pro:per|you v|take det:art|a n|clip adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*S1:	and &-um then you put the fish back .
+%mor:	coord|and adv:tem|then pro:per|you v|put&ZERO det:art|the n|fish
+	adv|back .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*S1:	and (.) then (.) you come back on another occasion (.) say a day
+	later a week later a year later or whatever (.) and you recapture a
+	bunch of fishes .
+%mor:	coord|and adv:tem|then pro:per|you v|come adv|back prep|on
+	qn|another n|occasion v|say det:art|a n|day adv|later det:art|a
+	n|week adv|later det:art|a n|year adv|later coord|or
+	pro:int|whatever coord|and pro:per|you re#n|capture det:art|a
+	n|bunch prep|of n|fish-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|9|LINK 7|8|QUANT 8|9|SUBJ
+	9|4|CJCT 10|11|DET 11|4|JCT 12|14|JCT 13|14|DET 14|11|XMOD 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|17|NJCT 19|18|CONJ 20|19|COORD 21|23|LINK
+	22|23|SUBJ 23|20|CJCT 24|25|DET 25|23|OBJ 26|25|NJCT 27|26|POBJ 28|4|PUNCT
+*S1:	so now we go back and we'll start from the (.) other end of the
+	class this time (.) you take a small handful (.) and what you do is
+	you count the number that have been &-uh you &tot count the total
+	number that are in the [/] &-um the total number that have been &-um
+	&captu recaptured the total number of yellow ones (.) and the
+	numbers that were marked amongst those yellow ones .
+%mor:	adv|so adv|now pro:sub|we v|go adv|back coord|and
+	pro:sub|we~mod|will v|start prep|from det:art|the qn|other n|end
+	prep|of det:art|the n|class det:dem|this n|time pro:per|you v|take
+	det:art|a adj|small n|hand-FUL coord|and pro:int|what pro:per|you
+	v|do cop|be&3S pro:per|you v|count det:art|the n|number pro:rel|that
+	aux|have aux|be&PASTP pro:per|you v|count det:art|the n|total
+	n|number pro:rel|that cop|be&PRES prep|in det:art|the n|total
+	n|number pro:rel|that aux|have aux|be&PASTP re#part|capture-PASTP
+	det:art|the n|total n|number prep|of n|yellow n|one-PL coord|and
+	det:art|the n|number-PL pro:rel|that aux|be&PAST part|mark-PASTP
+	prep|amongst det:dem|those adj|yellow pro:indef|one-PL .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|CJCT 10|9|JCT 11|13|DET 12|13|QUANT 13|10|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|18|DET 18|9|JCT 19|20|SUBJ 20|18|CMOD 21|23|DET 22|23|MOD
+	23|28|SUBJ 24|23|CONJ 25|27|LINK 26|27|SUBJ 27|24|COORD 28|20|COMP
+	29|30|SUBJ 30|28|CPRED 31|32|DET 32|30|OBJ 33|37|LINK 34|37|SUBJ 35|37|AUX
+	36|37|SUBJ 37|32|CMOD 38|40|DET 39|40|MOD 40|37|OBJ 41|42|LINK 42|40|CMOD
+	43|42|JCT 44|46|DET 45|46|MOD 46|43|POBJ 47|50|LINK 48|50|AUX 49|50|AUX
+	50|46|CMOD 51|53|DET 52|53|MOD 53|50|OBJ 54|53|NJCT 55|56|MOD 56|54|POBJ
+	57|53|CONJ 58|59|DET 59|57|COORD 60|62|LINK 61|62|AUX 62|59|CMOD 63|62|JCT
+	64|66|DET 65|66|MOD 66|63|POBJ 67|4|PUNCT
+*S1:	so now (.) we resample (.) the population (.) and we keep a total
+	of the [/] the total (.) that we catch (.) and the number which are
+	marked .
+%mor:	adv|so adv|now pro:sub|we re#n|sample det:art|the
+	n|populate&dv-TION coord|and pro:sub|we v|keep det:art|a n|total
+	prep|of det:art|the adj|total comp|that pro:sub|we v|catch coord|and
+	det:art|the n|number pro:rel|which aux|be&PRES part|mark-PASTP .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|11|DET 11|9|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|17|LINK
+	16|17|SUBJ 17|14|CMOD 18|17|CONJ 19|20|DET 20|18|COORD 21|23|LINK 22|23|AUX
+	23|20|CMOD 24|4|PUNCT
+*S1:	plus (.) &i and the number that are marked .
+%mor:	prep|plus coord|and det:art|the n|number pro:rel|that aux|be&PRES
+	part|mark-PASTP .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|7|LINK 6|7|AUX 7|4|CMOD
+	8|1|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so now what you need to do quite simply &-um is to (.) count the
+	totals and the numbers <that are> [/] &-um that are marked .
+%mor:	adv|so adv|now pro:int|what pro:per|you v|need inf|to v|do
+	adv|quite adv|simple&dadj-LY cop|be&3S inf|to v|count det:art|the
+	n|total-PL coord|and det:art|the n|number-PL pro:rel|that
+	aux|be&PRES part|mark-PASTP .
+%gra:	1|2|JCT 2|10|JCT 3|5|LINK 4|5|SUBJ 5|10|SUBJ 6|7|INF 7|5|COMP 8|7|JCT
+	9|10|JCT 10|0|ROOT 11|12|INF 12|10|CPRED 13|14|DET 14|12|OBJ 15|14|CONJ
+	16|17|DET 17|15|COORD 18|20|LINK 19|20|AUX 20|17|CMOD 21|10|PUNCT
+*S1:	&-um and obviously when you recatch the fish if you're recapturing
+	them you look for the number that are marked and [/] &-uh and [/]
+	and so on .
+%mor:	coord|and adv|obvious&dadj-LY conj|when pro:per|you re#v|catch
+	det:art|the n|fish conj|if pro:per|you~cop|be&PRES
+	re#n:gerund|capture-PRESP pro:obj|them pro:per|you v|look prep|for
+	det:art|the n|number pro:rel|that aux|be&PRES part|mark-PASTP
+	coord|and adv|so adv|on .
+%gra:	1|11|LINK 2|11|JCT 3|5|LINK 4|5|SUBJ 5|11|CJCT 6|7|DET 7|5|OBJ
+	8|10|LINK 9|10|SUBJ 10|11|CJCT 11|0|ROOT 12|14|SUBJ 13|14|SUBJ 14|11|ROOT
+	15|14|JCT 16|17|DET 17|15|POBJ 18|20|LINK 19|20|AUX 20|17|CMOD 21|20|CONJ
+	22|23|JCT 23|21|COORD 24|14|PUNCT
+*S1:	often (.) if you (.) go to a &-um +//.
+%mor:	adv|often conj|if pro:per|you v|go prep|to det:art|a +//.
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*S1:	if you're of the (.) boat dock stand round the lakes here (.)
+	you'll find fishermen will bring in fish that are marked .
+%mor:	conj|if pro:per|you~cop|be&PRES prep|of det:art|the n|boat n|dock
+	n|stand adv|round det:art|the n|lake-PL adv|here
+	pro:per|you~mod|will v|find n|fisherman&PL mod|will v|bring prep|in
+	n|fish pro:rel|that aux|be&PRES part|mark-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|DET 6|7|MOD 7|8|MOD 8|15|SUBJ
+	9|15|JCT 10|11|DET 11|15|SUBJ 12|15|JCT 13|15|SUBJ 14|15|AUX 15|4|POBJ
+	16|18|SUBJ 17|18|AUX 18|15|COMP 19|18|JCT 20|19|POBJ 21|23|LINK 22|23|AUX
+	23|20|CMOD 24|3|PUNCT
+*S1:	and Petoskey there is frequently a DNR officer who is actually
+	interviewing people about their fish (.) and checking to make sure
+	they haven't exceeded the fishing limits (.) and &-uh they will give
+	him the marks and so on (.) (be)cause a_lot_of fish are marked (.)
+	and (.) you can mark fish in different ways .
+%mor:	coord|and n:prop|Petoskey adv|there cop|be&3S adv|frequent&dadj-LY
+	det:art|a n:prop|DNR n|officer pro:rel|who cop|be&3S
+	adv|actual&dadj-LY n:gerund|interview-PRESP n|person&PL prep|about
+	det:poss|their n|fish coord|and part|check-PRESP inf|to v|make
+	adj|sure pro:sub|they aux|have~neg|not part|exceed-PASTP det:art|the
+	part|fish-PRESP n|limit-PL coord|and pro:sub|they mod|will v|give
+	pro:obj|him det:art|the n|mark-PL coord|and co|so adv|on
+	conj|because qn|a_lot_of n|fish aux|be&PRES part|mark-PASTP
+	coord|and pro:per|you mod|can n|mark n|fish prep|in adj|different
+	n|way-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|2|NJCT 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|10|LINK 10|8|CMOD 11|10|JCT 12|11|POBJ 13|12|OBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|12|CONJ 18|17|COORD 19|20|INF 20|18|COMP 21|20|PRED
+	22|25|SUBJ 23|25|AUX 24|23|NEG 25|21|CMOD 26|28|DET 27|28|MOD 28|25|OBJ
+	29|32|LINK 30|32|SUBJ 31|32|AUX 32|21|CJCT 33|32|OBJ2 34|35|DET 35|32|OBJ
+	36|35|CONJ 37|38|COM 38|36|COORD 39|43|LINK 40|41|QUANT 41|43|SUBJ 42|43|AUX
+	43|32|CJCT 44|48|LINK 45|48|SUBJ 46|48|AUX 47|48|MOD 48|43|OBJ 49|48|NJCT
+	50|51|MOD 51|49|POBJ 52|4|PUNCT
+*S1:	you know if you got fish from say if you're &f &-uh planting trout
+	into the Great Lakes (.) and they've come from <different
+	hatcheries> [/] different hatcheries may mark fish before they go
+	into the water .
+%mor:	pro:per|you v|know comp|if pro:per|you v|get&PAST n|fish prep|from
+	v|say comp|if pro:per|you~aux|be&PRES part|plant-PRESP n|trout
+	prep|into det:art|the n:prop|Great n:prop|Lakes coord|and
+	pro:sub|they~aux|have v|come prep|from adj|different
+	n|hatch&dv-AGT-DIM-PL mod|may n|mark n|fish conj|before pro:sub|they
+	v|go prep|into det:art|the n|water .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|COMP 13|12|OBJ 14|12|JCT 15|16|DET
+	16|17|NAME 17|14|POBJ 18|21|LINK 19|21|SUBJ 20|21|AUX 21|2|CJCT 22|21|JCT
+	23|24|MOD 24|27|SUBJ 25|27|AUX 26|27|MOD 27|22|POBJ 28|30|LINK
+	29|30|SUBJ 30|2|CJCT 31|30|JCT 32|33|DET 33|31|POBJ 34|2|PUNCT
+*S1:	and then they might recapture them (.) and they can get estimates
+	of the survivorship of fish from different hatcheries .
+%mor:	coord|and adv:tem|then pro:sub|they mod|might re#n|capture
+	pro:obj|them coord|and pro:sub|they mod|can v|get n|estimate-PL
+	prep|of det:art|the n|survivor-SHIP prep|of n|fish prep|from
+	adj|different n|hatch&dv-AGT-DIM-PL .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|CJCT 11|10|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|16|NJCT 18|19|MOD 19|17|POBJ 20|5|PUNCT
+*S1:	the survivorship of fish from hatcheries is pretty low .
+%mor:	det:art|the n|survivor-SHIP prep|of n|fish prep|from
+	n|hatch&dv-AGT-DIM-PL cop|be&3S adv|pretty adj|low .
+%gra:	1|2|DET 2|7|SUBJ 3|2|NJCT 4|3|POBJ 5|4|NJCT 6|5|POBJ 7|0|ROOT 8|9|JCT
+	9|7|PRED 10|7|PUNCT
+*S1:	&-um fish that are raised in hatcheries (.) haven't been raised in
+	the hurly-burly (.) of the real world .
+%mor:	n|fish pro:rel|that aux|be&PRES part|raise-PASTP prep|in
+	n|hatch&dv-AGT-DIM-PL v|have~neg|not aux|be&PASTP v|raise-PAST
+	prep|in det:art|the n|hurly–burly prep|of det:art|the adj|real
+	n|world .
+%gra:	1|7|SUBJ 2|4|LINK 3|4|AUX 4|1|CMOD 5|4|JCT 6|5|POBJ 7|0|ROOT 8|10|SUBJ
+	9|10|AUX 10|7|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|7|PUNCT
+*S1:	so they typically tend to be not as good competitors (.) they tend
+	to be much better as prey items from the perspected [: perspective]
+	of predators and so on .
+%mor:	co|so pro:sub|they adv|typical&dadj-LY v|tend inf|to cop|be neg|not
+	prep|as adj|good n|competitor-PL pro:sub|they v|tend inf|to cop|be
+	adv|much adj|good&CP prep|as n|prey n|item-PL prep|from det:art|the
+	n|perspective prep|of n|predator-PL coord|and adv|so adv|on .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|NEG 8|6|JCT
+	9|10|MOD 10|8|POBJ 11|12|SUBJ 12|4|CJCT 13|14|INF 14|12|COMP 15|16|JCT
+	16|14|PRED 17|19|COORD 18|19|MOD 19|14|PRED 20|19|NJCT 21|22|DET 22|20|POBJ
+	23|22|NJCT 24|23|POBJ 25|19|CONJ 26|27|JCT 27|25|COORD 28|4|PUNCT
+*S1:	so they +//.
+%mor:	co|so pro:sub|they +//.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	&-um it's generally considered that &-uh by many (.) that the bulk
+	of the production from hish [//] fish hatcheries goes to increase
+	the growth of the resident populations (.) hopefully the wild
+	populations .
+%mor:	pro:per|it~aux|be&3S adv|general&dadj-LY part|consider-PASTP
+	pro:dem|that prep|by qn|many comp|that det:art|the n|bulk prep|of
+	det:art|the n|production prep|from n|fish n|hatch&dv-AGT-DIM-PL
+	v|go-3S inf|to v|increase det:art|the n|growth prep|of det:art|the
+	n|resident n|populate&dv-TION-PL adj|hope&dn-FUL-LY det:art|the
+	adj|wild n|populate&dv-TION-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|QUANT 8|17|LINK
+	9|10|DET 10|17|SUBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|10|NJCT 15|14|POBJ
+	16|17|SUBJ 17|6|POBJ 18|19|INF 19|17|COMP 20|21|DET 21|19|OBJ
+	22|21|NJCT 23|25|DET 24|25|MOD 25|29|MOD 26|29|MOD 27|29|DET 28|29|MOD 29|22|POBJ
+	30|4|PUNCT
+*S1:	so (.) we have some numbers here .
+%mor:	co|so pro:sub|we v|have qn|some n|number-PL adv|here .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*S1:	&-um maybe if I could write these up you could plunk them in for me
+	.
+%mor:	adv|maybe conj|if pro:sub|I mod|could v|write det:dem|these adv|up
+	pro:per|you mod|could v|plunk pro:obj|them prep|in prep|for
+	pro:obj|me .
+%gra:	1|10|JCT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|10|CJCT 6|7|DET 7|5|JCT 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|10|OBJ 12|10|JCT 13|12|POBJ 14|13|POBJ 15|10|PUNCT
+*SUF:	sure +/.
+%mor:	adv|sure +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, &-um I hope this will work .
+%mor:	pro:sub|I v|hope pro:dem|this mod|will v|work .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|2|PUNCT
+*S1:	given my life these days who knows ?
+%mor:	part|give&PASTP det:poss|my n|life det:dem|these n|day-PL
+	pro:rel|who v|know-3S ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|POSTMOD 6|7|LINK 7|5|CMOD
+	8|1|PUNCT
+*S1:	okay (.) so what we're going to do is to find a pen (.) and start
+	off .
+%mor:	co|okay adv|so pro:int|what pro:sub|we~aux|be&PRES part|go-PRESP
+	inf|to v|do cop|be&3S inf|to v|find det:art|a n|pen coord|and
+	v|start adv|off .
+%gra:	1|6|COM 2|6|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|11|INF 11|9|CPRED 12|13|DET 13|11|OBJ 14|11|CONJ 15|14|COORD
+	16|15|JCT 17|6|PUNCT
+*S1:	Sarah (.) how many did you recapture ?
+%mor:	n:prop|Sarah pro:rel|how qn|many mod|do&PAST pro:per|you
+	re#n|capture ?
+%gra:	1|0|INCROOT 2|6|LINK 3|6|QUANT 4|6|AUX 5|6|SUBJ 6|1|CMOD 7|1|PUNCT
+*SUF:	five .
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	five (.) and how many were samples ?
+%mor:	det:num|five coord|and pro:int|how qn|many cop|be&PAST n|sample-PL
+	?
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|LINK 4|5|QUANT 5|2|COORD 6|5|PRED 7|1|PUNCT
+*SUF:	four .
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	four .
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so +/.
+%mor:	co|so +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, yes (.) so here are the numbers recaptured +...
+%mor:	co|yes co|so pro:exist|here cop|be&PRES det:art|the n|number-PL
+	re#part|capture-PASTP +...
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|OM 8|4|PUNCT
+*S1:	&-uh no that's [/] that's the next one over .
+%mor:	co|no pro:dem|that~cop|be&3S det:art|the adj|next pro:indef|one
+	adv|over .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|3|PUNCT
+*S1:	probably easier to use the arrows (.) (be)cause it's &-uh +/.
+%mor:	adv|probable&dadj-LY adj|ease&dn-Y-CP inf|to v|use det:art|the
+	n|arrow-PL conj|because pro:per|it~cop|be&3S +/.
+%gra:	1|2|JCT 2|0|INCROOT 3|4|INF 4|2|XMOD 5|6|DET 6|4|OBJ 7|9|LINK 8|9|SUBJ
+	9|2|CJCT 10|2|PUNCT
+*SUF:	+, okay +/.
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, yeah (.) okay (.) the &nu put in the number &cap the total
+	captured which is five (.) and the number that were recaptured was
+	four .
+%mor:	co|yeah co|okay det:art|the part|put&PASTP prep|in det:art|the
+	n|number det:art|the n|total part|capture-PASTP pro:rel|which
+	cop|be&3S det:num|five coord|and det:art|the n|number pro:rel|that
+	aux|be&PAST re#part|capture-PASTP cop|be&PAST&13S det:num|four .
+%gra:	1|4|COM 2|4|COM 3|4|DET 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|DET
+	9|7|CMOD 10|9|XMOD 11|12|LINK 12|4|CJCT 13|12|PRED 14|13|CONJ 15|16|DET
+	16|14|COORD 17|20|LINK 18|20|AUX 19|20|SUBJ 20|13|CMOD 21|20|PRED 22|4|PUNCT
+*S1:	and that estimates the population at ninety six .
+%mor:	coord|and adv|that v|estimate-3S det:art|the n|populate&dv-TION
+	prep|at det:num|ninety det:num|six .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|QUANT 8|6|POBJ
+	9|3|PUNCT
+*S1:	how many did you say Michelle ?
+%mor:	pro:int|how qn|many mod|do&PAST pro:per|you v|say n:prop|Michelle ?
+%gra:	1|3|LINK 2|3|QUANT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*SUF:	I said a hundred .
+%mor:	pro:sub|I v|say&PAST det:art|a det:num|hundred .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*S1:	yeah (.) hundred .
+%mor:	co|yeah det:num|hundred .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	&-uh what you're doing essentially is <we know that> [/] &-um we
+	know that (.) seventy seven were marked .
+%mor:	pro:int|what pro:per|you~aux|be&PRES part|do-PRESP
+	adv|essential&dadj-LY cop|be&3S pro:sub|we v|know adv|that
+	det:num|seventy det:num|seven aux|be&PAST part|mark-PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|8|SUBJ 5|4|JCT 6|8|AUX 7|8|SUBJ 8|0|ROOT
+	9|10|JCT 10|11|QUANT 11|13|SUBJ 12|13|AUX 13|8|COMP 14|8|PUNCT
+*S1:	and we caught another (.) five (.) and we found that &-um five
+	fourths of these were marked .
+%mor:	coord|and pro:sub|we v|catch&PAST qn|another det:num|five coord|and
+	pro:sub|we v|find&PAST adv|that det:num|five n|fourth-PL prep|of
+	det:dem|these aux|be&PAST part|mark-PASTP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|JCT 10|11|QUANT 11|9|POBJ 12|11|NJCT 13|15|SUBJ 14|15|AUX
+	15|12|POBJ 16|3|PUNCT
+*S1:	so if we multiply the original number by the proportion that are
+	marked in the recapture .
+%mor:	adv|so conj|if pro:sub|we v|multiply det:art|the adj|origin&dn-AL
+	n|number prep|by det:art|the n|proportion pro:rel|that aux|be&PRES
+	part|mark-PASTP prep|in det:art|the re#n|capture .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|10|DET 10|8|POBJ 11|13|LINK 12|13|AUX 13|10|CMOD 14|13|JCT 15|16|DET
+	16|14|POBJ 17|4|PUNCT
+*S1:	that is an estimate of how many fish there should have been in the
+	entire population .
+%mor:	pro:dem|that cop|be&3S det:art|a n|estimate prep|of pro:int|how
+	qn|many n|fish adv|there mod|should aux|have cop|be&PASTP prep|in
+	det:art|the adj|entire n|populate&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|12|LINK 7|8|QUANT
+	8|12|JCT 9|12|SUBJ 10|12|AUX 11|12|AUX 12|5|CPOBJ 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|2|PUNCT
+*S1:	(be)cause if we'd marked them all you see (.) this number would be
+	five over five .
+%mor:	conj|because conj|if pro:sub|we~mod|genmod v|mark-PAST pro:obj|them
+	post|all pro:per|you v|see det:dem|this n|number mod|will&COND
+	cop|be det:num|five adv|over det:num|five .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|SUBJ
+	9|7|CMOD 10|11|DET 11|13|SUBJ 12|13|AUX 13|9|COMP 14|15|QUANT 15|16|JCT
+	16|13|PRED 17|5|PUNCT
+*S1:	&-um and if we mark very few (.) then &-um &-uh &the if we mark
+	very few of the actual population then the number that are marked
+	when we recapture is going to be very smaller and so on .
+%mor:	coord|and conj|if pro:sub|we v|mark adv|very n|few adv:tem|then
+	conj|if pro:sub|we v|mark adv|very qn|few prep|of det:art|the
+	adj|actual n|populate&dv-TION adv:tem|then det:art|the n|number
+	pro:rel|that aux|be&PRES part|mark-PASTP conj|when pro:sub|we
+	re#n|capture aux|be&3S part|go-PRESP inf|to cop|be adv|very
+	adj|small-CP coord|and co|so adv|on .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|10|LINK
+	9|10|SUBJ 10|4|ROOT 11|12|JCT 12|10|ROOT 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|16|NJCT 18|19|DET 19|17|INCROOT 20|22|LINK 21|22|AUX
+	22|19|CMOD 23|22|OBJ 24|23|INCROOT 25|27|SUBJ 26|27|AUX 27|24|COMP 28|29|INF
+	29|27|COMP 30|31|JCT 31|29|PRED 32|29|CONJ 33|34|COM 34|32|COORD
+	35|24|PUNCT
+*S1:	so let's have some more numbers here .
+%mor:	adv|so v|let~pro:obj|us v|have qn|some qn|more n|number-PL adv|here
+	.
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|7|QUANT 6|7|QUANT 7|4|OBJ 8|4|JCT
+	9|2|PUNCT
+*SUM:	what if a bunch died in the interim ?
+%mor:	pro:int|what comp|if det:art|a n|bunch v|die-PAST prep|in
+	det:art|the n|interim ?
+%gra:	1|5|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*S1:	I'll +//.
+%mor:	pro:sub|I~mod|will +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S1:	let's get to the assumptions in a second okay ?
+%mor:	v|let~pro:obj|us v|get prep|to det:art|the n|assumption-PL prep|in
+	det:art|a n|second adj|okay ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|JCT 11|1|PUNCT
+*S1:	(0.4) Mary ?
+%mor:	n:prop|Mary ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	three and one .
+%mor:	det:num|three coord|and det:num|one .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	three and one .
+%mor:	det:num|three coord|and det:num|one .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	oh (.) that gives two hundred and thirty one as our estimate .
+%mor:	co|oh adv|that v|give-3S det:num|two det:num|hundred coord|and
+	det:num|thirty det:num|one adv|as det:poss|our n|estimate .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|5|QUANT 5|11|QUANT 6|5|CONJ 7|6|COORD
+	8|11|QUANT 9|11|COORD 10|11|DET 11|3|OBJ 12|3|PUNCT
+*S1:	next ones ?
+%mor:	adv|next pro:indef|one-PL ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*SUM:	&nop three and two .
+%mor:	det:num|three coord|and det:num|two .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	three and two .
+%mor:	det:num|three coord|and det:num|two .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	that gives an estimate of one hundred and sixteen .
+%mor:	pro:dem|that v|give-3S det:art|a n|estimate prep|of det:num|one
+	det:num|hundred coord|and det:num|sixteen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|QUANT 7|5|POBJ 8|7|CONJ
+	9|8|COORD 10|2|PUNCT
+*SUF:	two and zero .
+%mor:	det:num|two coord|and det:num|zero .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	two and whoa zero .
+%mor:	det:num|two coord|and co|whoa det:num|zero .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|COM 4|2|COORD 5|1|PUNCT
+*S1:	what does that give us ?
+%mor:	pro:int|what mod|do&3S adv|that v|give pro:obj|us ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*SUM:	none .
+%mor:	pro:indef|none .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	no it tells us that the population size is infinite (.) that we
+	have an infinite number of m@l and m@l-s .
+%mor:	co|no pro:per|it v|tell-3S pro:obj|us comp|that det:art|the
+	n|populate&dv-TION n|size cop|be&3S in#adj|finite comp|that
+	pro:sub|we v|have det:art|a in#adj|finite n|number prep|of n:let|m
+	coord|and n:let|m-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|9|LINK 6|8|DET 7|8|MOD 8|9|SUBJ
+	9|3|COMP 10|9|PRED 11|13|LINK 12|13|SUBJ 13|10|CMOD 14|16|DET 15|16|MOD
+	16|13|OBJ 17|16|NJCT 18|17|POBJ 19|18|CONJ 20|19|COORD 21|3|PUNCT
+*S1:	I think I'm ⌈ gonna ⌉ +/.
+%mor:	pro:sub|I v|think pro:sub|I~aux|be&1S part|go-PRESP~inf|to +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|OM 7|2|PUNCT
+*SUF:	⌊ yes ⌋ +/.
+%mor:	co|yes +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	+, take that number and become an economist .
+%mor:	v|take adv|that n|number coord|and cop|become det:art|a
+	n|economy-IST .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|CONJ 5|4|COORD 6|7|DET 7|5|PRED 8|1|PUNCT
+*S1:	&=laughs:multiple or an m@l and m@l manufacturer .
+%mor:	coord|or det:art|a n:let|m coord|and n:let|m n|manufacture&dv-AGT .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|6|MOD 6|4|COORD 7|1|PUNCT
+*S1:	so this is gonna give us infinity (.) okay .
+%mor:	adv|so pro:dem|this aux|be&3S part|go-PRESP~inf|to v|give
+	pro:obj|us n|infinity adj|okay .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|6|OBJ
+	9|8|POSTMOD 10|4|PUNCT
+*SUF:	&-uh six and three .
+%mor:	det:num|six coord|and det:num|three .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	six and three .
+%mor:	det:num|six coord|and det:num|three .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	hundred and fifty four .
+%mor:	det:num|hundred coord|and det:num|fifty det:num|four .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|QUANT 4|2|COORD 5|1|PUNCT
+*SUF:	three and two .
+%mor:	det:num|three coord|and det:num|two .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	three and two .
+%mor:	det:num|three coord|and det:num|two .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*SUM:	&-uh four and one .
+%mor:	det:num|four coord|and det:num|one .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	four and one .
+%mor:	det:num|four coord|and det:num|one .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*SUM:	ten and nine .
+%mor:	det:num|ten coord|and det:num|nine .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	ten and nine .
+%mor:	det:num|ten coord|and det:num|nine .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	&=laughs .
+*SUM:	&-uh one and one .
+%mor:	det:num|one coord|and det:num|one .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	one and +//.
+%mor:	det:num|one coord|and +//.
+%gra:	1|0|INCROOT 2|1|CONJ 3|1|PUNCT
+*S1:	one and one that's exactly seventy seven isn't it ?
+%mor:	det:num|one coord|and det:num|one pro:rel|that~cop|be&3S
+	adv|exact&dadj-LY det:num|seventy det:num|seven cop|be&3S~neg|not
+	pro:per|it ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|LINK 5|1|CMOD 6|7|JCT 7|5|PRED
+	8|9|QUANT 9|5|PRED 10|9|NEG 11|9|PRED 12|1|PUNCT
+*S1:	your [/] &indi your (.) you indicate that every single fish in the
+	+//.
+%mor:	det:poss|your pro:per|you v|indicate adv|that qn|every adj|single
+	n|fish prep|in det:art|the +//.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|QUANT 6|7|MOD 7|3|OBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*S1:	that every single yellow m@l and m@l in the population was marked .
+%mor:	comp|that qn|every adj|single n|yellow n:let|m coord|and n:let|m
+	prep|in det:art|the n|populate&dv-TION aux|be&PAST&13S
+	part|mark-PASTP .
+%gra:	1|4|LINK 2|4|QUANT 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|CONJ 7|6|COORD
+	8|12|JCT 9|10|DET 10|8|POBJ 11|12|AUX 12|7|CJCT 13|5|PUNCT
+*S1:	Jody ?
+%mor:	n:prop|Jody ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUF:	one and five .
+%mor:	det:num|one coord|and det:num|five .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	one and five ?
+%mor:	det:num|one coord|and det:num|five ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	⌈ five and one ⌉ .
+%mor:	det:num|five coord|and det:num|one .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	&=laughs .
+*SUF:	⌊ &fi five and one .
+%mor:	det:num|five coord|and det:num|one .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*SUF:	sorry ⌋ .
+%mor:	co|sorry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUM:	six and two .
+%mor:	det:num|six coord|and det:num|two .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	six and two .
+%mor:	det:num|six coord|and det:num|two .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*SUF:	eight and four .
+%mor:	det:num|eight coord|and det:num|four .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	eight and four .
+%mor:	det:num|eight coord|and det:num|four .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*SUF:	four and two .
+%mor:	det:num|four coord|and det:num|two .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	four and two .
+%mor:	det:num|four coord|and det:num|two .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*SUF:	one and one .
+%mor:	det:num|one coord|and det:num|one .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	one and one .
+%mor:	det:num|one coord|and det:num|one .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*SUF:	seven and four .
+%mor:	det:num|seven coord|and det:num|four .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	seven and four .
+%mor:	det:num|seven coord|and det:num|four .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*SUF:	five and two .
+%mor:	det:num|five coord|and det:num|two .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	five and two .
+%mor:	det:num|five coord|and det:num|two .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so our numbers here (.) range from a population estimate of two
+	hundred and thirty one to seventy seven .
+%mor:	co|so det:poss|our n|number-PL adv|here n|range prep|from det:art|a
+	n|populate&dv-TION n|estimate prep|of det:num|two det:num|hundred
+	coord|and det:num|thirty det:num|one prep|to det:num|seventy
+	det:num|seven .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|12|QUANT 12|15|ENUM 13|12|CONJ 14|13|COORD
+	15|10|POBJ 16|15|JCT 17|18|QUANT 18|16|POBJ 19|3|PUNCT
+*S1:	and this is a pretty simple situation .
+%mor:	coord|and pro:dem|this cop|be&3S det:art|a adj|pretty adj|simple
+	n|situate&dv-TION .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|PRED 8|3|PUNCT
+*S1:	so it means the [/] the average (.) the mean$n of our population
+	size (.) the mean$n estimate is one hundred and sixty seven yellow
+	ones (.) but the standard deviation is eighty nine .
+%mor:	co|so pro:per|it v|mean-3S det:art|the n|average det:art|the n|mean
+	prep|of det:poss|our n|populate&dv-TION v|size det:art|the n|mean
+	n|estimate cop|be&3S det:num|one det:num|hundred coord|and
+	det:num|sixty det:num|seven n|yellow n|one-PL conj|but det:art|the
+	adj|standard n|deviate&dv-TION cop|be&3S det:num|eighty det:num|nine
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|11|SUBJ 6|7|DET 7|11|SUBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|3|COMP 12|14|DET 13|14|MOD 14|15|SUBJ 15|11|COMP
+	16|17|QUANT 17|15|PRED 18|17|CONJ 19|22|QUANT 20|21|QUANT 21|22|MOD
+	22|18|COORD 23|27|LINK 24|26|DET 25|26|MOD 26|27|SUBJ 27|3|CJCT 28|29|QUANT
+	29|27|PRED 30|3|PUNCT
+*S1:	&=laughs:multiple this is a pretty simple experiment .
+%mor:	pro:dem|this cop|be&3S det:art|a adj|pretty adj|simple n|experiment
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|JCT 5|6|MOD 6|2|PRED 7|2|PUNCT
+*SUF:	doesn't that just mean we have to do more samples ?
+%mor:	mod|do&3S~neg|not adv|that adv|just adj|mean pro:sub|we v|have
+	inf|to v|do qn|more n|sample-PL ?
+%gra:	1|5|AUX 2|1|NEG 3|4|JCT 4|5|JCT 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|9|INF
+	9|7|COMP 10|11|QUANT 11|9|OBJ 12|7|PUNCT
+*S1:	well (.) that's a good question .
+%mor:	co|well pro:dem|that~cop|be&3S det:art|a adj|good n|question .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*S1:	let's think of some of the assumptions now .
+%mor:	v|let~pro:obj|us v|think prep|of pro:indef|some prep|of det:art|the
+	n|assumption-PL adv|now .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|4|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|JCT 10|1|PUNCT
+*S1:	first of all &-um each one of these is an estimate of the
+	population .
+%mor:	adv|first prep|of qn|all qn|each pro:indef|one prep|of
+	pro:dem|these cop|be&3S det:art|a n|estimate prep|of det:art|the
+	n|populate&dv-TION .
+%gra:	1|8|JCT 2|1|JCT 3|4|QUANT 4|5|QUANT 5|2|POBJ 6|5|NJCT 7|6|POBJ 8|0|ROOT
+	9|10|DET 10|8|PRED 11|10|NJCT 12|13|DET 13|11|POBJ 14|8|PUNCT
+*S1:	it is considered that (.) if you have a minimum of seven (.)
+	&replica &sa resamples (.) seven resamples (.) then you've got a
+	good estimate of the population size .
+%mor:	pro:per|it aux|be&3S part|consider-PASTP comp|that conj|if
+	pro:per|you v|have det:art|a n|minimum prep|of det:num|seven
+	re#n|sample-PL det:num|seven re#n|sample-PL adv:tem|then
+	pro:per|you~aux|have part|get&PASTP det:art|a adj|good n|estimate
+	prep|of det:art|the n|populate&dv-TION n|size .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|12|QUANT 12|10|POBJ 13|14|QUANT 14|9|APP 15|18|JCT
+	16|18|SUBJ 17|18|AUX 18|14|COMP 19|21|DET 20|21|MOD 21|18|OBJ 22|21|NJCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|3|PUNCT
+*S1:	we have got substantially more than seven (.) and look at the
+	variation .
+%mor:	pro:sub|we v|have v|get&PAST adv|substantial&dadj-LY adv|more
+	prep|than det:num|seven coord|and v|look prep|at det:art|the
+	n|vary&dv-TION .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|JCT 5|4|JCT 6|5|JCT 7|6|POBJ 8|5|CONJ
+	9|8|COORD 10|9|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	now but what about the assumptions ?
+%mor:	adv|now conj|but pro:int|what adv|about det:art|the n|assumption-PL
+	?
+%gra:	1|0|INCROOT 2|1|CONJ 3|6|DET 4|6|JCT 5|6|DET 6|2|COORD 7|1|PUNCT
+*S1:	the assumptions for a mark and recapture model were met in this
+	experiment to the best of my knowledge .
+%mor:	det:art|the n|assumption-PL prep|for det:art|a n|mark coord|and
+	re#v|capture n|model aux|be&PAST part|meet&PASTP prep|in
+	det:dem|this n|experiment prep|to det:art|the adj|good&SP prep|of
+	det:poss|my n|knowledge .
+%gra:	1|2|DET 2|10|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|10|JCT 12|13|DET 13|11|POBJ 14|10|JCT 15|16|DET
+	16|14|POBJ 17|16|JCT 18|19|DET 19|17|POBJ 20|10|PUNCT
+*S1:	Michael said (.) what happens if there are some deaths ?
+%mor:	n:prop|Michael v|say&PAST pro:int|what v|happen-3S conj|if
+	adv|there cop|be&PRES qn|some n|death-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|7|LINK 6|7|SUBJ 7|2|CJCT
+	8|9|QUANT 9|7|PRED 10|2|PUNCT
+*S1:	well if there are some deaths (.) then obviously if there is
+	differential mortality .
+%mor:	co|well conj|if adv|there cop|be&PRES qn|some n|death-PL
+	adv:tem|then adv|obvious&dadj-LY conj|if adv|there cop|be&3S
+	adj|differential n|mortal&dadj-ITY .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|8|JCT 8|6|NJCT
+	9|4|JCT 10|11|SUBJ 11|9|CPOBJ 12|13|MOD 13|11|PRED 14|4|PUNCT
+*S1:	suppose clipping the fin is a stressor (.) that tends to give
+	higher death rates of the clipped animals &-um you're going to get
+	(.) &wha &-um very &sub fairly substantial overestimates of the
+	population size .
+%mor:	v|suppose part|clip-PRESP det:art|the n|fin cop|be&3S det:art|a
+	n|stressor pro:rel|that v|tend-3S inf|to v|give adj|high-CP n|death
+	v|rate-3S prep|of det:art|the part|clip-PASTP n|animal-PL
+	pro:per|you~aux|be&PRES part|go-PRESP inf|to v|get adv|very
+	adv|fair&dadj-LY adj|substantial over#n|estimate-PL prep|of
+	det:art|the n|populate&dv-TION n|size .
+%gra:	1|5|LINK 2|5|XJCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|9|LINK
+	9|7|CMOD 10|11|INF 11|9|COMP 12|13|MOD 13|11|OBJ 14|13|XMOD 15|14|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|21|SUBJ 20|21|AUX 21|14|XJCT 22|23|INF
+	23|21|COMP 24|25|JCT 25|23|JCT 26|25|PRED 27|26|XMOD 28|27|JCT 29|31|DET
+	30|31|MOD 31|28|POBJ 32|5|PUNCT
+*S1:	and of_course you are handling (.) those fish that you marked .
+%mor:	coord|and co|of_course pro:per|you aux|be&PRES part|handle-PRESP
+	det:dem|those n|fish comp|that pro:per|you v|mark-PAST .
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|5|PUNCT
+*S1:	now in your experience (.) what's the survival rate of a_lot_of the
+	fish you handle ?
+%mor:	adv|now prep|in det:poss|your n|experience pro:int|what~cop|be&3S
+	det:art|the n|survival n|rate prep|of qn|a_lot_of det:art|the n|fish
+	pro:per|you v|handle ?
+%gra:	1|6|JCT 2|6|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|PRED 10|9|NJCT 11|13|QUANT 12|13|DET 13|10|POBJ 14|15|SUBJ 15|9|CMOD
+	16|6|PUNCT
+*SUF:	it depends .
+%mor:	pro:per|it v|depend-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*S1:	it depends on the species doesn't it ?
+%mor:	pro:per|it v|depend-3S prep|on det:art|the n|species
+	mod|do&3S~neg|not pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|POBJ
+	9|2|PUNCT
+*S1:	but if we get minnows on a hot day .
+%mor:	conj|but conj|if pro:sub|we v|get n|minnow-PL prep|on det:art|a
+	adj|hot n|day .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CPOBJ 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|1|PUNCT
+*SUF:	&=laughs not very good .
+%mor:	neg|not adv|very adj|good .
+%gra:	1|3|NEG 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*S1:	yeah &-um okay so [/] so [/] &tha so if in the time period that
+	we've looked at there's been differential mortality (.) then we'll
+	get &-uh unusual population (.) numbers or &i inaccurate population
+	numbers .
+%mor:	co|yeah co|okay adv|so conj|if prep|in det:art|the n|time n|period
+	pro:rel|that pro:sub|we~aux|have part|look-PASTP prep|at
+	pro:exist|there~cop|be&3S cop|be&PASTP adj|differential
+	n|mortal&dadj-ITY adv:tem|then pro:sub|we~mod|will aux|get
+	un#adj|usual n|populate&dv-TION n|number-PL coord|or in#adj|accurate
+	n|populate&dv-TION n|number-PL .
+%gra:	1|2|COM 2|0|INCROOT 3|4|JCT 4|2|PUNCT 5|4|NJCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CMOD 13|15|JCT 14|15|SUBJ
+	15|12|ROOT 16|15|ROOT 17|18|MOD 18|16|PRED 19|18|NJCT 20|22|SUBJ 21|22|AUX
+	22|19|ROOT 23|22|PRED 24|25|MOD 25|23|COORD 26|25|CONJ 27|29|MOD 28|29|MOD
+	29|26|COORD 30|22|PUNCT
+*S1:	and one of the assumptions of the method is that there is no
+	differential mortality (.) and you know (.) from your experience (.)
+	that [/] that is sufficiently close to a load of hogwash as to be
+	&-um hogwash .
+%mor:	coord|and det:num|one prep|of det:art|the n|assumption-PL prep|of
+	det:art|the n|method cop|be&3S comp|that adv|there cop|be&3S qn|no
+	n|differential n|mortal&dadj-ITY coord|and pro:per|you v|know
+	prep|from det:poss|your n|experience pro:rel|that cop|be&3S
+	adv|sufficient&dadj-LY adj|close prep|to det:art|a n|load prep|of
+	n|+n|hog+n|wash prep|as inf|to cop|be n|+n|hog+n|wash .
+%gra:	1|9|LINK 2|9|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|0|ROOT 10|12|LINK 11|12|SUBJ 12|9|PRED 13|14|QUANT 14|15|MOD 15|12|PRED
+	16|18|LINK 17|18|SUBJ 18|12|CJCT 19|18|JCT 20|21|DET 21|19|POBJ
+	22|23|LINK 23|21|CMOD 24|25|JCT 25|23|PRED 26|25|JCT 27|28|DET 28|26|POBJ
+	29|28|NJCT 30|29|POBJ 31|25|JCT 32|33|INF 33|31|CPOBJ 34|33|PRED 35|9|PUNCT
+*S1:	what happens if there are births in the interim ?
+%mor:	pro:int|what v|happen-3S conj|if adv|there cop|be&PRES n|birth-PL
+	prep|in det:art|the n|interim ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|SUBJ 5|3|CPOBJ 6|5|PRED 7|5|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*S1:	+, that's gonna have the opposite effect at increasing the numbers
+	.
+%mor:	pro:dem|that~aux|be&3S part|go-PRESP~inf|to v|have det:art|the
+	n|opposite n|effect prep|at n:gerund|increase-PRESP det:art|the
+	n|number-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|JCT 10|9|POBJ 11|12|DET 12|10|OBJ 13|3|PUNCT
+*S1:	and for this kind of reason you try to take a relatively short time
+	period .
+%mor:	coord|and prep|for det:dem|this adj|kind prep|of n|reason
+	pro:per|you v|try inf|to v|take det:art|a adv|relative&dadj-LY
+	adj|short n|time n|period .
+%gra:	1|8|LINK 2|8|JCT 3|4|DET 4|2|POBJ 5|4|JCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|10|INF 10|8|COMP 11|15|DET 12|13|JCT 13|15|MOD 14|15|MOD 15|10|OBJ
+	16|8|PUNCT
+*S1:	you know &-um a few days and so on in doing these estimates .
+%mor:	pro:per|you v|know det:art|a qn|few n|day-PL coord|and adv|so
+	prep|on adv|in part|do-PRESP det:dem|these n|estimate-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|2|CONJ 7|8|JCT 8|6|COORD
+	9|10|JCT 10|8|POBJ 11|12|DET 12|10|OBJ 13|2|PUNCT
+*S1:	when you're trying to estimate population sizes if you possibly can
+	.
+%mor:	pro:rel|when pro:per|you~aux|be&PRES part|try-PRESP prep|to
+	n|estimate n|populate&dv-TION n|size-PL conj|if pro:per|you
+	adv|possible&dadj-LY mod|can .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|MOD 7|8|MOD 8|5|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|JCT 12|4|CJCT 13|4|PUNCT
+*S1:	but what about immigration ?
+%mor:	conj|but pro:int|what prep|about n|immigrate&dv-TION ?
+%gra:	1|0|INCROOT 2|1|PUNCT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*S1:	if we mark the fish on the big shoal here (.) where are the fish
+	gonna go ?
+%mor:	conj|if pro:sub|we v|mark det:art|the n|fish prep|on det:art|the
+	adj|big n|shoal adv|here pro:rel|where aux|be&PRES det:art|the
+	n|fish part|go-PRESP~inf|to v|go ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|3|JCT 11|15|LINK 12|15|AUX 13|14|DET 14|15|SUBJ 15|10|CMOD
+	16|17|INF 17|15|COMP 18|3|PUNCT
+*S1:	are they gonna stay there ?
+%mor:	cop|be&PRES pro:sub|they part|go-PRESP~inf|to v|stay adv|there ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|5|INF 5|3|COMP 6|5|JCT 7|1|PUNCT
+*S1:	what happens if they decide to go and see their relatives on the
+	other side of the lake ?
+%mor:	pro:int|what v|happen-3S conj|if pro:sub|they v|decide inf|to v|go
+	coord|and v|see det:poss|their n|relative-PL prep|on det:art|the
+	qn|other n|side prep|of det:art|the n|lake ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|INF 7|5|COMP 8|7|CONJ
+	9|8|COORD 10|11|DET 11|9|OBJ 12|9|JCT 13|15|DET 14|15|QUANT 15|12|POBJ
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|2|PUNCT
+*S1:	what of the other hand if there is &-um <what'd I say immigration>
+	[?] ?
+%mor:	pro:int|what prep|of det:art|the qn|other n|hand conj|if adv|there
+	cop|be&3S pro:int|what~mod|genmod pro:sub|I v|say
+	n|immigrate&dv-TION ?
+%gra:	1|0|INCROOT 2|1|JCT 3|5|DET 4|5|QUANT 5|2|POBJ 6|8|LINK 7|8|SUBJ
+	8|1|CJCT 9|12|JCT 10|12|AUX 11|12|SUBJ 12|8|CPRED 13|12|OBJ 14|1|PUNCT
+*S1:	suppose there's immigration and emigration ?
+%mor:	v|suppose pro:exist|there~cop|be&3S n|immigrate&dv-TION coord|and
+	n|emigrate&dv-TION ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|PRED 5|4|CONJ 6|5|COORD 7|1|PUNCT
+*S1:	obviously that is going to affect the numbers .
+%mor:	adv|obvious&dadj-LY adv|that aux|be&3S part|go-PRESP inf|to
+	v|affect det:art|the n|number-PL .
+%gra:	1|4|JCT 2|4|JCT 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*S1:	so (.) there're a_lot_of assumptions (.) that are contained in this
+	particular model .
+%mor:	adv|so pro:exist|there~cop|be&PRES qn|a_lot_of n|assumption-PL
+	pro:rel|that aux|be&PRES part|contain-PASTP prep|in det:dem|this
+	adj|particular n|model .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|8|LINK 7|8|AUX 8|5|CMOD
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|3|PUNCT
+*S1:	yet it's probably (.) the best direct &measu method (.) that we
+	have available .
+%mor:	adv|yet pro:per|it~cop|be&3S adv|probable&dadj-LY det:art|the
+	adj|good&SP adj|direct n|method pro:rel|that pro:sub|we v|have
+	adj|avail&dv-ABLE .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|DET 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|JCT 13|3|PUNCT
+*S1:	and you can see (.) that (.) with something as simple as this we've
+	got numbers that are (.) very [/] &b very [/] very wide ranging .
+%mor:	coord|and pro:per|you mod|can v|see comp|that prep|with
+	pro:indef|something prep|as adj|simple prep|as det:dem|this
+	pro:sub|we~aux|have part|get&PASTP n|number-PL pro:rel|that
+	cop|be&PRES adv|very adj|wide n:gerund|range-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|JCT 7|6|POBJ 8|9|COORD
+	9|7|POSTMOD 10|9|JCT 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CPOBJ
+	15|14|OBJ 16|17|LINK 17|15|CMOD 18|19|JCT 19|17|PRED 20|17|PRED 21|4|PUNCT
+*S1:	now you can refine the method &a at least in theory you can refine
+	the method by doing multiple markings .
+%mor:	adv|now pro:per|you mod|can v|refine det:art|the n|method prep|at
+	n|least prep|in n|theory pro:per|you mod|can v|refine det:art|the
+	n|method adv|by part|do-PRESP adj|multiple n:gerund|mark-PRESP-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|13|CJCT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|15|DET 15|13|OBJ
+	16|13|JCT 17|13|XJCT 18|19|MOD 19|17|OBJ 20|13|PUNCT
+*S1:	for example if you collect a sample of fish say seventy seven if we
+	were to go around and take all these and put a second mark on each
+	one (.) you would then know which were marked originally which were
+	marked the second time and you could begin to estimate things such
+	as mortality .
+%mor:	prep|for ex#adj|ample conj|if pro:per|you v|collect det:art|a
+	n|sample prep|of n|fish v|say det:num|seventy det:num|seven conj|if
+	pro:sub|we cop|be&PAST inf|to v|go adv|around coord|and v|take
+	qn|all det:dem|these coord|and v|put&ZERO det:art|a adj|second
+	n|mark prep|on qn|each pro:indef|one pro:per|you mod|will&COND
+	adv:tem|then v|know pro:int|which aux|be&PAST part|mark-PASTP
+	adv|origin&dadj-AL-LY pro:rel|which aux|be&PAST part|mark-PASTP
+	det:art|the adj|second n|time coord|and pro:per|you mod|could
+	v|begin prep|to n|estimate n|thing-PL qn|such prep|as
+	n|mortal&dadj-ITY .
+%gra:	1|10|LINK 2|1|POBJ 3|5|LINK 4|5|SUBJ 5|10|CJCT 6|7|DET 7|10|SUBJ
+	8|7|NJCT 9|8|POBJ 10|0|ROOT 11|12|QUANT 12|10|OBJ 13|15|LINK 14|15|SUBJ
+	15|10|CJCT 16|17|INF 17|15|CPRED 18|17|JCT 19|17|CONJ 20|19|COORD 21|22|QUANT
+	22|20|OBJ 23|22|CONJ 24|23|COORD 25|27|DET 26|27|MOD 27|24|OBJ 28|34|JCT
+	29|30|QUANT 30|28|POBJ 31|34|SUBJ 32|34|AUX 33|34|JCT 34|22|CJCT
+	35|37|LINK 36|37|AUX 37|34|COMP 38|37|JCT 39|41|LINK 40|41|AUX 41|37|COMP
+	42|44|DET 43|44|MOD 44|41|OBJ 45|48|LINK 46|48|SUBJ 47|48|AUX 48|41|CJCT
+	49|48|JCT 50|51|MOD 51|49|POBJ 52|48|XJCT 53|52|JCT 54|53|POBJ 55|10|PUNCT
+*S1:	and if you put &multias you add multiple marks on the fish &-um
+	you're able to get better and better estimates of mortality .
+%mor:	coord|and conj|if pro:per|you v|put&ZERO pro:per|you v|add
+	adj|multiple n|mark-PL prep|on det:art|the n|fish
+	pro:per|you~cop|be&PRES adj|able inf|to v|get adv|good&CP coord|and
+	adj|good&CP n|estimate-PL prep|of n|mortal&dadj-ITY .
+%gra:	1|6|LINK 2|4|LINK 3|4|SUBJ 4|6|CJCT 5|6|SUBJ 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|13|SUBJ 13|6|CJCT 14|13|PRED 15|16|INF
+	16|14|XMOD 17|16|JCT 18|16|CONJ 19|20|MOD 20|18|COORD 21|20|NJCT 22|21|POBJ
+	23|6|PUNCT
+*S1:	mind you (.) fish have only got so many fins to clip .
+%mor:	v|mind pro:per|you n|fish v|have adv|only v|get&PAST adv|so qn|many
+	n|fin-PL inf|to v|clip .
+%gra:	1|0|ROOT 2|4|SUBJ 3|4|SUBJ 4|1|COMP 5|6|JCT 6|4|COMP 7|8|JCT 8|9|QUANT
+	9|6|OBJ 10|11|INF 11|9|XMOD 12|1|PUNCT
+*S1:	and you know from what we talked about in terms of functional
+	morphology and locomotion (.) that if you clip too much off a fin
+	(.) you're gonna impair its ability to swim you're gonna impair its
+	ability to avoid predators (.) you're gonna impair its ability to
+	catch prey .
+%mor:	coord|and pro:per|you v|know prep|from pro:int|what pro:sub|we
+	v|talk-PAST adv|about prep|in n|term-PL prep|of n|functional
+	n|morphology coord|and n|locomotion pro:rel|that conj|if pro:per|you
+	v|clip adv|too adv|much prep|off det:art|a n|fin
+	pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|impair det:poss|its
+	n|able&dadj-ITY prep|to n|swim pro:per|you~aux|be&PRES
+	part|go-PRESP~inf|to v|impair det:poss|its n|able&dadj-ITY inf|to
+	v|avoid n|predator-PL pro:per|you~aux|be&PRES part|go-PRESP~inf|to
+	v|impair det:poss|its n|able&dadj-ITY inf|to v|catch n|prey .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|4|CPOBJ 8|3|JCT
+	9|3|JCT 10|9|POBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|27|LINK 15|27|JCT
+	16|19|LINK 17|19|LINK 18|19|SUBJ 19|15|CMOD 20|21|JCT 21|19|JCT 22|19|JCT
+	23|24|DET 24|22|POBJ 25|27|SUBJ 26|27|AUX 27|3|CJCT 28|29|INF
+	29|27|COMP 30|31|DET 31|29|OBJ 32|29|JCT 33|32|POBJ 34|36|SUBJ 35|36|AUX
+	36|29|XJCT 37|38|INF 38|36|COMP 39|40|DET 40|38|OBJ 41|42|INF 42|38|COMP
+	43|42|OBJ 44|46|SUBJ 45|46|AUX 46|43|CMOD 47|48|INF 48|46|COMP 49|50|DET
+	50|48|OBJ 51|52|INF 52|48|COMP 53|52|OBJ 54|3|PUNCT
+*S1:	there are other ways of marking the most common method actually now
+	(.) is to shoot a tiny little piece of metal into the nasal capsule
+	.
+%mor:	pro:exist|there cop|be&PRES qn|other n|way-PL prep|of
+	n:gerund|mark-PRESP det:art|the qn|most adj|common n|method
+	adv|actual&dadj-LY adv|now cop|be&3S inf|to v|shoot det:art|a
+	adj|tiny adj|little n|piece prep|of n|metal prep|into det:art|the
+	adj|nasal n|capsule .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|13|JCT 5|4|NJCT 6|5|POBJ 7|10|DET
+	8|10|QUANT 9|10|MOD 10|13|SUBJ 11|12|JCT 12|10|NJCT 13|2|PRED 14|15|INF
+	15|13|CPRED 16|19|DET 17|19|MOD 18|19|MOD 19|15|OBJ 20|19|NJCT 21|20|POBJ
+	22|15|JCT 23|25|DET 24|25|MOD 25|22|POBJ 26|2|PUNCT
+*S1:	there's cartilage around the nasal capsule (.) I [?] can shoot a
+	tiny little piece of metal into the nose capsule .
+%mor:	pro:exist|there~cop|be&3S n|cartilage prep|around det:art|the
+	adj|nasal n|capsule pro:sub|I mod|can v|shoot det:art|a adj|tiny
+	adj|little n|piece prep|of n|metal prep|into det:art|the n|nose
+	n|capsule .
+%gra:	1|2|SUBJ 2|10|CJCT 3|2|PRED 4|3|NJCT 5|7|DET 6|7|MOD 7|4|POBJ 8|10|SUBJ
+	9|10|AUX 10|0|ROOT 11|14|DET 12|14|MOD 13|14|MOD 14|10|OBJ 15|14|NJCT
+	16|15|POBJ 17|10|JCT 18|20|DET 19|20|MOD 20|17|POBJ 21|10|PUNCT
+*S1:	&-um no fish has ever complained so presumably it doesn't hurt the
+	fish .
+%mor:	qn|no n|fish aux|have&3S adv|ever part|complain-PASTP adv|so
+	adv|presume&dadj-ABLE-LY pro:per|it mod|do&3S~neg|not v|hurt&ZERO
+	det:art|the n|fish .
+%gra:	1|2|QUANT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|JCT 7|11|JCT 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|5|COMP 12|13|DET 13|11|OBJ 14|5|PUNCT
+*S1:	and (.) <this is> [/] &-um this is coded electromagnetically (.) so
+	that you can get the fish and you can sort_of stick it into this
+	electromagnetic thing you get a beep and you get that kind of
+	information .
+%mor:	coord|and pro:dem|this aux|be&3S part|code-PASTP
+	electro#adv|magnetic&dadj-AL-LY adv|so comp|that pro:per|you mod|can
+	v|get det:art|the n|fish coord|and pro:per|you mod|can adv|sort_of
+	v|stick pro:per|it prep|into det:dem|this electro#adj|magnetic
+	n|thing pro:per|you v|get det:art|a n|beep coord|and pro:per|you
+	v|get adv|that adj|kind prep|of n|inform&dv-TION .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|JCT 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|5|COMP 11|12|DET 12|10|OBJ 13|17|LINK 14|17|SUBJ 15|17|AUX
+	16|17|JCT 17|10|CJCT 18|17|OBJ 19|17|JCT 20|21|DET 21|19|POBJ 22|21|OBJ
+	23|24|SUBJ 24|22|CMOD 25|26|DET 26|24|OBJ 27|29|LINK 28|29|SUBJ
+	29|22|CJCT 30|31|JCT 31|29|PRED 32|31|JCT 33|32|POBJ 34|4|PUNCT
+*S1:	it's a superior method .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|superior n|method .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*S1:	&-um for some larger fish they put external tags on .
+%mor:	prep|for qn|some adj|large-CP n|fish pro:sub|they v|put&ZERO
+	adj|external n|tag-PL prep|on .
+%gra:	1|6|JCT 2|4|QUANT 3|4|MOD 4|1|POBJ 5|6|SUBJ 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|JCT 10|6|PUNCT
+*S1:	because often the source of sampling are fisher persons .
+%mor:	conj|because adv|often det:art|the n|source prep|of
+	n:gerund|sample-PRESP cop|be&PRES n|fish&dv-AGT n|person-PL .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|6|OBJ 8|9|MOD
+	9|7|PRED 10|1|PUNCT
+*S1:	and they don't usually have these devices for putting the noses of
+	their fishes in this electromagnetic sensor and so on .
+%mor:	coord|and pro:sub|they mod|do~neg|not adv|usual&dadj-LY v|have
+	det:dem|these n|device-PL prep|for n:gerund|put-PRESP det:art|the
+	n|nose-PL prep|of det:poss|their n|fish-PL prep|in det:dem|this
+	electro#adj|magnetic n|sensor coord|and co|so adv|on .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|JCT 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|12|DET 12|10|OBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|10|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|10|CONJ 21|22|COM 22|20|COORD
+	23|6|PUNCT
+*S1:	so they put tags on the outside and &the they are gonna impair the
+	fish .
+%mor:	co|so pro:sub|they v|put&ZERO n|tag-PL prep|on det:art|the
+	n|outside coord|and pro:sub|they aux|be&PRES part|go-PRESP~inf|to
+	v|impair det:art|the n|fish .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|3|CJCT 12|13|INF 13|11|COMP 14|15|DET 15|13|OBJ
+	16|3|PUNCT
+*S1:	they're nice little flags that other predators can see and those
+	kinds of things .
+%mor:	pro:sub|they~cop|be&PRES adj|nice adj|little n|flag-PL pro:rel|that
+	qn|other n|predator-PL mod|can v|see coord|and det:dem|those
+	n|kind-PL prep|of n|thing-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|10|LINK 7|8|QUANT
+	8|10|SUBJ 9|10|AUX 10|5|CMOD 11|10|CONJ 12|13|DET 13|11|COORD 14|13|NJCT
+	15|14|POBJ 16|2|PUNCT
+*S1:	so they send very definite &-um signals .
+%mor:	co|so pro:sub|they v|send adv|very adj|definite n|signal-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*S1:	but &-um this then (.) is an example of the mark and recapture
+	method .
+%mor:	conj|but det:dem|this adv:tem|then cop|be&3S det:art|a n|example
+	prep|of det:art|the n|mark coord|and re#v|capture n|method .
+%gra:	1|4|LINK 2|3|DET 3|4|JCT 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|12|MOD 12|10|COORD 13|4|PUNCT
+*S1:	and &-um do feel free to sample the catch .
+%mor:	coord|and v|do v|feel adv|free prep|to n|sample det:art|the v|catch
+	.
+%gra:	1|3|LINK 2|3|SRL 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|8|DET 8|3|CJCT
+	9|3|PUNCT
+*S1:	&=loud_eating_sounds:S1 &=laughs:multiple .
+*SUM:	how many were in there ?
+%mor:	pro:int|how qn|many aux|be&PAST prep|in n|there ?
+%gra:	1|3|LINK 2|3|QUANT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*S1:	I've no idea .
+%mor:	pro:sub|I~aux|have qn|no n|idea .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*S1:	oh there were a hundred and sixty seven plus or minus eighty nine
+	+...
+%mor:	co|oh adv|there cop|be&PAST det:art|a det:num|hundred coord|and
+	det:num|sixty det:num|seven adv|plus coord|or prep|minus
+	det:num|eighty det:num|nine +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|8|QUANT 8|6|COORD
+	9|5|JCT 10|9|CONJ 11|10|COORD 12|13|QUANT 13|11|POBJ 14|3|PUNCT
+*S1:	anyone (.) please don't eat the other ones .
+%mor:	pro:indef|anyone co|please mod|do~neg|not v|eat det:art|the
+	qn|other pro:indef|one-PL .
+%gra:	1|5|LINK 2|5|COM 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|DET 7|8|QUANT 8|5|OBJ
+	9|5|PUNCT
+*S1:	Phil wants to count them all later .
+%mor:	n:prop|Phil v|want-3S inf|to v|count pro:obj|them post|all
+	adv|later .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|5|PQ 7|4|JCT 8|2|PUNCT
+*S1:	&=laughs:multiple okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so (.) we can estimate numbers .
+%mor:	co|so pro:sub|we mod|can n|estimate n|number-PL .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*S1:	but when we're dealing with population dynamics (.) we're not
+	interested in (.) just how many there are (.) now (.) but how the
+	numbers vary with time .
+%mor:	conj|but pro:int|when pro:sub|we~aux|be&PRES part|deal-PRESP
+	prep|with n|populate&dv-TION n|dynamic-PL pro:sub|we~aux|be&PRES
+	neg|not part|interest-PASTP adv|in adv|just pro:int|how qn|many
+	adv|there cop|be&PRES adv|now conj|but pro:int|how det:art|the
+	n|number-PL v|vary prep|with n|time .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|12|CJCT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|0|ROOT 13|12|JCT 14|15|JCT 15|12|XJCT
+	16|17|QUANT 17|18|JCT 18|15|COMP 19|18|JCT 20|18|CONJ 21|24|LINK 22|23|DET
+	23|24|SUBJ 24|20|COORD 25|24|JCT 26|25|POBJ 27|12|PUNCT
+*S1:	so (.) lemme spend a little bit of time and I mean a little bit of
+	time (.) talking about &-um a little bit about the continuous
+	methods and that is (.) the models .
+%mor:	adv|so v|let~pro:obj|me v|spend det:art|a adj|little n|bit prep|of
+	n|time coord|and pro:sub|I v|mean det:art|a adj|little n|bit prep|of
+	n|time part|talk-PRESP prep|about det:art|a adj|little n|bit
+	prep|about det:art|the adj|continuous n|method-PL coord|and
+	pro:rel|that cop|be&3S det:art|the n|model-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|12|LINK 11|12|SUBJ 12|7|CJCT 13|15|DET 14|15|MOD 15|18|JCT
+	16|15|NJCT 17|16|POBJ 18|12|COMP 19|18|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|22|NJCT 24|26|DET 25|26|MOD 26|23|POBJ 27|26|CONJ 28|29|LINK 29|27|COORD
+	30|31|DET 31|29|PRED 32|2|PUNCT
+*S1:	and (.) lo and behold (.) you already know the model .
+%mor:	coord|and co|lo coord|and v|behold pro:per|you adv|already v|know
+	det:art|the n|model .
+%gra:	1|7|LINK 2|7|COM 3|2|CONJ 4|3|COORD 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*S1:	(0.6) for (.) fishes (.) well for populations in general (.) the
+	most common model that is used to look at population numbers is the
+	logistic model .
+%mor:	prep|for n|fish-PL adv|well prep|for n|populate&dv-TION-PL prep|in
+	adj|general det:art|the qn|most adj|common n|model pro:rel|that
+	aux|be&3S part|use-PASTP inf|to v|look prep|at n|populate&dv-TION
+	n|number-PL cop|be&3S det:art|the adj|logistic n|model .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|NJCT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|6|POBJ
+	8|11|DET 9|11|QUANT 10|11|MOD 11|4|POBJ 12|14|LINK 13|14|AUX 14|11|CMOD
+	15|16|INF 16|14|COMP 17|16|JCT 18|19|MOD 19|17|POBJ 20|16|ENUM 21|23|DET
+	22|23|MOD 23|20|PRED 24|1|PUNCT
+*S1:	(0.6) well you'll recall (.) R little r@l (.) is the symbol that's
+	used for the growth rate of the population (.) and K is the carrying
+	capacity .
+%mor:	co|well pro:per|you~mod|will v|recall n:prop|R adj|little n:let|r
+	cop|be&3S det:art|the n|symbol pro:rel|that~aux|be&3S part|use-PASTP
+	prep|for det:art|the n|growth n|rate prep|of det:art|the
+	n|populate&dv-TION coord|and n:prop|K aux|be&3S det:art|the
+	part|carry-PRESP n|capacity .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|JCT 7|8|SUBJ 8|4|COMP
+	9|10|DET 10|8|PRED 11|13|LINK 12|13|AUX 13|10|CMOD 14|13|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|13|CONJ 22|26|SUBJ
+	23|26|AUX 24|26|DET 25|26|MOD 26|21|COORD 27|4|PUNCT
+*S1:	and you'll recall (.) that if you plot the numbers as a function of
+	time (.) then this rises to some asymptote (.) where the asymptote
+	here is K (.) the carrying capacity .
+%mor:	coord|and pro:per|you~mod|will n|recall pro:rel|that conj|if
+	pro:per|you v|plot det:art|the n|number-PL prep|as det:art|a
+	n|function prep|of n|time adv:tem|then pro:dem|this v|rise-3S
+	prep|to qn|some n|asymptote pro:rel|where det:art|the n|asymptote
+	adv|here cop|be&3S n:prop|K det:art|the part|carry-PRESP n|capacity
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|INCROOT 5|8|LINK 6|8|LINK 7|8|SUBJ
+	8|4|CMOD 9|10|DET 10|8|OBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|18|JCT 17|18|SUBJ 18|8|CJCT 19|18|JCT 20|21|QUANT 21|19|POBJ
+	22|26|LINK 23|24|DET 24|26|SUBJ 25|26|JCT 26|21|CMOD 27|26|PRED 28|30|DET
+	29|30|MOD 30|27|OBJ 31|4|PUNCT
+*S1:	and you'll remember that the explanation for the shape of this
+	curve (.) is intraspecific competition .
+%mor:	coord|and pro:per|you~mod|will v|remember comp|that det:art|the
+	n|explanation prep|for det:art|the n|shape prep|of det:dem|this
+	n|curve cop|be&3S adj|intraspecific n|competition .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|14|LINK 6|7|DET 7|14|SUBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|4|COMP 15|16|MOD
+	16|14|PRED 17|4|PUNCT
+*S1:	competition amongst the individuals at some &-uh high population
+	numbers so that the per capita resource base becomes sufficiently
+	small (.) the population &numbe &-uh growth rate declines .
+%mor:	n|competition prep|amongst det:art|the n|individual-PL prep|at
+	qn|some adj|high n|populate&dv-TION n|number-PL adv|so comp|that
+	det:art|the prep|per n|capita n|resource n|base cop|become-3S
+	adv|sufficient&dadj-LY adj|small det:art|the n|populate&dv-TION
+	n|growth n|rate n|decline-PL .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|NJCT 6|9|QUANT 7|9|MOD
+	8|9|MOD 9|5|POBJ 10|1|NJCT 11|10|POBJ 12|13|DET 13|11|JCT 14|16|MOD 15|16|MOD
+	16|13|POBJ 17|13|CPOBJ 18|19|JCT 19|24|MOD 20|24|DET 21|24|MOD 22|24|MOD
+	23|24|MOD 24|17|PRED 25|1|PUNCT
+*S1:	birth rates go down death rates go up &-um and so on .
+%mor:	n|birth n|rate-PL v|go adv|down n|death n|rate-PL v|go adv|up
+	coord|and adv|so adv|on .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|7|SUBJ 7|3|COMP 8|7|JCT
+	9|7|CONJ 10|11|JCT 11|9|COORD 12|3|PUNCT
+*S1:	bear in mind (.) that the population dynamics people (.) believe
+	that the importance of competition predation and so on (.) comes
+	from its effect on demographics .
+%mor:	n|bear prep|in n|mind pro:rel|that det:art|the n|populate&dv-TION
+	n|dynamic-PL n|person&PL v|believe comp|that det:art|the
+	n|importance prep|of n|competition pre#n|date&dv-TION coord|and
+	adv|so adv|on v|come-3S prep|from det:poss|its n|effect prep|on
+	n|demographic-PL .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|9|LINK 5|8|DET 6|7|MOD 7|8|MOD 8|9|SUBJ
+	9|3|CMOD 10|9|OBJ 11|12|DET 12|10|OBJ 13|12|NJCT 14|13|POBJ 15|12|XMOD
+	16|19|LINK 17|19|JCT 18|19|JCT 19|15|CJCT 20|19|JCT 21|22|DET 22|20|POBJ
+	23|19|JCT 24|23|POBJ 25|1|PUNCT
+*S1:	and here (.) we had an explanation (.) of this curve in other words
+	the population dynamics (.) in terms of a mechanism .
+%mor:	coord|and adv|here pro:sub|we v|have&PAST det:art|a n|explanation
+	prep|of det:dem|this n|curve prep|in qn|other n|word-PL det:art|the
+	n|populate&dv-TION n|dynamic-PL prep|in n|term-PL prep|of det:art|a
+	n|mechanism .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|4|JCT 11|12|QUANT 12|10|POBJ 13|15|DET 14|15|MOD 15|4|OBJ
+	16|15|NJCT 17|16|POBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|4|PUNCT
+*S1:	the mechanism was important in terms of the population dynamics .
+%mor:	det:art|the n|mechanism cop|be&PAST&13S adj|important prep|in
+	n|term-PL prep|of det:art|the n|populate&dv-TION n|dynamic-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|5|POBJ 7|6|NJCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*S1:	in talking further on this and linking it to reproduction and
+	talking about the r@l to k@l continuum (.) we recognize that
+	population (.) another process (.) its impact was on demographics
+	(.) and the [/] the ecological consequences in terms of say
+	releasing populations from competition direct and indirect &in &fe
+	effects and so on (.) were mediated (.) via these population &-um
+	effects and so on .
+%mor:	prep|in part|talk-PRESP adv|further prep|on det:dem|this coord|and
+	part|link-PRESP pro:per|it prep|to re#n|production coord|and
+	part|talk-PRESP prep|about det:art|the n:let|r inf|to n:let|k
+	n|continuum pro:sub|we v|recognize comp|that n|populate&dv-TION
+	qn|another n|process det:poss|its n|impact cop|be&PAST&13S prep|on
+	n|demographic-PL coord|and det:art|the adj|ecologic-AL
+	n|consequence-PL prep|in n|term-PL prep|of co|say
+	n:gerund|release-PRESP n|populate&dv-TION-PL prep|from n|competition
+	adj|direct coord|and in#adj|direct n|effect-PL coord|and co|so
+	adv|on aux|be&PAST part|mediate-PASTP prep|via det:dem|these
+	n|populate&dv-TION n|effect-PL coord|and co|so adv|on .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|JCT 4|2|JCT 5|4|POBJ 6|5|CONJ 7|6|COORD
+	8|7|OBJ 9|7|JCT 10|9|POBJ 11|10|CONJ 12|11|COORD 13|12|JCT 14|15|DET
+	15|13|POBJ 16|17|INF 17|15|XMOD 18|20|JCT 19|20|SUBJ 20|17|COMP 21|20|OBJ
+	22|21|POBJ 23|24|QUANT 24|22|OBJ 25|26|DET 26|27|SUBJ 27|24|CMOD 28|27|JCT
+	29|28|POBJ 30|29|CONJ 31|33|DET 32|33|MOD 33|30|COORD 34|33|NJCT 35|34|POBJ
+	36|35|NJCT 37|38|COM 38|36|POBJ 39|38|OBJ 40|39|NJCT 41|40|POBJ
+	42|39|POSTMOD 43|42|CONJ 44|45|MOD 45|43|COORD 46|50|LINK 47|50|COM 48|50|JCT
+	49|50|AUX 50|42|CJCT 51|50|JCT 52|54|DET 53|54|MOD 54|51|POBJ 55|50|CONJ
+	56|57|COM 57|55|COORD 58|1|PUNCT
+*S1:	I want to add one factor to this model .
+%mor:	pro:sub|I v|want inf|to v|add det:num|one n|factor prep|to
+	det:dem|this n|model .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|QUANT 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*S1:	there are many [/] many things that you can put into play with this
+	.
+%mor:	pro:exist|there cop|be&PRES qn|many n|thing-PL pro:rel|that
+	pro:per|you mod|can v|put&ZERO prep|into n|play prep|with
+	pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD
+	9|8|JCT 10|9|POBJ 11|8|JCT 12|11|POBJ 13|2|PUNCT
+*S1:	you can put in different growth rates for predators and for prey
+	and you wind up with a Lotka_Voltera models .
+%mor:	pro:per|you mod|can part|put&PASTP prep|in adj|different n|growth
+	v|rate-3S prep|for n|predator-PL coord|and prep|for n|prey coord|and
+	pro:per|you v|wind adv|up prep|with det:art|a n:prop|Lotka_Voltera
+	v|model-3S .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|ENUM 8|7|JCT
+	9|8|POBJ 10|3|CONJ 11|10|COORD 12|11|POBJ 13|15|LINK 14|15|SUBJ 15|3|CJCT
+	16|15|JCT 17|15|JCT 18|19|DET 19|20|SUBJ 20|17|POBJ 21|3|PUNCT
+*S1:	you can put in competition amongst individuals and build models
+	that way .
+%mor:	pro:per|you mod|can part|put&PASTP prep|in n|competition
+	prep|amongst n|individual-PL coord|and v|build n|model-PL
+	det:dem|that n|way .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|6|POBJ 8|3|CONJ
+	9|8|COORD 10|9|OBJ 11|12|DET 12|9|JCT 13|3|PUNCT
+*S1:	you can put in delays so that say if fish breed once a year what's
+	gonna be the effect and so on .
+%mor:	pro:per|you mod|can part|put&PASTP prep|in n|delay-PL adv|so
+	adv|that v|say conj|if n|fish n|breed adv|once det:art|a n|year
+	pro:int|what~aux|be&3S part|go-PRESP~inf|to cop|be det:art|the
+	n|effect coord|and adv|so adv|on .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|8|JCT 7|8|JCT 8|3|CJCT
+	9|8|JCT 10|11|MOD 11|9|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|17|SUBJ
+	16|17|AUX 17|14|CMOD 18|19|INF 19|17|COMP 20|21|DET 21|19|PRED 22|21|CONJ
+	23|24|JCT 24|22|COORD 25|3|PUNCT
+*S1:	and these models can get (.) these continuous models can get
+	increasingly complex to try and describe (.) the sort_of average
+	kinds of effects that are going on and so on .
+%mor:	coord|and det:dem|these n|model-PL mod|can v|get det:dem|these
+	adj|continuous n|model-PL mod|can v|get adv|increase&dadj-PRESP-LY
+	n|complex inf|to v|try coord|and v|describe det:art|the adv|sort_of
+	adj|average n|kind-PL prep|of n|effect-PL pro:rel|that aux|be&PRES
+	part|go-PRESP adv|on coord|and adv|so adv|on .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|10|SUBJ
+	9|10|AUX 10|5|COMP 11|12|JCT 12|10|PRED 13|14|INF 14|12|XMOD 15|14|CONJ
+	16|15|COORD 17|20|DET 18|19|JCT 19|20|MOD 20|16|OBJ 21|20|NJCT 22|21|POBJ
+	23|25|LINK 24|25|AUX 25|22|CMOD 26|25|JCT 27|25|CONJ 28|29|JCT
+	29|27|COORD 30|5|PUNCT
+*S1:	I want to just think about one (.) and that is an issue which is
+	important in terms of &-uh conservation biology (.) threatened
+	species and so on (.) and this is the idea of the minimum (.)
+	population size .
+%mor:	pro:sub|I v|want inf|to adj|just v|think prep|about det:num|one
+	coord|and pro:rel|that cop|be&3S det:art|a n|issue pro:rel|which
+	cop|be&3S adj|important prep|in n|term-PL prep|of n|conserve&dv-TION
+	n|biology v|threaten-PAST n|species coord|and co|so adv|on coord|and
+	pro:dem|this cop|be&3S det:art|the n|idea prep|of det:art|the
+	adj|minimum n|populate&dv-TION n|size .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|INF 4|5|JCT 5|2|COMP 6|5|JCT 7|6|POBJ 8|7|CONJ
+	9|10|LINK 10|8|COORD 11|12|DET 12|10|PRED 13|14|LINK 14|12|CMOD 15|14|PRED
+	16|14|JCT 17|16|POBJ 18|17|NJCT 19|20|MOD 20|18|POBJ 21|14|CPRED
+	22|21|OBJ 23|28|LINK 24|28|COM 25|28|JCT 26|25|CONJ 27|26|COORD 28|21|CJCT
+	29|30|DET 30|28|PRED 31|30|NJCT 32|35|DET 33|35|MOD 34|35|MOD 35|31|POBJ
+	36|2|PUNCT
+*S1:	the basic logistic curve makes a very simple assumption .
+%mor:	det:art|the adj|basic adj|logistic n|curve v|make-3S det:art|a
+	adv|very adj|simple n|assumption .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|9|DET 7|8|JCT 8|9|MOD
+	9|5|OBJ 10|5|PUNCT
+*S1:	and that is that the per capita growth (.) the growth rate if you
+	like (.) is constant at every single population density .
+%mor:	coord|and comp|that aux|be&3S comp|that det:art|the prep|per
+	n|capita n|growth det:art|the n|growth n|rate conj|if pro:per|you
+	v|like aux|be&3S adj|constant prep|at qn|every adj|single
+	n|populate&dv-TION n|density .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|11|DET 6|11|JCT 7|8|MOD 8|6|POBJ
+	9|11|DET 10|11|MOD 11|4|OBJ 12|11|XMOD 13|14|SUBJ 14|12|CPOBJ 15|14|OBJ
+	16|15|PRED 17|16|JCT 18|21|QUANT 19|21|MOD 20|21|MOD 21|17|POBJ
+	22|4|PUNCT
+*S1:	it doesn't matter if there are ten fish or a hundred fish (.) if
+	there are ten fish the growth [/] growth rate may be one fish a year
+	(.) if there are a hundred fish it will be ten fish per year (.) but
+	the rate of growth .
+%mor:	pro:per|it mod|do&3S~neg|not v|matter conj|if adv|there cop|be&PRES
+	det:num|ten n|fish coord|or det:art|a det:num|hundred n|fish conj|if
+	adv|there cop|be&PRES det:num|ten n|fish det:art|the n|growth n|rate
+	mod|may cop|be det:num|one n|fish det:art|a n|year conj|if adv|there
+	cop|be&PRES det:art|a det:num|hundred n|fish pro:per|it mod|will
+	cop|be det:num|ten n|fish prep|per n|year conj|but det:art|the
+	n|rate prep|of n|growth .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|SUBJ 7|5|CPOBJ 8|9|QUANT
+	9|7|PRED 10|7|CONJ 11|13|DET 12|13|QUANT 13|10|COORD 14|16|LINK
+	15|16|SUBJ 16|13|CMOD 17|18|QUANT 18|16|PRED 19|21|DET 20|21|MOD 21|23|SUBJ
+	22|23|AUX 23|18|CMOD 24|25|QUANT 25|23|PRED 26|27|DET 27|25|OBJ 28|30|LINK
+	29|30|SUBJ 30|27|CMOD 31|33|DET 32|33|QUANT 33|30|PRED 34|36|SUBJ
+	35|36|AUX 36|33|CMOD 37|38|QUANT 38|36|PRED 39|38|NJCT 40|39|POBJ 41|36|CONJ
+	42|43|DET 43|41|COORD 44|43|NJCT 45|44|POBJ 46|4|PUNCT
+@End

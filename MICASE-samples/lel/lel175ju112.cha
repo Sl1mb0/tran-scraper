@@ -1,0 +1,3299 @@
+@UTF8
+@PID:	11312/a-00010156-1
+@Begin
+@Languages:	eng
+@Participants:	S1 Instructor Teacher, S2 Student Student, S3 Student
+	Student, S4 Student Student, S5 Student Student, S6 Student
+	Student, SU Student Student, SS Student Student
+@ID:	eng|MICASE|S1|60;|female|NS||Teacher|SF||
+@ID:	eng|MICASE|S2|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|S3|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|S4|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|S5|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|S6|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|SU|20;||NS||Student|JU||
+@ID:	eng|MICASE|SS|20;||NS||Student|JU||
+@Media:	lel175ju112, audio, unlinked
+@Date:	09-OCT-2000
+@Situation:	Lecture Room, Angell Hall
+*S1:	there's just one handout today on the lecture (.) and the exam's
+	coming up (.) Wednesday &-uh do you have any questions (.) coming up
+	(.) on the exam ?
+%mor:	pro:exist|there~cop|be&3S adv|just det:num|one n|+v|hand+prep|out
+	adv:tem|today adv|on det:art|the n|lecture coord|and det:art|the
+	n|exam~aux|be&3S part|come-PRESP adv|up n:prop|Wednesday v|do
+	pro:per|you v|have qn|any n|question-PL part|come-PRESP adv|up
+	prep|on det:art|the n|exam ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|QUANT 5|2|PRED 6|14|JCT 7|9|JCT 8|9|DET
+	9|14|SUBJ 10|9|CONJ 11|12|DET 12|10|COORD 13|14|AUX 14|17|XJCT 15|14|JCT
+	16|17|SUBJ 17|5|CMOD 18|19|SUBJ 19|17|COMP 20|21|QUANT 21|19|OBJ
+	22|21|XMOD 23|22|JCT 24|22|JCT 25|26|DET 26|24|POBJ 27|2|PUNCT
+*S1:	the review will be tonight &-uh bring questions to the review
+	(be)cause you'll really generate &-uh you know what information is
+	given out .
+%mor:	det:art|the n|review mod|will cop|be adv:tem|tonight v|bring
+	n|question-PL prep|to det:art|the n|review conj|because
+	pro:per|you~mod|will adv|real&dadj-LY v|generate pro:per|you v|know
+	pro:int|what n|inform&dv-TION aux|be&3S part|give&PASTP adv|out .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|PRED 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|15|LINK 12|15|SUBJ 13|15|AUX 14|15|JCT 15|17|CJCT
+	16|17|SUBJ 17|4|CJCT 18|19|DET 19|21|SUBJ 20|21|AUX 21|17|COMP 22|21|JCT
+	23|4|PUNCT
+*S1:	so (.) do that &-uh go over your study questions (.) that you got .
+%mor:	co|so v|do adv|that v|go adv|over det:poss|your n|study
+	v|question-3S comp|that pro:per|you part|get&PASTP .
+%gra:	1|2|COM 2|0|ROOT 3|4|JCT 4|2|COMP 5|4|JCT 6|7|DET 7|4|OBJ 8|4|ENUM
+	9|11|LINK 10|11|SUBJ 11|8|COMP 12|2|PUNCT
+*S1:	there's [/] there's example exams (.) on the web or on the web page
+	for two eighty one .
+%mor:	pro:exist|there~cop|be&3S n|example n|exam-PL prep|on det:art|the
+	n|web coord|or prep|on det:art|the n|web n|page prep|for det:num|two
+	det:num|eighty det:num|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|JCT 6|7|DET 7|5|POBJ 8|2|CONJ
+	9|8|COORD 10|12|DET 11|12|MOD 12|9|POBJ 13|12|NJCT 14|15|QUANT 15|16|ENUM
+	16|13|POBJ 17|2|PUNCT
+*S1:	and &-uh I looked over the [/] the first exam and this [//] the
+	population stuff is on there .
+%mor:	coord|and pro:sub|I v|look-PAST prep|over det:art|the adj|first
+	n|exam coord|and det:art|the n|populate&dv-TION n|stuff cop|be&3S
+	prep|on n|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|12|LINK
+	9|11|DET 10|11|MOD 11|12|SUBJ 12|3|CJCT 13|12|JCT 14|13|POBJ 15|3|PUNCT
+*S1:	but there's a foraging problem and obviously (.) we haven't talked
+	about foraging so (.) don't worry about things that we haven't
+	discussed at all .
+%mor:	conj|but pro:exist|there~cop|be&3S det:art|a part|forage-PRESP
+	n|problem coord|and adv|obvious&dadj-LY pro:sub|we aux|have~neg|not
+	part|talk-PASTP adv|about part|forage-PRESP adv|so mod|do~neg|not
+	v|worry prep|about n|thing-PL pro:rel|that pro:sub|we
+	aux|have~neg|not part|discuss-PASTP prep|at pro:indef|all .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|12|LINK 8|12|JCT
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|3|CJCT 13|14|JCT 14|12|COMP 15|18|JCT
+	16|18|AUX 17|16|NEG 18|14|COMP 19|18|JCT 20|19|POBJ 21|25|LINK 22|25|SUBJ
+	23|25|AUX 24|23|NEG 25|20|CMOD 26|25|JCT 27|26|POBJ 28|3|PUNCT
+*S1:	so (.) any questions <coming up> [?] ?
+%mor:	adv|so qn|any n|question-PL part|come-PRESP adv|up ?
+%gra:	1|3|JCT 2|3|QUANT 3|0|INCROOT 4|3|XMOD 5|4|JCT 6|3|PUNCT
+*S1:	everyone's .
+%mor:	adj|everyone&dn-POSS .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S2:	is the exam is in this building ?
+%mor:	cop|be&3S det:art|the n|exam cop|be&3S prep|in det:dem|this
+	n|building ?
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*S1:	exam will be here in this room at this time (.) and &-uh you'll be
+	handed out the exam that you write on so you don't need to bring
+	&-uh books or anything no calculators .
+%mor:	n|exam mod|will cop|be adv|here prep|in det:dem|this n|room prep|at
+	det:dem|this n|time coord|and pro:per|you~mod|will aux|be
+	part|hand-PASTP prep|out det:art|the n|exam pro:rel|that pro:per|you
+	v|write adv|on conj|so pro:per|you mod|do~neg|not v|need inf|to
+	v|bring n|book-PL coord|or pro:indef|anything qn|no n|calculator-PL
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|JCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|10|DET 10|8|POBJ 11|15|LINK 12|15|SUBJ 13|15|AUX 14|15|AUX 15|3|CJCT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|21|LINK 20|21|SUBJ 21|18|CMOD 22|21|JCT
+	23|27|LINK 24|27|SUBJ 25|27|AUX 26|25|NEG 27|3|CJCT 28|29|INF 29|27|COMP
+	30|29|OBJ 31|29|CONJ 32|31|COORD 33|34|QUANT 34|32|OBJ 35|3|PUNCT
+*S1:	be no need for calculators you can just show all your work and &-uh
+	so no calculators yeah ?
+%mor:	aux|be qn|no n|need prep|for n|calculator-PL pro:per|you mod|can
+	adj|just n|show qn|all det:poss|your n|work coord|and adv|so qn|no
+	n|calculator-PL co|yeah ?
+%gra:	1|3|AUX 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|9|SUBJ 7|9|AUX
+	8|9|MOD 9|3|APP 10|12|QUANT 11|12|DET 12|9|OBJ 13|12|CONJ 14|15|JCT
+	15|16|QUANT 16|13|COORD 17|16|COM 18|3|PUNCT
+*S3:	is today's lecture on the exam ?
+%mor:	aux|be&3S adv:tem|today~aux|be&3S n|lecture prep|on det:art|the
+	n|exam ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|INCROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*S3:	&=sneezing:SU .
+*S1:	I'm sorry what ?
+%mor:	pro:sub|I~cop|be&1S adj|sorry pro:int|what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*S3:	is today's lecture on the exam ?
+%mor:	aux|be&3S adv:tem|today~aux|be&3S n|lecture prep|on det:art|the
+	n|exam ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|INCROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*S1:	&-uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	good question I'm sorry it is not on the exam .
+%mor:	adj|good n|question pro:sub|I~cop|be&1S adj|sorry pro:per|it
+	cop|be&3S neg|not prep|on det:art|the n|exam .
+%gra:	1|2|MOD 2|7|SUBJ 3|4|SUBJ 4|2|CMOD 5|4|PRED 6|7|SUBJ 7|0|ROOT 8|7|NEG
+	9|7|JCT 10|11|DET 11|9|POBJ 12|7|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	it will include up to last Wednesday's lecture .
+%mor:	pro:per|it mod|will v|include adv|up prep|to n|last
+	adj|Wednesday&dn-POSS n|lecture .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|MOD 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*S1:	good questions .
+%mor:	adj|good n|question-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S1:	(0.4) but this will be on the next exam .
+%mor:	conj|but det:dem|this mod|will cop|be prep|on det:art|the adj|next
+	n|exam .
+%gra:	1|4|LINK 2|4|DET 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*S4:	do you have any of the handouts that are (.) outside your office
+	(.) xxx .
+%mor:	mod|do pro:per|you v|have qn|any prep|of det:art|the
+	n|+v|hand+prep|out-PL pro:rel|that cop|be&PRES prep|outside
+	det:poss|your n|office .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|9|LINK
+	9|7|CMOD 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*S1:	oh &-uh I don't .
+%mor:	co|oh pro:sub|I mod|do~neg|not .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|PUNCT
+*S1:	if there we're missing some handouts that people need I guess the
+	best thing is to tell me or email me and I could try to xerox some
+	more but (.) I don't .
+%mor:	conj|if adv|there pro:sub|we~aux|be&PRES part|miss-PRESP qn|some
+	n|+v|hand+prep|out-PL pro:rel|that n|person&PL v|need pro:sub|I
+	v|guess det:art|the adj|good&SP n|thing cop|be&3S inf|to v|tell
+	pro:obj|me coord|or n|email pro:obj|me coord|and pro:sub|I mod|could
+	v|try inf|to v|xerox qn|some adv|more conj|but pro:sub|I
+	mod|do~neg|not .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|12|SUBJ 12|10|COMP 13|15|DET 14|15|MOD 15|16|SUBJ
+	16|12|ROOT 17|18|INF 18|16|CPRED 19|18|OBJ2 20|22|LINK 21|22|MOD
+	22|18|OBJ 23|26|LINK 24|26|SUBJ 25|26|AUX 26|22|ROOT 27|28|INF 28|26|COMP
+	29|30|QUANT 30|28|JCT 31|26|CONJ 32|31|COORD 33|32|INCROOT 34|33|NEG
+	35|33|PUNCT
+*S1:	&-um they're all there outside the door .
+%mor:	pro:sub|they~cop|be&PRES post|all adv|there prep|outside
+	det:art|the n|door .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*S1:	basically .
+%mor:	adv|basic&dadj-AL-LY .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	but if we're missing something I could try to replace them .
+%mor:	conj|but conj|if pro:sub|we~aux|be&PRES part|miss-PRESP
+	pro:indef|something pro:sub|I mod|could v|try inf|to re#v|place
+	pro:obj|them .
+%gra:	1|9|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|9|CJCT 6|5|OBJ 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|11|INF 11|9|COMP 12|11|OBJ 13|9|PUNCT
+*S1:	or you could get them you know maybe from somebody xxx okay so
+	everyone's all set ?
+%mor:	coord|or pro:per|you mod|could v|get pro:obj|them pro:per|you
+	v|know adv|maybe prep|from pro:indef|somebody adj|okay adv|so
+	pro:indef|everyone~cop|be&3S adv|all n|set ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|7|JCT 12|13|JCT 13|14|SUBJ 14|7|COMP 15|16|JCT
+	16|14|PRED 17|4|PUNCT
+*S1:	for Wednesday ?
+%mor:	prep|for n:prop|Wednesday ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*S1:	okay well today (.) I'm going to talk about population regulation .
+%mor:	co|okay adv|well adv:tem|today pro:sub|I~aux|be&1S part|go-PRESP
+	prep|to n|talk prep|about n|populate&dv-TION n|regulate&dv-TION .
+%gra:	1|3|COM 2|3|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|6|PUNCT
+*S1:	we've been talking about populations (.) demography (.) life
+	histories .
+%mor:	pro:sub|we~aux|have aux|be&PASTP part|talk-PRESP prep|about
+	n|populate&dv-TION-PL n|demography n|life n|history-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|9|MOD 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|4|PUNCT
+*S1:	and &-uh when I talk about population growth I showed you &-uh this
+	figure (.) where if we look at the patterns of population growth for
+	different species &-uh we find in some cases we do get a nice
+	logistic pattern (.) where we have the model that fit very nice
+	where the species grows to a carrying capacity (.) and then settles
+	down around this equilibrium .
+%mor:	coord|and conj|when pro:sub|I v|talk prep|about n|populate&dv-TION
+	n|growth pro:sub|I v|show-PAST pro:per|you det:dem|this n|figure
+	pro:rel|where conj|if pro:sub|we v|look prep|at det:art|the
+	n|pattern-PL prep|of n|populate&dv-TION n|growth prep|for
+	adj|different n|species pro:sub|we v|find prep|in qn|some n|case-PL
+	pro:sub|we v|do v|get det:art|a adj|nice adj|logistic n|pattern
+	pro:rel|where pro:sub|we v|have det:art|the n|model pro:rel|that
+	adj|fit adv|very adj|nice pro:int|where det:art|the n|species
+	v|grow-3S prep|to det:art|a part|carry-PRESP n|capacity coord|and
+	adv:tem|then v|settle-3S adv|down prep|around det:dem|this
+	n|equilibrium .
+%gra:	1|9|LINK 2|4|LINK 3|4|SUBJ 4|9|CJCT 5|4|JCT 6|7|MOD 7|5|POBJ 8|9|SUBJ
+	9|32|CJCT 10|9|OBJ2 11|12|DET 12|9|OBJ 13|27|LINK 14|16|LINK 15|16|SUBJ
+	16|27|CJCT 17|16|JCT 18|19|DET 19|17|POBJ 20|19|NJCT 21|22|MOD 22|20|POBJ
+	23|16|JCT 24|25|MOD 25|23|POBJ 26|27|SUBJ 27|12|CMOD 28|27|JCT
+	29|30|QUANT 30|28|POBJ 31|32|SUBJ 32|0|ROOT 33|32|COMP 34|37|DET 35|37|MOD
+	36|37|MOD 37|33|OBJ 38|40|LINK 39|40|SUBJ 40|37|CMOD 41|42|DET 42|40|OBJ
+	43|44|LINK 44|42|CMOD 45|46|JCT 46|57|MOD 47|50|LINK 48|49|DET 49|50|SUBJ
+	50|46|CMOD 51|50|JCT 52|54|DET 53|54|MOD 54|51|POBJ 55|46|CONJ 56|55|COORD
+	57|44|CMOD 58|57|JCT 59|57|JCT 60|61|DET 61|59|POBJ 62|32|PUNCT
+*S1:	but more often what we see are (.) populations that fluctuate (.)
+	but around some (.) sorta K value or at least some &-uh asymptote
+	here .
+%mor:	conj|but qn|more adv|often pro:int|what pro:sub|we v|see
+	aux|be&PRES n|populate&dv-TION-PL pro:rel|that v|fluctuate conj|but
+	prep|around qn|some adv|sorta n:prop|K n|value coord|or prep|at
+	n|least qn|some n|asymptote adv|here .
+%gra:	1|6|LINK 2|3|QUANT 3|4|JCT 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|7|PRED
+	9|10|LINK 10|8|CMOD 11|10|CONJ 12|11|COORD 13|16|QUANT 14|16|JCT
+	15|16|MOD 16|12|POBJ 17|16|CONJ 18|17|COORD 19|18|POBJ 20|21|QUANT 21|18|POBJ
+	22|21|NJCT 23|6|PUNCT
+*S1:	and the populations fluctuate within bounds .
+%mor:	coord|and det:art|the n|populate&dv-TION-PL v|fluctuate prep|within
+	n|bound-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*S1:	and this is what we mean by regulation .
+%mor:	coord|and pro:dem|this cop|be&3S pro:int|what pro:sub|we v|mean
+	prep|by n|regulate&dv-TION .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CPRED 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*S1:	that is there's some factor that's causing the population (.) to
+	stay within bounds rather than (.) completely crashing and going
+	extinct (.) or going into exponential growth &-uh indefinitely .
+%mor:	pro:dem|that cop|be&3S pro:exist|there~cop|be&3S qn|some n|factor
+	pro:rel|that~aux|be&3S part|cause-PRESP det:art|the
+	n|populate&dv-TION inf|to v|stay prep|within n|bound-PL adv|rather
+	prep|than adv|complete&dadj-LY part|crash-PRESP coord|and
+	part|go-PRESP adj|extinct coord|or part|go-PRESP prep|into
+	adj|exponential n|growth in#adv|definite&dadj-LY .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|6|QUANT 6|4|PRED 7|9|LINK 8|9|AUX
+	9|6|CMOD 10|11|DET 11|9|OBJ 12|13|INF 13|9|XJCT 14|13|JCT 15|14|POBJ
+	16|13|JCT 17|16|JCT 18|19|JCT 19|17|POBJ 20|19|CONJ 21|28|XJCT 22|21|JCT
+	23|22|CONJ 24|23|COORD 25|21|JCT 26|27|MOD 27|25|POBJ 28|20|COORD
+	29|2|PUNCT
+*S1:	and &-uh we saw this then in the logistic equation (.) our
+	population increases (.) up to this K (.) and stays there .
+%mor:	coord|and pro:sub|we v|see&PAST det:dem|this adv:tem|then prep|in
+	det:art|the adj|logistic n|equate&dv-TION det:poss|our
+	n|populate&dv-TION n|increase-PL adv|up prep|to det:dem|this
+	n:prop|K coord|and v|stay-3S adv|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|JCT 6|3|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|DET 11|12|MOD 12|6|ENUM 13|12|NJCT 14|12|NJCT 15|16|DET
+	16|14|POBJ 17|6|CONJ 18|17|COORD 19|18|JCT 20|3|PUNCT
+*S1:	and if the population &-uh for some reason goes above K (.) then
+	our little density dependent term (.) will become negative and it'll
+	start going down if it's below K (.) this'll be positive and growth
+	will &pu put it back up to K .
+%mor:	coord|and comp|if det:art|the n|populate&dv-TION prep|for qn|some
+	n|reason v|go-3S prep|above n:prop|K adv:tem|then det:poss|our
+	adj|little n|density adj|dependent n|term mod|will part|become&PASTP
+	adj|negative coord|and pro:per|it~mod|will v|start part|go-PRESP
+	adv|down conj|if pro:per|it~cop|be&3S adv|below n:prop|K
+	pro:dem|this~mod|will cop|be n|positive coord|and n|growth mod|will
+	v|put&ZERO pro:per|it adv|back adv|up prep|to n:prop|K .
+%gra:	1|8|LINK 2|8|LINK 3|4|DET 4|8|SUBJ 5|4|NJCT 6|7|QUANT 7|5|POBJ 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|18|JCT 12|14|DET 13|14|MOD 14|16|MOD 15|16|MOD
+	16|18|SUBJ 17|18|AUX 18|8|CJCT 19|18|PRED 20|23|LINK 21|23|SUBJ 22|23|AUX
+	23|19|CMOD 24|38|XJCT 25|24|JCT 26|28|LINK 27|28|SUBJ 28|38|CJCT
+	29|28|JCT 30|33|LINK 31|33|SUBJ 32|33|AUX 33|29|CPOBJ 34|33|PRED 35|34|CONJ
+	36|35|COORD 37|38|AUX 38|23|COMP 39|38|OBJ 40|38|JCT 41|38|JCT 42|38|JCT
+	43|42|POBJ 44|8|PUNCT
+*S1:	so we have an equilibrium (.) then .
+%mor:	co|so pro:sub|we v|have det:art|a n|equilibrium adv:tem|then .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|POSTMOD 7|3|PUNCT
+*S1:	(0.6) and this equilibrium (.) in the density &-uh &th or the
+	density dependence in our logistic equation (.) is due (.) to +...
+%mor:	coord|and det:dem|this n|equilibrium prep|in det:art|the n|density
+	coord|or det:art|the n|density n|dependence prep|in det:poss|our
+	adj|logistic n|equate&dv-TION cop|be&3S n|due inf|to +...
+%gra:	1|15|LINK 2|3|DET 3|15|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|10|DET
+	9|10|MOD 10|7|COORD 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ 15|0|ROOT
+	16|15|PRED 17|16|OM 18|15|PUNCT
+*S1:	this density dependence (.) is due to what ?
+%mor:	pro:dem|this n|density n|dependence cop|be&3S adj|due prep|to
+	pro:int|what ?
+%gra:	1|2|SUBJ 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|6|POBJ 8|4|PUNCT
+*S1:	or what do we assume it's due to ?
+%mor:	coord|or pro:int|what mod|do pro:sub|we v|assume
+	pro:per|it~cop|be&3S adj|due prep|to ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|PRED
+	9|7|JCT 10|5|PUNCT
+*S1:	it's in our models we just kind_of assume I said the models should
+	&-uh &=noise_disturbance supply a logically reasonable parameters
+	(.) well they assume it's due to intraspecific competition .
+%mor:	pro:per|it~cop|be&3S prep|in det:poss|our n|model-PL pro:sub|we
+	adv|just adv|kind_of v|assume pro:sub|I v|say&PAST det:art|the
+	n|model-PL mod|should v|supply det:art|a adv|logical&dadj-LY
+	adj|reason&dv-ABLE n|parameter-PL co|well pro:sub|they v|assume
+	pro:per|it~cop|be&3S adj|due prep|to adj|intraspecific n|competition
+	.
+%gra:	1|2|SUBJ 2|9|CJCT 3|2|JCT 4|5|DET 5|3|POBJ 6|9|SUBJ 7|9|JCT 8|9|JCT
+	9|0|ROOT 10|11|SUBJ 11|9|COMP 12|13|DET 13|15|SUBJ 14|15|AUX 15|11|COMP
+	16|19|DET 17|18|JCT 18|19|MOD 19|15|OBJ 20|22|COM 21|22|SUBJ 22|15|CJCT
+	23|24|SUBJ 24|22|COMP 25|24|PRED 26|25|JCT 27|28|MOD 28|26|POBJ 29|9|PUNCT
+*S1:	for resources .
+%mor:	prep|for n|resource-PL .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*S1:	that is what slows the growth .
+%mor:	pro:dem|that cop|be&3S pro:int|what v|slow-3S det:art|the n|growth
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|LINK 4|2|CPRED 5|6|DET 6|4|OBJ 7|2|PUNCT
+*S1:	and keeps it around K and it becomes (.) relatively more intense as
+	you get (.) near K .
+%mor:	coord|and v|keep-3S pro:per|it prep|around n:prop|K coord|and
+	pro:per|it cop|become-3S adv|relative&dadj-LY adv|more adj|intense
+	prep|as pro:per|you v|get prep|near n:prop|K .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|8|JCT 10|11|JCT 11|8|PRED 12|13|COORD 13|14|SUBJ 14|11|CMOD 15|14|JCT
+	16|15|POBJ 17|2|PUNCT
+*S1:	so and this is why we have what we call K selection too .
+%mor:	adv|so coord|and pro:dem|this cop|be&3S pro:int|why pro:sub|we
+	v|have pro:int|what pro:sub|we v|call n:prop|K n|selection adv|too .
+%gra:	1|4|JCT 2|1|CONJ 3|2|COORD 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CPRED
+	8|10|LINK 9|10|SUBJ 10|7|COMP 11|12|MOD 12|10|OBJ 13|10|JCT 14|4|PUNCT
+*S1:	but &-uh today what we're going to talk about (.) is that other
+	factors can also act in a density dependent manner (.) and this is
+	when we start looking at species interactions .
+%mor:	conj|but adv:tem|today pro:int|what pro:sub|we~aux|be&PRES
+	part|go-PRESP prep|to n|talk prep|about cop|be&3S comp|that qn|other
+	n|factor-PL mod|can adv|also n|act prep|in det:art|a n|density
+	adj|dependent n|manner coord|and pro:dem|this cop|be&3S conj|when
+	pro:sub|we v|start part|look-PRESP prep|at n|species
+	inter#n|action-PL .
+%gra:	1|10|LINK 2|10|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COBJ 7|6|JCT 8|7|POBJ
+	9|10|JCT 10|24|CJCT 11|16|LINK 12|13|QUANT 13|16|SUBJ 14|16|AUX
+	15|16|JCT 16|24|SUBJ 17|16|NJCT 18|19|DET 19|21|MOD 20|21|MOD 21|17|POBJ
+	22|21|CONJ 23|22|COORD 24|0|ROOT 25|27|LINK 26|27|SUBJ 27|24|CJCT 28|27|COMP
+	29|28|JCT 30|29|POBJ 31|28|ENUM 32|24|PUNCT
+*S1:	for example you could also have like predation (.) or predators (.)
+	acting in a density dependent manner .
+%mor:	prep|for ex#adj|ample pro:per|you mod|could adv|also v|have
+	prep|like pre#n|date&dv-TION coord|or n|predator-PL part|act-PRESP
+	prep|in det:art|a n|density adj|dependent n|manner .
+%gra:	1|0|INCROOT 2|1|POBJ 3|6|SUBJ 4|6|AUX 5|6|JCT 6|2|CMOD 7|6|JCT 8|7|POBJ
+	9|8|CONJ 10|9|COORD 11|6|XJCT 12|11|JCT 13|14|DET 14|16|MOD 15|16|MOD
+	16|12|POBJ 17|1|PUNCT
+*S1:	that is as the population reaches +//.
+%mor:	pro:dem|that cop|be&3S prep|as det:art|the n|populate&dv-TION
+	n|reach-PL +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*S1:	is +//.
+%mor:	cop|be&3S +//.
+%gra:	1|0|ROOT 2|1|PUNCT
+*S1:	gets more and more abundant (.) it may be easier for predators to
+	find the prey (.) they might eat more of them (.) and so it gets
+	proportionately greater &-uh as a density dependent factor .
+%mor:	v|get-3S adv|more coord|and adv|more adj|abundant pro:per|it
+	mod|may cop|be adj|ease&dn-Y-CP prep|for n|predator-PL inf|to v|find
+	det:art|the n|prey pro:sub|they mod|might v|eat qn|more prep|of
+	pro:obj|them coord|and co|so pro:per|it v|get-3S
+	adv|proportionate&dadj-LY adj|great-CP prep|as det:art|a n|density
+	n|dependent n|factor .
+%gra:	1|0|ROOT 2|1|JCT 3|18|LINK 4|5|JCT 5|18|JCT 6|8|SUBJ 7|8|AUX 8|5|CMOD
+	9|8|PRED 10|5|JCT 11|10|POBJ 12|13|INF 13|5|XMOD 14|15|DET 15|13|OBJ
+	16|18|SUBJ 17|18|AUX 18|1|CJCT 19|18|OBJ 20|19|JCT 21|20|POBJ 22|25|LINK
+	23|25|COM 24|25|SUBJ 25|19|CJCT 26|27|JCT 27|25|JCT 28|27|JCT 29|32|DET
+	30|32|MOD 31|32|MOD 32|28|POBJ 33|1|PUNCT
+*S1:	we could also have interspecific competition (.) that is between
+	two species that becomes more intense as they reach their carrying
+	capacity (.) or you could have things like disease (.) or parasites
+	(.) that could all act as density dependent factors .
+%mor:	pro:sub|we mod|could adv|also v|have inter#adj|specific
+	n|competition pro:rel|that cop|be&3S prep|between det:num|two
+	n|species pro:rel|that cop|become-3S adv|more adj|intense conj|as
+	pro:sub|they v|reach det:poss|their part|carry-PRESP n|capacity
+	coord|or pro:per|you mod|could v|have n|thing-PL co|like n|disease
+	coord|or n|parasite-PL pro:rel|that mod|could adv|all n|act conj|as
+	n|density adj|dependent n|factor-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|LINK 8|6|CMOD
+	9|8|JCT 10|11|QUANT 11|9|POBJ 12|13|LINK 13|11|CMOD 14|15|JCT 15|13|PRED
+	16|18|LINK 17|18|SUBJ 18|4|CJCT 19|21|DET 20|21|XMOD 21|18|OBJ 22|25|LINK
+	23|25|SUBJ 24|25|AUX 25|18|CJCT 26|28|MOD 27|28|COM 28|25|OBJ
+	29|28|CONJ 30|29|COORD 31|34|LINK 32|34|AUX 33|34|JCT 34|28|CMOD 35|38|COORD
+	36|38|MOD 37|38|MOD 38|34|ENUM 39|4|PUNCT
+*S1:	now they don't necessarily act as density dependent factors but
+	these are biotic interactions that could (.) show this density
+	dependence .
+%mor:	adv|now pro:sub|they mod|do~neg|not adv|necessary&dadj-LY v|act
+	adv|as n|density adj|dependent n|factor-PL conj|but det:dem|these
+	aux|be&PRES n|biotic inter#n|action-PL pro:rel|that mod|could v|show
+	det:dem|this n|density n|dependence .
+%gra:	1|6|JCT 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|JCT 6|0|ROOT 7|10|COORD 8|10|MOD
+	9|10|MOD 10|6|ENUM 11|14|LINK 12|14|SUBJ 13|14|AUX 14|6|CJCT 15|14|PRED
+	16|18|LINK 17|18|AUX 18|15|CMOD 19|21|DET 20|21|MOD 21|18|OBJ 22|6|PUNCT
+*S1:	and then they could set the population (.) at some other K I think
+	I gave you a little K (.) a saturation K (.) level +...
+%mor:	coord|and adv:tem|then pro:sub|they mod|could v|set&ZERO
+	det:art|the n|populate&dv-TION prep|at qn|some qn|other n:prop|K
+	pro:sub|I v|think pro:sub|I v|give&PAST pro:per|you det:art|a
+	adj|little n:prop|K det:art|a n|saturate&dv-TION n:prop|K n|level
+	+...
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|13|CJCT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|QUANT 10|11|QUANT 11|8|POBJ 12|13|SUBJ 13|0|ROOT 14|15|SUBJ 15|13|COMP
+	16|15|OBJ 17|18|DET 18|23|MOD 19|23|MOD 20|21|DET 21|23|MOD 22|23|MOD
+	23|15|OBJ 24|13|PUNCT
+*S1:	so .
+%mor:	co|so .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and &-uh to remind you (.) this density dependence occurs because
+	either our birth rate (.) or our death rate is going to change (.)
+	as the density or the numbers (.) change .
+%mor:	coord|and inf|to v|remind pro:per|you det:dem|this n|density
+	n|dependence v|occur-3S conj|because adv|either det:poss|our n|birth
+	n|rate coord|or det:poss|our n|death n|rate aux|be&3S part|go-PRESP
+	inf|to v|change prep|as det:art|the n|density coord|or det:art|the
+	n|number-PL n|change .
+%gra:	1|3|LINK 2|3|INF 3|0|ROOT 4|8|SUBJ 5|7|DET 6|7|MOD 7|8|SUBJ 8|3|COMP
+	9|19|LINK 10|19|JCT 11|13|DET 12|13|MOD 13|19|SUBJ 14|13|CONJ 15|17|DET
+	16|17|MOD 17|14|COORD 18|19|AUX 19|3|CJCT 20|21|INF 21|19|COMP 22|21|JCT
+	23|24|DET 24|22|POBJ 25|24|CONJ 26|28|DET 27|28|MOD 28|25|COORD
+	29|3|PUNCT
+*S1:	and so for a population to slow down as it grows (.) larger what
+	hasta happen to birth rate ?
+%mor:	coord|and adv|so prep|for det:art|a n|populate&dv-TION inf|to
+	v|slow prep|down prep|as pro:per|it v|grow-3S adj|large-CP
+	pro:int|what mod|have&3S~inf|to v|happen prep|to n|birth n|rate ?
+%gra:	1|7|LINK 2|3|JCT 3|7|JCT 4|5|DET 5|3|POBJ 6|7|INF 7|0|ROOT 8|7|JCT
+	9|11|COORD 10|11|SUBJ 11|7|CJCT 12|11|PRED 13|16|SUBJ 14|16|AUX 15|16|INF
+	16|12|CMOD 17|16|JCT 18|19|MOD 19|17|POBJ 20|7|PUNCT
+*S1:	it hasta go down right ?
+%mor:	pro:per|it mod|have&3S~inf|to v|go adv|down co|right ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|4|COM 7|4|PUNCT
+*S1:	so we have the birth rate declining (.) and [/] and or (.) the
+	death rate may increase (.) as the population goes up and that's
+	what will cause the population to &-uh stabilize (.) and what is
+	this point right here ?
+%mor:	adv|so pro:sub|we v|have det:art|the n|birth n|rate
+	part|decline-PRESP coord|and coord|or det:art|the n|death n|rate
+	mod|may n|increase prep|as det:art|the n|populate&dv-TION v|go-3S
+	adv|up coord|and pro:dem|that~cop|be&3S pro:int|what mod|will
+	v|cause det:art|the n|populate&dv-TION inf|to v|stabilize coord|and
+	pro:int|what cop|be&3S det:dem|this n|point adv|right adv|here ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|XMOD 8|7|CONJ
+	9|18|LINK 10|12|DET 11|12|MOD 12|18|SUBJ 13|18|AUX 14|18|SUBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|8|COORD 19|18|JCT 20|22|LINK 21|22|SUBJ 22|18|CJCT
+	23|25|SUBJ 24|25|AUX 25|22|CPRED 26|27|DET 27|25|OBJ 28|29|INF
+	29|25|XJCT 30|32|LINK 31|32|SUBJ 32|29|CJCT 33|34|DET 34|32|PRED 35|36|JCT
+	36|34|NJCT 37|3|PUNCT
+*S5:	⌈ zero growth ⌉ +/.
+%mor:	det:num|zero n|growth +/.
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*S1:	+, ⌊ birth equals ⌋ death it'll be K .
+%mor:	n|birth v|equal-3S n|death pro:per|it~mod|will cop|be n:prop|K .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|6|PRED 8|2|PUNCT
+*S1:	at zero population growth .
+%mor:	prep|at det:num|zero n|populate&dv-TION n|growth .
+%gra:	1|0|INCROOT 2|3|QUANT 3|4|MOD 4|1|POBJ 5|1|PUNCT
+*S1:	that's when the population stabilizes right ?
+%mor:	pro:dem|that~cop|be&3S conj|when det:art|the n|populate&dv-TION
+	v|stabilize-3S co|right ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|CPRED 7|6|OBJ 8|2|PUNCT
+*S1:	⌈ it's right here ⌉ .
+%mor:	pro:per|it~cop|be&3S adv|right adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*S1:	+, (0.5) so this is what we call a density dependent relationship
+	of birth rate or death rate or both .
+%mor:	adv|so pro:dem|this cop|be&3S pro:int|what pro:sub|we v|call
+	det:art|a n|density adj|dependent n|relate&dv-TION-SHIP prep|of
+	n|birth n|rate coord|or n|death n|rate coord|or qn|both .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CPRED 7|10|DET 8|10|MOD
+	9|10|MOD 10|6|OBJ 11|10|NJCT 12|13|MOD 13|11|POBJ 14|10|CONJ 15|16|MOD
+	16|14|COORD 17|10|CONJ 18|17|COORD 19|3|PUNCT
+*S1:	now this is in contrast to what is called density independent +...
+%mor:	adv|now pro:dem|this cop|be&3S prep|in n|contrast prep|to
+	pro:int|what aux|be&3S part|call-PASTP n|density in#adj|dependent
+	+...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|9|SUBJ 8|9|AUX
+	9|6|CPOBJ 10|9|OBJ 11|3|SUBJ 12|3|PUNCT
+*S1:	relationship and this would be where our rate (.) either birth or
+	death shows no relationship to density .
+%mor:	n|relate&dv-TION-SHIP coord|and pro:dem|this mod|will&COND cop|be
+	pro:int|where det:poss|our n|rate coord|either n|birth coord|or
+	n|death v|show-3S qn|no n|relate&dv-TION-SHIP prep|to n|density .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|13|LINK 7|8|DET
+	8|13|SUBJ 9|8|CONJ 10|9|COORD 11|8|CONJ 12|11|COORD 13|5|CPRED 14|15|QUANT
+	15|13|OBJ 16|15|NJCT 17|16|POBJ 18|1|PUNCT
+*S1:	(o)kay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	it's neither negative or positive and it may just be kind of
+	variable around this line .
+%mor:	pro:per|it~cop|be&3S adv|neither adj|negative coord|or adj|positive
+	coord|and pro:per|it mod|may adv|just cop|be n|kind prep|of
+	n|variable prep|around det:dem|this n|line .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|CONJ 6|5|COORD 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|11|JCT 11|2|CJCT 12|11|PRED 13|12|NJCT 14|13|POBJ
+	15|12|NJCT 16|17|DET 17|15|POBJ 18|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so that's density independent .
+%mor:	co|so pro:dem|that~cop|be&3S n|density in#adj|dependent .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*S1:	and &-uh when we have density independent factors which I mentioned
+	in the &-uh &-uh lecture on life histories (.) what we see is a
+	population (.) so if it's density independent factors (.) the
+	population N over time (.) you'll go +//.
+%mor:	coord|and conj|when pro:sub|we v|have n|density in#adj|dependent
+	n|factor-PL pro:int|which pro:sub|I v|mention-PAST prep|in
+	det:art|the n|lecture prep|on n|life n|history-PL pro:int|what
+	pro:sub|we v|see cop|be&3S det:art|a n|populate&dv-TION adv|so
+	conj|if pro:per|it~cop|be&3S n|density in#adj|dependent v|factor-3S
+	det:art|the n|populate&dv-TION n:prop|N prep|over n|time
+	pro:per|you~mod|will v|go +//.
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|MOD 6|7|MOD 7|4|OBJ 8|10|LINK
+	9|10|SUBJ 10|4|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|10|JCT 15|16|MOD
+	16|14|POBJ 17|19|LINK 18|19|SUBJ 19|10|CJCT 20|19|COMP 21|22|DET
+	22|20|PRED 23|24|JCT 24|26|LINK 25|26|SUBJ 26|22|CMOD 27|29|JCT 28|29|SUBJ
+	29|26|CPRED 30|31|DET 31|29|OBJ 32|37|CJCT 33|32|NJCT 34|33|POBJ 35|37|SUBJ
+	36|37|AUX 37|31|CMOD 38|4|PUNCT
+*S1:	the population may go into exponential growth (.) and then it might
+	get hit by some catastrophe like a flood or blizzard or whatever
+	then it might decrease and then it'll start going into exponential
+	growth again .
+%mor:	det:art|the n|populate&dv-TION mod|may v|go prep|into
+	adj|exponential n|growth coord|and adv:tem|then pro:per|it mod|might
+	aux|get part|hit&PASTP prep|by qn|some n|catastrophe prep|like
+	det:art|a n|flood coord|or n|blizzard coord|or pro:int|whatever
+	adv:tem|then pro:per|it mod|might v|decrease coord|and adv:tem|then
+	pro:per|it~mod|will v|start part|go-PRESP prep|into adj|exponential
+	n|growth adv|again .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|13|LINK
+	9|13|JCT 10|13|SUBJ 11|13|AUX 12|13|AUX 13|4|CJCT 14|13|JCT 15|16|QUANT
+	16|14|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|19|CONJ 21|20|COORD
+	22|13|CONJ 23|27|LINK 24|27|JCT 25|27|SUBJ 26|27|AUX 27|22|COORD 28|32|LINK
+	29|32|JCT 30|32|SUBJ 31|32|AUX 32|27|CJCT 33|32|COMP 34|33|JCT 35|36|MOD
+	36|34|POBJ 37|33|JCT 38|4|PUNCT
+*S1:	it may get knocked down by a bad (.) summer and then it may go into
+	exponential growth .
+%mor:	pro:per|it mod|may aux|get part|knock-PASTP adv|down prep|by
+	det:art|a adj|bad n|summer coord|and adv:tem|then pro:per|it mod|may
+	v|go prep|into adj|exponential n|growth .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|14|LINK 11|14|JCT 12|14|SUBJ 13|14|AUX 14|4|CJCT 15|14|JCT
+	16|17|MOD 17|15|POBJ 18|4|PUNCT
+*S1:	and so (.) you end up with a pattern like this (.) rather than what
+	we see with the logistic (.) where it stabilizes around some (.)
+	carrying capacity .
+%mor:	coord|and co|so pro:per|you v|end adv|up prep|with det:art|a
+	n|pattern prep|like pro:dem|this adv|rather prep|than pro:int|what
+	pro:sub|we v|see prep|with det:art|the adj|logistic pro:int|where
+	pro:per|it v|stabilize-3S prep|around qn|some n:gerund|carry-PRESP
+	n|capacity .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|JCT 10|9|POBJ 11|4|JCT 12|4|JCT 13|15|LINK 14|15|SUBJ 15|12|CPOBJ
+	16|15|JCT 17|18|DET 18|16|POBJ 19|21|LINK 20|21|SUBJ 21|18|CMOD 22|21|JCT
+	23|25|QUANT 24|25|MOD 25|22|POBJ 26|4|PUNCT
+*S1:	so this is where we have R selection right ?
+%mor:	adv|so pro:dem|this cop|be&3S pro:int|where pro:sub|we v|have
+	n:prop|R n|selection co|right ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CPRED 7|8|MOD 8|6|OBJ
+	9|8|COM 10|3|PUNCT
+*S1:	and (.) the important thing &t here to realize is this density
+	independent factor (.) will determine the population (.) so we have
+	determination (.) of population (.) but there's no regulation .
+%mor:	coord|and det:art|the adj|important n|thing adv|here inf|to
+	v|realize aux|be&3S det:dem|this n|density in#n|dependent n|factor
+	mod|will v|determine det:art|the n|populate&dv-TION conj|so
+	pro:sub|we v|have n|determine&dv-TION prep|of n|populate&dv-TION
+	conj|but pro:exist|there~cop|be&3S qn|no n|regulate&dv-TION .
+%gra:	1|14|LINK 2|4|DET 3|4|MOD 4|14|SUBJ 5|14|JCT 6|7|INF 7|14|SUBJ 8|14|AUX
+	9|10|DET 10|14|JCT 11|12|MOD 12|14|SUBJ 13|14|AUX 14|0|ROOT 15|16|DET
+	16|14|OBJ 17|19|LINK 18|19|SUBJ 19|14|CJCT 20|19|OBJ 21|20|NJCT
+	22|21|POBJ 23|25|LINK 24|25|SUBJ 25|19|CJCT 26|27|QUANT 27|25|PRED 28|14|PUNCT
+*S1:	(0.4) so regulation is something that keeps the population within
+	some bounds .
+%mor:	adv|so n|regulate&dv-TION cop|be&3S pro:indef|something
+	pro:rel|that v|keep-3S det:art|the n|populate&dv-TION prep|within
+	qn|some n|bound-PL .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|LINK 6|4|CMOD 7|8|DET 8|6|OBJ
+	9|6|JCT 10|11|QUANT 11|9|POBJ 12|3|PUNCT
+*S1:	(0.7) now there's another interesting &-uh density dependence that
+	we can find (.) and that has been found (.) and this is where we
+	have our birth or death rate (.) and let's just look at birth rate
+	(.) and what happens is we have inverse (.) density dependence +...
+%mor:	adv|now pro:exist|there~cop|be&3S qn|another adj|interesting
+	n|density n|dependence pro:rel|that pro:sub|we mod|can v|find
+	coord|and pro:rel|that aux|have&3S aux|be&PASTP v|found coord|and
+	pro:dem|this cop|be&3S pro:int|where pro:sub|we v|have det:poss|our
+	n|birth coord|or n|death n|rate coord|and v|let~pro:obj|us adv|just
+	v|look prep|at n|birth n|rate coord|and pro:int|what v|happen-3S
+	cop|be&3S pro:sub|we v|have adj|inverse n|density n|dependence +...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|QUANT 5|7|MOD 6|7|MOD 7|3|PRED 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|CMOD 12|11|CONJ 13|16|LINK 14|16|AUX 15|16|AUX
+	16|12|COORD 17|16|CONJ 18|17|COORD 19|16|COMP 20|22|LINK 21|22|SUBJ
+	22|19|CPRED 23|24|DET 24|22|OBJ 25|24|CONJ 26|27|MOD 27|25|COORD 28|22|CONJ
+	29|28|COORD 30|29|OBJ 31|32|JCT 32|29|COMP 33|32|JCT 34|35|MOD
+	35|33|POBJ 36|32|CONJ 37|38|SUBJ 38|36|COORD 39|38|COMP 40|41|SUBJ 41|38|COMP
+	42|44|MOD 43|44|MOD 44|41|OBJ 45|3|PUNCT
+*S1:	and by this we mean that as the population is small gets smaller
+	(.) the birth rate actually declines .
+%mor:	coord|and prep|by det:dem|this pro:sub|we adj|mean adv|that prep|as
+	det:art|the n|populate&dv-TION cop|be&3S adj|small v|get-3S
+	adj|small-CP det:art|the n|birth n|rate adv|actual&dadj-LY
+	n|decline-PL .
+%gra:	1|12|LINK 2|12|JCT 3|10|DET 4|10|SUBJ 5|10|JCT 6|7|JCT 7|9|COORD
+	8|9|DET 9|10|SUBJ 10|2|POBJ 11|12|JCT 12|0|ROOT 13|18|MOD 14|16|DET 15|16|MOD
+	16|18|MOD 17|18|MOD 18|12|COMP 19|12|PUNCT
+*S1:	so <this is> [?] the birth rate .
+%mor:	adv|so pro:dem|this cop|be&3S det:art|the n|birth n|rate .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*S1:	and then at some critical threshold point (0.6) the regular density
+	dependence will kick in and it will decline as the population gets
+	larger .
+%mor:	coord|and adv:tem|then prep|at qn|some adj|critical n|threshold
+	n|point det:art|the adj|regular n|density n|dependence mod|will
+	v|kick adv|in coord|and pro:per|it mod|will n|decline prep|as
+	det:art|the n|populate&dv-TION v|get-3S adj|large-CP .
+%gra:	1|13|LINK 2|13|JCT 3|13|JCT 4|7|QUANT 5|7|MOD 6|7|MOD 7|3|POBJ 8|11|DET
+	9|10|MOD 10|11|MOD 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|13|JCT 15|13|CONJ
+	16|18|SUBJ 17|18|AUX 18|15|COORD 19|22|LINK 20|21|DET 21|22|SUBJ
+	22|18|CMOD 23|22|JCT 24|13|PUNCT
+*S1:	so this is our regular &-uh density (.) dependence that we think
+	about in &-uh stabilizing population growth (.) but (.) you can have
+	this kind of inverse density dependence (.) and this is called (.)
+	the Allee effect .
+%mor:	adv|so pro:dem|this cop|be&3S det:poss|our adj|regular n|density
+	n|dependence pro:rel|that pro:sub|we v|think adv|about prep|in
+	part|stabilize-PRESP n|populate&dv-TION n|growth conj|but
+	pro:per|you mod|can v|have det:dem|this adj|kind prep|of adj|inverse
+	n|density n|dependence coord|and pro:dem|this aux|be&3S
+	part|call-PASTP det:art|the n:prop|Allee n|effect .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|PRED 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|JCT 12|10|JCT 13|12|POBJ 14|15|MOD 15|13|OBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|10|CJCT 20|21|DET 21|29|JCT 22|21|JCT
+	23|25|MOD 24|25|MOD 25|22|POBJ 26|21|CONJ 27|26|COORD 28|29|AUX 29|19|COMP
+	30|32|DET 31|32|MOD 32|29|OBJ 33|3|PUNCT
+*S1:	named after Allee who first described this .
+%mor:	part|name-PASTP prep|after n:prop|Allee pro:rel|who adj|first
+	part|describe-PASTP det:dem|this .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|6|LINK 5|6|MOD 6|3|CMOD 7|6|OBJ
+	8|1|PUNCT
+*S1:	so what's the problem with this ?
+%mor:	adv|so pro:int|what~cop|be&3S det:art|the n|problem prep|with
+	pro:dem|this ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*S1:	well if the population gets &stro as it gets smaller as the birth
+	rate starts declining what's gonna happen to the population ?
+%mor:	co|well comp|if det:art|the n|populate&dv-TION v|get-3S prep|as
+	pro:per|it v|get-3S adj|small-CP prep|as det:art|the n|birth n|rate
+	v|start-3S part|decline-PRESP pro:int|what~aux|be&3S
+	part|go-PRESP~inf|to v|happen prep|to det:art|the n|populate&dv-TION
+	?
+%gra:	1|5|COM 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|COORD 7|8|SUBJ 8|5|CJCT
+	9|13|MOD 10|12|COORD 11|12|DET 12|13|MOD 13|15|SUBJ 14|15|SRL 15|8|COMP
+	16|18|SUBJ 17|18|AUX 18|15|COMP 19|20|INF 20|18|COMP 21|20|JCT 22|23|DET
+	23|21|POBJ 24|5|PUNCT
+*S1:	(0.4) it's likely to go extinct (.) right ?
+%mor:	pro:per|it~cop|be&3S adj|likely inf|to v|go adj|extinct co|right ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|5|PRED 7|5|COM 8|2|PUNCT
+*S1:	so this is a real concern this could also be death rate too where
+	death rate increases (.) as the population gets smaller .
+%mor:	adv|so pro:dem|this cop|be&3S det:art|a adj|real n|concern
+	det:dem|this mod|could adv|also cop|be n|death n|rate adv|too
+	pro:rel|where n|death n|rate n|increase-PL conj|as det:art|the
+	n|populate&dv-TION v|get-3S adj|small-CP .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|10|DET 8|10|AUX
+	9|10|JCT 10|3|CJCT 11|12|MOD 12|10|PRED 13|12|NJCT 14|17|LINK 15|17|MOD
+	16|17|MOD 17|13|CMOD 18|21|LINK 19|20|DET 20|21|SUBJ 21|17|CMOD 22|21|JCT
+	23|3|PUNCT
+*S1:	so (.) there's a problem +//.
+%mor:	adv|so pro:exist|there~cop|be&3S det:art|a n|problem +//.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*S1:	&pop &-uh possibility of extinction local extinction of this
+	population .
+%mor:	n|possible&dadj-ITY prep|of n|extinction adj|local n|extinction
+	prep|of det:dem|this n|populate&dv-TION .
+%gra:	1|0|INCROOT 2|1|NJCT 3|5|MOD 4|5|MOD 5|2|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*S1:	and so this is of great concern to conservation biologists .
+%mor:	coord|and adv|so pro:dem|this cop|be&3S prep|of adj|great n|concern
+	prep|to n|conserve&dv-TION n|biology-IST-PL .
+%gra:	1|4|LINK 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|JCT
+	9|10|MOD 10|8|POBJ 11|4|PUNCT
+*S1:	if you find this (.) effect and how could this happen ?
+%mor:	conj|if pro:per|you v|find det:dem|this n|effect coord|and
+	pro:int|how mod|could pro:dem|this v|happen ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|10|JCT 8|10|AUX
+	9|10|SUBJ 10|6|COORD 11|3|PUNCT
+*S1:	well it could be as the population gets smaller (.) it's harder to
+	find mates .
+%mor:	co|well pro:per|it mod|could cop|be prep|as det:art|the
+	n|populate&dv-TION v|get-3S adj|small-CP pro:per|it~cop|be&3S
+	adj|hard-CP inf|to v|find n|mate-PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|LINK 6|7|DET 7|8|SUBJ 8|4|CJCT
+	9|11|JCT 10|11|SUBJ 11|8|COMP 12|11|PRED 13|14|INF 14|12|XMOD 15|14|OBJ
+	16|4|PUNCT
+*S1:	and as a result reproduction declines .
+%mor:	coord|and prep|as det:art|a n|result re#n|production n|decline-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|6|MOD 5|6|MOD 6|2|POBJ 7|1|PUNCT
+*S1:	or you could have species that are group hunters like lions (.)
+	where they hunt together and they're more successful if they hunt
+	together .
+%mor:	coord|or pro:per|you mod|could v|have n|species pro:rel|that
+	cop|be&PRES n|group n|hunt&dv-AGT-PL prep|like n|lion-PL
+	pro:rel|where pro:sub|they v|hunt adv|together coord|and
+	pro:sub|they~cop|be&PRES adv|more n|success-FUL conj|if pro:sub|they
+	v|hunt adv|together .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|LINK 7|5|CMOD 8|9|MOD
+	9|7|PRED 10|9|NJCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|14|JCT
+	16|18|LINK 17|18|SUBJ 18|4|CJCT 19|20|JCT 20|18|PRED 21|23|LINK
+	22|23|SUBJ 23|4|CJCT 24|23|JCT 25|4|PUNCT
+*S1:	if there are too few (.) they may be unsuccessful in hunting (.)
+	and death rate could increase (.) birth rate could decline as this
+	population gets smaller .
+%mor:	conj|if adv|there cop|be&PRES adv|too n|few pro:sub|they mod|may
+	cop|be un#adj|success&dn-FULL adv|in part|hunt-PRESP coord|and
+	n|death n|rate mod|could n|increase n|birth n|rate mod|could
+	n|decline adv|as det:dem|this n|populate&dv-TION v|get-3S
+	adj|small-CP .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|5|JCT 5|3|PRED 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|PRED 10|11|JCT 11|9|XMOD 12|11|CONJ 13|14|MOD 14|12|COORD 15|18|AUX
+	16|18|MOD 17|18|MOD 18|20|SUBJ 19|20|AUX 20|14|PRED 21|23|COORD 22|23|DET
+	23|24|SUBJ 24|20|CMOD 25|24|JCT 26|8|PUNCT
+*S1:	and also &-uh some organisms really depend on large groups for some
+	kind of social behavior .
+%mor:	coord|and adv|also qn|some n|organism-PL adv|real&dadj-LY v|depend
+	adv|on adj|large n|group-PL prep|for qn|some n|kind prep|of
+	adj|social n|behavior .
+%gra:	1|4|LINK 2|3|JCT 3|4|QUANT 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|JCT 8|9|MOD
+	9|6|OBJ 10|9|NJCT 11|12|QUANT 12|10|POBJ 13|12|NJCT 14|15|MOD 15|13|POBJ
+	16|6|PUNCT
+*S1:	like the passenger pigeons .
+%mor:	prep|like det:art|the n|passenger n|pigeon-PL .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|1|PUNCT
+*S1:	when they reach a certain size smaller &s size of population (.)
+	they're just &-uh they didn't &-uh mate (.) and &-uh reproduce .
+%mor:	conj|when pro:sub|they v|reach det:art|a adj|certain n|size
+	adj|small-CP n|size prep|of n|populate&dv-TION
+	pro:sub|they~cop|be&PRES adv|just pro:sub|they mod|do&PAST~neg|not
+	v|mate coord|and re#v|produce .
+%gra:	1|3|LINK 2|3|SUBJ 3|17|CJCT 4|6|DET 5|6|MOD 6|3|OBJ 7|8|MOD 8|12|CJCT
+	9|8|NJCT 10|9|POBJ 11|12|SUBJ 12|6|CMOD 13|12|JCT 14|17|SUBJ 15|17|AUX
+	16|15|NEG 17|0|ROOT 18|17|CONJ 19|18|COORD 20|17|PUNCT
+*S1:	so their social behavior (.) was disrupted .
+%mor:	adv|so det:poss|their adj|social n|behavior aux|be&PAST&13S
+	part|disrupt-PASTP .
+%gra:	1|6|JCT 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*S1:	and so (.) this (.) effect is (.) of great concern and it has been
+	found in fact &-uh in certain species .
+%mor:	coord|and co|so det:dem|this n|effect cop|be&3S prep|of adj|great
+	n|concern coord|and pro:per|it aux|have&3S aux|be&PASTP
+	part|find&PASTP prep|in n|fact prep|in adj|certain n|species .
+%gra:	1|5|LINK 2|5|COM 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|13|AUX 13|5|CJCT 14|13|JCT 15|14|POBJ
+	16|15|NJCT 17|18|MOD 18|16|POBJ 19|5|PUNCT
+*S1:	so what we're very interested in here then is regulation (.) that
+	will stabilize (.) the population .
+%mor:	co|so pro:int|what pro:sub|we~aux|be&PRES adv|very
+	part|interest-PASTP prep|in n|here adv:tem|then cop|be&3S
+	n|regulate&dv-TION adv|that mod|will v|stabilize det:art|the
+	n|populate&dv-TION .
+%gra:	1|6|COM 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|10|JCT 10|6|CJCT 11|10|PRED 12|14|JCT 13|14|AUX 14|11|CMOD 15|16|DET
+	16|14|OBJ 17|6|PUNCT
+*S1:	in contrast to this Allee effect (.) where this destabilizes .
+%mor:	prep|in n|contrast prep|to det:dem|this n:prop|Allee n|effect
+	pro:int|where det:dem|this de#v|stabilize-3S .
+%gra:	1|9|JCT 2|1|POBJ 3|9|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|9|LINK 8|9|DET
+	9|0|ROOT 10|9|PUNCT
+*S1:	at low population .
+%mor:	prep|at adj|low n|populate&dv-TION .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+*S1:	or density independence where we don't have this regulation we just
+	have determination .
+%mor:	coord|or n|density in#n|dependence pro:int|where pro:sub|we
+	mod|do~neg|not v|have pro:dem|this n|regulate&dv-TION pro:sub|we
+	adv|just v|have n|determine&dv-TION .
+%gra:	1|3|LINK 2|3|MOD 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|COMP
+	9|10|DET 10|8|OBJ 11|13|SUBJ 12|13|JCT 13|10|CMOD 14|13|OBJ 15|3|PUNCT
+*S1:	(0.6) now in thinking about regulation we have some &stabl
+	stability (.) but it can fluctuate within bounds .
+%mor:	adv|now prep|in part|think-PRESP prep|about n|regulate&dv-TION
+	pro:sub|we v|have qn|some n|stable&dadj-ITY conj|but pro:per|it
+	mod|can v|fluctuate prep|within n|bound-PL .
+%gra:	1|7|JCT 2|1|JCT 3|2|POBJ 4|3|JCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT 8|9|QUANT
+	9|7|OBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|7|CJCT 14|13|JCT 15|14|POBJ
+	16|7|PUNCT
+*S1:	what is very fascinating to population biologists (.) is that you
+	can have this fluctuations [* m:+s] or &-uh within bounds but they
+	form cycles (.) which are regular (.) oscillations or fluctuations
+	(.) over time .
+%mor:	pro:int|what aux|be&3S adv|very part|fascinate-PRESP prep|to
+	n|populate&dv-TION n|biology-IST-PL cop|be&3S comp|that pro:per|you
+	mod|can v|have det:dem|this n|fluctuate&dv-TION-PL coord|or
+	prep|within n|bound-PL conj|but pro:sub|they n|form n|cycle-PL
+	pro:rel|which cop|be&PRES adj|regular n|oscillate&dv-TION-PL
+	coord|or n|fluctuate&dv-TION-PL prep|over n|time .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|8|CSUBJ 5|4|JCT 6|7|MOD 7|5|POBJ 8|0|ROOT
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CPRED 13|14|DET 14|12|OBJ 15|14|CONJ
+	16|15|COORD 17|16|POBJ 18|12|CONJ 19|21|MOD 20|21|MOD 21|18|COORD
+	22|23|LINK 23|21|CMOD 24|25|MOD 25|23|PRED 26|23|CONJ 27|26|COORD 28|27|NJCT
+	29|28|POBJ 30|8|PUNCT
+*S1:	and &-uh <this has been found> [//] this pattern of cycles has been
+	found in many species .
+%mor:	coord|and det:dem|this n|pattern prep|of n|cycle-PL aux|have&3S
+	aux|be&PASTP part|find&PASTP prep|in qn|many n|species .
+%gra:	1|8|LINK 2|3|DET 3|8|SUBJ 4|3|NJCT 5|4|POBJ 6|8|AUX 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|11|QUANT 11|9|POBJ 12|8|PUNCT
+*S1:	&-uh this is on your handout .
+%mor:	pro:dem|this cop|be&3S prep|on det:poss|your n|+v|hand+prep|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*S1:	and here's &an a [/] a caterpillar a pine looper .
+%mor:	coord|and pro:exist|here~cop|be&3S det:art|a n|caterpillar
+	det:art|a n|pine n|loop&dv-AGT .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|8|DET 7|8|MOD 8|5|APP
+	9|3|PUNCT
+*S1:	&-uh and you can see we have these fluctuations but it turns out
+	they are (.) in a [/] a pattern &-uh where we have peaks (.) what
+	about every ten years .
+%mor:	coord|and pro:per|you mod|can v|see pro:sub|we aux|have
+	det:dem|these n|fluctuate&dv-TION-PL conj|but pro:per|it v|turn-3S
+	adv|out pro:sub|they cop|be&PRES prep|in det:art|a n|pattern
+	pro:rel|where pro:sub|we v|have v|peak-3S pro:int|what adv|about
+	qn|every det:num|ten n|year-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|8|DET 8|14|SUBJ
+	9|11|LINK 10|11|SUBJ 11|14|CJCT 12|11|JCT 13|14|SUBJ 14|4|COMP 15|14|JCT
+	16|17|DET 17|15|POBJ 18|20|LINK 19|20|SUBJ 20|17|CMOD 21|20|COMP
+	22|26|DET 23|24|JCT 24|26|QUANT 25|26|QUANT 26|21|OBJ 27|4|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and lows (.) about every ten years .
+%mor:	coord|and n|low-PL prep|about qn|every det:num|ten n|year-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|6|QUANT 5|6|QUANT 6|3|POBJ 7|1|PUNCT
+*S1:	here are voles (.) and these are small like mouselike &-um mammals
+	(.) and &-uh here they have &-uh cycles where the peak (.) and the
+	trough is [/] is like every three to four years you have a peak (.)
+	population .
+%mor:	adv|here cop|be&PRES n|vole-PL coord|and pro:dem|these cop|be&PRES
+	adj|small prep|like adj|mouse&dn-LIKE n|mammal-PL coord|and adv|here
+	pro:sub|they v|have n|cycle-PL pro:rel|where det:art|the n|peak
+	coord|and det:art|the n|trough cop|be&3S co|like qn|every
+	det:num|three prep|to det:num|four n|year-PL pro:per|you v|have
+	det:art|a n|peak n|populate&dv-TION .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|6|PRED 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|6|CONJ 12|14|JCT 13|14|SUBJ 14|11|COORD 15|14|OBJ
+	16|22|LINK 17|18|DET 18|22|SUBJ 19|18|CONJ 20|21|DET 21|19|COORD
+	22|15|CMOD 23|22|COM 24|25|QUANT 25|30|JCT 26|25|NJCT 27|28|QUANT 28|26|POBJ
+	29|30|SUBJ 30|22|CJCT 31|33|DET 32|33|MOD 33|30|OBJ 34|2|PUNCT
+*S1:	and then &-uh also red grouse here's an a bird (.) and here we have
+	peaks that occur like every four to eight years (.) and finally the
+	classic snowshoe hare (.) which you've probably all been introduced
+	to (.) where the population of snowshoe hares peaks about every &-uh
+	eight well (.) nine to ten years .
+%mor:	coord|and adv:tem|then adv|also adj|red n|grouse
+	pro:exist|here~cop|be&3S det:art|a det:art|a n|bird coord|and
+	adv|here pro:sub|we v|have n|peak-PL pro:rel|that v|occur prep|like
+	qn|every det:num|four prep|to det:num|eight n|year-PL coord|and
+	adv|final&dadj-LY det:art|the n|classic n|+n|snow+n|shoe n|hare
+	pro:rel|which pro:per|you~aux|have adv|probable&dadj-LY adv|all
+	aux|be&PASTP part|introduce-PASTP prep|to pro:int|where det:art|the
+	n|populate&dv-TION prep|of n|+n|snow+n|shoe n|hare-PL v|peak-3S
+	prep|about qn|every det:num|eight n|well det:num|nine prep|to
+	det:num|ten n|year-PL .
+%gra:	1|7|LINK 2|4|JCT 3|4|JCT 4|5|MOD 5|7|SUBJ 6|7|SUBJ 7|0|ROOT 8|10|DET
+	9|10|DET 10|7|PRED 11|10|CONJ 12|11|COORD 13|14|SUBJ 14|10|CMOD 15|14|OBJ
+	16|17|LINK 17|15|CMOD 18|17|JCT 19|20|QUANT 20|18|POBJ 21|20|NJCT
+	22|23|QUANT 23|21|POBJ 24|17|CONJ 25|24|COORD 26|29|DET 27|28|MOD 28|29|MOD
+	29|25|POBJ 30|36|LINK 31|36|SUBJ 32|36|AUX 33|36|JCT 34|36|JCT 35|36|AUX
+	36|29|CMOD 37|36|JCT 38|37|POBJ 39|40|DET 40|38|OBJ 41|40|NJCT 42|41|POBJ
+	43|44|SUBJ 44|40|CMOD 45|44|JCT 46|48|QUANT 47|48|QUANT 48|45|POBJ
+	49|48|OBJ 50|49|JCT 51|52|QUANT 52|50|POBJ 53|7|PUNCT
+*S1:	so these patterns then as I told you in one of the first lectures
+	is that (.) really we hafta look for patterns and when we see these
+	patterns (.) they demand explanation so how can we explain (.) these
+	population cycles ?
+%mor:	co|so det:dem|these n|pattern-PL adv:tem|then conj|as pro:sub|I
+	v|tell&PAST pro:per|you prep|in det:num|one prep|of det:art|the
+	adj|first n|lecture-PL cop|be&3S pro:dem|that adv|real&dadj-LY
+	pro:sub|we mod|have~inf|to co|look prep|for n|pattern-PL coord|and
+	conj|when pro:sub|we v|see det:dem|these n|pattern-PL pro:sub|they
+	v|demand n|explanation adv|so pro:rel|how mod|can pro:sub|we
+	v|explain det:dem|these n|populate&dv-TION n|cycle-PL ?
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|OBJ
+	9|7|JCT 10|9|POBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ 15|7|JCT
+	16|15|PRED 17|16|JCT 18|21|SUBJ 19|21|AUX 20|21|INF 21|17|CPOBJ 22|21|JCT
+	23|22|POBJ 24|31|LINK 25|27|LINK 26|27|SUBJ 27|31|CJCT 28|29|DET
+	29|27|OBJ 30|31|SUBJ 31|22|CPOBJ 32|31|OBJ 33|31|JCT 34|37|LINK 35|37|AUX
+	36|37|SUBJ 37|33|CMOD 38|40|DET 39|40|MOD 40|37|OBJ 41|3|PUNCT
+*S1:	and &-uh these species have &acq garnered a_lot_of attention (.)
+	because people really want to understand why do you get cycles ?
+%mor:	coord|and det:dem|these n|species aux|have part|garner-PASTP
+	qn|a_lot_of n|attention conj|because n|person&PL adv|real&dadj-LY
+	v|want inf|to v|understand pro:int|why mod|do pro:per|you v|get
+	n|cycle-PL ?
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|11|LINK
+	9|11|SUBJ 10|11|JCT 11|5|CJCT 12|13|INF 13|11|COMP 14|17|JCT 15|17|AUX
+	16|17|SUBJ 17|13|COMP 18|17|OBJ 19|5|PUNCT
+*S1:	why don't we get the stability at just one &-um &-uh value .
+%mor:	pro:int|why mod|do~neg|not pro:sub|we v|get det:art|the
+	n|stable&dadj-ITY prep|at adj|just det:num|one n|value .
+%gra:	1|5|JCT 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|11|MOD 10|11|QUANT 11|8|POBJ 12|5|PUNCT
+*S1:	and it is interesting that most of the cycles that we see (.) in
+	species do occur in very simple environments (.) particularly in the
+	boreal forest (.) or in tundra .
+%mor:	coord|and pro:per|it cop|be&3S adj|interesting comp|that
+	pro:indef|most prep|of det:art|the n|cycle-PL pro:rel|that
+	pro:sub|we v|see prep|in n|species v|do v|occur adv|in adv|very
+	adj|simple n|environment-PL adv|particular&dadj-LY prep|in
+	det:art|the adj|boreal n|forest coord|or prep|in n|tundra .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|15|LINK 6|15|SUBJ 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|JCT 14|13|POBJ
+	15|4|CMOD 16|15|OBJ 17|15|JCT 18|19|JCT 19|20|MOD 20|15|OBJ 21|15|JCT 22|15|JCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|15|CONJ 27|26|COORD 28|27|POBJ
+	29|3|PUNCT
+*S1:	in northern or more northern (.) areas .
+%mor:	prep|in adj|northern coord|or adv|more adj|northern n|area-PL .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|CONJ 4|5|JCT 5|6|MOD 6|3|COORD 7|1|PUNCT
+*S1:	now voles do cycle here for example in Michigan .
+%mor:	adv|now n|vole-PL v|do n|cycle adv|here prep|for ex#adj|ample
+	prep|in n:prop|Michigan .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|6|POBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*S1:	so but they seem to be in relatively simple (.) systems at least
+	that's what we think so far .
+%mor:	co|so conj|but pro:sub|they cop|seem inf|to cop|be prep|in
+	adv|relative&dadj-LY adj|simple n|system-PL prep|at n|least
+	pro:rel|that~cop|be&3S pro:int|what pro:sub|we v|think adv|so
+	adv|far .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|JCT
+	9|10|MOD 10|7|POBJ 11|6|JCT 12|11|POBJ 13|14|LINK 14|12|CMOD 15|17|LINK
+	16|17|SUBJ 17|14|CPRED 18|19|JCT 19|17|JCT 20|4|PUNCT
+*S1:	so we have these cycles (.) let's go back to thinking about our
+	model can we take that simple logistic model ?
+%mor:	co|so pro:sub|we v|have det:dem|these n|cycle-PL v|let~pro:obj|us
+	v|go adv|back prep|to n:gerund|think-PRESP prep|about det:poss|our
+	n|model n|can pro:sub|we v|take det:dem|that adj|simple adj|logistic
+	n|model ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|8|SUBJ 8|6|COMP
+	9|8|JCT 10|8|JCT 11|10|POBJ 12|8|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|17|SUBJ 17|3|CJCT 18|21|DET 19|21|MOD 20|21|MOD 21|17|OBJ 22|3|PUNCT
+*S1:	I told you it's a really simple model (.) then could we generate
+	cycles with that ?
+%mor:	pro:sub|I v|tell&PAST pro:per|you pro:per|it~cop|be&3S det:art|a
+	adv|real&dadj-LY adj|simple n|model adv:tem|then mod|could
+	pro:sub|we v|generate n|cycle-PL prep|with pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|2|COMP 6|9|DET 7|8|JCT 8|9|MOD
+	9|5|PRED 10|13|JCT 11|13|AUX 12|13|SUBJ 13|9|CMOD 14|13|OBJ 15|13|JCT
+	16|15|POBJ 17|2|PUNCT
+*S1:	well it turns out (.) we can and how does that work ?
+%mor:	co|well pro:per|it v|turn-3S adv|out pro:sub|we mod|can coord|and
+	pro:int|how mod|do&3S pro:dem|that v|work ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|12|SUBJ 6|12|AUX 7|6|CONJ 8|11|JCT
+	9|11|AUX 10|11|SUBJ 11|7|COORD 12|3|PUNCT
+*S1:	well let's take the logistic (.) and we have this here (.) change
+	in population (.) over time equals (.) do you all have this
+	memorized now ?
+%mor:	adv|well v|let~pro:obj|us v|take det:art|the adj|logistic coord|and
+	pro:sub|we v|have pro:dem|this adv|here n|change prep|in
+	n|populate&dv-TION prep|over n|time n|equal-PL mod|do pro:per|you
+	adv|all v|have pro:dem|this part|memory-IZE-PASTP adv|now ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|DET 6|4|OBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|12|SUBJ 11|12|JCT 12|21|SUBJ 13|12|NJCT 14|13|POBJ 15|12|NJCT
+	16|17|MOD 17|15|POBJ 18|21|AUX 19|21|SUBJ 20|21|JCT 21|9|COMP 22|21|OBJ
+	23|22|XMOD 24|23|JCT 25|2|PUNCT
+*S1:	little R times N (.) okay times our density dependent factor (.)
+	mkay ?
+%mor:	adj|little n:prop|R v|time-3S n:prop|N adj|okay v|time-3S
+	det:poss|our n|density n|dependent n|factor co|mkay ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|ENUM 7|10|DET 8|10|MOD
+	9|10|MOD 10|6|OBJ 11|10|COM 12|3|PUNCT
+*S1:	and remember I said one of the assumptions of the logistic was I'll
+	get instantaneous (.) density effects .
+%mor:	coord|and v|remember pro:sub|I v|say&PAST det:num|one prep|of
+	det:art|the n|assumption-PL prep|of det:art|the adj|logistic
+	aux|be&PAST&13S pro:sub|I~mod|will aux|get adj|instantaneous
+	n|density n|effect-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|ROOT 5|4|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|11|INCROOT 13|15|SUBJ 14|15|AUX
+	15|12|PRED 16|18|MOD 17|18|MOD 18|15|PRED 19|12|PUNCT
+*S1:	so the population now (.) if we add one more individual to that [/]
+	that density effect is gonna occur right now .
+%mor:	adv|so det:art|the n|populate&dv-TION adv|now conj|if pro:sub|we
+	v|add det:num|one adv|more n|individual prep|to det:dem|that
+	n|density n|effect aux|be&3S part|go-PRESP~inf|to v|occur adv|right
+	adv|now .
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|3|NJCT 5|7|LINK 6|7|SUBJ 7|16|CJCT
+	8|10|QUANT 9|10|JCT 10|16|SUBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ
+	15|16|AUX 16|0|ROOT 17|18|INF 18|16|COMP 19|20|JCT 20|18|JCT 21|16|PUNCT
+*S1:	as soon as we add an individual (.) it's gonna kick in and start
+	changing (.) this &-uh population growth .
+%mor:	prep|as adv|soon conj|as pro:sub|we v|add det:art|a n|individual
+	pro:per|it~aux|be&3S part|go-PRESP~inf|to v|kick adv|in coord|and
+	v|start part|change-PRESP det:dem|this n|populate&dv-TION n|growth .
+%gra:	1|2|COORD 2|10|JCT 3|5|LINK 4|5|SUBJ 5|10|CJCT 6|7|DET 7|5|OBJ
+	8|10|SUBJ 9|10|AUX 10|0|ROOT 11|12|INF 12|10|COMP 13|12|JCT 14|10|CONJ
+	15|14|COORD 16|15|COMP 17|19|DET 18|19|MOD 19|16|OBJ 20|10|PUNCT
+*S1:	(o)kay <that was> [/] that was instantaneous .
+%mor:	adj|okay adv|that cop|be&PAST&13S adj|instantaneous .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*S1:	sorry I spelled that wrong .
+%mor:	adj|sorry pro:sub|I part|spell-PASTP adv|that n|wrong .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|OBJ 6|3|PUNCT
+*S1:	and &-uh in fact (.) we may not always have this instantaneous
+	effect instead there may be a time lag (.) or delay .
+%mor:	coord|and prep|in n|fact pro:sub|we mod|may neg|not adv|always
+	v|have det:dem|this adj|instantaneous n|effect adv|instead adv|there
+	mod|may cop|be det:art|a n|time n|lag coord|or n|delay .
+%gra:	1|8|LINK 2|8|JCT 3|2|POBJ 4|8|SUBJ 5|8|AUX 6|5|NEG 7|8|JCT 8|0|ROOT
+	9|11|DET 10|11|MOD 11|8|OBJ 12|15|JCT 13|15|SUBJ 14|15|AUX 15|8|COMP
+	16|18|DET 17|18|MOD 18|15|PRED 19|18|CONJ 20|19|COORD 21|8|PUNCT
+*S1:	so that instead what we find (.) is we have our population (0.6)
+	where (.) we have the N at some previous time +...
+%mor:	adv|so comp|that adv|instead pro:int|what pro:sub|we v|find
+	aux|be&3S pro:sub|we v|have det:poss|our n|populate&dv-TION
+	pro:rel|where pro:sub|we v|have det:art|the n:prop|N prep|at qn|some
+	adj|previous n|time +...
+%gra:	1|9|JCT 2|9|LINK 3|9|JCT 4|6|LINK 5|6|SUBJ 6|9|SUBJ 7|9|AUX 8|9|SUBJ
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|16|DET
+	16|14|OBJ 17|16|NJCT 18|20|QUANT 19|20|MOD 20|17|POBJ 21|9|PUNCT
+*S1:	affects the population at time now .
+%mor:	v|affect-3S det:art|the n|populate&dv-TION prep|at n|time adv|now .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|POBJ 6|1|JCT 7|1|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so (.) let's &-uh let's look at how this would (.) well first of
+	all let's [/] &ex let's give you a biological example .
+%mor:	co|so v|let~pro:obj|us v|let~pro:obj|us v|look prep|at pro:rel|how
+	det:dem|this mod|will&COND adv|well adv|first prep|of qn|all
+	v|let~pro:obj|us v|give pro:per|you det:art|a adj|biological
+	n|example .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|SUBJ 6|4|COMP 7|6|JCT 8|17|LINK
+	9|17|DET 10|17|AUX 11|12|JCT 12|17|JCT 13|12|JCT 14|15|QUANT 15|13|POBJ
+	16|17|SUBJ 17|7|POBJ 18|17|OBJ2 19|21|DET 20|21|MOD 21|17|OBJ 22|2|PUNCT
+*S1:	&-uh one example is just within a species and we can look at
+	Daphnia (.) and these are little water fleas they're very common in
+	lakes very important fish food (.) and in Daphnia (.) the adults of
+	Daphnia these little creatures (.) actually store food (.) as fat
+	globules in their bodies .
+%mor:	pro:indef|one ex#adj|ample aux|be&3S adv|just prep|within det:art|a
+	n|species coord|and pro:sub|we mod|can v|look prep|at n:prop|Daphnia
+	coord|and pro:dem|these cop|be&PRES adj|little n|water n|flea-PL
+	pro:sub|they~cop|be&PRES adv|very adj|common prep|in n|lake-PL
+	adv|very adj|important n|fish n|food coord|and prep|in
+	n:prop|Daphnia det:art|the n|adult-PL prep|of n:prop|Daphnia
+	det:dem|these adj|little n|creature-PL adv|actual&dadj-LY n|store
+	n|food conj|as n|fat n|globule-PL prep|in det:poss|their n|body-PL .
+%gra:	1|11|LINK 2|11|SUBJ 3|11|AUX 4|5|JCT 5|11|JCT 6|7|DET 7|5|POBJ
+	8|11|LINK 9|11|SUBJ 10|11|AUX 11|0|ROOT 12|11|JCT 13|12|POBJ 14|16|LINK
+	15|16|SUBJ 16|21|CJCT 17|19|MOD 18|19|MOD 19|16|PRED 20|21|SUBJ 21|11|CJCT
+	22|23|JCT 23|21|PRED 24|21|JCT 25|24|POBJ 26|27|JCT 27|29|MOD 28|29|MOD
+	29|21|PRED 30|29|CONJ 31|30|COORD 32|31|POBJ 33|34|DET 34|45|MOD 35|34|NJCT
+	36|35|POBJ 37|39|DET 38|39|MOD 39|42|MOD 40|42|MOD 41|42|MOD 42|45|MOD
+	43|45|COORD 44|45|MOD 45|31|POBJ 46|45|NJCT 47|48|DET 48|46|POBJ
+	49|11|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and as a result when we have the population growth we have our
+	logistic growth here (.) the &-uh it should be slowing down here (.)
+	as they &imme start coming up to the resources K (.) but in fact
+	these Daphnia (.) have stored all of this food (.) so the population
+	(.) can actually increase (.) keep on increasing above what it
+	should be set by [/] by resources .
+%mor:	coord|and prep|as det:art|a n|result conj|when pro:sub|we v|have
+	det:art|the n|populate&dv-TION n|growth pro:sub|we v|have
+	det:poss|our adj|logistic n|growth adv|here det:art|the pro:per|it
+	mod|should aux|be part|slow-PRESP prep|down n|here conj|as
+	pro:sub|they v|start part|come-PRESP adv|up prep|to det:art|the
+	n|resource-PL n:prop|K conj|but prep|in n|fact det:dem|these
+	n:prop|Daphnia aux|have part|store-PASTP pro:indef|all prep|of
+	det:dem|this n|food adv|so det:art|the n|populate&dv-TION n|can
+	adv|actual&dadj-LY v|increase v|keep adv|on part|increase-PRESP
+	prep|above pro:int|what pro:per|it mod|should aux|be part|set&PASTP
+	adv|by n|resource-PL .
+%gra:	1|12|LINK 2|12|JCT 3|4|DET 4|2|POBJ 5|7|LINK 6|7|SUBJ 7|12|CJCT
+	8|10|DET 9|10|MOD 10|7|OBJ 11|12|SUBJ 12|0|ROOT 13|15|DET 14|15|MOD 15|12|OBJ
+	16|21|JCT 17|18|DET 18|21|SUBJ 19|21|AUX 20|21|AUX 21|12|COMP 22|21|JCT
+	23|22|POBJ 24|26|LINK 25|26|SUBJ 26|21|CJCT 27|26|OBJ 28|27|JCT 29|27|JCT
+	30|31|DET 31|29|POBJ 32|39|SUBJ 33|32|CONJ 34|33|COORD 35|34|POBJ
+	36|37|DET 37|32|APP 38|39|AUX 39|27|XJCT 40|39|OBJ 41|40|NJCT 42|43|DET
+	43|41|POBJ 44|47|JCT 45|47|DET 46|47|MOD 47|39|OBJ 48|49|JCT 49|21|CJCT
+	50|49|OBJ 51|49|JCT 52|49|XJCT 53|52|JCT 54|58|LINK 55|58|SUBJ 56|58|AUX
+	57|58|AUX 58|53|CPOBJ 59|60|JCT 60|58|OBJ 61|12|PUNCT
+*S1:	(o)kay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	okay and then it gets too far above and then (.) it starts kicking
+	in we start getting negative &-uh growth (.) but again (.) the
+	population now starts to decline (.) and it's based on the previous
+	population .
+%mor:	adj|okay coord|and adv:tem|then pro:per|it v|get-3S adv|too adj|far
+	adv|above coord|and adv:tem|then pro:per|it v|start-3S
+	part|kick-PRESP adv|in pro:sub|we v|start n:gerund|get-PRESP
+	adj|negative n|growth conj|but adv|again det:art|the
+	n|populate&dv-TION adv|now v|start-3S inf|to v|decline coord|and
+	pro:per|it~aux|be&3S part|base-PASTP prep|on det:art|the
+	adj|previous n|populate&dv-TION .
+%gra:	1|5|JCT 2|1|CONJ 3|2|COORD 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|12|JCT 8|7|JCT
+	9|7|CONJ 10|9|COORD 11|12|SUBJ 12|5|COMP 13|12|COMP 14|13|JCT 15|16|SUBJ
+	16|5|CJCT 17|19|MOD 18|19|MOD 19|16|OBJ 20|25|LINK 21|23|JCT 22|23|DET
+	23|25|SUBJ 24|23|NJCT 25|5|CJCT 26|27|INF 27|25|COMP 28|31|LINK
+	29|31|SUBJ 30|31|AUX 31|27|COMP 32|31|JCT 33|35|DET 34|35|MOD 35|32|POBJ
+	36|5|PUNCT
+*S1:	the density effect is based on the previous population so it's
+	gonna decline below (.) the carrying capacity .
+%mor:	det:art|the n|density n|effect aux|be&3S part|base-PASTP prep|on
+	det:art|the adj|previous n|populate&dv-TION conj|so
+	pro:per|it~aux|be&3S part|go-PRESP~inf|to v|decline prep|below
+	det:art|the part|carry-PRESP n|capacity .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|5|CJCT 14|15|INF 15|13|COMP
+	16|15|JCT 17|19|DET 18|19|MOD 19|16|POBJ 20|5|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so as a result (.) we can see that we can start getting cycles
+	because of this delay (.) or this time lag (.) in the logistic .
+%mor:	adv|so prep|as det:art|a n|result pro:sub|we mod|can v|see
+	comp|that pro:sub|we mod|can v|start part|get-PRESP n|cycle-PL
+	conj|because prep|of det:dem|this n|delay coord|or det:dem|this
+	n|time n|lag prep|in det:art|the adj|logistic .
+%gra:	1|2|JCT 2|4|COORD 3|4|DET 4|7|CJCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|COMP 12|11|XJCT 13|12|OBJ 14|12|JCT 15|14|JCT
+	16|17|DET 17|15|POBJ 18|15|CONJ 19|21|DET 20|21|MOD 21|18|COORD
+	22|21|NJCT 23|24|DET 24|22|POBJ 25|7|PUNCT
+*S1:	now another way we could get a time &la we could call this delayed
+	density dependence then .
+%mor:	adv|now qn|another n|way pro:sub|we mod|could v|get det:art|a
+	n|time pro:sub|we mod|could v|call det:dem|this part|delay-PASTP
+	n|density n|dependence adv:tem|then .
+%gra:	1|6|JCT 2|3|QUANT 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|11|SUBJ 10|11|AUX 11|8|CMOD 12|11|OBJ 13|12|XMOD 14|16|MOD 15|16|MOD
+	16|13|JCT 17|6|PUNCT
+*S1:	(0.6) and this is usually put in the equations where we just use
+	&-uh a term tau (0.8) okay .
+%mor:	coord|and pro:dem|this aux|be&3S adv|usual&dadj-LY part|put&PASTP
+	prep|in det:art|the n|equate&dv-TION-PL pro:int|where pro:sub|we
+	adj|just v|use det:art|a n|term n|tau co|okay .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|JCT 12|5|CJCT 13|15|DET 14|15|MOD 15|12|OBJ
+	16|12|COM 17|5|PUNCT
+*S1:	but that's (.) it's just the &gi you need to know the idea of this
+	whole thing (.) you're not gonna actually &-uh do this .
+%mor:	conj|but pro:dem|that~cop|be&3S pro:per|it~cop|be&3S adj|just
+	det:art|the pro:per|you v|need inf|to v|know det:art|the n|idea
+	prep|of det:dem|this adj|whole n|thing pro:per|you~aux|be&PRES
+	neg|not part|go-PRESP~inf|to adv|actual&dadj-LY v|do pro:dem|this .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|9|DET 8|9|SUBJ
+	9|6|CMOD 10|11|INF 11|9|COMP 12|13|DET 13|11|OBJ 14|13|NJCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|21|SUBJ 19|21|AUX 20|19|NEG 21|11|XJCT 22|24|INF
+	23|24|JCT 24|21|COMP 25|24|OBJ 26|5|PUNCT
+*S1:	and &-uh so we have this delayed density dependence (.) and we
+	could also get it (.) through another kind_of a [x 3] predator
+	something like this .
+%mor:	coord|and co|so pro:sub|we v|have pro:dem|this part|delay-PASTP
+	n|density n|dependence coord|and pro:sub|we mod|could adv|also v|get
+	pro:per|it prep|through qn|another adv|kind_of det:art|a n|predator
+	pro:indef|something prep|like pro:dem|this .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|XMOD 7|8|MOD 8|6|OBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|13|JCT 13|6|CJCT 14|13|OBJ 15|13|JCT
+	16|19|QUANT 17|19|JCT 18|19|DET 19|15|POBJ 20|19|POSTMOD 21|20|NJCT
+	22|21|POBJ 23|4|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	or we could have a time lag (.) because say predators increase (.)
+	but then they increase (.) and they stay at a high population (.)
+	and &-uh start forcing the population (.) then down below the
+	saturation K .
+%mor:	coord|or pro:sub|we mod|could v|have det:art|a n|time n|lag
+	conj|because v|say n|predator-PL n|increase conj|but adv:tem|then
+	pro:sub|they v|increase coord|and pro:sub|they v|stay prep|at
+	det:art|a adj|high n|populate&dv-TION coord|and v|start
+	part|force-PRESP det:art|the n|populate&dv-TION adv:tem|then
+	adv|down prep|below det:art|the n|saturate&dv-TION n:prop|K .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|9|LINK
+	9|4|CJCT 10|11|MOD 11|9|OBJ 12|15|LINK 13|15|JCT 14|15|SUBJ 15|9|CJCT
+	16|18|LINK 17|18|SUBJ 18|15|CJCT 19|18|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|9|CONJ 24|23|COORD 25|24|COMP 26|27|DET 27|25|OBJ 28|29|JCT 29|27|NJCT
+	30|25|JCT 31|32|DET 32|30|POBJ 33|32|APP 34|4|PUNCT
+*S1:	and so we get cycles and I'll [/] I'll go over that (.) again in a
+	minute .
+%mor:	coord|and co|so pro:sub|we v|get n|cycle-PL coord|and
+	pro:sub|I~mod|will v|go adv|over comp|that adv|again prep|in
+	det:art|a n|minute .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|CJCT 10|9|JCT 11|10|POBJ 12|11|JCT 13|11|JCT 14|15|DET 15|13|POBJ
+	16|4|PUNCT
+*S1:	so we can see then how a time lag (.) can start to give you cycles
+	.
+%mor:	co|so pro:sub|we mod|can v|see adv:tem|then pro:int|how det:art|a
+	n|time n|lag n|can v|start inf|to v|give pro:per|you v|cycle-3S .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|11|LINK 7|10|DET 8|10|MOD
+	9|10|MOD 10|11|SUBJ 11|4|COMP 12|13|INF 13|11|COMP 14|15|SUBJ 15|13|COMP
+	16|4|PUNCT
+*S1:	and I have on your handout (.) where people have done this with our
+	simple logistic (.) equation (.) where they put in a one generation
+	time lag (.) and here's the population growth with no time lag (.)
+	and here's the population growth with one time lag .
+%mor:	coord|and pro:sub|I v|have prep|on det:poss|your n|+v|hand+prep|out
+	pro:rel|where n|person&PL v|have part|do&PASTP pro:dem|this
+	prep|with det:poss|our adj|simple adj|logistic n|equate&dv-TION
+	pro:rel|where pro:sub|they v|put&ZERO prep|in det:art|a det:num|one
+	n|generate&dv-TION n|time n|lag coord|and pro:exist|here~cop|be&3S
+	det:art|the n|populate&dv-TION n|growth prep|with qn|no n|time n|lag
+	coord|and pro:exist|here~cop|be&3S det:art|the n|populate&dv-TION
+	n|growth prep|with det:num|one n|time n|lag .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|COMP 11|10|OBJ 12|10|JCT 13|16|DET 14|16|MOD 15|16|MOD
+	16|12|POBJ 17|19|LINK 18|19|SUBJ 19|16|CMOD 20|19|JCT 21|25|DET 22|25|QUANT
+	23|25|MOD 24|25|MOD 25|20|POBJ 26|28|LINK 27|28|SUBJ 28|19|CJCT
+	29|31|DET 30|31|MOD 31|28|PRED 32|31|NJCT 33|34|QUANT 34|35|MOD 35|32|POBJ
+	36|38|LINK 37|38|SUBJ 38|35|CMOD 39|41|DET 40|41|MOD 41|38|PRED 42|41|NJCT
+	43|45|QUANT 44|45|MOD 45|42|POBJ 46|3|PUNCT
+*S1:	and we get these nice (.) cycles .
+%mor:	coord|and pro:sub|we v|get det:dem|these adj|nice n|cycle-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and it turns out that as we increase (.) the &-uh time lag (.) okay
+	?
+%mor:	coord|and pro:per|it v|turn-3S adv|out comp|that conj|as pro:sub|we
+	v|increase det:art|the n|time n|lag adj|okay ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|11|DET 10|11|MOD 11|8|OBJ 12|11|POSTMOD 13|3|PUNCT
+*S1:	and if we have high R (.) and we increase time lags (.) these
+	cycles get bigger and bigger (.) the oscillations get greater .
+%mor:	coord|and conj|if pro:sub|we v|have n|high n:prop|R coord|and
+	pro:sub|we n|increase n|time v|lag-3S det:dem|these n|cycle-PL v|get
+	adj|big-CP coord|and adj|big-CP det:art|the n|oscillate&dv-TION-PL
+	v|get adj|great-CP .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|APP 7|11|LINK 8|11|SUBJ
+	9|10|MOD 10|11|SUBJ 11|4|CJCT 12|13|DET 13|14|SUBJ 14|11|COMP
+	15|14|PRED 16|15|CONJ 17|16|COORD 18|19|DET 19|20|SUBJ 20|14|CJCT 21|20|PRED
+	22|4|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so here's an example of that (.) and (.) what finally happens (.)
+	which is really fascinating (.) is that instead of these nice
+	regular cycles which are called stable limit cycles +...
+%mor:	adv|so pro:exist|here~cop|be&3S det:art|a n|example prep|of
+	pro:dem|that coord|and pro:int|what adv|final&dadj-LY v|happen-3S
+	pro:rel|which cop|be&3S adv|real&dadj-LY n:gerund|fascinate-PRESP
+	cop|be&3S comp|that adv|instead prep|of det:dem|these adj|nice
+	adj|regular n|cycle-PL pro:rel|which aux|be&PRES part|call-PASTP
+	adj|stable n|limit n|cycle-PL +...
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|5|CONJ
+	9|11|LINK 10|11|JCT 11|8|COORD 12|13|LINK 13|11|COMP 14|15|JCT 15|13|PRED
+	16|15|OM 17|16|PRED 18|17|NJCT 19|18|JCT 20|23|DET 21|23|MOD 22|23|MOD
+	23|19|POBJ 24|26|LINK 25|26|AUX 26|23|CMOD 27|29|MOD 28|29|MOD 29|26|OBJ
+	30|3|PUNCT
+*S1:	where we have these cycles going on (.) and on over a long period
+	of time (.) we start getting really violent fluctuations (.) and (.)
+	we can end up with population growth (.) that might look like
+	something like this .
+%mor:	pro:int|where pro:sub|we v|have det:dem|these n|cycle-PL
+	part|go-PRESP adv|on coord|and adv|on prep|over det:art|a adj|long
+	n|period prep|of n|time pro:sub|we v|start n:gerund|get-PRESP
+	adv|real&dadj-LY adj|violent n|fluctuate&dv-TION-PL coord|and
+	pro:sub|we mod|can v|end adv|up prep|with n|populate&dv-TION
+	n|growth pro:rel|that n|might v|look conj|like pro:indef|something
+	prep|like pro:dem|this .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|XMOD 7|6|JCT 8|17|LINK
+	9|17|JCT 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|13|NJCT 15|14|POBJ
+	16|17|SUBJ 17|3|CJCT 18|17|OBJ 19|20|JCT 20|21|MOD 21|18|OBJ 22|25|LINK
+	23|25|SUBJ 24|25|AUX 25|17|CJCT 26|25|JCT 27|25|JCT 28|29|MOD 29|27|POBJ
+	30|32|LINK 31|32|SUBJ 32|29|CMOD 33|32|JCT 34|33|POBJ 35|34|NJCT
+	36|35|POBJ 37|3|PUNCT
+*S1:	(0.6) and this is called (.) chaos .
+%mor:	coord|and pro:dem|this aux|be&3S part|call-PASTP n|chaos .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*S1:	(0.6) so this very simple equation the logistic (.) remember it's a
+	very simple equation (.) just by adding time lags and having a high
+	little R (.) we can generate this really complex population behavior
+	.
+%mor:	adv|so pro:dem|this adv|very adj|simple n|equate&dv-TION
+	det:art|the adj|logistic v|remember pro:per|it~cop|be&3S det:art|a
+	adv|very adj|simple n|equate&dv-TION adv|just prep|by
+	n:gerund|add-PRESP n|time n|lag-PL coord|and part|have-PRESP
+	det:art|a n|high adj|little n:prop|R pro:sub|we mod|can v|generate
+	det:dem|this adv|real&dadj-LY adj|complex n|populate&dv-TION
+	n|behavior .
+%gra:	1|2|JCT 2|5|DET 3|4|JCT 4|5|MOD 5|0|INCROOT 6|8|DET 7|8|MOD 8|5|CMOD
+	9|10|SUBJ 10|8|COMP 11|14|DET 12|13|JCT 13|14|MOD 14|10|PRED 15|14|NJCT
+	16|15|JCT 17|19|MOD 18|19|MOD 19|16|POBJ 20|28|LINK 21|28|XJCT 22|23|DET
+	23|28|SUBJ 24|25|MOD 25|28|CJCT 26|28|SUBJ 27|28|AUX 28|19|CJCT 29|33|DET
+	30|31|JCT 31|33|MOD 32|33|MOD 33|28|OBJ 34|5|PUNCT
+*S1:	it not even regular cycles anymore it's just violent oscillations .
+%mor:	pro:per|it neg|not adv|even adj|regular n|cycle-PL adv|anymore
+	pro:per|it~cop|be&3S adj|just adj|violent n|oscillate&dv-TION-PL .
+%gra:	1|4|SUBJ 2|1|NEG 3|4|JCT 4|5|MOD 5|8|SUBJ 6|8|JCT 7|8|SUBJ 8|0|ROOT
+	9|11|MOD 10|11|MOD 11|8|PRED 12|8|PUNCT
+*S1:	and yet it is generated by a very simple deterministic (.) equation
+	.
+%mor:	coord|and conj|yet pro:per|it aux|be&3S part|generate-PASTP prep|by
+	det:art|a adv|very adj|simple adj|deterministic n|equate&dv-TION .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|11|DET 8|9|JCT
+	9|11|MOD 10|11|MOD 11|6|POBJ 12|5|PUNCT
+*S1:	so here is N over time .
+%mor:	co|so pro:exist|here cop|be&3S n:prop|N prep|over n|time .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|5|POBJ 7|3|PUNCT
+*S1:	so we have this simple deterministic equation (.) (0.5) we add a
+	time lag (.) and we can get this chaos (.) or chaotic behavior .
+%mor:	co|so pro:sub|we v|have det:dem|this adj|simple adj|deterministic
+	n|equate&dv-TION pro:sub|we v|add det:art|a n|time n|lag coord|and
+	pro:sub|we mod|can v|get det:dem|this n|chaos coord|or adj|chaotic
+	n|behavior .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|9|SUBJ
+	9|7|CMOD 10|12|DET 11|12|MOD 12|9|OBJ 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|3|CJCT 17|18|DET 18|16|OBJ 19|18|CONJ 20|21|MOD 21|19|COORD 22|3|PUNCT
+*S1:	(0.6) and &-uh it looks totally unpredictable .
+%mor:	coord|and pro:per|it v|look-3S adv|total&dadj-LY
+	un#adj|predict&dv-ABLE .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|COMP 6|3|PUNCT
+*S1:	but is it's deterministic .
+%mor:	conj|but aux|be&3S pro:per|it~cop|be&3S adj|deterministic .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*S1:	and this was a really exciting and somewhat disturbing finding (.)
+	because we're very interested in how often does density dependence
+	population growth occur how important is density dependence (.) and
+	here we have this model (.) and it doesn't give us just a sweep (.)
+	logistic (.) it gives us this totally unpredictable looking pattern
+	.
+%mor:	coord|and pro:dem|this cop|be&PAST&13S det:art|a adv|real&dadj-LY
+	adj|exciting coord|and adv|somewhat part|disturb-PRESP
+	part|find-PRESP conj|because pro:sub|we~aux|be&PRES adv|very
+	part|interest-PASTP prep|in pro:rel|how adv|often mod|do&3S
+	n|density n|dependence n|populate&dv-TION n|growth v|occur
+	pro:int|how adj|important aux|be&3S n|density n|dependence coord|and
+	adv|here pro:sub|we v|have det:dem|this n|model coord|and pro:per|it
+	mod|do&3S~neg|not v|give pro:obj|us adv|just det:art|a n|sweep
+	adj|logistic pro:per|it v|give-3S pro:obj|us det:dem|this
+	adv|total&dadj-LY un#adj|predict&dv-ABLE part|look-PRESP n|pattern .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|JCT 6|3|PRED 7|6|CONJ 8|9|JCT
+	9|7|COORD 10|6|XMOD 11|15|LINK 12|15|SUBJ 13|15|AUX 14|15|JCT 15|3|CJCT
+	16|24|JCT 17|23|LINK 18|23|JCT 19|23|AUX 20|23|MOD 21|23|MOD 22|23|MOD
+	23|24|SUBJ 24|15|CJCT 25|29|LINK 26|29|MOD 27|29|AUX 28|29|MOD 29|24|OBJ
+	30|33|LINK 31|33|JCT 32|33|SUBJ 33|29|CJCT 34|35|DET 35|33|OBJ 36|40|LINK
+	37|40|SUBJ 38|40|AUX 39|38|NEG 40|33|CJCT 41|40|OBJ 42|44|JCT 43|44|DET
+	44|40|OBJ 45|47|LINK 46|47|SUBJ 47|44|CMOD 48|47|OBJ 49|51|DET 50|51|JCT
+	51|44|CJCT 52|51|XJCT 53|52|OBJ 54|3|PUNCT
+*S1:	and &-uh it's [//] &-uh this whole idea of chaos has come into many
+	different fields .
+%mor:	coord|and pro:dem|this adj|whole n|idea prep|of n|chaos aux|have&3S
+	v|come prep|into qn|many adj|different n|field-PL .
+%gra:	1|8|LINK 2|4|DET 3|4|MOD 4|8|SUBJ 5|4|NJCT 6|5|POBJ 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|12|QUANT 11|12|MOD 12|9|POBJ 13|8|PUNCT
+*S1:	now it's in physics it's in chemistry &-uh it's in many different
+	areas and it's really like a revolution (.) in trying to think about
+	how the world (.) works .
+%mor:	adv|now pro:per|it~cop|be&3S prep|in n|physics pro:per|it~cop|be&3S
+	prep|in n|chemistry pro:per|it~cop|be&3S prep|in qn|many
+	adj|different n|area-PL coord|and pro:per|it~cop|be&3S
+	adv|real&dadj-LY co|like det:art|a n|revolution prep|in
+	part|try-PRESP inf|to v|think prep|about pro:int|how det:art|the
+	n|world n|work-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|SUBJ 7|3|CJCT 8|7|JCT
+	9|8|POBJ 10|11|SUBJ 11|7|CJCT 12|11|JCT 13|15|QUANT 14|15|MOD 15|12|POBJ
+	16|18|LINK 17|18|SUBJ 18|15|CMOD 19|18|JCT 20|18|COM 21|22|DET 22|18|PRED
+	23|22|NJCT 24|23|POBJ 25|26|INF 26|24|COMP 27|26|JCT 28|27|CPOBJ
+	29|31|DET 30|31|MOD 31|28|OBJ 32|3|PUNCT
+*S1:	and this actually came out_of (.) Robert May who was a physicist
+	who became an ecologist (.) and he explored these models .
+%mor:	coord|and pro:dem|this adv|actual&dadj-LY v|come&PAST prep|out_of
+	n:prop|Robert n:prop|May pro:rel|who cop|be&PAST&13S det:art|a
+	n|physicist pro:rel|who cop|become&PAST det:art|a n|ecology-IST
+	coord|and pro:sub|he v|explore-PAST det:dem|these n|model-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|NAME 7|5|POBJ 8|9|LINK
+	9|7|CMOD 10|11|DET 11|9|PRED 12|13|LINK 13|11|CMOD 14|15|DET 15|13|PRED
+	16|18|LINK 17|18|SUBJ 18|15|CMOD 19|20|DET 20|18|OBJ 21|4|PUNCT
+*S1:	and he's the one who really started this by thinking about the
+	simple population models .
+%mor:	coord|and pro:sub|he~cop|be&3S det:art|the pro:indef|one
+	pro:rel|who adv|real&dadj-LY part|start-PASTP det:dem|this adv|by
+	part|think-PRESP prep|about det:art|the adj|simple
+	n|populate&dv-TION n|model-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|8|LINK 7|8|JCT 8|5|CMOD
+	9|11|DET 10|11|JCT 11|8|COMP 12|11|JCT 13|16|DET 14|16|MOD 15|16|MOD
+	16|12|POBJ 17|3|PUNCT
+*S1:	he came up with this (.) aspect of chaos .
+%mor:	pro:sub|he v|come&PAST adv|up prep|with det:dem|this n|aspect
+	prep|of n|chaos .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|2|PUNCT
+*S1:	which is &-uh very exciting and has implications in all these
+	different fields .
+%mor:	pro:rel|which aux|be&3S adv|very part|excite-PRESP coord|and
+	aux|have&3S n|implicate&dv-TION-PL adv|in adv|all det:dem|these
+	adj|different n|field-PL .
+%gra:	1|2|LINK 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|PRED 8|7|NJCT
+	9|10|JCT 10|12|DET 11|12|MOD 12|8|POBJ 13|4|PUNCT
+*S1:	so (.) it is interesting then that we can take our simple little
+	model (.) and we can generate very interesting (.) behavior .
+%mor:	co|so pro:per|it cop|be&3S adj|interesting adv:tem|then comp|that
+	pro:sub|we mod|can v|take det:poss|our adj|simple adj|little n|model
+	coord|and pro:sub|we mod|can v|generate adv|very adj|interesting
+	n|behavior .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|13|DET 11|13|MOD 12|13|MOD 13|9|OBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|9|CJCT 18|19|JCT 19|20|MOD 20|17|OBJ 21|3|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	in fact if we take a [/] a real population cycle +//.
+%mor:	prep|in n|fact conj|if pro:sub|we v|take det:art|a adj|real
+	n|populate&dv-TION n|cycle +//.
+%gra:	1|0|INCROOT 2|1|POBJ 3|5|LINK 4|5|SUBJ 5|1|ENUM 6|9|DET 7|8|MOD 8|9|MOD
+	9|5|OBJ 10|1|PUNCT
+*S1:	this is with little lemmings (.) and they're like voles &-uh and
+	they have these cycles that where they have a peak about every three
+	or four years .
+%mor:	pro:dem|this cop|be&3S prep|with adj|little
+	n:gerund|let~pro:obj|me-PRESP-PL coord|and pro:sub|they~cop|be&PRES
+	prep|like n|vole-PL coord|and pro:sub|they v|have det:dem|these
+	n|cycle-PL pro:rel|that pro:int|where pro:sub|they v|have det:art|a
+	n|peak prep|about qn|every det:num|three coord|or det:num|four
+	n|year-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|5|OBJ 7|9|LINK 8|9|SUBJ
+	9|5|CJCT 10|9|JCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|9|CJCT 15|16|DET
+	16|14|OBJ 17|20|LINK 18|20|LINK 19|20|SUBJ 20|16|CMOD 21|22|DET 22|20|OBJ
+	23|22|NJCT 24|25|QUANT 25|28|QUANT 26|25|CONJ 27|26|COORD 28|23|POBJ
+	29|2|PUNCT
+*S1:	they have taken the original data (.) and this is on your handout
+	(.) and &-uh fit (.) one of these logistic equations with a time lag
+	.
+%mor:	pro:sub|they v|have part|take&PASTP det:art|the adj|origin&dn-AL
+	n|data coord|and pro:dem|this cop|be&3S prep|on det:poss|your
+	n|+v|hand+prep|out coord|and n|fit pro:indef|one prep|of
+	det:dem|these adj|logistic n|equate&dv-TION-PL prep|with det:art|a
+	n|time n|lag .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|6|DET 5|6|MOD 6|3|OBJ 7|9|LINK 8|9|SUBJ
+	9|2|CJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|9|CONJ 14|13|COORD 15|14|OBJ
+	16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|15|NJCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|2|PUNCT
+*S1:	and they're able to predict or generate I should say (.) the
+	population cycle (.) pretty well (.) that you see (.) in nature .
+%mor:	coord|and pro:sub|they~cop|be&PRES adj|able inf|to v|predict
+	coord|or v|generate pro:sub|I mod|should v|say det:art|the
+	n|populate&dv-TION n|cycle adj|pretty n|well pro:rel|that
+	pro:per|you v|see prep|in n|nature .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|6|CONJ 8|7|COORD
+	9|11|SUBJ 10|11|AUX 11|8|COMP 12|14|DET 13|14|MOD 14|16|MOD 15|16|MOD
+	16|11|OBJ 17|19|LINK 18|19|SUBJ 19|16|CMOD 20|19|JCT 21|20|POBJ
+	22|3|PUNCT
+*S1:	and so just with this tau (.) or this value T &-uh we can fit (.)
+	the natural population cycles .
+%mor:	coord|and adv|so adj|just prep|with det:dem|this n|tau coord|or
+	det:dem|this n|value n:prop|T pro:sub|we mod|can v|fit&ZERO
+	det:art|the adj|natural n|populate&dv-TION n|cycle-PL .
+%gra:	1|13|LINK 2|3|JCT 3|13|JCT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|9|DET
+	9|7|COORD 10|9|APP 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|17|DET 15|17|MOD
+	16|17|MOD 17|13|OBJ 18|13|PUNCT
+*S1:	so (.) that's all really well and good (.) what can we say from
+	that ?
+%mor:	co|so pro:dem|that~cop|be&3S pro:indef|all adv|real&dadj-LY
+	adv|well coord|and adj|good pro:int|what mod|can pro:sub|we v|say
+	prep|from pro:dem|that ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|JCT 6|4|NJCT 7|6|CONJ 8|7|COORD
+	9|12|OBJ 10|12|AUX 11|12|SUBJ 12|8|CMOD 13|12|JCT 14|13|POBJ 15|3|PUNCT
+*S1:	does that mean we've explained it ?
+%mor:	mod|do&3S pro:dem|that v|mean pro:sub|we~aux|have
+	part|explain-PASTP pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|OBJ 8|3|PUNCT
+*S1:	well no we [/] we could be right for the wrong reason right ?
+%mor:	co|well co|no pro:sub|we mod|could cop|be adj|right prep|for
+	det:art|the adj|wrong n|reason adj|right ?
+%gra:	1|5|COM 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PRED 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|10|POSTMOD 12|5|PUNCT
+*S1:	maybe these cycles are due to something totally different .
+%mor:	adv|maybe pro:dem|these n|cycle-PL cop|be&PRES n|due prep|to
+	pro:indef|something adv|total&dadj-LY adj|different .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|NJCT 7|6|POBJ 8|9|JCT
+	9|7|POSTMOD 10|4|PUNCT
+*S1:	or maybe there is some density dependence in there .
+%mor:	coord|or adv|maybe pro:exist|there cop|be&3S qn|some n|density
+	n|dependence prep|in n|there .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|QUANT 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*S1:	and maybe it's just within this population (.) or maybe it's
+	created by density dependent factors outside this population like
+	predators .
+%mor:	coord|and adv|maybe pro:per|it~cop|be&3S adj|just prep|within
+	det:dem|this n|populate&dv-TION coord|or adv|maybe
+	pro:per|it~aux|be&3S part|create-PASTP prep|by n|density
+	adj|dependent n|factor-PL adj|outside det:dem|this
+	n|populate&dv-TION prep|like n|predator-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|8|DET 8|6|POBJ
+	9|13|LINK 10|13|JCT 11|13|SUBJ 12|13|AUX 13|4|CJCT 14|13|JCT 15|17|MOD
+	16|17|MOD 17|20|MOD 18|17|POSTMOD 19|20|DET 20|14|POBJ 21|20|NJCT
+	22|21|POBJ 23|4|PUNCT
+*S1:	or food .
+%mor:	coord|or n|food .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*S1:	so this has become the big question then (.) is what factors
+	actually cause these population cycles ?
+%mor:	adv|so det:dem|this aux|have&3S part|become&PASTP det:art|the
+	adj|big n|question adv:tem|then aux|be&3S pro:int|what n|factor-PL
+	adv|actual&dadj-LY v|cause det:dem|these n|populate&dv-TION
+	n|cycle-PL ?
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|13|SUBJ
+	9|13|AUX 10|13|LINK 11|13|SUBJ 12|13|JCT 13|7|CMOD 14|16|DET 15|16|MOD
+	16|13|OBJ 17|4|PUNCT
+*S1:	is there a delayed density dependence and <is that> [/] &wha is
+	that really what's causing the cycles and what are the factors &-uh
+	involved (.) with that ?
+%mor:	cop|be&3S adv|there det:art|a part|delay-PASTP n|density
+	n|dependence coord|and cop|be&3S pro:dem|that adv|real&dadj-LY
+	pro:int|what~aux|be&3S part|cause-PRESP det:art|the n|cycle-PL
+	coord|and pro:int|what aux|be&PRES det:art|the n|factor-PL
+	part|involve-PASTP prep|with pro:dem|that ?
+%gra:	1|0|ROOT 2|1|JCT 3|6|DET 4|6|MOD 5|6|MOD 6|1|PUNCT 7|6|CONJ 8|7|COORD
+	9|8|PRED 10|13|JCT 11|13|SUBJ 12|13|AUX 13|9|ROOT 14|15|DET 15|13|OBJ
+	16|13|CONJ 17|16|COORD 18|17|INCROOT 19|20|DET 20|18|PRED 21|20|XMOD
+	22|21|JCT 23|22|POBJ 24|18|PUNCT
+*S1:	so &-uh what I want to do then (.) is (.) give you some approaches
+	that have been used (.) in trying to explain (.) these population
+	cycles (.) in different species .
+%mor:	adv|so pro:int|what pro:sub|I v|want inf|to v|do adv:tem|then
+	cop|be&3S v|give pro:per|you qn|some n|approach-PL pro:rel|that
+	aux|have aux|be&PASTP part|use-PASTP prep|in n:gerund|try-PRESP
+	inf|to v|explain det:dem|these n|populate&dv-TION n|cycle-PL prep|in
+	adj|different n|species .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|9|SUBJ 5|6|INF 6|4|COMP 7|6|JCT 8|9|AUX
+	9|0|ROOT 10|9|OBJ2 11|12|QUANT 12|9|OBJ 13|16|LINK 14|16|AUX 15|16|AUX
+	16|12|CMOD 17|16|JCT 18|17|POBJ 19|20|INF 20|18|COMP 21|23|DET 22|23|MOD
+	23|20|OBJ 24|23|NJCT 25|26|MOD 26|24|POBJ 27|9|PUNCT
+*S1:	and (0.6) oh first I'm gonna show you this [/] this is in contrast
+	now to what has happened in some cases &-uh this is a reindeer
+	population (.) this is just to remind you of the &{l=SIC difference
+	&}l=SIC things that could happen (.) these are reindeer that were
+	introduced to the Pribilof Islands off Alaska (.) and here we see on
+	one island the population went into exponential growth (.) and then
+	it crashed .
+%mor:	coord|and co|oh adv|first pro:sub|I~aux|be&1S part|go-PRESP~inf|to
+	v|show pro:per|you pro:dem|this cop|be&3S prep|in n|contrast adv|now
+	prep|to pro:int|what aux|have&3S part|happen-PASTP prep|in qn|some
+	n|case-PL det:dem|this cop|be&3S det:art|a n|reindeer
+	n|populate&dv-TION pro:dem|this cop|be&3S adv|just inf|to v|remind
+	pro:per|you prep|of det:art|the n|difference n|thing-PL pro:rel|that
+	mod|could v|happen det:dem|these aux|be&PRES n|reindeer pro:rel|that
+	aux|be&PAST part|introduce-PASTP prep|to det:art|the n:prop|Pribilof
+	n:prop|Islands prep|off n:prop|Alaska coord|and adv|here pro:sub|we
+	v|see prep|on det:num|one n|island det:art|the n|populate&dv-TION
+	v|go&PAST prep|into adj|exponential n|growth coord|and adv:tem|then
+	pro:per|it v|crash-PAST .
+%gra:	1|6|LINK 2|6|COM 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|11|SUBJ 11|8|COMP 12|11|JCT 13|12|POBJ 14|11|JCT 15|11|JCT
+	16|18|SUBJ 17|18|AUX 18|15|CPOBJ 19|18|JCT 20|21|QUANT 21|19|POBJ 22|23|DET
+	23|18|CJCT 24|26|DET 25|26|MOD 26|23|PRED 27|28|SUBJ 28|26|CMOD 29|28|JCT
+	30|31|INF 31|28|XJCT 32|31|OBJ 33|32|NJCT 34|36|DET 35|36|MOD
+	36|33|POBJ 37|39|LINK 38|39|AUX 39|36|CMOD 40|42|DET 41|42|AUX 42|39|OBJ
+	43|45|LINK 44|45|AUX 45|42|CMOD 46|45|JCT 47|48|DET 48|46|POBJ 49|48|APP
+	50|49|NJCT 51|50|POBJ 52|55|LINK 53|55|JCT 54|55|SUBJ 55|31|CJCT 56|55|JCT
+	57|58|QUANT 58|56|POBJ 59|60|DET 60|61|SUBJ 61|55|CJCT 62|61|JCT 63|64|MOD
+	64|62|POBJ 65|68|LINK 66|68|JCT 67|68|SUBJ 68|61|CJCT 69|6|PUNCT
+*S1:	and &-uh went extinct .
+%mor:	coord|and v|go&PAST adj|extinct .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	here's another island (.) the population grew &s kinda slowly and
+	then just kinda &stable stabilized at a very low [/] low level .
+%mor:	pro:exist|here~cop|be&3S qn|another n|island det:art|the
+	n|populate&dv-TION v|grow&PAST adv|kinda adv|slow&dadj-LY coord|and
+	adv:tem|then adv|just adv|kinda part|stabilize-PASTP prep|at
+	det:art|a adv|very adj|low n|level .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|6|DET 6|7|SUBJ 7|4|CMOD 8|7|JCT
+	9|7|JCT 10|7|CONJ 11|14|JCT 12|13|JCT 13|14|JCT 14|10|COORD 15|14|JCT
+	16|19|DET 17|18|JCT 18|19|MOD 19|15|POBJ 20|2|PUNCT
+*S1:	so &w what determines these different population behaviors ?
+%mor:	adv|so pro:int|what v|determine-3S det:dem|these adj|different
+	n|populate&dv-TION n|behavior-PL ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|3|PUNCT
+*S1:	what factors (.) were going on (.) and then &-uh so we can ask (.)
+	about what factors cause these cycles (.) but really the way we do
+	it can be applied to any kinda population .
+%mor:	pro:int|what n|factor-PL aux|be&PAST part|go-PRESP adv|on coord|and
+	adv:tem|then co|so pro:sub|we mod|can v|ask adv|about pro:int|what
+	n|factor-PL v|cause det:dem|these n|cycle-PL conj|but
+	adv|real&dadj-LY det:art|the n|way pro:sub|we v|do pro:per|it
+	mod|can aux|be part|apply-PASTP prep|to qn|any adv|kinda
+	n|populate&dv-TION .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|11|LINK 7|11|JCT 8|11|COM
+	9|11|SUBJ 10|11|AUX 11|4|CJCT 12|15|JCT 13|14|DET 14|15|SUBJ 15|11|COMP
+	16|17|DET 17|15|OBJ 18|23|LINK 19|21|JCT 20|21|DET 21|23|JCT 22|23|SUBJ
+	23|15|CJCT 24|27|SUBJ 25|27|AUX 26|27|AUX 27|23|COMP 28|27|JCT
+	29|31|QUANT 30|31|JCT 31|28|POBJ 32|4|PUNCT
+*S1:	not just cycling populations .
+%mor:	neg|not adv|just part|cycle-PRESP n|populate&dv-TION-PL .
+%gra:	1|3|NEG 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	but these kinds of populations (.) as well .
+%mor:	conj|but det:dem|these n|kind-PL prep|of n|populate&dv-TION-PL
+	adv|as adv|well .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|NJCT 5|4|POBJ 6|7|COORD 7|5|NJCT
+	8|1|PUNCT
+*S1:	if I had the (.) first slide (.) (0.7) &-uh okay .
+%mor:	conj|if pro:sub|I v|have&PAST det:art|the adj|first n|slide
+	adj|okay .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|POSTMOD
+	8|3|PUNCT
+*S1:	can we push that over ?
+%mor:	mod|can pro:sub|we v|push pro:dem|that adv|over ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*S1:	that's great .
+%mor:	pro:dem|that~cop|be&3S adj|great .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S1:	alright [?] (be)cause I hadta show you my reindeer slide this is
+	+//.
+%mor:	co|alright conj|because pro:sub|I mod|have&PAST~inf|to v|show
+	pro:per|you det:poss|my n|reindeer v|slide pro:dem|this cop|be&3S
+	+//.
+%gra:	1|10|COM 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|INF 6|10|CJCT 7|6|OBJ 8|9|DET
+	9|10|SUBJ 10|0|ROOT 11|12|SUBJ 12|10|COMP 13|10|PUNCT
+*S1:	I was in Sweden this summer in Northern Sweden (.) and &-uh here
+	are the reindeer the &-uh Laplanders or Saami actually &-uh herd
+	these and so forth but &-uh they're +//.
+%mor:	pro:sub|I cop|be&PAST&13S prep|in n:prop|Sweden det:dem|this
+	n|summer prep|in n:prop|Northern n:prop|Sweden coord|and adv|here
+	cop|be&PRES det:art|the n|reindeer det:art|the n:prop|Laplanders
+	coord|or n:prop|Saami adv|actual&dadj-LY v|herd pro:dem|these
+	coord|and adv|so adv|forth conj|but pro:sub|they~cop|be&PRES +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|6|DET 6|12|JCT 7|6|NJCT 8|7|POBJ
+	9|12|SUBJ 10|9|CONJ 11|10|COORD 12|2|CJCT 13|14|DET 14|12|PRED 15|16|DET
+	16|20|SUBJ 17|16|CONJ 18|17|COORD 19|20|JCT 20|14|CMOD 21|20|OBJ
+	22|20|CONJ 23|24|JCT 24|22|COORD 25|27|LINK 26|27|SUBJ 27|24|CPOBJ 28|2|PUNCT
+*S1:	during the summer they wander all around and &-uh browse (.) and
+	(.) they're all over .
+%mor:	prep|during det:art|the n|summer pro:sub|they v|wander adv|all
+	adv|around coord|and v|browse coord|and pro:sub|they~cop|be&PRES
+	adv|all adv|over .
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|JCT 8|5|CONJ
+	9|8|COORD 10|12|LINK 11|12|SUBJ 12|9|COMP 13|14|JCT 14|12|PRED 15|5|PUNCT
+*S1:	it was wonderful .
+%mor:	pro:per|it cop|be&PAST&13S adj|wonder-FULL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S1:	very exciting to see these (.) running around they're small (.)
+	they look like (.) baby deer .
+%mor:	adv|very part|excite-PRESP inf|to v|see det:dem|these
+	part|run-PRESP adv|around pro:sub|they~cop|be&PRES adj|small
+	pro:sub|they v|look conj|like n|baby n|deer .
+%gra:	1|2|JCT 2|12|XJCT 3|4|INF 4|2|COMP 5|9|DET 6|9|XJCT 7|6|JCT 8|9|SUBJ
+	9|4|COMP 10|9|PRED 11|12|SUBJ 12|0|ROOT 13|12|JCT 14|15|MOD 15|13|POBJ
+	16|12|PUNCT
+*S1:	it was really cute .
+%mor:	pro:per|it cop|be&PAST&13S adv|real&dadj-LY adj|cute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*S1:	and so that's (.) an example of reindeer .
+%mor:	coord|and co|so pro:dem|that~cop|be&3S det:art|a n|example prep|of
+	n|reindeer .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+*S1:	and &-uh here is the area in Northern Sweden where this (.) where I
+	saw these reindeer .
+%mor:	coord|and pro:exist|here cop|be&3S det:art|the n|area prep|in
+	n:prop|Northern n:prop|Sweden pro:rel|where det:dem|this
+	pro:int|where pro:sub|I v|see&PAST det:dem|these n|reindeer .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|NAME 8|6|POBJ
+	9|13|LINK 10|11|DET 11|13|LINK 12|13|SUBJ 13|8|CMOD 14|15|DET 15|13|OBJ
+	16|3|PUNCT
+*S1:	and this is just to remind you that these cycles often occur in
+	very simple habitats and this is more of a boreal habitat (.) where
+	we have (.) mostly just &-uh spruce (.) and a few birch (.) and [/]
+	&-uh and some areas just &hav tend to have just grasslands .
+%mor:	coord|and pro:dem|this cop|be&3S adv|just inf|to v|remind
+	pro:per|you adv|that det:dem|these n|cycle-PL adv|often v|occur
+	adv|in adv|very adj|simple n|habitat-PL coord|and pro:dem|this
+	cop|be&3S adv|more prep|of det:art|a adj|boreal n|habitat
+	pro:rel|where pro:sub|we v|have adv|mostly adj|just n|spruce
+	coord|and det:art|a qn|few n|birch coord|and qn|some n|area-PL
+	adj|just v|tend inf|to aux|have adv|just n|+n|grass+n|land-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|INF 6|3|CPRED 7|6|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|12|JCT 12|6|COMP 13|12|JCT 14|15|JCT 15|16|MOD
+	16|19|SUBJ 17|16|CONJ 18|17|COORD 19|12|COMP 20|19|JCT 21|20|JCT 22|24|DET
+	23|24|MOD 24|21|POBJ 25|27|LINK 26|27|SUBJ 27|24|CMOD 28|30|JCT 29|30|MOD
+	30|39|SUBJ 31|30|CONJ 32|34|DET 33|34|QUANT 34|31|COORD 35|30|CONJ
+	36|37|QUANT 37|35|COORD 38|39|JCT 39|27|COMP 40|43|INF 41|43|AUX 42|43|JCT
+	43|39|COMP 44|3|PUNCT
+*S1:	and many of these &{l=SIC populuns@u &}l=SIC are also in tundra (.)
+	where it's mostly just (.) sedges and &-uh a few shrubs so these
+	simple environments seem to (.) somehow foster (.) the (.) cycle (.)
+	cycles +...
+%mor:	coord|and pro:indef|many prep|of det:dem|these uni|populuns
+	cop|be&PRES adv|also prep|in n|tundra pro:rel|where
+	pro:per|it~cop|be&3S adv|mostly adv|just n|sedge-PL coord|and
+	det:art|a qn|few n|shrub-PL conj|so det:dem|these adj|simple
+	n|environment-PL cop|seem inf|to adv|somehow v|foster det:art|the
+	n|cycle n|cycle-PL +...
+%gra:	1|6|LINK 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|JCT 14|15|JCT 15|12|PRED
+	16|15|CONJ 17|19|DET 18|19|QUANT 19|16|COORD 20|24|LINK 21|23|DET
+	22|23|MOD 23|24|SUBJ 24|6|CJCT 25|27|INF 26|27|JCT 27|24|OM 28|30|DET 29|30|MOD
+	30|27|OBJ 31|6|PUNCT
+*S1:	so first I'm gonna talk (.) a little bit about what are called
+	microtine cycles (.) and microtine is &-uh &-uh these are microtine
+	rodents (.) and they include the lemmings (.) that we <were talking>
+	[?] about and voles &-uh lemmings are more northern voles occur here
+	if you go out into any field you'll &f see voles (.) and they do
+	show cycles (.) right here in Michigan as I mentioned .
+%mor:	adv|so adj|first pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|talk
+	det:art|a adj|little n|bit prep|about pro:int|what aux|be&PRES
+	part|call-PASTP adj|microtine n|cycle-PL coord|and adj|microtine
+	aux|be&3S pro:dem|these cop|be&PRES micro#n|tine n|rodent-PL
+	coord|and pro:sub|they v|include det:art|the
+	n:gerund|let~pro:obj|me-PRESP-PL comp|that pro:sub|we aux|be&PAST
+	part|talk-PRESP adv|about coord|and n|vole-PL
+	n:gerund|let~pro:obj|me-PRESP-PL cop|be&PRES adv|more adj|northern
+	n|vole-PL v|occur adv|here conj|if pro:per|you v|go adv|out
+	prep|into qn|any n|field pro:per|you~mod|will co|see n|vole-PL
+	coord|and pro:sub|they v|do n|show n|cycle-PL adv|right adv|here
+	prep|in n:prop|Michigan conj|as pro:sub|I v|mention-PAST .
+%gra:	1|2|JCT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|10|DET
+	9|10|MOD 10|7|OBJ 11|10|NJCT 12|14|SUBJ 13|14|AUX 14|11|CPOBJ 15|16|MOD
+	16|21|SUBJ 17|16|CONJ 18|20|SUBJ 19|20|AUX 20|17|COORD 21|14|COMP
+	22|21|PRED 23|22|OBJ 24|26|LINK 25|26|SUBJ 26|23|CMOD 27|28|DET 28|26|OBJ
+	29|28|OBJ 30|33|LINK 31|33|SUBJ 32|33|AUX 33|29|COMP 34|33|JCT 35|33|CONJ
+	36|37|MOD 37|35|COORD 38|39|SUBJ 39|37|COMP 40|41|JCT 41|42|MOD 42|39|PRED
+	43|39|CPRED 44|43|JCT 45|47|LINK 46|47|SUBJ 47|55|CJCT 48|47|JCT
+	49|47|JCT 50|51|QUANT 51|49|POBJ 52|55|SUBJ 53|55|AUX 54|55|COM 55|43|OBJ
+	56|58|LINK 57|58|SUBJ 58|55|CJCT 59|60|MOD 60|58|OBJ 61|62|JCT 62|58|JCT
+	63|58|JCT 64|63|POBJ 65|67|LINK 66|67|SUBJ 67|58|CJCT 68|5|PUNCT
+*S1:	and [/] &-uh and here is a lemming (.) aren't they cute ?
+%mor:	coord|and adv|here cop|be&3S det:art|a
+	n:gerund|let~pro:obj|me-PRESP cop|be&PRES~neg|not pro:sub|they
+	adj|cute ?
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|5|DET 5|3|PRED 6|7|SUBJ 7|5|COMP 8|7|NEG
+	9|7|PRED 10|9|OM 11|3|PUNCT
+*S1:	I think they're (.) adorable (.) but &-uh anyhow (.) these lemmings
+	are very [/] very interesting (.) and they occur in northern
+	environments all over through &-uh Canada and Scandinavia &-uh and
+	(.) what is amazing is they have these dramatic population cycles .
+%mor:	pro:sub|I v|think pro:sub|they~cop|be&PRES adj|adore&dv-ABLE
+	conj|but adv|anyhow pro:dem|these n:gerund|let~pro:obj|me-PRESP-PL
+	cop|be&PRES adv|very adj|interesting coord|and pro:sub|they v|occur
+	prep|in adj|northern n|environment-PL adv|all prep|over adj|through
+	n:prop|Canada coord|and n:prop|Scandinavia coord|and pro:int|what
+	cop|be&3S n:gerund|amaze-PRESP cop|be&3S pro:sub|they v|have
+	det:dem|these adj|dramatic n|populate&dv-TION n|cycle-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|4|CONJ 7|8|JCT 8|6|COORD
+	9|8|OBJ 10|11|SUBJ 11|9|COMP 12|13|JCT 13|11|PRED 14|16|LINK 15|16|SUBJ
+	16|11|CJCT 17|16|JCT 18|19|MOD 19|17|POBJ 20|21|JCT 21|16|JCT 22|23|MOD
+	23|21|POBJ 24|11|CONJ 25|24|COORD 26|28|LINK 27|28|SUBJ 28|25|CJCT
+	29|32|SUBJ 30|32|AUX 31|32|SUBJ 32|28|CPRED 33|36|DET 34|36|MOD 35|36|MOD
+	36|32|OBJ 37|2|PUNCT
+*S1:	and the peaks tend to occur about every three years (.) and the
+	population increase is just phenomenal .
+%mor:	coord|and det:art|the n|peak-PL v|tend inf|to v|occur prep|about
+	qn|every det:num|three n|year-PL coord|and det:art|the
+	n|populate&dv-TION n|increase cop|be&3S adv|just adj|phenomenal .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|10|QUANT
+	9|10|QUANT 10|7|POBJ 11|15|LINK 12|14|DET 13|14|MOD 14|15|SUBJ
+	15|10|CMOD 16|17|JCT 17|15|PRED 18|4|PUNCT
+*S1:	and &-uh this has been &-um known (.) historically for a very long
+	time (.) and in the &-uh nineteen (.) twenties (.) Charles Elton (.)
+	who was a very well known (.) ecologist in Britain at Oxford (.) got
+	interested in these population cycles of lemmings in Scandinavia .
+%mor:	coord|and pro:dem|this aux|have&3S aux|be&PASTP part|know&PASTP
+	adv|historic&dadj-AL-LY prep|for det:art|a adv|very adj|long n|time
+	coord|and prep|in det:art|the det:num|nineteen n|twenty-PL
+	n:prop|Charles n:prop|Elton pro:rel|who aux|be&PAST&13S det:art|a
+	adv|very adv|well part|know&PASTP n|ecology-IST prep|in
+	n:prop|Britain prep|at n:prop|Oxford aux|get&PAST
+	part|interest-PASTP prep|in det:dem|these n|populate&dv-TION
+	n|cycle-PL prep|of n:gerund|let~pro:obj|me-PRESP-PL prep|in
+	n:prop|Scandinavia .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|11|DET
+	9|10|JCT 10|11|MOD 11|7|POBJ 12|11|CONJ 13|12|COORD 14|16|DET 15|16|QUANT
+	16|13|POBJ 17|18|NAME 18|13|POBJ 19|25|LINK 20|25|AUX 21|25|DET 22|23|JCT
+	23|24|JCT 24|25|MOD 25|31|SUBJ 26|25|NJCT 27|26|POBJ 28|25|NJCT
+	29|28|POBJ 30|31|AUX 31|18|COMP 32|31|JCT 33|35|DET 34|35|MOD 35|32|POBJ
+	36|35|NJCT 37|36|POBJ 38|37|OBJ 39|37|JCT 40|39|POBJ 41|5|PUNCT
+*S1:	and he was going to Norway (.) and &-uh here they were well known
+	for what are called their marches to the sea .
+%mor:	coord|and pro:sub|he aux|be&PAST&13S part|go-PRESP prep|to
+	n:prop|Norway coord|and adv|here pro:sub|they aux|be&PAST adv|well
+	part|know&PASTP prep|for pro:int|what aux|be&PRES part|call-PASTP
+	det:poss|their n|march-PL prep|to det:art|the n|sea .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|CONJ 8|12|JCT
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|7|COORD 13|12|JCT 14|16|SUBJ 15|16|AUX
+	16|13|CPOBJ 17|18|DET 18|16|OBJ 19|16|JCT 20|21|DET 21|19|POBJ 22|4|PUNCT
+*S1:	and what you would see during these peaks (.) there'd be so many
+	lemmings the ground would just be &s covered seething with lemmings
+	(.) and they would reach the edges of the fjords (.) in Norway (.)
+	at the edge of the ocean (.) and they would jump in (.) like &-uh
+	Gary Larson so nicely (.) shows here in this little cartoon .
+%mor:	coord|and pro:int|what pro:per|you mod|will&COND v|see prep|during
+	det:dem|these n|peak-PL pro:exist|there~mod|genmod aux|be adv|so
+	qn|many n:gerund|let~pro:obj|me-PRESP-PL det:art|the n|ground
+	mod|will&COND adj|just aux|be part|cover-PASTP part|seethe-PRESP
+	prep|with n:gerund|let~pro:obj|me-PRESP-PL coord|and pro:sub|they
+	mod|will&COND v|reach det:art|the n|edge-PL prep|of det:art|the
+	n|fjord-PL prep|in n:prop|Norway prep|at det:art|the n|edge prep|of
+	det:art|the n|ocean coord|and pro:sub|they mod|will&COND v|jump
+	adv|in v|like n:prop|Gary n:prop|Larson adv|so adv|nice&dadj-LY
+	n|show-PL adv|here prep|in det:dem|this adj|little n|cartoon .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|11|SUBJ 10|11|AUX 11|5|CJCT 12|13|JCT 13|14|QUANT 14|11|PRED 15|14|OBJ
+	16|17|DET 17|14|OBJ 18|21|AUX 19|21|JCT 20|21|AUX 21|17|CMOD 22|21|XJCT
+	23|22|JCT 24|23|POBJ 25|24|OBJ 26|29|LINK 27|29|SUBJ 28|29|AUX 29|24|CJCT
+	30|31|DET 31|29|OBJ 32|31|NJCT 33|34|DET 34|32|POBJ 35|29|JCT
+	36|35|POBJ 37|29|JCT 38|39|DET 39|37|POBJ 40|39|NJCT 41|42|DET 42|40|POBJ
+	43|46|LINK 44|46|SUBJ 45|46|AUX 46|29|CJCT 47|46|JCT 48|46|COMP 49|50|NAME
+	50|48|OBJ 51|52|JCT 52|50|JCT 53|52|POBJ 54|53|NJCT 55|53|NJCT 56|58|DET
+	57|58|MOD 58|55|POBJ 59|5|PUNCT
+*S1:	and so these were called the marches to the sea and like what [/]
+	what's going on with this ?
+%mor:	coord|and co|so det:dem|these aux|be&PAST v|call-PAST det:art|the
+	n|march-PL prep|to det:art|the n|sea coord|and co|like
+	pro:int|what~aux|be&3S part|go-PRESP adv|on prep|with pro:dem|this ?
+%gra:	1|5|LINK 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|15|LINK 12|15|COM 13|15|SUBJ 14|15|AUX 15|5|CJCT
+	16|15|JCT 17|15|JCT 18|17|POBJ 19|5|PUNCT
+*S1:	&-uh and they're fascinated Elton (.) and I'm gonna read a little
+	bit from his (.) paper on this (.) so he said +"/.
+%mor:	coord|and pro:sub|they~aux|be&PRES part|fascinate-PASTP
+	n:prop|Elton coord|and pro:sub|I~aux|be&1S part|go-PRESP~inf|to
+	v|read&ZERO det:art|a adj|little n|bit prep|from det:poss|his
+	n|paper prep|on pro:dem|this conj|so pro:sub|he v|say&PAST +"/.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|CJCT 10|11|INF 11|9|COMP 12|14|DET 13|14|MOD 14|11|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|11|JCT 19|18|POBJ 20|22|LINK 21|22|SUBJ 22|9|CJCT
+	23|4|PUNCT
+*S1:	+" &{l=READING every few years these (.) lemmings migrate down from
+	the lowland in immense numbers to the edge of the ocean .
+%mor:	qn|every qn|few n|year-PL det:dem|these
+	n:gerund|let~pro:obj|me-PRESP-PL v|migrate adv|down prep|from
+	det:art|the n|+adj|low+n|land prep|in adj|immense n|number-PL
+	prep|to det:art|the n|edge prep|of det:art|the n|ocean .
+%gra:	1|2|QUANT 2|3|QUANT 3|0|INCROOT 4|5|DET 5|3|CMOD 6|7|SUBJ 7|5|COMP
+	8|7|JCT 9|7|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|14|MOD 14|12|POBJ 15|7|JCT
+	16|17|DET 17|15|POBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|3|PUNCT
+*S1:	+" and the lemmings march chiefly at night (.) and may traverse
+	more than a hundred miles of country before reaching the sea (.)
+	into which they plunge (.) unhesitatingly (.) and continue to swim
+	on until they die .
+%mor:	coord|and det:art|the n:gerund|let~pro:obj|me-PRESP-PL n|march
+	adv|chief&dadj-LY prep|at n|night coord|and mod|may v|traverse
+	qn|more prep|than det:art|a det:num|hundred n|mile-PL prep|of
+	n|country adv|before part|reach-PRESP det:art|the n|sea prep|into
+	pro:int|which pro:sub|they v|plunge un#adv|hesitate&dadj-PRESP-LY
+	coord|and v|continue prep|to n|swim adv|on conj|until pro:sub|they
+	v|die .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|SUBJ 5|3|OBJ 6|5|NJCT 7|6|JCT
+	8|7|POBJ 9|5|CONJ 10|11|AUX 11|9|COORD 12|20|QUANT 13|12|JCT 14|16|DET
+	15|16|QUANT 16|13|POBJ 17|16|NJCT 18|17|POBJ 19|20|JCT 20|11|COMP 21|22|DET
+	22|20|OBJ 23|20|JCT 24|26|LINK 25|26|SUBJ 26|23|CPOBJ 27|26|OBJ 28|20|CONJ
+	29|28|COORD 30|29|JCT 31|30|POBJ 32|29|JCT 33|35|LINK 34|35|SUBJ
+	35|5|CJCT 36|1|PUNCT
+*S1:	even then they float so that their dead bodies form drifts (.) on
+	the seashore .
+%mor:	adv|even adv:tem|then pro:sub|they n|float adv|so comp|that
+	det:poss|their adj|dead n|body-PL v|form v|drift-3S prep|on
+	det:art|the n|seashore .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|INCROOT 5|4|NJCT 6|10|LINK 7|9|DET 8|9|MOD
+	9|10|SUBJ 10|5|COMP 11|10|OBJ 12|10|JCT 13|14|DET 14|12|POBJ 15|4|PUNCT
+*S1:	&}l=READING so this is the sort_of pattern that grabs your
+	attention .
+%mor:	adv|so pro:dem|this cop|be&3S det:art|the adv|sort_of n|pattern
+	pro:rel|that v|grab-3S det:poss|your n|attention .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|8|LINK 8|6|CMOD
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+*S1:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and we really want to try to explain (.) what is going on .
+%mor:	coord|and pro:sub|we adv|real&dadj-LY v|want inf|to v|try inf|to
+	v|explain pro:int|what aux|be&3S part|go-PRESP adv|on .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|8|INF 8|6|COMP
+	9|11|SUBJ 10|11|AUX 11|8|COMP 12|11|JCT 13|4|PUNCT
+*S1:	and (.) first of all these marches to the sea are very dramatic (.)
+	but in fact it's just a matter of dispersal .
+%mor:	coord|and adv|first prep|of qn|all det:dem|these n|march-PL prep|to
+	det:art|the n|sea cop|be&PRES adv|very adj|dramatic conj|but prep|in
+	n|fact pro:per|it~cop|be&3S adj|just det:art|a n|matter prep|of
+	n|dispersal .
+%gra:	1|10|LINK 2|10|JCT 3|10|JCT 4|6|QUANT 5|6|DET 6|3|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|0|ROOT 11|12|JCT 12|10|PRED 13|10|CONJ 14|17|JCT 15|14|POBJ
+	16|17|SUBJ 17|13|COORD 18|20|MOD 19|20|DET 20|17|PRED 21|20|NJCT
+	22|21|POBJ 23|10|PUNCT
+*S1:	the population is getting really high (.) and so animals are trying
+	to leave and find better areas (.) with food .
+%mor:	det:art|the n|populate&dv-TION aux|be&3S part|get-PRESP
+	adv|real&dadj-LY adj|high coord|and adv|so n|animal-PL aux|be&PRES
+	part|try-PRESP inf|to v|leave coord|and v|find adj|good&CP n|area-PL
+	prep|with n|food .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|PRED 7|11|LINK 8|11|JCT
+	9|11|SUBJ 10|11|AUX 11|6|CMOD 12|13|INF 13|11|COMP 14|13|CONJ 15|14|COORD
+	16|17|MOD 17|15|OBJ 18|17|NJCT 19|18|POBJ 20|4|PUNCT
+*S1:	and so there's a natural dispersal (.) and it turns out some
+	populations (.) happen to disperse towards the &en edges of these
+	cliffs and [?] the ocean (.) and they basically get pushed over (.)
+	or happen to fall over whatever they're obviously not committing
+	suicide as some people have called these (.) suicidal marches and
+	they aren't marching to the sea (.) they're just trying to disperse
+	(.) and find better habitats .
+%mor:	coord|and adv|so pro:exist|there~cop|be&3S det:art|a adj|natural
+	n|dispersal coord|and pro:per|it v|turn-3S adv|out qn|some
+	n|populate&dv-TION-PL v|happen inf|to v|disperse prep|towards
+	det:art|the n|edge-PL prep|of det:dem|these n|cliff-PL coord|and
+	det:art|the n|ocean coord|and pro:sub|they adv|basic&dadj-AL-LY
+	v|get part|push-PASTP adv|over coord|or v|happen inf|to v|fall
+	adv|over pro:int|whatever pro:sub|they~aux|be&PRES
+	adv|obvious&dadj-LY neg|not part|commit-PRESP n|suicide conj|as
+	qn|some n|person&PL v|have part|call-PASTP det:dem|these
+	adj|suicidal n|march-PL coord|and pro:sub|they aux|be&PRES~neg|not
+	part|march-PRESP prep|to det:art|the n|sea pro:sub|they~aux|be&PRES
+	adv|just part|try-PRESP inf|to v|disperse coord|and v|find
+	adj|good&CP n|habitat-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|JCT 12|13|QUANT 13|14|SUBJ 14|10|COMP 15|16|INF
+	16|14|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|19|NJCT 21|22|DET
+	22|20|POBJ 23|16|CONJ 24|25|DET 25|23|COORD 26|29|LINK 27|29|SUBJ 28|29|JCT
+	29|25|CMOD 30|29|COMP 31|30|JCT 32|30|CONJ 33|32|COORD 34|35|INF 35|33|COMP
+	36|35|JCT 37|42|LINK 38|42|SUBJ 39|42|AUX 40|42|JCT 41|40|NEG 42|30|COMP
+	43|42|OBJ 44|47|LINK 45|46|QUANT 46|47|SUBJ 47|42|CJCT 48|47|COMP
+	49|51|DET 50|51|MOD 51|48|OBJ 52|56|LINK 53|56|SUBJ 54|56|AUX 55|54|NEG
+	56|48|CJCT 57|56|JCT 58|59|DET 59|57|POBJ 60|63|SUBJ 61|63|AUX 62|63|JCT
+	63|56|XJCT 64|65|INF 65|63|COMP 66|65|CONJ 67|66|COORD 68|69|MOD 69|67|OBJ
+	70|4|PUNCT
+*S1:	so these &-uh &-uh drownding [: drowning] [* p:n] in the sea does
+	not (.) explain the cycles .
+%mor:	adv|so pro:dem|these part|drown-PRESP prep|in det:art|the n|sea
+	mod|do&3S neg|not v|explain det:art|the n|cycle-PL .
+%gra:	1|2|JCT 2|3|SUBJ 3|9|SUBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|9|AUX 8|7|NEG
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|9|PUNCT
+*S1:	that's not what causes (.) these cycles &-uh these peak numbers (.)
+	to decrease .
+%mor:	pro:dem|that~cop|be&3S neg|not pro:int|what n|cause-PL
+	det:dem|these n|cycle-PL det:dem|these n|peak v|number-3S inf|to
+	v|decrease .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|10|LINK 5|10|SUBJ 6|7|DET 7|10|JCT 8|9|DET
+	9|10|SUBJ 10|2|CPRED 11|12|INF 12|10|COMP 13|2|PUNCT
+*S1:	it's not that many (.) individuals that are involved .
+%mor:	pro:per|it~cop|be&3S neg|not comp|that qn|many n|individual-PL
+	pro:rel|that aux|be&PRES part|involve-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|6|QUANT 6|4|OBJ 7|9|LINK 8|9|AUX
+	9|6|CMOD 10|2|PUNCT
+*S1:	and also these decreases (.) are equally dramatic .
+%mor:	coord|and adv|also det:dem|these n|decrease-PL cop|be&PRES
+	adv|equal&dadj-LY adj|dramatic .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|PUNCT
+*S1:	when they're in a low (.) you can hardly find a [x 3] lemming .
+%mor:	conj|when pro:sub|they~cop|be&PRES prep|in det:art|a n|low
+	pro:per|you mod|can adv|hard&dadj-LY v|find det:art|a
+	n:gerund|let~pro:obj|me-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|10|CJCT 4|3|JCT 5|6|DET 6|4|POBJ 7|10|SUBJ 8|10|AUX
+	9|10|JCT 10|0|ROOT 11|12|DET 12|10|OBJ 13|12|OBJ 14|10|PUNCT
+*S1:	you can go out and search (.) and (.) you may not see a single one
+	.
+%mor:	pro:per|you mod|can v|go adv|out coord|and n|search coord|and
+	pro:per|you mod|may neg|not v|see det:art|a n|single pro:indef|one .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|3|CJCT 12|13|DET 13|11|OBJ 14|13|POSTMOD
+	15|3|PUNCT
+*S1:	so very dramatic (.) population cycles .
+%mor:	adv|so adv|very adj|dramatic n|populate&dv-TION n|cycle-PL .
+%gra:	1|3|JCT 2|3|JCT 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*S1:	and (.) people have tried to explain this for a long time (.) and I
+	like this explanation (.) that I wanted to just (.) tell you about .
+%mor:	coord|and n|person&PL v|have v|try-PAST inf|to v|explain
+	det:dem|this prep|for det:art|a adj|long n|time coord|and pro:sub|I
+	v|like pro:dem|this n|explanation comp|that pro:sub|I v|want-PAST
+	inf|to adj|just v|tell pro:per|you adv|about .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|6|INF 6|4|COMP 7|6|OBJ 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|16|DET
+	16|14|OBJ 17|19|LINK 18|19|SUBJ 19|16|CMOD 20|22|INF 21|22|JCT 22|19|COMP
+	23|22|OBJ 24|22|JCT 25|3|PUNCT
+*S1:	this was in fifteen thirty two (.) and there was actually an
+	explanation written about this (.) and the explanation is shown in
+	this wood cut .
+%mor:	pro:dem|this cop|be&PAST&13S prep|in det:num|fifteen det:num|thirty
+	det:num|two coord|and adv|there cop|be&PAST&13S adv|actual&dadj-LY
+	det:art|a n|explanation part|write&PASTP prep|about pro:dem|this
+	coord|and det:art|the n|explanation aux|be&3S part|show&PASTP
+	prep|in det:dem|this n|wood n|cut .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|9|QUANT 7|6|CONJ
+	8|7|COORD 9|2|CJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|12|XMOD 14|13|JCT
+	15|14|POBJ 16|20|LINK 17|18|DET 18|20|SUBJ 19|20|AUX 20|15|CJCT 21|20|JCT
+	22|24|DET 23|24|MOD 24|21|POBJ 25|2|PUNCT
+*S1:	and their explanation was that the lemmings fell from the sky (.)
+	and were eaten then by ermine [//] ermines which are these &-uh
+	weasels that turn white (.) in the summer (.) I mean in the winter
+	sorry .
+%mor:	coord|and det:poss|their n|explanation cop|be&PAST&13S comp|that
+	det:art|the n:gerund|let~pro:obj|me-PRESP-PL v|fall&PAST prep|from
+	det:art|the n|sky coord|and aux|be&PAST part|eat&PASTP adv:tem|then
+	adv|by n|ermine-PL pro:int|which cop|be&PRES det:dem|these
+	n|weasel-PL det:dem|that n|turn adj|white prep|in det:art|the
+	n|summer pro:sub|I v|mean prep|in det:art|the n|winter co|sorry .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|DET 7|4|PRED 8|9|SUBJ
+	9|7|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|9|CONJ 14|15|AUX 15|13|COORD
+	16|15|JCT 17|15|JCT 18|17|POBJ 19|20|LINK 20|18|CMOD 21|22|DET 22|20|PRED
+	23|24|DET 24|30|JCT 25|24|POSTMOD 26|25|JCT 27|28|DET 28|26|POBJ
+	29|30|SUBJ 30|22|CMOD 31|30|JCT 32|33|DET 33|31|POBJ 34|30|COM 35|4|PUNCT
+*S1:	they're [/] they're pretty [/] pretty too (.) but &-uh and here's
+	the picture of these weasels eating (.) these little lemmings .
+%mor:	pro:sub|they~cop|be&PRES adv|pretty adv|too conj|but coord|and
+	pro:exist|here~cop|be&3S det:art|the n|picture prep|of det:dem|these
+	n|weasel-PL part|eat-PRESP det:dem|these adj|little
+	n:gerund|let~pro:obj|me-PRESP-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|CONJ 6|8|LINK 7|8|SUBJ 8|5|COORD
+	9|10|DET 10|8|PRED 11|10|NJCT 12|13|DET 13|11|POBJ 14|10|XMOD 15|17|DET
+	16|17|MOD 17|14|OBJ 18|17|OBJ 19|2|PUNCT
+*S1:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and the interesting thing this is a little idea about how science
+	the [/] the time difference that we have (.) because (.) in &-uh
+	this explanation was given in fifteen thirty two (.) and (.) it was
+	confirmed (.) in fifteen ninety nine (.) by (.) eyewitnesses (.) who
+	were reliable men of great veracity or truth .
+%mor:	coord|and det:art|the adj|interesting n|thing det:dem|this
+	cop|be&3S det:art|a adj|little n|idea adv|about pro:rel|how
+	n|science det:art|the n|time n|difference pro:rel|that pro:sub|we
+	v|have conj|because prep|in det:dem|this n|explanation
+	aux|be&PAST&13S part|give&PASTP prep|in det:num|fifteen
+	det:num|thirty det:num|two coord|and pro:per|it aux|be&PAST&13S
+	part|confirm-PASTP prep|in det:num|fifteen det:num|ninety
+	det:num|nine prep|by n|+n|eye+n|witness-PL pro:rel|who cop|be&PAST
+	adj|rely&dv-ABLE n|man&PL prep|of adj|great n|veracity coord|or
+	n|truth .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|DET 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|PRED 10|9|NJCT 11|15|LINK 12|15|MOD 13|15|DET 14|15|MOD 15|10|INCROOT
+	16|18|LINK 17|18|SUBJ 18|15|CMOD 19|24|LINK 20|24|JCT 21|22|DET 22|20|POBJ
+	23|24|AUX 24|18|COMP 25|24|JCT 26|27|QUANT 27|28|QUANT 28|31|QUANT
+	29|28|CONJ 30|29|COORD 31|25|POBJ 32|31|PRED 33|32|JCT 34|35|QUANT
+	35|36|QUANT 36|33|POBJ 37|36|JCT 38|37|POBJ 39|40|LINK 40|38|CMOD 41|42|MOD
+	42|40|PRED 43|42|NJCT 44|45|MOD 45|43|POBJ 46|40|CONJ 47|46|COORD 48|15|PUNCT
+*S1:	so that was the state of science in the fifteen hundreds and see
+	how long it took (.) for them (.) to even test this &-uh hypothesis
+	.
+%mor:	co|so pro:dem|that cop|be&PAST&13S det:art|the n|state prep|of
+	n|science prep|in det:art|the det:num|fifteen n|hundred-PL coord|and
+	v|see pro:int|how adj|long pro:per|it v|take&PAST prep|for
+	pro:obj|them inf|to adj|even v|test det:dem|this n|hypothesis .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|7|NJCT
+	9|11|DET 10|11|QUANT 11|8|POBJ 12|3|CONJ 13|12|COORD 14|15|JCT 15|17|PRED
+	16|17|SUBJ 17|13|COMP 18|17|JCT 19|22|SUBJ 20|22|INF 21|22|JCT
+	22|18|CPOBJ 23|24|DET 24|22|OBJ 25|3|PUNCT
+*S1:	and of_course Elton didn't (.) really buy this explanation as I
+	don't think anyone here is going to do .
+%mor:	coord|and co|of_course n:prop|Elton mod|do&PAST~neg|not
+	adv|real&dadj-LY v|buy det:dem|this n|explanation conj|as pro:sub|I
+	mod|do~neg|not v|think pro:indef|anyone adv|here aux|be&3S
+	part|go-PRESP inf|to v|do .
+%gra:	1|7|LINK 2|7|COM 3|7|SUBJ 4|7|AUX 5|4|NEG 6|7|JCT 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|14|LINK 11|14|SUBJ 12|14|AUX 13|12|NEG 14|7|CJCT 15|14|OBJ
+	16|18|JCT 17|18|AUX 18|14|XJCT 19|20|INF 20|18|COMP 21|7|PUNCT
+*S1:	and so he wanted to look for (.) what factors are actually
+	determining (.) these population cycles (.) that are just so [/] so
+	dramatic (.) and (.) one of the first factors (.) that &-uh he
+	thought about and others (.) was &-uh could it be weather ?
+%mor:	coord|and co|so pro:sub|he v|want-PAST inf|to v|look prep|for
+	pro:int|what n|factor-PL aux|be&PRES adv|actual&dadj-LY
+	part|determine-PRESP det:dem|these n|populate&dv-TION n|cycle-PL
+	pro:rel|that cop|be&PRES adv|just adv|so adj|dramatic coord|and
+	det:num|one prep|of det:art|the adj|first n|factor-PL comp|that
+	pro:sub|he v|think&PAST adv|about coord|and n:pt|others
+	cop|be&PAST&13S mod|could pro:per|it aux|be n|weather ?
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|7|CPOBJ 13|15|DET 14|15|MOD 15|12|OBJ
+	16|17|LINK 17|15|CMOD 18|17|JCT 19|20|JCT 20|17|PRED 21|20|CONJ 22|21|COORD
+	23|22|NJCT 24|26|DET 25|26|MOD 26|23|POBJ 27|29|LINK 28|29|SUBJ
+	29|20|CMOD 30|33|JCT 31|30|CONJ 32|31|COORD 33|29|COMP 34|37|AUX 35|37|SUBJ
+	36|37|AUX 37|33|PRED 38|4|PUNCT
+*S1:	that is somehow (.) there's a cycle in the weather and these are
+	the good years and those are the bad years .
+%mor:	pro:dem|that cop|be&3S adv|somehow pro:exist|there~cop|be&3S
+	det:art|a n|cycle prep|in det:art|the n|weather coord|and
+	pro:dem|these cop|be&PRES det:art|the adj|good n|year-PL coord|and
+	pro:dem|those cop|be&PRES det:art|the adj|bad n|year-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|SUBJ 5|2|PRED 6|7|DET 7|5|PRED 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|7|CONJ 12|11|COORD 13|7|CMOD 14|16|DET 15|16|MOD
+	16|13|PRED 17|16|CONJ 18|17|COORD 19|16|CMOD 20|22|DET 21|22|MOD
+	22|19|PRED 23|2|PUNCT
+*S1:	mkay ?
+%mor:	co|mkay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and people looked at this for a long time (.) but there just aren't
+	any weather patterns that are that regular for that long .
+%mor:	coord|and n|person&PL v|look-PAST prep|at det:dem|this prep|for
+	det:art|a adj|long n|time conj|but pro:exist|there adj|just
+	aux|be&PRES~neg|not qn|any n|weather v|pattern-3S comp|that
+	cop|be&PRES det:dem|that adj|regular prep|for adv|that adv|long .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|DET 8|9|MOD
+	9|6|POBJ 10|17|LINK 11|17|SUBJ 12|17|JCT 13|15|AUX 14|13|NEG 15|16|QUANT
+	16|17|SUBJ 17|3|CJCT 18|17|OBJ 19|18|CPOBJ 20|21|DET 21|19|PRED 22|21|JCT
+	23|24|JCT 24|22|POBJ 25|3|PUNCT
+*S1:	so it just has never held up .
+%mor:	co|so pro:per|it adv|just aux|have&3S adv|never v|hold&PAST adv|up
+	.
+%gra:	1|6|COM 2|6|SUBJ 3|4|JCT 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*S1:	and we just cannot explain (.) these cycles this may determine some
+	of the population numbers at times (.) but it does not explain this
+	sorta regulation &-uh with cycles .
+%mor:	coord|and pro:sub|we adv|just mod|can~neg|not ex#adj|plain
+	det:dem|these n|cycle-PL det:dem|this mod|may v|determine
+	pro:indef|some prep|of det:art|the n|populate&dv-TION n|number-PL
+	prep|at n|time-PL conj|but pro:per|it mod|do&3S neg|not ex#adj|plain
+	pro:dem|this adv|sorta n|regulate&dv-TION prep|with n|cycle-PL .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|DET 8|11|JCT
+	9|11|SUBJ 10|11|AUX 11|6|COMP 12|11|OBJ 13|12|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|11|JCT 18|17|POBJ 19|23|LINK 20|23|SUBJ 21|23|AUX 22|21|NEG
+	23|6|CJCT 24|23|NJCT 25|26|JCT 26|24|POBJ 27|26|NJCT 28|27|POBJ 29|6|PUNCT
+*S1:	so (.) people have dismissed that .
+%mor:	co|so n|person&PL v|have v|dismiss-PAST pro:dem|that .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|OBJ 6|3|PUNCT
+*S1:	now it is very interesting (.) that if you go back and look at the
+	(.) hare lynx cycle (.) this hare cycle (.) which is &-uh nine to
+	ten years (.) nine to eleven years I guess and then it just varies .
+%mor:	adv|now pro:per|it cop|be&3S adv|very adj|interesting comp|that
+	conj|if pro:per|you v|go adv|back coord|and v|look prep|at
+	det:art|the n|hare n|lynx v|cycle det:dem|this n|hare n|cycle
+	pro:rel|which cop|be&3S det:num|nine prep|to det:num|ten n|year-PL
+	det:num|nine prep|to det:num|eleven n|year-PL pro:sub|I v|guess
+	coord|and adv:tem|then pro:per|it adv|just v|vary-3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|17|LINK 7|9|LINK 8|9|SUBJ
+	9|17|CJCT 10|9|JCT 11|9|CONJ 12|11|COORD 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|5|CMOD 18|20|DET 19|20|MOD 20|17|OBJ 21|22|LINK 22|20|CMOD
+	23|32|QUANT 24|23|NJCT 25|26|QUANT 26|24|POBJ 27|32|XJCT 28|27|JCT
+	29|30|QUANT 30|28|POBJ 31|32|SUBJ 32|22|CPRED 33|37|LINK 34|37|JCT 35|37|SUBJ
+	36|37|JCT 37|32|CJCT 38|3|PUNCT
+*S1:	&-uh people did think there is something (.) that varies on that
+	kind of cycle .
+%mor:	n|person&PL mod|do&PAST v|think adv|there cop|be&3S
+	pro:indef|something pro:rel|that v|vary-3S prep|on adv|that adj|kind
+	prep|of n|cycle .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|PRED 7|8|LINK 8|6|CMOD
+	9|8|JCT 10|11|JCT 11|9|POBJ 12|11|JCT 13|12|POBJ 14|3|PUNCT
+*S1:	do people know what that is ?
+%mor:	mod|do n|person&PL v|know pro:int|what adv|that cop|be&3S ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|JCT 6|3|COMP 7|3|PUNCT
+*S1:	+, I think I hear it sunspots .
+%mor:	pro:sub|I v|think pro:sub|I v|hear pro:per|it n|sunspot-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|MOD 6|4|OBJ 7|2|PUNCT
+*S1:	so people have actually looked to see (.) if for the snowshoe hare
+	(.) this is related to sunspots .
+%mor:	adv|so n|person&PL v|have adv|actual&dadj-LY v|look-PAST inf|to
+	v|see conj|if prep|for det:art|the n|+n|snow+n|shoe n|hare
+	pro:dem|this aux|be&3S part|relate-PASTP prep|to n|sunspot-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|COMP 6|7|INF 7|5|COMP 8|15|LINK
+	9|15|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|SUBJ 14|15|AUX 15|7|COMP
+	16|15|JCT 17|16|POBJ 18|3|PUNCT
+*S1:	because they tend to flare up about &ele every eleven years .
+%mor:	conj|because pro:sub|they v|tend inf|to v|flare adv|up prep|about
+	qn|every det:num|eleven n|year-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|JCT 8|10|QUANT
+	9|10|QUANT 10|7|POBJ 11|3|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so these other cycles (.) they wouldn't explain the microtine
+	rodents but maybe it would explain the snowshoe hare .
+%mor:	adv|so pro:dem|these qn|other n|cycle-PL pro:sub|they
+	mod|will&COND~neg|not v|explain det:art|the micro#n|tine n|rodent-PL
+	conj|but adv|maybe pro:per|it mod|will&COND v|explain det:art|the
+	n|+n|snow+n|shoe n|hare .
+%gra:	1|2|JCT 2|8|SUBJ 3|4|QUANT 4|8|JCT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|11|DET 10|11|MOD 11|8|OBJ 12|16|LINK 13|16|JCT 14|16|SUBJ 15|16|AUX
+	16|8|CJCT 17|19|DET 18|19|MOD 19|16|OBJ 20|8|PUNCT
+*S1:	and it turns out that (.) this did fit for quite a while but then
+	things got out_of synchrony .
+%mor:	coord|and pro:per|it v|turn-3S adv|out comp|that pro:dem|this
+	v|do&PAST n|fit prep|for adv|quite det:art|a n|while conj|but
+	adv:tem|then n|thing-PL v|get&PAST prep|out_of n|synchrony .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|3|COMP 8|7|OBJ
+	9|7|JCT 10|12|JCT 11|12|DET 12|9|POBJ 13|16|LINK 14|16|JCT 15|16|SUBJ
+	16|3|CJCT 17|16|JCT 18|17|POBJ 19|3|PUNCT
+*S1:	and (.) it didn't work .
+%mor:	coord|and pro:per|it mod|do&PAST~neg|not v|work .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*S1:	so (.) the evidence is not looking good for that +...
+%mor:	co|so det:art|the n|evidence aux|be&3S neg|not part|look-PRESP
+	adj|good prep|for pro:dem|that +...
+%gra:	1|6|COM 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PRED 8|7|JCT
+	9|8|POBJ 10|6|PUNCT
+*S1:	(o)kay +...
+%mor:	co|okay +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so people started looking at other factors particularly biotic
+	factors (.) and (.) one of (th)em was the thought of well what about
+	predators or predation &-uh such as these (.) little weasels these
+	ermines on the microtine rodents ?
+%mor:	co|so n|person&PL v|start-PAST part|look-PRESP prep|at qn|other
+	n|factor-PL adv|particular&dadj-LY n|biotic n|factor-PL coord|and
+	det:num|one prep|of pro:obj|them aux|be&PAST&13S det:art|the
+	part|think&PASTP prep|of adv|well pro:int|what adv|about
+	n|predator-PL coord|or pre#n|date&dv-TION qn|such adv|as
+	det:dem|these adj|little n|weasel-PL det:dem|these n|ermine-PL
+	prep|on det:art|the micro#n|tine n|rodent-PL ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|7|QUANT 7|5|POBJ 8|9|JCT
+	9|10|MOD 10|17|SUBJ 11|10|CONJ 12|11|COORD 13|12|NJCT 14|13|POBJ
+	15|17|AUX 16|17|DET 17|4|XJCT 18|17|JCT 19|18|POBJ 20|22|DET 21|22|JCT
+	22|19|COBJ 23|22|CONJ 24|29|DET 25|26|QUANT 26|29|COORD 27|29|DET 28|29|MOD
+	29|23|COORD 30|31|DET 31|29|OBJ 32|29|JCT 33|35|DET 34|35|MOD 35|32|POBJ
+	36|3|PUNCT
+*S1:	because that could cause &-uh cycles .
+%mor:	conj|because adv|that mod|could n|cause n|cycle-PL .
+%gra:	1|5|LINK 2|5|JCT 3|5|AUX 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*S1:	if you look at &-uh how predation might change (.) as the
+	population grows (.) we might see &-uh cycles occurring .
+%mor:	comp|if pro:per|you v|look prep|at pro:int|how pre#n|date&dv-TION
+	n|might n|change prep|as det:art|the n|populate&dv-TION v|grow-3S
+	pro:sub|we mod|might v|see n|cycle-PL part|occur-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|12|LINK 6|8|MOD 7|8|MOD 8|12|SUBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|4|CPOBJ 13|15|SUBJ 14|15|AUX 15|12|COMP
+	16|15|OBJ 17|16|XMOD 18|3|PUNCT
+*S1:	and (.) let's just look at (.) just with you think about it makes
+	sense .
+%mor:	coord|and v|let~pro:obj|us adv|just v|look prep|at adj|just
+	prep|with pro:per|you v|think prep|about pro:per|it v|make-3S
+	n|sense .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|CJCT 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|10|SUBJ 10|8|POBJ 11|13|JCT 12|13|SUBJ 13|10|COMP 14|13|OBJ 15|2|PUNCT
+*S1:	we have a high prey population (.) and (.) the predators then eat
+	a_lot and they're doing really well so they (.) reach a very high
+	level .
+%mor:	pro:sub|we v|have det:art|a n|high n|prey n|populate&dv-TION
+	coord|and det:art|the n|predator-PL adv:tem|then v|eat adv|a_lot
+	coord|and pro:sub|they~aux|be&PRES part|do-PRESP adv|real&dadj-LY
+	adv|well conj|so pro:sub|they v|reach det:art|a adv|very adj|high
+	n|level .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|11|SUBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|11|JCT 11|2|COMP 12|11|JCT 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|11|COMP 17|18|JCT 18|16|JCT 19|21|LINK 20|21|SUBJ 21|2|CJCT 22|25|DET
+	23|24|JCT 24|25|MOD 25|21|OBJ 26|2|PUNCT
+*S1:	but then (.) as they eat up <the prey> [/] the prey start declining
+	(.) and then the predators can't get as much food (.) and they start
+	declining even through lower birth rates or higher death rates .
+%mor:	conj|but adv:tem|then conj|as pro:sub|they v|eat adv|up det:art|the
+	n|prey v|start part|decline-PRESP coord|and adv:tem|then det:art|the
+	n|predator-PL mod|can~neg|not v|get adv|as adv|much n|food coord|and
+	pro:sub|they v|start part|decline-PRESP adv|even adj|through v|lower
+	n|birth n|rate-PL coord|or adj|high-CP n|death n|rate-PL .
+%gra:	1|9|LINK 2|9|JCT 3|5|LINK 4|5|SUBJ 5|9|CJCT 6|5|JCT 7|8|DET 8|9|SUBJ
+	9|0|ROOT 10|9|COMP 11|10|CONJ 12|17|JCT 13|14|DET 14|17|SUBJ 15|17|AUX
+	16|15|NEG 17|11|COORD 18|20|COORD 19|20|JCT 20|17|PRED 21|23|LINK
+	22|23|SUBJ 23|20|CJCT 24|23|COMP 25|24|JCT 26|24|JCT 27|26|CMOD 28|29|MOD
+	29|27|OBJ 30|29|CONJ 31|33|MOD 32|33|MOD 33|30|COORD 34|9|PUNCT
+*S1:	and [/] and then when the predators get rare (.) the prey can start
+	increasing again .
+%mor:	coord|and adv:tem|then conj|when det:art|the n|predator-PL v|get
+	adj|rare det:art|the n|prey n|can v|start part|increase-PRESP
+	adv|again .
+%gra:	1|11|LINK 2|11|JCT 3|6|LINK 4|5|DET 5|6|SUBJ 6|11|CJCT 7|6|PRED
+	8|10|DET 9|10|MOD 10|11|SUBJ 11|0|ROOT 12|11|COMP 13|12|JCT 14|11|PUNCT
+*S1:	so you can see where we might have (.) the predation (.) actually
+	(.) set up (.) cycles (.) in their prey .
+%mor:	co|so pro:per|you mod|can v|see pro:int|where pro:sub|we mod|might
+	v|have det:art|the pre#n|date&dv-TION adv|actual&dadj-LY
+	part|set&PASTP adv|up n|cycle-PL prep|in det:poss|their n|prey .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|10|DET 10|8|OBJ 11|12|JCT 12|10|XMOD 13|12|JCT 14|13|POBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|4|PUNCT
+*S1:	and people have done &-uh predator prey models (.) and &-uh
+	Doctor_Warner's gonna be talking about this aspect (.) he'll be
+	starting your lecture next week and you'll talking about all these
+	interactions &-uh and including predator prey (.) models so (.)
+	he'll talk about that a little more but I think intuitively you can
+	see (.) how predation could cause a cycle .
+%mor:	coord|and n|person&PL v|have part|do&PASTP n|predator n|prey
+	n|model-PL coord|and adj|Doctor_Warner&dn-POSS part|go-PRESP~inf|to
+	aux|be part|talk-PRESP prep|about det:dem|this n|aspect
+	pro:sub|he~mod|will aux|be part|start-PRESP det:poss|your n|lecture
+	adj|next n|week coord|and pro:per|you~mod|will part|talk-PRESP
+	prep|about qn|all det:dem|these inter#n|action-PL coord|and
+	part|include-PRESP n|predator n|prey v|model-3S adv|so
+	pro:sub|he~mod|will v|talk prep|about comp|that det:art|a adj|little
+	adv|more conj|but pro:sub|I v|think adv|intuitive&dadj-LY
+	pro:per|you mod|can v|see pro:int|how pre#n|date&dv-TION mod|could
+	v|cause det:art|a n|cycle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|7|MOD 6|7|MOD 7|4|OBJ 8|7|CONJ
+	9|8|COORD 10|20|XJCT 11|13|INF 12|13|AUX 13|10|COMP 14|13|JCT 15|16|DET
+	16|14|POBJ 17|20|SUBJ 18|20|AUX 19|20|AUX 20|7|CMOD 21|22|DET 22|24|MOD
+	23|24|MOD 24|20|OBJ 25|28|LINK 26|28|SUBJ 27|28|AUX 28|20|CJCT 29|28|JCT
+	30|31|QUANT 31|32|DET 32|29|POBJ 33|37|LINK 34|37|XJCT 35|36|MOD
+	36|37|SUBJ 37|32|CJCT 38|41|JCT 39|41|SUBJ 40|41|AUX 41|37|COMP 42|41|JCT
+	43|53|LINK 44|46|DET 45|46|MOD 46|53|JCT 47|49|LINK 48|49|SUBJ 49|53|CJCT
+	50|49|JCT 51|53|SUBJ 52|53|AUX 53|42|CPOBJ 54|57|LINK 55|57|SUBJ 56|57|AUX
+	57|53|COMP 58|59|DET 59|57|OBJ 60|3|PUNCT
+*S1:	and so what you can get (.) with &-uh predator prey interactions
+	(.) are what are called coupled (.) oscillations +...
+%mor:	coord|and adv|so pro:int|what pro:per|you mod|can v|get prep|with
+	n|predator n|prey inter#n|action-PL cop|be&PRES pro:int|what
+	aux|be&PRES part|call-PASTP part|couple-PASTP n|oscillate&dv-TION-PL
+	+...
+%gra:	1|6|LINK 2|3|JCT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|11|SUBJ 11|6|CJCT 12|14|LINK 13|14|AUX 14|11|CPRED 15|14|XJCT
+	16|15|OBJ 17|6|PUNCT
+*S1:	you may not get them but you can (.) get these (.) in models and
+	they've actually done laboratory experiments where they've been able
+	to find &-uh these coupled oscillations in &-uh insect and as a
+	parasitory .
+%mor:	pro:per|you mod|may neg|not v|get pro:obj|them conj|but pro:per|you
+	mod|can v|get pro:dem|these prep|in n|model-PL coord|and
+	pro:sub|they~aux|have adv|actual&dadj-LY part|do&PASTP n|laboratory
+	n|experiment-PL pro:rel|where pro:sub|they~aux|have cop|be&PASTP
+	adj|able inf|to v|find det:dem|these part|couple-PASTP
+	n|oscillate&dv-TION-PL prep|in n|insect coord|and prep|as det:art|a
+	adj|parasitory .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|CJCT 10|9|OBJ 11|9|JCT 12|11|POBJ 13|17|LINK 14|17|SUBJ 15|17|AUX
+	16|17|JCT 17|9|CJCT 18|19|MOD 19|17|OBJ 20|23|LINK 21|23|SUBJ 22|23|AUX
+	23|19|CMOD 24|23|PRED 25|26|INF 26|24|XMOD 27|26|OBJ 28|27|XMOD 29|28|OBJ
+	30|28|JCT 31|30|POBJ 32|28|CONJ 33|32|COORD 34|35|DET 35|33|POBJ 36|4|PUNCT
+*S1:	so and this is really due to a time delay .
+%mor:	adv|so coord|and pro:dem|this cop|be&3S adv|real&dadj-LY adj|due
+	prep|to det:art|a n|time n|delay .
+%gra:	1|4|JCT 2|1|CONJ 3|2|COORD 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+*S1:	(o)kay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	or a time lag .
+%mor:	coord|or det:art|a n|time n|lag .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*S1:	because a predator's lagging (.) behind the prey .
+%mor:	conj|because det:art|a n|predator~aux|be&3S part|lag-PRESP
+	prep|behind det:art|the n|prey .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so we're back to our sorta idea of how (.) we could generate cycles
+	in our models .
+%mor:	adv|so pro:sub|we~cop|be&PRES adv|back prep|to det:poss|our
+	adv|sorta n|idea prep|of pro:int|how pro:sub|we mod|could v|generate
+	n|cycle-PL prep|in det:poss|our n|model-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|DET 7|8|JCT 8|5|POBJ
+	9|8|NJCT 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CPOBJ 14|13|OBJ 15|13|JCT
+	16|17|DET 17|15|POBJ 18|3|PUNCT
+*S1:	so we can see through models then (.) that predators could cause
+	cycles (.) but is that what's causing the cycles we actually see (.)
+	in nature ?
+%mor:	co|so pro:sub|we mod|can v|see adj|through n|model-PL adv:tem|then
+	comp|that n|predator-PL mod|could n|cause n|cycle-PL conj|but
+	cop|be&3S comp|that pro:int|what~aux|be&3S part|cause-PRESP
+	det:art|the n|cycle-PL pro:sub|we adv|actual&dadj-LY co|see prep|in
+	n|nature ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|COMP 7|12|JCT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|12|MOD 12|6|APP 13|4|CONJ 14|13|COORD 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|14|CPRED 19|20|DET 20|18|OBJ 21|23|SUBJ 22|23|JCT
+	23|20|CMOD 24|23|JCT 25|24|POBJ 26|4|PUNCT
+*S1:	and (.) we tend to focus on (.) predators because they're so cool
+	(.) I guess .
+%mor:	coord|and pro:sub|we v|tend prep|to n|focus prep|on n|predator-PL
+	conj|because pro:sub|they~cop|be&PRES adv|so adj|cool pro:sub|I
+	v|guess .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|6|POBJ 8|10|LINK
+	9|10|SUBJ 10|14|CJCT 11|12|JCT 12|10|PRED 13|14|SUBJ 14|3|CJCT
+	15|3|PUNCT
+*S1:	but let's also think there's another sort_of predator prey &-uh
+	&-uh interaction going on here (.) and that is that these animals
+	(.) eat plants .
+%mor:	conj|but v|let~pro:obj|us adv|also v|think
+	pro:exist|there~cop|be&3S qn|another adv|sort_of n|predator n|prey
+	inter#n|action part|go-PRESP prep|on n|here coord|and pro:rel|that
+	cop|be&3S adv|that det:dem|these n|animal-PL v|eat n|plant-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|COMP 6|7|SUBJ 7|5|COMP 8|11|QUANT
+	9|10|JCT 10|11|MOD 11|7|PRED 12|11|NJCT 13|12|XMOD 14|13|JCT 15|14|POBJ
+	16|15|CONJ 17|18|LINK 18|16|COORD 19|22|JCT 20|21|DET 21|22|SUBJ
+	22|18|CPRED 23|22|OBJ 24|2|PUNCT
+*S1:	the lemmings eat sedges .
+%mor:	det:art|the n:gerund|let~pro:obj|me-PRESP-PL v|eat n|sedge-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*S1:	the hares browse on twigs .
+%mor:	det:art|the n|hare-PL v|browse prep|on n|twig-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*S1:	and so we could also imagine this (.) same oscillation going on (.)
+	with the food (.) or plants (.) and food quantity (.) and quality
+	(.) that is how nutritious the food is (.) and the herbivores .
+%mor:	coord|and co|so pro:sub|we mod|could adv|also v|imagine
+	det:dem|this adj|same n|oscillate&dv-TION part|go-PRESP adv|on
+	prep|with det:art|the n|food coord|or n|plant-PL coord|and n|food
+	n|quantity coord|and n|quality pro:rel|that cop|be&3S pro:int|how
+	adj|nutritious det:art|the n|food cop|be&3S coord|and det:art|the
+	n|herbivore-PL .
+%gra:	1|6|LINK 2|6|COM 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|XMOD 11|10|JCT 12|10|JCT 13|14|DET 14|12|POBJ 15|14|CONJ
+	16|15|COORD 17|14|CONJ 18|19|MOD 19|17|COORD 20|14|CONJ 21|20|COORD 22|23|LINK
+	23|14|CMOD 24|25|JCT 25|28|PRED 26|27|DET 27|28|SUBJ 28|23|PRED
+	29|28|CONJ 30|31|DET 31|29|COORD 32|6|PUNCT
+*S1:	so we basically have a predator prey &-uh cycle .
+%mor:	co|so pro:sub|we adv|basic&dadj-AL-LY v|have det:art|a n|predator
+	n|prey n|cycle .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+*S1:	that could be (.) through effects on the food .
+%mor:	adv|that mod|could cop|be adj|through n|effect-PL prep|on
+	det:art|the n|food .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*S1:	the food that [?] the (.) lemmings eat out <the food> [/] the food
+	&de &-uh decreases the lemmings decrease (.) and then the plants can
+	recover .
+%mor:	det:art|the n|food pro:rel|that det:art|the
+	n:gerund|let~pro:obj|me-PRESP-PL v|eat prep|out det:art|the n|food
+	v|decrease-3S det:art|the n:gerund|let~pro:obj|me-PRESP-PL
+	n|decrease coord|and adv:tem|then det:art|the n|plant-PL mod|can
+	v|recover .
+%gra:	1|2|DET 2|0|INCROOT 3|5|LINK 4|5|DET 5|2|CMOD 6|7|SUBJ 7|5|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|XJCT 12|13|DET 13|11|OBJ 14|15|SUBJ 15|13|OBJ
+	16|15|CONJ 17|21|JCT 18|19|DET 19|21|SUBJ 20|21|AUX 21|16|COORD
+	22|2|PUNCT
+*S1:	so you have again this lag time then between the food (.) and the
+	herbivores .
+%mor:	co|so pro:per|you v|have adv|again det:dem|this n|lag n|time
+	adv:tem|then adv|between det:art|the n|food coord|and det:art|the
+	n|herbivore-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|3|OBJ 8|7|NJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|11|CONJ 13|14|DET 14|12|COORD 15|3|PUNCT
+*S1:	so (.) we really have two big biotic factors (.) that could cause
+	these cycles (.) and that is (.) predator prey (.) or food (.)
+	interactions .
+%mor:	co|so pro:sub|we adv|real&dadj-LY v|have det:num|two adj|big
+	n|biotic n|factor-PL pro:rel|that mod|could v|cause det:dem|these
+	n|cycle-PL coord|and pro:dem|that cop|be&3S n|predator n|prey
+	coord|or n|food inter#n|action-PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|8|QUANT 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|11|LINK 10|11|AUX 11|8|CMOD 12|13|DET 13|11|OBJ 14|11|CONJ 15|16|SUBJ
+	16|14|COORD 17|18|MOD 18|16|PRED 19|16|CONJ 20|21|MOD 21|19|COORD
+	22|4|PUNCT
+*S1:	so people &-um have set out to study that .
+%mor:	adv|so n|person&PL v|have v|set&ZERO adv|out prep|to n|study
+	pro:dem|that .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+*S1:	and (.) for some reason I can't get my handouts xxx .
+%mor:	coord|and prep|for qn|some n|reason pro:sub|I mod|can~neg|not v|get
+	det:poss|my n|+v|hand+prep|out-PL .
+%gra:	1|8|LINK 2|8|JCT 3|4|QUANT 4|2|POBJ 5|8|SUBJ 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|8|PUNCT
+*S1:	the (.) study I'm gonna talk about next (.) is the snowshoe hare
+	study (.) and its main predator here which are lynx (0.6) .
+%mor:	det:art|the n|study pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|talk
+	adv|about adv|next cop|be&3S det:art|the n|+n|snow+n|shoe n|hare
+	n|study coord|and det:poss|its adj|main n|predator adv|here
+	pro:int|which cop|be&PRES n|lynx .
+%gra:	1|2|DET 2|10|SUBJ 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|7|INF 7|5|COMP 8|7|JCT
+	9|10|JCT 10|0|ROOT 11|14|DET 12|14|MOD 13|14|MOD 14|10|PRED 15|14|CONJ
+	16|18|DET 17|18|MOD 18|15|COORD 19|18|NJCT 20|21|LINK 21|18|CMOD 22|21|PRED
+	23|10|PUNCT
+*S1:	and this &-uh let's see and [?] the next slide xxx (0.4) here's a
+	snowshoe hare .
+%mor:	coord|and pro:dem|this v|let~pro:obj|us v|see coord|and det:art|the
+	adj|next n|slide pro:exist|here~cop|be&3S det:art|a n|+n|snow+n|shoe
+	n|hare .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COMP 6|11|LINK 7|9|DET 8|9|MOD
+	9|11|SUBJ 10|11|SUBJ 11|5|COMP 12|14|DET 13|14|MOD 14|11|PRED 15|3|PUNCT
+*S1:	this is in the summer .
+%mor:	pro:dem|this cop|be&3S prep|in det:art|the n|summer .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*S1:	in the winter it turns white (.) so it (.) is camouflaged against
+	the snow .
+%mor:	prep|in det:art|the n|winter pro:per|it v|turn-3S n|white conj|so
+	pro:per|it aux|be&3S part|camouflage-PASTP prep|against det:art|the
+	n|snow .
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|5|CJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+*S1:	and [/] &-uh and they show these &-uh nine to eleven year cycles
+	and here's (.) a lynx .
+%mor:	coord|and pro:sub|they v|show det:dem|these det:num|nine prep|to
+	det:num|eleven n|year n|cycle-PL coord|and pro:exist|here~cop|be&3S
+	det:art|a n|lynx .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|12|SUBJ 6|5|JCT 7|9|QUANT 8|9|MOD
+	9|6|POBJ 10|5|CONJ 11|10|COORD 12|3|COMP 13|14|DET 14|12|PRED 15|3|PUNCT
+*S1:	which is one of the main predators not the only predator .
+%mor:	pro:rel|which cop|be&3S det:num|one prep|of det:art|the adj|main
+	n|predator-PL neg|not det:art|the qn|only n|predator .
+%gra:	1|2|LINK 2|0|ROOT 3|11|QUANT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|11|NEG
+	9|11|DET 10|11|QUANT 11|2|PRED 12|2|PUNCT
+*S1:	but &-uh one of the major predators .
+%mor:	conj|but det:num|one prep|of det:art|the adj|major n|predator-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|PUNCT
+*S1:	and (.) we have these records (.) of the hare and lynx cycles (.)
+	and if we look at this we see (.) exactly what I told you (.) for
+	the hare (.) as it increases (.) the lynx increase (.) but with a
+	lag time (.) when the hares decline the lynx decline but with a lag
+	time .
+%mor:	coord|and pro:sub|we v|have det:dem|these n|record-PL prep|of
+	det:art|the n|hare coord|and n|lynx n|cycle-PL coord|and conj|if
+	pro:sub|we v|look prep|at det:dem|this pro:sub|we v|see
+	adv|exact&dadj-LY pro:int|what pro:sub|I v|tell&PAST pro:per|you
+	prep|for det:art|the n|hare conj|as pro:per|it v|increase-3S
+	det:art|the n|lynx n|increase conj|but prep|with det:art|a n|lag
+	n|time conj|when det:art|the n|hare-PL v|decline det:art|the n|lynx
+	n|decline conj|but prep|with det:art|a n|lag n|time .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|5|APP 12|5|CONJ 13|15|LINK 14|15|SUBJ 15|12|COORD
+	16|15|JCT 17|19|DET 18|19|SUBJ 19|16|POBJ 20|15|JCT 21|23|LINK 22|23|SUBJ
+	23|15|CJCT 24|23|OBJ 25|23|JCT 26|27|DET 27|25|POBJ 28|30|LINK
+	29|30|SUBJ 30|23|CJCT 31|33|DET 32|33|MOD 33|30|OBJ 34|30|CONJ 35|42|JCT
+	36|38|DET 37|38|MOD 38|35|POBJ 39|42|LINK 40|41|DET 41|42|SUBJ 42|34|COORD
+	43|45|DET 44|45|MOD 45|42|OBJ 46|42|CONJ 47|46|COORD 48|50|DET 49|50|MOD
+	50|47|POBJ 51|3|PUNCT
+*S1:	and so we have the lynx (.) tracking the hares .
+%mor:	coord|and co|so pro:sub|we v|have det:art|the n|lynx
+	part|track-PRESP det:art|the n|hare-PL .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|XMOD 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*S1:	so they sorta track (.) the hare cycles .
+%mor:	co|so pro:sub|they adv|sorta v|track det:art|the n|hare n|cycle-PL
+	.
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*S1:	but are they the cause of the cycles ?
+%mor:	conj|but cop|be&PRES pro:sub|they det:art|the n|cause prep|of
+	det:art|the n|cycle-PL ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*S1:	or are they just following along with these hare cycles that are
+	caused for some other reason ?
+%mor:	coord|or cop|be&PRES pro:sub|they adv|just part|follow-PRESP
+	adv|along prep|with det:dem|these n|hare n|cycle-PL pro:rel|that
+	aux|be&PRES part|cause-PASTP prep|for qn|some qn|other n|reason ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|5|JCT 5|3|XMOD 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|13|LINK 12|13|AUX 13|10|CMOD 14|13|JCT 15|17|QUANT
+	16|17|QUANT 17|14|POBJ 18|2|PUNCT
+*S1:	(0.4) (o)kay now it fits very nicely but maybe that's not (.) the
+	actual the lynx don't really cause these [/] these cycles so that's
+	our question .
+%mor:	co|okay adv|now pro:per|it v|fit-3S adv|very adv|nice&dadj-LY
+	conj|but adv|maybe pro:dem|that~cop|be&3S neg|not det:art|the
+	adj|actual det:art|the n|lynx mod|do~neg|not adv|real&dadj-LY
+	v|cause det:dem|these n|cycle-PL conj|so pro:dem|that~cop|be&3S
+	det:poss|our n|question .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|JCT 7|10|LINK 8|9|JCT
+	9|10|SUBJ 10|4|CJCT 11|10|NEG 12|13|DET 13|10|PRED 14|15|DET 15|19|SUBJ
+	16|19|AUX 17|16|NEG 18|19|JCT 19|13|CMOD 20|21|DET 21|19|OBJ 22|24|LINK
+	23|24|SUBJ 24|10|CJCT 25|26|DET 26|24|PRED 27|4|PUNCT
+*S1:	so &-um there's been a_lot_of research (.) done on this oh I know
+	what I wanted to mention .
+%mor:	adv|so pro:exist|there~cop|be&3S aux|be&PASTP qn|a_lot_of
+	n|research part|do&PASTP prep|on det:dem|this co|oh pro:sub|I v|know
+	pro:int|what pro:sub|I v|want-PAST prep|to n|mention .
+%gra:	1|3|JCT 2|3|SUBJ 3|7|SUBJ 4|7|AUX 5|6|QUANT 6|7|JCT 7|12|XJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|12|SUBJ 12|0|ROOT 13|15|LINK 14|15|SUBJ 15|12|COMP
+	16|15|JCT 17|16|POBJ 18|12|PUNCT
+*S1:	and they have these incredible records that go back to eighteen
+	forty five .
+%mor:	coord|and pro:sub|they v|have det:dem|these in#adj|credible
+	n|record-PL pro:rel|that v|go adv|back prep|to det:num|eighteen
+	det:num|forty det:num|five .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|8|LINK 8|6|CMOD
+	9|8|JCT 10|8|JCT 11|13|DATE 12|13|DATE 13|10|POBJ 14|3|PUNCT
+*S1:	and the reason we have this long (.) time span (.) is because of
+	the Hudson Bay Company and fur trapping records .
+%mor:	coord|and det:art|the n|reason pro:sub|we v|have pro:dem|this
+	adj|long n|time n|span cop|be&3S conj|because prep|of det:art|the
+	n:prop|Hudson n:prop|Bay n:prop|Company coord|and n|fur
+	part|trap-PRESP n|record-PL .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|9|MOD 7|9|MOD 8|9|MOD
+	9|10|SUBJ 10|5|COMP 11|5|JCT 12|11|NJCT 13|14|DET 14|12|POBJ 15|16|NAME
+	16|12|POBJ 17|16|CONJ 18|17|COORD 19|18|XMOD 20|19|OBJ 21|5|PUNCT
+*S1:	(o)kay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	because that's a problem with a_lot_of our ecological studies that
+	we don't have long term data and when we're looking at population
+	cycles we need long term (.) kinds of studies .
+%mor:	conj|because pro:dem|that~cop|be&3S det:art|a n|problem prep|with
+	qn|a_lot_of det:poss|our adj|ecologic-AL n|study-PL pro:rel|that
+	pro:sub|we mod|do~neg|not v|have adj|long n|term n|data coord|and
+	conj|when pro:sub|we~aux|be&PRES part|look-PRESP prep|at
+	n|populate&dv-TION n|cycle-PL pro:sub|we v|need adj|long n|term
+	n|kind-PL prep|of n|study-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|10|QUANT
+	8|10|DET 9|10|MOD 10|6|POBJ 11|15|LINK 12|15|SUBJ 13|15|AUX 14|13|NEG
+	15|10|CMOD 16|18|MOD 17|18|MOD 18|15|OBJ 19|28|LINK 20|23|LINK 21|23|SUBJ
+	22|23|AUX 23|28|CJCT 24|23|JCT 25|26|MOD 26|24|POBJ 27|28|SUBJ 28|18|CJCT
+	29|31|MOD 30|31|MOD 31|28|OBJ 32|31|NJCT 33|32|POBJ 34|3|PUNCT
+*S1:	and &-uh the Canadian government actually has &-uh they have (.)
+	convinced (.) the Canadian government that this is really an
+	interesting problem (.) and the government has put in millions of
+	dollars into a huge &-uh &-uh huge research projects trying to
+	understand what caused (.) these cycles (.) in &-um Canada .
+%mor:	coord|and det:art|the n:prop|Canadian n|govern&dv-MENT
+	adv|actual&dadj-LY v|have&3S pro:sub|they aux|have
+	part|convince-PASTP det:art|the n:prop|Canadian n|govern&dv-MENT
+	comp|that pro:dem|this cop|be&3S adv|real&dadj-LY det:art|a
+	adj|interesting n|problem coord|and det:art|the n|govern&dv-MENT
+	aux|have&3S part|put&PASTP prep|in n|million-PL prep|of n|dollar-PL
+	prep|into det:art|a adj|huge adj|huge n|research n|project-PL
+	part|try-PRESP inf|to v|understand pro:int|what v|cause-PAST
+	det:dem|these n|cycle-PL prep|in n:prop|Canada .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|9|SUBJ 8|9|AUX
+	9|6|COMP 10|12|DET 11|12|MOD 12|9|OBJ 13|15|LINK 14|15|SUBJ 15|12|CMOD
+	16|24|JCT 17|19|DET 18|19|MOD 19|24|SUBJ 20|19|CONJ 21|22|DET 22|20|COORD
+	23|24|AUX 24|15|CPRED 25|24|JCT 26|25|POBJ 27|26|NJCT 28|27|POBJ 29|15|JCT
+	30|34|DET 31|34|MOD 32|34|MOD 33|34|MOD 34|29|POBJ 35|15|XJCT 36|37|INF
+	37|35|COMP 38|39|SUBJ 39|37|COMP 40|41|DET 41|39|OBJ 42|41|NJCT
+	43|42|POBJ 44|6|PUNCT
+*S1:	and there's a +//.
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|a +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PUNCT
+*S1:	one major person is a guy named Charles Krebs who's done a_lot_of
+	work on both microtine rodents and (.) on the snowshoe hare &-uh
+	cycles .
+%mor:	det:num|one n|major n|person aux|be&3S det:art|a n|guy
+	part|name-PASTP n:prop|Charles n:prop|Krebs pro:rel|who~aux|be&3S
+	part|do&PASTP qn|a_lot_of n|work prep|on qn|both micro#n|tine
+	n|rodent-PL coord|and prep|on det:art|the n|+n|snow+n|shoe n|hare
+	n|cycle-PL .
+%gra:	1|3|QUANT 2|3|MOD 3|7|SUBJ 4|7|AUX 5|6|DET 6|7|SUBJ 7|0|ROOT 8|9|NAME
+	9|7|OBJ 10|12|LINK 11|12|AUX 12|9|CMOD 13|14|QUANT 14|12|OBJ 15|12|JCT
+	16|17|QUANT 17|15|POBJ 18|17|COORD 19|18|CONJ 20|19|COORD 21|24|DET
+	22|24|MOD 23|24|MOD 24|20|POBJ 25|7|PUNCT
+*S1:	and &-uh he wanted to look then at the effect of predation (.) and
+	food (.) which for the snowshoe hare (.) are twigs .
+%mor:	coord|and pro:sub|he v|want-PAST inf|to v|look adv:tem|then prep|at
+	det:art|the n|effect prep|of pre#n|date&dv-TION coord|and n|food
+	pro:rel|which prep|for det:art|the n|+n|snow+n|shoe n|hare
+	cop|be&PRES n|twig-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|5|CONJ 13|12|COORD 14|15|LINK 15|13|CMOD
+	16|18|DET 17|18|MOD 18|19|SUBJ 19|15|CPOBJ 20|19|PRED 21|3|PUNCT
+*S1:	they tend to browse on twigs of &-um different shrubs and (.) low
+	trees and so forth .
+%mor:	pro:sub|they v|tend inf|to v|browse prep|on n|twig-PL prep|of
+	adj|different n|shrub-PL coord|and adj|low n|tree-PL coord|and co|so
+	adv|forth .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|5|POBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|4|CONJ 11|12|MOD 12|10|COORD 13|12|CONJ 14|15|COM 15|13|COORD
+	16|2|PUNCT
+*S1:	and now &-um actually I want to do a little aside here (.) if you
+	think about predation (.) you would think that with the predation
+	it's obvious why +//.
+%mor:	coord|and adv|now adv|actual&dadj-LY pro:sub|I v|want inf|to v|do
+	det:art|a adj|little adv|aside pro:exist|here conj|if pro:per|you
+	v|think prep|about pre#n|date&dv-TION pro:per|you mod|will&COND
+	v|think pro:dem|that prep|with det:art|the pre#n|date&dv-TION
+	pro:per|it~cop|be&3S adj|obvious pro:rel|why +//.
+%gra:	1|5|LINK 2|3|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|10|DET
+	9|10|MOD 10|7|JCT 11|10|POBJ 12|14|LINK 13|14|SUBJ 14|11|CJCT 15|14|JCT
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|15|CPOBJ 20|19|OBJ 21|19|JCT 22|23|DET
+	23|21|POBJ 24|25|SUBJ 25|23|CMOD 26|25|PRED 27|26|OM 28|5|PUNCT
+*S1:	of_course it must cause these cycles I mean when predators kill
+	<the prey> [/] the prey have to decrease right ?
+%mor:	co|of_course pro:per|it mod|must v|cause det:dem|these n|cycle-PL
+	pro:sub|I v|mean pro:rel|when n|predator-PL v|kill det:art|the
+	n|prey v|have prep|to n|decrease adj|right ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|SUBJ 8|6|CMOD
+	9|11|LINK 10|11|SUBJ 11|6|CMOD 12|13|DET 13|14|SUBJ 14|11|COMP 15|14|JCT
+	16|17|MOD 17|15|POBJ 18|4|PUNCT
+*S1:	so it would seem almost like it's an &{l=SIC obviosity@n &}l=SIC .
+%mor:	co|so pro:per|it mod|will&COND cop|seem adv|almost co|like
+	pro:per|it~cop|be&3S det:art|a neo|obviosity .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|8|JCT 5|4|JCT 6|4|COM 7|8|SUBJ 8|0|ROOT
+	9|10|DET 10|8|PRED 11|8|PUNCT
+*S1:	but that's not necessarily true because you could have predation
+	(.) where the lynx are killing all these hares (.) but it's possible
+	they're just killing hares that would have died anyhow .
+%mor:	conj|but pro:dem|that~cop|be&3S neg|not adv|necessary&dadj-LY
+	n|true conj|because pro:per|you mod|could v|have pre#n|date&dv-TION
+	pro:rel|where det:art|the n|lynx aux|be&PRES part|kill-PRESP adv|all
+	det:dem|these n|hare-PL conj|but pro:per|it~cop|be&3S adj|possible
+	pro:sub|they~aux|be&PRES adv|just part|kill-PRESP n|hare-PL
+	pro:rel|that mod|will&COND aux|have part|die-PASTP adv|anyhow .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|JCT 6|3|PRED 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|3|CJCT 11|10|OBJ 12|16|LINK 13|14|DET 14|16|SUBJ 15|16|AUX
+	16|11|CMOD 17|19|JCT 18|19|DET 19|16|OBJ 20|22|LINK 21|22|SUBJ
+	22|16|CJCT 23|22|PRED 24|27|SUBJ 25|27|AUX 26|27|JCT 27|22|CPRED 28|27|OBJ
+	29|32|LINK 30|32|AUX 31|32|AUX 32|28|CMOD 33|32|JCT 34|3|PUNCT
+*S1:	and that the cycle's really caused say by food (.) and the
+	predators are just causing what we call secondary mortality .
+%mor:	coord|and comp|that det:art|the adj|cycle&dn-POSS adv|real&dadj-LY
+	v|cause-PAST v|say prep|by n|food coord|and det:art|the
+	n|predator-PL aux|be&PRES adv|just part|cause-PRESP pro:int|what
+	pro:sub|we v|call adj|secondary n|mortal&dadj-ITY .
+%gra:	1|7|LINK 2|7|LINK 3|4|DET 4|7|SUBJ 5|6|JCT 6|4|CMOD 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|9|CONJ 11|12|DET 12|10|COORD 13|15|AUX 14|15|JCT 15|7|XJCT
+	16|18|LINK 17|18|SUBJ 18|15|COMP 19|20|MOD 20|18|OBJ 21|7|PUNCT
+*S1:	(0.6) and this just means that the predators kill the prey (.) that
+	are doomed to die anyhow .
+%mor:	coord|and pro:dem|this adv|just v|mean-3S comp|that det:art|the
+	n|predator-PL v|kill det:art|the n|prey pro:rel|that aux|be&PRES
+	part|doom-PASTP inf|to v|die adv|anyhow .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|8|LINK 6|7|DET 7|8|SUBJ 8|4|COMP
+	9|10|DET 10|8|OBJ 11|13|LINK 12|13|AUX 13|10|CMOD 14|15|INF 15|13|COMP
+	16|15|JCT 17|4|PUNCT
+*S1:	for other reasons +...
+%mor:	prep|for qn|other n|reason-PL +...
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|1|PUNCT
+*S1:	mkay .
+%mor:	co|mkay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so it may be we see these nice coupled oscillations but the
+	predators don't have anything to do with them .
+%mor:	co|so pro:per|it mod|may cop|be pro:sub|we v|see det:dem|these
+	adj|nice part|couple-PASTP n|oscillate&dv-TION-PL conj|but
+	det:art|the n|predator-PL mod|do~neg|not v|have pro:indef|anything
+	inf|to v|do prep|with pro:obj|them .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|10|DET 8|10|MOD
+	9|10|MOD 10|6|OBJ 11|16|LINK 12|13|DET 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|6|CJCT 17|16|OBJ 18|19|INF 19|17|XMOD 20|19|JCT 21|20|POBJ 22|6|PUNCT
+*S1:	(o)kay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	now the predator cycles are just following the prey cycles .
+%mor:	adv|now det:art|the n|predator n|cycle-PL aux|be&PRES adv|just
+	part|follow-PRESP det:art|the n|prey n|cycle-PL .
+%gra:	1|7|JCT 2|4|DET 3|4|MOD 4|7|SUBJ 5|7|AUX 6|7|JCT 7|0|ROOT 8|10|DET
+	9|10|MOD 10|7|OBJ 11|7|PUNCT
+*S1:	so this is &-uh something we need to find out and the way (.) to
+	test whether it's predation or food is to do field experiments .
+%mor:	adv|so pro:dem|this cop|be&3S pro:indef|something pro:sub|we v|need
+	inf|to v|find adv|out coord|and det:art|the n|way prep|to n|test
+	conj|whether pro:per|it~cop|be&3S pre#n|date&dv-TION coord|or n|food
+	cop|be&3S inf|to v|do n|field n|experiment-PL .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|SUBJ 6|4|CMOD 7|8|INF 8|6|COMP
+	9|8|JCT 10|8|CONJ 11|12|DET 12|10|COORD 13|12|NJCT 14|13|POBJ 15|17|LINK
+	16|17|SUBJ 17|12|CMOD 18|17|PRED 19|18|CONJ 20|19|COORD 21|18|ENUM
+	22|23|INF 23|21|COMP 24|25|MOD 25|23|OBJ 26|3|PUNCT
+*S1:	and this is what Krebs and actually many &m a whole group of people
+	have been working on this .
+%mor:	coord|and pro:dem|this cop|be&3S pro:int|what n:prop|Krebs
+	coord|and adv|actual&dadj-LY qn|many det:art|a adj|whole n|group
+	prep|of n|person&PL v|have aux|be&PASTP part|work-PRESP prep|on
+	pro:dem|this .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|5|CONJ 7|6|COORD
+	8|11|QUANT 9|11|DET 10|11|MOD 11|3|PRED 12|11|NJCT 13|12|POBJ 14|11|ENUM
+	15|16|AUX 16|14|COMP 17|16|JCT 18|17|POBJ 19|3|PUNCT
+*S1:	and (.) we're also dealing with a system &-uh I think we can just
+	actually (.) stop the slides (.) yeah thanks <we can get> [?] a
+	little more light here .
+%mor:	coord|and pro:sub|we~aux|be&PRES adv|also part|deal-PRESP prep|with
+	det:art|a n|system pro:sub|I v|think pro:sub|we mod|can adv|just
+	adv|actual&dadj-LY v|stop det:art|the n|slide-PL co|yeah co|thanks
+	pro:sub|we mod|can v|get det:art|a adj|little adv|more adj|light
+	adv|here .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|10|XJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|10|SUBJ 10|0|ROOT 11|15|SUBJ 12|15|AUX 13|15|JCT 14|15|JCT 15|10|COMP
+	16|17|DET 17|15|OBJ 18|22|COM 19|22|COM 20|22|SUBJ 21|22|AUX 22|15|CJCT
+	23|26|DET 24|26|MOD 25|26|JCT 26|22|PRED 27|26|JCT 28|10|PUNCT
+*S1:	&-um and the scale of this is a real problem because when you think
+	about lynx (.) I mean those (.) animals can go [?] over large areas
+	snowshoe rabbits can go over large areas (.) and &-uh the
+	experiments that I'm gonna talk about today (.) they had plots that
+	were a kilometer squared .
+%mor:	coord|and det:art|the n|scale prep|of pro:dem|this cop|be&3S
+	det:art|a adj|real n|problem conj|because conj|when pro:per|you
+	v|think prep|about n|lynx pro:sub|I v|mean det:dem|those n|animal-PL
+	mod|can v|go adv|over adj|large n|area-PL n|+n|snow+n|shoe
+	n|rabbit-PL mod|can v|go adv|over adj|large n|area-PL coord|and
+	det:art|the n|experiment-PL pro:rel|that pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|talk adv|about adv:tem|today pro:sub|they
+	v|have&PAST n|plot-PL pro:rel|that aux|be&PAST det:art|a n|kilometer
+	part|square-PASTP .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|PRED 10|17|LINK 11|13|LINK 12|13|SUBJ 13|17|CJCT 14|13|JCT 15|14|POBJ
+	16|17|SUBJ 17|6|CJCT 18|19|DET 19|21|SUBJ 20|21|AUX 21|28|JCT 22|21|JCT
+	23|26|MOD 24|26|MOD 25|26|MOD 26|21|OBJ 27|28|AUX 28|17|COMP 29|28|JCT
+	30|31|MOD 31|28|JCT 32|28|CONJ 33|34|DET 34|32|COORD 35|38|LINK
+	36|38|SUBJ 37|38|AUX 38|34|CMOD 39|40|INF 40|38|COMP 41|42|JCT 42|40|JCT
+	43|44|SUBJ 44|34|CMOD 45|44|OBJ 46|47|LINK 47|45|CMOD 48|49|DET 49|47|PRED
+	50|49|XMOD 51|6|PUNCT
+*S1:	(o)kay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so we're talking like big scale (.) experiments .
+%mor:	adv|so pro:sub|we~aux|be&PRES part|talk-PRESP conj|like adj|big
+	n|scale n|experiment-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|MOD 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+*S1:	and (.) they had (.) two plots (.) a kilometer squared each (.)
+	where they added food (.) for the hares (.) and they did this by
+	adding commercial rabbit chow (.) it's known to be good (.) for
+	bunnies (.) and so they increased both the quantity and the quality
+	+...
+%mor:	coord|and pro:sub|they v|have&PAST det:num|two n|plot-PL det:art|a
+	n|kilometer part|square-PASTP qn|each pro:int|where pro:sub|they
+	v|add-PAST n|food prep|for det:art|the n|hare-PL coord|and
+	pro:sub|they mod|do&PAST det:dem|this adv|by part|add-PRESP
+	adj|commercial n|rabbit n|chow pro:per|it~aux|be&3S part|know&PASTP
+	inf|to cop|be adj|good prep|for n|bunny-PL coord|and co|so
+	pro:sub|they v|increase-PAST post|both det:art|the n|quantity
+	coord|and det:art|the n|quality +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|7|DET 7|5|OBJ 8|7|XMOD
+	9|10|QUANT 10|12|JCT 11|12|SUBJ 12|8|COMP 13|12|OBJ 14|12|JCT 15|16|DET
+	16|14|POBJ 17|20|LINK 18|20|SUBJ 19|20|AUX 20|3|PUNCT 21|22|JCT
+	22|20|ROOT 23|25|MOD 24|25|MOD 25|22|OBJ 26|28|SUBJ 27|28|AUX 28|25|CMOD
+	29|30|INF 30|28|COMP 31|30|PRED 32|30|JCT 33|32|POBJ 34|33|CONJ 35|34|COORD
+	36|37|SUBJ 37|22|ROOT 38|37|JCT 39|40|DET 40|38|INCROOT 41|40|CONJ 42|43|DET
+	43|41|COORD 44|40|PUNCT
+*S1:	(o)kay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and then they had only one plot (.) where they did a predator
+	exclusion (.) and here's where &th I mean there weren't any
+	replicates on this but you can imagine how difficult it is to
+	exclude all the predators in a kilometer square (.) of area .
+%mor:	coord|and adv:tem|then pro:sub|they v|have&PAST adv|only
+	det:num|one n|plot pro:rel|where pro:sub|they v|do&PAST det:art|a
+	n|predator n|exclusion coord|and pro:exist|here~cop|be&3S
+	pro:int|where pro:sub|I v|mean adv|there cop|be&PAST~neg|not qn|any
+	v|replicate-3S prep|on pro:dem|this conj|but pro:per|you mod|can
+	v|imagine pro:int|how adj|difficult pro:per|it cop|be&3S inf|to
+	v|exclude qn|all det:art|the n|predator-PL prep|in det:art|a
+	n|kilometer adv|square prep|of n|area .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|7|QUANT 7|4|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|13|DET 12|13|MOD 13|10|OBJ 14|16|LINK 15|16|SUBJ
+	16|10|CJCT 17|19|LINK 18|19|SUBJ 19|24|JCT 20|19|JCT 21|24|AUX 22|21|NEG
+	23|24|QUANT 24|16|CPRED 25|24|JCT 26|25|POBJ 27|30|LINK 28|30|SUBJ
+	29|30|AUX 30|24|CJCT 31|32|JCT 32|34|PRED 33|34|SUBJ 34|30|COMP 35|36|INF
+	36|34|CPRED 37|39|QUANT 38|39|DET 39|36|OBJ 40|36|JCT 41|42|DET 42|40|POBJ
+	43|36|JCT 44|43|JCT 45|44|POBJ 46|4|PUNCT
+*S1:	and &-uh they went and they live trapped out these predators &-uh
+	there were also (.) coyotes (.) and lynx and &-uh well two of the
+	major predators and they put +//.
+%mor:	coord|and pro:sub|they v|go&PAST coord|and pro:sub|they v|live
+	v|trap-PAST adv|out det:dem|these n|predator-PL adv|there
+	cop|be&PAST adv|also n|coyote-PL coord|and n|lynx coord|and n|well
+	det:num|two prep|of det:art|the adj|major n|predator-PL coord|and
+	pro:sub|they v|put&ZERO +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|6|SUBJ 6|4|COORD 7|6|OBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|6|JCT 12|6|COMP 13|12|JCT 14|13|POBJ 15|14|CONJ
+	16|15|COORD 17|14|CONJ 18|17|COORD 19|14|ENUM 20|19|JCT 21|23|DET
+	22|23|MOD 23|20|POBJ 24|26|LINK 25|26|SUBJ 26|14|CJCT 27|3|PUNCT
+*S1:	did this (.) they live trapped (th)em and then they had an electric
+	fence (.) to keep them out (.) (o)kay ?
+%mor:	v|do&PAST det:dem|this pro:sub|they v|live v|trap-PAST pro:obj|them
+	coord|and adv:tem|then pro:sub|they v|have&PAST det:art|a
+	adj|electric n|fence inf|to v|keep pro:obj|them prep|out co|okay ?
+%gra:	1|0|ROOT 2|4|DET 3|4|SUBJ 4|1|COMP 5|4|OBJ 6|5|OBJ 7|10|LINK 8|10|JCT
+	9|10|SUBJ 10|5|CJCT 11|13|DET 12|13|MOD 13|10|OBJ 14|15|INF 15|13|XMOD
+	16|15|OBJ 17|15|JCT 18|17|POBJ 19|1|PUNCT
+*S1:	and then they had &-um one plot (.) where they had both (.) food
+	(.) and (.) predator exclusion +...
+%mor:	coord|and adv:tem|then pro:sub|they v|have&PAST det:num|one n|plot
+	pro:rel|where pro:sub|they v|have&PAST post|both n|food coord|and
+	n|predator n|exclusion +...
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|14|MOD 11|14|MOD 12|11|CONJ 13|12|COORD 14|9|OBJ 15|4|PUNCT
+*S1:	they also had (.) two plots (.) where they added fertilizer .
+%mor:	pro:sub|they adv|also v|have&PAST det:num|two n|plot-PL
+	pro:rel|where pro:sub|they v|add-PAST n|fertile&dv-IZE-AGT .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|5|CMOD
+	9|8|OBJ 10|3|PUNCT
+*S1:	and this was to increase the plant quality .
+%mor:	coord|and pro:dem|this cop|be&PAST&13S inf|to v|increase
+	det:art|the n|plant n|quality .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|8|DET 7|8|MOD 8|5|OBJ
+	9|3|PUNCT
+*S1:	in case plant quality (.) and quantity was driving these cycles so
+	this was actually through the plants (.) the natural food that the
+	snowshoe hares are eating and then they had three controls .
+%mor:	prep|in n|case n|plant n|quality coord|and n|quantity
+	aux|be&PAST&13S part|drive-PRESP det:dem|these n|cycle-PL adv|so
+	pro:dem|this cop|be&PAST&13S adv|actual&dadj-LY prep|through
+	det:art|the n|plant-PL det:art|the adj|natural n|food pro:rel|that
+	det:art|the n|+n|snow+n|shoe n|hare-PL aux|be&PRES part|eat-PRESP
+	coord|and adv:tem|then pro:sub|they v|have&PAST det:num|three
+	n|control-PL .
+%gra:	1|8|LINK 2|4|MOD 3|4|MOD 4|8|SUBJ 5|4|CONJ 6|5|COORD 7|8|AUX 8|13|CJCT
+	9|10|DET 10|8|OBJ 11|12|JCT 12|13|SUBJ 13|0|ROOT 14|13|JCT 15|13|JCT
+	16|17|DET 17|15|POBJ 18|20|DET 19|20|MOD 20|13|PRED 21|26|LINK 22|24|DET
+	23|24|MOD 24|26|SUBJ 25|26|AUX 26|20|CMOD 27|26|CONJ 28|30|JCT 29|30|SUBJ
+	30|27|COORD 31|32|QUANT 32|30|OBJ 33|13|PUNCT
+*S1:	okay so (.) not many replicates but I said it's &-uh hard in field
+	ecology to get (.) the kind of replicates you can do in lab just
+	because these experiments are so (.) huge .
+%mor:	co|okay adv|so neg|not qn|many v|replicate-3S conj|but pro:sub|I
+	v|say&PAST pro:per|it~cop|be&3S adj|hard prep|in n|field n|ecology
+	inf|to v|get det:art|the n|kind prep|of v|replicate-3S pro:per|you
+	mod|can v|do prep|in n|lab adv|just conj|because det:dem|these
+	n|experiment-PL cop|be&PRES adv|so adj|huge .
+%gra:	1|3|COM 2|3|JCT 3|4|NEG 4|5|QUANT 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|23|CJCT
+	9|10|SUBJ 10|23|SUBJ 11|10|PRED 12|10|JCT 13|14|MOD 14|12|POBJ 15|16|INF
+	16|23|XJCT 17|18|DET 18|16|OBJ 19|18|NJCT 20|19|POBJ 21|23|SUBJ
+	22|23|AUX 23|5|COMP 24|23|JCT 25|24|POBJ 26|23|JCT 27|30|LINK 28|29|DET
+	29|30|SUBJ 30|5|CJCT 31|32|JCT 32|30|PRED 33|5|PUNCT
+*S1:	and what they did is they +//.
+%mor:	coord|and pro:int|what pro:sub|they v|do&PAST cop|be&3S
+	pro:sub|they +//.
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|4|JCT 7|4|PUNCT
+*S1:	and then the time scale (.) they followed these (.) hares'
+	population patterns for eight years (.) and they followed it then
+	(.) through &-uh the start of a cycle through a peak (.) and through
+	(.) to another low .
+%mor:	coord|and adv:tem|then det:art|the n|time n|scale pro:sub|they
+	v|follow-PAST det:dem|these adj|hare&dn-PL-POSS n|populate&dv-TION
+	v|pattern-3S prep|for det:num|eight n|year-PL coord|and pro:sub|they
+	v|follow-PAST pro:per|it adv:tem|then prep|through det:art|the
+	v|start prep|of det:art|a n|cycle prep|through det:art|a n|peak
+	coord|and adv|through prep|to qn|another n|low .
+%gra:	1|7|LINK 2|7|JCT 3|5|DET 4|5|MOD 5|7|SUBJ 6|7|SUBJ 7|0|ROOT 8|10|DET
+	9|10|MOD 10|11|SUBJ 11|7|COMP 12|11|JCT 13|14|QUANT 14|12|POBJ 15|17|LINK
+	16|17|SUBJ 17|7|CJCT 18|17|OBJ 19|18|JCT 20|19|JCT 21|22|DET 22|20|POBJ
+	23|22|JCT 24|25|DET 25|23|POBJ 26|19|JCT 27|28|DET 28|26|POBJ 29|26|CONJ
+	30|29|COORD 31|30|JCT 32|33|QUANT 33|31|POBJ 34|7|PUNCT
+*S1:	mkay ?
+%mor:	co|mkay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so this was the timeframe of the experiment .
+%mor:	adv|so pro:dem|this cop|be&PAST&13S det:art|the n|+n|time+n|frame
+	prep|of det:art|the n|experiment .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*S1:	so &-um if you think about any lab people &-um I don't know how
+	many of you start out intending to do an eight year (.) project
+	where you're gonna get results in like eight years .
+%mor:	co|so conj|if pro:per|you v|think prep|about qn|any n|lab
+	n|person&PL pro:sub|I mod|do~neg|not v|know pro:rel|how qn|many
+	prep|of pro:per|you v|start adv|out part|intend-PRESP inf|to v|do
+	det:art|a det:num|eight n|year n|project pro:int|where
+	pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|get n|result-PL
+	prep|in co|like det:num|eight n|year-PL .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|17|JCT 6|7|QUANT 7|8|MOD 8|17|SUBJ
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|8|CMOD 13|14|LINK 14|15|QUANT
+	15|17|JCT 16|17|SUBJ 17|4|COMP 18|17|JCT 19|17|XJCT 20|21|INF 21|19|COMP
+	22|25|DET 23|24|QUANT 24|25|MOD 25|21|OBJ 26|29|LINK 27|29|SUBJ 28|29|AUX
+	29|21|XJCT 30|31|INF 31|29|COMP 32|31|OBJ 33|31|JCT 34|36|COM 35|36|QUANT
+	36|33|POBJ 37|4|PUNCT
+*S1:	okay so (.) what'd they find out ?
+%mor:	co|okay conj|so pro:int|what~mod|genmod pro:sub|they v|find adv|out
+	?
+%gra:	1|6|COM 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*S1:	okay well I have this on your handout this little figure (.) and
+	here we're just going to look at (.) what was the effect of these
+	different treatments on the survival rate ?
+%mor:	co|okay n|well pro:sub|I v|have pro:dem|this prep|on det:poss|your
+	n|+v|hand+prep|out det:dem|this adj|little n|figure coord|and
+	adv|here pro:sub|we~aux|be&PRES adv|just part|go-PRESP inf|to v|look
+	prep|at pro:int|what cop|be&PAST&13S det:art|the n|effect prep|of
+	det:dem|these adj|different n|treatment-PL prep|on det:art|the
+	n|survival n|rate ?
+%gra:	1|2|COM 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|11|DET 10|11|MOD 11|4|JCT 12|11|CONJ 13|17|JCT 14|17|SUBJ 15|17|AUX
+	16|17|JCT 17|12|COORD 18|19|INF 19|17|COMP 20|19|JCT 21|22|SUBJ
+	22|20|CPOBJ 23|24|DET 24|22|PRED 25|24|NJCT 26|28|DET 27|28|MOD 28|25|POBJ
+	29|24|NJCT 30|32|DET 31|32|MOD 32|29|POBJ 33|2|PUNCT
+*S1:	this is our LX .
+%mor:	pro:dem|this cop|be&3S det:poss|our n:prop|LX .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*S1:	(be)cause that's gonna tell something about whether the
+	population's gonna (.) increase or decrease .
+%mor:	conj|because pro:dem|that~aux|be&3S part|go-PRESP~inf|to v|tell
+	pro:indef|something prep|about comp|whether det:art|the
+	adj|populate&dn-TION-POSS part|go-PRESP~inf|to v|increase coord|or
+	n|decrease .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|8|POBJ 10|11|DET 11|9|PRED 12|11|XMOD 13|14|INF 14|12|COMP 15|14|CONJ
+	16|15|COORD 17|4|PUNCT
+*S1:	and if it's in the decline phase (.) if LX increases it means the
+	decline will be less (.) or it may mean be that it'd even stop that
+	decline .
+%mor:	coord|and conj|if pro:per|it~cop|be&3S prep|in det:art|the
+	n|decline n|phase conj|if n:prop|LX v|increase-3S pro:per|it
+	v|mean-3S det:art|the n|decline mod|will cop|be adj|less coord|or
+	pro:per|it mod|may v|mean cop|be adv|that pro:per|it~mod|genmod
+	adv|even v|stop det:dem|that n|decline .
+%gra:	1|13|LINK 2|4|LINK 3|4|SUBJ 4|13|CJCT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|11|LINK 10|11|SUBJ 11|13|CJCT 12|13|SUBJ 13|0|ROOT 14|15|DET
+	15|17|SUBJ 16|17|AUX 17|13|COMP 18|17|PRED 19|17|CONJ 20|22|SUBJ 21|22|AUX
+	22|19|COORD 23|22|OBJ 24|22|JCT 25|28|SUBJ 26|28|AUX 27|28|JCT 28|22|COMP
+	29|30|DET 30|28|OBJ 31|13|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so what did they find out ?
+%mor:	adv|so pro:int|what mod|do&PAST pro:sub|they v|find adv|out ?
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*S1:	well first of all (.) fertilizer had no effect it was not
+	significant +...
+%mor:	co|well adv|first prep|of qn|all n|fertile&dv-IZE-AGT v|have&PAST
+	qn|no n|effect pro:per|it cop|be&PAST&13S neg|not adj|significant
+	+...
+%gra:	1|6|COM 2|6|JCT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|0|ROOT 7|8|QUANT 8|6|OBJ
+	9|10|SUBJ 10|8|CMOD 11|10|NEG 12|10|PRED 13|6|PUNCT
+*S1:	so it seemed like even though the twigs sort_of disappeared and
+	there is some change in the plants they couldn't seem to (.) change
+	(.) the plant effect .
+%mor:	co|so pro:per|it cop|seem-PAST v|like adv|even adv|though
+	det:art|the n|twig-PL adv|sort_of dis#v|appear-PAST coord|and
+	adv|there cop|be&3S qn|some n|change prep|in det:art|the n|plant-PL
+	pro:sub|they mod|could~neg|not cop|seem inf|to v|change det:art|the
+	n|plant n|effect .
+%gra:	1|3|COM 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|10|JCT 7|8|DET 8|10|SUBJ
+	9|10|JCT 10|4|COMP 11|13|LINK 12|13|SUBJ 13|10|CJCT 14|15|QUANT
+	15|13|PRED 16|15|NJCT 17|18|DET 18|16|POBJ 19|22|SUBJ 20|22|AUX 21|20|NEG
+	22|13|CJCT 23|24|INF 24|22|COMP 25|27|DET 26|27|MOD 27|24|OBJ 28|4|PUNCT
+*S1:	and doesn't mean it doesn't happen but somehow this fertilizer did
+	not work .
+%mor:	coord|and mod|do&3S~neg|not v|mean pro:per|it mod|do&3S~neg|not
+	v|happen conj|but adv|somehow pro:dem|this n|fertile&dv-IZE-AGT
+	mod|do&PAST neg|not v|work .
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|8|JCT 5|4|OBJ 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|8|CONJ 10|11|JCT 11|9|COORD 12|15|SUBJ 13|15|AUX 14|13|NEG 15|11|COMP
+	16|8|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	and then they looked at food the rabbit chow and they found out
+	that in fact survival rate increased (.) over the controls and that
+	was significant .
+%mor:	coord|and adv:tem|then pro:sub|they v|look-PAST prep|at n|food
+	det:art|the n|rabbit n|chow coord|and pro:sub|they v|find&PAST
+	adv|out pro:dem|that prep|in n|fact n|survival n|rate
+	v|increase-PAST prep|over det:art|the n|control-PL coord|and
+	pro:dem|that cop|be&PAST&13S adj|significant .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|9|DET 8|9|MOD
+	9|5|POBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|19|JCT 14|19|SUBJ 15|19|JCT
+	16|18|MOD 17|18|MOD 18|19|SUBJ 19|12|COMP 20|19|JCT 21|22|DET 22|20|POBJ
+	23|25|LINK 24|25|SUBJ 25|22|CMOD 26|25|PRED 27|4|PUNCT
+*S1:	so what this means (.) is that this decline (.) then was less if
+	you added food .
+%mor:	co|so pro:int|what det:dem|this v|mean-3S cop|be&3S adv|that
+	det:dem|this n|decline adv:tem|then cop|be&PAST&13S adj|less conj|if
+	pro:per|you v|add-PAST n|food .
+%gra:	1|5|COM 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|10|JCT 7|8|DET 8|10|SUBJ
+	9|10|JCT 10|5|PRED 11|10|PRED 12|14|LINK 13|14|SUBJ 14|5|CJCT 15|14|OBJ
+	16|5|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	(0.6) and so this would then affect that population cycle .
+%mor:	coord|and adv|so pro:dem|this mod|will&COND adv:tem|then v|affect
+	comp|that n|populate&dv-TION n|cycle .
+%gra:	1|6|LINK 2|3|JCT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|9|MOD 8|9|MOD
+	9|6|OBJ 10|6|PUNCT
+*S1:	but the cycle (.) is still going on .
+%mor:	conj|but det:art|the n|cycle aux|be&3S adv|still part|go-PRESP
+	adv|on .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*S1:	okay well then they looked at this (.) predator exclosure and here
+	(.) they found out that the survival (.) rate was even greater .
+%mor:	co|okay adv|well adv:tem|then pro:sub|they v|look-PAST prep|at
+	det:dem|this n|predator ex#n|closure coord|and adv|here pro:sub|they
+	v|find&PAST adv|out comp|that det:art|the n|survival n|rate
+	cop|be&PAST&13S adv|even adj|great-CP .
+%gra:	1|3|COM 2|3|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|6|POBJ 10|13|LINK 11|13|JCT 12|13|SUBJ 13|9|CJCT 14|13|JCT 15|19|LINK
+	16|18|DET 17|18|MOD 18|19|SUBJ 19|14|CPOBJ 20|21|JCT 21|19|PRED 22|5|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so again (.) we have this decline is less (0.4) but the cycle is
+	still there .
+%mor:	adv|so adv|again pro:sub|we v|have det:dem|this n|decline cop|be&3S
+	adj|less conj|but det:art|the n|cycle cop|be&3S adv|still adv|there
+	.
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|COMP 8|7|PRED
+	9|12|LINK 10|11|DET 11|12|SUBJ 12|4|CJCT 13|12|JCT 14|12|JCT 15|4|PUNCT
+*S1:	the [/] &pop the hares is still going to (.) go through this
+	decline .
+%mor:	det:art|the n|hare-PL aux|be&3S adv|still part|go-PRESP inf|to v|go
+	adj|through det:dem|this n|decline .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|10|MOD
+	9|10|DET 10|7|OBJ 11|5|PUNCT
+*S1:	so yes (.) but &-uh it doesn't stop the cycling .
+%mor:	co|so co|yes conj|but pro:per|it mod|do&3S~neg|not v|stop
+	det:art|the n:gerund|cycle-PRESP .
+%gra:	1|2|COM 2|7|COM 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*S1:	and then they did looked at the experiment where they combined both
+	of those (.) and this was the most significant .
+%mor:	coord|and adv:tem|then pro:sub|they mod|do&PAST v|look-PAST prep|at
+	det:art|the n|experiment pro:rel|where pro:sub|they v|combine-PAST
+	qn|both prep|of pro:dem|those coord|and pro:dem|this cop|be&PAST&13S
+	det:art|the qn|most adj|significant .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|OBJ 13|12|NJCT 14|13|POBJ 15|17|LINK
+	16|17|SUBJ 17|11|CJCT 18|20|DET 19|20|QUANT 20|17|PRED 21|5|PUNCT
+*S1:	and the interesting thing here is if you can just look at this (.)
+	if we take the food effect (.) and add that to the predator effect
+	(.) it would be about here .
+%mor:	coord|and det:art|the adj|interesting n|thing adv|here cop|be&3S
+	conj|if pro:per|you mod|can adv|just v|look prep|at pro:dem|this
+	conj|if pro:sub|we v|take det:art|the n|food n|effect coord|and
+	v|add adv|that prep|to det:art|the n|predator n|effect pro:per|it
+	mod|will&COND cop|be prep|about n|here .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|11|JCT 11|6|CJCT 12|11|JCT 13|12|POBJ 14|16|LINK 15|16|SUBJ
+	16|11|CJCT 17|19|DET 18|19|MOD 19|16|OBJ 20|11|CONJ 21|20|COORD
+	22|21|JCT 23|21|JCT 24|26|DET 25|26|MOD 26|23|POBJ 27|29|SUBJ 28|29|AUX
+	29|26|CMOD 30|29|JCT 31|30|POBJ 32|6|PUNCT
+*S1:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so when you do both of these (.) you don't just get an additive
+	effect (.) that is that we add the food effect to the predator
+	effect (.) but we get an even greater effect than you would predict
+	by this additive (.) effects .
+%mor:	co|so conj|when pro:per|you v|do qn|both prep|of pro:dem|these
+	pro:per|you mod|do~neg|not adv|just v|get det:art|a n|additive
+	n|effect pro:rel|that cop|be&3S comp|that pro:sub|we v|add
+	det:art|the n|food n|effect prep|to det:art|the n|predator n|effect
+	conj|but pro:sub|we v|get det:art|a adv|even adj|great-CP n|effect
+	prep|than pro:per|you mod|will&COND v|predict prep|by det:dem|this
+	n|additive n|effect-PL .
+%gra:	1|12|COM 2|4|LINK 3|4|SUBJ 4|12|CJCT 5|4|OBJ 6|5|NJCT 7|6|POBJ
+	8|12|SUBJ 9|12|AUX 10|9|NEG 11|12|JCT 12|0|ROOT 13|15|DET 14|15|MOD 15|12|OBJ
+	16|17|LINK 17|15|CMOD 18|20|LINK 19|20|SUBJ 20|17|CPRED 21|23|DET
+	22|23|MOD 23|20|OBJ 24|23|NJCT 25|27|DET 26|27|MOD 27|24|POBJ 28|30|LINK
+	29|30|SUBJ 30|38|CJCT 31|34|DET 32|33|JCT 33|34|MOD 34|30|OBJ 35|30|JCT
+	36|35|POBJ 37|38|AUX 38|20|CJCT 39|38|JCT 40|42|DET 41|42|MOD 42|39|POBJ
+	43|12|PUNCT
+*S1:	by adding the two effects so this is called an interaction .
+%mor:	adv|by part|add-PRESP det:art|the det:num|two n|effect-PL adv|so
+	pro:dem|this aux|be&3S part|call-PASTP det:art|a inter#n|action .
+%gra:	1|2|JCT 2|9|JCT 3|5|DET 4|5|QUANT 5|2|OBJ 6|7|JCT 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|9|PUNCT
+*S1:	so we seem (.) to be that the predator (.) and the food (.)
+	interacted and so we have a significant statistical interaction .
+%mor:	co|so pro:sub|we cop|seem inf|to cop|be comp|that det:art|the
+	n|predator coord|and det:art|the n|food inter#v|act-PAST coord|and
+	co|so pro:sub|we v|have det:art|a adj|significant
+	adj|statistic&dn-AL inter#n|action .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|PRED 7|8|DET 8|6|OBJ
+	9|8|CONJ 10|11|DET 11|9|COORD 12|11|XMOD 13|16|LINK 14|16|COM 15|16|SUBJ
+	16|12|CJCT 17|19|DET 18|19|MOD 19|20|MOD 20|16|OBJ 21|3|PUNCT
+*S1:	that is we're getting a bigger effect than we would predict by
+	either one &-uh food or predator (.) removal alone (.) and here they
+	found (.) that the decline (.) virtually stopped .
+%mor:	pro:dem|that cop|be&3S pro:sub|we~aux|be&PRES part|get-PRESP
+	det:art|a adj|big-CP n|effect prep|than pro:sub|we mod|will&COND
+	v|predict prep|by qn|either pro:indef|one n|food coord|or n|predator
+	n|removal adv|alone coord|and adv|here pro:sub|they v|find&PAST
+	comp|that det:art|the n|decline adv|virtual&dadj-LY v|stop-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|CPRED 6|8|DET 7|8|MOD 8|5|OBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|24|CJCT 13|12|JCT 14|16|QUANT 15|16|SUBJ
+	16|13|POBJ 17|16|CONJ 18|19|MOD 19|17|COORD 20|12|JCT 21|20|CONJ
+	22|21|COORD 23|24|SUBJ 24|5|COMP 25|29|LINK 26|27|DET 27|29|SUBJ 28|29|JCT
+	29|24|COMP 30|2|PUNCT
+*S1:	not completely (.) but pretty much (.) and it pretty much stopped
+	the cycles .
+%mor:	neg|not adv|complete&dadj-LY conj|but adv|pretty adv|much coord|and
+	pro:per|it adv|pretty adv|much v|stop-PAST det:art|the n|cycle-PL .
+%gra:	1|2|NEG 2|10|JCT 3|2|CONJ 4|5|JCT 5|3|COORD 6|10|LINK 7|10|SUBJ 8|9|JCT
+	9|10|JCT 10|0|ROOT 11|12|DET 12|10|OBJ 13|10|PUNCT
+*S1:	(0.4) mkay .
+%mor:	co|mkay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so the conclusion then from this incredible set of experiments (.)
+	is that it may (.) be not just is it predation or is it food (.) but
+	rather it's an interaction between the two of them .
+%mor:	co|so det:art|the n|conclusion adv:tem|then prep|from det:dem|this
+	in#adj|credible n|set prep|of n|experiment-PL cop|be&3S comp|that
+	pro:per|it mod|may cop|be neg|not adv|just cop|be&3S pro:per|it
+	pre#n|date&dv-TION coord|or cop|be&3S pro:per|it n|food conj|but
+	adv|rather pro:per|it~cop|be&3S det:art|a inter#n|action
+	prep|between det:art|the det:num|two prep|of pro:obj|them .
+%gra:	1|11|COM 2|3|DET 3|11|SUBJ 4|11|JCT 5|11|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|8|NJCT 10|9|POBJ 11|0|ROOT 12|15|LINK 13|15|SUBJ 14|15|AUX 15|11|COMP
+	16|15|NEG 17|18|JCT 18|15|PRED 19|18|PRED 20|19|POBJ 21|20|CONJ
+	22|21|COORD 23|24|MOD 24|22|PRED 25|28|LINK 26|28|JCT 27|28|SUBJ 28|20|CJCT
+	29|30|DET 30|28|PRED 31|30|NJCT 32|33|DET 33|31|POBJ 34|33|JCT 35|34|POBJ
+	36|11|PUNCT
+*S1:	and (.) why might there be (.) what is the biological reason for
+	interaction ?
+%mor:	coord|and pro:int|why mod|might adv|there cop|be pro:int|what
+	cop|be&3S det:art|the adj|biological n|reason prep|for
+	inter#n|action ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|PRED 8|10|DET
+	9|10|MOD 10|7|PRED 11|10|NJCT 12|11|POBJ 13|5|PUNCT
+*S1:	(0.4) well (.) they don't know (.) but some of the hypotheses are
+	(.) that when you have &-uh the predators are abundant +...
+%mor:	co|well pro:sub|they mod|do~neg|not v|know conj|but pro:indef|some
+	prep|of det:art|the n|hypothesis&PL cop|be&PRES adv|that conj|when
+	pro:per|you v|have det:art|the n|predator-PL cop|be&PRES
+	adj|abundant +...
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|CONJ 7|6|COORD 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|5|COMP 12|11|JCT 13|15|LINK 14|15|SUBJ 15|11|CJCT
+	16|17|DET 17|18|SUBJ 18|15|COMP 19|18|PRED 20|5|PUNCT
+*S1:	it may be that the hares (.) perceive this risk (.) of predation
+	(.) and they may forage less (.) they may eat less (.) and so their
+	survivorship goes down (.) and &-uh Doctor_Werner's gonna be talking
+	about this (.) because to avoid the predation they don't go out and
+	eat as much (.) or it could be that as food quality goes down +...
+%mor:	pro:per|it mod|may cop|be comp|that det:art|the n|hare-PL
+	v|perceive det:dem|this n|risk prep|of pre#n|date&dv-TION coord|and
+	pro:sub|they mod|may v|forage adj|less pro:sub|they mod|may v|eat
+	adj|less coord|and co|so det:poss|their n|survivor-SHIP v|go-3S
+	adv|down coord|and adj|Doctor_Werner&dn-POSS part|go-PRESP~inf|to
+	aux|be part|talk-PRESP prep|about pro:dem|this conj|because inf|to
+	v|avoid det:art|the pre#n|date&dv-TION pro:sub|they mod|do~neg|not
+	v|go adv|out coord|and v|eat adv|as adv|much coord|or pro:per|it
+	mod|could cop|be adv|that adv|as n|food n|quality v|go-3S adv|down
+	+...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|CPRED 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|10|POBJ 12|15|LINK 13|15|SUBJ 14|15|AUX 15|7|CJCT
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|15|COMP 20|19|PRED 21|25|LINK 22|25|COM
+	23|24|DET 24|25|SUBJ 25|20|CMOD 26|25|JCT 27|25|CONJ 28|29|MOD
+	29|27|COORD 30|32|INF 31|32|AUX 32|29|COMP 33|32|JCT 34|33|POBJ 35|37|LINK
+	36|37|INF 37|15|CJCT 38|39|DET 39|37|OBJ 40|43|SUBJ 41|43|AUX 42|41|NEG
+	43|39|CMOD 44|43|JCT 45|43|CONJ 46|45|COORD 47|48|COORD 48|46|JCT 49|52|LINK
+	50|52|SUBJ 51|52|AUX 52|48|CJCT 53|57|JCT 54|55|COORD 55|56|MOD
+	56|57|SUBJ 57|52|PRED 58|57|JCT 59|3|PUNCT
+*S1:	or (.) as food quality goes down they're more susceptible to
+	predation +...
+%mor:	coord|or prep|as n|food n|quality v|go-3S adv|down
+	pro:sub|they~cop|be&PRES adv|more adj|susceptible prep|to
+	pre#n|date&dv-TION +...
+%gra:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|SUBJ 8|5|CJCT
+	9|10|JCT 10|8|PRED 11|10|JCT 12|11|POBJ 13|5|PUNCT
+*S1:	that is they can't escape (.) as easily .
+%mor:	pro:dem|that cop|be&3S pro:sub|they mod|can~neg|not n|escape adv|as
+	adv|ease&dadj-Y-LY .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|PRED 7|8|COORD 8|6|NJCT
+	9|2|PUNCT
+*S1:	they're not in such good condition .
+%mor:	pro:sub|they~cop|be&PRES neg|not prep|in qn|such adj|good
+	n|condition .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|JCT 5|7|QUANT 6|7|MOD 7|4|POBJ 8|2|PUNCT
+*S1:	or it could be (.) that instead they're searching more for good
+	food (.) so they're more exposed to predation .
+%mor:	coord|or pro:per|it mod|could cop|be pro:dem|that adv|instead
+	pro:sub|they~aux|be&PRES part|search-PRESP adv|more prep|for
+	adj|good n|food adv|so pro:sub|they~aux|be&PRES adv|more
+	part|expose-PASTP prep|to pre#n|date&dv-TION .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|9|JCT 7|9|SUBJ 8|9|AUX
+	9|4|CPRED 10|9|JCT 11|9|JCT 12|13|MOD 13|11|POBJ 14|18|JCT 15|18|SUBJ
+	16|18|AUX 17|18|JCT 18|9|XJCT 19|18|JCT 20|19|POBJ 21|4|PUNCT
+*S1:	so all of these factors then (.) could &-uh cause this interaction
+	(.) effect that they believe they saw .
+%mor:	adv|so pro:indef|all prep|of det:dem|these n|factor-PL adv:tem|then
+	mod|could v|cause det:dem|this inter#n|action n|effect pro:rel|that
+	pro:sub|they v|believe pro:sub|they v|see&PAST .
+%gra:	1|8|JCT 2|8|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|8|JCT 7|8|AUX 8|0|ROOT
+	9|11|DET 10|11|MOD 11|8|OBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|16|SUBJ
+	16|14|COMP 17|8|PUNCT
+*S1:	now we only have the one [/] one replicate but &-um these are all
+	hypotheses (.) as to why they saw that effect .
+%mor:	adv|now pro:sub|we adv|only v|have det:art|the pro:indef|one
+	v|replicate conj|but det:dem|these aux|be&PRES adv|all
+	n|hypothesis&PL adv|as prep|to pro:int|why pro:sub|they n|saw
+	adv|that n|effect .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|7|OBJ 5|6|DET 6|7|SUBJ 7|0|ROOT 8|7|CONJ
+	9|12|DET 10|12|AUX 11|12|JCT 12|8|COORD 13|12|NJCT 14|12|NJCT 15|19|LINK
+	16|19|MOD 17|19|MOD 18|19|JCT 19|14|POBJ 20|7|PUNCT
+*S1:	and (.) so this is one of our most complete studies &-uh let me
+	just mention that the (.) for the (.) microtine rodents (.) they
+	have very similar results if they remove all the predators (.) they
+	can pretty much stop the cycles (.) but there also appears to be a
+	food effect (.) so this may be general &-uh that both interact (.)
+	but (.) the end of the story still (.) is not in .
+%mor:	coord|and adv|so pro:dem|this cop|be&3S det:num|one prep|of
+	det:poss|our qn|most adj|complete n|study-PL v|let&ZERO pro:obj|me
+	adj|just n|mention comp|that det:art|the prep|for det:art|the
+	micro#n|tine n|rodent-PL pro:sub|they v|have adv|very adj|similar
+	n|result-PL conj|if pro:sub|they v|remove adv|all det:art|the
+	n|predator-PL pro:sub|they mod|can adj|pretty adv|much v|stop
+	det:art|the n|cycle-PL conj|but adv|there adv|also v|appear-3S
+	inf|to cop|be det:art|a n|food n|effect co|so det:dem|this mod|may
+	cop|be n|general adv|that post|both inter#n|act conj|but det:art|the
+	n|end prep|of det:art|the n|story adv|still aux|be&3S neg|not adv|in
+	.
+%gra:	1|4|LINK 2|3|JCT 3|4|SUBJ 4|36|SUBJ 5|11|QUANT 6|11|LINK 7|10|DET
+	8|10|QUANT 9|10|MOD 10|11|SUBJ 11|4|CPRED 12|11|OBJ2 13|14|MOD 14|11|OBJ
+	15|22|LINK 16|17|DET 17|22|JCT 18|20|DET 19|20|MOD 20|17|POBJ 21|22|SUBJ
+	22|14|CMOD 23|24|JCT 24|25|MOD 25|22|OBJ 26|28|LINK 27|28|SUBJ 28|36|CJCT
+	29|31|JCT 30|31|DET 31|36|SUBJ 32|34|SUBJ 33|34|AUX 34|36|JCT 35|34|JCT
+	36|0|ROOT 37|38|DET 38|36|OBJ 39|36|PUNCT 40|42|SUBJ 41|42|JCT 42|39|ROOT
+	43|44|INF 44|42|COMP 45|47|DET 46|47|MOD 47|44|PRED 48|51|COM
+	49|51|SUBJ 50|51|AUX 51|42|ROOT 52|51|PRED 53|52|NJCT 54|53|PQ 55|54|INCROOT
+	56|55|CONJ 57|58|DET 58|56|COORD 59|58|NJCT 60|61|DET 61|59|POBJ 62|65|JCT
+	63|65|AUX 64|63|NEG 65|58|NJCT 66|55|PUNCT
+*S1:	people are still studying this (.) and &-uh well I guess I'll end
+	there it's very fascinating and we're still trying to figure out
+	what's going on .
+%mor:	n|person&PL aux|be&PRES adv|still part|study-PRESP det:dem|this
+	coord|and adv|well pro:sub|I v|guess pro:sub|I~mod|will n|end
+	adv|there pro:per|it~aux|be&3S adv|very part|fascinate-PRESP
+	coord|and pro:sub|we~aux|be&PRES adv|still part|try-PRESP inf|to
+	v|figure adv|out pro:int|what~aux|be&3S part|go-PRESP adv|on .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|JCT 4|0|ROOT 5|9|DET 6|5|CONJ 7|6|COORD 8|9|SUBJ
+	9|4|COMP 10|12|SUBJ 11|12|AUX 12|9|OBJ 13|17|JCT 14|17|SUBJ 15|17|AUX
+	16|17|JCT 17|12|XMOD 18|22|LINK 19|22|SUBJ 20|22|AUX 21|22|JCT 22|17|CJCT
+	23|24|INF 24|22|COMP 25|24|JCT 26|28|SUBJ 27|28|AUX 28|24|COMP 29|28|JCT
+	30|4|PUNCT
+*S1:	so +...
+%mor:	co|so +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

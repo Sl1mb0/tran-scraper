@@ -1,0 +1,2881 @@
+@UTF8
+@PID:	11312/a-00010174-1
+@Begin
+@Languages:	eng
+@Participants:	S1 Instructor Teacher, S2 Student Student, S3 Student
+	Student, S4 Graduate_Student_Instructor Teacher, SU Student
+	Student, SS Students Student
+@ID:	eng|MICASE|S1|36;|female|NS||Teacher|JF||
+@ID:	eng|MICASE|S2|20;|male|NS||Student|JU||
+@ID:	eng|MICASE|S3|20;|female|NS||Student|JU||
+@ID:	eng|MICASE|S4|27;|female|NS||Teacher|SG||
+@ID:	eng|MICASE|SU|||NS||Student|JU||
+@ID:	eng|MICASE|SS|||NS||Student|JU||
+@Media:	lel320ju147, audio, unlinked
+@Date:	06-APR-2001
+@Situation:	Auditorium, Angell Hall
+*S1:	&=video_clip okay I think we can cut here +...
+%mor:	adj|okay pro:sub|I v|think pro:sub|we mod|can v|cut&ZERO adv|here
+	+...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|JCT 8|3|PUNCT
+*S1:	so this is part of a sort_of thirty two minute (.) video &-uh film
+	(.) recording the process of the [/] the making of Spiral Jetty (.)
+	but you get a kind of idea that you maybe didn't get it so well (.)
+	during lecture of +...
+%mor:	adv|so pro:dem|this cop|be&3S adj|part prep|of det:art|a
+	adv|sort_of det:num|thirty det:num|two adj|minute n|video n|film
+	part|record-PRESP det:art|the n|process prep|of det:art|the
+	n:gerund|make-PRESP prep|of n:prop|Spiral n:prop|Jetty conj|but
+	pro:per|you v|get det:art|a n|kind prep|of n|idea pro:rel|that
+	pro:per|you adv|maybe mod|do&PAST~neg|not v|get pro:per|it adv|so
+	co|well prep|during n|lecture prep|of +...
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|8|DET 7|8|JCT 8|12|QUANT
+	9|12|QUANT 10|12|MOD 11|12|MOD 12|5|POBJ 13|12|XMOD 14|15|DET 15|13|OBJ
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|18|NJCT 20|19|POBJ 21|19|POBJ
+	22|24|LINK 23|24|SUBJ 24|3|CJCT 25|26|DET 26|24|OBJ 27|26|NJCT 28|27|POBJ
+	29|34|LINK 30|34|SUBJ 31|34|JCT 32|34|AUX 33|32|NEG 34|28|CMOD 35|34|OBJ
+	36|37|JCT 37|34|JCT 38|37|JCT 39|38|POBJ 40|39|NJCT 41|3|PUNCT
+*S1:	of how significant the process is to (.) the actual meaning behind
+	the piece (.) and how (.) you know you look at it and say like how
+	the heck was that made ?
+%mor:	prep|of pro:int|how adj|significant det:art|the n|process cop|be&3S
+	prep|to det:art|the adj|actual n|meaning adv|behind det:art|the
+	n|piece coord|and pro:int|how pro:per|you v|know pro:per|you v|look
+	prep|at pro:per|it coord|and v|say co|like pro:int|how det:art|the
+	n|heck cop|be&PAST&13S pro:rel|that v|make&PAST ?
+%gra:	1|6|LINK 2|3|JCT 3|6|PRED 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|13|JCT 12|13|DET 13|6|PUNCT 14|13|CONJ 15|17|LINK
+	16|17|SUBJ 17|14|COORD 18|19|SUBJ 19|17|ROOT 20|19|JCT 21|20|POBJ
+	22|19|CONJ 23|22|COORD 24|28|COM 25|28|LINK 26|27|DET 27|28|SUBJ 28|23|ROOT
+	29|30|LINK 30|28|ROOT 31|30|PUNCT
+*S1:	well literally with a bull dozer right (.) scooping up huge &-uh
+	loads full of (.) stones rocks (.) earth basalt salt (.) and (.)
+	creating the sort_of &-uh the [/] the spiral itself (.) you know
+	foot by foot going back (.) loading up going back .
+%mor:	n|well adv|literal&dadj-LY prep|with det:art|a n|bull n|doze&dv-AGT
+	adj|right part|scoop-PRESP adv|up adj|huge n|load-PL adj|full
+	prep|of n|stone-PL n|rock-PL n|earth n|basalt n|salt coord|and
+	part|create-PRESP det:art|the adv|sort_of det:art|the n|spiral
+	pro:refl|itself pro:per|you v|know n|foot prep|by n|foot
+	part|go-PRESP adv|back part|load-PRESP adv|up part|go-PRESP adv|back
+	.
+%gra:	1|27|JCT 2|1|JCT 3|1|NJCT 4|6|DET 5|6|MOD 6|25|SUBJ 7|8|JCT 8|25|XJCT
+	9|8|JCT 10|11|MOD 11|25|MOD 12|25|MOD 13|12|JCT 14|18|MOD 15|18|MOD
+	16|18|MOD 17|18|MOD 18|13|POBJ 19|12|CONJ 20|19|COORD 21|22|DET 22|25|JCT
+	23|24|DET 24|25|SUBJ 25|3|POBJ 26|27|SUBJ 27|0|ROOT 28|27|OBJ 29|27|JCT
+	30|29|POBJ 31|27|XJCT 32|31|JCT 33|27|XJCT 34|33|JCT 35|33|XJCT 36|35|JCT
+	37|27|PUNCT
+*S1:	and you also saw on the clip &-uh Smithson the artist himself right
+	walking out into &-uh the water to set up the sort_of stakes .
+%mor:	coord|and pro:per|you adv|also v|see&PAST prep|on det:art|the
+	n|clip n:prop|Smithson det:art|the n|art-IST pro:refl|himself
+	adv|right part|walk-PRESP adv|out prep|into det:art|the n|water
+	inf|to v|set&ZERO prep|up det:art|the adv|sort_of n|stake-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|13|SUBJ
+	9|10|DET 10|8|APP 11|8|ENUM 12|13|JCT 13|4|XJCT 14|13|JCT 15|13|JCT
+	16|17|DET 17|15|POBJ 18|19|INF 19|13|XJCT 20|19|JCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|4|PUNCT
+*S1:	so it becomes if you remember when we were talking about minimalism
+	and the idea of phenomenology (.) he becomes very physically
+	implicated and present (.) right in the making of the work (be)cause
+	[?] he connects sort_of bodily with the environment (.) as he stakes
+	out (.) the perimeter (.) the sort_of path &-uh that the spiral
+	jetty will take .
+%mor:	co|so pro:per|it cop|become-3S conj|if pro:per|you v|remember
+	conj|when pro:sub|we aux|be&PAST part|talk-PRESP prep|about
+	n|minimalism coord|and det:art|the n|idea prep|of n|phenomenology
+	pro:sub|he cop|become-3S adv|very adv|physical&dadj-LY
+	v|implicate-PAST coord|and adv|present adj|right prep|in det:art|the
+	n:gerund|make-PRESP prep|of det:art|the n|work conj|because
+	pro:sub|he v|connect-3S adv|sort_of adj|bodily prep|with det:art|the
+	n|environment conj|as pro:sub|he v|stake-3S prep|out det:art|the
+	n|perimeter det:art|the adv|sort_of n|path pro:rel|that det:art|the
+	n|spiral adj|jet&dv-Y mod|will v|take .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|19|CJCT 11|10|JCT 12|11|POBJ 13|12|CONJ 14|15|DET
+	15|13|COORD 16|15|NJCT 17|16|POBJ 18|19|SUBJ 19|6|COMP 20|22|JCT 21|22|JCT
+	22|19|CPRED 23|22|CONJ 24|25|JCT 25|23|COORD 26|25|JCT 27|28|DET 28|26|POBJ
+	29|28|JCT 30|31|DET 31|29|POBJ 32|34|LINK 33|34|SUBJ 34|25|CJCT 35|36|JCT
+	36|34|PRED 37|36|JCT 38|39|DET 39|37|POBJ 40|42|LINK 41|42|SUBJ
+	42|36|CJCT 43|42|JCT 44|45|DET 45|43|POBJ 46|48|DET 47|48|MOD 48|42|CJCT
+	49|51|LINK 50|51|DET 51|48|CMOD 52|54|SUBJ 53|54|AUX 54|51|CMOD 55|3|PUNCT
+*S1:	so we see (.) ooh (.) you know this is the coolest thing to watch
+	in reverse (.) I don't know if you have reverse (.) but &-uh it's a
+	cool video to watch in reverse +...
+%mor:	co|so pro:sub|we co|see v|ooh pro:per|you v|know det:dem|this
+	cop|be&3S det:art|the adj|cool-SP n|thing inf|to v|watch prep|in
+	n|reverse pro:sub|I mod|do~neg|not v|know comp|if pro:per|you v|have
+	n|reverse conj|but pro:per|it~cop|be&3S det:art|a adj|cool n|video
+	inf|to v|watch prep|in n|reverse +...
+%gra:	1|4|COM 2|4|SUBJ 3|4|COM 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|DET 8|6|COMP
+	9|11|DET 10|11|MOD 11|8|PRED 12|13|INF 13|11|XMOD 14|13|JCT 15|14|POBJ
+	16|19|SUBJ 17|19|AUX 18|17|NEG 19|4|COMP 20|22|LINK 21|22|SUBJ 22|19|COMP
+	23|22|OBJ 24|26|LINK 25|26|SUBJ 26|4|CJCT 27|29|DET 28|29|MOD 29|26|PRED
+	30|31|INF 31|29|XMOD 32|31|JCT 33|32|POBJ 34|4|PUNCT
+*S1:	&=laughs:multiple I don't know what it is about (.) &=laughs stones
+	going back up into and having (.) backward splash .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what pro:per|it aux|be&3S
+	prep|about n|stone-PL part|go-PRESP adv|back adv|up prep|into
+	coord|and part|have-PRESP adj|backward n|splash .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|10|LINK 6|10|SUBJ 7|10|AUX 8|10|JCT
+	9|8|POBJ 10|4|COMP 11|10|JCT 12|10|JCT 13|10|JCT 14|13|CONJ 15|14|COORD
+	16|17|MOD 17|15|OBJ 18|4|PUNCT
+*S1:	isn't it bizarre ?
+%mor:	cop|be&3S~neg|not pro:per|it adj|bizarre ?
+%gra:	1|0|ROOT 2|1|NEG 3|1|PRED 4|3|OM 5|1|PUNCT
+*S1:	&=student_claps yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	cool .
+%mor:	adj|cool .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so we have with Earthworks as we talked about before this expanding
+	(.) you know definition of art (.) what it's made of (.) where it is
+	&-uh &wer the relationship between the viewer .
+%mor:	co|so pro:sub|we v|have prep|with n:prop|Earthworks conj|as
+	pro:sub|we v|talk-PAST adv|about adv|before pro:dem|this
+	part|expand-PRESP pro:per|you v|know n|definition prep|of n|art
+	pro:int|what pro:per|it~aux|be&3S part|make&PASTP prep|of
+	pro:int|where pro:per|it cop|be&3S det:art|the n|relate&dv-TION-SHIP
+	prep|between det:art|the n|view&dv-AGT .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|JCT 10|8|JCT 11|8|OBJ 12|11|XMOD 13|14|SUBJ 14|12|COMP 15|14|OBJ
+	16|15|NJCT 17|16|POBJ 18|21|LINK 19|21|SUBJ 20|21|AUX 21|14|COMP 22|21|JCT
+	23|25|LINK 24|25|SUBJ 25|22|CPOBJ 26|27|DET 27|25|PRED 28|27|NJCT
+	29|30|DET 30|28|POBJ 31|3|PUNCT
+*S1:	it's certainly far removed from the gallery and the museum space
+	(.) and it seems to be really (.) about process (.) about flux (.)
+	about time .
+%mor:	pro:per|it~aux|be&3S adv|certain&dadj-LY adv|far part|remove-PASTP
+	prep|from det:art|the n|gallery coord|and det:art|the n|museum
+	n|space coord|and pro:per|it cop|seem-3S inf|to cop|be
+	adv|real&dadj-LY prep|about n|process prep|about n|flux prep|about
+	n|time .
+%gra:	1|5|SUBJ 2|5|AUX 3|4|JCT 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|12|DET 11|12|MOD 12|9|COORD 13|15|LINK 14|15|SUBJ 15|12|CMOD
+	16|17|INF 17|15|COMP 18|17|JCT 19|18|JCT 20|19|POBJ 21|20|NJCT 22|21|POBJ
+	23|22|NJCT 24|23|POBJ 25|5|PUNCT
+*S1:	and you can see in this video how he's making reference to &-uh not
+	only sort_of (.) the idea of now and the process of now while it's
+	being created but &yo you saw the little cut to dinosaurs so (.)
+	this also reference back to prehistoric time (.) to geologic time
+	&-uh to a much sort_of older slower time .
+%mor:	coord|and pro:per|you mod|can v|see prep|in det:dem|this n|video
+	pro:int|how pro:sub|he~aux|be&3S part|make-PRESP n|reference inf|to
+	neg|not adv|only adv|sort_of det:art|the n|idea prep|of adv|now
+	coord|and det:art|the n|process prep|of adv|now n|while
+	pro:per|it~aux|be&3S aux|be-PRESP part|create-PASTP conj|but
+	pro:per|you v|see&PAST det:art|the adj|little n|cut prep|to
+	n|dinosaur-PL conj|so pro:dem|this adv|also n|reference adv|back
+	prep|to pre#adj|historic n|time prep|to adj|geologic n|time prep|to
+	det:art|a qn|much adv|sort_of adj|old-CP adj|slow-CP n|time .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|4|PUNCT 12|11|OBJ 13|14|INF 14|15|NEG 15|16|JCT
+	16|12|NJCT 17|18|DET 18|16|POBJ 19|18|NJCT 20|19|POBJ 21|18|CONJ 22|23|DET
+	23|21|COORD 24|23|NJCT 25|30|JCT 26|30|AUX 27|30|SUBJ 28|30|AUX
+	29|30|AUX 30|24|POBJ 31|33|LINK 32|33|SUBJ 33|11|ROOT 34|36|DET 35|36|MOD
+	36|33|OBJ 37|36|NJCT 38|37|POBJ 39|42|LINK 40|42|SUBJ 41|42|JCT 42|33|INCROOT
+	43|42|JCT 44|42|NJCT 45|44|POBJ 46|45|OBJ 47|46|NJCT 48|49|MOD
+	49|47|POBJ 50|46|NJCT 51|52|DET 52|56|QUANT 53|54|JCT 54|56|MOD 55|56|MOD
+	56|50|POBJ 57|42|PUNCT
+*S1:	at the same time (.) he also this piece is also (.) purposefully
+	trying to play with (.) present (.) and potentially future as it
+	becomes (.) okay well now it becomes less cool backwards (.)
+	&=laughs &-uh as it becomes implicated in (.) the daily sort_of
+	environment and activities of (.) this (.) lake (.) and of_course
+	disappears and ends up (.) sort_of (.) being uncreated by the very
+	environment in which it was made .
+%mor:	prep|at det:art|the adj|same n|time pro:sub|he adv|also
+	det:dem|this n|piece aux|be&3S adv|also adv|purpose&dadj-FULL-LY
+	part|try-PRESP inf|to v|play prep|with n|present coord|and
+	adv|potential&dadj-LY adj|future conj|as pro:per|it cop|become-3S
+	adj|okay adv|well adv|now pro:per|it cop|become-3S adj|less adj|cool
+	adv|backwards conj|as pro:per|it cop|become-3S v|implicate-PAST
+	prep|in det:art|the adj|daily adv|sort_of n|environment coord|and
+	n|active&dadj-ITY-PL prep|of det:dem|this n|lake coord|and
+	co|of_course dis#v|appear-3S coord|and v|end-3S adv|up adv|sort_of
+	n|being un#part|create-PASTP prep|by det:art|the adv|very
+	n|environment prep|in pro:rel|which pro:per|it aux|be&PAST&13S
+	part|make&PASTP .
+%gra:	1|34|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|34|SUBJ 6|12|JCT 7|8|DET 8|12|SUBJ
+	9|12|AUX 10|11|JCT 11|12|JCT 12|34|XJCT 13|14|INF 14|12|COMP 15|14|JCT
+	16|15|POBJ 17|16|CONJ 18|19|JCT 19|17|COORD 20|22|LINK 21|22|SUBJ
+	22|34|SUBJ 23|22|PRED 24|25|JCT 25|27|JCT 26|27|SUBJ 27|34|AUX 28|34|JCT
+	29|34|JCT 30|29|JCT 31|33|COORD 32|33|SUBJ 33|34|SUBJ 34|0|ROOT 35|34|JCT
+	36|39|DET 37|39|MOD 38|39|JCT 39|35|POBJ 40|39|CONJ 41|40|COORD 42|41|NJCT
+	43|44|DET 44|42|POBJ 45|34|CONJ 46|47|COM 47|45|COORD 48|34|CONJ
+	49|48|COORD 50|49|JCT 51|53|JCT 52|53|MOD 53|49|ROOT 54|53|NJCT 55|57|DET
+	56|57|JCT 57|54|POBJ 58|57|NJCT 59|62|LINK 60|62|SUBJ 61|62|AUX 62|58|ROOT
+	63|62|PUNCT
+*S1:	so you can also get an idea from this video (.) and from the slides
+	that we looked at when we saw this piece as_well_as the other
+	Earthworks (.) that we looked at (.) how important photography (.)
+	and video (.) are (.) in the recording (.) of these works how
+	important photographic process (.) is (.) to our being able to get
+	access to these works right because I don't +//.
+%mor:	co|so pro:per|you mod|can adv|also v|get det:art|a n|idea prep|from
+	det:dem|this n|video coord|and prep|from det:art|the n|slide-PL
+	pro:rel|that pro:sub|we v|look-PAST prep|at conj|when pro:sub|we
+	v|see&PAST det:dem|this n|piece coord|as_well_as det:art|the
+	qn|other n:prop|Earthworks comp|that pro:sub|we v|look-PAST prep|at
+	pro:int|how adj|important n|photography coord|and n|video
+	cop|be&PRES prep|in det:art|the n:gerund|record-PRESP prep|of
+	det:dem|these n|work-PL pro:rel|how adj|important photo#adj|graphic
+	n|process cop|be&3S prep|to det:poss|our n|being adj|able inf|to
+	v|get n|access prep|to det:dem|these n|work-PL adj|right
+	conj|because pro:sub|I mod|do~neg|not +//.
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|5|CONJ 12|11|COORD 13|14|DET 14|12|POBJ 15|17|LINK
+	16|17|SUBJ 17|14|CMOD 18|17|JCT 19|21|LINK 20|21|SUBJ 21|18|CPOBJ 22|23|DET
+	23|21|OBJ 24|23|CONJ 25|27|DET 26|27|QUANT 27|24|COORD 28|30|LINK
+	29|30|SUBJ 30|27|ROOT 31|37|JCT 32|34|JCT 33|34|MOD 34|37|SUBJ 35|34|CONJ
+	36|35|COORD 37|30|ROOT 38|37|JCT 39|40|DET 40|38|POBJ 41|40|JCT 42|43|DET
+	43|48|JCT 44|47|LINK 45|47|MOD 46|47|MOD 47|48|SUBJ 48|41|POBJ 49|40|JCT
+	50|51|DET 51|49|POBJ 52|40|JCT 53|54|INF 54|52|XMOD 55|54|OBJ 56|55|NJCT
+	57|58|DET 58|56|POBJ 59|55|INCROOT 60|64|LINK 61|64|SUBJ 62|64|AUX
+	63|62|NEG 64|59|ROOT
+*S1:	I actually haven't ever (.) taken a trip to Spiral Jetty when it
+	was still around (.) I don't know if you have (.) nor have I been to
+	The Lightning Field and so what makes it possible for us to
+	experience these works (.) is photography and video .
+%mor:	pro:sub|I adv|actual&dadj-LY v|have~neg|not adv|ever
+	part|take&PASTP det:art|a n|trip prep|to n:prop|Spiral n:prop|Jetty
+	conj|when pro:per|it cop|be&PAST&13S adv|still prep|around pro:sub|I
+	mod|do~neg|not v|know comp|if pro:per|you v|have coord|nor v|have
+	pro:sub|I cop|be&PASTP prep|to n:prop|The n:prop|Lightning
+	n:prop|Field coord|and adv|so pro:int|what v|make-3S pro:per|it
+	adj|possible prep|for pro:obj|us inf|to v|experience det:dem|these
+	n|work-PL cop|be&3S n|photography coord|and n|video .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|NEG 5|6|JCT 6|3|XJCT 7|8|DET 8|20|SUBJ
+	9|8|NJCT 10|9|POBJ 11|20|AUX 12|14|LINK 13|14|SUBJ 14|20|CJCT 15|14|JCT
+	16|14|JCT 17|20|SUBJ 18|20|AUX 19|18|NEG 20|6|COMP 21|23|LINK 22|23|SUBJ
+	23|20|COMP 24|23|CONJ 25|24|COORD 26|27|SUBJ 27|25|COMP 28|27|JCT
+	29|30|NAME 30|28|POBJ 31|35|JCT 32|31|CONJ 33|32|COORD 34|35|SUBJ 35|27|CJCT
+	36|35|OBJ 37|35|JCT 38|37|JCT 39|38|POBJ 40|41|INF 41|37|XMOD 42|43|DET
+	43|44|SUBJ 44|41|COMP 45|44|PRED 46|45|CONJ 47|46|COORD 48|3|PUNCT
+*S1:	so today what we wanna do (.) with the time that we have &-uh we
+	wanna deal with two (.) things .
+%mor:	adv|so adv:tem|today pro:int|what pro:sub|we v|want~inf|to v|do
+	prep|with det:art|the n|time pro:rel|that pro:sub|we v|have
+	pro:sub|we v|want~inf|to v|deal prep|with det:num|two n|thing-PL .
+%gra:	1|2|JCT 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|COBJ 6|7|INF 7|5|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|13|LINK 12|13|SUBJ 13|10|CMOD 14|15|SUBJ
+	15|13|COMP 16|17|INF 17|15|COMP 18|17|JCT 19|20|QUANT 20|18|POBJ 21|2|PUNCT
+*S1:	one thing we wanna do is deal with (.) the concept of (.)
+	postmodernism .
+%mor:	det:num|one n|thing pro:sub|we v|want~inf|to v|do cop|be&3S v|deal
+	prep|with det:art|the n|concept prep|of post#n|modern&dadj-ISM .
+%gra:	1|2|QUANT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|4|PUNCT
+*S1:	the P word .
+%mor:	det:art|the n:prop|P n|word .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S1:	AKA (.) pomo [: postmodernism] .
+%mor:	n:prop|AKA post#n|modern&dadj-ISM .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*S1:	postmodernism (.) often used to describe visual arts made (.)
+	between (.) the nineteen sixties and the present (.) and what we're
+	gonna do is look specifically at the case of (.) photography .
+%mor:	post#n|modern&dadj-ISM adv|often part|use-PASTP inf|to v|describe
+	adj|visual n|art-PL part|make&PASTP prep|between det:art|the
+	det:num|nineteen n|sixty-PL coord|and det:art|the n|present
+	coord|and pro:int|what pro:sub|we~aux|be&PRES part|go-PRESP~inf|to
+	mod|do aux|be&3S cop|look adv|specific&dadj-AL-LY prep|at
+	det:art|the n|case prep|of n|photography .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|XMOD 4|5|INF 5|3|COMP 6|7|MOD 7|5|OBJ 8|5|XJCT
+	9|8|JCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|12|CONJ 14|15|DET 15|13|COORD
+	16|8|CONJ 17|20|LINK 18|20|SUBJ 19|20|AUX 20|16|COORD 21|24|INF
+	22|24|AUX 23|24|AUX 24|20|COMP 25|24|JCT 26|24|JCT 27|28|DET 28|26|POBJ
+	29|28|NJCT 30|29|POBJ 31|1|PUNCT
+*S1:	so the implication of photography &-uh in postmodern practice .
+%mor:	co|so det:art|the n|implicate&dv-TION prep|of n|photography prep|in
+	post#adj|modern n|practice .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+*S1:	but where we're gonna begin (.) is (.) with a little jaunt a little
+	foray (.) into architecture .
+%mor:	conj|but pro:int|where pro:sub|we~aux|be&PRES part|go-PRESP~inf|to
+	v|begin aux|be&3S prep|with det:art|a adj|little n|jaunt det:art|a
+	adj|little n|foray prep|into n|architecture .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|15|DET 14|15|MOD 15|12|OBJ
+	16|15|NJCT 17|16|POBJ 18|5|PUNCT
+*S1:	so on the left you have (.) does anyone recognize that building ?
+%mor:	adv|so prep|on det:art|the adj|left pro:per|you v|have mod|do&3S
+	pro:indef|anyone v|recognize adv|that n|building ?
+%gra:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|4|CMOD 7|9|AUX 8|9|SUBJ
+	9|6|COMP 10|11|JCT 11|9|JCT 12|2|PUNCT
+*S1:	any of you New York City (.) folks ?
+%mor:	qn|any prep|of pro:per|you n:prop|New n:prop|York n:prop|City
+	n|folk-PL ?
+%gra:	1|0|INCROOT 2|1|JCT 3|7|MOD 4|5|NAME 5|7|MOD 6|7|MOD 7|2|POBJ 8|1|PUNCT
+*S2:	Seagram .
+%mor:	n:prop|Seagram .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	very good (.) whoever that was .
+%mor:	adv|very adj|good pro:int|whoever pro:dem|that cop|be&PAST&13S .
+%gra:	1|2|JCT 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|2|PUNCT
+*S1:	Seagram building .
+%mor:	n:prop|Seagram n|building .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S1:	this is by Mies_Van_Der_Rohe .
+%mor:	pro:dem|this cop|be&3S prep|by n:prop|Mies_Van_Der_Rohe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*S1:	Mies_Van_Der_Rohe the Seagram building (.) built in the late
+	nineteen fifties (.) and on the right (.) any gamblers in the
+	audience ?
+%mor:	n:prop|Mies_Van_Der_Rohe det:art|the n:prop|Seagram n|building
+	v|build&PAST prep|in det:art|the adj|late det:num|nineteen
+	n|fifty-PL coord|and prep|on det:art|the adj|right qn|any
+	n|gamble&dv-AGT-PL prep|in det:art|the n|audience ?
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|10|DET 8|10|MOD
+	9|10|QUANT 10|6|POBJ 11|5|CONJ 12|11|COORD 13|16|DET 14|16|MOD 15|16|QUANT
+	16|12|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|5|PUNCT
+*S3:	it's Las Vegas .
+%mor:	pro:per|it~cop|be&3S n:prop|Las n:prop|Vegas .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|NAME 4|2|PRED 5|2|PUNCT
+*SS:	<New York> [/] New York .
+%mor:	n:prop|New n:prop|York .
+%gra:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*S1:	oh sure everyone can recognize <New York> [/] New York in Vegas (.)
+	&=laughs and we got one person who can do Seagram .
+%mor:	co|oh adj|sure pro:indef|everyone mod|can v|recognize n:prop|New
+	n:prop|York prep|in n:prop|Vegas coord|and pro:sub|we v|get&PAST
+	det:num|one n|person pro:rel|who mod|can v|do n:prop|Seagram .
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|NAME 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|12|LINK 11|12|SUBJ 12|5|CJCT 13|14|QUANT 14|12|OBJ 15|17|LINK
+	16|17|AUX 17|14|CMOD 18|17|OBJ 19|5|PUNCT
+*S1:	hm what does that mean ?
+%mor:	co|hm pro:int|what mod|do&3S pro:dem|that adj|mean ?
+%gra:	1|5|COM 2|5|OBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*S1:	what does that say ?
+%mor:	pro:int|what mod|do&3S pro:dem|that v|say ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*S1:	yes <New York> [/] New York (.) Las Vegas .
+%mor:	co|yes n:prop|New n:prop|York n:prop|Las n:prop|Vegas .
+%gra:	1|3|COM 2|3|NAME 3|4|NAME 4|5|NAME 5|0|ROOT 6|5|PUNCT
+*S1:	have you been there (.) Rhonda ?
+%mor:	v|have pro:per|you cop|be&PASTP adv|there n:prop|Rhonda ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|JCT 5|3|PRED 6|1|PUNCT
+*S3:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	was it fun ?
+%mor:	cop|be&PAST&13S pro:per|it adj|fun ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*S3:	they have a really nice roller coaster .
+%mor:	pro:sub|they v|have det:art|a adv|real&dadj-LY adj|nice
+	n|roll&dv-AGT n|coast&dv-AGT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|DET 4|5|JCT 5|7|MOD 6|7|MOD 7|2|OBJ 8|2|PUNCT
+*S1:	they have a really nice roller coaster .
+%mor:	pro:sub|they v|have det:art|a adv|real&dadj-LY adj|nice
+	n|roll&dv-AGT n|coast&dv-AGT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|DET 4|5|JCT 5|7|MOD 6|7|MOD 7|2|OBJ 8|2|PUNCT
+*S1:	<just like> [/] &th just like Manhattan .
+%mor:	adj|just v|like n:prop|Manhattan .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*S1:	yeah (.) no .
+%mor:	co|yeah co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	&-uh so we've got <New York> [/] New York on the right a simulation
+	of New York city (.) right (.) in Las Vegas .
+%mor:	co|so pro:sub|we~aux|have part|get&PASTP n:prop|New n:prop|York
+	prep|on det:art|the adj|right det:art|a n|simulate&dv-TION prep|of
+	n:prop|New n:prop|York n|city adj|right prep|in n:prop|Las
+	n:prop|Vegas .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|APP 7|4|JCT 8|11|DET
+	9|11|MOD 10|11|DET 11|7|POBJ 12|11|NJCT 13|15|MOD 14|15|MOD 15|12|POBJ
+	16|19|MOD 17|16|JCT 18|17|POBJ 19|11|APP 20|4|PUNCT
+*S1:	a simulation &-um but not as (.) big right it's sort_of (.) do you
+	know how big it is in relationship to the real thing (.) in terms of
+	scale ?
+%mor:	det:art|a n|simulate&dv-TION conj|but neg|not prep|as adj|big
+	n|right pro:per|it~cop|be&3S adv|sort_of v|do pro:per|you v|know
+	pro:int|how adj|big pro:per|it cop|be&3S prep|in
+	n|relate&dv-TION-SHIP prep|to det:art|the adj|real n|thing prep|in
+	n|term-PL prep|of n|scale ?
+%gra:	1|2|DET 2|11|SUBJ 3|9|LINK 4|5|NEG 5|9|JCT 6|7|MOD 7|5|POBJ 8|9|SUBJ
+	9|11|CJCT 10|9|JCT 11|0|ROOT 12|13|SUBJ 13|11|COMP 14|15|JCT 15|17|PRED
+	16|17|SUBJ 17|13|COMP 18|17|JCT 19|18|POBJ 20|17|JCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|23|NJCT 25|24|POBJ 26|25|NJCT 27|26|POBJ 28|11|PUNCT
+*SU:	<it's pretty small> [?] .
+%mor:	pro:per|it~cop|be&3S adj|pretty adj|small .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*S1:	relatively speaking small but from a distance it gives you this
+	idea of (.) the high+rise .
+%mor:	adv|relative&dadj-LY part|speak-PRESP adj|small conj|but prep|from
+	det:art|a n|distance pro:per|it v|give-3S pro:per|you det:dem|this
+	n|idea prep|of det:art|the adj|+adj|high+n|rise .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|9|LINK 5|9|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|3|CMOD 10|9|OBJ 11|12|DET 12|10|POBJ 13|12|NJCT 14|15|DET 15|13|POBJ
+	16|2|PUNCT
+*S1:	so New York becomes a kind of icon &-uh symbolized by what (.) I'm
+	trying not to walk away from mics (.) from (.) with the high+rise
+	can you recognize any of the buildings ?
+%mor:	co|so n:prop|New n:prop|York cop|become-3S det:art|a n|kind prep|of
+	n|icon part|symbol-IZE-PASTP prep|by pro:int|what
+	pro:sub|I~aux|be&1S part|try-PRESP neg|not prep|to n|walk adv|away
+	prep|from n|mic-PL prep|from prep|with det:art|the
+	adj|+adj|high+n|rise mod|can pro:per|you v|recognize qn|any prep|of
+	det:art|the n|building-PL ?
+%gra:	1|3|COM 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|7|POBJ
+	9|6|XMOD 10|9|JCT 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CPOBJ 15|14|NEG
+	16|14|JCT 17|16|POBJ 18|14|JCT 19|14|JCT 20|19|POBJ 21|14|JCT 22|27|LINK
+	23|24|DET 24|27|SUBJ 25|27|AUX 26|27|SUBJ 27|21|POBJ 28|27|OBJ 29|28|JCT
+	30|31|DET 31|29|POBJ 32|4|PUNCT
+*S1:	Chrysler (.) I think (.) Empire State (.) and of_course on the left
+	hand side (.) the Statue of Liberty (.) located +...
+%mor:	n:prop|Chrysler pro:sub|I v|think n:prop|Empire n:prop|State
+	coord|and co|of_course prep|on det:art|the adj|left n|hand n|side
+	det:art|the n:prop|Statue prep|of n:prop|Liberty v|locate-PAST +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|APP 6|17|LINK 7|17|COM 8|17|JCT
+	9|12|DET 10|11|MOD 11|12|MOD 12|8|POBJ 13|14|DET 14|17|SUBJ 15|14|NJCT
+	16|15|POBJ 17|3|CJCT 18|3|PUNCT
+*S1:	in the middle of water (.) near Ellis Island ?
+%mor:	prep|in det:art|the n|middle prep|of n|water prep|near n:prop|Ellis
+	n:prop|Island ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|NJCT 5|4|POBJ 6|1|JCT 7|8|NAME
+	8|6|POBJ 9|1|PUNCT
+*S1:	no (.) in the middle of Las Vegas (.) lend me your weary .
+%mor:	co|no prep|in det:art|the n|middle prep|of n:prop|Las n:prop|Vegas
+	v|lend pro:obj|me det:poss|your adj|weary .
+%gra:	1|8|COM 2|8|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|11|DET 11|8|OBJ 12|8|PUNCT
+*S1:	&-uh I was gonna make some joke about you know (.) desperate
+	gambling but [/] but I won't (be)cause Las Vegas is about so much
+	more .
+%mor:	pro:sub|I aux|be&PAST&13S part|go-PRESP~inf|to v|make qn|some
+	n|joke prep|about pro:per|you v|know adj|desperate
+	n:gerund|gamble-PRESP conj|but pro:sub|I mod|will~neg|not
+	conj|because n:prop|Las n:prop|Vegas cop|be&3S adv|about adv|so
+	adv|much pro:indef|more .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|QUANT 7|5|OBJ 8|10|JCT
+	9|10|SUBJ 10|5|COMP 11|12|MOD 12|10|COMP 13|3|CONJ 14|17|SUBJ 15|17|AUX
+	16|15|NEG 17|20|LINK 18|19|NAME 19|20|SUBJ 20|13|COORD 21|22|JCT
+	22|23|JCT 23|20|JCT 24|23|POBJ 25|3|PUNCT
+*S1:	albino tigers (.) magic (.) the Rat Pack (.) glamour (.) and &-uh
+	fakeness right ?
+%mor:	adj|albino n|tiger-PL adj|magic det:art|the n:prop|Rat n:prop|Pack
+	n|glamour coord|and n|fake&dadj-NESS co|right ?
+%gra:	1|2|MOD 2|7|MOD 3|7|MOD 4|5|DET 5|7|MOD 6|7|MOD 7|0|INCROOT 8|7|CONJ
+	9|8|COORD 10|7|COM 11|7|PUNCT
+*S1:	the idea of (.) a kind of fake substitution for the real thing .
+%mor:	det:art|the n|idea prep|of det:art|a n|kind prep|of adj|fake
+	n|substitute&dv-TION prep|for det:art|the adj|real n|thing .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|2|NJCT 10|12|DET 11|12|MOD 12|9|POBJ 13|2|PUNCT
+*S1:	so Mies_Van_Der_Rohe on the left this is not an example of
+	postmodern architecture but instead (.) high modernism .
+%mor:	co|so n:prop|Mies_Van_Der_Rohe prep|on det:art|the adj|left
+	pro:dem|this cop|be&3S neg|not det:art|a n|example prep|of
+	post#adj|modern n|architecture conj|but adv|instead adj|high
+	n|modern&dadj-ISM .
+%gra:	1|2|COM 2|7|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|7|NEG
+	9|10|DET 10|7|PRED 11|10|NJCT 12|13|MOD 13|11|POBJ 14|7|CONJ 15|16|JCT
+	16|17|MOD 17|14|COORD 18|7|PUNCT
+*S1:	modernism with a capital M something that we are +//.
+%mor:	n|modern&dadj-ISM prep|with det:art|a n|capital n:prop|M
+	pro:indef|something pro:rel|that pro:sub|we cop|be&PRES +//.
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|9|LINK
+	8|9|SUBJ 9|6|CMOD 10|1|PUNCT
+*S1:	we've become increasingly familiar with .
+%mor:	pro:sub|we~aux|have part|become&PASTP adv|increase&dadj-PRESP-LY
+	adj|familiar prep|with .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|JCT 6|5|JCT 7|3|PUNCT
+*S1:	and how do we know ?
+%mor:	coord|and pro:int|how mod|do pro:sub|we v|know ?
+%gra:	1|5|LINK 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*S1:	what do we +//.
+%mor:	pro:int|what mod|do pro:sub|we +//.
+%gra:	1|3|OBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*S1:	how do we characterize it stylistically when we look at it ?
+%mor:	pro:int|how mod|do pro:sub|we v|character&dadj-IZE pro:per|it
+	adv|stylistic&dadj-AL-LY conj|when pro:sub|we v|look prep|at
+	pro:per|it ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|9|JCT 11|10|POBJ 12|4|PUNCT
+*S1:	is there a_lot_of ornamentation going on ?
+%mor:	cop|be&3S adv|there qn|a_lot_of n|ornament&dv-TION part|go-PRESP
+	adv|on ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|QUANT 4|1|PRED 5|4|XMOD 6|5|JCT 7|1|PUNCT
+*S1:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	no (.) so very sort_of streamlined (.) sparse .
+%mor:	co|no adv|so adv|very adv|sort_of v|streamline-PAST adj|sparse .
+%gra:	1|5|COM 2|5|JCT 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*S1:	actually if you look at it close up (.) Mies_Van_Der_Rohe the
+	architect who coined (.) the cliche (.) what's become the cliche
+	form follows function .
+%mor:	adv|actual&dadj-LY conj|if pro:per|you v|look prep|at pro:per|it
+	v|close adv|up n:prop|Mies_Van_Der_Rohe det:art|the n|architect
+	pro:rel|who v|coin-PAST det:art|the n|cliche pro:int|what~cop|be&3S
+	cop|become det:art|the n|cliche n|form v|follow-3S n|function .
+%gra:	1|4|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|XJCT 8|7|JCT
+	9|17|JCT 10|11|DET 11|9|OBJ 12|13|LINK 13|11|CMOD 14|15|DET 15|13|OBJ
+	16|17|SUBJ 17|7|COMP 18|22|AUX 19|21|DET 20|21|MOD 21|22|SUBJ 22|17|CPRED
+	23|22|OBJ 24|4|PUNCT
+*S1:	alright so very sort_of streamlined aesthetic &-uh &a literally
+	where you [/] &ca you can sort_of see the construction (.) on the
+	exterior of the building .
+%mor:	co|alright adv|so adv|very adv|sort_of v|streamline-PAST
+	n|aesthetic adv|literal&dadj-LY pro:int|where pro:per|you mod|can
+	adv|sort_of v|see det:art|the n|construction prep|on det:art|the
+	n|exterior prep|of det:art|the n|building .
+%gra:	1|5|COM 2|5|JCT 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|JCT 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|5|COMP 13|14|DET 14|12|OBJ 15|12|JCT
+	16|17|DET 17|15|POBJ 18|17|NJCT 19|20|DET 20|18|POBJ 21|5|PUNCT
+*S1:	and in fact if you had a detailed slide of this building we would
+	see (.) just this teensiest tiniest little bit of applied ornament
+	he's taken &-um steel i@l beams and actually placed them on the
+	exterior of the building going vertically (.) so real vertical
+	emphasis here right .
+%mor:	coord|and prep|in n|fact conj|if pro:per|you v|have&PAST det:art|a
+	part|detail-PASTP n|slide prep|of det:dem|this n|building pro:sub|we
+	mod|will&COND v|see adj|just det:dem|this adj|teensy-SP adj|tiny-SP
+	adj|little n|bit prep|of part|apply-PASTP n|ornament
+	pro:sub|he~aux|be&3S part|take&PASTP n|steel n:let|i n|beam-PL
+	coord|and adv|actual&dadj-LY v|place-PAST pro:obj|them prep|on
+	det:art|the n|exterior prep|of det:art|the n|building part|go-PRESP
+	adv|vertical&dadj-LY adv|so adj|real adj|vertical n|emphasis
+	adv|here adj|right .
+%gra:	1|15|LINK 2|15|JCT 3|2|POBJ 4|6|LINK 5|6|SUBJ 6|15|CJCT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|15|SUBJ 14|15|AUX 15|0|ROOT
+	16|15|PRED 17|21|DET 18|21|MOD 19|21|MOD 20|21|MOD 21|27|JCT 22|21|NJCT
+	23|24|MOD 24|22|POBJ 25|27|SUBJ 26|27|AUX 27|16|XMOD 28|30|MOD 29|30|MOD
+	30|27|OBJ 31|33|LINK 32|33|JCT 33|16|CMOD 34|33|OBJ 35|33|JCT 36|37|DET
+	37|35|POBJ 38|37|NJCT 39|40|DET 40|38|POBJ 41|33|XJCT 42|41|JCT
+	43|44|JCT 44|46|MOD 45|46|MOD 46|41|OBJ 47|48|JCT 48|46|POSTMOD 49|15|PUNCT
+*S1:	and those i@l beams don't actually serve as support (.) they in a
+	sense mirror the internal (.) skeletal framework of the building (.)
+	but they in a sense become (.) a kind of &-uh ornament if you will
+	(.) although extremely subtle (.) extremely refined (.) extremely
+	spare .
+%mor:	coord|and pro:dem|those n:let|i n|beam-PL mod|do~neg|not
+	adv|actual&dadj-LY v|serve conj|as n|support pro:sub|they prep|in
+	det:art|a n|sense n|mirror det:art|the adj|internal adj|skeletal
+	n|framework prep|of det:art|the n|building conj|but pro:sub|they
+	prep|in det:art|a n|sense cop|become det:art|a n|kind prep|of
+	n|ornament conj|if pro:per|you mod|will conj|although
+	adv|extreme&dadj-LY adj|subtle adv|extreme&dadj-LY v|refine-PAST
+	adv|extreme&dadj-LY none|spare .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|LINK 4|8|SUBJ 5|8|AUX 6|5|NEG 7|8|JCT 8|0|ROOT
+	9|10|COORD 10|8|PUNCT 11|10|NJCT 12|11|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|19|DET 17|19|MOD 18|19|MOD 19|15|APP 20|19|NJCT 21|22|DET 22|20|POBJ
+	23|11|CONJ 24|23|COORD 25|24|NJCT 26|27|DET 27|28|SUBJ 28|25|POBJ
+	29|30|DET 30|28|PRED 31|30|NJCT 32|31|POBJ 33|24|INCROOT 34|36|SUBJ 35|36|AUX
+	36|33|INCROOT 37|38|JCT 38|36|PRED 39|40|JCT 40|38|CMOD 41|42|JCT
+	42|40|COMP 43|36|PUNCT
+*S1:	so in contrast with this idea of (.) high modernism something
+	changes (.) in the sixties seventies eighties and nineties .
+%mor:	adv|so prep|in n|contrast prep|with det:dem|this n|idea prep|of
+	n|high n|modern&dadj-ISM pro:indef|something n|change-PL prep|in
+	det:art|the n|sixty-PL n|seventy-PL n|eighty-PL coord|and
+	n|ninety-PL .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|0|INCROOT 5|6|DET 6|4|POBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|11|MOD 11|4|POBJ 12|11|NJCT 13|16|DET 14|16|MOD 15|16|MOD
+	16|12|POBJ 17|16|CONJ 18|17|COORD 19|4|PUNCT
+*S1:	and I'll say from the outset that (.) the term (.) that P word (.)
+	postmodernism (.) is extremely contested (.) amongst scholars and
+	critics (.) art historians (.) for example (.) and other theorists .
+%mor:	coord|and pro:sub|I~mod|will v|say prep|from det:art|the n|outset
+	pro:rel|that det:art|the n|term pro:rel|that n:prop|P n|word
+	post#n|modern&dadj-ISM aux|be&3S adv|extreme&dadj-LY
+	part|contest-PASTP prep|amongst n|scholar-PL coord|and n|critic-PL
+	n|art v|historian-3S prep|for ex#adj|ample coord|and qn|other
+	n|theory-IST-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|DET 10|7|CMOD 11|13|LINK 12|13|MOD 13|23|SUBJ 14|17|SUBJ 15|17|AUX
+	16|17|JCT 17|23|XJCT 18|17|JCT 19|18|POBJ 20|19|CONJ 21|20|COORD
+	22|23|SUBJ 23|10|CMOD 24|23|JCT 25|24|POBJ 26|25|CONJ 27|28|QUANT 28|26|COORD
+	29|4|PUNCT
+*S1:	not agreed upon .
+%mor:	neg|not part|agree-PASTP prep|upon .
+%gra:	1|2|NEG 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*S1:	you know (.) don't you wish one time I could come in here and just
+	say you know this equals that ?
+%mor:	pro:per|you v|know mod|do~neg|not pro:per|you n|wish det:num|one
+	n|time pro:sub|I mod|could v|come prep|in n|here coord|and adv|just
+	v|say pro:per|you v|know det:dem|this n|equal-PL pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|AUX 4|3|NEG 5|6|SUBJ 6|11|JCT 7|8|QUANT 8|6|APP
+	9|11|SUBJ 10|11|AUX 11|2|COMP 12|11|JCT 13|12|POBJ 14|11|CONJ 15|16|JCT
+	16|14|COORD 17|18|SUBJ 18|16|COMP 19|20|DET 20|18|OBJ 21|20|OM 22|2|PUNCT
+*S1:	wouldn't that be &n <what a> [/] what a happy world we'd all live
+	in .
+%mor:	mod|will&COND~neg|not adv|that aux|be pro:int|what det:art|a
+	adj|happy n|world pro:sub|we~mod|genmod adv|all adj|live adv|in .
+%gra:	1|8|AUX 2|1|NEG 3|8|SUBJ 4|8|AUX 5|8|DET 6|8|DET 7|8|MOD 8|0|INCROOT
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|8|CMOD 13|12|JCT 14|8|PUNCT
+*S1:	but no (.) here I am again .
+%mor:	conj|but co|no adv|here pro:sub|I cop|be&1S adv|again .
+%gra:	1|5|LINK 2|5|COM 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*S1:	you know (.) it's a can of worms just like (.) that big modernism
+	word was a can of worms and so is the avant_garde .
+%mor:	pro:per|you v|know pro:per|it~cop|be&3S det:art|a n|can prep|of
+	n|worm-PL adv|just co|like det:dem|that adj|big n|modern&dadj-ISM
+	n|word cop|be&PAST&13S det:art|a n|can prep|of n|worm-PL coord|and
+	adv|so cop|be&3S det:art|the adj|avant_garde .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|PRED 7|6|NJCT 8|7|POBJ
+	9|10|JCT 10|15|COM 11|14|DET 12|14|MOD 13|14|MOD 14|15|SUBJ 15|6|CMOD
+	16|17|DET 17|15|PRED 18|17|NJCT 19|18|POBJ 20|17|CONJ 21|22|JCT
+	22|20|COORD 23|24|DET 24|22|PRED 25|2|PUNCT
+*S1:	some theorists have thought about postmodernism (.) as a kind of
+	radical break from modernism .
+%mor:	qn|some n|theory-IST-PL v|have n|thought prep|about
+	post#n|modern&dadj-ISM prep|as det:art|a n|kind prep|of n|radical
+	n|break prep|from n|modern&dadj-ISM .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|MOD 12|10|POBJ 13|12|NJCT 14|13|POBJ 15|3|PUNCT
+*S1:	so a radical shift from (.) the kind of (.) sort_of stylistic (.)
+	and theoretical example set by somebody like Mies Van_Der_Rohe .
+%mor:	co|so det:art|a adj|radical n|shift prep|from det:art|the n|kind
+	prep|of adv|sort_of adj|stylistic coord|and adj|theoretic-AL
+	ex#adj|ample v|set&ZERO adv|by pro:indef|somebody co|like
+	n:prop|Mies n:prop|Van_Der_Rohe .
+%gra:	1|14|COM 2|4|DET 3|4|MOD 4|14|JCT 5|4|NJCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|JCT 10|8|POBJ 11|10|CONJ 12|11|COORD 13|14|SUBJ 14|0|ROOT 15|14|JCT
+	16|19|NAME 17|16|COM 18|19|NAME 19|15|POBJ 20|14|PUNCT
+*S1:	others however argue that it's merely a continuation (.) of
+	modernism .
+%mor:	n:pt|others adv|however v|argue comp|that pro:per|it~cop|be&3S
+	adv|mere&dadj-LY det:art|a n|continue&dv-TION prep|of
+	n|modern&dadj-ISM .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|3|PUNCT
+*S1:	others still a parody (.) of modernism .
+%mor:	n:pt|others adv|still det:art|a n|parody prep|of n|modern&dadj-ISM
+	.
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|1|PUNCT
+*S1:	but generally speaking there is a kind of recognition that (.) in
+	the art produced sort_of post sixties (.) in the visual culture
+	produced post sixties (.) a_lot_of (.) that work is concerned with
+	articulating (.) <a crisis> [/] a crisis &-um that speaks to (.)
+	sort_of questioning the cultural authority (.) of (.) the so+called
+	west .
+%mor:	conj|but adv|general&dadj-LY part|speak-PRESP adv|there cop|be&3S
+	det:art|a n|kind prep|of n|recognition adv|that prep|in det:art|the
+	n|art v|produce-PAST adv|sort_of n|post n|sixty-PL prep|in
+	det:art|the adj|visual n|culture v|produce-PAST n|post n|sixty-PL
+	qn|a_lot_of det:dem|that n|work aux|be&3S part|concern-PASTP
+	prep|with part|articulate-PRESP det:art|a n|crisis pro:rel|that
+	v|speak-3S inf|to adv|sort_of part|question-PRESP det:art|the
+	adj|cultural n|authority prep|of det:art|the adj|+adj|so+adj|called
+	n|west .
+%gra:	1|3|LINK 2|3|JCT 3|14|SUBJ 4|3|JCT 5|14|AUX 6|7|DET 7|14|SUBJ 8|7|NJCT
+	9|8|POBJ 10|14|JCT 11|14|JCT 12|13|DET 13|11|POBJ 14|0|ROOT 15|17|JCT
+	16|17|MOD 17|14|OBJ 18|17|NJCT 19|21|DET 20|21|MOD 21|22|SUBJ 22|18|POBJ
+	23|24|MOD 24|22|OBJ 25|27|QUANT 26|27|DET 27|29|SUBJ 28|29|AUX 29|24|CMOD
+	30|29|JCT 31|30|POBJ 32|33|DET 33|31|OBJ 34|35|LINK 35|33|CMOD
+	36|38|INF 37|38|JCT 38|35|COMP 39|41|DET 40|41|MOD 41|38|OBJ 42|41|NJCT
+	43|45|DET 44|45|MOD 45|42|POBJ 46|14|PUNCT
+*S1:	of western European culture (.) and institutions .
+%mor:	prep|of adj|western n:prop|European n|culture coord|and
+	n|institute&dv-TION-PL .
+%gra:	1|0|INCROOT 2|4|MOD 3|4|MOD 4|1|POBJ 5|4|CONJ 6|5|COORD 7|1|PUNCT
+*S1:	so a questioning of that kind of authority that we have seen
+	established &-uh sort_of throughout the twentieth century really .
+%mor:	adv|so det:art|a n:gerund|question-PRESP prep|of adv|that adj|kind
+	prep|of n|authority comp|that pro:sub|we aux|have part|see&PASTP
+	v|establish-PAST adv|sort_of prep|throughout det:art|the
+	adj|twentieth n|century adv|real&dadj-LY .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|JCT 5|6|JCT 6|4|POBJ 7|6|JCT 8|7|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CMOD 13|12|OBJ 14|12|JCT 15|12|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|18|NJCT 20|3|PUNCT
+*S1:	so one critic (.) wrote in the late seventies (.) quote &{l=READING
+	the nineteen seventies has not been just another decade .
+%mor:	adv|so det:num|one n|critic v|write&PAST prep|in det:art|the
+	adv|late n|seventy-PL v|quote det:art|the det:num|nineteen
+	n|seventy-PL aux|have&3S neg|not cop|be&PASTP adv|just qn|another
+	n|decade .
+%gra:	1|2|JCT 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|9|DET 7|9|JCT 8|9|SUBJ
+	9|5|POBJ 10|12|DET 11|12|QUANT 12|15|SUBJ 13|15|AUX 14|13|NEG 15|4|CJCT
+	16|17|JCT 17|18|QUANT 18|15|PRED 19|4|PUNCT
+*S1:	something did happen .
+%mor:	pro:indef|something mod|do&PAST v|happen .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*S1:	&}l=READING I'm thinking (.) disco ?
+%mor:	pro:sub|I~aux|be&1S part|think-PRESP n|disco ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*S1:	&=laughs but wait that can't be it (.) &{l=READING something so
+	momentous (.) that it was ignored in disbelief .
+%mor:	conj|but co|wait adv|that mod|can~neg|not cop|be pro:per|it
+	pro:indef|something adv|so adj|momentous comp|that pro:per|it
+	aux|be&PAST&13S part|ignore-PASTP prep|in dis#n|belief .
+%gra:	1|6|LINK 2|6|COM 3|6|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PRED 8|7|OBJ
+	9|10|JCT 10|8|POSTMOD 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD 15|14|JCT
+	16|15|POBJ 17|6|PUNCT
+*S1:	modernity had gone out_of style &}l=READING end quote .
+%mor:	n|modern&dadj-ITY aux|have&PAST part|go&PASTP prep|out_of n|style
+	n|end n|quote .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|MOD 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*S1:	so that sort of gives us (.) hm (.) does that mean this is a
+	sort_of stylistic shift ?
+%mor:	adv|so det:dem|that n|sort prep|of v|give-3S pro:obj|us co|hm
+	mod|do&3S pro:dem|that v|mean pro:dem|this cop|be&3S det:art|a
+	adv|sort_of adj|stylistic n|shift ?
+%gra:	1|7|JCT 2|3|DET 3|1|POBJ 4|3|NJCT 5|4|POBJ 6|5|OBJ 7|10|SUBJ 8|10|AUX
+	9|10|SUBJ 10|0|ROOT 11|12|SUBJ 12|10|COMP 13|16|DET 14|15|JCT 15|16|MOD
+	16|12|PRED 17|10|PUNCT
+*S1:	a story about changing style (.) so that we go from &-uh a
+	modernism that values (.) again and go back to your Greenberg right
+	&-uh painting about painting let's say the separation of (.)
+	different kinds of art (.) and a very sort_of narrow definition of
+	what &-um modernist painting modernist architecture should be .
+%mor:	det:art|a n|story prep|about part|change-PRESP n|style co|so
+	comp|that pro:sub|we v|go prep|from det:art|a n|modern&dadj-ISM
+	adv|that n|value-PL adv|again coord|and v|go adv|back prep|to
+	det:poss|your n:prop|Greenberg adj|right part|paint-PRESP adv|about
+	part|paint-PRESP v|let~pro:obj|us v|say det:art|the
+	n|separate&dv-TION prep|of adj|different n|kind-PL prep|of n|art
+	coord|and det:art|a adv|very adv|sort_of adj|narrow n|definition
+	prep|of pro:int|what n|modern&dadj-IST n:gerund|paint-PRESP
+	n|modern&dadj-IST n|architecture mod|should cop|be .
+%gra:	1|2|DET 2|26|SUBJ 3|26|JCT 4|3|CPOBJ 5|4|OBJ 6|26|COM 7|9|LINK 8|9|SUBJ
+	9|26|CJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|14|JCT 14|26|SUBJ 15|14|JCT
+	16|14|CONJ 17|16|COORD 18|17|JCT 19|17|JCT 20|21|DET 21|19|POBJ
+	22|23|JCT 23|17|XJCT 24|23|JCT 25|26|XJCT 26|0|ROOT 27|26|OBJ 28|26|COMP
+	29|30|DET 30|28|OBJ 31|30|NJCT 32|33|MOD 33|31|POBJ 34|33|NJCT 35|34|POBJ
+	36|35|CONJ 37|41|DET 38|39|JCT 39|40|JCT 40|41|MOD 41|36|COORD 42|41|NJCT
+	43|47|DET 44|47|MOD 45|47|MOD 46|47|MOD 47|49|SUBJ 48|49|AUX 49|42|CPOBJ
+	50|26|PUNCT
+*S1:	and &i is the shift then to something like (.) the strip &-uh a
+	kind of (.) amalgamation (.) of (.) which really in the end (.)
+	becomes &-uh an amalgamation a sort_of simulation of (.) something
+	that didn't really exist an &a [/] a recreated New York City (.)
+	when in fact that just represents sort_of &-uh in a very kind of
+	superficial (.) way the idea of &-uh the metropolis (.) of Manhattan
+	.
+%mor:	coord|and cop|be&3S det:art|the n|shift adv:tem|then prep|to
+	pro:indef|something prep|like det:art|the n|strip det:art|a n|kind
+	prep|of n|amalgamate&dv-TION prep|of pro:int|which adv|real&dadj-LY
+	prep|in det:art|the n|end cop|become-3S det:art|a
+	n|amalgamate&dv-TION det:art|a adv|sort_of n|simulate&dv-TION
+	prep|of pro:indef|something pro:rel|that mod|do&PAST~neg|not
+	adv|real&dadj-LY v|exist det:art|a det:art|a re#v|create-PAST
+	n:prop|New n:prop|York n:prop|City conj|when prep|in n|fact
+	pro:rel|that adv|just v|represent-3S adv|sort_of prep|in det:art|a
+	adv|very n|kind prep|of adj|superficial n|way det:art|the n|idea
+	prep|of det:art|the n|metropolis prep|of n:prop|Manhattan .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|NJCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|12|DET 12|6|POBJ 13|12|NJCT 14|13|POBJ 15|14|NJCT
+	16|18|LINK 17|18|JCT 18|15|CPOBJ 19|20|DET 20|18|POBJ 21|18|ROOT
+	22|23|DET 23|21|PRED 24|23|NJCT 25|24|NJCT 26|25|POBJ 27|26|NJCT 28|27|POBJ
+	29|33|LINK 30|33|AUX 31|30|NEG 32|33|JCT 33|28|CMOD 34|36|DET 35|36|DET
+	36|33|ROOT 37|38|NAME 38|39|NAME 39|36|ROOT 40|39|INCROOT 41|40|JCT
+	42|41|POBJ 43|45|LINK 44|45|JCT 45|42|CMOD 46|45|JCT 47|45|JCT 48|50|DET
+	49|50|JCT 50|47|POBJ 51|50|NJCT 52|53|MOD 53|51|POBJ 54|55|DET 55|45|OBJ
+	56|55|NJCT 57|58|DET 58|56|POBJ 59|58|NJCT 60|59|POBJ 61|40|PUNCT
+*S1:	so let's look at one artist associated &-uh or excuse_me architect
+	+...
+%mor:	adv|so v|let~pro:obj|us v|look prep|at det:num|one n|art-IST
+	v|associate-PAST coord|or co|excuse_me n|architect +...
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|JCT 6|7|QUANT 7|5|POBJ 8|4|ENUM
+	9|8|CONJ 10|11|COM 11|9|COORD 12|2|PUNCT
+*S1:	associated with &-uh postmodern architecture .
+%mor:	v|associate-PAST prep|with post#adj|modern n|architecture .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*S1:	this is Robert Venturi .
+%mor:	pro:dem|this cop|be&3S n:prop|Robert n:prop|Venturi .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|NAME 4|2|PRED 5|2|PUNCT
+*S1:	V E N T U R I (.) Venturi .
+%mor:	n:prop|V n:prop|E n:prop|N n:prop|T n:prop|U n:prop|R pro:sub|I
+	n:prop|Venturi .
+%gra:	1|2|NAME 2|3|NAME 3|6|NAME 4|3|APP 5|6|NAME 6|0|ROOT 7|8|SUBJ 8|6|APP
+	9|6|PUNCT
+*S1:	on the left is his Guild House from Philadelphia early nineteen
+	sixties (.) and on the right is a photograph he made with one of his
+	partners (.) of (.) the &{l=SIC kindler &}l=SIC gentler strip (.) of
+	Las Vegas (.) late nineteen seventies .
+%mor:	prep|on det:art|the adj|left aux|be&3S det:poss|his n:prop|Guild
+	n:prop|House prep|from n:prop|Philadelphia adv|early
+	det:num|nineteen n|sixty-PL coord|and prep|on det:art|the adj|right
+	cop|be&3S det:art|a photo#n|graph pro:sub|he v|make&PAST prep|with
+	det:num|one prep|of det:poss|his n|partner-PL prep|of det:art|the
+	n|kindle&dv-AGT adj|gentle-CP n|strip prep|of n:prop|Las
+	n:prop|Vegas adv|late det:num|nineteen n|seventy-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|6|AUX 5|6|DET 6|7|NAME 7|3|CMOD 8|7|NJCT
+	9|8|POBJ 10|11|JCT 11|12|QUANT 12|7|APP 13|7|CONJ 14|13|COORD 15|17|DET
+	16|17|JCT 17|14|POBJ 18|19|DET 19|17|PRED 20|21|SUBJ 21|19|CMOD
+	22|21|JCT 23|31|QUANT 24|23|NJCT 25|26|DET 26|24|POBJ 27|26|NJCT 28|29|DET
+	29|27|POBJ 30|31|MOD 31|22|POBJ 32|31|NJCT 33|32|POBJ 34|31|NJCT 35|36|JCT
+	36|37|QUANT 37|34|APP 38|1|PUNCT
+*S1:	the strip &-um still (.) all about signs (.) all about signs and
+	literally (.) through a sign (.) through a kind of visual icon in
+	this case textual (.) instead of the actual shape in terms of you
+	know like a <New York> [/] New York building (.) the textual sign of
+	getting your attention right trying to say like <come here> [/] come
+	here .
+%mor:	det:art|the n|strip adv|still adv|all prep|about n|sign-PL adv|all
+	prep|about n|sign-PL coord|and adv|literal&dadj-LY prep|through
+	det:art|a n|sign prep|through det:art|a n|kind prep|of adj|visual
+	n|icon prep|in det:dem|this n|case adj|textual adv|instead prep|of
+	det:art|the adj|actual n|shape prep|in n|term-PL prep|of pro:per|you
+	v|know prep|like det:art|a n:prop|New n:prop|York n|building
+	det:art|the adj|textual n|sign prep|of n:gerund|get-PRESP
+	det:poss|your n|attention n|right part|try-PRESP inf|to v|say
+	prep|like v|come adv|here .
+%gra:	1|2|DET 2|34|SUBJ 3|4|JCT 4|34|JCT 5|34|JCT 6|5|POBJ 7|34|JCT 8|34|JCT
+	9|8|POBJ 10|34|LINK 11|34|JCT 12|11|JCT 13|14|DET 14|12|POBJ 15|11|JCT
+	16|17|DET 17|15|POBJ 18|17|NJCT 19|20|MOD 20|18|POBJ 21|34|JCT 22|23|DET
+	23|21|POBJ 24|34|JCT 25|34|JCT 26|34|JCT 27|29|DET 28|29|MOD 29|26|POBJ
+	30|29|NJCT 31|30|POBJ 32|31|NJCT 33|32|POBJ 34|0|ROOT 35|34|JCT
+	36|39|DET 37|39|MOD 38|39|MOD 39|35|POBJ 40|42|DET 41|42|MOD 42|34|OBJ
+	43|42|NJCT 44|43|POBJ 45|47|DET 46|47|MOD 47|44|OBJ 48|47|XMOD 49|50|INF
+	50|48|COMP 51|50|JCT 52|51|POBJ 53|52|JCT 54|34|PUNCT
+*S1:	Star Dust .
+%mor:	n:prop|Star n:prop|Dust .
+%gra:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*S1:	Gold Key Motel .
+%mor:	n:prop|Gold n:prop|Key n:prop|Motel .
+%gra:	1|2|NAME 2|3|NAME 3|0|INCROOT 4|3|PUNCT
+*S1:	Shopping Center .
+%mor:	n:prop|Shopping n:prop|Center .
+%gra:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*S1:	loose slots .
+%mor:	adj|loose n|slot-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*S1:	I mean (.) what more do you need (.) to get you to go inside the
+	front doors ?
+%mor:	pro:sub|I v|mean pro:int|what adv|more v|do pro:per|you v|need
+	inf|to v|get pro:per|you inf|to v|go prep|inside det:art|the
+	adj|front n|door-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|JCT 5|2|COMP 6|5|OBJ 7|5|JCT 8|9|INF
+	9|7|COMP 10|9|OBJ 11|12|INF 12|9|COMP 13|12|JCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|2|PUNCT
+*S1:	so Venturi (.) along with other architects in the sixties and
+	seventies (.) instead sorta turns against this very limited
+	vocabulary (.) of high modernist art architecture (.) and embraces
+	(.) the much more pluralistic (.) and in a sense (.) pop culture
+	values associated with (.) a place like Las Vegas .
+%mor:	co|so n:prop|Venturi adv|along prep|with qn|other n|architect-PL
+	prep|in det:art|the n|sixty-PL coord|and n|seventy-PL adv|instead
+	adv|sorta v|turn-3S prep|against pro:dem|this adv|very
+	part|limit-PASTP n|vocabulary prep|of n|high n|modern&dadj-IST n|art
+	n|architecture coord|and v|embrace-3S det:art|the qn|much adv|more
+	adj|pluralistic coord|and prep|in det:art|a n|sense n|pop n|culture
+	n|value-PL v|associate-PAST prep|with det:art|a n|place v|like
+	n:prop|Las n:prop|Vegas .
+%gra:	1|2|COM 2|14|SUBJ 3|4|JCT 4|2|JCT 5|6|QUANT 6|4|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|2|CONJ 11|10|COORD 12|14|JCT 13|14|JCT 14|0|ROOT 15|14|JCT
+	16|15|POBJ 17|18|JCT 18|14|XJCT 19|18|OBJ 20|19|NJCT 21|24|MOD 22|24|MOD
+	23|24|MOD 24|20|POBJ 25|14|CONJ 26|25|COORD 27|28|DET 28|30|QUANT
+	29|30|JCT 30|38|JCT 31|30|CONJ 32|31|COORD 33|37|DET 34|35|MOD 35|37|MOD
+	36|37|MOD 37|32|POBJ 38|26|COMP 39|38|JCT 40|41|DET 41|42|SUBJ 42|39|POBJ
+	43|44|NAME 44|42|OBJ 45|14|PUNCT
+*S1:	and he publishes along with Denise Scott Brown (.) a book (.)
+	called Learning from Las Vegas in the nineteen seventies (.) in
+	which you know he +//.
+%mor:	coord|and pro:sub|he v|publish-3S adv|along prep|with n:prop|Denise
+	n:prop|Scott n:prop|Brown det:art|a n|book v|call-PAST
+	n:prop|Learning prep|from n:prop|Las n:prop|Vegas prep|in
+	det:art|the det:num|nineteen n|seventy-PL prep|in pro:rel|which
+	pro:per|you v|know pro:sub|he +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|NAME 7|8|NAME 8|5|POBJ
+	9|10|DET 10|11|SUBJ 11|3|CJCT 12|11|OBJ 13|11|JCT 14|13|POBJ 15|13|POBJ
+	16|15|NJCT 17|19|DET 18|19|QUANT 19|16|POBJ 20|15|JCT 21|23|LINK
+	22|23|SUBJ 23|20|POBJ 24|23|OBJ 25|3|PUNCT
+*S1:	they talk about embracing these lessons of pop &ar architecture .
+%mor:	pro:sub|they v|talk adv|about part|embrace-PRESP det:dem|these
+	n|lesson-PL prep|of n|pop n|architecture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|XJCT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|2|PUNCT
+*S1:	so no longer minding the split (.) in a sense between (.) mass
+	culture everyday pop kitsch right (.) this is how we've thought
+	about it in this class .
+%mor:	co|so co|no adj|long-CP part|mind-PRESP det:art|the n|split prep|in
+	det:art|a n|sense prep|between n|mass n|culture adj|everyday n|pop
+	n|kitsch adj|right pro:dem|this cop|be&3S pro:rel|how
+	pro:sub|we~aux|have n|thought prep|about pro:per|it prep|in
+	det:dem|this n|class .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|XMOD 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|JCT 11|12|MOD 12|15|MOD 13|15|MOD 14|15|MOD 15|10|POBJ
+	16|17|MOD 17|18|SUBJ 18|15|CMOD 19|22|LINK 20|22|SUBJ 21|22|AUX 22|18|PRED
+	23|22|NJCT 24|23|POBJ 25|24|JCT 26|27|DET 27|25|POBJ 28|3|PUNCT
+*S1:	&-um but saying these are all sort_of valid vocabularies for
+	architectural practice .
+%mor:	conj|but part|say-PRESP pro:dem|these cop|be&PRES adv|all
+	adv|sort_of adj|valid n|vocabulary-PL prep|for adj|architectural
+	n|practice .
+%gra:	1|2|LINK 2|4|CJCT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|8|JCT 7|8|MOD 8|4|PRED
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|4|PUNCT
+*S1:	it doesn't hafta be the all streamlined (.) form follows function
+	(.) business of Mies_Van_Der_Rohe .
+%mor:	pro:per|it mod|do&3S~neg|not mod|have~inf|to cop|be det:art|the
+	adv|all part|streamline-PASTP n|form v|follow-3S n|function
+	n|business prep|of n:prop|Mies_Van_Der_Rohe .
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|9|DET 8|9|JCT
+	9|6|PRED 10|11|SUBJ 11|9|COMP 12|13|MOD 13|11|OBJ 14|13|NJCT 15|14|POBJ
+	16|6|PUNCT
+*S1:	that you can incorporate a whole range of styles &-uh and not be
+	limited (.) in that kind of sense .
+%mor:	comp|that pro:per|you mod|can v|incorporate det:art|a adj|whole
+	n|range prep|of n|style-PL coord|and neg|not aux|be part|limit-PASTP
+	prep|in adv|that adj|kind prep|of n|sense .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|13|LINK 11|12|NEG 12|13|AUX 13|4|CJCT 14|13|JCT 15|16|JCT
+	16|14|POBJ 17|16|JCT 18|17|POBJ 19|4|PUNCT
+*S1:	so another example (.) of this (.) is this is &-uh Charles Moore
+	(.) his Piazza D_Italia &f in New Orleans anyone been here +..?
+%mor:	adv|so qn|another n|example prep|of pro:dem|this cop|be&3S
+	pro:dem|this cop|be&3S n:prop|Charles n:prop|Moore det:poss|his
+	n:prop|Piazza n:prop|D_Italia prep|in n:prop|New n:prop|Orleans
+	pro:indef|anyone cop|be&PASTP adv|here +..?
+%gra:	1|2|JCT 2|3|QUANT 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|8|SUBJ 8|6|PRED
+	9|10|NAME 10|8|PRED 11|12|DET 12|13|NAME 13|18|SUBJ 14|13|NJCT
+	15|14|POBJ 16|18|COM 17|18|SUBJ 18|10|COMP 19|18|JCT 20|6|PUNCT
+*S1:	the late nineteen seventies as well .
+%mor:	det:art|the adj|late det:num|nineteen n|seventy-PL adv|as adv|well
+	.
+%gra:	1|4|DET 2|4|MOD 3|4|QUANT 4|0|INCROOT 5|6|COORD 6|4|ENUM 7|4|PUNCT
+*S1:	and again oftentimes &-uh postmodernism (.) as it's thought of in
+	terms of a stylistic shift (.) stylistically it's often
+	characterized as (.) contradictory .
+%mor:	coord|and adv|again adv|oftentimes post#n|modern&dadj-ISM adv|as
+	pro:per|it~aux|be&3S part|think&PASTP prep|of prep|in n|term-PL
+	prep|of det:art|a adj|stylistic n|shift adv|stylistic&dadj-AL-LY
+	pro:per|it~aux|be&3S adv|often part|character&dadj-IZE-PASTP adv|as
+	adj|contradictory .
+%gra:	1|4|LINK 2|3|JCT 3|4|JCT 4|0|ROOT 5|8|JCT 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|8|JCT 10|20|JCT 11|10|POBJ 12|11|NJCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|20|JCT 17|20|SUBJ 18|20|AUX 19|20|JCT 20|9|POBJ 21|22|JCT 22|20|JCT
+	23|4|PUNCT
+*S1:	as embracing (.) parts (.) from (.) various different styles
+	historical styles (.) and so therefore it's often thought of as
+	being kind of schizophrenic right (.) it's doesn't (.) present
+	necessarily one point of view (.) one +//.
+%mor:	conj|as part|embrace-PRESP n|part-PL prep|from adj|various
+	adj|different n|style-PL adj|historic-AL n|style-PL coord|and adv|so
+	adv|therefore pro:per|it~aux|be&3S adv|often part|think&PASTP
+	prep|of prep|as part|be-PRESP n|kind prep|of n|schizophrenic
+	adv|right pro:per|it~cop|be&3S mod|do&3S~neg|not n|present
+	adv|necessary&dadj-LY det:num|one n|point prep|of n|view
+	pro:indef|one +//.
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|7|MOD 6|7|MOD 7|9|MOD 8|9|MOD
+	9|4|POBJ 10|2|CONJ 11|12|JCT 12|16|JCT 13|16|SUBJ 14|16|AUX 15|16|JCT
+	16|10|COORD 17|16|JCT 18|16|JCT 19|20|MOD 20|18|POBJ 21|20|NJCT 22|21|POBJ
+	23|24|JCT 24|25|SUBJ 25|16|CJCT 26|28|AUX 27|26|NEG 28|25|PRED 29|30|JCT
+	30|31|QUANT 31|34|MOD 32|31|NJCT 33|32|POBJ 34|28|OM 35|2|PUNCT
+*S1:	doesn't back one sort_of (.) you know this is my style and I'm
+	gonna go with it I'm gonna &t borrow and take from a whole bunch of
+	different &-um historical (.) times +...
+%mor:	mod|do&3S~neg|not adj|back det:num|one adv|sort_of pro:per|you
+	v|know det:dem|this aux|be&3S det:poss|my n|style coord|and
+	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|go prep|with pro:per|it
+	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|borrow coord|and v|take
+	prep|from det:art|a adj|whole n|bunch prep|of adj|different
+	adj|historic-AL n|time-PL +...
+%gra:	1|4|AUX 2|1|NEG 3|4|MOD 4|7|SUBJ 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|11|DET
+	9|11|AUX 10|11|DET 11|7|OBJ 12|15|LINK 13|15|SUBJ 14|15|AUX 15|7|CJCT
+	16|17|INF 17|15|COMP 18|17|JCT 19|18|POBJ 20|22|SUBJ 21|22|AUX 22|15|CJCT
+	23|24|INF 24|22|COMP 25|24|CONJ 26|25|COORD 27|26|JCT 28|30|DET 29|30|MOD
+	30|27|POBJ 31|30|NJCT 32|34|MOD 33|34|MOD 34|31|POBJ 35|7|PUNCT
+*S1:	so it's very eclectic &-uh you get the sense of a pastiche (.) and
+	certainly of (.) what we'll see with photography too appropriation .
+%mor:	adv|so pro:per|it~cop|be&3S adv|very adj|eclectic pro:per|you v|get
+	det:art|the n|sense prep|of det:art|a n|pastiche coord|and
+	adv|certain&dadj-LY prep|of pro:int|what pro:sub|we~mod|will v|see
+	prep|with n|photography adv|too n|appropriate&dv-TION .
+%gra:	1|3|JCT 2|3|SUBJ 3|7|CJCT 4|5|JCT 5|3|PRED 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|7|CONJ 14|13|COORD 15|14|JCT
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|15|CPOBJ 20|19|JCT 21|23|MOD 22|23|JCT
+	23|20|POBJ 24|7|PUNCT
+*S1:	and perhaps for us (.) in terms of a [/] a &pulp popular culture
+	technique &-uh artistic strategy (.) the idea of appropriation (.)
+	is (.) most familiar to us through music (.) I would think .
+%mor:	coord|and adv|perhaps prep|for pro:obj|us prep|in n|term-PL prep|of
+	det:art|a adj|popular n|culture n|technique adj|artistic n|strategy
+	det:art|the n|idea prep|of n|appropriate&dv-TION cop|be&3S qn|most
+	adj|familiar prep|to pro:obj|us prep|through n|music pro:sub|I
+	mod|will&COND v|think .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|3|POBJ 5|2|JCT 6|5|POBJ 7|6|NJCT
+	8|11|DET 9|10|MOD 10|11|MOD 11|7|POBJ 12|13|MOD 13|27|CJCT 14|15|DET
+	15|18|SUBJ 16|15|NJCT 17|16|POBJ 18|13|CMOD 19|20|QUANT 20|18|PRED 21|20|JCT
+	22|21|POBJ 23|18|JCT 24|23|POBJ 25|27|SUBJ 26|27|AUX 27|11|CMOD 28|1|PUNCT
+*S1:	right how many songs today &-uh and really for the last two decades
+	(.) are actually samples (.) right (.) samples from other songs that
+	are then (.) put together and then sort_of given a maybe slightly
+	different vocal (.) or new beat right sampling very popular you're
+	all familiar with that right ?
+%mor:	co|right pro:int|how qn|many n|song-PL adv:tem|today coord|and
+	adv|real&dadj-LY prep|for det:art|the adj|last det:num|two
+	n|decade-PL cop|be&PRES adv|actual&dadj-LY n|sample-PL adj|right
+	n|sample-PL prep|from qn|other n|song-PL pro:rel|that cop|be&PRES
+	adv:tem|then v|put&ZERO adv|together coord|and adv:tem|then
+	adv|sort_of part|give&PASTP det:art|a adv|maybe adv|slight&dadj-LY
+	adj|different adj|vocal coord|or adj|new n|beat adj|right
+	part|sample-PRESP adv|very adj|popular pro:per|you~cop|be&PRES
+	adv|all adj|familiar prep|with det:dem|that adj|right ?
+%gra:	1|5|COM 2|4|LINK 3|4|QUANT 4|5|CSUBJ 5|0|ROOT 6|5|CONJ 7|8|JCT
+	8|6|COORD 9|12|DET 10|12|MOD 11|12|QUANT 12|13|SUBJ 13|8|CPOBJ 14|13|JCT
+	15|17|MOD 16|17|MOD 17|14|POBJ 18|24|LINK 19|20|QUANT 20|24|SUBJ 21|22|LINK
+	22|24|AUX 23|24|JCT 24|17|CMOD 25|24|JCT 26|24|CONJ 27|29|JCT 28|29|JCT
+	29|26|COORD 30|34|DET 31|32|JCT 32|33|JCT 33|34|MOD 34|39|JCT 35|34|CONJ
+	36|37|MOD 37|35|COORD 38|39|JCT 39|29|COMP 40|41|JCT 41|39|JCT 42|43|SUBJ
+	43|41|CMOD 44|45|JCT 45|43|PRED 46|43|JCT 47|48|DET 48|46|POBJ
+	49|5|PUNCT
+*S1:	mhm yeah .
+%mor:	co|mhm=yes co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*S1:	so we'll see the same kind of strategy architecturally we'll see
+	the same kind of strategy visually (.) with photography .
+%mor:	adv|so pro:sub|we~mod|will v|see det:art|the adj|same n|kind
+	prep|of n|strategy adv|architectural&dadj-LY pro:sub|we~mod|will
+	v|see det:art|the adj|same n|kind prep|of n|strategy
+	adv|visual&dadj-LY prep|with n|photography .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|13|JCT 11|13|SUBJ 12|13|AUX 13|4|CJCT 14|16|DET 15|16|MOD
+	16|13|OBJ 17|16|NJCT 18|17|POBJ 19|13|JCT 20|13|JCT 21|20|POBJ 22|4|PUNCT
+*S1:	poor Piazza D_Italia , when I was there in &-um oh man (.) it was
+	like early nineties (.) like a decade ago &-uh it was full of trash
+	.
+%mor:	adj|poor n:prop|Piazza n:prop|D_Italia cm|cm conj|when pro:sub|I
+	cop|be&PAST&13S adv|there prep|in co|oh n|man pro:per|it
+	cop|be&PAST&13S prep|like adv|early n|ninety-PL prep|like det:art|a
+	n|decade post|ago pro:per|it cop|be&PAST&13S adj|full prep|of
+	n|trash .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|APP 4|2|LP 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|7|JCT
+	9|7|JCT 10|13|COM 11|13|COM 12|13|SUBJ 13|9|CPOBJ 14|13|JCT 15|14|NJCT
+	16|15|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|16|POSTMOD 21|22|SUBJ
+	22|20|CMOD 23|22|PRED 24|23|JCT 25|24|POBJ 26|2|PUNCT
+*S1:	it was so sad .
+%mor:	pro:per|it cop|be&PAST&13S adv|so adj|sad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*S1:	there were just huge heaps of literal garbage (.) all through it
+	and yet (.) oftentimes it becomes this example of (.) postmodern
+	architecture .
+%mor:	pro:exist|there cop|be&PAST adj|just adj|huge n|heap-PL prep|of
+	adj|literal n|garbage adv|all adj|through pro:per|it coord|and
+	adv|yet adv|oftentimes pro:per|it cop|become-3S det:dem|this
+	ex#adj|ample prep|of post#adj|modern n|architecture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|10|JCT 10|2|JCT 11|10|OBJ 12|16|LINK 13|14|JCT 14|16|JCT 15|16|SUBJ
+	16|11|CJCT 17|18|DET 18|16|PRED 19|18|JCT 20|21|MOD 21|19|POBJ 22|2|PUNCT
+*S1:	I'm [/] I'm pretty sure it's reproduced in the Arnasan Prather book
+	.
+%mor:	pro:sub|I~cop|be&1S adv|pretty adv|sure pro:per|it~aux|be&3S
+	re#part|produce-PASTP prep|in det:art|the n:prop|Arnasan
+	n:prop|Prather n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|JCT 5|7|SUBJ 6|7|AUX 7|2|PRED 8|7|JCT
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|POBJ 13|2|PUNCT
+*S1:	and here we have Charles Moore who (.) I think you can get the idea
+	is very playfully engaging with a whole range of architectural
+	styles .
+%mor:	coord|and adv|here pro:sub|we v|have n:prop|Charles n:prop|Moore
+	pro:rel|who pro:sub|I v|think pro:per|you mod|can v|get det:art|the
+	n|idea aux|be&3S adv|very adj|play&dn-FUL-LY part|engage-PRESP
+	prep|with det:art|a adj|whole n|range prep|of adj|architectural
+	n|style-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|NAME 6|4|PUNCT 7|9|LINK 8|9|SUBJ
+	9|6|ROOT 10|12|SUBJ 11|12|AUX 12|9|ROOT 13|14|DET 14|12|OBJ 15|14|ROOT
+	16|17|JCT 17|15|PRED 18|17|XMOD 19|18|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|22|NJCT 24|25|MOD 25|23|POBJ 26|15|PUNCT
+*S1:	right he's got the sort_of Vegas neon along the same lines +//.
+%mor:	adv|right pro:sub|he~aux|be&3S part|get&PASTP det:art|the
+	adv|sort_of n:prop|Vegas n|neon prep|along det:art|the adj|same
+	n|line-PL +//.
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|DET 6|8|MOD 7|8|MOD 8|4|OBJ
+	9|4|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|4|PUNCT
+*S1:	well in the same project he's got &-um different all sorts of
+	different types of columns (.) making reference to (.) ancient
+	architecture to Greek architecture Roman arches &-uh etcetera [/]
+	etcetera and even being so self-reflexive and self-referential (.)
+	that in the little (.) in the corners of these little arches here
+	&-uh are little heads which maybe you can sort_of little faces you
+	can perhaps just begin to make out (.) and those are actual &-uh
+	based on his own face .
+%mor:	adv|well prep|in det:art|the adj|same n|project
+	pro:sub|he~aux|be&3S part|get&PASTP adj|different adv|all n|sort-PL
+	prep|of adj|different n|type-PL prep|of n|column-PL part|make-PRESP
+	n|reference inf|to adj|ancient n|architecture prep|to n:prop|Greek
+	n|architecture n:prop|Roman n|arch-PL adv|etcetera coord|and
+	adv|even n|being adv|so self#adj|reflexive coord|and
+	self#adj|referential adv|that prep|in det:art|the adj|little prep|in
+	det:art|the n|corner-PL prep|of det:dem|these adj|little n|arch-PL
+	adv|here cop|be&PRES adj|little n|head-PL pro:rel|which adv|maybe
+	pro:per|you mod|can adv|sort_of adj|little n|face-PL pro:per|you
+	mod|can adv|perhaps adv|just v|begin inf|to v|make adv|out coord|and
+	pro:dem|those cop|be&PRES adj|actual part|base-PASTP prep|on
+	det:poss|his adj|own n|face .
+%gra:	1|8|JCT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|11|MOD 10|11|JCT 11|8|OBJ 12|11|NJCT 13|14|MOD 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|11|XJCT 18|26|MOD 19|20|INF 20|21|MOD 21|26|MOD 22|21|NJCT
+	23|24|MOD 24|22|POBJ 25|26|MOD 26|17|OBJ 27|26|NJCT 28|27|CONJ 29|30|JCT
+	30|28|COORD 31|32|JCT 32|30|CMOD 33|32|CONJ 34|33|COORD 35|34|JCT 36|35|JCT
+	37|38|DET 38|36|POBJ 39|38|JCT 40|41|DET 41|39|POBJ 42|41|NJCT
+	43|45|DET 44|45|MOD 45|42|POBJ 46|47|JCT 47|36|POBJ 48|49|MOD 49|47|PRED
+	50|55|LINK 51|55|JCT 52|55|SUBJ 53|55|AUX 54|55|JCT 55|56|MOD 56|47|PRED
+	57|61|SUBJ 58|61|AUX 59|61|JCT 60|61|JCT 61|56|CMOD 62|63|INF 63|61|COMP
+	64|63|JCT 65|61|CONJ 66|65|COORD 67|56|CMOD 68|67|PRED 69|68|XMOD 70|69|JCT
+	71|73|DET 72|73|MOD 73|70|POBJ 74|8|PUNCT
+*S1:	ego ?
+%mor:	n|ego ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so (.) a very sort_of (.) self-referential practice too where
+	you're constantly sort_of calling into question &-uh your own
+	ability to (.) sort_of represent &-uh in this case (.) yourself
+	as_well_as sort_of past architectural styles just (.) globbing them
+	all together +...
+%mor:	co|so det:art|a adv|very adv|sort_of self#adj|referential
+	n|practice post|too pro:int|where pro:per|you~aux|be&PRES
+	adv|constant&dadj-LY adv|sort_of part|call-PRESP prep|into
+	n|question det:poss|your adj|own n|able&dadj-ITY inf|to adv|sort_of
+	v|represent prep|in det:dem|this n|case pro:refl|yourself
+	coord|as_well_as adv|sort_of adj|past adj|architectural n|style-PL
+	adv|just part|glob-PRESP pro:obj|them post|all adv|together +...
+%gra:	1|6|COM 2|6|DET 3|4|JCT 4|5|JCT 5|6|MOD 6|0|INCROOT 7|6|POSTMOD
+	8|13|LINK 9|13|SUBJ 10|13|AUX 11|13|JCT 12|13|JCT 13|6|XMOD 14|21|JCT 15|21|JCT
+	16|18|DET 17|18|MOD 18|21|SUBJ 19|21|INF 20|21|JCT 21|13|CJCT 22|21|JCT
+	23|24|DET 24|22|POBJ 25|21|JCT 26|25|CONJ 27|28|JCT 28|30|MOD 29|30|MOD
+	30|26|COORD 31|32|JCT 32|30|XMOD 33|32|OBJ 34|33|PQ 35|32|JCT
+	36|6|PUNCT
+*S1:	hm .
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	so (.) in addition I think that we hafta think about (.) the idea
+	of postmodernism (.) certainly we can see stylistic shifts (.) but
+	we should also consider (.) how the world had been changing
+	economically and also politically .
+%mor:	adv|so prep|in n|addition pro:sub|I v|think comp|that pro:sub|we
+	mod|have~inf|to v|think prep|about det:art|the n|idea prep|of
+	post#n|modern&dadj-ISM adv|certain&dadj-LY pro:sub|we mod|can v|see
+	adj|stylistic n|shift-PL conj|but pro:sub|we mod|should adv|also
+	v|consider pro:int|how det:art|the n|world aux|have&PAST
+	aux|be&PASTP part|change-PRESP adv|economic&dadj-AL-LY coord|and
+	adv|also adv|politic&dadj-AL-LY .
+%gra:	1|5|JCT 2|1|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|10|LINK 7|10|SUBJ 8|10|AUX
+	9|10|INF 10|5|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|13|NJCT 15|14|POBJ
+	16|10|JCT 17|19|SUBJ 18|19|AUX 19|5|CJCT 20|21|MOD 21|19|OBJ 22|26|LINK
+	23|26|SUBJ 24|26|AUX 25|26|JCT 26|19|CJCT 27|32|LINK 28|29|DET
+	29|32|SUBJ 30|32|AUX 31|32|AUX 32|26|COMP 33|32|JCT 34|32|CONJ 35|36|JCT
+	36|34|COORD 37|5|PUNCT
+*S1:	so that (.) beginning in the nineteen sixties +...
+%mor:	adv|so adv|that part|begin-PRESP prep|in det:art|the
+	det:num|nineteen n|sixty-PL +...
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|JCT 5|7|DET 6|7|QUANT 7|4|POBJ 8|3|PUNCT
+*S1:	oftentimes marked as a new (.) economic era (.) the sort_of era of
+	late capitalism (.) where really we see &-uh interpenetration of
+	government and big business to an extent that we hadn't seen before
+	(.) and I think you can remember back to (.) Lisa's lecture &-uh on
+	Wednesday on the work of Hans Hocka an artist who was &i is
+	explicitly commenting on the interrelationship between &-uh
+	government big business and the arts .
+%mor:	adv|oftentimes part|mark-PASTP prep|as det:art|a adj|new
+	adj|economic n|era det:art|the adv|sort_of n|era prep|of adj|late
+	n|capital-ISM pro:rel|where adv|real&dadj-LY pro:sub|we v|see
+	inter#n|penetrate&dv-TION prep|of n|govern&dv-MENT coord|and adj|big
+	n|business prep|to det:art|a n|extent pro:rel|that pro:sub|we
+	aux|have&PAST~neg|not part|see&PASTP prep|before coord|and pro:sub|I
+	v|think pro:per|you mod|can v|remember adv|back prep|to
+	adj|Lisa&dn-POSS n|lecture prep|on n:prop|Wednesday prep|on
+	det:art|the n|work prep|of n:prop|Hans n:prop|Hocka det:art|a
+	n|art-IST pro:rel|who cop|be&PAST&13S aux|be&3S adv|explicit&dadj-LY
+	part|comment-PRESP prep|on det:art|the inter#n|relate&dv-TION-SHIP
+	adv|between n|govern&dv-MENT adj|big n|business coord|and
+	det:art|the n|art-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|7|DET 5|7|MOD 6|7|MOD 7|3|POBJ 8|10|DET
+	9|10|JCT 10|7|CMOD 11|10|NJCT 12|13|MOD 13|11|POBJ 14|17|LINK 15|17|JCT
+	16|17|SUBJ 17|13|CMOD 18|17|OBJ 19|18|JCT 20|19|POBJ 21|18|CONJ 22|23|MOD
+	23|21|COORD 24|23|NJCT 25|26|DET 26|24|POBJ 27|31|LINK 28|31|SUBJ
+	29|31|AUX 30|29|NEG 31|26|CMOD 32|31|JCT 33|35|LINK 34|35|SUBJ 35|32|CPOBJ
+	36|38|SUBJ 37|38|AUX 38|35|COMP 39|38|JCT 40|38|JCT 41|42|MOD 42|40|POBJ
+	43|38|JCT 44|43|POBJ 45|38|JCT 46|47|DET 47|45|POBJ 48|47|NJCT 49|48|POBJ
+	50|47|NJCT 51|52|DET 52|50|OBJ 53|57|LINK 54|57|AUX 55|57|AUX 56|57|JCT
+	57|52|CMOD 58|57|JCT 59|60|DET 60|58|POBJ 61|62|JCT 62|64|MOD 63|64|MOD
+	64|60|PRED 65|64|CONJ 66|67|DET 67|65|COORD 68|2|PUNCT
+*S1:	and politically of_course (.) this is almost <in your> [//] within
+	your own memories &-uh although not quite .
+%mor:	coord|and adv|politic&dadj-AL-LY co|of_course pro:dem|this
+	cop|be&3S adv|almost prep|within det:poss|your adj|own n|memory-PL
+	conj|although neg|not adv|quite .
+%gra:	1|3|LINK 2|3|JCT 3|5|COM 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|13|LINK 12|13|NEG 13|5|JCT 14|5|PUNCT
+*S1:	we have (.) beginning in the sixties &-uh the (.) increase of a
+	really radical political landscape (.) right that sort_of starts
+	with student uprisings in Europe and certainly infiltrates (.)
+	university campuses &-uh in the United States (.) particularly this
+	campus (.) for example .
+%mor:	pro:sub|we v|have n|beginning prep|in det:art|the n|sixty-PL
+	det:art|the n|increase prep|of det:art|a adv|real&dadj-LY
+	adj|radical adj|politic-AL n|landscape co|right pro:dem|that
+	adv|sort_of v|start-3S prep|with n|student up#n:gerund|rise-PRESP-PL
+	prep|in n:prop|Europe coord|and adv|certain&dadj-LY v|infiltrate-3S
+	n|university n|campus-PL prep|in det:art|the n:prop|United
+	n:prop|States adv|particular&dadj-LY det:dem|this n|campus prep|for
+	ex#adj|ample .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|8|DET 8|2|OBJ
+	9|8|NJCT 10|14|DET 11|12|JCT 12|14|MOD 13|14|MOD 14|9|POBJ 15|16|COM
+	16|18|SUBJ 17|18|JCT 18|14|CMOD 19|18|JCT 20|19|POBJ 21|20|NJCT 22|21|JCT
+	23|22|POBJ 24|21|CONJ 25|26|JCT 26|24|COORD 27|28|MOD 28|26|OBJ 29|26|JCT
+	30|31|DET 31|32|NAME 32|29|POBJ 33|35|JCT 34|35|DET 35|26|OBJ 36|35|NJCT
+	37|36|POBJ 38|2|PUNCT
+*S1:	&-uh and in nineteen seventy with the bombings of Cambodia and the
+	killings of students at Kent State University &-uh shortly after
+	those (.) there was the founding +//.
+%mor:	coord|and prep|in det:num|nineteen det:num|seventy prep|with
+	det:art|the n:gerund|bomb-PRESP-PL prep|of n:prop|Cambodia coord|and
+	det:art|the n:gerund|kill-PRESP-PL prep|of n|student-PL prep|at
+	n:prop|Kent n:prop|State n:prop|University adv|short&dadj-LY
+	prep|after pro:dem|those adv|there cop|be&PAST&13S det:art|the
+	n:gerund|found-PRESP +//.
+%gra:	1|0|INCROOT 2|1|JCT 3|4|QUANT 4|2|POBJ 5|4|JCT 6|7|DET 7|5|POBJ
+	8|7|NJCT 9|8|POBJ 10|23|LINK 11|12|DET 12|23|SUBJ 13|12|JCT 14|13|POBJ
+	15|23|JCT 16|15|POBJ 17|18|NAME 18|15|POBJ 19|20|JCT 20|18|NJCT 21|20|POBJ
+	22|23|SUBJ 23|7|CJCT 24|25|DET 25|23|PRED 26|1|PUNCT
+*S1:	I think that you mentioned this (.) Lisa .
+%mor:	pro:sub|I v|think comp|that pro:per|you v|mention-PAST det:dem|this
+	n:prop|Lisa .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+*S1:	the founding of the New York art strike .
+%mor:	det:art|the adj|founding prep|of det:art|the n:prop|New n:prop|York
+	n|art n|strike .
+%gra:	1|2|DET 2|0|INCROOT 3|2|JCT 4|8|DET 5|8|MOD 6|8|MOD 7|8|MOD 8|3|POBJ
+	9|2|PUNCT
+*S1:	you didn't mention that ?
+%mor:	pro:per|you mod|do&PAST~neg|not v|mention pro:dem|that ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*S1:	what was the group that &-uh Hocka was part of ?
+%mor:	pro:int|what cop|be&PAST&13S det:art|the n|group pro:rel|that
+	n:prop|Hocka cop|be&PAST&13S adj|part prep|of ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|7|PRED
+	9|8|JCT 10|2|PUNCT
+*S4:	WAC .
+%mor:	n:prop|WAC .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S4:	+, worker's arts (.) worker's artists ⌈ coalition [?] ⌉ .
+%mor:	adj|work&dn-AGT-POSS n|art-PL adj|work&dn-AGT-POSS n|art-IST-PL
+	n|coalition .
+%gra:	1|2|MOD 2|5|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*S1:	⌊ that other ⌋ group .
+%mor:	comp|that qn|other n|group .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*S1:	so also (.) artists mobilizing with &sp &sp specific political &-uh
+	intentions and goals .
+%mor:	adv|so adv|also n|art-IST-PL n:gerund|mobile-IZE-PRESP prep|with
+	adj|specific adj|politic-AL n|intention-PL coord|and n|goal-PL .
+%gra:	1|2|JCT 2|4|JCT 3|4|MOD 4|0|ROOT 5|4|JCT 6|8|MOD 7|8|MOD 8|5|POBJ
+	9|8|CONJ 10|9|COORD 11|4|PUNCT
+*S1:	so for example with New York art strike &-uh made up of a large
+	group of New York artists and writers and also art dealers .
+%mor:	adv|so prep|for ex#adj|ample prep|with n:prop|New n:prop|York n|art
+	n|strike v|make&PAST adv|up prep|of det:art|a adj|large n|group
+	prep|of n:prop|New n:prop|York n|art-IST-PL coord|and
+	n|write&dv-AGT-PL coord|and adv|also n|art n|deal&dv-AGT-PL .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|POBJ 4|2|JCT 5|8|MOD 6|8|MOD 7|8|MOD 8|9|SUBJ
+	9|4|POBJ 10|9|JCT 11|10|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|14|NJCT
+	16|18|MOD 17|18|MOD 18|15|POBJ 19|14|CONJ 20|19|COORD 21|9|CONJ 22|24|MOD
+	23|24|MOD 24|21|COORD 25|2|PUNCT
+*S1:	&-um some of their actions included sit+ins at the steps of the
+	Metropolitan Museum (.) and also inside the Whitney and the
+	Guggenheim &-uh the mounting of exhibitions for peace and of_course
+	as the seventies (.) progress our involvement in Vietnam &-uh is
+	stepped up and &pe &-uh other groups also are fighting for political
+	(.) social (.) and artistic enfranchisement .
+%mor:	pro:indef|some prep|of det:poss|their n|action-PL v|include-PAST
+	n|+v|sit+prep|in-PL prep|at det:art|the n|step-PL prep|of
+	det:art|the n:prop|Metropolitan n:prop|Museum coord|and adv|also
+	prep|inside det:art|the n:prop|Whitney coord|and det:art|the
+	n:prop|Guggenheim det:art|the n:gerund|mount-PRESP prep|of
+	n|exhibition-PL prep|for n|peace coord|and co|of_course prep|as
+	det:art|the n|seventy-PL v|progress det:poss|our n|involve&dv-MENT
+	prep|in n:prop|Vietnam aux|be&3S part|step-PASTP adv|up coord|and
+	qn|other n|group-PL adv|also aux|be&PRES part|fight-PRESP prep|for
+	adj|politic-AL adj|social coord|and adj|artistic n|enfranchisement .
+%gra:	1|5|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|5|OBJ 14|13|CONJ 15|14|COORD
+	16|15|JCT 17|18|DET 18|16|POBJ 19|18|CONJ 20|21|DET 21|19|COORD 22|23|DET
+	23|16|POBJ 24|23|JCT 25|24|POBJ 26|23|JCT 27|26|POBJ 28|33|LINK 29|33|COM
+	30|33|JCT 31|32|DET 32|30|POBJ 33|23|CJCT 34|35|DET 35|33|OBJ 36|33|JCT
+	37|36|POBJ 38|39|AUX 39|33|XJCT 40|39|JCT 41|39|CONJ 42|43|QUANT
+	43|41|COORD 44|46|JCT 45|46|AUX 46|43|CMOD 47|46|JCT 48|47|POBJ 49|48|PRED
+	50|49|CONJ 51|52|MOD 52|50|COORD 53|5|PUNCT
+*S1:	and that increases (.) and so art also takes on a real &-um serious
+	&-uh political edge .
+%mor:	coord|and adv|that n|increase-PL coord|and co|so n|art adv|also
+	v|take-3S prep|on det:art|a adj|real adj|serious adj|politic-AL
+	n|edge .
+%gra:	1|3|LINK 2|3|JCT 3|8|SUBJ 4|3|CONJ 5|6|COM 6|4|COORD 7|8|JCT 8|0|ROOT
+	9|8|JCT 10|14|DET 11|12|MOD 12|14|MOD 13|14|MOD 14|9|POBJ 15|8|PUNCT
+*S1:	(0.4) but first (.) back to (.) our old favorites .
+%mor:	conj|but adv|first adv|back prep|to det:poss|our adj|old
+	n|favorite-PL .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|1|PUNCT
+*S1:	so (.) on the left we have the artist (.) gee I don't know (.)
+	&=laughs Pollock (.) &an do you remember the title ?
+%mor:	adv|so prep|on det:art|the adj|left pro:sub|we v|have det:art|the
+	n|art-IST co|gee pro:sub|I mod|do~neg|not v|know n:prop|Pollock v|do
+	pro:per|you v|remember det:art|the n|title ?
+%gra:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|4|CMOD 7|8|DET 8|6|OBJ
+	9|13|COM 10|13|SUBJ 11|13|AUX 12|11|NEG 13|4|CMOD 14|15|SUBJ 15|13|COMP
+	16|17|SUBJ 17|15|COMP 18|19|DET 19|17|OBJ 20|2|PUNCT
+*SS:	Lavender Mist .
+%mor:	n:prop|Lavender n:prop|Mist .
+%gra:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*S1:	Lavender Mist .
+%mor:	n:prop|Lavender n:prop|Mist .
+%gra:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*S1:	do you remember the date ?
+%mor:	mod|do pro:per|you v|remember det:art|the n|date ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*S1:	nineteen fifty right that's sort_of the date that we have for him .
+%mor:	det:num|nineteen det:num|fifty n|right pro:rel|that~cop|be&3S
+	adv|sort_of det:art|the n|date pro:rel|that pro:sub|we v|have
+	prep|for pro:obj|him .
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|5|JCT 7|8|DET
+	8|6|POBJ 9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|JCT 13|12|POBJ 14|3|PUNCT
+*S1:	and on the right the artist ?
+%mor:	coord|and prep|on det:art|the adj|right det:art|the n|art-IST ?
+%gra:	1|0|INCROOT 2|1|JCT 3|6|DET 4|6|MOD 5|6|DET 6|2|POBJ 7|1|PUNCT
+*SS:	Andy Warhol .
+%mor:	n:prop|Andy n:prop|Warhol .
+%gra:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*S1:	Andy Warhol and (.) the title ?
+%mor:	n:prop|Andy n:prop|Warhol coord|and det:art|the n|title ?
+%gra:	1|2|NAME 2|0|ROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*SS:	The Marilyn Diptych .
+%mor:	n:prop|The n:prop|Marilyn n:prop|Diptych .
+%gra:	1|2|NAME 2|3|NAME 3|0|INCROOT 4|3|PUNCT
+*S1:	The Marilyn Diptych (.) sixty two (.) and the process ?
+%mor:	n:prop|The n:prop|Marilyn n:prop|Diptych det:num|sixty det:num|two
+	coord|and det:art|the n|process ?
+%gra:	1|2|NAME 2|0|ROOT 3|2|CONJ 4|5|QUANT 5|3|COORD 6|5|CONJ 7|8|DET
+	8|6|COORD 9|2|PUNCT
+*SS:	photo silk screen .
+%mor:	n|photo n|silk n|screen .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S1:	photo silk screen .
+%mor:	n|photo n|silk n|screen .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S1:	so what we have beginning in the sixties (.) right with an artist
+	like Warhol that we've seen or perhaps (.) somebody like
+	Rauschenberg (.) and we've talked about this before (.) a real
+	revolt (.) against (.) the version of modernism that critics like
+	Clement Greenberg had been proponents of .
+%mor:	adv|so pro:int|what pro:sub|we v|have n|beginning prep|in
+	det:art|the n|sixty-PL adv|right prep|with det:art|a n|art-IST
+	v|like n:prop|Warhol pro:rel|that pro:sub|we~aux|have part|see&PASTP
+	coord|or co|perhaps pro:indef|somebody co|like n:prop|Rauschenberg
+	coord|and pro:sub|we~aux|have part|talk-PASTP prep|about
+	det:dem|this prep|before det:art|a adj|real n|revolt prep|against
+	det:art|the n|version prep|of n|modern&dadj-ISM adv|that n|critic-PL
+	co|like n:prop|Clement n:prop|Greenberg v|have&PAST aux|be&PASTP
+	n|proponent-PL prep|of .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|10|JCT 10|4|JCT 11|12|DET 12|13|SUBJ 13|10|POBJ 14|13|OBJ 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|14|CMOD 19|18|CONJ 20|21|COM 21|19|COORD 22|21|COM
+	23|21|NJCT 24|27|LINK 25|27|SUBJ 26|27|AUX 27|23|CJCT 28|27|JCT
+	29|28|POBJ 30|29|NJCT 31|33|DET 32|33|MOD 33|30|POBJ 34|33|NJCT 35|36|DET
+	36|34|POBJ 37|36|NJCT 38|37|POBJ 39|40|JCT 40|30|POBJ 41|40|COM 42|43|NAME
+	43|44|SUBJ 44|40|CMOD 45|40|ENUM 46|45|PRED 47|46|NJCT 48|4|PUNCT
+*S1:	so rather than (.) a history of modernism as the logical unfolding
+	toward &-uh Jackson Pollock (.) and abstract expressionism (.) a
+	group of artists (.) who were working in very different ways (.) and
+	continue &-uh sort_of passed down to other artists in the seventies
+	and eighties (.) instead wanting to explore the kinds of
+	contradictions and contingencies involved (.) in art making in the
+	social world and the political world at the time .
+%mor:	adv|so adv|rather prep|than det:art|a n|history prep|of
+	n|modern&dadj-ISM prep|as det:art|the adj|logical
+	un#n:gerund|fold-PRESP prep|toward n:prop|Jackson n:prop|Pollock
+	coord|and adj|abstract n|expression-ISM det:art|a n|group prep|of
+	n|art-IST-PL pro:rel|who aux|be&PAST part|work-PRESP adv|in adv|very
+	adj|different n|way-PL coord|and v|continue adv|sort_of
+	part|pass-PASTP adv|down prep|to qn|other n|art-IST-PL prep|in
+	det:art|the n|seventy-PL coord|and n|eighty-PL adv|instead
+	part|want-PRESP inf|to v|explore det:art|the n|kind-PL prep|of
+	n|contradiction-PL coord|and n|contingency-PL v|involve-PAST prep|in
+	n|art part|make-PRESP prep|in det:art|the adj|social n|world
+	coord|and det:art|the adj|politic-AL n|world prep|at det:art|the
+	n|time .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|XMOD 12|11|JCT 13|14|NAME 14|12|POBJ
+	15|12|CONJ 16|17|MOD 17|15|COORD 18|19|DET 19|17|OBJ 20|19|NJCT 21|20|POBJ
+	22|24|LINK 23|24|AUX 24|21|CMOD 25|24|JCT 26|27|JCT 27|28|MOD 28|24|OBJ
+	29|19|CONJ 30|29|COORD 31|32|JCT 32|30|COMP 33|32|JCT 34|32|JCT 35|36|QUANT
+	36|34|POBJ 37|36|NJCT 38|39|DET 39|37|POBJ 40|32|CONJ 41|40|COORD
+	42|43|JCT 43|41|XMOD 44|45|INF 45|43|COMP 46|47|DET 47|52|SUBJ 48|52|JCT
+	49|52|SUBJ 50|49|CONJ 51|50|COORD 52|45|COMP 53|52|JCT 54|53|POBJ 55|52|XJCT
+	56|55|JCT 57|59|DET 58|59|MOD 59|56|POBJ 60|59|CONJ 61|63|DET 62|63|MOD
+	63|60|COORD 64|63|NJCT 65|66|DET 66|64|POBJ 67|2|PUNCT
+*S1:	so really against this kind of depoliticized version of modernist
+	high art (.) against the idea of high art &-uh as being formally
+	pure (.) against this idea of purity (.) against the idea of
+	autonomy (.) and the desire instead to remerge art (.) with life .
+%mor:	adv|so adv|real&dadj-LY prep|against det:dem|this adj|kind prep|of
+	de#part|politicize-PASTP n|version prep|of n|modern&dadj-IST
+	adj|high n|art prep|against det:art|the n|idea prep|of adj|high
+	n|art prep|as part|be-PRESP adv|form&dadj-AL-LY adj|pure
+	prep|against det:dem|this n|idea prep|of n|purity prep|against
+	det:art|the n|idea prep|of n|autonomy coord|and det:art|the n|desire
+	adv|instead inf|to re#v|merge n|art prep|with n|life .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|JCT 7|6|POBJ 8|7|OBJ
+	9|8|NJCT 10|12|MOD 11|12|MOD 12|9|POBJ 13|8|NJCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|18|MOD 18|16|POBJ 19|8|NJCT 20|19|POBJ 21|22|JCT 22|20|PRED
+	23|20|JCT 24|25|DET 25|23|POBJ 26|25|NJCT 27|26|POBJ 28|20|JCT 29|30|DET
+	30|28|POBJ 31|30|NJCT 32|31|POBJ 33|20|CONJ 34|35|DET 35|33|COORD
+	36|35|NJCT 37|38|INF 38|36|COMP 39|38|OBJ 40|39|NJCT 41|40|POBJ 42|2|PUNCT
+*S1:	(0.5) so artists and we've seen this (.) again we see this with
+	Warhol (.) taking issue with ideas of originality (.) with
+	authenticity with autonomy by attacking (.) the notion +//.
+%mor:	adv|so n|art-IST-PL coord|and pro:sub|we~aux|have part|see&PASTP
+	pro:dem|this adv|again pro:sub|we v|see det:dem|this prep|with
+	n:prop|Warhol part|take-PRESP n|issue prep|with n|idea-PL prep|of
+	n|origin-AL-ITY prep|with n|authentic&dadj-ITY prep|with n|autonomy
+	adv|by part|attack-PRESP det:art|the n|notion +//.
+%gra:	1|2|JCT 2|10|SUBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|10|XJCT 7|6|OBJ 8|6|JCT
+	9|10|SUBJ 10|0|ROOT 11|10|OBJ 12|11|JCT 13|12|POBJ 14|12|POBJ 15|14|OBJ
+	16|14|JCT 17|16|POBJ 18|17|NJCT 19|18|POBJ 20|14|JCT 21|20|POBJ 22|14|JCT
+	23|22|POBJ 24|25|JCT 25|14|XJCT 26|27|DET 27|25|OBJ 28|10|PUNCT
+*S1:	what's that other A word that we used in relationship to Benjamin
+	(.) in The Work of Art in the Age of Mechanical Reproduction ?
+%mor:	pro:int|what~cop|be&3S adv|that qn|other n:prop|A n|word
+	pro:rel|that pro:sub|we v|use-PAST prep|in n|relate&dv-TION-SHIP
+	prep|to n:prop|Benjamin prep|in n:prop|The n:prop|Work prep|of
+	n:prop|Art prep|in det:art|the n:prop|Age prep|of n:prop|Mechanical
+	n:prop|Reproduction ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|QUANT 5|6|MOD 6|2|PRED 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|JCT 11|10|POBJ 12|9|JCT 13|12|POBJ 14|13|NJCT 15|16|NAME
+	16|14|POBJ 17|16|NJCT 18|17|POBJ 19|9|JCT 20|21|DET 21|19|POBJ 22|21|NJCT
+	23|22|POBJ 24|9|JCT 25|2|PUNCT
+*SS:	aura .
+%mor:	n|aura .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	attacking aura right ?
+%mor:	part|attack-PRESP n|aura co|right ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|COM 4|2|PUNCT
+*S1:	we see that pretty clearly with Warhol (.) in the sense you know I
+	talked about this a little bit with (.) the Marilyn Monroe and the
+	repetition of her face (.) both in color and then black and white as
+	it sort of fades out (.) this idea that there is &-uh a kind of
+	unbridgeable distance (.) from the original .
+%mor:	pro:sub|we v|see adv|that adj|pretty adv|clear&dadj-LY prep|with
+	n:prop|Warhol prep|in det:art|the n|sense pro:per|you v|know
+	pro:sub|I v|talk-PAST prep|about det:dem|this det:art|a adj|little
+	n|bit prep|with det:art|the n:prop|Marilyn n:prop|Monroe coord|and
+	det:art|the n|repetition prep|of det:poss|her n|face qn|both prep|in
+	n|color coord|and adv:tem|then n|black coord|and adj|white conj|as
+	pro:per|it v|sort prep|of v|fade-3S adv|out det:dem|this n|idea
+	comp|that adv|there cop|be&3S det:art|a n|kind prep|of
+	un#adj|bridge&dv-ABLE n|distance prep|from det:art|the
+	adj|origin&dn-AL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|12|JCT 5|4|JCT 6|4|NJCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|12|SUBJ 12|2|COMP 13|14|SUBJ 14|2|CJCT 15|14|JCT
+	16|19|DET 17|19|DET 18|19|MOD 19|15|POBJ 20|19|NJCT 21|22|DET 22|20|POBJ
+	23|30|SUBJ 24|23|CONJ 25|26|DET 26|24|COORD 27|26|NJCT 28|29|DET
+	29|27|POBJ 30|22|XMOD 31|30|JCT 32|31|POBJ 33|30|CONJ 34|33|COORD 35|34|OBJ
+	36|35|CONJ 37|36|COORD 38|40|LINK 39|40|SUBJ 40|35|CJCT 41|40|JCT 42|41|POBJ
+	43|40|JCT 44|45|DET 45|40|JCT 46|48|LINK 47|48|SUBJ 48|45|CMOD
+	49|50|DET 50|48|PRED 51|50|NJCT 52|51|POBJ 53|52|OBJ 54|53|NJCT 55|56|DET
+	56|54|POBJ 57|2|PUNCT
+*S1:	there's no way to get back to the original in the Warhol in a sense
+	because (.) what are we getting back to but a film still icon (.) of
+	(.) Marilyn Monroe .
+%mor:	pro:exist|there~cop|be&3S qn|no n|way inf|to v|get adv|back prep|to
+	det:art|the adj|origin&dn-AL prep|in det:art|the n:prop|Warhol
+	prep|in det:art|a n|sense conj|because pro:int|what cop|be&PRES
+	pro:sub|we n:gerund|get-PRESP adv|back prep|to conj|but det:art|a
+	n|film adv|still n|icon prep|of n:prop|Marilyn n:prop|Monroe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|6|INF 6|4|XMOD 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|10|JCT 15|16|DET
+	16|14|POBJ 17|19|LINK 18|19|SUBJ 19|2|CJCT 20|19|PRED 21|20|OBJ 22|21|JCT
+	23|21|JCT 24|23|POBJ 25|26|DET 26|24|COORD 27|28|JCT 28|26|NJCT
+	29|28|NJCT 30|31|NAME 31|29|POBJ 32|2|PUNCT
+*S1:	a kind of self-created &-uh studio created image of the star .
+%mor:	det:art|a n|kind prep|of self#part|create-PASTP n|studio
+	v|create-PAST n|image prep|of det:art|the n|star .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|6|SUBJ 6|4|COMP 7|6|OBJ
+	8|7|NJCT 9|10|DET 10|8|POBJ 11|2|PUNCT
+*S1:	so there's this idea of how do you even &g where is the original
+	here ?
+%mor:	co|so pro:exist|there~cop|be&3S det:dem|this n|idea prep|of
+	pro:int|how mod|do pro:per|you adj|even pro:int|where cop|be&3S
+	det:art|the adj|origin&dn-AL adv|here ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|JCT 7|12|JCT 8|12|AUX
+	9|12|SUBJ 10|12|JCT 11|12|SUBJ 12|6|CPOBJ 13|14|DET 14|12|PRED 15|14|JCT
+	16|3|PUNCT
+*S1:	how do you even get back to an original ?
+%mor:	pro:int|how mod|do pro:per|you adv|even v|get adv|back prep|to
+	det:art|a adj|origin&dn-AL ?
+%gra:	1|3|JCT 2|3|AUX 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*S1:	is there even a possibility of an original in this work ?
+%mor:	cop|be&3S adv|there adv|even det:art|a n|possible&dadj-ITY prep|of
+	det:art|a adj|origin&dn-AL prep|in det:dem|this n|work ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|8|JCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+*S1:	and without the presence of [/] &th of an original (.) how can
+	there be aura ?
+%mor:	coord|and prep|without det:art|the n|presence prep|of det:art|a
+	adj|origin&dn-AL pro:rel|how n|can adv|there cop|be n|aura ?
+%gra:	1|11|LINK 2|11|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|11|SUBJ 11|0|ROOT 12|11|PRED 13|11|PUNCT
+*S1:	how does this complicate &-uh through photographic reproduction (.)
+	that idea of Benjamin's of the existence of aura (.) and how crucial
+	the idea of aura is &-uh to understand the kind of value attributed
+	to (.) the gestural abstract expressionism of a painter like Jackson
+	Pollock ?
+%mor:	pro:int|how mod|do&3S pro:dem|this v|complicate adv|through
+	photo#adj|graphic re#n|production det:dem|that n|idea prep|of
+	adj|Benjamin&dn-POSS prep|of det:art|the n|existence prep|of n|aura
+	coord|and pro:int|how adj|crucial det:art|the n|idea prep|of n|aura
+	cop|be&3S inf|to v|understand det:art|the n|kind prep|of n|value
+	v|attribute-PAST prep|to det:art|the adj|gestural n|abstract
+	n|expression-ISM prep|of det:art|a n|paint&dv-AGT v|like
+	n:prop|Jackson n:prop|Pollock ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|11|JCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|24|LINK 18|19|JCT 19|24|PRED 20|21|DET 21|24|SUBJ 22|21|NJCT
+	23|22|POBJ 24|11|CMOD 25|26|INF 26|24|CPRED 27|28|DET 28|31|SUBJ
+	29|28|NJCT 30|29|POBJ 31|26|COMP 32|40|JCT 33|36|DET 34|36|MOD 35|36|MOD
+	36|40|SUBJ 37|36|NJCT 38|39|DET 39|37|POBJ 40|31|COMP 41|42|NAME 42|40|OBJ
+	43|4|PUNCT
+*S1:	so &we [/] we're seeing this contestation of the uniqueness of the
+	work of art (.) really intensifying in the past three decades
+	sort_of taking off (.) with artists (.) in the sixties and
+	continuing to be questioned through different kinds of &-uh
+	pictorial strategies (.) in the seventies eighties and nineties and
+	really (.) again what better medium to exploit (.) and explore &-uh
+	this idea of (.) aura and authenticity than (.) with the photograph
+	?
+%mor:	adv|so pro:sub|we~aux|be&PRES part|see-PRESP det:dem|this
+	n|contest&dv-TION prep|of det:art|the n|unique&dadj-NESS prep|of
+	det:art|the n|work prep|of n|art adv|real&dadj-LY
+	part|intensify-PRESP prep|in det:art|the adj|past det:num|three
+	n|decade-PL adv|sort_of part|take-PRESP adv|off prep|with
+	n|art-IST-PL prep|in det:art|the n|sixty-PL coord|and
+	part|continue-PRESP inf|to aux|be part|question-PASTP prep|through
+	adj|different n|kind-PL prep|of adj|pictorial n|strategy-PL prep|in
+	det:art|the n|seventy-PL n|eighty-PL coord|and n|ninety-PL coord|and
+	adv|real&dadj-LY adv|again pro:int|what adj|good&CP adj|medium
+	prep|to n|exploit coord|and v|explore det:dem|this n|idea prep|of
+	n|aura coord|and n|authentic&dadj-ITY prep|than prep|with
+	det:art|the photo#n|graph ?
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|12|NJCT 14|13|POBJ 15|16|JCT
+	16|4|PUNCT 17|16|JCT 18|21|DET 19|21|MOD 20|21|QUANT 21|17|POBJ 22|23|JCT
+	23|16|ROOT 24|23|JCT 25|23|JCT 26|25|POBJ 27|26|NJCT 28|29|DET 29|27|POBJ
+	30|23|CONJ 31|30|COORD 32|34|INF 33|34|AUX 34|31|COMP 35|34|JCT
+	36|37|MOD 37|35|POBJ 38|37|NJCT 39|40|MOD 40|38|POBJ 41|40|NJCT 42|44|DET
+	43|44|MOD 44|41|POBJ 45|34|CONJ 46|45|COORD 47|34|CONJ 48|49|JCT 49|47|COORD
+	50|49|INCROOT 51|50|PRED 52|51|JCT 53|52|JCT 54|53|POBJ 55|52|CONJ
+	56|55|COORD 57|58|DET 58|56|OBJ 59|58|NJCT 60|59|POBJ 61|58|CONJ 62|61|COORD
+	63|62|NJCT 64|63|JCT 65|66|DET 66|64|POBJ 67|50|PUNCT
+*S1:	(0.6) so on the left here we have (.) Sherrie Levine (0.4) After
+	Rodchenko .
+%mor:	adv|so prep|on det:art|the adj|left adv|here pro:sub|we v|have
+	n:prop|Sherrie n:prop|Levine n:prop|After n:prop|Rodchenko .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|7|JCT 6|7|SUBJ 7|4|CMOD 8|9|NAME
+	9|7|OBJ 10|11|NAME 11|9|APP 12|2|PUNCT
+*S1:	nineteen eighty three .
+%mor:	det:num|nineteen det:num|eighty det:num|three .
+%gra:	1|3|DATE 2|3|DATE 3|0|INCROOT 4|3|PUNCT
+*S1:	Levine Sherrie Levine After Rodchenko in nineteen eighty three .
+%mor:	n:prop|Levine n:prop|Sherrie n:prop|Levine n:prop|After
+	n:prop|Rodchenko prep|in det:num|nineteen det:num|eighty
+	det:num|three .
+%gra:	1|2|NAME 2|3|NAME 3|4|NAME 4|5|NAME 5|0|ROOT 6|5|JCT 7|8|QUANT
+	8|9|QUANT 9|6|POBJ 10|5|PUNCT
+*S1:	Sherrie Levine an artist and this is an example of her work (.) an
+	artist who (.) becomes (.) relatively prominent &-uh in the nineteen
+	eighties .
+%mor:	n:prop|Sherrie n:prop|Levine det:art|a n|art-IST coord|and
+	pro:dem|this cop|be&3S det:art|a n|example prep|of det:poss|her
+	n|work det:art|a n|art-IST pro:rel|who cop|become-3S
+	adv|relative&dadj-LY adj|prominent prep|in det:art|the
+	det:num|nineteen n|eighty-PL .
+%gra:	1|2|NAME 2|7|SUBJ 3|4|DET 4|2|OBJ 5|2|CONJ 6|5|COORD 7|0|ROOT 8|9|DET
+	9|7|PRED 10|9|NJCT 11|12|DET 12|10|POBJ 13|14|DET 14|9|APP 15|16|LINK
+	16|14|CMOD 17|18|JCT 18|16|PRED 19|16|JCT 20|22|DET 21|22|QUANT 22|19|POBJ
+	23|7|PUNCT
+*S1:	and she works +...
+%mor:	coord|and pro:sub|she v|work-3S +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*S1:	for the most part (.) with (.) the pirated print .
+%mor:	prep|for det:art|the qn|most n|part prep|with det:art|the
+	part|pirate-PASTP n|print .
+%gra:	1|0|INCROOT 2|4|DET 3|4|QUANT 4|1|POBJ 5|4|NJCT 6|8|DET 7|8|MOD
+	8|5|POBJ 9|1|PUNCT
+*S1:	she's stealing photographs basically (.) that have already been
+	made by &-uh relatively usually canonical artists .
+%mor:	pro:sub|she~aux|be&3S part|steal-PRESP photo#n|graph-PL
+	adv|basic&dadj-AL-LY pro:rel|that aux|have adv|already aux|be&PASTP
+	v|make&PAST prep|by adv|relative&dadj-LY adv|usual&dadj-LY
+	adj|canonical n|art-IST-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|JCT 6|10|LINK 7|10|AUX 8|10|SUBJ
+	9|10|AUX 10|5|CMOD 11|10|JCT 12|13|JCT 13|14|JCT 14|15|MOD 15|11|POBJ
+	16|3|PUNCT
+*S1:	Alexander Rodchenko someone you're familiar with for example (.) or
+	people from &-uh artists from the canon of modern photography (.)
+	Edward Weston would be another example .
+%mor:	n:prop|Alexander n:prop|Rodchenko pro:indef|someone
+	pro:per|you~cop|be&PRES adj|familiar prep|with prep|for ex#adj|ample
+	coord|or n|person&PL prep|from n|art-IST-PL prep|from det:art|the
+	n|canon prep|of adj|modern n|photography n:prop|Edward n:prop|Weston
+	mod|will&COND aux|be qn|another n|example .
+%gra:	1|2|NAME 2|3|SUBJ 3|0|INCROOT 4|5|SUBJ 5|3|CMOD 6|5|PRED 7|5|JCT
+	8|7|POBJ 9|8|POBJ 10|9|CONJ 11|25|MOD 12|11|NJCT 13|12|POBJ 14|11|NJCT
+	15|16|DET 16|14|POBJ 17|16|NJCT 18|19|MOD 19|17|POBJ 20|21|NAME 21|25|SUBJ
+	22|25|AUX 23|25|AUX 24|25|QUANT 25|10|COORD 26|3|PUNCT
+*S1:	or Walker Evans who you saw briefly when we talked about FSA
+	photographs .
+%mor:	coord|or n:prop|Walker n:prop|Evans pro:rel|who pro:per|you
+	v|see&PAST adv|brief&dadj-LY conj|when pro:sub|we v|talk-PAST
+	prep|about n:prop|FSA v|photograph-3S .
+%gra:	1|3|LINK 2|3|NAME 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|JCT 8|10|LINK
+	9|10|SUBJ 10|6|CJCT 11|13|JCT 12|13|SUBJ 13|10|CJCT 14|3|PUNCT
+*S1:	After Rodchenko .
+%mor:	n:prop|After n:prop|Rodchenko .
+%gra:	1|2|NAME 2|0|INCROOT 3|2|PUNCT
+*S1:	so she actually takes the print (.) and (.) displays it as her own
+	work .
+%mor:	co|so pro:sub|she adv|actual&dadj-LY v|take-3S det:art|the n|print
+	coord|and v|display-3S pro:per|it prep|as det:poss|her adj|own
+	n|work .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|CONJ 8|7|COORD
+	9|8|OBJ 10|8|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|4|PUNCT
+*S1:	she takes them in different ways sometimes she rephotographs
+	sometimes she takes posters +...
+%mor:	pro:sub|she v|take-3S pro:obj|them prep|in adj|different n|way-PL
+	adv|sometimes pro:sub|she re#v|photograph-3S adv|sometimes
+	pro:sub|she v|take-3S n|poster-PL +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|MOD 6|4|POBJ 7|9|JCT 8|9|SUBJ
+	9|2|JCT 10|12|JCT 11|12|SUBJ 12|9|CONJ 13|12|OBJ 14|2|PUNCT
+*S1:	according to (.) Douglas Crimp who writes about postmodern
+	photography quote &{l=READING a group of young artists &}l=READING
+	and he's referring to Levine (.) &{l=READING working with
+	photography have addressed photography's claims to originality (.)
+	showing those claims for the fiction they are .
+%mor:	part|accord-PRESP prep|to n:prop|Douglas n:prop|Crimp pro:rel|who
+	v|write-3S prep|about post#adj|modern n|photography n|quote
+	det:art|a n|group prep|of adj|young n|art-IST-PL coord|and
+	pro:sub|he~aux|be&3S part|refer-PRESP prep|to n:prop|Levine
+	part|work-PRESP prep|with n|photography v|have part|address-PASTP
+	adj|photography&dn-POSS n|claim-PL prep|to n|origin-AL-ITY
+	part|show-PRESP det:dem|those n|claim-PL prep|for det:art|the
+	n|fiction pro:sub|they cop|be&PRES .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|NAME 4|2|POBJ 5|6|LINK 6|4|CMOD 7|6|JCT
+	8|10|MOD 9|10|MOD 10|7|POBJ 11|12|DET 12|10|OBJ 13|12|NJCT 14|15|MOD 15|13|POBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|12|XMOD 20|19|JCT 21|20|POBJ
+	22|19|XJCT 23|22|JCT 24|23|POBJ 25|24|CMOD 26|25|COMP 27|28|MOD 28|26|OBJ
+	29|28|NJCT 30|29|POBJ 31|28|XJCT 32|33|DET 33|31|OBJ 34|33|NJCT 35|36|DET
+	36|34|POBJ 37|38|SUBJ 38|33|CMOD 39|1|PUNCT
+*S1:	showing photography to be always a representation .
+%mor:	part|show-PRESP n|photography inf|to cop|be adv|always det:art|a
+	n|represent&dv-TION .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|INF 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*S1:	always already seen .
+%mor:	adv|always adv|already part|see&PASTP .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*S1:	their images are purloined (.) confiscated (.) appropriated (.)
+	stolen (.) in their work (.) the original cannot be located .
+%mor:	det:poss|their n|image-PL aux|be&PRES part|purloin-PASTP
+	part|confiscate-PASTP part|appropriate-PASTP part|steal&PASTP
+	prep|in det:poss|their n|work det:art|the adj|origin&dn-AL
+	mod|can~neg|not aux|be part|locate-PASTP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|XJCT 6|4|XJCT 7|4|XJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|12|DET 12|7|JCT 13|16|AUX 14|13|NEG 15|16|AUX
+	16|12|CMOD 17|4|PUNCT
+*S1:	&}l=READING so again and you see an artist here (.) Levine (.)
+	deconstructing the modernist notion of the original .
+%mor:	adv|so adv|again coord|and pro:per|you v|see det:art|a n|art-IST
+	adv|here n:prop|Levine de#n:gerund|construct-PRESP det:art|the
+	n|modern&dadj-IST n|notion prep|of det:art|the adj|origin&dn-AL .
+%gra:	1|2|JCT 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|9|POBJ 11|13|DET 12|13|MOD 13|10|OBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|2|PUNCT
+*S1:	and you should think about this (.) and this (.) &a as being part
+	of a lineage (.) of art production in the twentieth century (.) a
+	lineage (.) starting really with what artist ?
+%mor:	coord|and pro:per|you mod|should v|think prep|about pro:dem|this
+	coord|and pro:dem|this prep|as part|be-PRESP n|part prep|of
+	det:art|a n|lineage prep|of n|art n|production prep|in det:art|the
+	adj|twentieth n|century det:art|a n|lineage part|start-PRESP
+	adv|real&dadj-LY prep|with pro:int|what n|art-IST ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|CONJ 8|7|COORD
+	9|4|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|17|MOD 17|15|POBJ 18|4|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|23|DET
+	23|4|JCT 24|23|XMOD 25|24|JCT 26|24|JCT 27|28|DET 28|26|POBJ 29|4|PUNCT
+*S1:	(0.4) the big D (.) right ?
+%mor:	det:art|the adj|big n:prop|D co|right ?
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|COM 5|3|PUNCT
+*S1:	right with Duchamp .
+%mor:	adv|right prep|with n:prop|Duchamp .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|POBJ 4|2|PUNCT
+*S1:	so again we shouldn't +//.
+%mor:	co|so adv|again pro:sub|we mod|should~neg|not +//.
+%gra:	1|0|INCROOT 2|6|JCT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|1|PUNCT
+*S1:	and this can influence how you yourself wanna think about
+	postmodernism &h and how you define it (.) but here we're picking up
+	(.) of_course practices from &-uh much earlier in the twentieth
+	century .
+%mor:	coord|and pro:dem|this mod|can v|influence pro:int|how pro:per|you
+	pro:refl|yourself v|want~inf|to v|think prep|about
+	post#n|modern&dadj-ISM coord|and pro:int|how pro:per|you v|define
+	pro:per|it conj|but pro:exist|here pro:sub|we~aux|be&PRES
+	part|pick-PRESP adv|up co|of_course n|practice-PL prep|from qn|much
+	adv|early-CP prep|in det:art|the adj|twentieth n|century .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|SUBJ 8|4|COMP
+	9|10|INF 10|8|COMP 11|10|JCT 12|11|POBJ 13|12|CONJ 14|16|LINK 15|16|SUBJ
+	16|13|COORD 17|16|OBJ 18|4|CONJ 19|18|COORD 20|22|SUBJ 21|22|AUX
+	22|19|CMOD 23|22|JCT 24|25|COM 25|22|OBJ 26|25|NJCT 27|28|QUANT 28|29|JCT
+	29|26|JCT 30|32|DET 31|32|MOD 32|29|POBJ 33|4|PUNCT
+*S1:	but you also wanna think about how they're different right (.) how
+	(.) these kinds (.) how [/] how pirating a [/] a photograph let's
+	say (.) and showing it sort of as your work (.) how (.) that kind of
+	gesture is different what are the different kinds of implications
+	between that (.) and say &-uh taking a urinal and displaying it (.)
+	under the name &-uh R Mutt .
+%mor:	conj|but pro:per|you adv|also v|want~inf|to v|think prep|about
+	pro:int|how pro:sub|they~cop|be&PRES adj|different adj|right
+	pro:int|how det:dem|these n|kind-PL pro:rel|how part|pirate-PRESP
+	det:art|a photo#n|graph v|let~pro:obj|us v|say coord|and
+	part|show-PRESP pro:per|it v|sort prep|of adv|as det:poss|your
+	n|work pro:int|how adv|that adj|kind prep|of n|gesture cop|be&3S
+	adj|different pro:int|what cop|be&PRES det:art|the adj|different
+	n|kind-PL prep|of n|implicate&dv-TION-PL prep|between pro:dem|that
+	coord|and v|say part|take-PRESP det:art|a n|urinal coord|and
+	part|display-PRESP pro:per|it prep|under det:art|the n|name n:prop|R
+	n:prop|Mutt .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|10|LINK
+	9|10|SUBJ 10|7|CPOBJ 11|13|MOD 12|13|MOD 13|10|PRED 14|15|DET 15|13|ROOT
+	16|17|LINK 17|15|CMOD 18|19|DET 19|20|SUBJ 20|17|ROOT 21|20|OBJ
+	22|20|COMP 23|22|CONJ 24|23|COORD 25|26|SUBJ 26|24|COMP 27|26|JCT 28|30|COORD
+	29|30|DET 30|27|POBJ 31|26|INCROOT 32|33|JCT 33|31|PRED 34|33|JCT
+	35|34|POBJ 36|33|CMOD 37|36|PRED 38|39|SUBJ 39|37|CMOD 40|42|DET 41|42|MOD
+	42|39|PRED 43|42|NJCT 44|43|POBJ 45|44|NJCT 46|45|POBJ 47|36|CONJ 48|47|COORD
+	49|48|COMP 50|51|DET 51|49|OBJ 52|49|CONJ 53|52|COORD 54|53|OBJ
+	55|53|JCT 56|57|DET 57|55|POBJ 58|59|NAME 59|57|APP 60|31|PUNCT
+*S1:	so appropriation here &-uh we can see as being a [/] &r a very key
+	strategy (.) in postmodern photography .
+%mor:	co|so n|appropriate&dv-TION adv|here pro:sub|we mod|can v|see
+	adv|as n|being det:art|a adv|very n|key n|strategy prep|in
+	post#adj|modern n|photography .
+%gra:	1|2|COM 2|6|SUBJ 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|12|COORD 8|12|MOD
+	9|12|DET 10|11|JCT 11|12|MOD 12|6|OBJ 13|12|NJCT 14|15|MOD 15|13|POBJ
+	16|6|PUNCT
+*S1:	and here again she's questioning as Warhol is (.) the idea of
+	autonomy she's refusing authorship (.) and (.) in that sense
+	dismantling that notion of the unique original (.) work of art with
+	aura .
+%mor:	coord|and adv|here adv|again pro:sub|she~aux|be&3S
+	part|question-PRESP conj|as n:prop|Warhol cop|be&3S det:art|the
+	n|idea prep|of n|autonomy pro:sub|she~aux|be&3S part|refuse-PRESP
+	n|author-SHIP coord|and prep|in det:dem|that n|sense
+	part|dismantle-PRESP adv|that n|notion prep|of det:art|the
+	adj|unique adj|origin&dn-AL n|work prep|of n|art prep|with n|aura .
+%gra:	1|6|LINK 2|3|JCT 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|LINK 8|9|SUBJ
+	9|16|CJCT 10|11|DET 11|9|PRED 12|11|NJCT 13|12|POBJ 14|16|SUBJ 15|16|AUX
+	16|6|COMP 17|16|OBJ 18|17|CONJ 19|18|COORD 20|21|DET 21|19|POBJ
+	22|19|XJCT 23|22|JCT 24|23|POBJ 25|24|NJCT 26|29|DET 27|29|MOD 28|29|MOD
+	29|25|POBJ 30|29|NJCT 31|30|POBJ 32|29|NJCT 33|32|POBJ 34|6|PUNCT
+*S1:	right how does this have aura anymore ?
+%mor:	adv|right pro:rel|how v|do&3S pro:dem|this v|have n|aura
+	adv|anymore ?
+%gra:	1|3|JCT 2|3|LINK 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|5|JCT 8|3|PUNCT
+*S1:	and then what does it mean for it not to ?
+%mor:	coord|and adv:tem|then pro:int|what mod|do&3S pro:per|it v|mean
+	prep|for pro:per|it neg|not prep|to ?
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|10|NEG 10|6|JCT 11|6|PUNCT
+*S1:	how does this become part of &-uh a gallery system for example ?
+%mor:	pro:int|how mod|do&3S det:dem|this part|become&PASTP adj|part
+	prep|of det:art|a n|gallery n|system prep|for ex#adj|ample ?
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|XMOD 5|4|JCT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|JCT 11|10|POBJ 12|3|PUNCT
+*S1:	how does this become part of the commodity system (.) part of the
+	art market ?
+%mor:	pro:int|how mod|do&3S det:dem|this part|become&PASTP adj|part
+	prep|of det:art|the n|commodity n|system n|part prep|of det:art|the
+	n|art n|market ?
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|XMOD 5|4|JCT 6|5|JCT 7|10|DET 8|10|MOD
+	9|10|MOD 10|6|POBJ 11|10|NJCT 12|14|DET 13|14|MOD 14|11|POBJ 15|3|PUNCT
+*S1:	so appropriation (.) as a very key strategy (.) in (.) postmodern
+	photographic practice .
+%mor:	adv|so n|appropriate&dv-TION prep|as det:art|a adv|very n|key
+	n|strategy prep|in post#adj|modern photo#adj|graphic n|practice .
+%gra:	1|2|JCT 2|0|INCROOT 3|7|COORD 4|7|DET 5|6|JCT 6|7|MOD 7|2|ENUM 8|2|JCT
+	9|11|MOD 10|11|MOD 11|8|POBJ 12|2|PUNCT
+*S1:	two other artists we have here on the right &-uh is Richter (.) R I
+	C H T E R +...
+%mor:	det:num|two pro:indef|other n|art-IST-PL pro:sub|we v|have adv|here
+	prep|on det:art|the adj|right cop|be&3S n:prop|Richter n:prop|R
+	pro:sub|I n:prop|C n:prop|H n:prop|T n:prop|E n:prop|R +...
+%gra:	1|3|QUANT 2|3|MOD 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|JCT 10|7|CPOBJ 11|12|NAME 12|18|NAME 13|18|NAME 14|15|NAME 15|17|NAME
+	16|17|NAME 17|18|NAME 18|10|PRED 19|5|PUNCT
+*S1:	a photopainting@n called Betty (.) <it's a> [/] it's a painting
+	based on a photograph (.) and on the right Boltanski B O I'm just
+	giving you last names B O L T A N S K I and again these are taken
+	straight from your (.) final exam slide list .
+%mor:	det:art|a neo|photopainting part|call-PASTP n:prop|Betty
+	pro:per|it~aux|be&3S det:art|a n:gerund|paint-PRESP part|base-PASTP
+	prep|on det:art|a photo#n|graph coord|and prep|on det:art|the
+	adj|right n:prop|Boltanski n:prop|B n:prop|O pro:sub|I~aux|be&1S
+	adv|just part|give-PRESP pro:per|you adv|last v|name-3S n:prop|B
+	n:prop|O n:prop|L n:prop|T n:prop|A n:prop|N n:prop|S n:prop|K
+	pro:sub|I coord|and adv|again pro:dem|these aux|be&PRES
+	part|take&PASTP adj|straight prep|from det:poss|your adj|final
+	n|exam n|slide n|list .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|3|OBJ 5|8|SUBJ 6|8|AUX 7|8|DET 8|3|CJCT
+	9|23|XJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|12|CONJ 14|13|COORD 15|17|DET
+	16|17|MOD 17|19|NAME 18|19|NAME 19|14|POBJ 20|23|SUBJ 21|23|AUX
+	22|23|JCT 23|8|XMOD 24|23|OBJ 25|23|JCT 26|23|COMP 27|28|NAME 28|29|NAME
+	29|30|NAME 30|31|NAME 31|26|OBJ 32|31|APP 33|34|NAME 34|31|APP 35|40|SUBJ
+	36|35|CONJ 37|38|JCT 38|36|COORD 39|40|AUX 40|34|CMOD 41|40|JCT 42|40|JCT
+	43|47|DET 44|47|MOD 45|47|MOD 46|47|MOD 47|42|POBJ 48|2|PUNCT
+*S1:	this is the drawer from nineteen eighty eight .
+%mor:	pro:dem|this cop|be&3S det:art|the n|drawer prep|from
+	det:num|nineteen det:num|eighty det:num|eight .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|8|DATE 7|8|DATE 8|5|POBJ
+	9|2|PUNCT
+*S1:	so it's a installation right multimedia he's using a photograph (.)
+	a light and (.) of_course a drawer .
+%mor:	co|so pro:per|it~cop|be&3S det:art|a n|install&dv-TION adj|right
+	multi#n|media pro:sub|he~aux|be&3S part|use-PRESP det:art|a
+	photo#n|graph det:art|a n|light coord|and co|of_course det:art|a
+	n|drawer .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|MOD 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|5|CMOD 11|12|DET 12|10|OBJ 13|14|DET 14|12|OBJ 15|14|CONJ
+	16|18|COM 17|18|DET 18|15|COORD 19|3|PUNCT
+*S1:	(0.4) according to Richter (.) &{l=READING I pursue no objectives
+	no system no tendency .
+%mor:	part|accord-PRESP prep|to n:prop|Richter pro:sub|I v|pursue qn|no
+	n|objective-PL qn|no n|system qn|no n|tendency .
+%gra:	1|5|XJCT 2|1|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|9|QUANT
+	9|7|ENUM 10|11|QUANT 11|9|OBJ 12|5|PUNCT
+*S1:	I have no program no style no direction .
+%mor:	pro:sub|I v|have qn|no n|program qn|no n|style qn|no n|direction .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|6|QUANT 6|4|ENUM 7|8|QUANT
+	8|6|OBJ 9|2|PUNCT
+*S1:	&}l=READING seems like a bit of a nihilist no ?
+%mor:	cop|seem-3S conj|like det:art|a n|bit prep|of det:art|a n|nihilist
+	co|no ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|4|COM
+	9|1|PUNCT
+*S1:	&{l=READING I have no time for specialized concerns (.) working
+	themes or variations that lead to mastery .
+%mor:	pro:sub|I v|have qn|no n|time prep|for part|special-IZE-PASTP
+	n|concern-PL part|work-PRESP n|theme-PL coord|or n|vary&dv-TION-PL
+	det:dem|that n|lead prep|to n|mastery .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|5|POBJ 7|6|OBJ 8|7|XMOD
+	9|8|OBJ 10|9|CONJ 11|13|MOD 12|13|DET 13|10|COORD 14|13|NJCT 15|14|POBJ
+	16|2|PUNCT
+*S1:	&}l=READING again mastery is a kind of notion tied up with (.) high
+	modernism .
+%mor:	adv|again n|mastery cop|be&3S det:art|a n|kind prep|of n|notion
+	v|tie-PAST adv|up prep|with n|high n|modern&dadj-ISM .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|3|ENUM
+	9|8|JCT 10|8|JCT 11|12|MOD 12|10|POBJ 13|3|PUNCT
+*S1:	right with Pollock right that there can be this idea of this &-uh
+	well on the one hand this sort_of master creator this master genius
+	(.) and then (.) with Greenberg in terms of a critical point of view
+	a master reading like one way to read the &k this kind of work .
+%mor:	adv|right prep|with n:prop|Pollock adj|right adv|that adv|there
+	mod|can cop|be det:dem|this n|idea prep|of det:dem|this adv|well
+	prep|on det:art|the det:num|one n|hand pro:dem|this adv|sort_of
+	n|master n|creator det:dem|this n|master n|genius coord|and
+	adv:tem|then prep|with n:prop|Greenberg prep|in n|term-PL prep|of
+	det:art|a adj|critical n|point prep|of n|view det:art|a n|master
+	part|read-PRESP conj|like det:num|one n|way inf|to v|read&ZERO
+	det:art|the det:dem|this adj|kind prep|of n|work .
+%gra:	1|2|JCT 2|8|LINK 3|8|SUBJ 4|8|JCT 5|4|JCT 6|4|JCT 7|8|AUX 8|0|ROOT
+	9|10|DET 10|24|MOD 11|10|NJCT 12|13|DET 13|11|POBJ 14|10|NJCT 15|17|DET
+	16|17|QUANT 17|14|POBJ 18|24|MOD 19|20|JCT 20|21|MOD 21|24|MOD 22|24|DET
+	23|24|MOD 24|8|PRED 25|24|CONJ 26|25|COORD 27|26|JCT 28|27|POBJ 29|28|NJCT
+	30|29|POBJ 31|30|NJCT 32|34|DET 33|34|MOD 34|31|POBJ 35|34|NJCT
+	36|35|POBJ 37|38|DET 38|27|POBJ 39|38|XMOD 40|39|JCT 41|42|QUANT 42|40|POBJ
+	43|44|INF 44|42|XMOD 45|47|DET 46|47|DET 47|44|OBJ 48|47|JCT 49|48|POBJ
+	50|8|PUNCT
+*S1:	I &st back to Richter (.) &{l=READING I steer clear of definitions
+	(.) I don't know what I want .
+%mor:	pro:sub|I adv|back prep|to n:prop|Richter pro:sub|I v|steer
+	adv|clear prep|of n|definition-PL pro:sub|I mod|do~neg|not v|know
+	pro:int|what pro:sub|I v|want .
+%gra:	1|6|SUBJ 2|1|JCT 3|6|JCT 4|3|POBJ 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|JCT
+	9|8|POBJ 10|13|SUBJ 11|13|AUX 12|11|NEG 13|6|CJCT 14|16|LINK 15|16|SUBJ
+	16|13|COMP 17|6|PUNCT
+*S1:	&}l=READING oh isn't that so true for most of us .
+%mor:	co|oh cop|be&3S~neg|not pro:dem|that adv|so n|true prep|for qn|most
+	prep|of pro:obj|us .
+%gra:	1|2|COM 2|0|ROOT 3|2|NEG 4|6|DET 5|6|JCT 6|2|PRED 7|6|NJCT 8|7|POBJ
+	9|8|NJCT 10|9|POBJ 11|2|PUNCT
+*S1:	&{l=READING I am inconsistent noncommittal passive .
+%mor:	pro:sub|I cop|be&1S in#adj|consistent non#adj|committal adj|passive
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|CONJ 5|4|COORD 6|2|PUNCT
+*S1:	I like the indefinite the boundless (.) I like continual
+	uncertainty .
+%mor:	pro:sub|I v|like det:art|the in#adj|definite det:art|the
+	adj|bound&dn-LESS pro:sub|I v|like adj|continual un#n|certainty .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|DET 6|4|PRED 7|8|SUBJ 8|6|CMOD
+	9|10|MOD 10|8|COMP 11|2|PUNCT
+*S1:	&}l=READING so certainly voicing a_lot_of &-uh the kinds of
+	concerns in a sense of (.) some artists associated with
+	postmodernism right instead of (.) being like sort_of heroic &-um
+	you know modernist &-uh artist .
+%mor:	adv|so adv|certain&dadj-LY part|voice-PRESP qn|a_lot_of det:art|the
+	n|kind-PL prep|of n|concern-PL prep|in det:art|a n|sense prep|of
+	qn|some n|art-IST-PL v|associate-PAST prep|with
+	post#n|modern&dadj-ISM adv|right adv|instead prep|of
+	n:gerund|be-PRESP v|like adv|sort_of adj|heroic pro:per|you v|know
+	n|modern&dadj-IST n|art-IST .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|6|QUANT 5|6|DET 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|15|LINK 13|14|QUANT 14|15|SUBJ 15|11|CMOD
+	16|15|JCT 17|16|POBJ 18|19|JCT 19|22|JCT 20|22|JCT 21|22|SUBJ 22|17|CMOD
+	23|22|JCT 24|22|JCT 25|26|SUBJ 26|24|CMOD 27|28|MOD 28|26|OBJ
+	29|3|PUNCT
+*S1:	here is a trace of my genius &-uh taking a much different approach
+	&-uh philosophically towards his own artistic production .
+%mor:	pro:exist|here cop|be&3S det:art|a n|trace prep|of det:poss|my
+	n|genius part|take-PRESP det:art|a qn|much adj|different n|approach
+	adv|philosophic&dadj-AL-LY prep|towards det:poss|his adj|own
+	adj|artistic n|production .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|4|XMOD
+	9|12|DET 10|12|QUANT 11|12|MOD 12|8|OBJ 13|8|JCT 14|8|JCT 15|18|DET
+	16|18|MOD 17|18|MOD 18|14|POBJ 19|2|PUNCT
+*S1:	I steer clear of definitions I don't even know what I want I'm
+	inconsistent (.) you know I take from a_lot_of different sources I
+	create a_lot_of different kinds of work (.) and in fact he's an
+	artist that ranges from (.) a kind of photorealism (.) in this
+	painting based on a photograph (.) to complete sort_of abstract
+	paintings .
+%mor:	pro:sub|I v|steer adv|clear prep|of n|definition-PL pro:sub|I
+	mod|do~neg|not adv|even v|know pro:int|what pro:sub|I v|want
+	pro:sub|I~cop|be&1S in#adj|consistent pro:per|you v|know pro:sub|I
+	v|take prep|from qn|a_lot_of adj|different n|source-PL pro:sub|I
+	v|create qn|a_lot_of adj|different n|kind-PL prep|of n|work
+	coord|and prep|in n|fact pro:sub|he~cop|be&3S det:art|a n|art-IST
+	pro:rel|that v|range-3S prep|from det:art|a n|kind prep|of
+	photo#n|real&dadj-ISM prep|in det:dem|this n:gerund|paint-PRESP
+	v|base-PAST prep|on det:art|a photo#n|graph inf|to v|complete
+	adv|sort_of adj|abstract n:gerund|paint-PRESP-PL .
+%gra:	1|2|SUBJ 2|10|XJCT 3|2|JCT 4|3|JCT 5|4|POBJ 6|10|SUBJ 7|10|AUX 8|7|NEG
+	9|10|JCT 10|0|ROOT 11|13|LINK 12|13|SUBJ 13|10|COMP 14|15|SUBJ
+	15|10|COMP 16|15|PRED 17|18|SUBJ 18|16|COMP 19|20|SUBJ 20|18|COMP 21|20|JCT
+	22|24|QUANT 23|24|MOD 24|21|POBJ 25|26|SUBJ 26|10|CJCT 27|29|QUANT 28|29|MOD
+	29|26|OBJ 30|29|NJCT 31|30|POBJ 32|36|LINK 33|36|JCT 34|33|POBJ
+	35|36|SUBJ 36|31|CMOD 37|38|DET 38|36|PRED 39|40|LINK 40|38|CMOD 41|40|JCT
+	42|43|DET 43|41|POBJ 44|43|NJCT 45|44|POBJ 46|45|JCT 47|48|DET 48|46|POBJ
+	49|46|ENUM 50|49|JCT 51|52|DET 52|50|POBJ 53|54|INF 54|49|XJCT 55|57|JCT
+	56|57|MOD 57|54|OBJ 58|10|PUNCT
+*S1:	this portrait in particular (.) on the left is made of his teenage
+	daughter (.) Betty again based on a photograph (.) and (.) we can
+	make comparisons between (.) this work and the Boltanski on the
+	right and how they're using the photograph &-uh in a sense .
+%mor:	det:dem|this n|portrait prep|in adj|particular prep|on det:art|the
+	adj|left aux|be&3S part|make&PASTP prep|of det:poss|his adj|teenage
+	n|daughter n:prop|Betty adv|again part|base-PASTP prep|on det:art|a
+	photo#n|graph coord|and pro:sub|we mod|can v|make n|comparison-PL
+	prep|between det:dem|this n|work coord|and det:art|the
+	n:prop|Boltanski prep|on det:art|the adj|right coord|and pro:rel|how
+	pro:sub|they~aux|be&PRES part|use-PRESP det:art|the photo#n|graph
+	prep|in det:art|a n|sense .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|9|AUX
+	9|7|CMOD 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|13|APP 15|9|JCT
+	16|9|XJCT 17|16|JCT 18|19|DET 19|17|POBJ 20|23|LINK 21|23|SUBJ 22|23|AUX
+	23|19|CJCT 24|23|OBJ 25|24|NJCT 26|27|DET 27|25|POBJ 28|23|CONJ 29|30|DET
+	30|28|COORD 31|30|NJCT 32|33|DET 33|31|POBJ 34|33|CONJ 35|38|LINK
+	36|38|SUBJ 37|38|AUX 38|34|COORD 39|40|DET 40|38|OBJ 41|38|JCT 42|43|DET
+	43|41|POBJ 44|2|PUNCT
+*S1:	on the one hand to recall &-uh how oftentimes we think of the
+	photograph (.) particularly the photograph of a person functioning
+	(.) right to record individual characteristics to give us a document
+	of that person a kind of map (.) of that person's individual face
+	(.) and [/] and (.) the features that describe that individual
+	person .
+%mor:	prep|on det:art|the det:num|one n|hand inf|to v|recall pro:rel|how
+	adv|oftentimes pro:sub|we v|think prep|of det:art|the photo#n|graph
+	adv|particular&dadj-LY det:art|the photo#n|graph prep|of det:art|a
+	n|person part|function-PRESP adv|right prep|to n|record
+	adj|individual n|characteristic-PL inf|to v|give pro:obj|us
+	det:art|a n|document prep|of det:dem|that n|person det:art|a n|kind
+	prep|of n|map prep|of det:dem|that adj|person&dn-POSS n|individual
+	n|face coord|and det:art|the n|feature-PL pro:rel|that v|describe
+	det:dem|that adj|individual n|person .
+%gra:	1|0|INCROOT 2|4|DET 3|4|QUANT 4|1|POBJ 5|6|INF 6|4|XMOD 7|10|LINK
+	8|10|JCT 9|10|SUBJ 10|6|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|10|JCT
+	15|16|DET 16|14|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|16|XJCT 21|22|JCT
+	22|20|JCT 23|25|MOD 24|25|MOD 25|22|POBJ 26|27|INF 27|25|XMOD 28|27|OBJ2
+	29|30|DET 30|27|OBJ 31|30|NJCT 32|33|DET 33|31|POBJ 34|35|DET 35|30|APP
+	36|35|NJCT 37|36|POBJ 38|37|NJCT 39|42|DET 40|42|MOD 41|42|MOD 42|38|POBJ
+	43|35|CONJ 44|45|DET 45|43|COORD 46|47|LINK 47|35|CMOD 48|50|DET 49|50|MOD
+	50|47|OBJ 51|1|PUNCT
+*S1:	but they're subverting that right (.) &th that practice (.) Richter
+	is (.) because her head's turned (.) so we don't get her face (.) we
+	get the back of her head instead (.) and furthermore he's blurred
+	(.) the edges slightly .
+%mor:	conj|but pro:sub|they~aux|be&PRES part|subvert-PRESP comp|that
+	adj|right det:dem|that n|practice n:prop|Richter cop|be&3S
+	conj|because det:poss|her n|head~aux|be&3S part|turn-PASTP adv|so
+	pro:sub|we mod|do~neg|not v|get det:poss|her n|face pro:sub|we v|get
+	det:art|the adv|back prep|of det:poss|her adj|head adv|instead
+	coord|and adv|furthermore pro:sub|he~aux|be&3S part|blur-PASTP
+	det:art|the n|edge-PL adv|slight&dadj-LY .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|10|LINK 6|8|MOD 7|8|DET 8|10|SUBJ
+	9|10|SUBJ 10|4|COMP 11|15|LINK 12|13|DET 13|15|SUBJ 14|15|AUX 15|4|CJCT
+	16|20|JCT 17|20|SUBJ 18|20|AUX 19|18|NEG 20|15|COMP 21|22|DET 22|20|OBJ
+	23|24|SUBJ 24|20|CJCT 25|26|DET 26|35|JCT 27|35|JCT 28|29|DET 29|27|POBJ
+	30|35|JCT 31|35|LINK 32|35|JCT 33|35|SUBJ 34|35|AUX 35|24|COMP
+	36|37|DET 37|35|OBJ 38|35|JCT 39|4|PUNCT
+*S1:	so the painting (.) has this strange quality (.) of being on the
+	one hand &-uh sort_of based in (.) a kind of photorealism on the
+	other hand (.) we're denied access to her face and we're also given
+	(.) a +//.
+%mor:	co|so det:art|the n:gerund|paint-PRESP aux|have&3S det:dem|this
+	adj|strange n|quality prep|of n:gerund|be-PRESP prep|on det:art|the
+	det:num|one n|hand adv|sort_of part|base-PASTP prep|in det:art|a
+	n|kind prep|of photo#n|real&dadj-ISM prep|on det:art|the qn|other
+	n|hand pro:sub|we~aux|be&PRES part|deny-PASTP n|access prep|to
+	det:poss|her n|face coord|and pro:sub|we~aux|be&PRES adv|also
+	part|give&PASTP det:art|a +//.
+%gra:	1|3|COM 2|3|DET 3|0|ROOT 4|7|AUX 5|7|DET 6|7|MOD 7|3|PUNCT 8|7|NJCT
+	9|8|POBJ 10|9|JCT 11|13|DET 12|13|QUANT 13|10|POBJ 14|15|JCT 15|9|ROOT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|18|NJCT 20|19|POBJ 21|15|JCT 22|24|DET
+	23|24|QUANT 24|21|POBJ 25|27|SUBJ 26|27|AUX 27|15|ROOT 28|27|OBJ 29|28|NJCT
+	30|31|DET 31|29|POBJ 32|36|LINK 33|36|SUBJ 34|36|AUX 35|36|JCT
+	36|27|ROOT 37|38|DET 38|36|OBJ
+*S1:	&th the really sort_of blurred (.) edge (.) so that you get the
+	question of you can't really necessarily define (.) with any
+	specificity (.) the subject through image making (.) through
+	photography (.) nor through the painting (.) based on the photograph
+	.
+%mor:	det:art|the adv|real&dadj-LY adv|sort_of part|blur-PASTP n|edge
+	co|so comp|that pro:per|you v|get det:art|the n|question prep|of
+	pro:per|you mod|can~neg|not adv|real&dadj-LY adv|necessary&dadj-LY
+	v|define prep|with qn|any n|specific&dadj-ITY det:art|the
+	adj|subject adj|through n|image part|make-PRESP prep|through
+	n|photography coord|nor adj|through det:art|the n:gerund|paint-PRESP
+	part|base-PASTP prep|on det:art|the photo#n|graph .
+%gra:	1|2|DET 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|OBJ 6|9|COM 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|11|DET 11|9|OBJ 12|9|JCT 13|18|SUBJ 14|18|AUX 15|14|NEG
+	16|18|JCT 17|18|JCT 18|12|POBJ 19|18|JCT 20|21|QUANT 21|19|POBJ 22|25|DET
+	23|25|MOD 24|25|MOD 25|21|APP 26|25|XMOD 27|26|JCT 28|27|POBJ 29|25|CONJ
+	30|29|COORD 31|32|DET 32|30|CMOD 33|32|XMOD 34|33|JCT 35|36|DET 36|34|POBJ
+	37|4|PUNCT
+*S1:	Boltanski (.) and what I'll do is I'll forward to another one of
+	his works on the left .
+%mor:	n:prop|Boltanski coord|and pro:int|what pro:sub|I~mod|will v|do
+	cop|be&3S pro:sub|I~mod|will adv|forward prep|to qn|another
+	pro:indef|one prep|of det:poss|his n|work-PL prep|on det:art|the
+	adj|left .
+%gra:	1|7|SUBJ 2|1|CONJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COORD 7|0|ROOT 8|7|PRED
+	9|17|AUX 10|17|JCT 11|10|JCT 12|13|QUANT 13|11|POBJ 14|13|NJCT
+	15|16|DET 16|14|POBJ 17|8|JCT 18|19|DET 19|17|POBJ 20|7|PUNCT
+*S1:	this is another work by Boltanski (.) &Monu &-uh called Monuments
+	(.) also referred to (.) as the &t Children of Dijon (.) made from
+	the mid eighties .
+%mor:	pro:dem|this cop|be&3S qn|another n|work prep|by n:prop|Boltanski
+	v|call-PAST n:prop|Monuments adv|also part|refer-PASTP inf|to adv|as
+	det:art|the n:prop|Children prep|of n:prop|Dijon v|make&PAST
+	prep|from det:art|the adj|mid n|eighty-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|CPRED
+	8|7|OBJ 9|10|JCT 10|7|XJCT 11|12|INF 12|17|JCT 13|14|DET 14|17|SUBJ 15|14|NJCT
+	16|15|POBJ 17|10|COMP 18|17|JCT 19|21|DET 20|21|MOD 21|18|POBJ
+	22|2|PUNCT
+*S1:	Boltanski often in his multimedia installations uses &-uh anonymous
+	photographs and (.) places them (.) in a really kind_of poignant (.)
+	way with light directed (.) onto their surfaces .
+%mor:	n:prop|Boltanski adv|often prep|in det:poss|his multi#n|media
+	n|install&dv-TION-PL n|use-PL adj|anonymous photo#n|graph-PL
+	coord|and v|place-3S pro:obj|them prep|in det:art|a adv|real&dadj-LY
+	adv|kind_of adj|poignant n|way prep|with n|light v|direct-PAST
+	prep|onto det:poss|their n|surface-PL .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|7|DET 5|7|MOD 6|7|MOD 7|3|POBJ 8|9|MOD
+	9|7|PRED 10|9|CONJ 11|10|COORD 12|11|OBJ 13|21|JCT 14|18|DET 15|17|JCT
+	16|17|JCT 17|18|MOD 18|21|SUBJ 19|18|NJCT 20|19|POBJ 21|11|COMP 22|21|JCT
+	23|24|DET 24|22|POBJ 25|1|PUNCT
+*S1:	but with the example of drawer on the right (.) we get this idea
+	again of this (.) portrait (.) right this close+up of a face &-uh
+	that maybe reminds you of (.) I don't know a high school yearbook
+	photograph maybe a yearbook (.) college yearbook photograph (.) on
+	the other hand .
+%mor:	conj|but prep|with det:art|the n|example prep|of n|drawer prep|on
+	det:art|the adj|right pro:sub|we v|get det:dem|this n|idea adv|again
+	prep|of det:dem|this n|portrait adj|right det:dem|this
+	n|+v|close+prep|up prep|of det:art|a n|face pro:rel|that adv|maybe
+	v|remind-3S pro:per|you prep|of pro:sub|I mod|do~neg|not v|know
+	det:art|a adj|high n|school n|yearbook photo#n|graph adv|maybe
+	det:art|a n|yearbook n|college n|yearbook photo#n|graph prep|on
+	det:art|the qn|other n|hand .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|4|NJCT
+	8|11|DET 9|11|JCT 10|11|SUBJ 11|7|POBJ 12|13|DET 13|20|MOD 14|13|NJCT 15|14|JCT
+	16|17|DET 17|15|POBJ 18|20|MOD 19|20|DET 20|2|POBJ 21|20|NJCT 22|23|DET
+	23|21|POBJ 24|26|LINK 25|26|JCT 26|23|CMOD 27|26|OBJ 28|32|LINK
+	29|32|SUBJ 30|32|AUX 31|30|NEG 32|27|CJCT 33|36|DET 34|35|MOD 35|36|MOD
+	36|32|OBJ 37|36|XMOD 38|37|JCT 39|42|DET 40|41|MOD 41|42|MOD 42|38|POBJ
+	43|42|XMOD 44|43|JCT 45|47|DET 46|47|QUANT 47|44|POBJ 48|1|PUNCT
+*S1:	it's so (.) blurred that the actual identity of the person is
+	obscured .
+%mor:	pro:per|it~aux|be&3S adv|so part|blur-PASTP comp|that det:art|the
+	adj|actual n|identity prep|of det:art|the n|person aux|be&3S
+	part|obscure-PASTP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|13|LINK 6|8|DET 7|8|MOD 8|13|SUBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|13|AUX 13|4|COMP 14|4|PUNCT
+*S1:	so again &y he's playing around with this idea of photographic
+	truthfulness .
+%mor:	adv|so adv|again pro:sub|he~aux|be&3S part|play-PRESP adv|around
+	prep|with det:dem|this n|idea prep|of photo#adj|graphic
+	n|truth-FULL-NESS .
+%gra:	1|2|JCT 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|MOD 12|10|POBJ 13|5|PUNCT
+*S1:	and then it's furthermore &ob obscured at the same time (.) it's
+	highlighted (.) by (.) the placement of this light fixture which on
+	the one hand literally like bars your vision (.) right you can't see
+	the center of the image because it's being blocked by this light .
+%mor:	coord|and adv:tem|then pro:per|it~aux|be&3S adv|furthermore
+	part|obscure-PASTP prep|at det:art|the adj|same n|time
+	pro:per|it~aux|be&3S part|highlight-PASTP prep|by det:art|the
+	n|place&dv-MENT prep|of det:dem|this adj|light n|fixture
+	pro:rel|which prep|on det:art|the det:num|one n|hand
+	adv|literal&dadj-LY v|like v|bar-3S det:poss|your n|vision adj|right
+	pro:per|you mod|can~neg|not v|see det:art|the n|center prep|of
+	det:art|the n|image conj|because pro:per|it~aux|be&3S aux|be-PRESP
+	part|block-PASTP prep|by det:dem|this n|light .
+%gra:	1|6|LINK 2|6|JCT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|13|SUBJ 12|13|AUX 13|10|CMOD 14|13|JCT 15|16|DET
+	16|14|POBJ 17|16|NJCT 18|20|DET 19|20|MOD 20|17|POBJ 21|22|LINK 22|20|CMOD
+	23|25|DET 24|25|QUANT 25|22|POBJ 26|27|JCT 27|22|CPOBJ 28|27|OBJ
+	29|30|DET 30|28|OBJ 31|35|JCT 32|35|SUBJ 33|35|AUX 34|33|NEG 35|28|COMP
+	36|37|DET 37|35|OBJ 38|37|NJCT 39|40|DET 40|38|POBJ 41|45|LINK 42|45|SUBJ
+	43|45|AUX 44|45|AUX 45|27|CJCT 46|45|JCT 47|48|DET 48|46|POBJ 49|6|PUNCT
+*S1:	at the same time it's actually illuminating the rest of the image
+	(.) so this constant sort of tension between revealing (.) using the
+	photograph to sort_of reveal the &speci &-uh the specificity of
+	identity (.) at the same time sort_of denying you access (.) to that
+	actual individual .
+%mor:	prep|at det:art|the adj|same n|time pro:per|it~aux|be&3S
+	adv|actual&dadj-LY part|illuminate-PRESP det:art|the n|rest prep|of
+	det:art|the n|image conj|so det:dem|this adj|constant n|sort prep|of
+	n|tension adv|between part|reveal-PRESP part|use-PRESP det:art|the
+	photo#n|graph inf|to adv|sort_of v|reveal det:art|the det:art|the
+	n|specific&dadj-ITY prep|of n|identity prep|at det:art|the adj|same
+	n|time adv|sort_of part|deny-PRESP pro:per|you v|access prep|to
+	det:dem|that adj|actual adj|individual .
+%gra:	1|8|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|8|SUBJ 6|8|AUX 7|8|JCT 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|8|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|17|NJCT 19|18|POBJ 20|21|JCT 21|17|CMOD 22|21|XJCT
+	23|24|DET 24|22|OBJ 25|27|INF 26|27|JCT 27|24|XMOD 28|30|DET 29|30|DET
+	30|27|OBJ 31|30|NJCT 32|31|POBJ 33|27|JCT 34|36|DET 35|36|MOD 36|33|POBJ
+	37|27|JCT 38|27|XJCT 39|40|SUBJ 40|38|COMP 41|40|JCT 42|44|DET 43|44|MOD
+	44|41|POBJ 45|8|PUNCT
+*S1:	so it becomes this just sort_of implied presence (.) instead .
+%mor:	co|so pro:per|it cop|become-3S pro:dem|this adv|just adv|sort_of
+	part|imply-PASTP n|presence adv|instead .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|JCT 6|7|JCT 7|4|XMOD 8|7|OBJ
+	9|7|JCT 10|3|PUNCT
+*S1:	also in the Monuments on the left &-uh as you can see very small
+	(.) individual (.) portraits (.) some smiling (.) some sort_of more
+	passive (.) and strewn in between them &-uh these lights .
+%mor:	adv|also prep|in det:art|the n:prop|Monuments prep|on det:art|the
+	adj|left conj|as pro:per|you mod|can v|see adv|very adj|small
+	adj|individual n|portrait-PL qn|some n:gerund|smile-PRESP qn|some
+	adv|sort_of adv|more adj|passive coord|and part|strew&PASTP adv|in
+	prep|between pro:obj|them det:dem|these n|light-PL .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|11|LINK 9|11|SUBJ 10|11|AUX 11|2|CJCT 12|13|JCT 13|15|MOD 14|15|MOD 15|11|OBJ
+	16|17|QUANT 17|15|CMOD 18|21|QUANT 19|20|JCT 20|21|JCT 21|17|JCT
+	22|21|CONJ 23|22|COORD 24|23|JCT 25|23|JCT 26|25|POBJ 27|28|DET 28|23|JCT
+	29|2|PUNCT
+*S1:	and some of his work including the Monuments on the left (.) is
+	making reference to &-uh prewar Jewish children , &-uh school
+	photographs that had been taken of children who of_course never
+	returned to their schools after the Second World War .
+%mor:	coord|and qn|some prep|of det:poss|his n|work part|include-PRESP
+	det:art|the n:prop|Monuments prep|on det:art|the adj|left aux|be&3S
+	part|make-PRESP n|reference inf|to pre#v|war n:prop|Jewish
+	n|child&PL cm|cm n|school v|photograph-3S comp|that v|have&PAST
+	aux|be&PASTP part|take&PASTP prep|of n|child&PL pro:rel|who
+	co|of_course adv|never part|return-PASTP prep|to det:poss|their
+	n|school-PL prep|after det:art|the n:prop|Second n:prop|World
+	n:prop|War .
+%gra:	1|6|LINK 2|6|QUANT 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|13|AUX 13|11|CMOD 14|18|MOD 15|16|INF
+	16|18|MOD 17|18|MOD 18|13|OBJ 19|18|LP 20|18|ENUM 21|18|ENUM 22|21|OBJ
+	23|22|CPRED 24|25|AUX 25|23|COMP 26|25|JCT 27|26|POBJ 28|31|LINK 29|31|COM
+	30|31|JCT 31|27|CMOD 32|31|JCT 33|34|DET 34|32|POBJ 35|31|JCT 36|37|DET
+	37|39|NAME 38|39|NAME 39|35|POBJ 40|6|PUNCT
+*S1:	so you get this [//] again this idea of photography on the one hand
+	of (.) evoking a kind of anonymity (.) but one that speaks
+	potentially for (.) you know <millions of> [/] millions of [/] of
+	specific (.) lives extinguished [//] lost [//] &-uh extinguished .
+%mor:	co|so pro:per|you v|get adv|again det:dem|this n|idea prep|of
+	n|photography prep|on det:art|the det:num|one n|hand prep|of
+	part|evoke-PRESP det:art|a n|kind prep|of n|anonymity conj|but
+	det:num|one pro:rel|that v|speak-3S adv|potential&dadj-LY prep|for
+	pro:per|you v|know n|million-PL prep|of adj|specific n|life-PL
+	part|extinguish-PASTP .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|3|JCT 10|12|DET 11|12|QUANT 12|9|POBJ 13|12|NJCT 14|13|POBJ 15|16|DET
+	16|14|OBJ 17|16|NJCT 18|17|POBJ 19|3|CONJ 20|19|COORD 21|22|LINK 22|20|CMOD
+	23|22|JCT 24|22|JCT 25|26|SUBJ 26|24|POBJ 27|26|OBJ 28|27|NJCT
+	29|30|MOD 30|28|POBJ 31|22|XJCT 32|3|PUNCT
+*S1:	but as he's sort_of recalling them &-uh through the individual
+	sort_of lights placed around (.) the photograph +...
+%mor:	conj|but conj|as pro:sub|he~aux|be&3S adv|sort_of part|recall-PRESP
+	pro:obj|them adj|through det:art|the n|individual adv|sort_of
+	n|light-PL v|place-PAST prep|around det:art|the photo#n|graph +...
+%gra:	1|13|LINK 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|JCT 6|13|CJCT 7|6|OBJ 8|12|MOD
+	9|10|DET 10|12|MOD 11|12|MOD 12|13|SUBJ 13|0|ROOT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|13|PUNCT
+*S1:	<so they become> [//] and you can see this is sort_of in a kind of
+	church setting .
+%mor:	coord|and pro:per|you mod|can co|see det:dem|this aux|be&3S
+	adv|sort_of prep|in det:art|a n|kind prep|of n|church part|set-PRESP
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|13|COM 5|13|SUBJ 6|13|AUX 7|13|JCT 8|13|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|0|ROOT 14|13|PUNCT
+*S1:	&-uh ironically (.) they become (.) really evocative of (.) again
+	lost presence .
+%mor:	adv|ironic&dadj-AL-LY pro:sub|they part|become&PASTP
+	adv|real&dadj-LY adj|evocative prep|of adv|again v|lose&PAST
+	n|presence .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|5|JCT 7|8|JCT 8|6|POBJ
+	9|8|OBJ 10|3|PUNCT
+*S1:	(0.5) I wanna show you one other artist (.) two other artists on
+	the left is Patrick Nagatani .
+%mor:	pro:sub|I v|want~inf|to v|show pro:per|you pro:indef|one qn|other
+	n|art-IST det:num|two pro:indef|other n|art-IST-PL prep|on
+	det:art|the adj|left cop|be&3S n:prop|Patrick n:prop|Nagatani .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|SUBJ 6|4|OBJ 7|8|QUANT 8|11|MOD
+	9|11|QUANT 10|11|MOD 11|15|SUBJ 12|15|JCT 13|14|DET 14|15|SUBJ 15|6|CMOD
+	16|17|NAME 17|15|PRED 18|2|PUNCT
+*S1:	N A G A T A N I .
+%mor:	n:prop|N n:prop|A n:prop|G n:prop|A n:prop|T n:prop|A n:prop|N
+	pro:sub|I .
+%gra:	1|2|NAME 2|4|NAME 3|4|NAME 4|7|NAME 5|4|APP 6|7|NAME 7|8|SUBJ 8|0|ROOT
+	9|8|PUNCT
+*S1:	Nagatani and this is his National Atomic Museum (.) Kirtland Air
+	Force Base nineteen eighty nine color photograph .
+%mor:	n:prop|Nagatani coord|and pro:dem|this cop|be&3S det:poss|his
+	n:prop|National n:prop|Atomic n:prop|Museum n:prop|Kirtland
+	n:prop|Air n:prop|Force n:prop|Base det:num|nineteen det:num|eighty
+	det:num|nine n|color photo#n|graph .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|6|DET 6|7|NAME 7|8|NAME 8|9|NAME
+	9|12|NAME 10|11|NAME 11|12|NAME 12|4|PRED 13|14|DATE 14|16|QUANT
+	15|16|QUANT 16|12|APP 17|12|ENUM 18|4|PUNCT
+*S1:	on the right &-uh an image by Jeff Wall (.) W A L L (.) called
+	stumbling block from nineteen ninety one .
+%mor:	prep|on det:art|the adj|right det:art|a n|image prep|by n:prop|Jeff
+	n:prop|Wall n:prop|W n:prop|A n:prop|L n:prop|L v|call-PAST
+	part|stumble-PRESP n|block prep|from det:num|nineteen det:num|ninety
+	det:num|one .
+%gra:	1|13|JCT 2|5|DET 3|5|MOD 4|5|DET 5|1|POBJ 6|5|NJCT 7|8|NAME 8|9|NAME
+	9|10|NAME 10|11|NAME 11|6|POBJ 12|13|SUBJ 13|0|ROOT 14|13|COMP 15|14|OBJ
+	16|15|NJCT 17|18|QUANT 18|19|ENUM 19|16|POBJ 20|13|PUNCT
+*S1:	color transparency (.) light and display case .
+%mor:	n|color n|transparency n|light coord|and n|display n|case .
+%gra:	1|3|MOD 2|3|MOD 3|0|ROOT 4|3|CONJ 5|6|MOD 6|4|COORD 7|3|PUNCT
+*S1:	now (.) we've seen artists who are using &a the appropriated image
+	right (.) who are taking already made images and incorporating them
+	into their work .
+%mor:	adv|now pro:sub|we~aux|have part|see&PASTP n|art-IST-PL pro:rel|who
+	aux|be&PRES part|use-PRESP det:art|the part|appropriate-PASTP
+	n|image adv|right pro:int|who aux|be&PRES part|take-PRESP
+	adv|already v|make&PAST n|image-PL coord|and part|incorporate-PRESP
+	pro:obj|them prep|into det:poss|their n|work .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|AUX 8|5|CMOD
+	9|11|DET 10|11|MOD 11|8|OBJ 12|15|JCT 13|15|LINK 14|15|AUX 15|8|XJCT
+	16|17|JCT 17|15|COMP 18|17|OBJ 19|17|CONJ 20|19|COORD 21|20|OBJ 22|20|JCT
+	23|24|DET 24|22|POBJ 25|4|PUNCT
+*S1:	here are two examples of artists who instead +...
+%mor:	adv|here cop|be&PRES det:num|two n|example-PL prep|of n|art-IST-PL
+	pro:rel|who adv|instead +...
+%gra:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|5|POBJ 7|6|OM 8|7|JCT
+	9|2|PUNCT
+*S1:	instead create a very self-consciously composed (.) manipulated and
+	fictionalized image .
+%mor:	adv|instead v|create det:art|a adv|very self#adv|conscious&dadj-LY
+	part|compose-PASTP v|manipulate-PAST coord|and
+	part|fiction-AL-IZE-PASTP n|image .
+%gra:	1|2|JCT 2|0|ROOT 3|5|DET 4|5|JCT 5|2|OBJ 6|5|XMOD 7|6|OBJ 8|7|CONJ
+	9|8|COORD 10|9|OBJ 11|2|PUNCT
+*S1:	so use photography (.) as a kind of basis to create a whole (.)
+	tableau kind of almost stage set (.) and again this too calls into
+	question the truthfulness of the photographic image (.) and the kind
+	of fiction (.) that &-uh photographs often (.) construct .
+%mor:	co|so n|use n|photography conj|as det:art|a n|kind prep|of n|basis
+	inf|to v|create det:art|a adj|whole n|tableau n|kind prep|of
+	adv|almost v|stage n|set coord|and adv|again det:dem|this adv|too
+	n|call-PL prep|into n|question det:art|the n|truth-FULL-NESS prep|of
+	det:art|the photo#adj|graphic n|image coord|and det:art|the n|kind
+	prep|of n|fiction adv|that photo#n|graph-PL adv|often v|construct .
+%gra:	1|3|COM 2|3|MOD 3|10|SUBJ 4|6|COORD 5|6|DET 6|3|ENUM 7|6|NJCT 8|7|POBJ
+	9|10|INF 10|0|ROOT 11|14|DET 12|13|MOD 13|14|MOD 14|10|OBJ 15|14|NJCT
+	16|17|JCT 17|15|POBJ 18|17|OBJ 19|18|CONJ 20|23|JCT 21|23|DET 22|23|JCT
+	23|19|COORD 24|23|NJCT 25|24|POBJ 26|27|DET 27|23|APP 28|27|NJCT 29|31|DET
+	30|31|MOD 31|28|POBJ 32|27|CONJ 33|34|DET 34|32|COORD 35|34|NJCT
+	36|35|POBJ 37|38|JCT 38|40|SUBJ 39|40|JCT 40|34|CMOD 41|10|PUNCT
+*S1:	so they're using the apparent truthfulness of photography sort_of
+	against itself .
+%mor:	adv|so pro:sub|they~aux|be&PRES part|use-PRESP det:art|the
+	adj|apparent n|truth-FULL-NESS prep|of n|photography adv|sort_of
+	prep|against pro:refl|itself .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|4|JCT 11|4|JCT 12|11|POBJ 13|4|PUNCT
+*S1:	an artist like Jeff Wall is gonna create &-uh these tableaus these
+	sort_of scenes of drama this sort_of slice of narrative &-uh blow
+	them up alter them computerly +//.
+%mor:	det:art|a n|art-IST v|like n:prop|Jeff n:prop|Wall aux|be&3S
+	part|go-PRESP~inf|to v|create det:dem|these n|tableau-PL
+	pro:dem|these adv|sort_of n|scene-PL prep|of n|drama pro:dem|this
+	adv|sort_of n|slice prep|of adj|narrative n|blow pro:obj|them adv|up
+	v|alter pro:obj|them adj|compute&dn-AGT-LY +//.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|4|APP 6|7|AUX 7|3|COMP 8|9|INF
+	9|7|COMP 10|11|DET 11|9|OBJ 12|25|SUBJ 13|25|JCT 14|25|SUBJ 15|14|NJCT
+	16|15|POBJ 17|25|XJCT 18|17|JCT 19|18|POBJ 20|19|NJCT 21|22|MOD 22|20|POBJ
+	23|25|SUBJ 24|25|JCT 25|11|CMOD 26|25|OBJ 27|25|JCT 28|3|PUNCT
+*S1:	&-uh with a computer (.) blow them up (.) backlight them (.)
+	they're transparencies that are then backlit &-um and according to
+	Wall they exist in quote unquote the grey area between the
+	theatrical and the real .
+%mor:	prep|with det:art|a n|compute&dv-AGT n|blow pro:obj|them adv|up
+	v|+n|back+v|light pro:obj|them pro:sub|they~cop|be&PRES
+	n|transparency-PL pro:rel|that cop|be&PRES adv:tem|then
+	adj|+n|back+part|lit coord|and part|accord-PRESP prep|to n:prop|Wall
+	pro:sub|they v|exist prep|in n|quote un#v|quote det:art|the adj|grey
+	n|area prep|between det:art|the adj|theatric-AL coord|and
+	det:art|the adj|real .
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|7|SUBJ 6|7|JCT 7|4|CMOD 8|7|OBJ
+	9|10|SUBJ 10|7|COMP 11|21|SUBJ 12|13|LINK 13|21|AUX 14|21|JCT 15|21|JCT
+	16|15|CONJ 17|16|COORD 18|17|JCT 19|18|POBJ 20|21|SUBJ 21|10|CPRED
+	22|21|JCT 23|22|POBJ 24|21|XJCT 25|27|DET 26|27|MOD 27|24|OBJ 28|27|NJCT
+	29|30|DET 30|28|POBJ 31|30|CONJ 32|33|DET 33|31|COORD 34|1|PUNCT
+*S1:	so that's the image on the right .
+%mor:	co|so pro:dem|that~cop|be&3S det:art|the n|image prep|on
+	det:art|the adj|right .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*S1:	Nagatani on the left (.) he uses photographs generally speaking as
+	backdrops in a sense (.) so this (.) Kirtland Air Force Base (.) is
+	(.) a black and white photograph that he's taken .
+%mor:	n:prop|Nagatani prep|on det:art|the adj|left pro:sub|he v|use-3S
+	photo#n|graph-PL adv|general&dadj-LY part|speak-PRESP adv|as
+	n|backdrop-PL prep|in det:art|a n|sense conj|so det:dem|this
+	n:prop|Kirtland n:prop|Air n:prop|Force n:prop|Base cop|be&3S
+	det:art|a n|black coord|and adj|white photo#n|graph pro:rel|that
+	pro:sub|he~aux|be&3S part|take&PASTP .
+%gra:	1|6|XJCT 2|1|NJCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|9|JCT
+	9|6|XJCT 10|11|COORD 11|9|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|18|LINK
+	16|17|DET 17|18|NAME 18|19|NAME 19|21|SUBJ 20|19|APP 21|11|CMOD 22|23|DET
+	23|21|PRED 24|23|CONJ 25|26|MOD 26|24|COORD 27|30|LINK 28|30|SUBJ
+	29|30|AUX 30|26|CMOD 31|6|PUNCT
+*S1:	then he goes back to his studio &-uh he blows the image up (.)
+	usually it's a sort_of over life+size put its in &th &pu puts it in
+	the back of a studio (.) and then starts to layer (.) other images
+	(.) and painting over that original photograph .
+%mor:	adv:tem|then pro:sub|he v|go-3S adv|back prep|to det:poss|his
+	n|studio pro:sub|he v|blow-3S det:art|the n|image adv|up
+	adv|usual&dadj-LY pro:per|it~cop|be&3S det:art|a adv|sort_of
+	prep|over adj|+n|life+n|size v|put&ZERO det:poss|its adv|in v|put-3S
+	pro:per|it prep|in det:art|the n|back prep|of det:art|a n|studio
+	coord|and adv:tem|then v|start-3S inf|to v|layer qn|other n|image-PL
+	coord|and part|paint-PRESP prep|over det:dem|that adj|origin&dn-AL
+	photo#n|graph .
+%gra:	1|3|JCT 2|3|SUBJ 3|9|CJCT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|9|JCT 13|15|JCT 14|15|SUBJ 15|9|CJCT
+	16|20|DET 17|18|JCT 18|20|JCT 19|20|JCT 20|15|PRED 21|22|DET 22|23|JCT
+	23|20|COMP 24|23|OBJ 25|23|JCT 26|27|DET 27|25|POBJ 28|27|NJCT 29|30|DET
+	30|28|POBJ 31|23|CONJ 32|33|JCT 33|31|COORD 34|35|INF 35|33|COMP 36|37|QUANT
+	37|35|OBJ 38|33|CONJ 39|38|COORD 40|39|JCT 41|43|DET 42|43|MOD 43|40|POBJ
+	44|9|PUNCT
+*S1:	&-um so here's he's obviously painted a_lot_of the backdrop red (.)
+	he's taken photographs these are actually family members though
+	that's not necessarily relevant &-uh made photographs of them &-uh
+	enlarged them (.) made them into sort_of &cudb cardboard cutouts cut
+	them out (.) and then hung them in the space of his studio so can
+	you [/] you maybe can start to make out (.) can you see these thin
+	lines going down ?
+%mor:	co|so pro:exist|here~cop|be&3S pro:sub|he~aux|be&3S
+	adv|obvious&dadj-LY part|paint-PASTP qn|a_lot_of det:art|the
+	n|backdrop adj|red pro:sub|he~aux|be&3S part|take&PASTP
+	photo#n|graph-PL det:dem|these aux|be&PRES adv|actual&dadj-LY
+	n|family n|member-PL adv|though pro:dem|that~cop|be&3S neg|not
+	adv|necessary&dadj-LY adj|relevant v|make&PAST photo#n|graph-PL
+	prep|of pro:obj|them v|enlarge-PAST pro:obj|them v|make&PAST
+	pro:obj|them prep|into adv|sort_of n|cardboard n|+v|cut+prep|out-PL
+	v|cut&ZERO pro:obj|them adv|out coord|and adv:tem|then v|hang&PAST
+	pro:obj|them prep|in det:art|the n|space prep|of det:poss|his
+	n|studio adv|so mod|can pro:per|you adv|maybe mod|can v|start inf|to
+	v|make adv|out mod|can pro:per|you v|see det:dem|these adj|thin
+	n|line-PL part|go-PRESP adv|down ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|JCT 7|3|CPRED 8|10|QUANT
+	9|10|DET 10|7|OBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD 15|14|OBJ
+	16|19|SUBJ 17|19|AUX 18|19|JCT 19|20|MOD 20|23|SUBJ 21|23|JCT 22|23|SUBJ
+	23|15|COMP 24|23|NEG 25|27|JCT 26|27|JCT 27|23|CPRED 28|27|OBJ
+	29|28|JCT 30|29|POBJ 31|28|ENUM 32|33|SUBJ 33|31|COMP 34|33|OBJ 35|33|JCT
+	36|39|JCT 37|38|MOD 38|39|SUBJ 39|35|CPOBJ 40|39|OBJ 41|39|JCT 42|39|CONJ
+	43|44|JCT 44|42|COORD 45|44|OBJ 46|44|JCT 47|48|DET 48|46|POBJ 49|48|NJCT
+	50|51|DET 51|49|POBJ 52|54|JCT 53|54|AUX 54|57|SUBJ 55|57|JCT 56|57|AUX
+	57|44|CJCT 58|59|INF 59|57|COMP 60|63|JCT 61|63|AUX 62|63|SUBJ 63|59|COMP
+	64|66|DET 65|66|MOD 66|63|OBJ 67|66|XMOD 68|67|JCT 69|3|PUNCT
+*S1:	these are holding up the sort_of cardboard cutouts of his (.)
+	family (.) that have been (.) you know costume dressed in kimonos
+	(.) eating sushi (.) and then he himself (.) sort_of at a last
+	second (.) this is the artist Nagatani inserts himself physically
+	into the image (.) and then the work of art is a photograph then
+	taken (.) of the entire tableau .
+%mor:	det:dem|these aux|be&PRES part|hold-PRESP prep|up det:art|the
+	adv|sort_of n|cardboard n|+v|cut+prep|out-PL prep|of det:poss|his
+	n|family pro:rel|that aux|have aux|be&PASTP pro:per|you v|know
+	n|costume v|dress-PAST prep|in n|kimono-PL part|eat-PRESP n|sushi
+	coord|and adv:tem|then pro:sub|he pro:refl|himself adv|sort_of
+	prep|at det:art|a adj|last adj|second pro:dem|this cop|be&3S
+	det:art|the n|art-IST n:prop|Nagatani v|insert-3S pro:refl|himself
+	adv|physical&dadj-LY prep|into det:art|the n|image coord|and
+	adv:tem|then det:art|the n|work prep|of n|art cop|be&3S det:art|a
+	photo#n|graph adv:tem|then part|take&PASTP prep|of det:art|the
+	adj|entire n|tableau .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|8|DET 6|7|JCT 7|8|MOD 8|4|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|16|LINK 13|16|AUX 14|16|AUX 15|16|SUBJ
+	16|11|CMOD 17|18|SUBJ 18|16|COMP 19|18|JCT 20|19|POBJ 21|16|XJCT 22|21|OBJ
+	23|26|LINK 24|26|JCT 25|26|SUBJ 26|3|CJCT 27|33|JCT 28|33|JCT 29|31|DET
+	30|31|MOD 31|28|POBJ 32|33|SUBJ 33|26|COMP 34|35|DET 35|33|PRED 36|37|SUBJ
+	37|35|CMOD 38|37|OBJ 39|37|JCT 40|37|JCT 41|42|DET 42|40|POBJ
+	43|49|LINK 44|49|JCT 45|46|DET 46|49|SUBJ 47|46|NJCT 48|47|POBJ 49|37|CJCT
+	50|51|DET 51|49|PRED 52|51|JCT 53|52|XMOD 54|53|JCT 55|57|DET 56|57|MOD
+	57|54|POBJ 58|3|PUNCT
+*S1:	so it becomes reinterpreted it sort of starts with a photograph (.)
+	and it ends with a photograph but in between (.) there are multiple
+	layers of different kinds of artistic gesture (.) including painting
+	other photography he'll build models and hang them from the [/] the
+	top of the studio .
+%mor:	co|so pro:per|it cop|become-3S re#part|interpret-PASTP pro:per|it
+	v|sort prep|of v|start-3S prep|with det:art|a photo#n|graph
+	coord|and pro:per|it v|end-3S prep|with det:art|a photo#n|graph
+	conj|but adv|in adv|between adv|there cop|be&PRES adj|multiple
+	n|layer-PL prep|of adj|different n|kind-PL prep|of adj|artistic
+	n|gesture part|include-PRESP part|paint-PRESP qn|other n|photography
+	pro:sub|he~mod|will v|build n|model-PL coord|and v|hang pro:obj|them
+	prep|from det:art|the n|top prep|of det:art|the n|studio .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|SUBJ 6|4|CMOD 7|6|JCT 8|7|POBJ
+	9|6|JCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|6|CJCT 15|14|JCT
+	16|17|DET 17|15|POBJ 18|14|CONJ 19|20|JCT 20|22|JCT 21|22|SUBJ 22|18|COORD
+	23|24|MOD 24|22|PRED 25|24|NJCT 26|27|MOD 27|25|POBJ 28|27|NJCT
+	29|30|MOD 30|28|POBJ 31|22|XJCT 32|37|XJCT 33|34|QUANT 34|32|OBJ 35|37|SUBJ
+	36|37|AUX 37|31|COMP 38|37|OBJ 39|37|CONJ 40|39|COORD 41|40|OBJ 42|40|JCT
+	43|44|DET 44|42|POBJ 45|44|NJCT 46|47|DET 47|45|POBJ 48|3|PUNCT
+*S1:	&-uh and as you can see here (.) this is part of a larger body of
+	work (.) called nuclear enchantment in which he's dealing with (.)
+	in particular the nuclear history (.) of the state of New Mexico
+	where he lives .
+%mor:	coord|and conj|as pro:per|you mod|can v|see adv|here pro:dem|this
+	cop|be&3S adj|part prep|of det:art|a adj|large-CP n|body prep|of
+	n|work v|call-PAST adj|nuclear n|enchant&dv-MENT adv|in
+	pro:int|which pro:sub|he~aux|be&3S part|deal-PRESP prep|with prep|in
+	adj|particular det:art|the adj|nuclear n|history prep|of det:art|the
+	n|state prep|of n:prop|New n:prop|Mexico pro:rel|where pro:sub|he
+	v|live-3S .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|JCT 7|8|SUBJ 8|5|COMP
+	9|8|PRED 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|13|NJCT 15|14|POBJ
+	16|13|CMOD 17|18|MOD 18|16|OBJ 19|18|JCT 20|23|LINK 21|23|SUBJ 22|23|AUX
+	23|19|CPOBJ 24|23|JCT 25|23|JCT 26|29|MOD 27|29|DET 28|29|MOD 29|25|POBJ
+	30|29|NJCT 31|32|DET 32|30|POBJ 33|32|NJCT 34|33|POBJ 35|29|APP
+	36|38|LINK 37|38|SUBJ 38|35|CMOD 39|5|PUNCT
+*S1:	and (.) I think maybe you can make out (.) in the reflection (.)
+	this is actually his mother (.) Diane in the reflection of her
+	sunglasses (.) Aaron (.) who's in the front ?
+%mor:	coord|and pro:sub|I v|think adv|maybe pro:per|you mod|can v|make
+	adv|out prep|in det:art|the n|reflection pro:dem|this cop|be&3S
+	adv|actual&dadj-LY det:poss|his n|mother n:prop|Diane prep|in
+	det:art|the n|reflection prep|of det:poss|her n|sunglass-PL
+	n:prop|Aaron pro:rel|who~cop|be&3S prep|in det:art|the n|front ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|13|SUBJ 13|7|CJCT 14|17|JCT 15|16|DET
+	16|17|SUBJ 17|13|PRED 18|17|NJCT 19|20|DET 20|18|POBJ 21|20|NJCT 22|23|DET
+	23|21|POBJ 24|17|APP 25|26|LINK 26|24|CMOD 27|26|JCT 28|29|DET 29|27|POBJ
+	30|3|PUNCT
+*S1:	can you see what's in the reflection of her sunglasses ?
+%mor:	mod|can pro:per|you v|see pro:int|what~cop|be&3S prep|in
+	det:art|the n|reflection prep|of det:poss|her n|sunglass-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*S1:	can you see in the front ?
+%mor:	mod|can pro:per|you v|see prep|in det:art|the n|front ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*S1:	a mushroom cloud .
+%mor:	det:art|a n|mushroom n|cloud .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*S1:	right so the idea is she's looking off into the distance (.) and
+	seeing the effects of [/] &i of an explosion of a nuclear (.) bomb .
+%mor:	adv|right conj|so det:art|the n|idea cop|be&3S
+	pro:sub|she~aux|be&3S part|look-PRESP adv|off prep|into det:art|the
+	n|distance coord|and part|see-PRESP det:art|the n|effect-PL prep|of
+	det:art|a n|explosion prep|of det:art|a adj|nuclear n|bomb .
+%gra:	1|2|JCT 2|5|LINK 3|4|DET 4|5|SUBJ 5|8|CJCT 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|8|CONJ 14|13|COORD 15|16|DET
+	16|14|OBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|19|NJCT 21|23|DET 22|23|MOD
+	23|20|POBJ 24|8|PUNCT
+*S1:	(0.5) so again this idea of &-uh using photography as a piece (.)
+	in a sense &-uh to create this kind of fictional (.) tableau .
+%mor:	co|so adv|again det:dem|this n|idea prep|of n:gerund|use-PRESP
+	n|photography conj|as det:art|a n|piece prep|in det:art|a n|sense
+	inf|to v|create det:dem|this adj|kind prep|of adj|fiction&dn-AL
+	n|tableau .
+%gra:	1|10|COM 2|1|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|MOD 7|5|POBJ 8|10|COORD
+	9|10|DET 10|0|INCROOT 11|10|NJCT 12|13|DET 13|11|POBJ 14|15|INF
+	15|10|XJCT 16|17|DET 17|15|JCT 18|17|JCT 19|20|MOD 20|18|POBJ 21|10|PUNCT
+*S1:	I wanna show you one other work (.) by Nagatani &-uh +...
+%mor:	pro:sub|I v|want~inf|to v|show pro:per|you pro:indef|one qn|other
+	n|work prep|by n:prop|Nagatani +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|SUBJ 6|4|COMP 7|8|QUANT 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|2|PUNCT
+*S1:	this is called Japanese American Concentration Camps (.) Manzanar
+	(.) nineteen ninety four (.) a color photograph .
+%mor:	pro:dem|this aux|be&3S part|call-PASTP n:prop|Japanese
+	n:prop|American n:prop|Concentration n:prop|Camps n:prop|Manzanar
+	det:num|nineteen det:num|ninety det:num|four det:art|a n|color
+	photo#n|graph .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|6|NAME 6|3|OBJ 7|8|NAME 8|6|CONJ
+	9|11|DATE 10|11|DATE 11|13|QUANT 12|13|DET 13|14|MOD 14|8|COORD 15|3|PUNCT
+*S1:	and (.) so this is late eighties this is sort_of mid nineties on
+	the right hand side .
+%mor:	coord|and adv|so pro:dem|this cop|be&3S adv|late n|eighty-PL
+	pro:dem|this cop|be&3S adv|sort_of adj|mid n|ninety-PL prep|on
+	det:art|the adj|right n|hand n|side .
+%gra:	1|4|LINK 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|7|JCT 6|7|MOD 7|8|SUBJ 8|4|PRED
+	9|10|JCT 10|11|MOD 11|8|PRED 12|8|JCT 13|16|DET 14|15|MOD 15|16|MOD
+	16|12|POBJ 17|4|PUNCT
+*S1:	so in this work on the left with [/] &i with his nuclear
+	enchantment series he's working (.) very much in the kind of [/] of
+	vocabulary that is often associated with postmodernism .
+%mor:	adv|so prep|in det:dem|this n|work prep|on det:art|the adj|left
+	prep|with det:poss|his adj|nuclear n|enchant&dv-MENT n|series
+	pro:sub|he~aux|be&3S part|work-PRESP adv|very adv|much prep|in
+	det:art|the n|kind prep|of n|vocabulary pro:rel|that aux|be&3S
+	adv|often part|associate-PASTP prep|with post#n|modern&dadj-ISM .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|7|JCT
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|POBJ 13|15|SUBJ 14|15|AUX 15|12|CMOD
+	16|17|JCT 17|15|JCT 18|15|JCT 19|20|DET 20|18|POBJ 21|20|NJCT 22|21|POBJ
+	23|26|LINK 24|26|AUX 25|26|JCT 26|22|CMOD 27|26|JCT 28|27|POBJ 29|2|PUNCT
+*S1:	&-um this idea of (.) on the one hand &-uh appropriation but the
+	different layering of different kinds of artistic (.) gesture (.) &a
+	and technique building models and creating this whole sort_of
+	fictionalized tableau .
+%mor:	det:dem|this n|idea prep|of adv|on det:art|the det:num|one n|hand
+	n|appropriate&dv-TION conj|but det:art|the adj|different
+	n:gerund|layer-PRESP prep|of adj|different n|kind-PL prep|of
+	adj|artistic n|gesture coord|and n|technique n|building n|model-PL
+	coord|and part|create-PRESP det:dem|this adj|whole adv|sort_of
+	part|fiction-AL-IZE-PASTP n|tableau .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|8|DET 6|7|QUANT 7|8|MOD 8|2|APP
+	9|2|CONJ 10|11|DET 11|9|COORD 12|11|XMOD 13|12|JCT 14|15|MOD 15|13|POBJ
+	16|15|NJCT 17|18|MOD 18|16|POBJ 19|18|CONJ 20|22|MOD 21|22|MOD
+	22|19|COORD 23|12|CONJ 24|23|COORD 25|26|DET 26|24|JCT 27|28|JCT 28|26|CMOD
+	29|28|OBJ 30|2|PUNCT
+*S1:	but on the right hand side in this work (.) he instead is using (.)
+	unmanipulated color landscape (.) images and this becomes part of
+	another series another portfolio (.) called &-uh Japanese American
+	Concentration Camps and (.) just briefly (.) to mention &-uh the
+	sort_of background behind this piece (.) his &-um parents who you
+	see here (.) and there (.) during World War Two had been
+	incarcerated in internment camps &-uh his father in Arkansas and his
+	mother in Manzanar in California .
+%mor:	conj|but prep|on det:art|the n|right n|hand n|side prep|in
+	det:dem|this n|work pro:sub|he adv|instead aux|be&3S part|use-PRESP
+	un#part|manipulate-PASTP n|color n|landscape n|image-PL coord|and
+	pro:dem|this cop|become-3S n|part prep|of qn|another n|series
+	qn|another n|portfolio v|call-PAST n:prop|Japanese n:prop|American
+	n:prop|Concentration n:prop|Camps coord|and adv|just
+	adv|brief&dadj-LY inf|to v|mention det:art|the adv|sort_of
+	n|background adv|behind det:dem|this n|piece det:poss|his
+	n|parent-PL pro:rel|who pro:per|you co|see adv|here coord|and
+	adv|there prep|during n:prop|World n:prop|War n:prop|Two v|have&PAST
+	aux|be&PASTP part|incarcerate-PASTP prep|in n|intern&dv-MENT
+	v|camp-3S det:poss|his n|father prep|in n:prop|Arkansas coord|and
+	det:poss|his n|mother prep|in n:prop|Manzanar prep|in
+	n:prop|California .
+%gra:	1|13|LINK 2|1|JCT 3|6|DET 4|5|MOD 5|6|MOD 6|2|POBJ 7|13|JCT 8|9|DET
+	9|7|POBJ 10|13|SUBJ 11|13|JCT 12|13|AUX 13|27|CJCT 14|17|MOD 15|17|MOD
+	16|17|MOD 17|13|OBJ 18|20|LINK 19|20|SUBJ 20|13|CJCT 21|20|PRED 22|21|NJCT
+	23|24|QUANT 24|22|POBJ 25|26|QUANT 26|27|SUBJ 27|0|ROOT 28|29|MOD
+	29|31|NAME 30|31|NAME 31|36|SUBJ 32|31|CONJ 33|34|JCT 34|32|COORD 35|36|INF
+	36|27|COMP 37|39|DET 38|39|JCT 39|36|OBJ 40|42|JCT 41|42|DET 42|39|CMOD
+	43|44|DET 44|42|OBJ 45|44|POSTMOD 46|45|OBJ 47|46|COM 48|47|JCT 49|48|CONJ
+	50|49|COORD 51|50|JCT 52|51|POBJ 53|54|NAME 54|55|SUBJ 55|51|CPOBJ
+	56|57|AUX 57|55|COMP 58|57|JCT 59|58|POBJ 60|57|XJCT 61|62|DET 62|60|OBJ
+	63|60|JCT 64|63|POBJ 65|60|CONJ 66|67|DET 67|65|COORD 68|67|NJCT 69|68|POBJ
+	70|69|NJCT 71|70|POBJ 72|27|PUNCT
+*S1:	and (.) along with (.) basically the rest of the population of
+	Japanese descent along the west coast of the United States .
+%mor:	coord|and adv|along prep|with adv|basic&dadj-AL-LY det:art|the
+	n|rest prep|of det:art|the n|populate&dv-TION prep|of
+	n:prop|Japanese n|descent prep|along det:art|the adj|west n|coast
+	prep|of det:art|the n:prop|United n:prop|States .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|MOD 12|10|POBJ 13|6|NJCT 14|16|DET 15|16|MOD
+	16|13|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|6|APP 21|3|PUNCT
+*S1:	this is after the bombing of Pearl Harbor .
+%mor:	pro:dem|this cop|be&3S prep|after det:art|the n:gerund|bomb-PRESP
+	prep|of n:prop|Pearl n:prop|Harbor .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|8|NAME 8|6|POBJ
+	9|2|PUNCT
+*S1:	and Nagatani who [?] grew up not knowing or hearing very much about
+	(.) this experience of incarceration +//.
+%mor:	coord|and n:prop|Nagatani pro:rel|who v|grow&PAST adv|up neg|not
+	part|know-PRESP coord|or part|hear-PRESP adv|very adv|much
+	prep|about det:dem|this n|experience prep|of n|incarcerate&dv-TION
+	+//.
+%gra:	1|0|INCROOT 2|1|COORD 3|4|LINK 4|2|CMOD 5|4|JCT 6|7|NEG 7|4|XJCT
+	8|7|CONJ 9|8|COORD 10|11|JCT 11|9|JCT 12|9|JCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|15|POBJ 17|1|PUNCT
+*S1:	he was born just after the war .
+%mor:	pro:sub|he cop|be&PAST&13S adj|born adv|just prep|after det:art|the
+	n|war .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*S1:	decided in the nineties to &s go back to these sites (.) and
+	photograph the remains of these camps .
+%mor:	v|decide-PAST prep|in det:art|the n|ninety-PL inf|to v|go adv|back
+	prep|to det:dem|these n|site-PL coord|and v|photograph det:art|the
+	n:pt|remains prep|of det:dem|these n|camp-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|6|INF 6|1|XJCT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|CONJ 12|11|COORD 13|14|DET 14|12|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|1|PUNCT
+*S1:	decided to make a kind_of connection to (.) this experience of [/]
+	&i of not only his parents but of &-uh Japanese Americans in this
+	country , a really sort_of &-uh incredibly important (.) experience
+	.
+%mor:	v|decide-PAST inf|to v|make det:art|a adv|kind_of n|connection
+	prep|to det:dem|this n|experience prep|of neg|not adv|only
+	det:poss|his n|parent-PL conj|but prep|of n:prop|Japanese
+	n:prop|Americans prep|in det:dem|this n|country cm|cm det:art|a
+	adv|real&dadj-LY adv|sort_of in#adj|credible-Y adj|important
+	n|experience .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|6|DET 5|6|JCT 6|3|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|NEG 12|14|JCT 13|14|DET 14|10|POBJ 15|6|CONJ
+	16|15|NJCT 17|18|NAME 18|16|POBJ 19|15|COORD 20|21|DET 21|19|POBJ 22|19|LP
+	23|25|DET 24|25|JCT 25|28|JCT 26|28|MOD 27|28|MOD 28|19|POBJ 29|1|PUNCT
+*S1:	and so he goes back to those sites and you can see (.) in the image
+	on the right (.) Manzanar's located in southern California +//.
+%mor:	coord|and co|so pro:sub|he v|go-3S adv|back prep|to det:dem|those
+	n|site-PL coord|and pro:per|you mod|can v|see prep|in det:art|the
+	n|image prep|on det:art|the adj|right adj|Manzanar&dn-POSS
+	v|locate-PAST prep|in adj|southern n:prop|California +//.
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|4|CJCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|20|JCT 17|19|DET 18|19|MOD 19|20|SUBJ 20|12|CJCT 21|20|JCT 22|23|MOD
+	23|21|POBJ 24|4|PUNCT
+*S1:	maybe some of you have been there .
+%mor:	adv|maybe qn|some prep|of pro:per|you v|have aux|be&PASTP adv|there
+	.
+%gra:	1|0|INCROOT 2|1|PUNCT 3|2|NJCT 4|3|POBJ 5|3|POBJ 6|5|INCROOT 7|6|JCT
+	8|6|PUNCT
+*S1:	it's it +//.
+%mor:	pro:per|it~cop|be&3S pro:per|it +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*S1:	you can go visit it now .
+%mor:	pro:per|you mod|can v|go v|visit pro:per|it adv|now .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SRL 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*S1:	it's about two hundred and fifty miles northeast of Los Angeles .
+%mor:	pro:per|it~cop|be&3S adv|about det:num|two det:num|hundred
+	coord|and det:num|fifty n|mile-PL adj|northeast prep|of n:prop|Los
+	n:prop|Angeles .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|QUANT 5|2|PRED 6|2|CONJ 7|8|QUANT
+	8|6|COORD 9|8|PRED 10|9|JCT 11|12|NAME 12|10|POBJ 13|2|PUNCT
+*S1:	and in the background you can see really dramatic mountains in the
+	foreground (.) these stone steps &-um and if you go there you see
+	a_lot_of (.) sort_of ruins of remains of (.) the incarcerated
+	population who was held there in the nineteen forties &-uh including
+	his mother .
+%mor:	coord|and prep|in det:art|the n|background pro:per|you mod|can
+	v|see adv|real&dadj-LY adj|dramatic n|mountain-PL prep|in
+	det:art|the n|foreground det:dem|these n|stone n|step-PL coord|and
+	conj|if pro:per|you v|go adv|there pro:per|you v|see qn|a_lot_of
+	adv|sort_of v|ruin-3S prep|of v|remain-3S prep|of det:art|the
+	part|incarcerate-PASTP n|populate&dv-TION pro:rel|who
+	aux|be&PAST&13S part|hold&PASTP adv|there prep|in det:art|the
+	det:num|nineteen n|forty-PL part|include-PRESP det:poss|his n|mother
+	.
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|JCT
+	9|10|MOD 10|7|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|16|DET 15|16|MOD
+	16|10|APP 17|23|LINK 18|20|LINK 19|20|SUBJ 20|23|CJCT 21|20|JCT 22|23|SUBJ
+	23|10|CJCT 24|25|QUANT 25|23|JCT 26|23|COMP 27|26|JCT 28|27|POBJ 29|28|JCT
+	30|32|DET 31|32|MOD 32|29|POBJ 33|35|LINK 34|35|AUX 35|32|CMOD
+	36|35|JCT 37|35|JCT 38|40|DET 39|40|QUANT 40|37|POBJ 41|35|XJCT 42|43|DET
+	43|41|OBJ 44|7|PUNCT
+*S1:	so (.) these idea this these ruined steps that [/] &i that lead
+	really to nowhere (.) right (.) so you get this kind of eerie &-um
+	idea of [/] of this past crime this sort_of past (.) purpose that
+	this land was put to .
+%mor:	co|so det:dem|these n|idea det:dem|this det:dem|these
+	part|ruin-PASTP n|step-PL det:dem|that n|lead adv|real&dadj-LY
+	prep|to adv|nowhere adj|right co|so pro:per|you v|get det:dem|this
+	adj|kind prep|of adj|eerie n|idea prep|of det:dem|this adj|past
+	n|crime pro:dem|this adv|sort_of adj|past n|purpose adv|that
+	det:dem|this n|land aux|be&PAST&13S part|put&PASTP inf|to .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|7|DET 5|7|DET 6|7|MOD 7|3|ENUM 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|10|JCT 12|14|JCT 13|14|JCT 14|16|COM 15|16|SUBJ
+	16|11|CPOBJ 17|26|DET 18|26|MOD 19|18|JCT 20|21|MOD 21|19|POBJ 22|21|NJCT
+	23|25|DET 24|25|MOD 25|22|POBJ 26|16|COMP 27|28|JCT 28|29|MOD 29|34|SUBJ
+	30|34|JCT 31|32|DET 32|34|SUBJ 33|34|AUX 34|26|COMP 35|34|OBJ 36|3|PUNCT
+*S1:	and again (.) it's a &ver stylistically very different practice
+	than what's going on (.) in his earlier work on (.) the left .
+%mor:	coord|and adv|again pro:per|it~cop|be&3S det:art|a
+	adv|stylistic&dadj-AL-LY adv|very adj|different n|practice prep|than
+	pro:int|what~aux|be&3S part|go-PRESP adv|on prep|in det:poss|his
+	adj|early-CP n|work prep|on det:art|the adj|left .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|9|DET 6|8|JCT 7|8|JCT 8|9|MOD
+	9|4|PRED 10|9|NJCT 11|13|LINK 12|13|AUX 13|10|CPOBJ 14|13|JCT 15|13|JCT
+	16|18|DET 17|18|MOD 18|15|POBJ 19|18|NJCT 20|21|DET 21|19|POBJ 22|4|PUNCT
+*S1:	but (.) I don't think we need to think about postmodernism again .
+%mor:	conj|but pro:sub|I mod|do~neg|not v|think pro:sub|we v|need inf|to
+	v|think prep|about post#n|modern&dadj-ISM adv|again .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|7|CJCT 6|7|SUBJ 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|JCT 11|10|POBJ 12|11|JCT 13|7|PUNCT
+*S1:	the trap is to think about [/] &i about it purely in sort_of
+	stylistic terms .
+%mor:	det:art|the n|trap cop|be&3S inf|to v|think prep|about pro:per|it
+	adv|pure&dadj-LY adv|in adv|sort_of adj|stylistic n|term-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|CPRED 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|5|JCT 10|11|JCT 11|12|MOD 12|5|JCT 13|3|PUNCT
+*S1:	and instead I think we need to open it up and think a little bit
+	(.) about more &-uh in terms of meaning and in terms of content in
+	terms of purpose .
+%mor:	coord|and adv|instead pro:sub|I v|think pro:sub|we v|need inf|to
+	v|open pro:per|it adv|up coord|and v|think det:art|a adj|little
+	n|bit adv|about adv|more prep|in n|term-PL prep|of n|meaning
+	coord|and prep|in n|term-PL prep|of adj|content prep|in n|term-PL
+	prep|of n|purpose .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|INF 8|6|COMP
+	9|8|OBJ 10|8|JCT 11|8|CONJ 12|11|COORD 13|15|DET 14|15|MOD 15|12|OBJ
+	16|17|JCT 17|15|NJCT 18|17|JCT 19|18|POBJ 20|19|NJCT 21|20|POBJ 22|17|CONJ
+	23|22|COORD 24|23|POBJ 25|24|NJCT 26|25|POBJ 27|26|JCT 28|27|POBJ
+	29|28|NJCT 30|29|POBJ 31|4|PUNCT
+*S1:	so with the image on the right and with that body of work he seems
+	to be coming (.) trying to come to terms (.) with this certain &-uh
+	traumatic event of the past .
+%mor:	adv|so prep|with det:art|the n|image prep|on det:art|the adj|right
+	coord|and prep|with det:dem|that n|body prep|of n|work pro:sub|he
+	cop|seem-3S inf|to aux|be part|come-PRESP part|try-PRESP inf|to
+	v|come prep|to n|term-PL prep|with det:dem|this adj|certain
+	adj|traumatic n|event prep|of det:art|the adj|past .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|DET 4|2|POBJ 5|4|NJCT 6|15|DET 7|15|JCT
+	8|7|CONJ 9|8|COORD 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|15|SUBJ
+	15|5|POBJ 16|18|INF 17|18|AUX 18|15|XMOD 19|18|XJCT 20|21|INF 21|19|COMP
+	22|21|JCT 23|22|POBJ 24|21|JCT 25|28|DET 26|28|MOD 27|28|MOD 28|24|POBJ
+	29|28|NJCT 30|31|DET 31|29|POBJ 32|2|PUNCT
+*S1:	&-um as in a sense he's doing with the nuclear history of New
+	Mexico as Boltanski is doing (.) in (.) the work that we saw (.)
+	just a couple slides before .
+%mor:	conj|as prep|in det:art|a n|sense pro:sub|he~aux|be&3S
+	part|do-PRESP prep|with det:art|the adj|nuclear n|history prep|of
+	n:prop|New n:prop|Mexico conj|as n:prop|Boltanski aux|be&3S
+	part|do-PRESP prep|in det:art|the n|work pro:rel|that pro:sub|we
+	v|see&PAST adv|just det:art|a qn|couple n|slide-PL adv|before .
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|NJCT 13|12|POBJ 14|11|APP 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|7|CJCT 19|18|JCT 20|21|DET 21|19|POBJ 22|24|LINK
+	23|24|SUBJ 24|21|CMOD 25|27|JCT 26|27|DET 27|28|QUANT 28|24|OBJ 29|28|NJCT
+	30|7|PUNCT
+*S1:	and at the same time he's also (.) Nagatani on the right in
+	particular (.) is focusing &-uh although it seems (.) maybe not so
+	overtly because he's using landscape but really focusing on the
+	politics (.) of identity .
+%mor:	coord|and prep|at det:art|the adj|same n|time pro:sub|he~cop|be&3S
+	adv|also n:prop|Nagatani prep|on det:art|the adj|right prep|in
+	n|particular aux|be&3S part|focus-PRESP conj|although pro:per|it
+	cop|seem-3S adv|maybe neg|not adv|so adv|overt&dadj-LY conj|because
+	pro:sub|he~aux|be&3S part|use-PRESP n|landscape conj|but
+	adv|real&dadj-LY part|focus-PRESP prep|on det:art|the n:pt|politics
+	prep|of n|identity .
+%gra:	1|7|LINK 2|7|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|SUBJ 7|0|ROOT 8|9|JCT
+	9|7|PRED 10|9|NJCT 11|16|DET 12|16|JCT 13|12|JCT 14|13|POBJ 15|16|AUX
+	16|10|POBJ 17|19|LINK 18|19|SUBJ 19|7|CJCT 20|19|JCT 21|19|NEG 22|23|JCT
+	23|19|JCT 24|27|LINK 25|27|SUBJ 26|27|AUX 27|19|CJCT 28|27|OBJ 29|27|CONJ
+	30|31|JCT 31|29|COORD 32|31|JCT 33|34|DET 34|32|POBJ 35|34|NJCT 36|35|POBJ
+	37|7|PUNCT
+*S1:	right of looking back into his past &-uh and into the past of all
+	&-uh Japanese Americans in this country (.) and this kind of shared
+	&-uh traumatic experience that they endured during the Second World
+	War .
+%mor:	adv|right prep|of part|look-PRESP adv|back prep|into det:poss|his
+	adj|past coord|and prep|into det:art|the adj|past prep|of qn|all
+	n:prop|Japanese n:prop|Americans prep|in det:dem|this n|country
+	coord|and det:dem|this adj|kind prep|of part|share-PASTP
+	adj|traumatic n|experience pro:rel|that pro:sub|they v|endure-PAST
+	prep|during det:art|the n:prop|Second n:prop|World n:prop|War .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|POBJ 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|7|CONJ
+	9|8|COORD 10|11|DET 11|9|POBJ 12|11|NJCT 13|14|QUANT 14|15|NAME
+	15|12|POBJ 16|15|NJCT 17|18|DET 18|16|POBJ 19|7|CONJ 20|21|DET 21|19|COORD
+	22|21|JCT 23|22|POBJ 24|25|MOD 25|23|OBJ 26|28|LINK 27|28|SUBJ 28|25|CMOD
+	29|28|JCT 30|31|DET 31|33|NAME 32|33|NAME 33|29|POBJ 34|2|PUNCT
+*S1:	&=pause_while_waiting_for_slide Djuum .
+%mor:	n:prop|Djuum .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*S1:	I'm sure you all know her .
+%mor:	pro:sub|I~cop|be&1S adj|sure pro:per|you adv|all v|know pro:obj|her
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|SUBJ 5|6|JCT 6|3|CMOD 7|6|OBJ 8|2|PUNCT
+*S1:	I'm sure you all know her well here we have Cindy Sherman .
+%mor:	pro:sub|I~cop|be&1S adj|sure pro:per|you adv|all v|know pro:obj|her
+	adv|well adv|here pro:sub|we v|have n:prop|Cindy n:prop|Sherman .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|SUBJ 5|6|JCT 6|3|CMOD 7|6|OBJ 8|6|JCT
+	9|6|JCT 10|11|SUBJ 11|6|COMP 12|13|NAME 13|11|OBJ 14|2|PUNCT
+*S1:	Cindy Sherman one of the most &-uh well known artists (.) who
+	really comes to prominence in the nineteen eighties (.) these are
+	two of her &un untitled film stills (.) from the late seventies .
+%mor:	n:prop|Cindy n:prop|Sherman pro:indef|one prep|of det:art|the
+	qn|most n|well part|know&PASTP n|art-IST-PL pro:rel|who
+	adv|real&dadj-LY v|come-3S prep|to n|prominence prep|in det:art|the
+	det:num|nineteen n|eighty-PL pro:dem|these cop|be&PRES det:num|two
+	prep|of det:poss|her un#part|title-PASTP n|film v|still-3S prep|from
+	det:art|the adv|late n|seventy-PL .
+%gra:	1|2|NAME 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|7|DET 6|7|QUANT 7|4|POBJ 8|3|XJCT
+	9|8|OBJ 10|12|LINK 11|12|JCT 12|9|CMOD 13|12|JCT 14|13|POBJ 15|14|NJCT
+	16|18|DET 17|18|QUANT 18|15|POBJ 19|20|SUBJ 20|12|CJCT 21|20|PRED
+	22|21|NJCT 23|26|DET 24|26|LINK 25|26|SUBJ 26|22|POBJ 27|26|JCT 28|30|DET
+	29|30|MOD 30|27|POBJ 31|2|PUNCT
+*S1:	two untitled film stills from the late seventies .
+%mor:	det:num|two un#part|title-PASTP n|film v|still-3S prep|from
+	det:art|the adv|late n|seventy-PL .
+%gra:	1|3|QUANT 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*S1:	and we see here +//.
+%mor:	coord|and pro:sub|we v|see adv|here +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*S1:	and as we'll continue &-um next week (.) we'll look a little bit
+	(.) at Sherman at &-uh other (.) women artists in the eighties
+	Barbara Kruger Lorna Simpson (.) and the Gorilla Girls .
+%mor:	coord|and prep|as pro:sub|we~mod|will v|continue adj|next n|week
+	pro:sub|we~mod|will v|look det:art|a adj|little n|bit prep|at
+	n:prop|Sherman prep|at qn|other n|woman&PL n|art-IST-PL prep|in
+	det:art|the n|eighty-PL n:prop|Barbara n:prop|Kruger n:prop|Lorna
+	n:prop|Simpson coord|and det:art|the n:prop|Gorilla n:prop|Girls .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|MOD 7|5|OBJ 8|10|SUBJ
+	9|10|AUX 10|7|CMOD 11|13|DET 12|13|MOD 13|10|OBJ 14|13|NJCT 15|14|POBJ
+	16|13|NJCT 17|18|QUANT 18|19|MOD 19|16|POBJ 20|19|NJCT 21|22|DET
+	22|20|POBJ 23|24|NAME 24|25|NAME 25|26|NAME 26|30|NAME 27|26|CONJ 28|29|DET
+	29|27|COORD 30|13|APP 31|5|PUNCT
+*S1:	and we'll think about how (.) these strategies of (.) photographic
+	appropriation (.) and the construction of (.) the tableau the
+	sort_of fictionalized photograph (.) how those these artists in
+	particular are using these strategies to on the one hand (.) again
+	comment on the politics of identity (.) but also do so particularly
+	on (.) the role and the representation of women .
+%mor:	coord|and pro:sub|we~mod|will v|think prep|about pro:int|how
+	det:dem|these n|strategy-PL prep|of photo#adj|graphic
+	n|appropriate&dv-TION coord|and det:art|the n|construction prep|of
+	det:art|the n|tableau det:art|the adv|sort_of
+	part|fiction-AL-IZE-PASTP v|photograph pro:int|how det:dem|those
+	det:dem|these n|art-IST-PL prep|in n|particular aux|be&PRES
+	part|use-PRESP det:dem|these n|strategy-PL inf|to prep|on
+	det:art|the det:num|one n|hand adv|again v|comment prep|on
+	det:art|the n:pt|politics prep|of n|identity conj|but adv|also v|do
+	adv|so adv|particular&dadj-LY prep|on det:art|the n|role coord|and
+	det:art|the n|represent&dv-TION prep|of n|woman&PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|LINK 7|8|DET 8|5|CPOBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|8|CONJ 13|14|DET 14|12|COORD 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|8|INCROOT 19|18|JCT 20|19|CPOBJ 21|20|OBJ
+	22|29|LINK 23|25|DET 24|25|DET 25|29|SUBJ 26|25|NJCT 27|26|POBJ 28|29|AUX
+	29|21|COMP 30|31|DET 31|29|OBJ 32|33|INF 33|38|JCT 34|36|DET 35|36|QUANT
+	36|33|POBJ 37|38|JCT 38|31|CMOD 39|38|JCT 40|41|DET 41|39|POBJ 42|41|NJCT
+	43|42|POBJ 44|38|CONJ 45|46|JCT 46|44|COORD 47|48|JCT 48|46|JCT 49|46|JCT
+	50|51|DET 51|49|POBJ 52|46|CONJ 53|54|DET 54|52|COORD 55|54|NJCT
+	56|55|POBJ 57|18|PUNCT
+*S1:	so have an excellent weekend and I'll see you on Monday .
+%mor:	adv|so v|have det:art|a adj|excellent n|+n|week+n|end coord|and
+	pro:sub|I~mod|will v|see pro:per|you prep|on n:prop|Monday .
+%gra:	1|2|JCT 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|2|CJCT 10|9|OBJ 11|9|JCT 12|11|POBJ 13|2|PUNCT
+@End
